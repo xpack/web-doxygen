@@ -1,0 +1,171 @@
+{
+  "type": "category",
+  "label": "Manual",
+  "link": {
+    "type": "doc",
+    "id": "manual/index"
+  },
+  "collapsed": false,
+  "items": [
+    {
+      "type": "doc",
+      "label": "Installation",
+      "id": "manual/pages/install"
+    },
+    {
+      "type": "doc",
+      "label": "Getting started",
+      "id": "manual/pages/starting"
+    },
+    {
+      "type": "doc",
+      "label": "Documenting the code",
+      "id": "manual/pages/docblocks"
+    },
+    {
+      "type": "doc",
+      "label": "Additional Documentation",
+      "id": "manual/pages/additional"
+    },
+    {
+      "type": "doc",
+      "label": "Markdown support",
+      "id": "manual/pages/markdown"
+    },
+    {
+      "type": "doc",
+      "label": "Lists",
+      "id": "manual/pages/lists"
+    },
+    {
+      "type": "doc",
+      "label": "Grouping",
+      "id": "manual/pages/grouping"
+    },
+    {
+      "type": "doc",
+      "label": "Including formulas",
+      "id": "manual/pages/formulas"
+    },
+    {
+      "type": "doc",
+      "label": "Including tables",
+      "id": "manual/pages/tables"
+    },
+    {
+      "type": "doc",
+      "label": "Graphs and diagrams",
+      "id": "manual/pages/diagrams"
+    },
+    {
+      "type": "doc",
+      "label": "Preprocessing",
+      "id": "manual/pages/preprocessing"
+    },
+    {
+      "type": "doc",
+      "label": "Automatic link generation",
+      "id": "manual/pages/autolink"
+    },
+    {
+      "type": "doc",
+      "label": "Output Formats",
+      "id": "manual/pages/output"
+    },
+    {
+      "type": "doc",
+      "label": "Searching",
+      "id": "manual/pages/searching"
+    },
+    {
+      "type": "doc",
+      "label": "External Indexing and Searching",
+      "id": "manual/pages/extsearch"
+    },
+    {
+      "type": "doc",
+      "label": "Customizing the output",
+      "id": "manual/pages/customize"
+    },
+    {
+      "type": "doc",
+      "label": "Custom Commands",
+      "id": "manual/pages/custcmd"
+    },
+    {
+      "type": "doc",
+      "label": "Linking to external documentation",
+      "id": "manual/pages/external"
+    },
+    {
+      "type": "doc",
+      "label": "Frequently Asked Questions",
+      "id": "manual/pages/faq"
+    },
+    {
+      "type": "doc",
+      "label": "Troubleshooting",
+      "id": "manual/pages/trouble"
+    },
+    {
+      "type": "doc",
+      "label": "Features",
+      "id": "manual/pages/features"
+    },
+    {
+      "type": "doc",
+      "label": "Doxygen usage",
+      "id": "manual/pages/doxygen-usage"
+    },
+    {
+      "type": "doc",
+      "label": "Doxywizard usage",
+      "id": "manual/pages/doxywizard-usage"
+    },
+    {
+      "type": "doc",
+      "label": "Configuration",
+      "id": "manual/pages/config"
+    },
+    {
+      "type": "doc",
+      "label": "Special Commands",
+      "id": "manual/pages/commands"
+    },
+    {
+      "type": "doc",
+      "label": "HTML Commands",
+      "id": "manual/pages/htmlcmds"
+    },
+    {
+      "type": "doc",
+      "label": "XML Commands",
+      "id": "manual/pages/xmlcmds"
+    },
+    {
+      "type": "doc",
+      "label": "Emoji support",
+      "id": "manual/pages/emojisup"
+    },
+    {
+      "type": "doc",
+      "label": "Internationalization",
+      "id": "manual/pages/langhowto"
+    },
+    {
+      "type": "doc",
+      "label": "Perl Module Output",
+      "id": "manual/pages/perlmod"
+    },
+    {
+      "type": "doc",
+      "label": "Doxygen's Internals",
+      "id": "manual/pages/arch"
+    },
+    {
+      "type": "doc",
+      "label": "Changelog",
+      "id": "manual/pages/changelog"
+    }
+  ]
+}

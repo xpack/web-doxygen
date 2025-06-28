@@ -1,32 +1,43 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import doxygenManualMenu from './docusaurus-config-menu-doxygen-manual.json'
+import doxygenApiMenu from './docusaurus-config-menu-doxygen-api.json'
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Doxygen',
+  tagline: 'Documentation generator',
   favicon: 'img/favicon.ico',
+
+  markdown: {
+    format: 'detect'
+  },
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true
+    },
+    experimental_faster: true,
   },
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://xpack.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/web-doxygen/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'xpack', // Usually your GitHub org/user name.
+  projectName: 'web-doxygen', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  // onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: true,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -40,11 +51,44 @@ const config: Config = {
     [
       '@xpack/docusaurus-plugin-doxygen',
       {
+        id: 'manual',
         doxygenXmlInputFolderPath: '../build/xml',
+        apiFolderPath: 'manual',
+        apiBaseUrl: '',
+        sidebarCategoryLabel: 'Manual',
+        menuDropdownLabel: 'Manual',
+        mainPageTitle: 'The Documentation Generator',
         verbose: false,
         debug: false
       },
     ],
+    [
+      '@xpack/docusaurus-plugin-doxygen',
+      {
+        id: 'api',
+        doxygenXmlInputFolderPath: '../build/doxygen_docs/xml',
+        apiFolderPath: 'api',
+        apiBaseUrl: 'api',
+        sidebarCategoryLabel: 'Doxygen Internals',
+        menuDropdownLabel: 'Internals',
+        mainPageTitle: 'Doxygen Internals',
+        renderProgramListing: false,
+        verbose: false,
+        debug: false
+      },
+    ],
+    function disableExpensiveBundlerOptimizationPlugin() {
+      return {
+        name: "disable-expensive-bundler-optimizations",
+        configureWebpack(_config, isServer) {
+          return {
+            optimization: {
+              concatenateModules: false,
+            },
+          };
+        },
+      };
+    },
   ],
 
   presets: [
@@ -56,7 +100,10 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xpack/web-doxygen/edit/master/website/docs/',
+          exclude: [
+            // 'api/files'
+          ]
         },
         blog: {
           showReadingTime: true,
@@ -67,14 +114,17 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xpack/web-doxygen/edit/master/website/blog/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: [
+            './src/css/custom.css',
+            './src/css/custom-docusaurus-plugin-doxygen.css'
+          ],
         },
       } satisfies Preset.Options,
     ],
@@ -84,21 +134,17 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Doxygen',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
+        doxygenManualMenu,
         {to: '/blog', label: 'Blog', position: 'left'},
+        doxygenApiMenu,
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/xpack/web-doxygen',
           label: 'GitHub',
           position: 'right',
         },
@@ -111,8 +157,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Manual',
+              to: '/docs',
+            },
+            {
+              label: 'Internal',
+              to: '/docs/api',
             },
           ],
         },
@@ -121,15 +171,15 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/questions/tagged/doxygen',
             },
             {
               label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              href: 'https://discordapp.com/invite/doxygen',
             },
             {
               label: 'X',
-              href: 'https://x.com/docusaurus',
+              href: 'https://x.com/doxygen',
             },
           ],
         },
@@ -142,7 +192,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/xpack/web-doxygen',
             },
           ],
         },
@@ -153,6 +203,7 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+
   } satisfies Preset.ThemeConfig,
 };
 

@@ -1,0 +1,20 @@
+{
+  "type": "dropdown",
+  "label": "Internals",
+  "to": "/docs/api/",
+  "position": "left",
+  "items": [
+    {
+      "label": "Namespaces",
+      "to": "/docs/api/namespaces/"
+    },
+    {
+      "label": "Classes",
+      "to": "/docs/api/classes/"
+    },
+    {
+      "label": "Files",
+      "to": "/docs/api/files/"
+    }
+  ]
+}

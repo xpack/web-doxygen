@@ -1,0 +1,40 @@
+---
+
+# DO NOT EDIT!
+# Automatically generated via docusaurus-plugin-doxygen by Doxygen.
+
+slug: /api/files/src/dotlegendgraph-cpp
+custom_edit_url: null
+keywords:
+  - doxygen
+  - reference
+  - file
+toc_max_heading_level: 4
+
+---
+
+<div class="doxyPage">
+
+# The `dotlegendgraph.cpp` File Reference
+
+
+
+## Included Headers
+
+<div class="doxyIncludesList">#include &lt;sstream&gt;
+#include "<a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/dot-h">dot.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/language-h">language.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/dotfilepatcher-h">dotfilepatcher.h</a>"
+#include "<a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>"
+</div>
+
+
+<hr/>
+
+<p class="doxyGeneratedBy">Generated via <a href="https://github.com/xpack/docusaurus-plugin-doxygen">docusaurus-plugin-doxygen</a> by <a href="https://www.doxygen.nl">Doxygen</a> 1.14.0.</p>
+
+</div>

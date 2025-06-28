@@ -1,0 +1,23 @@
+var NAVTREEINDEX0 =
+{
+"annotated.html":[1,0],
+"classes.html":[1,1],
+"classpyexample_1_1_py_class.html":[0,0,0,0],
+"classpyexample_1_1_py_class.html":[1,0,0,0],
+"classpyexample_1_1_py_class.html#a127808f42ff7c534f1b89ec630f14139":[0,0,0,0,1],
+"classpyexample_1_1_py_class.html#a127808f42ff7c534f1b89ec630f14139":[1,0,0,0,1],
+"classpyexample_1_1_py_class.html#a52fff5f5883084b3930be400ae4495a0":[0,0,0,0,2],
+"classpyexample_1_1_py_class.html#a52fff5f5883084b3930be400ae4495a0":[1,0,0,0,2],
+"classpyexample_1_1_py_class.html#ac453f98ee6fbd41496b5c864bda1af21":[0,0,0,0,0],
+"classpyexample_1_1_py_class.html#ac453f98ee6fbd41496b5c864bda1af21":[1,0,0,0,0],
+"functions.html":[1,2,0],
+"functions_func.html":[1,2,1],
+"functions_vars.html":[1,2,2],
+"index.html":[],
+"namespacemembers.html":[0,1,0],
+"namespacemembers_func.html":[0,1,1],
+"namespacepyexample.html":[0,0,0],
+"namespacepyexample.html#a0cf7bc742671b4c79ce88c87373d7969":[0,0,0,1],
+"namespaces.html":[0,0],
+"pages.html":[]
+};
