@@ -167,7 +167,7 @@ class VHDLCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-h/#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01632">1632</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line 1632 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -212,7 +212,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-h/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01641">1641</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line 1641 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -327,7 +327,7 @@ Reference <a href="#aee0b22f354554d52e83f05579caca3f1">p</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01651">1651</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line 1651 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -476,7 +476,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01646">1646</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>, definition at line 1646 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -519,7 +519,7 @@ Referenced by <a href="#a49ff704e68bb7562a054bd1c7f8bba09">parseCode</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-h">vhdlcode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

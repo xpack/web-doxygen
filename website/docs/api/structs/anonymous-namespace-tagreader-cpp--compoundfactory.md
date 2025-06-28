@@ -121,7 +121,7 @@ struct anonymous_namespace{tagreader.cpp}::CompoundFactory { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l01089">1089</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 1089 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -162,7 +162,7 @@ struct anonymous_namespace{tagreader.cpp}::CompoundFactory { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l01090">1090</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 1090 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -200,7 +200,7 @@ References <a href="#ae5cec2e1a4a245a468ff72abc31850ca">make&#95;instance</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l01092">1092</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 1092 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -232,7 +232,7 @@ Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l01091">1091</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 1091 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

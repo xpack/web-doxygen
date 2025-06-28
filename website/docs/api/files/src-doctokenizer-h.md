@@ -206,7 +206,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -282,7 +282,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -342,7 +342,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -372,7 +372,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -402,7 +402,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -453,7 +453,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
 
 <div class="doxyProgramListing">
 

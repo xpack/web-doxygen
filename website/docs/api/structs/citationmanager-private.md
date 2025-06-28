@@ -96,7 +96,7 @@ struct CitationManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ struct CitationManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ struct CitationManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

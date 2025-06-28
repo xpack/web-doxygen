@@ -107,7 +107,7 @@ struct SearchIndex::URLInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/searchindex-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -145,7 +145,7 @@ References <a href="#af9516c8ecc97743dd0eacc7268b3d783">freq</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/searchindex-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ Referenced by <a href="#a62d6f5edae4cf8c7c58c1c07f4440654">URLInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/searchindex-h/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
 
 <div class="doxyProgramListing">
 

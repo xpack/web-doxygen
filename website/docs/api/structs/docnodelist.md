@@ -136,7 +136,7 @@ struct DocNodeList { ... }
 <div class="doxyMemberDoc">
 <p>Append a new <a href="/web-doxygen/docs/api/files/src/docnode-h/#a15a8494c4d80bb52db036d2fb5e9e9f8">DocNodeVariant</a> to the list by constructing it with type T and parameters Args.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00124">124</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -184,7 +184,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 <div class="doxyMemberDoc">
 <p>Returns a pointer to the last element in the list if that element exists and holds a T, otherwise nullptr is returned.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -224,7 +224,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 
 <p>List <em>l</em> will become empty.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#l00816">816</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+<p>Declaration at line 128 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 816 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

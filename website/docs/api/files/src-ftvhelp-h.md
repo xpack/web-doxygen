@@ -128,7 +128,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 

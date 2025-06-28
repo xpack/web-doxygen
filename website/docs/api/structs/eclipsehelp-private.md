@@ -172,7 +172,7 @@ struct EclipseHelp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -216,7 +216,7 @@ References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/we
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -259,7 +259,7 @@ References <a href="#a2cc427c7e4f82ae438d2e3c1513f5d15">depth</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -305,7 +305,7 @@ References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/we
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -337,7 +337,7 @@ Referenced by <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -369,7 +369,7 @@ Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -401,7 +401,7 @@ Referenced by <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -431,7 +431,7 @@ Referenced by <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

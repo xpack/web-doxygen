@@ -120,7 +120,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00009">9</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 

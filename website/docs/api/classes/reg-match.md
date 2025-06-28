@@ -328,7 +328,7 @@ class reg::Match { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00191">191</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -373,7 +373,7 @@ Referenced by <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.
 <div class="doxyMemberDoc">
 <p>Creates an empty match object.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -417,7 +417,7 @@ Referenced by <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.
 
 <p>Note that there is always 1 <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object representing the whole match.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -460,7 +460,7 @@ Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m&#95;subMatches</a>.
 <div class="doxyMemberDoc">
 <p>Returns the position of the match or std::string::npos if no length is set.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -499,7 +499,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 <p>Returns the position of the match or std::string::npos if no position is set.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -538,7 +538,7 @@ Referenced by <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a> and <a hre
 <div class="doxyMemberDoc">
 <p>Return the part of the string before the match.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00168">168</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -575,7 +575,7 @@ References <a href="#a41c4cc9115ef016ff22c311f01491785">m&#95;str</a>, <a href="
 <div class="doxyMemberDoc">
 <p>Returns the number of sub matches available in this match.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -612,7 +612,7 @@ Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m&#95;subMatches</a>.
 <div class="doxyMemberDoc">
 <p>Return a string representing the matching part.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -651,7 +651,7 @@ Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a> and <a href=
 <div class="doxyMemberDoc">
 <p>Return the part of the string after the match.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00171">171</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -703,7 +703,7 @@ References <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -748,7 +748,7 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m&#95;captureIndex</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -792,7 +792,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00218">218</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -832,7 +832,7 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m&#95;captureIndex</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00198">198</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -880,7 +880,7 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m&#95;captureIndex</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00224">224</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -912,7 +912,7 @@ Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -944,7 +944,7 @@ Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -976,7 +976,7 @@ Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00223">223</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 

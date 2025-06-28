@@ -149,7 +149,7 @@ struct AccessStack::AccessElem { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -186,7 +186,7 @@ References <a href="#a444c35fa65e0e9b77d6f79f4987353f1">fileScope</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -224,7 +224,7 @@ References <a href="#a83782802ba91aead5ad5d189f5b7917b">expScope</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -256,7 +256,7 @@ Referenced by <a href="#ad90353fcd3b1ecc0439af1649787f684">AccessElem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -288,7 +288,7 @@ Referenced by <a href="#aab2da052bba3755c04e71b097b140e76">AccessElem</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -320,7 +320,7 @@ Referenced by <a href="#aab2da052bba3755c04e71b097b140e76">AccessElem</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -290,7 +290,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -320,7 +320,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -350,7 +350,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -394,7 +394,7 @@ toc_max_heading_level: 4
 
 <p>Returns TRUE iff node n is a child of a html list item node</p>
 
-<p>Definition at line <a href="#l00200">200</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -441,7 +441,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -488,7 +488,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00271">271</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -538,7 +538,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 
 <p>Returns TRUE iff node n is a child of a html list item node</p>
 
-<p>Definition at line <a href="#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -588,7 +588,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 <p>Returns TRUE iff node n is a child of a ordered html list node</p>
 
-<p>Definition at line <a href="#l00231">231</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -642,7 +642,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 <p>Returns TRUE iff node n is a child of a preformatted node</p>
 
-<p>Definition at line <a href="#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -689,7 +689,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1da
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00247">247</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -739,7 +739,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 
 <p>Returns TRUE iff node n is a child of a unordered html list node</p>
 
-<p>Definition at line <a href="#l00214">214</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -790,7 +790,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
 
 <div class="doxyProgramListing">
 

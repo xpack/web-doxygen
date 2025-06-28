@@ -127,7 +127,7 @@ struct SourceLinkInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/outputgen-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -159,7 +159,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/outputgen-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -191,7 +191,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/outputgen-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -223,7 +223,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/outputgen-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -255,7 +255,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/outputgen-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

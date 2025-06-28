@@ -115,7 +115,7 @@ namespace PortugueseTranslatorUtils { ... }
 
 <p>Returns true if the gender of the given component is masculine in Portuguese.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-br-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -185,7 +185,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a8b33b
 
 <p>Returns true if the gender of the given component is masculine in Portuguese.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-br-h/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -245,7 +245,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a9a15f
 
 <p>Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-br-h/#l00153">153</a> of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -302,7 +302,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a67d1a
 
 <p>Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-br-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
 
 <div class="doxyProgramListing">
 

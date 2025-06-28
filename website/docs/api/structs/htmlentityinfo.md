@@ -193,7 +193,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -223,7 +223,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -253,7 +253,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -283,7 +283,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -313,7 +313,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -343,7 +343,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -373,7 +373,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -403,7 +403,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -433,7 +433,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -463,7 +463,7 @@ struct HtmlEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -1320,7 +1320,7 @@ class QCString { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00133">133</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1361,7 +1361,7 @@ class QCString { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 Referenced by <a href="#a8f0a381fdae1427b1182baf0abde21e7">append</a>, <a href="#a303cf8f6a8f57a92e3bda9423ca643aa">append</a>, <a href="#a4fdaff21dfb70be75af14aed604e721b">append</a>, <a href="#a747c5c5f38d0e2e43ac2716fd7413247">append</a>, <a href="#a6bc397b8b45d77dbdb45a921ee40ff68">append</a>, <a href="#a320d19fe1ec83dedf40139c185c02157">endsWith</a>, <a href="#a7227fa9c8db91de17b12305d5a6ca984">find</a>, <a href="#abecd047709be2b8eda218b76bf9c385b">insert</a>, <a href="#a0acc09ca029c0a255063a7dc610be340">insert</a>, <a href="#ae4e7678c93bacb8b7806597a8520ca54">insert</a>, <a href="#afc8c31db7525ff4aab929f6526675689">insert</a>, <a href="#aecf8b66312c4e97333219cc344c11a4f">left</a>, <a href="#a33688239622e659cfb469fbd62c9cccb">lower</a>, <a href="#a27136caf9c0bc4daca574cda6f113551">mid</a>, <a href="#a844a24565e79b45a3c0951e314408dc9">operator+=</a>, <a href="#a3f8a3c4ff3e86b352ac49ee366dc2c5c">operator+=</a>, <a href="#a39cc26ea20a11b2ef1bf77f1a8385606">operator+=</a>, <a href="#a62d42ad9cb74319f635c13328cb3eca8">operator+=</a>, <a href="#afa8d791236dd93fd013f718a91bf6bbd">operator=</a>, <a href="#a28b2434c36272cc772fd0d3a09109652">operator=</a>, <a href="#a52597e3bc7b763938231deb3a62a0dab">operator=</a>, <a href="#a1a72c5f97b350b7d062bc2f823ebad82">operator=</a>, <a href="#a0a6a8fe99e596b149ee15138fa8dcf0c">prepend</a>, <a href="#acffefc809c8b24e32df929c2985bdf48">prepend</a>, <a href="#a792b11db11f131e280229450e9ad4fba">prepend</a>, <a href="#a8270e394feda059b463a3588a41d6e5e">prepend</a>, <a href="#af428b9307683dc2c090f7d837138b438">quoted</a>, <a href="#a66f15f4dde9edaf0aac741fa7d57bae8">remove</a>, <a href="#ae5612f003ab58972eb5769811876c5e3">removeWhiteSpace</a>, <a href="#a68253ebb5d12da7c53b5b9a748259b9f">repeat</a>, <a href="#ab536413a2bab9fe536e82067a3f164ed">replace</a>, <a href="#a8f4aa5417f6a834f28c7148a1fe262d5">right</a>, <a href="#a985317d53986ff869f6200eba01da503">setNum</a>, <a href="#a96f922d046d633efe346301f9f4a2e1d">setNum</a>, <a href="#a258a420449cd4af46dca39fc4d5966ee">setNum</a>, <a href="#a87d2bfa3fcbf407c32fab784df368b2d">setNum</a>, <a href="#a26b813d24e05da8782921d21abda996f">setNum</a>, <a href="#a12ba2a3c200768b4f3b062ea80c90a20">setNum</a>, <a href="#a91737ecae84142dc8f0b224e6e3ab6b4">setNum</a>, <a href="#a9ce207a13873ddad6ceba4e7ed475736">setNum</a>, <a href="#a8d6ace0deb439b916b9f97f54a6c9cc2">simplifyWhiteSpace</a>, <a href="#aa2dccf89cb25346c3ee81d75aa5859da">sprintf</a>, <a href="#a856bdc110760824279f35a6f6f9a67a9">startsWith</a>, <a href="#a6444196e54d0b736cef5c9edd8c262d9">stripLeadingAndTrailingEmptyLines</a>, <a href="#a3524dfec9219699243b6baf0f33bd0f1">stripPrefix</a>, <a href="#af363dfe85e56f873aa3a373c70a33b24">stripPrefix</a>, <a href="#a66269a694d9e6961bfd145bb4ca72f42">stripWhiteSpace</a> and <a href="#a113ff6fe5b14585eebdcafbf2fe88cc4">upper</a>.
 </div>
@@ -1392,7 +1392,7 @@ Referenced by <a href="#a8f0a381fdae1427b1182baf0abde21e7">append</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1429,7 +1429,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1466,7 +1466,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1503,7 +1503,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00115">115</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 </div>
 </div>
 
@@ -1531,7 +1531,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 <p>For converting a JavaCC string.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00118">118</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1573,7 +1573,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1623,7 +1623,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00139">139</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1660,7 +1660,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 <p>creates a string from <em>str</em> and copies over the first <em>maxlen</em> characters.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1706,7 +1706,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 
 <p>Equivalent to <a href="#a4c8be5d062cc14919b53ff0a3c8f9a4f">at()</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00589">589</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1746,7 +1746,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00594">594</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1786,7 +1786,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00542">542</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 542 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1829,7 +1829,7 @@ Referenced by <a href="#a303cf8f6a8f57a92e3bda9423ca643aa">append</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00548">548</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1870,7 +1870,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00554">554</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 554 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1911,7 +1911,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 <p>Appends string <em>str</em> to this string and returns a reference to the result.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00561">561</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 561 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1952,7 +1952,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1992,7 +1992,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00123">123</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2034,7 +2034,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 <p>replaces the contents by that of C string <em>str</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00145">145</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2071,7 +2071,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2114,7 +2114,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00381">381</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2157,7 +2157,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00387">387</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2197,7 +2197,7 @@ References <a href="#a3f8a3c4ff3e86b352ac49ee366dc2c5c">operator+=</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00392">392</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2237,7 +2237,7 @@ References <a href="#a3f8a3c4ff3e86b352ac49ee366dc2c5c">operator+=</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00397">397</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2277,7 +2277,7 @@ References <a href="#a3f8a3c4ff3e86b352ac49ee366dc2c5c">operator+=</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00402">402</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2317,7 +2317,7 @@ References <a href="#a3f8a3c4ff3e86b352ac49ee366dc2c5c">operator+=</a> and <a hr
 <div class="doxyMemberDoc">
 <p>Returns a reference to the character at index <em>i</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00578">578</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2359,7 +2359,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00583">583</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 583 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2399,7 +2399,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00169">169</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2433,7 +2433,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00195">195</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00143">143</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2486,7 +2486,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00196">196</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00164">164</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2542,7 +2542,7 @@ References <a href="#ac3aa3ac1a1c36d3305eba22a2eb0d098">data</a>, <a href="#a163
 <div class="doxyMemberDoc">
 <p>Returns a pointer to the contents of the string in the form of a 0-terminated C string.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2581,7 +2581,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a5605c08564
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00509">509</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2625,7 +2625,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00516">516</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2666,7 +2666,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00522">522</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 522 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2729,7 +2729,7 @@ References <a href="#a16362990092a086b505e08f102df4dff">length</a>, <a href="#a7
 :::
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2767,7 +2767,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#ab657e2797fb2f8d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 188 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2817,7 +2817,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a662691ab2b8
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 189 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2872,7 +2872,7 @@ References <a href="#ac3aa3ac1a1c36d3305eba22a2eb0d098">data</a>, <a href="#a163
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00190">190</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 190 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2907,7 +2907,7 @@ References <a href="#a0182ece6b76dad6475dafb53e2faaf10">find</a>, <a href="#ad69
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 192 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2971,7 +2971,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a73a802f4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00193">193</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00123">123</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 193 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3026,7 +3026,7 @@ References <a href="#ac3aa3ac1a1c36d3305eba22a2eb0d098">data</a>, <a href="#a163
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00317">317</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3082,7 +3082,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a0842b6ab63d34
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00336">336</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3136,7 +3136,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00355">355</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3191,7 +3191,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00375">375</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 375 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3232,7 +3232,7 @@ References <a href="#ae4e7678c93bacb8b7806597a8520ca54">insert</a> and <a href="
 <div class="doxyMemberDoc">
 <p>Returns TRUE iff the string is empty.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3271,7 +3271,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00214">214</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3316,7 +3316,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a662691ab2b8
 
 <p>Equivalent to <a href="#a957be37e3b98707fc7e8daeff18e391b">size()</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00153">153</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3355,7 +3355,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a5605c08564
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3397,7 +3397,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3442,7 +3442,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9fc4cfd4009
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00407">407</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3484,7 +3484,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00412">412</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 412 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3524,7 +3524,7 @@ References <a href="#ac3aa3ac1a1c36d3305eba22a2eb0d098">data</a>, <a href="#ae4e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00417">417</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3564,7 +3564,7 @@ References <a href="#ae4e7678c93bacb8b7806597a8520ca54">insert</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00422">422</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 422 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3604,7 +3604,7 @@ References <a href="#ae4e7678c93bacb8b7806597a8520ca54">insert</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00260">260</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3666,7 +3666,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad9be6018763c3e
 <div class="doxyMemberDoc">
 <p>Returns a writable pointer to the data.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3705,7 +3705,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6c24725da6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00427">427</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3749,7 +3749,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#abc3bead6
 <div class="doxyMemberDoc">
 <p>returns a copy of this string with all whitespace removed</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00286">286</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3799,7 +3799,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00306">306</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3842,7 +3842,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a7f125260c3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00434">434</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 434 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3886,7 +3886,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ad28f49b9907816
 <div class="doxyMemberDoc">
 <p>Reserve space for <em>size</em> bytes without changing the string contents.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3925,7 +3925,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad370f3cfa0f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00167">167</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3964,7 +3964,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#abc3bead6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00219">219</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4008,7 +4008,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad2dcf0394d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00444">444</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 444 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4051,7 +4051,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00450">450</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 450 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4092,7 +4092,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00456">456</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 456 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4133,7 +4133,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00462">462</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 462 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4174,7 +4174,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00468">468</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 468 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4215,7 +4215,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00474">474</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 474 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4256,7 +4256,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00480">480</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4297,7 +4297,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00486">486</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 486 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4333,7 +4333,7 @@ References <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a> and <a hre
 <div class="doxyMemberDoc">
 <p>return a copy of this string with leading and trailing whitespace removed and multiple whitespace characters replaced by a single space</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00303">303</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 303 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4397,7 +4397,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a5605c08564
 <div class="doxyMemberDoc">
 <p>Returns the length of the string, not counting the 0-terminator.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4431,7 +4431,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 186 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4482,7 +4482,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00492">492</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 492 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4525,7 +4525,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac04b30f8675
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00498">498</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 498 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4565,7 +4565,7 @@ Reference <a href="#a78d8b13c82f4e98372f8f5a2332ef40a">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00503">503</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4606,7 +4606,7 @@ References <a href="#a621c4090d69ad7d05ef8e5234376c3d8">isEmpty</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00537">537</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4643,7 +4643,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00256">256</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00573">573</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 256 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4719,7 +4719,7 @@ References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00198">198</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4767,7 +4767,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4807,7 +4807,7 @@ References <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3
 <div class="doxyMemberDoc">
 <p>returns a copy of this string with leading and trailing whitespace removed</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00245">245</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4850,7 +4850,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00438">438</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00249">249</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 438 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4887,7 +4887,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00440">440</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00260">260</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 440 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4971,7 +4971,7 @@ Referenced by <a href="#a100a41fa6ba318b8b2ace175cd20f1eb">toInt</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00436">436</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00229">229</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 436 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5011,7 +5011,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00439">439</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00254">254</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 439 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5046,7 +5046,7 @@ Reference <a href="#a592f86f3d758cb9285967c195f2f1824">toULong</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00442">442</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00356">356</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 442 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5122,7 +5122,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#aad46a931d3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00441">441</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00312">312</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 441 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5198,7 +5198,7 @@ Referenced by <a href="#ab43def7ec8f0cdca5bf722f952e0cf19">toUInt</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00437">437</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#l00239">239</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
+<p>Declaration at line 437 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>, definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/qcstring-cpp">qcstring.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5243,7 +5243,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00239">239</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5285,7 +5285,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab6898e9270508c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00161">161</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5325,7 +5325,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/qcstring-h/#l00600">600</a> of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
+<p>Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/qcstring-h">qcstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 

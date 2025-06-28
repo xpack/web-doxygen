@@ -355,7 +355,7 @@ class DotGfxHierarchyTable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -391,7 +391,7 @@ class DotGfxHierarchyTable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -478,7 +478,7 @@ Referenced by <a href="#a434bb97932efb57dc0df493217c9a687">~DotGfxHierarchyTable
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 References <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>.
 </div>
@@ -509,7 +509,7 @@ References <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a>
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -556,7 +556,7 @@ Referenced by <a href="#a47c5aeaf257c00ebecc958a4c78c5de9">writeGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -588,7 +588,7 @@ Reference <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -662,7 +662,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ad05e0b9d1ba
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -721,7 +721,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -767,7 +767,7 @@ References <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m&#95;graphId</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -808,7 +808,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00179">179</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -887,7 +887,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -999,7 +999,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1031,7 +1031,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1063,7 +1063,7 @@ Referenced by <a href="#a7a98b48366bc0fc41ee0d43eb425087a">createGraph</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1095,7 +1095,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1127,7 +1127,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1159,7 +1159,7 @@ Referenced by <a href="#a75c5c04dae25cb36a4715d0c49a4b196">computeTheGraph</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1191,7 +1191,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
 
 <div class="doxyProgramListing">
 

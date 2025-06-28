@@ -94,7 +94,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -131,7 +131,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

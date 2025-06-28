@@ -197,7 +197,7 @@ struct anonymous_namespace{tagreader.cpp}::TagGroupInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00182">182</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -229,7 +229,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -261,7 +261,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00187">187</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -291,7 +291,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -323,7 +323,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -355,7 +355,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00184">184</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -387,7 +387,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -419,7 +419,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00181">181</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -451,7 +451,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -235,7 +235,7 @@ namespace Config { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -290,7 +290,7 @@ namespace Config { ... }
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l01753">1753</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 1753 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -810,7 +810,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 
 <p>Writes a the differences between the current configuration and the template configuration to stream <em>t</em>.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02348">2348</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2348 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -851,7 +851,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a66afbf89d01
 
 <p>Clean up any data</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02396">2396</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2396 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -891,7 +891,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 <p>Initialize configuration variables to their default value</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l01662">1662</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 1662 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -939,7 +939,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02364">2364</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2364 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1004,7 +1004,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02378">2378</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2378 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1057,7 +1057,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 
 <p>Adjust any configuration values based on the value of obsolete options.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00101">101</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02243">2243</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2243 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1192,7 +1192,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 
 <p>Writes a template configuration to stream <em>t</em>. If <em>shortList</em> is <span class="doxyComputerOutput">TRUE</span> the description of each configuration option will be omitted.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02343">2343</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2343 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1232,7 +1232,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a41448de2244
 
 <p>Writes a the used settings of the current configuration as XML format to stream <em>t</em>.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02354">2354</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2354 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1272,7 +1272,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 
 <p>Writes all possible setting ids to an XSD file for validation through the stream <em>t</em>.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/config-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/configimpl-l/#l02359">2359</a> of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2359 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
 
 <div class="doxyProgramListing">
 

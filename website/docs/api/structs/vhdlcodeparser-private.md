@@ -83,7 +83,7 @@ struct VHDLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01629">1629</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Definition at line 1629 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct VHDLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#l01628">1628</a> of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+<p>Definition at line 1628 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 

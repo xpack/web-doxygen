@@ -122,7 +122,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>The end of line string for this machine.</p>
 
-<p>Definition at line <a href="#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
 
 <div class="doxyProgramListing">
 

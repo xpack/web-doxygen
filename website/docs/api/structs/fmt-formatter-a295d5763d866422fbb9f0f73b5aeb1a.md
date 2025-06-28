@@ -102,7 +102,7 @@ struct fmt::formatter&lt;MemberType&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/message-h/#l00206">206</a> of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -211,7 +211,7 @@ class AnchorGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -251,7 +251,7 @@ Referenced by <a href="#a282543ddcf48b1b7cf7d2921573d453d">instance</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>.</p>
 
 Reference <a href="#a51d1a14474d1ffb69f1bea4306331310">AnchorGenerator</a>.
 </div>
@@ -285,7 +285,7 @@ Reference <a href="#a51d1a14474d1ffb69f1bea4306331310">AnchorGenerator</a>.
 
 <p>Returns the anchor.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -386,7 +386,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a46231fc8
 <div class="doxyMemberDoc">
 <p>Returns true iff <em>anchor</em> is one of the generated anchors.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -422,7 +422,7 @@ Reference <a href="#ab02a0dfd52baab313191a848b306c476">p</a>.
 <div class="doxyMemberDoc">
 <p>Reserves a non-generated anchor.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -464,7 +464,7 @@ Reference <a href="#ab02a0dfd52baab313191a848b306c476">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -507,7 +507,7 @@ Referenced by <a href="#a51d1a14474d1ffb69f1bea4306331310">AnchorGenerator</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -557,7 +557,7 @@ Referenced by <a href="#a557525dbf46d474a3baea1642fe756bd">generate</a> and <a h
 <div class="doxyMemberDoc">
 <p>Returns the singleton instance.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -603,7 +603,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a46231fc8
 
 <p>Note this is a much weaker check than <a href="#a16179e60383f1fbeb2f4c4950501f6ce">isGenerated()</a> and may not always work.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/anchor-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#l00140">140</a> of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/anchor-h">anchor.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -157,7 +157,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

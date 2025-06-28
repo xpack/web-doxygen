@@ -133,7 +133,7 @@ struct LatexDocVisitor::ActiveRowSpan { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00123">123</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -172,7 +172,7 @@ References <a href="#a87755be84cd1a593d4e2b3a1aa09b949">cell</a>, <a href="#af39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00125">125</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -204,7 +204,7 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -236,7 +236,7 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -268,7 +268,7 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

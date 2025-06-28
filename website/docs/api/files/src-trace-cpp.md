@@ -101,7 +101,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -141,7 +141,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00022">22</a> of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+<p>Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -209,7 +209,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

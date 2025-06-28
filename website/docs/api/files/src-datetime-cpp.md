@@ -231,7 +231,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -305,7 +305,7 @@ toc_max_heading_level: 4
 </dl>
 
 
-<p>Definition at line <a href="#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -391,7 +391,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -441,7 +441,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00121">121</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -505,7 +505,7 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00175">175</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -594,7 +594,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 <p>Returns the filled in std::tm for the current date and time.</p>
 
-<p>Definition at line <a href="#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -659,7 +659,7 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 <div class="doxyMemberDoc">
 <p>Returns the current year as a string.</p>
 
-<p>Definition at line <a href="#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -724,7 +724,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -784,7 +784,7 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00100">100</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

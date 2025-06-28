@@ -245,7 +245,7 @@ class COutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/scanner-l/#l08403">8403</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line 8403 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -290,7 +290,7 @@ Referenced by <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
 
 Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 </div>
@@ -320,7 +320,7 @@ Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
 
 Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 </div>
@@ -351,7 +351,7 @@ Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/scanner-l/#l08411">8411</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line 8411 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -397,7 +397,7 @@ Reference <a href="#aa7f3b6aee86ee2d08d7a8804a96904dc">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
 
 Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 </div>
@@ -427,7 +427,7 @@ Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
 
 Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 </div>
@@ -472,7 +472,7 @@ Reference <a href="#a5d4323648b52f514ea8c0c71537359a5">COutlineParser</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/scanner-l/#l08431">8431</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line 8431 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -542,7 +542,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/scanner-l/#l08416">8416</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line 8416 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -594,7 +594,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/scanner-l/#l08441">8441</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>, definition at line 8441 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -637,7 +637,7 @@ Referenced by <a href="#a615bf5108382e0d35d3f0d46306a3667">parsePrototype</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/scanner-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/scanner-h">scanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 

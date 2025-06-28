@@ -169,7 +169,7 @@ class TranslatorAdapterBase { ... }
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-adapter-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
 </div>
 </div>
 
@@ -207,7 +207,7 @@ class TranslatorAdapterBase { ... }
 
 <p>An auxiliary inline method used by the <a href="#a6e991f74f504d2a017f1f6a28a9d9380">updateNeededMessage()</a> for building a warning message.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-adapter-h/#l00021">21</a> of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -258,7 +258,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-adapter-h/#l00016">16</a> of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -83,7 +83,7 @@ struct ManDocVisitor::ManListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct ManDocVisitor::ManListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00137">137</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

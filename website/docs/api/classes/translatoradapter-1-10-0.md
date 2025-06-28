@@ -132,7 +132,7 @@ class TranslatorAdapter_1_10_0 { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-adapter-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -182,7 +182,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-adapter-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
 
 <div class="doxyProgramListing">
 

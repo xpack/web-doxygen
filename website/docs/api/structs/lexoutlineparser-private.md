@@ -83,7 +83,7 @@ struct LexOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-l/#l01000">1000</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+<p>Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct LexOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-l/#l00999">999</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+<p>Definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 

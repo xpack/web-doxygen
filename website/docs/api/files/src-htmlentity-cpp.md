@@ -114,7 +114,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -434,7 +434,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
 </div>
 </div>
 

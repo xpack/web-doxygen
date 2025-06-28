@@ -113,7 +113,7 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -155,7 +155,7 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -191,7 +191,7 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 

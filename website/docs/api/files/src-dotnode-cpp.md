@@ -250,7 +250,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -305,7 +305,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00315">315</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -354,7 +354,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00117">117</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -492,7 +492,7 @@ Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -555,7 +555,7 @@ Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a
 
 <p>mapping from protection levels to color names</p>
 
-<p>Definition at line <a href="#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -610,7 +610,7 @@ Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -662,7 +662,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -717,7 +717,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -777,7 +777,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -832,7 +832,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -884,7 +884,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -924,7 +924,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00920">920</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Definition at line 920 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

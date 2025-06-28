@@ -198,7 +198,7 @@ class reg::Ex { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -286,7 +286,7 @@ class reg::Ex { ... }
 
 <p>In Wildcard mode <span class="doxyComputerOutput">*</span> is used to match any sequence of zero or more characters. The character <span class="doxyComputerOutput">?</span> can be used to match an optional character. Character ranges are also supported, but other characters like <span class="doxyComputerOutput">$</span> and <span class="doxyComputerOutput">+</span> are just treated as literal characters.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00097">97</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00694">694</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -337,7 +337,7 @@ Referenced by <a href="#a197664abdebf160b5b621c3a78c01cf7">~Ex</a>.
 
 <p>Frees resources.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00100">100</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 References <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a> and <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>.
 </div>
@@ -368,7 +368,7 @@ References <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a> and <a href="#a45
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00741">741</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -434,7 +434,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0ab63cb2f20e1
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00706">706</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -507,7 +507,7 @@ Referenced by <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>, <a href="/
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-h/#l00114">114</a> of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
 
 <div class="doxyProgramListing">
 

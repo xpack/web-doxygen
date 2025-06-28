@@ -62,7 +62,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00018">18</a> of file <a href="/web-doxygen/docs/api/files/src/defgen-h">defgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#l00482">482</a> of file <a href="/web-doxygen/docs/api/files/src/defgen-cpp">defgen.cpp</a>.</p>
+<p>Declaration at line 18 of file <a href="/web-doxygen/docs/api/files/src/defgen-h">defgen.h</a>, definition at line 482 of file <a href="/web-doxygen/docs/api/files/src/defgen-cpp">defgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -4421,7 +4421,7 @@ class Translator { ... }
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00149">149</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4444,7 +4444,7 @@ class Translator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#ac4a095ccfc1e12a1d38e719c4ef32ae9">TranslatorAdapter&#95;1&#95;10&#95;0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-11-0/#acdedf3866f4148b4161f7956f9d3ddd3">TranslatorAdapter&#95;1&#95;11&#95;0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#ae9fb378c1e066585a2176405ee66fc6c">TranslatorAdapter&#95;1&#95;4&#95;6::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#a60a555e2a3148b87c47425d3eaeeab15">TranslatorAdapter&#95;1&#95;6&#95;0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#a6dc08332af85f6a6544c0aafa907f144">TranslatorAdapter&#95;1&#95;7&#95;5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#a895b4e6b6e3da314e46f2f104d449d0a">TranslatorAdapter&#95;1&#95;8&#95;0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-15/#ad5b9152a47e6df4123ac00048c437991">TranslatorAdapter&#95;1&#95;8&#95;15::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-19/#a0fe735ce5dabb33d67927f6a1de8e290">TranslatorAdapter&#95;1&#95;8&#95;19::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-2/#a6d612653b55e995756801d247e99c408">TranslatorAdapter&#95;1&#95;8&#95;2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-4/#a74183234bd2567b3313fc8de83517779">TranslatorAdapter&#95;1&#95;8&#95;4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-2/#aa9f043c9934470919e56ed0b21b905bd">TranslatorAdapter&#95;1&#95;9&#95;2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-4/#a4347c9f5c8a72bd1333cc83dd414b81c">TranslatorAdapter&#95;1&#95;9&#95;4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-5/#adc4cd28fae5387221ef1680c47540832">TranslatorAdapter&#95;1&#95;9&#95;5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a523d3dc5dc8c5a886cc40fcefcf15903">TranslatorAdapter&#95;1&#95;9&#95;6::updateNeededMessage</a> and <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-8/#a00aaaee570523d31e14c4b6b7a1faaba">TranslatorAdapter&#95;1&#95;9&#95;8::updateNeededMessage</a>.
 </div>
@@ -4478,7 +4478,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#a
 
 <p>Set the name to be used as latex command.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4522,7 +4522,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 
 <p>Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\end{document}</span> in the LaTeX document.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4561,7 +4561,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 
 <p>Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\begin{document}</span> in the LaTeX document.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4597,7 +4597,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4640,7 +4640,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 
 <p>Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4670,7 +4670,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4699,7 +4699,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 <p>add punctuation at the end of a brief description when needed and supported by the language</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00154">154</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4729,7 +4729,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00637">637</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4752,7 +4752,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00526">526</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4775,7 +4775,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00633">633</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4798,7 +4798,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00357">357</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4821,7 +4821,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00477">477</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 477 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4844,7 +4844,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00397">397</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4867,7 +4867,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00398">398</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4890,7 +4890,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00563">563</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4913,7 +4913,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00527">527</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4936,7 +4936,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00623">623</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4959,7 +4959,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00465">465</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 465 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -4982,7 +4982,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00220">220</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5005,7 +5005,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00204">204</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5028,7 +5028,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00387">387</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5051,7 +5051,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00179">179</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5074,7 +5074,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00187">187</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5097,7 +5097,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00646">646</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 646 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5120,7 +5120,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00322">322</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5143,7 +5143,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00313">313</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5166,7 +5166,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00201">201</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5189,7 +5189,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00575">575</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5212,7 +5212,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5235,7 +5235,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5258,7 +5258,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00573">573</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5281,7 +5281,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00571">571</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5304,7 +5304,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00182">182</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5327,7 +5327,7 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p&#95;latexCommandName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00190">190</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad4e53f24b257db3d6d59202a8401459e">TranslatorAdapter&#95;1&#95;9&#95;6::trCompoundMembersDescriptionTotal</a>.
 </div>
@@ -5352,7 +5352,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00574">574</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5375,7 +5375,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00745">745</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5398,7 +5398,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00572">572</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5421,7 +5421,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00248">248</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5444,7 +5444,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00582">582</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5467,7 +5467,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00701">701</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5490,7 +5490,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00218">218</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5513,7 +5513,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00742">742</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5536,7 +5536,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00717">717</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5559,7 +5559,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00723">723</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5582,7 +5582,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00721">721</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5605,7 +5605,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00720">720</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5628,7 +5628,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00719">719</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5651,7 +5651,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00722">722</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5674,7 +5674,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00718">718</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5697,7 +5697,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00678">678</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 678 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5720,7 +5720,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00657">657</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5743,7 +5743,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00656">656</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5766,7 +5766,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00677">677</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5789,7 +5789,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00315">315</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5812,7 +5812,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00624">624</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5835,7 +5835,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00762">762</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 762 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5858,7 +5858,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00675">675</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5881,7 +5881,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00705">705</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5904,7 +5904,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00704">704</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 704 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5927,7 +5927,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00579">579</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5950,7 +5950,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00223">223</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5973,7 +5973,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00612">612</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -5996,7 +5996,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00615">615</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6019,7 +6019,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00617">617</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6042,7 +6042,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00748">748</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6065,7 +6065,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00300">300</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6088,7 +6088,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6111,7 +6111,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00301">301</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6134,7 +6134,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00213">213</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6157,7 +6157,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00207">207</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6180,7 +6180,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00391">391</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6203,7 +6203,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00747">747</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6226,7 +6226,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00307">307</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6249,7 +6249,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00502">502</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6272,7 +6272,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00711">711</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6295,7 +6295,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00667">667</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6318,7 +6318,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00671">671</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6341,7 +6341,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00668">668</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6364,7 +6364,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00670">670</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6387,7 +6387,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00669">669</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6410,7 +6410,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00672">672</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6433,7 +6433,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00160">160</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6456,7 +6456,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00631">631</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6479,7 +6479,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00161">161</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6502,7 +6502,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00681">681</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6525,7 +6525,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00682">682</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6548,7 +6548,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00551">551</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6571,7 +6571,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00625">625</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6594,7 +6594,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00548">548</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6617,7 +6617,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00549">549</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 549 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6640,7 +6640,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00547">547</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6663,7 +6663,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00550">550</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6686,7 +6686,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00600">600</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6709,7 +6709,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00198">198</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6732,7 +6732,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6755,7 +6755,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00215">215</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6778,7 +6778,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00564">564</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6801,7 +6801,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6824,7 +6824,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00634">634</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6847,7 +6847,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6870,7 +6870,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00635">635</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6893,7 +6893,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00173">173</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6916,7 +6916,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00509">509</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6939,7 +6939,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00508">508</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6962,7 +6962,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -6985,7 +6985,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7008,7 +7008,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00700">700</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7031,7 +7031,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00698">698</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7054,7 +7054,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00699">699</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7077,7 +7077,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00695">695</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7100,7 +7100,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00696">696</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7123,7 +7123,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00697">697</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7146,7 +7146,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00227">227</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7169,7 +7169,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00758">758</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7192,7 +7192,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00645">645</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7215,7 +7215,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00466">466</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7238,7 +7238,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00205">205</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7261,7 +7261,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00610">610</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 610 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7284,7 +7284,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00202">202</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7307,7 +7307,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00181">181</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7330,7 +7330,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7353,7 +7353,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7376,7 +7376,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00191">191</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a866505f3f2d7db3abd9b840314329a5f">TranslatorAdapter&#95;1&#95;9&#95;6::trFileMembersDescriptionTotal</a>.
 </div>
@@ -7401,7 +7401,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00744">744</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 744 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7424,7 +7424,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00252">252</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7447,7 +7447,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00733">733</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7470,7 +7470,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00236">236</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7493,7 +7493,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00673">673</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7516,7 +7516,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00216">216</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7539,7 +7539,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00210">210</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7562,7 +7562,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00219">219</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7585,7 +7585,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00171">171</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7608,7 +7608,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00228">228</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7631,7 +7631,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00285">285</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7654,7 +7654,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00590">590</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7677,7 +7677,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00471">471</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7700,7 +7700,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00602">602</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7723,7 +7723,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00317">317</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7746,7 +7746,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00325">325</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7769,7 +7769,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00316">316</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7792,7 +7792,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00326">326</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7815,7 +7815,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00324">324</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7838,7 +7838,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00468">468</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 468 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7861,7 +7861,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00200">200</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7884,7 +7884,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00489">489</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 489 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7907,7 +7907,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00490">490</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7930,7 +7930,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00766">766</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7953,7 +7953,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00358">358</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7976,7 +7976,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00314">314</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -7999,7 +7999,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00611">611</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8022,7 +8022,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00170">170</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8045,7 +8045,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00267">267</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8068,7 +8068,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00636">636</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8091,7 +8091,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00266">266</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8114,7 +8114,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00321">321</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8137,7 +8137,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00647">647</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8160,7 +8160,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00689">689</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8183,7 +8183,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00687">687</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8206,7 +8206,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00688">688</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 688 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8229,7 +8229,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00684">684</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8252,7 +8252,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00685">685</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8275,7 +8275,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00686">686</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8298,7 +8298,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00654">654</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8321,7 +8321,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00320">320</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8344,7 +8344,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8367,7 +8367,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00367">367</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8390,7 +8390,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8413,7 +8413,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00365">365</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8436,7 +8436,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00167">167</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8459,7 +8459,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00601">601</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 601 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8482,7 +8482,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00293">293</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8505,7 +8505,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00470">470</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 470 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8528,7 +8528,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8551,7 +8551,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00163">163</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8574,7 +8574,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00164">164</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8597,7 +8597,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00570">570</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8620,7 +8620,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00168">168</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8643,7 +8643,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8666,7 +8666,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00648">648</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8689,7 +8689,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00589">589</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8712,7 +8712,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00203">203</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8735,7 +8735,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00199">199</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8758,7 +8758,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00757">757</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8781,7 +8781,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00585">585</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8804,7 +8804,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8827,7 +8827,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00194">194</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8850,7 +8850,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00588">588</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8873,7 +8873,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00580">580</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8896,7 +8896,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00581">581</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 581 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8919,7 +8919,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00587">587</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8942,7 +8942,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00586">586</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8965,7 +8965,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00616">616</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -8988,7 +8988,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00166">166</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9011,7 +9011,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00467">467</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9034,7 +9034,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00273">273</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9057,7 +9057,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00272">272</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9080,7 +9080,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9103,7 +9103,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00235">235</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9126,7 +9126,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00271">271</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a48bc1fad4348489e2e00061e6f81e35e">TranslatorAdapter&#95;1&#95;9&#95;6::trNamespaceMembersDescriptionTotal</a>.
 </div>
@@ -9151,7 +9151,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00270">270</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9174,7 +9174,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00746">746</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 746 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9197,7 +9197,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00253">253</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9220,7 +9220,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00279">279</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9243,7 +9243,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00604">604</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9266,7 +9266,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00333">333</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9289,7 +9289,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00703">703</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9312,7 +9312,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00702">702</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 702 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9335,7 +9335,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00557">557</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 557 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9358,7 +9358,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00388">388</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9381,7 +9381,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00519">519</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9404,7 +9404,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00516">516</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9427,7 +9427,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00728">728</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9450,7 +9450,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00389">389</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9473,7 +9473,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00517">517</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9496,7 +9496,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00390">390</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9519,7 +9519,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00515">515</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9542,7 +9542,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00469">469</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9565,7 +9565,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00294">294</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9588,7 +9588,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00327">327</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9611,7 +9611,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00643">643</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9634,7 +9634,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9657,7 +9657,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00319">319</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9680,7 +9680,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00318">318</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9703,7 +9703,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00341">341</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9726,7 +9726,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00262">262</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9749,7 +9749,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00263">263</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9772,7 +9772,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00340">340</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9795,7 +9795,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00380">380</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9818,7 +9818,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00381">381</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9841,7 +9841,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00338">338</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9864,7 +9864,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9887,7 +9887,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00260">260</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9910,7 +9910,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00337">337</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9933,7 +9933,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00644">644</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9956,7 +9956,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00335">335</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -9979,7 +9979,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00255">255</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10002,7 +10002,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00256">256</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10025,7 +10025,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00334">334</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10048,7 +10048,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00355">355</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10071,7 +10071,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00206">206</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10094,7 +10094,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00483">483</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10117,7 +10117,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00268">268</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10140,7 +10140,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00269">269</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10163,7 +10163,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00242">242</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#acc73a3914aeda3687d2bb864437136da">TranslatorAdapter&#95;1&#95;9&#95;6::trRelatedSymbolDocumentation</a>.
 </div>
@@ -10188,7 +10188,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ac
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00158">158</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa156f04cf8ca82b7dd24ba2819757076">TranslatorAdapter&#95;1&#95;9&#95;6::trRelatedSymbols</a>.
 </div>
@@ -10213,7 +10213,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00184">184</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10236,7 +10236,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00193">193</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10259,7 +10259,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae8c457eb4434b0829bb09811bc1f60f5">TranslatorAdapter&#95;1&#95;9&#95;6::trRelatedSymbolsSubscript</a>.
 </div>
@@ -10284,7 +10284,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00740">740</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10307,7 +10307,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00738">738</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 738 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10330,7 +10330,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00739">739</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10353,7 +10353,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00356">356</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10376,7 +10376,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00224">224</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10399,7 +10399,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00292">292</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10449,7 +10449,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00430">430</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10503,7 +10503,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00460">460</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10526,7 +10526,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00461">461</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 461 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10549,7 +10549,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00496">496</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10572,7 +10572,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10595,7 +10595,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00603">603</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10618,7 +10618,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00535">535</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10641,7 +10641,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00534">534</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10664,7 +10664,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00533">533</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10687,7 +10687,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10710,7 +10710,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00680">680</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10733,7 +10733,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00679">679</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10756,7 +10756,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00660">660</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10779,7 +10779,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00658">658</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10802,7 +10802,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00655">655</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10825,7 +10825,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00257">257</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10848,7 +10848,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00359">359</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10871,7 +10871,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00661">661</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10894,7 +10894,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00659">659</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10917,7 +10917,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00683">683</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10940,7 +10940,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00541">541</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10963,7 +10963,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00520">520</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -10986,7 +10986,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00518">518</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11009,7 +11009,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00342">342</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11032,7 +11032,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00264">264</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11055,7 +11055,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00339">339</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11078,7 +11078,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00261">261</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11101,7 +11101,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00336">336</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11124,7 +11124,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00258">258</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11147,7 +11147,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00694">694</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11170,7 +11170,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00691">691</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11193,7 +11193,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00692">692</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11216,7 +11216,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00693">693</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11239,7 +11239,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00690">690</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11262,7 +11262,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00593">593</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11285,7 +11285,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00578">578</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11308,7 +11308,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00577">577</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11331,7 +11331,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00632">632</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 632 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11354,7 +11354,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00373">373</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11377,7 +11377,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00374">374</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 374 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11400,7 +11400,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00169">169</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11423,7 +11423,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00348">348</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11446,7 +11446,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00349">349</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11469,7 +11469,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00753">753</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11492,7 +11492,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00755">755</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11515,7 +11515,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00754">754</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 754 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11538,7 +11538,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00756">756</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11561,7 +11561,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00752">752</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11584,7 +11584,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00592">592</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11607,7 +11607,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00594">594</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11630,7 +11630,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00214">214</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11653,7 +11653,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00208">208</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11676,7 +11676,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00576">576</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11699,7 +11699,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00217">217</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11722,7 +11722,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00211">211</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11745,7 +11745,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00222">222</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11768,7 +11768,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00674">674</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 674 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11791,7 +11791,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00221">221</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11814,7 +11814,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00265">265</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 </div>
 </div>
 
@@ -11846,7 +11846,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This method is used to provide warning message that is displayed if the user chooses a language whose translation is not up to date. It is implemented by the adapter classes.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11895,7 +11895,7 @@ Referenced by <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</
 
 <p>For easy flexible-noun implementation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00782">782</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11953,7 +11953,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a74e31
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-h/#l00769">769</a> of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+<p>Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -106,7 +106,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>List of all macro definitions.</p>
 
-<p>Definition at line <a href="#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -136,7 +136,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
 
 <div class="doxyProgramListing">
 

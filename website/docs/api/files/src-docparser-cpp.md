@@ -266,7 +266,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>factory function to create a parser</p>
 
-<p>Definition at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -301,7 +301,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02163">2163</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 2163 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -349,7 +349,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b08
 
 <p>Searches for section and anchor commands in the input Sections found will be added to the <a href="/web-doxygen/docs/api/classes/sectionmanager">SectionManager</a>.</p>
 
-<p>Definition at line <a href="#l02176">2176</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -394,7 +394,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8c79cd46ab87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01678">1678</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1678 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -500,7 +500,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01755">1755</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1755 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -548,7 +548,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01766">1766</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1766 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -609,7 +609,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01790">1790</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1790 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -730,7 +730,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 </dl>
 
 
-<p>Definition at line <a href="#l01922">1922</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1922 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -896,7 +896,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 
 <p>Main entry point for parsing simple text fragments. These fragments are limited to words, whitespace and symbols.</p>
 
-<p>Definition at line <a href="#l02105">2105</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 2105 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -989,7 +989,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 <p>Main entry point for parsing titles. These allow limited markup commands</p>
 
-<p>Definition at line <a href="#l02053">2053</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1079,7 +1079,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1109,7 +1109,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1139,7 +1139,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1178,7 +1178,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l01751">1751</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Definition at line 1751 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

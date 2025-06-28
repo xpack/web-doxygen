@@ -1022,7 +1022,7 @@ class ManDocVisitor { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1065,7 +1065,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1102,7 +1102,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1141,7 +1141,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1186,7 +1186,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1232,7 +1232,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1277,7 +1277,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1314,7 +1314,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00113">113</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1351,7 +1351,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00120">120</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1389,7 +1389,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1487,7 +1487,7 @@ References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00196">196</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1575,7 +1575,7 @@ References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00254">254</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1608,7 +1608,7 @@ References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1731,7 +1731,7 @@ References <a href="/web-doxygen/docs/api/classes/docinclude/#a0a32ad9c12a12a666
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00352">352</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1822,7 +1822,7 @@ References <a href="/web-doxygen/docs/api/classes/docincoperator/#ab59377a5d6002
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00413">413</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1858,7 +1858,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00419">419</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1890,7 +1890,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00423">423</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1922,7 +1922,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00427">427</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1972,7 +1972,7 @@ References <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00447">447</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2008,7 +2008,7 @@ References <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00458">458</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2047,7 +2047,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00467">467</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2114,7 +2114,7 @@ References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00504">504</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2160,7 +2160,7 @@ References <a href="/web-doxygen/docs/api/classes/docpara/#a32a474477c8d44117a82
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00520">520</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2195,7 +2195,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00525">525</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 525 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2287,7 +2287,7 @@ References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00587">587</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2323,7 +2323,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00593">593</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2365,7 +2365,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00605">605</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2411,7 +2411,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00621">621</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2457,7 +2457,7 @@ References <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeac
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00637">637</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2516,7 +2516,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00666">666</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2601,7 +2601,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00721">721</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2642,7 +2642,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00732">732</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 732 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2682,7 +2682,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00742">742</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2720,7 +2720,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00750">750</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 750 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2755,7 +2755,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00755">755</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2790,7 +2790,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00760">760</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2825,7 +2825,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00765">765</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2860,7 +2860,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00770">770</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2895,7 +2895,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00775">775</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2933,7 +2933,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00783">783</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2970,7 +2970,7 @@ References <a href="#a5f6a193c724ec88ff68967702b73ca7d">m&#95;t</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00790">790</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3025,7 +3025,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00815">815</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3067,7 +3067,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00827">827</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3099,7 +3099,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00831">831</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3131,7 +3131,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00835">835</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3163,7 +3163,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00839">839</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3195,7 +3195,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00843">843</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3227,7 +3227,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00847">847</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3265,7 +3265,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00855">855</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3304,7 +3304,7 @@ References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/we
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00864">864</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3347,7 +3347,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00877">877</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3387,7 +3387,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00097">97</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00887">887</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3448,7 +3448,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00918">918</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3500,7 +3500,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00940">940</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3551,7 +3551,7 @@ References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/we
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00100">100</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00961">961</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 961 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3589,7 +3589,7 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00101">101</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00969">969</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 969 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3624,7 +3624,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00974">974</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 974 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3670,7 +3670,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00990">990</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3702,7 +3702,7 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00994">994</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 994 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3743,7 +3743,7 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00120">120</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp/#l00999">999</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3802,7 +3802,7 @@ Referenced by <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3846,7 +3846,7 @@ Referenced by <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3878,7 +3878,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3910,7 +3910,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00129">129</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3942,7 +3942,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00131">131</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3974,7 +3974,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4006,7 +4006,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4038,7 +4038,7 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00141">141</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4070,7 +4070,7 @@ Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4113,7 +4113,7 @@ Referenced by <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h/#l00139">139</a> of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

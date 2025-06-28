@@ -416,7 +416,7 @@ class NamespaceDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00097">97</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a6189830ef990cb1f6c91c8df8e4885cd">compoundTypeString</a>.
 
@@ -443,7 +443,7 @@ Referenced by <a href="#a6189830ef990cb1f6c91c8df8e4885cd">compoundTypeString</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#aa7a3c112d07ba84402099c66a6bda130">countVisibleMembers</a>.
 
@@ -473,7 +473,7 @@ Referenced by <a href="#aa7a3c112d07ba84402099c66a6bda130">countVisibleMembers</
 
 <p>Returns the classes contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ad43237a69f056b45fc87beed091688d5">getClasses</a>.
 
@@ -503,7 +503,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a6d79f62a
 
 <p>Returns the concepts contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a393d5ddac9a98c0f829b7866cce931dc">getConcepts</a>.
 
@@ -533,7 +533,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ad5597180
 
 <p>Returns the Slice exceptions contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a7cf1f663e03f57dd359aaacf71c2e3be">getExceptions</a>.
 
@@ -563,7 +563,7 @@ Referenced by <a href="#a7cf1f663e03f57dd359aaacf71c2e3be">getExceptions</a>, <a
 
 <p>Returns the Slice interfaces contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ae5d69194a246277c1ac27efe392a085c">getInterfaces</a>.
 
@@ -590,7 +590,7 @@ Referenced by <a href="#ae5d69194a246277c1ac27efe392a085c">getInterfaces</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#abfeac05d3bebefde162e271a1d9e6b24">getMemberByName</a>.
 
@@ -620,7 +620,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#aab
 
 <p>Returns the user defined member groups</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#aedf62c808c557f44997b866855615199">getMemberGroups</a>.
 
@@ -647,7 +647,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a6d79f62a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a2a67c423c453ef9275729a7e9b5b4b07">getMemberList</a>.
 
@@ -674,7 +674,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#af7618d7d3aed
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a8d1b06c7331164f6562cb5f19d69c023">getMemberLists</a>.
 
@@ -704,7 +704,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ad5597180
 
 <p>Returns the namespaces contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a948889b7a35fb82ebcdf2598a63e1d8d">getNamespaces</a>.
 
@@ -734,7 +734,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a6d79f62a
 
 <p>Returns the Slice structs contained in this namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a5c5e7b84cb85d95090306d81ec55a676">getStructs</a>.
 
@@ -761,7 +761,7 @@ Referenced by <a href="#a5c5e7b84cb85d95090306d81ec55a676">getStructs</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ae894d3e60b106c127ed42266ec7d6e83">getUsedDefinitions</a>.
 
@@ -788,7 +788,7 @@ Referenced by <a href="#ae894d3e60b106c127ed42266ec7d6e83">getUsedDefinitions</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a742c3ca27e3383a1495dd972aaf6b43b">getUsedNamespaces</a>.
 
@@ -815,7 +815,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9e88b708637
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#aaf9627481a1469543ebac09f09af8f31">hasDetailedDescription</a>.
 
@@ -842,7 +842,7 @@ Referenced by <a href="#aaf9627481a1469543ebac09f09af8f31">hasDetailedDescriptio
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a36bd16cdea38963a5989a39bc8a9a776">isConstantGroup</a>.
 
@@ -869,7 +869,7 @@ Referenced by <a href="#a36bd16cdea38963a5989a39bc8a9a776">isConstantGroup</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ab69a1e5ab023bbf6017a0600c0844977">isInline</a>.
 
@@ -896,7 +896,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a27d90bb7360567e4d376198a164e05f3">isLibrary</a>.
 
@@ -923,7 +923,7 @@ Referenced by <a href="#a27d90bb7360567e4d376198a164e05f3">isLibrary</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#a987a55277c2c4c9c1c3079eed406b46a">isModule</a>.
 
@@ -950,7 +950,7 @@ Referenced by <a href="#a987a55277c2c4c9c1c3079eed406b46a">isModule</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ab71f0f1f9f1dc5a1377ebfcd97759d8e">isVisibleInHierarchy</a>.
 
@@ -977,7 +977,7 @@ Referenced by <a href="#ab71f0f1f9f1dc5a1377ebfcd97759d8e">isVisibleInHierarchy<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#aaab45b155dd9bed40afe75c89ca43314">numDocMembers</a>.
 
@@ -1004,7 +1004,7 @@ Referenced by <a href="#aaab45b155dd9bed40afe75c89ca43314">numDocMembers</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#aa00feb50dd08718e4bb7d29b86ec3daf">subGrouping</a>.
 
@@ -1031,7 +1031,7 @@ Referenced by <a href="#aa00feb50dd08718e4bb7d29b86ec3daf">subGrouping</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 Reference <a href="#ac592520c3e9e8f2e633b2fae7375ccae">title</a>.
 

@@ -223,7 +223,7 @@ toc_max_heading_level: 4
 
 <p>Cleanup the search indexer</p>
 
-<p>Declaration at line <a href="#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#l00551">551</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -263,7 +263,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 <p>Initialize the search indexer</p>
 
-<p>Declaration at line <a href="#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#l00540">540</a> of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

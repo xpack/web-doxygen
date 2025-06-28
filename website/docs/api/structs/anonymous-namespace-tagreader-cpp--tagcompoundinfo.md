@@ -257,7 +257,7 @@ struct anonymous_namespace{tagreader.cpp}::TagCompoundInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -289,7 +289,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -321,7 +321,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -353,7 +353,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -385,7 +385,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

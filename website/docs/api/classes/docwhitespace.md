@@ -141,7 +141,7 @@ class DocWhiteSpace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00356">356</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -185,7 +185,7 @@ References <a href="#a9e8fbf6c6ca3efa8f4e7d9fce2352023">chars</a>, <a href="/web
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00358">358</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -225,7 +225,7 @@ Referenced by <a href="#ae85792c7b27dd56ea6ddb87eb3a6feef">DocWhiteSpace</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00360">360</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -137,7 +137,7 @@ class NullOutlineParser { ... }
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l11294">11294</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 11294 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -200,7 +200,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l11293">11293</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 11293 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -239,7 +239,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l11295">11295</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 11295 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

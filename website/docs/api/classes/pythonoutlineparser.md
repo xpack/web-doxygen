@@ -187,7 +187,7 @@ class PythonOutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02343">2343</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2343 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -233,7 +233,7 @@ Referenced by <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02351">2351</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2351 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -288,7 +288,7 @@ Reference <a href="#a5bdb60eb490e5775ef03811344532e98">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02371">2371</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2371 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -353,7 +353,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02357">2357</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2357 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -405,7 +405,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02376">2376</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2376 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -448,7 +448,7 @@ Referenced by <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">parsePrototype</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 

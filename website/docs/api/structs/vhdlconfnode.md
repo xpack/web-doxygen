@@ -177,7 +177,7 @@ struct VhdlConfNode { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -225,7 +225,7 @@ References <a href="#a5dfd0b52022b21363f60709dfce7623d">arch</a>, <a href="#a0a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -257,7 +257,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -289,7 +289,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -321,7 +321,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -353,7 +353,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -385,7 +385,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -417,7 +417,7 @@ Referenced by <a href="#aeceed445ddfcfd325d23d2fc764e603e">VhdlConfNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

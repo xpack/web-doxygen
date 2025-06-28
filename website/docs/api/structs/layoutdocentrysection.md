@@ -138,7 +138,7 @@ struct LayoutDocEntrySection { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ References <a href="/web-doxygen/docs/api/structs/layoutdocentrysimple/#a9b4f3a2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/layout-cpp/#l01779">1779</a> of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+<p>Declaration at line 105 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -220,7 +220,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a65a60aa7cc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 
 <div class="doxyProgramListing">
 

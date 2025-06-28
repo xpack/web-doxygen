@@ -161,7 +161,7 @@ class DocTitle { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00610">610</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 610 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -204,7 +204,7 @@ References <a href="/web-doxygen/docs/api/classes/doccompoundnode/#ae01ca6994447
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00613">613</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 613 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -243,7 +243,7 @@ Referenced by <a href="#a12f16328e5894a517eb3eca100ffeedd">isEmpty</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00614">614</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 614 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -275,7 +275,7 @@ Reference <a href="#ae27763e0e3579fbd9d2d67e7fbebda47">hasTitle</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00611">611</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#l02968">2968</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+<p>Declaration at line 611 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 2968 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -323,7 +323,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00612">612</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#l02986">2986</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+<p>Declaration at line 612 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 2986 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

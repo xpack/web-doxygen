@@ -141,7 +141,7 @@ class DocSeparator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00367">367</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -185,7 +185,7 @@ References <a href="#a7de00e3032b756cfd4653d4e4f676f5d">chars</a>, <a href="/web
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00369">369</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -225,7 +225,7 @@ Referenced by <a href="#a5786ffe4653a341fa0d34fc28f5121f0">DocSeparator</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00371">371</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 371 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

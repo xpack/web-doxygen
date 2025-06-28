@@ -267,7 +267,7 @@ class EclipseHelp { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -312,7 +312,7 @@ Referenced by <a href="#a09fa77b331a5f5bc951428aecd9f34cc">~EclipseHelp</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
 
 Reference <a href="#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a>.
 </div>
@@ -393,7 +393,7 @@ Reference <a href="#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -479,7 +479,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -516,7 +516,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00221">221</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -553,7 +553,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00213">213</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -594,7 +594,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00229">229</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -634,7 +634,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 <p>It closes currently opened topic tag.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00135">135</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -694,7 +694,7 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -754,7 +754,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 <p>Increase the level of content hierarchy.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00124">124</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -806,7 +806,7 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -864,7 +864,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 

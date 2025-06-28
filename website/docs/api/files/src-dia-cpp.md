@@ -91,7 +91,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -196,7 +196,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a3f3e26e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

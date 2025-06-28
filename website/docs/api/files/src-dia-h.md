@@ -104,7 +104,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/dia-h">dia.h</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/dia-h">dia.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -140,7 +140,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/dia-h">dia.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dia-cpp/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
+<p>Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/dia-h">dia.h</a>, definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dia-cpp">dia.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

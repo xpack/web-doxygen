@@ -110,7 +110,7 @@ class HtmlAttribList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlattrib-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -161,7 +161,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlattrib-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
 
 <div class="doxyProgramListing">
 

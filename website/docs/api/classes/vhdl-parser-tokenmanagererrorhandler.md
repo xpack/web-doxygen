@@ -163,7 +163,7 @@ class vhdl::parser::TokenManagerErrorHandler { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -209,7 +209,7 @@ Referenced by <a href="#a27aa05445202b2d20d5cd95983d8fd86">lexicalError</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -251,7 +251,7 @@ Referenced by <a href="#a27aa05445202b2d20d5cd95983d8fd86">lexicalError</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -292,7 +292,7 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -337,7 +337,7 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
 
 <div class="doxyProgramListing">
 

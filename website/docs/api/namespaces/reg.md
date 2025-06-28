@@ -275,7 +275,7 @@ namespace reg { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -318,7 +318,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -359,7 +359,7 @@ Referenced by <a href="#ae874a7238f39cd3a0510485027015ef5">isalnum</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -400,7 +400,7 @@ Referenced by <a href="#ae874a7238f39cd3a0510485027015ef5">isalnum</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -438,7 +438,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 
 <p>Returns true iff a match was found for the whole string. Any capture groups are returned via the <em>match</em> object.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00759">759</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -478,7 +478,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 
 <p>Returns true iff a match was found for the whole string.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00764">764</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -514,7 +514,7 @@ References <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894
 <div class="doxyMemberDoc">
 <p>Searching in a given input string <em>for</em> parts that match regular expression <em>re</em> and replaces those parts by string <em>replacement</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00770">770</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -601,7 +601,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00748">748</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -641,7 +641,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a70d9d3885e2
 
 <p>Returns true iff a match was found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00753">753</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -682,7 +682,7 @@ References <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00649">649</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

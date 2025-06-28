@@ -181,7 +181,7 @@ class MarkdownOutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03621">3621</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3621 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -221,7 +221,7 @@ Reference <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03625">3625</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3625 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -274,7 +274,7 @@ Reference <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>.
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -336,7 +336,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03629">3629</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3629 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -522,7 +522,7 @@ References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03777">3777</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3777 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -563,7 +563,7 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d4090
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
 
 <div class="doxyProgramListing">
 

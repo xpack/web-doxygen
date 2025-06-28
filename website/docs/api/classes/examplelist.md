@@ -94,7 +94,7 @@ class ExampleList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/example-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
 
 <div class="doxyProgramListing">
 

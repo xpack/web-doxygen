@@ -297,7 +297,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -349,7 +349,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00350">350</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -402,7 +402,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00241">241</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -467,7 +467,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00284">284</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -519,7 +519,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00459">459</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -570,7 +570,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00269">269</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -622,7 +622,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00381">381</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -672,7 +672,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00394">394</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -735,7 +735,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00729">729</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -822,7 +822,7 @@ Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaIn
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00299">299</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -892,7 +892,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00473">473</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1009,7 +1009,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00421">421</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1084,7 +1084,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00334">334</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1143,7 +1143,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00332">332</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1180,7 +1180,7 @@ Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00725">725</a> of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

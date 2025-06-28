@@ -187,7 +187,7 @@ class SectionManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 Referenced by <a href="#afcf31c2b2bad467541c924342b08773d">instance</a> and <a href="#adc0daaf46afaa86b8f17328eada12673">~SectionManager</a>.
 </div>
@@ -223,7 +223,7 @@ Referenced by <a href="#afcf31c2b2bad467541c924342b08773d">instance</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 Reference <a href="#aa4f211d31b783f347bb099b5857515e3">SectionManager</a>.
 </div>
@@ -262,7 +262,7 @@ Reference <a href="#aa4f211d31b783f347bb099b5857515e3">SectionManager</a>.
 
 <p>Add a new section given the data of an existing section. Returns a non-owning pointer to the newly added section.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00138">138</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -309,7 +309,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e2
 
 <p>Add a new section Return a non-owning pointer to the newly added section</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -354,7 +354,7 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#acddca8cb09f114936f
 
 <p>Replace an existing section with a new one Return a non-owning pointer to the newly added section</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -419,7 +419,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e2
 <div class="doxyMemberDoc">
 <p>returns a reference to the singleton</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -164,7 +164,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -194,7 +194,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -230,7 +230,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00157">157</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+<p>Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

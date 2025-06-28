@@ -186,7 +186,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -222,7 +222,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01157">1157</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -258,7 +258,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01163">1163</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -298,7 +298,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01169">1169</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1169 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -337,7 +337,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a6e2ffe69d7a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01175">1175</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1175 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

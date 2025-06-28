@@ -107,7 +107,7 @@ struct JSTreeFile { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00578">578</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -145,7 +145,7 @@ References <a href="#ad0cfc7f4fa14c847ac14f3ec37b0b85d">fileId</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00579">579</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00580">580</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

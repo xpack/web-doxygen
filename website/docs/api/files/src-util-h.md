@@ -2019,7 +2019,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00248">248</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2049,7 +2049,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00182">182</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2085,7 +2085,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00378">378</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05716">5716</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 378 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5716 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2123,7 +2123,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00356">356</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 </div>
 </div>
 
@@ -2146,7 +2146,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00340">340</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05406">5406</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 340 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5406 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2183,7 +2183,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a783230ed87aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00346">346</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05416">5416</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 346 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5416 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2227,7 +2227,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a93bbb9c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00284">284</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04611">4611</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 284 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4611 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2370,7 +2370,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00314">314</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05319">5319</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 314 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5319 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2421,7 +2421,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a92e0ed943a6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00322">322</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05189">5189</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 322 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5189 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2579,7 +2579,7 @@ References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00222">222</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01202">1202</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 222 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1202 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2656,7 +2656,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00196">196</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07037">7037</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7037 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2751,7 +2751,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00344">344</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05411">5411</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 344 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5411 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2791,7 +2791,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0b6e771472b
 
 <p>Returns true iff the given name string appears to be a typedef in scope.</p>
 
-<p>Declaration at line <a href="#l00380">380</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05826">5826</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 380 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5826 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2833,7 +2833,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00362">362</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04184">4184</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 362 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4184 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2892,7 +2892,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a268cc4c8
 <div class="doxyMemberDoc">
 <p>Return the index of the last :: in the string <em>name</em> that is still before the first &lt;.</p>
 
-<p>Declaration at line <a href="#l00354">354</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07339">7339</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 354 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7339 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2961,7 +2961,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fc
 <div class="doxyMemberDoc">
 <p>returns <span class="doxyComputerOutput">TRUE</span> iff string <em>s</em> contains word <em>w</em></p>
 
-<p>Declaration at line <a href="#l00367">367</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05482">5482</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 367 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5482 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3003,7 +3003,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00391">391</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04561">4561</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 391 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4561 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3074,7 +3074,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c26
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00465">465</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06911">6911</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 465 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6911 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3120,7 +3120,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae5755
 
 <p>This function determines the file name on disk of an item given its name, which could be a class name with template arguments, so special characters need to be escaped.</p>
 
-<p>Declaration at line <a href="#l00261">261</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04021">4021</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 261 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4021 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3213,7 +3213,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 
 <p>For private inheritance, both protected and public members of the base class should be joined in the private member section.</p>
 
-<p>Declaration at line <a href="#l00448">448</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06744">6744</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 448 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6744 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3303,7 +3303,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8635f06556c6
 
 <p>Converts a string to a HTML-encoded string</p>
 
-<p>Declaration at line <a href="#l00276">276</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04480">4480</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 276 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4480 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3398,7 +3398,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a93bbb9c
 
 <p>Converts a string to a HTML id string</p>
 
-<p>Declaration at line <a href="#l00273">273</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04389">4389</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 273 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4389 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3459,7 +3459,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00280">280</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04540">4540</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 280 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4540 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3515,7 +3515,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a3ec1633fe7f
 
 <p>Converts a string to an XML-encoded string</p>
 
-<p>Declaration at line <a href="#l00278">278</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04429">4429</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 278 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4429 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3600,7 +3600,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a2fae83e2222326bc3
 
 <p>Returns TRUE if successful.</p>
 
-<p>Declaration at line <a href="#l00427">427</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06374">6374</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 427 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6374 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3645,7 +3645,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8a0571475ac
 
 <p>Some strings have been corrected but the requirement regarding the fact that an id cannot have a digit at the first position. To overcome problems with double labels we always place an "a" in front</p>
 
-<p>Declaration at line <a href="#l00274">274</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04422">4422</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 274 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4422 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3686,7 +3686,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a456518c674e7ae8f
 
 <p>Returns the corrected URL. For absolute URLs no correction will be done.</p>
 
-<p>Declaration at line <a href="#l00433">433</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06442">6442</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 433 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6442 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3728,7 +3728,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a6185cb6e62
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00402">402</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06237">6237</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 402 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6237 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3793,7 +3793,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a93bbb9c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00361">361</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04157">4157</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 361 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4157 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3852,7 +3852,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00484">484</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07438">7438</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 484 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7438 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3895,7 +3895,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a252958666939
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00474">474</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07235">7235</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 474 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7235 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4018,7 +4018,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00359">359</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04117">4117</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 359 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4117 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4088,7 +4088,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf455
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00337">337</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03847">3847</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 337 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3847 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4207,7 +4207,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8e04495ad97c6a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00401">401</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06226">6226</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 401 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6226 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4250,7 +4250,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a93bbb9c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00408">408</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06270">6270</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 408 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6270 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4311,7 +4311,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/#a1503b3b4d76049d4
 
 <p>Extracts a (sub-)string from <em>type</em> starting at <em>pos</em> that could form a class. The index of the match is returned and the found class <em>name</em> and a template argument list <em>templSpec</em>. If -1 is returned there are no more matches.</p>
 
-<p>Declaration at line <a href="#l00288">288</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04729">4729</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 288 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4729 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4428,7 +4428,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6731b64072d6a9
 </dl>
 
 
-<p>Declaration at line <a href="#l00446">446</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06693">6693</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 446 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6693 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4499,7 +4499,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae53504faf9e304
 
 <p>Input is a scopeName, output is the scopename split into a namespace part (as large as possible) and a classname part.</p>
 
-<p>Declaration at line <a href="#l00265">265</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04214">4214</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 265 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4214 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4583,7 +4583,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>reads a file with name <em>name</em> and returns it as a string. If <em>filter</em> is TRUE the file will be filtered by any user specified input filter. If <em>name</em> is "-" the string will be read from standard input.</p>
 
-<p>Declaration at line <a href="#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01442">1442</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1442 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4652,7 +4652,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00444">444</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06604">6604</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 444 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6604 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4696,7 +4696,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a761d3a60c6659
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00397">397</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06131">6131</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 397 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6131 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4752,7 +4752,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb
 
 <p><a href="/web-doxygen/docs/api/structs/example">Example</a>: sentence=<span class="doxyComputerOutput"> cat+ catfish cat cat concat cat</span>, word=<span class="doxyComputerOutput">cat</span> returns: <span class="doxyComputerOutput">+ catfish concat</span></p>
 
-<p>Declaration at line <a href="#l00369">369</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05498">5498</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 369 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5498 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4819,7 +4819,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00201">201</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03416">3416</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 201 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3416 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4932,7 +4932,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00202">202</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03499">3499</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3499 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5005,7 +5005,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#acb71ba8a95
 <div class="doxyMemberDoc">
 <p>find the index of a string in a vector of strings, returns -1 if the string could not be found</p>
 
-<p>Declaration at line <a href="#l00460">460</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07169">7169</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 460 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7169 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5041,7 +5041,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#a17c0d52c
 <div class="doxyMemberDoc">
 <p>find the index of the first occurrence of pattern <em>re</em> in a string <em>s</em> returns -1 if the pattern could not be found</p>
 
-<p>Declaration at line <a href="#l00461">461</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07177">7177</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 461 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7177 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5082,7 +5082,7 @@ Reference <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00472">472</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 472 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5116,7 +5116,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a6d45214fe7f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00263">263</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04075">4075</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 263 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4075 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5167,7 +5167,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00158">158</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03388">3388</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 158 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3388 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5214,7 +5214,7 @@ References <a href="/web-doxygen/docs/api/classes/outputlist/#a5647a62e8819abb6e
 
 <p>Generate a place holder for a position in a list. Used for translators to be able to specify different elements orders depending on whether text flows from left to right or visa versa.</p>
 
-<p>Declaration at line <a href="#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00291">291</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 226 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5254,7 +5254,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a5e542
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00335">335</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03837">3837</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 335 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3837 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5295,7 +5295,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed304
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l02823">2823</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 134 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 2823 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5381,7 +5381,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00442">442</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06804">6804</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 442 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6804 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5420,7 +5420,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adeb275db39d6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00470">470</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06212">6212</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 470 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6212 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5469,7 +5469,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f
 
 <p>looks for a filter for the file <em>name</em>. Returns the name of the filter if there is a match for the file name, otherwise an empty string. In case <em>inSourceCode</em> is TRUE then first the source filter list is considered.</p>
 
-<p>Declaration at line <a href="#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01370">1370</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 136 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5534,7 +5534,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#aa5d001d30e4d1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00376">376</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05764">5764</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 376 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5764 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5574,7 +5574,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 <div class="doxyMemberDoc">
 <p>Routine to handle the language attribute of the <span class="doxyComputerOutput">\code</span> command.</p>
 
-<p>Declaration at line <a href="#l00375">375</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05740">5740</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 375 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5740 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5630,7 +5630,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00374">374</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05722">5722</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 374 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5722 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5679,7 +5679,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e27828
 <div class="doxyMemberDoc">
 <p>Returns the scope separator to use given the programming language <em>lang</em>.</p>
 
-<p>Declaration at line <a href="#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06414">6414</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6414 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5728,7 +5728,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a4fb272d2b9
 
 <p>Returns the standard string that is generated when the \overload command is used.</p>
 
-<p>Declaration at line <a href="#l00282">282</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04603">4603</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 282 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4603 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5771,7 +5771,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1
 
 <p>Returns the character index within <em>name</em> of the first prefix in <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList(IGNORE_PREFIX)</a> that matches <em>name</em> at the left hand side, or zero if no match was found</p>
 
-<p>Declaration at line <a href="#l00255">255</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03753">3753</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 255 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3753 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5821,7 +5821,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00476">476</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07326">7326</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 476 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7326 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5896,7 +5896,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4e
 </dl>
 
 
-<p>Declaration at line <a href="#l00312">312</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05142">5142</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5142 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5976,7 +5976,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acc3d9699d44
 
 <p>try to determine if <em>name</em> is a source or a header file name by looking at the extension. A number of variations is allowed in both upper and lower case) If anyone knows or uses another extension please let me know :-)</p>
 
-<p>Declaration at line <a href="#l00206">206</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00350">350</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 206 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6043,7 +6043,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00377">377</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05649">5649</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 377 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5649 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6142,7 +6142,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7ae
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00219">219</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01157">1157</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6192,7 +6192,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00220">220</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01175">1175</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1175 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6251,7 +6251,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a36436ea13493
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00269">269</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04263">4263</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 269 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4263 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6312,7 +6312,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00467">467</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07197">7197</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 467 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7197 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6358,7 +6358,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a4ce763b29a4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00468">468</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07213">7213</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 468 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7213 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6415,7 +6415,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a2a1e6cedc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00208">208</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6455,7 +6455,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#ac66cc6a4e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6490,7 +6490,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchterm/#aec66f0d2f6bb7f
 <div class="doxyMemberDoc">
 <p>Checks whether the given url starts with a supported protocol.</p>
 
-<p>Declaration at line <a href="#l00431">431</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06430">6430</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 431 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6430 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6532,7 +6532,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3a775021310e25
 <div class="doxyMemberDoc">
 <p>create a string where the string in the vector are joined by the given delimiter</p>
 
-<p>Declaration at line <a href="#l00462">462</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07184">7184</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 462 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7184 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6575,7 +6575,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a968755490
 <div class="doxyMemberDoc">
 <p>Returns a string representation of <em>lang</em>.</p>
 
-<p>Declaration at line <a href="#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06408">6408</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6408 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6612,7 +6612,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00238">238</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00893">893</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 238 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 893 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6664,7 +6664,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 </dl>
 
 
-<p>Declaration at line <a href="#l00429">429</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06387">6387</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 429 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6387 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6716,7 +6716,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#acb71ba8a95
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00905">905</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 905 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6947,7 +6947,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00342">342</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03220">3220</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 342 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3220 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7004,7 +7004,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a0fe67fd46cab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00455">455</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06799">6799</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 455 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6799 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7041,7 +7041,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00483">483</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07428">7428</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 483 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7428 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7083,7 +7083,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01959">1959</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 165 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1959 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7204,7 +7204,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l02197">2197</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 172 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 2197 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7267,7 +7267,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00170">170</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l02053">2053</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 170 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7441,7 +7441,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00479">479</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07376">7376</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 479 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7376 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7523,7 +7523,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e2
 </dl>
 
 
-<p>Declaration at line <a href="#l00310">310</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05097">5097</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 310 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5097 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7593,7 +7593,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00409">409</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 </div>
 </div>
 
@@ -7616,7 +7616,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00291">291</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04803">4803</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 291 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4803 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7706,7 +7706,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e15
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00456">456</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06811">6811</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 456 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6811 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7765,7 +7765,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a66afbf89d01
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00383">383</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05931">5931</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 383 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5931 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7828,7 +7828,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00382">382</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05880">5880</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 382 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5880 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7906,7 +7906,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00399">399</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06205">6205</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 399 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6205 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7945,7 +7945,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00435">435</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 </div>
 </div>
 
@@ -7968,7 +7968,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00477">477</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03658">3658</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 477 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3658 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8021,7 +8021,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6e598421954
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00437">437</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06454">6454</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 437 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6454 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8063,7 +8063,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac8b137671c0
 <div class="doxyMemberDoc">
 <p>read a file name <em>fileName</em> and optionally filter and transcode it</p>
 
-<p>Declaration at line <a href="#l00395">395</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06051">6051</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 395 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6051 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8174,7 +8174,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00387">387</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
@@ -8199,7 +8199,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00464">464</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06858">6858</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 464 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6858 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8284,7 +8284,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae5755
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00358">358</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04096">4096</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 358 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4096 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8352,7 +8352,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c
 </code></pre>
 
 
-<p>Declaration at line <a href="#l00257">257</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00173">173</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 257 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8440,7 +8440,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00198">198</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07101">7101</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 198 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7101 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8502,7 +8502,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac61bfc9dccd
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00364">364</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00299">299</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 364 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8545,7 +8545,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#ad85444ffee48
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00217">217</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00579">579</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8831,7 +8831,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a3b2171b8a9c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00230">230</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 259 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8873,7 +8873,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 <p>Replaces any markers of the form ##AA in input string <em>str</em> by new markers of the form #AABBCC, where #AABBCC represents a valid color, based on the intensity represented by hex number AA and the current HTML_COLORSTYLE_* settings.</p>
 
-<p>Declaration at line <a href="#l00425">425</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06323">6323</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 425 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6323 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8953,7 +8953,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00149">149</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03246">3246</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 149 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3246 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9137,7 +9137,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doclink/#ac29d67178173446fb
 </dl>
 
 
-<p>Declaration at line <a href="#l00138">138</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l02965">2965</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 138 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 2965 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9424,7 +9424,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d9
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00307">307</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00385">385</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9598,7 +9598,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e15
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00236">236</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00882">882</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 236 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 882 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9641,7 +9641,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 <p>remove disabled blocks and all block markers from <em>s</em> and return the result as a string</p>
 
-<p>Declaration at line <a href="#l00195">195</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06924">6924</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6924 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9786,7 +9786,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac61bfc9dccd
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00204">204</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03542">3542</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 204 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3542 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9849,7 +9849,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 
 <p>returns a vector of non-empty strings that are between the delimiters</p>
 
-<p>Declaration at line <a href="#l00458">458</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07133">7133</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 458 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7133 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9897,7 +9897,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 
 <p>returns a vector of non-empty strings that are between the delimiters</p>
 
-<p>Declaration at line <a href="#l00459">459</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07150">7150</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 459 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7150 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9945,7 +9945,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00393">393</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05987">5987</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 393 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5987 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10003,7 +10003,7 @@ References <a href="/web-doxygen/docs/api/namespaces/portable/#a6cde8cab8c3dc339
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00230">230</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00242">242</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 230 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10064,7 +10064,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00350">350</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05438">5438</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 350 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5438 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10101,7 +10101,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00348">348</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05428">5428</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 348 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5428 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10146,7 +10146,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 
 <p>strip part of <em>path</em> if it matches one of the paths in the <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList(INCLUDE_PATH)</a> list</p>
 
-<p>Declaration at line <a href="#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00341">341</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 234 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10186,7 +10186,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aed02fe5ded5
 
 <p>strip part of <em>path</em> if it matches one of the paths in the <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList(STRIP_FROM_PATH)</a> list</p>
 
-<p>Declaration at line <a href="#l00232">232</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00333">333</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 232 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10221,7 +10221,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00439">439</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06466">6466</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 439 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6466 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10340,7 +10340,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#aa6551b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00440">440</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06554">6554</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 440 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6554 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10445,7 +10445,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 </dl>
 
 
-<p>Declaration at line <a href="#l00371">371</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05541">5541</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 371 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5541 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10517,7 +10517,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00365">365</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05465">5465</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 365 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5465 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10568,7 +10568,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae17a2241e7
 
 <p>Strips the scope from a name. Examples: A::B will return A and A&lt;T&gt;::B&lt;N::C&lt;D&gt; &gt; will return A&lt;T&gt;.</p>
 
-<p>Declaration at line <a href="#l00271">271</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04296">4296</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 271 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4296 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10695,7 +10695,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 
 <p>Strips template specifiers from scope <em>fullName</em>, except those that make up specialized classes. The switch <em>parentOnly</em> determines whether or not a template "at the end" of a scope should be considered, e.g. with <em>parentOnly</em> is <span class="doxyComputerOutput">TRUE</span>, <span class="doxyComputerOutput">A&lt;T&gt;::B&lt;S&gt;</span> will try to strip <span class="doxyComputerOutput">&lt;T&gt;</span> and not <span class="doxyComputerOutput">&lt;S&gt;</span>, while <em>parentOnly</em> is <span class="doxyComputerOutput">FALSE</span> will strip both unless <span class="doxyComputerOutput">A&lt;T&gt;</span> or <span class="doxyComputerOutput">B&lt;S&gt;</span> are specialized template classes.</p>
 
-<p>Declaration at line <a href="#l00301">301</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05030">5030</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 301 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5030 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10785,7 +10785,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 </div>
 </div>
 
@@ -10808,7 +10808,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00250">250</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03572">3572</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 250 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3572 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10913,7 +10913,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac61bfc9dccd
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00252">252</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03724">3724</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 252 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3724 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10969,7 +10969,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 
 <p>Substitutes any occurrence of a formal argument from argument list <em>formalArgs</em> in <em>name</em> by the corresponding actual argument in argument list <em>actualArgs</em>. The result after substitution is returned as a string. The argument <em>name</em> is used to prevent recursive substitution.</p>
 
-<p>Declaration at line <a href="#l00296">296</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l04868">4868</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 296 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 4868 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11155,7 +11155,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0ee
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00224">224</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01247">1247</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 224 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1247 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11235,7 +11235,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00385">385</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01404">1404</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 385 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1404 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11301,7 +11301,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aa40638bb
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00338">338</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l03934">3934</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 338 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 3934 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11408,7 +11408,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00481">481</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l07395">7395</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 481 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 7395 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11469,7 +11469,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a0941dd0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00373">373</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05617">5617</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 373 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5617 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11533,7 +11533,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a25909e621a15
 <div class="doxyMemberDoc">
 <p>Writes the intensity only bitmap represented by <em>data</em> as an image to directory <em>dir</em> using the colors defined by HTML_COLORSTYLE_*.</p>
 
-<p>Declaration at line <a href="#l00424">424</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l06299">6299</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 424 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 6299 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11582,7 +11582,7 @@ References <a href="/web-doxygen/docs/api/structs/coloredimgdataitem/#ae5969908b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00228">228</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01128">1128</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 228 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11642,7 +11642,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a25ee1d37152
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00411">411</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l01104">1104</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 411 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 1104 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11698,7 +11698,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3bd86295355
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00161">161</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l00271">271</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11746,7 +11746,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3bd86295355
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00389">389</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/util-cpp/#l05965">5965</a> of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+<p>Declaration at line 389 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5965 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

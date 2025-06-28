@@ -70,7 +70,7 @@ class TooltipManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

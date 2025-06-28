@@ -126,7 +126,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a70c61ff58fa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -224,7 +224,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

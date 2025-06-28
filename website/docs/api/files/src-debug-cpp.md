@@ -157,7 +157,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -198,7 +198,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -249,7 +249,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -286,7 +286,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00194">194</a> of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -323,7 +323,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015cae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

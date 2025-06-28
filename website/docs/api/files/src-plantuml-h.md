@@ -116,7 +116,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -146,7 +146,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -116,7 +116,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00349">349</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#l02870">2870</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Declaration at line 349 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 2870 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

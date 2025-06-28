@@ -414,7 +414,7 @@ class reg::PToken { ... }
 <li><span class="doxyComputerOutput">32768</span> literal character</li>
 </ul>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -473,7 +473,7 @@ class reg::PToken { ... }
 <div class="doxyMemberDoc">
 <p>Creates a token of kind 'End'.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00124">124</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -511,7 +511,7 @@ Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 <p>Creates a token of the given kind <em>k</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -548,7 +548,7 @@ Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m&#95;rep</a>.
 <div class="doxyMemberDoc">
 <p>Create a token for an ASCII character.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -586,7 +586,7 @@ References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1
 <div class="doxyMemberDoc">
 <p>Create a token for a byte of an UTF-8 character.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -624,7 +624,7 @@ References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1
 <div class="doxyMemberDoc">
 <p>Create a token representing a range from one character <em>from</em> to another character <em>to</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00138">138</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -667,7 +667,7 @@ References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa62
 <div class="doxyMemberDoc">
 <p>Returns the value for this token as a ASCII character.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -709,7 +709,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 
 <p>Only valid if this token represents a range</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -748,7 +748,7 @@ Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href=
 <div class="doxyMemberDoc">
 <p>Returns true iff this token is a positive or negative character class.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -787,7 +787,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 <p>Returns true iff this token represents a range of characters.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -824,7 +824,7 @@ References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa62
 <div class="doxyMemberDoc">
 <p>Returns the kind of the token.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -863,7 +863,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 <div class="doxyMemberDoc">
 <p>returns a string representation of the tokens kind (useful for debugging).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -931,7 +931,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 <p>Sets the value for a token.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00141">141</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -971,7 +971,7 @@ References <a href="#aa6204b59dad3115e3fd810bab9d6f255">m&#95;rep</a> and <a hre
 
 <p>Only valid if this token represents a range</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1010,7 +1010,7 @@ Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href=
 <div class="doxyMemberDoc">
 <p>Returns the value for this token.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00153">153</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1050,7 +1050,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/regex-cpp/#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

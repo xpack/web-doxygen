@@ -311,7 +311,7 @@ class vhdl::parser::Token { ... }
 <div class="doxyMemberDoc">
 <p>No-argument constructor.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 Referenced by <a href="#a7e0f91605566a8b2862a8fd0f8726c93">newToken</a> and <a href="#a6d01fa6f4dff4a18568da6b789662f94">newToken</a>.
 </div>
@@ -336,7 +336,7 @@ Referenced by <a href="#a7e0f91605566a8b2862a8fd0f8726c93">newToken</a> and <a h
 <div class="doxyMemberDoc">
 <p>Constructs a new token for the specified <a href="/web-doxygen/docs/api/classes/image">Image</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 Reference <a href="#a021bfae89b9eec39a87db9577508916c">kind</a>.
 </div>
@@ -361,7 +361,7 @@ Reference <a href="#a021bfae89b9eec39a87db9577508916c">kind</a>.
 <div class="doxyMemberDoc">
 <p>Constructs a new token for the specified <a href="/web-doxygen/docs/api/classes/image">Image</a> and Kind.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#a021bfae89b9eec39a87db9577508916c">kind</a>.
 </div>
@@ -397,7 +397,7 @@ References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 </div>
 </div>
 
@@ -429,7 +429,7 @@ References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#
 
 <p>Tokens which are not used as syntactic sugar will often contain meaningful values that will be used later on by the compiler or interpreter. This attribute value is often different from the image. Any subclass of <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> that actually wants to return a non-NULL value can override this method as appropriate.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 </div>
 </div>
 
@@ -452,7 +452,7 @@ References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#
 <div class="doxyMemberDoc">
 <p>Returns the image.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 </div>
 </div>
 
@@ -481,7 +481,7 @@ References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#
 <div class="doxyMemberDoc">
 <p>The column number of the first character of this <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -513,7 +513,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a
 <div class="doxyMemberDoc">
 <p>The line number of the first character of this <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -545,7 +545,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a
 <div class="doxyMemberDoc">
 <p>The column number of the last character of this <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -575,7 +575,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a
 <div class="doxyMemberDoc">
 <p>The line number of the last character of this <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -605,7 +605,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a
 <div class="doxyMemberDoc">
 <p>The string image of the token.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -640,7 +640,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a
 
 <p>This numbering system is determined by JavaCCParser, and a table of these numbers is stored in the file ...Constants.java.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -675,7 +675,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a0a
 
 <p>If this is the last token from the input stream, or if the token manager has not read tokens beyond this one, this field is set to NULL. This is true only if this token is also a regular token. Otherwise, see below for a description of the contents of this field.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -708,7 +708,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a0a
 
 <p>If there are no such special tokens, this field is set to NULL. When there are more than one such special token, this field refers to the last of these special tokens, which in turn refers to the next previous special token through its specialToken field, and so on until the first special token (whose specialToke_ field is NULL). The next fields of special tokens refer to other special tokens that immediately follow it (without an intervening regular token). If there is no such token, this field is NULL.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -756,7 +756,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparser/#a0a
 
 <p>to the following switch statement. Then you can cast matchedToken variable to the appropriate type and use sit in your lexical actions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#af4c8d87a0456cd4ce8a65662fa507bb1">Token</a>.
 </div>
@@ -786,7 +786,7 @@ References <a href="#a48cc7b3f8164956fd940b2d53b792043">image</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/token-h/#l00112">112</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/vhdlparser/token-h">Token.h</a>.</p>
 
 Reference <a href="#af4c8d87a0456cd4ce8a65662fa507bb1">Token</a>.
 </div>

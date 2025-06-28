@@ -258,7 +258,7 @@ class ParserManager { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00166">166</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -308,7 +308,7 @@ Reference <a href="#a60479453dc57c884b1411f13beedb929">m&#95;defaultParsers</a>.
 
 <p>If there is no parser explicitly registered for the supplied extension, the interface to the default parser will be returned.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00218">218</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -349,7 +349,7 @@ Reference <a href="#a8f767ea4b80602eec90e5fa4a5c2b008">getCodeParserFactory</a>.
 <div class="doxyMemberDoc">
 <p>Get the factory for create code parser objects with a given <em>extension</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -394,7 +394,7 @@ Referenced by <a href="#a691952e0c5c944e83d4a6e88117471a6">getCodeParser</a>.
 
 <p>If there is no parser explicitly registered for the supplied extension, the interface to the default parser will be returned.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -437,7 +437,7 @@ Reference <a href="#ac5f1e3b27673fb0ab040a07469c29a87">getParsers</a>.
 
 <p>If there is no parser explicitly registered for the supplied extension, the empty string will be returned.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -480,7 +480,7 @@ Reference <a href="#ac5f1e3b27673fb0ab040a07469c29a87">getParsers</a>.
 
 <p>Returns TRUE if the extension was successfully registered.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -552,7 +552,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -599,7 +599,7 @@ References <a href="#a20879de66f3c9555ec87f31d878e729b">m&#95;parsers</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00240">240</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -649,7 +649,7 @@ Referenced by <a href="#a8f767ea4b80602eec90e5fa4a5c2b008">getCodeParserFactory<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00254">254</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -681,7 +681,7 @@ Referenced by <a href="#ac5f1e3b27673fb0ab040a07469c29a87">getParsers</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00253">253</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -713,7 +713,7 @@ Referenced by <a href="#ac5f1e3b27673fb0ab040a07469c29a87">getParsers</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00252">252</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -167,7 +167,7 @@ class PythonCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pycode-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l01500">1500</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line 1500 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -212,7 +212,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pycode-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l01509">1509</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line 1509 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -327,7 +327,7 @@ Reference <a href="#abed83d092b10728ca89b4807f7ffdd37">p</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pycode-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l01526">1526</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line 1526 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -469,7 +469,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/pycode-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l01514">1514</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>, definition at line 1514 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -519,7 +519,7 @@ Referenced by <a href="#a7104fd0fa8b8761e10dc96c4b053b1f5">PythonCodeParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-h/#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/pycode-h">pycode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

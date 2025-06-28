@@ -96,7 +96,7 @@ struct RTFGenerator::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#l00340">340</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ struct RTFGenerator::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#l00341">341</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ struct RTFGenerator::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#l00342">342</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

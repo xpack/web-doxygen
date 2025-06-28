@@ -94,7 +94,7 @@ class AutoTimeKeeper { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -137,7 +137,7 @@ References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

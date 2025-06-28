@@ -103,7 +103,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>processes string <em>s</em> and converts markdown into doxygen/html commands.</p>
 
-<p>Declaration at line <a href="#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03600">3600</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3600 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

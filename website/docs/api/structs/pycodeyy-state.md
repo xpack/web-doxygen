@@ -596,7 +596,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -626,7 +626,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -656,7 +656,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -686,7 +686,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -716,7 +716,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -746,7 +746,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -776,7 +776,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -806,7 +806,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -836,7 +836,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -866,7 +866,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -896,7 +896,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>contents of all lines of a documentation block</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00112">112</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -926,7 +926,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -956,7 +956,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -986,7 +986,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00113">113</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1016,7 +1016,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1046,7 +1046,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1076,7 +1076,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1106,7 +1106,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1136,7 +1136,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00118">118</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1166,7 +1166,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1196,7 +1196,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>Tracks indentation levels for scoping in python.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1226,7 +1226,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>number of line in the code fragment</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1256,7 +1256,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>read offset during parsing</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1286,7 +1286,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>the code fragment as text</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1316,7 +1316,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00097">97</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1346,7 +1346,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1376,7 +1376,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1406,7 +1406,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1436,7 +1436,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1466,7 +1466,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1496,7 +1496,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1526,7 +1526,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1556,7 +1556,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1586,7 +1586,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1616,7 +1616,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1646,7 +1646,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00116">116</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1676,7 +1676,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00115">115</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1706,7 +1706,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00114">114</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1736,7 +1736,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00117">117</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1766,7 +1766,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00101">101</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1796,7 +1796,7 @@ struct pycodeYY_state { ... }
 <div class="doxyMemberDoc">
 <p>current line number</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pycode-l/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -208,7 +208,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00409">409</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -271,7 +271,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00277">277</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -333,7 +333,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00589">589</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -399,7 +399,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
 </div>
@@ -429,7 +429,7 @@ Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -466,7 +466,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -102,7 +102,7 @@ class Scope { ... }
 <div class="doxyMemberDoc">
 <p>contains names of external entities</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l00119">119</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -134,7 +134,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285
 <div class="doxyMemberDoc">
 <p>contains names of local variables</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l00118">118</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -166,7 +166,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285
 <div class="doxyMemberDoc">
 <p>contains names of used modules</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l00117">117</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 

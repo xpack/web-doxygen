@@ -136,7 +136,7 @@ struct CiteInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 Reference <a href="#a73b0f4274d2fcf8f2486f0178203d369">label</a>.
 
@@ -163,7 +163,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e14
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 Reference <a href="#a63247d43d110f14a0525d73e9f012d3e">shortAuthor</a>.
 
@@ -190,7 +190,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 Reference <a href="#a529432d49773c937493ebfedcdb27cbb">text</a>.
 
@@ -217,7 +217,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e14
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 Reference <a href="#ad3b0c7d19be5846fae0feb7cac35c049">year</a>.
 

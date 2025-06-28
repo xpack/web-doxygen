@@ -84,7 +84,7 @@ toc_max_heading_level: 4
 
 <p>If you want insert a space whenever Chinese meets English characters, set CN_SPC to " ", else null.</p>
 
-<p>Definition at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.</p>
 
 <div class="doxyProgramListing">
 

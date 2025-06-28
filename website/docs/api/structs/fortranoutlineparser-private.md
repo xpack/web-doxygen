@@ -120,7 +120,7 @@ struct FortranOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03334">3334</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Definition at line 3334 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -164,7 +164,7 @@ References <a href="#a04acd996bd4b1125f80d12669ddfd27b">extra</a>, <a href="#a80
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03332">3332</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Definition at line 3332 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -196,7 +196,7 @@ Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03333">3333</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Definition at line 3333 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -228,7 +228,7 @@ Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03331">3331</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Definition at line 3331 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 

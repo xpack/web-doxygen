@@ -83,7 +83,7 @@ struct emojiEntityCompatibility { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01946">1946</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Definition at line 1946 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct emojiEntityCompatibility { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01945">1945</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Definition at line 1945 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

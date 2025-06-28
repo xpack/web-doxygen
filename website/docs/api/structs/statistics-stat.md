@@ -107,7 +107,7 @@ struct Statistics::stat { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l00266">266</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -145,7 +145,7 @@ References <a href="#ab880a6cf5a87f0efae646d05e2a5f7bc">elapsed</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l00264">264</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ Referenced by <a href="#aae71271a344cdd50dea6feb752ace8a1">stat</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#l00263">263</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -255,7 +255,7 @@ class SymbolResolver { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01606">1606</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -296,7 +296,7 @@ Reference <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01611">1611</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -337,7 +337,7 @@ Reference <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 
 <p>The type name it resolved to is returned via this method.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00116">116</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01726">1726</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1726 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -374,7 +374,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714
 <div class="doxyMemberDoc">
 <p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a template specialization, the template part is return via this method.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00111">111</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01721">1721</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1721 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -414,7 +414,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 
 <p>an enum) this method will return it.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01716">1716</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1716 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -460,7 +460,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01685">1685</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -513,7 +513,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01697">1697</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1697 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -589,7 +589,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5ecfe670240873
 :::
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01616">1616</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1616 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -677,7 +677,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aef7ec01b7eb
 <div class="doxyMemberDoc">
 <p>Wrapper around resolveClass that returns a mutable interface to the class object or a nullptr if the symbol is immutable.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -750,7 +750,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01667">1667</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1667 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -800,7 +800,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a043364950b2
 <div class="doxyMemberDoc">
 <p>Sets or updates the file scope using when resolving symbols.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp/#l01711">1711</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -843,7 +843,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/symbolresolver-h/#l00120">120</a> of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -107,7 +107,7 @@ struct NavIndexEntry { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00518">518</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -145,7 +145,7 @@ References <a href="#a684ba0c749048aa18f5e29f8ba820d7f">path</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00520">520</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -177,7 +177,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#l00519">519</a> of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+<p>Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

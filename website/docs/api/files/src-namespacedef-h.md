@@ -295,7 +295,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -331,7 +331,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>Factory method to create new <a href="/web-doxygen/docs/api/classes/namespacedef">NamespaceDef</a> instance.</p>
 
-<p>Declaration at line <a href="#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 130 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -373,7 +373,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 
 <p>Used for inline namespaces.</p>
 
-<p>Declaration at line <a href="#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l00262">262</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 136 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -412,7 +412,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00149">149</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01789">1789</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 149 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1789 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -459,7 +459,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -496,7 +496,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01837">1837</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 156 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1837 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -572,7 +572,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a3d15fc
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00155">155</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01813">1813</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1813 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -628,7 +628,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#af84e6f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00154">154</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01801">1801</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1801 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -672,7 +672,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a6273279cbb942
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00148">148</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01781">1781</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 148 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1781 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -712,7 +712,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00141">141</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01640">1640</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 141 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1640 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -754,7 +754,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01652">1652</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 142 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1652 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -797,7 +797,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/definition-cpp/#ab43e817b86ee
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00143">143</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01666">1666</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 143 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1666 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -837,7 +837,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/definition-cpp/#ab43e817b86ee
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#l01678">1678</a> of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+<p>Declaration at line 144 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-h">namespacedef.h</a>, definition at line 1678 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

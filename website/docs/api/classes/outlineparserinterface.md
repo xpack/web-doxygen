@@ -222,7 +222,7 @@ class OutlineParserInterface { ... }
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 Reference <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a>.
 
@@ -274,7 +274,7 @@ Referenced by <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 Reference <a href="#a40c002cf93d56d617f3ca92ff9b0a210">parseInput</a>.
 
@@ -304,7 +304,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 Reference <a href="#a69a5b6af5318cae09594b6a48d6b0d99">parsePrototype</a>.
 

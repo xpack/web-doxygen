@@ -90,7 +90,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -127,7 +127,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

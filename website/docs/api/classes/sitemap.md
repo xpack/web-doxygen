@@ -275,7 +275,7 @@ class Sitemap { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -315,7 +315,7 @@ Referenced by <a href="#ab50488a4f8391db735d9946ad0968375">~Sitemap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 Reference <a href="#a89ca5235701029e8deb80020a0b8dc2a">Sitemap</a>.
 </div>
@@ -352,7 +352,7 @@ Reference <a href="#a89ca5235701029e8deb80020a0b8dc2a">Sitemap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -391,7 +391,7 @@ Reference <a href="#a89ca5235701029e8deb80020a0b8dc2a">Sitemap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -426,7 +426,7 @@ Reference <a href="#a89ca5235701029e8deb80020a0b8dc2a">Sitemap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -472,7 +472,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -509,7 +509,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -545,7 +545,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -580,7 +580,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -623,7 +623,7 @@ Reference <a href="#a1fbf665cfb401f30d52adbce59c3f201">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -658,7 +658,7 @@ Reference <a href="#a1fbf665cfb401f30d52adbce59c3f201">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -713,7 +713,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -756,7 +756,7 @@ Referenced by <a href="#a39c60d44ad6be2bcd8869c9ed29aff32">addIndexFile</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
 <div class="doxyProgramListing">
 

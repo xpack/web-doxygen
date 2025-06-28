@@ -130,7 +130,7 @@ struct DotDirProperty { ... }
 <div class="doxyMemberDoc">
 <p>true if not all successors of a cluster are drawn</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -162,7 +162,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 <div class="doxyMemberDoc">
 <p>true if is the directory for which the graph is drawn</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -194,7 +194,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 <div class="doxyMemberDoc">
 <p>true if parent is not drawn</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -226,7 +226,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 <div class="doxyMemberDoc">
 <p>true if no successor of parent of original directory</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -256,7 +256,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 <div class="doxyMemberDoc">
 <p>true has successors, none is drawn</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

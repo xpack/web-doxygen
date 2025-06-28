@@ -107,7 +107,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/dot-h">dot.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dot-cpp/#l00230">230</a> of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/dot-h">dot.h</a>, definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -228,7 +228,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5e78b0e
 </dd>
 </dl>
 
-<p>Declaration at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/dot-h">dot.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dot-cpp/#l00283">283</a> of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/dot-h">dot.h</a>, definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

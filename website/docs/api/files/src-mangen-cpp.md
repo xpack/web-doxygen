@@ -138,7 +138,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00296">296</a> of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+<p>Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -216,7 +216,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mangenerator/#a5935e8ddff83
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -278,7 +278,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9cd67715e917
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -348,7 +348,7 @@ Referenced by <a href="#af6acf966d7ed7500f4ab36fbdce70db0">buildFileName</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -395,7 +395,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mangenerator/#ac85a1b3f99ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

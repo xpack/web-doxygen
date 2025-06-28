@@ -87,7 +87,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/language-h">language.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/language-cpp/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/language-h">language.h</a>, definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -180,7 +180,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/language-h">language.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/language-cpp/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
+<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/language-h">language.h</a>, definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

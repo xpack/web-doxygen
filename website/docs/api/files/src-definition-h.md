@@ -179,7 +179,7 @@ toc_max_heading_level: 4
 
 <p>The file is scanned for a opening bracket ('{') from <em>startLine</em> onward The line actually containing the bracket is returned via startLine. The file is scanned for a closing bracket ('}') from <em>endLine</em> backward. The line actually containing the bracket is returned via endLine. Note that for VHDL code the bracket search is not done.</p>
 
-<p>Declaration at line <a href="#l00401">401</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/definition-cpp/#l00749">749</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Declaration at line 401 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -364,7 +364,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00393">393</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/definition-cpp/#l01923">1923</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Declaration at line 393 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -402,7 +402,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acc3d9699d44
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00394">394</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/definition-cpp/#l01929">1929</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Declaration at line 394 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line 1929 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

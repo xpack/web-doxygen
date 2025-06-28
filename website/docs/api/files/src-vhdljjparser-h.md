@@ -169,7 +169,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.</p>
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -205,7 +205,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#l00868">868</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -267,7 +267,7 @@ References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#l00845">845</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

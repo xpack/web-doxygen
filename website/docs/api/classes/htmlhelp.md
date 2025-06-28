@@ -566,7 +566,7 @@ class HtmlHelp { ... }
 
 <p>used in imageNumber param of HTMLHelp::addContentsItem() function to specify document icon in tree view. Writes &lt;param name="ImageNumber" value="xx"&gt; in .HHC file.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -627,7 +627,7 @@ class HtmlHelp { ... }
 
 <p>Constructs an html object. The object has to be <a href="#acf6cb7c477c71f2031b5831f979991d5">initialized</a> before it can be used.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00361">361</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -667,7 +667,7 @@ Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">~HtmlHelp</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 </div>
@@ -750,7 +750,7 @@ Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00548">548</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -840,7 +840,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00629">629</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -880,7 +880,7 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00485">485</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -920,7 +920,7 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00604">604</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -975,7 +975,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00624">624</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1026,7 +1026,7 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00530">530</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1079,7 +1079,7 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00494">494</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1146,7 +1146,7 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00519">519</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1199,7 +1199,7 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#l00369">369</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1271,7 +1271,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 </div>
 </div>
 
@@ -1300,7 +1300,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1343,7 +1343,7 @@ Referenced by <a href="#a1503b3b4d76049d44a45452d44722d86">addContentsItem</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1380,7 +1380,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1417,7 +1417,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htmlhelp-h/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
 <div class="doxyProgramListing">
 

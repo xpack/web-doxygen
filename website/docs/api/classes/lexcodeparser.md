@@ -170,7 +170,7 @@ class LexCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexcode-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexcode-l/#l01176">1176</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line 1176 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -215,7 +215,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexcode-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexcode-l/#l01185">1185</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line 1185 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -330,7 +330,7 @@ Reference <a href="#a5368aa527b20abbfee0d01fc5480fa63">p</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexcode-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexcode-l/#l01197">1197</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line 1197 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -461,7 +461,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a635b111e9953d65f635
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexcode-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexcode-l/#l01190">1190</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>, definition at line 1190 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -506,7 +506,7 @@ Referenced by <a href="#ab888b9484e3ea4ac127f6a4e08a66415">LexCodeParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexcode-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexcode-h">lexcode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -153,7 +153,7 @@ class vhdl::parser::TokenManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h/#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -192,7 +192,7 @@ class vhdl::parser::TokenManager { ... }
 
 <p>A token of kind 0 (<span class="doxyComputerOutput">&lt;EOF&gt;</span>) should be returned on EOF.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h/#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
 </div>
 </div>
 
@@ -221,7 +221,7 @@ class vhdl::parser::TokenManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -259,7 +259,7 @@ class vhdl::parser::TokenManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h/#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 

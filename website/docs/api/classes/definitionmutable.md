@@ -707,7 +707,7 @@ class DefinitionMutable { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00389">389</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/definition-cpp/#l01923">1923</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Declaration at line 389 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>, definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -751,7 +751,7 @@ Referenced by <a href="#a648211c215471d74b9b7330c856bce35">toDefinition&#95;</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00367">367</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a6cf8a0406e3af4549e97692503129b10">addInnerCompound</a>.
 
@@ -781,7 +781,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 
 <p>Add the list of anchors that mark the sections that are found in the documentation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00363">363</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a887b37e99fd86677550a17186db349f2">addSectionsToDefinition</a>.
 
@@ -808,7 +808,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00364">364</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#aec0335ad9b4dc58dea457a3229bbaacb">addSourceReferencedBy</a>.
 
@@ -835,7 +835,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00365">365</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a6a9e0c7716f37652c8c0e0206032b76d">addSourceReferences</a>.
 
@@ -862,7 +862,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00370">370</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 370 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#afca71d4f748e573b6c74e0544206510d">computeTooltip</a>.
 
@@ -889,7 +889,7 @@ Referenced by <a href="#afca71d4f748e573b6c74e0544206510d">computeTooltip</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00378">378</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 378 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a3b4d69eb3b88d6d4d899c00ba225cb1e">hasSourceReffedBy</a>.
 
@@ -916,7 +916,7 @@ Referenced by <a href="#a3b4d69eb3b88d6d4d899c00ba225cb1e">hasSourceReffedBy</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00377">377</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a0e61ae134b09d3644b8cfb4d831d7723">hasSourceRefs</a>.
 
@@ -943,7 +943,7 @@ Referenced by <a href="#a0e61ae134b09d3644b8cfb4d831d7723">hasSourceRefs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00358">358</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ace7c1ad57b2a21941d7dd860e7e9c9fd">makePartOfGroup</a>.
 
@@ -970,7 +970,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00369">369</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a0aed7619c413f1165fc5f9e5ade8ea96">mergeReferencedBy</a>.
 
@@ -997,7 +997,7 @@ Referenced by <a href="#a0aed7619c413f1165fc5f9e5ade8ea96">mergeReferencedBy</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00368">368</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a37617eb479f2695b0909ebd4dc437b98">mergeReferences</a>.
 
@@ -1024,7 +1024,7 @@ Referenced by <a href="#a37617eb479f2695b0909ebd4dc437b98">mergeReferences</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ac9954b7f44ce715872d177b25966e13d">mergeRefItems</a>.
 
@@ -1051,7 +1051,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00349">349</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ab96019123a53286cd0cffb0b361e9644">setArtificial</a>.
 
@@ -1078,7 +1078,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00342">342</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#acebfd2c89008fa8ef42c9ab9bf61d4b7">setBodyDef</a>.
 
@@ -1105,7 +1105,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00341">341</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a21f0601d0ac0f9d245c7a40e28adc3c6">setBodySegment</a>.
 
@@ -1135,7 +1135,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Sets the brief description of this definition to <em>b</em>. A dot is added to the sentence if not available.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00329">329</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ae704468ccbae4cbc26922db573676feb">setBriefDescription</a>.
 
@@ -1165,7 +1165,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Set a new file name and position</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00321">321</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a565023cddb3c34a61cc82683cddb9533">setDefFile</a>.
 
@@ -1195,7 +1195,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Sets the documentation of this definition to <em>d</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00324">324</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 References <a href="#a5115744bf4595f9a08a193dd41d4f4c3">setDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
@@ -1222,7 +1222,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00350">350</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a1aadabb2d113dc3b4ab86b1be7331bd9">setExported</a>.
 
@@ -1249,7 +1249,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00347">347</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a2aeddc8e815902e89321704b079a7e9a">setHidden</a>.
 
@@ -1279,7 +1279,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Sets a unique id for the symbol. Used for libclang integration.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00318">318</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ac56880b010eb61a4abad5169d9883812">setId</a>.
 
@@ -1309,7 +1309,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Set the documentation that was found inside the body of an item. If there was already some documentation set, the new documentation will be appended.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00335">335</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a8a4d82f0315802612dcd9732369eaa8a">setInbodyDocumentation</a>.
 
@@ -1336,7 +1336,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00351">351</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#aa0c1e834027250c7b3bcffcd73e96c3d">setLanguage</a>.
 
@@ -1363,7 +1363,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00352">352</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a296be549e2a6c24f2de529d70daab956">setLocalName</a>.
 
@@ -1393,7 +1393,7 @@ Referenced by <a href="#a296be549e2a6c24f2de529d70daab956">setLocalName</a>.
 
 <p>Sets a new <em>name</em> for the definition</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00315">315</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a22b8c8f07db7eb0435d27a79d2d32655">setName</a>.
 
@@ -1420,7 +1420,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00345">345</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#aa65efccc937ebf40386a667bcc6269ca">setOuterScope</a>.
 
@@ -1450,7 +1450,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 
 <p>Sets the tag file id via which this definition was imported.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00338">338</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#aeb15ea6861fdb798abaeeeb493573166">setReference</a>.
 
@@ -1477,7 +1477,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00344">344</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#af9e3dad84347230faa673e71db8d0c87">setRefItems</a>.
 
@@ -1504,7 +1504,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00385">385</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#accb2be5ad265e2c5214b857c075383b3">writeDocAnchorsToTagFile</a>.
 
@@ -1531,7 +1531,7 @@ Referenced by <a href="#accb2be5ad265e2c5214b857c075383b3">writeDocAnchorsToTagF
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00376">376</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 376 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a978c6d7b2a71f5089fdfb0cb6d3c1c3e">writeInlineCode</a>.
 
@@ -1558,7 +1558,7 @@ Referenced by <a href="#a978c6d7b2a71f5089fdfb0cb6d3c1c3e">writeInlineCode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00381">381</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#af2c2418a7407b53048ee4dbd6da54dd5">writeNavigationPath</a>.
 
@@ -1585,7 +1585,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#ae6e1b872b3bbe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00384">384</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a2590018fe669d07053deba4ae366955d">writePageNavigation</a>.
 
@@ -1612,7 +1612,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac1850678fe273
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00382">382</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a75192dbb0443e95665eca8fabd271a62">writeQuickMemberLinks</a>.
 
@@ -1639,7 +1639,7 @@ Referenced by <a href="#a75192dbb0443e95665eca8fabd271a62">writeQuickMemberLinks
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00375">375</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 375 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a898bbc45a94a48ee24d546ca47a8fa08">writeSourceDef</a>.
 
@@ -1666,7 +1666,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd98
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00380">380</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#ab7a44940cbbf95d1ff1da5c27a291153">writeSourceReffedBy</a>.
 
@@ -1693,7 +1693,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd98
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00379">379</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 379 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a4f8a1518f5eb3457b0b9bae26e2f4c73">writeSourceRefs</a>.
 
@@ -1720,7 +1720,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd98
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00383">383</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 383 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 Reference <a href="#a62634de56f13bd4bd8e90707368fc8d7">writeSummaryLinks</a>.
 
@@ -1747,7 +1747,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a0ba684cbe3b0e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00386">386</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 References <a href="#ab43e817b86eeee8909980167d1a140c8">toDefinition</a> and <a href="#abd13c11e064870232bf9ccb814547c3f">writeToc</a>.
 
@@ -1780,7 +1780,7 @@ Referenced by <a href="#abd13c11e064870232bf9ccb814547c3f">writeToc</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00390">390</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 References <a href="/web-doxygen/docs/api/files/src/definition-h/#a1b30645f1030c1ee4b259526cf6d46a7">readCodeFragment</a>, <a href="#ab43e817b86eeee8909980167d1a140c8">toDefinition</a>, <a href="#a648211c215471d74b9b7330c856bce35">toDefinition&#95;</a> and <a href="/web-doxygen/docs/api/files/src/definition-h/#afe6bb7de7547134d0e29feddc1f894d7">toDefinitionMutable</a>.
 

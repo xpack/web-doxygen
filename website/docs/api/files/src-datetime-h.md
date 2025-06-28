@@ -248,7 +248,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -325,7 +325,7 @@ toc_max_heading_level: 4
 </dl>
 
 
-<p>Declaration at line <a href="#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -411,7 +411,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </dd>
 </dl>
 
-<p>Declaration at line <a href="#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -477,7 +477,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 </dd>
 </dl>
 
-<p>Declaration at line <a href="#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00175">175</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -566,7 +566,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 <p>Returns the filled in std::tm for the current date and time.</p>
 
-<p>Declaration at line <a href="#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -651,7 +651,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -689,7 +689,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 <p>Returns the current year as a string.</p>
 
-<p>Declaration at line <a href="#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>, definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -741,7 +741,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5
 
 <p>a date is presenting in the format string</p>
 
-<p>Definition at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -778,7 +778,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 <div class="doxyMemberDoc">
 <p>number of bits in SF vector</p>
 
-<p>Definition at line <a href="#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -815,7 +815,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 <p>the seconds are presenting in the format string</p>
 
-<p>Definition at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -852,7 +852,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 <div class="doxyMemberDoc">
 <p>a time is presenting in the format string</p>
 
-<p>Definition at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/datetime-h">datetime.h</a>.</p>
 
 <div class="doxyProgramListing">
 

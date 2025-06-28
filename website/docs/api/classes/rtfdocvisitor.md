@@ -1230,7 +1230,7 @@ class RTFDocVisitor { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1272,7 +1272,7 @@ References <a href="#a4948ccf2a491663a91479243554243cd">m&#95;ci</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00119">119</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1310,7 +1310,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1350,7 +1350,7 @@ References <a href="/web-doxygen/docs/api/classes/doclinkedword/#aa660e6600aa99d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00137">137</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1395,7 +1395,7 @@ References <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3ef
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00152">152</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1441,7 +1441,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00168">168</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1513,7 +1513,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00210">210</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1573,7 +1573,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00240">240</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1611,7 +1611,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00248">248</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1649,7 +1649,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00256">256</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1742,7 +1742,7 @@ References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00319">319</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1895,7 +1895,7 @@ References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00442">442</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 442 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1947,7 +1947,7 @@ References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00464">464</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2065,7 +2065,7 @@ References <a href="/web-doxygen/docs/api/classes/docinclude/#a0a32ad9c12a12a666
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00552">552</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 552 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2157,7 +2157,7 @@ References <a href="/web-doxygen/docs/api/classes/docincoperator/#ab59377a5d6002
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00614">614</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 614 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2208,7 +2208,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00635">635</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2246,7 +2246,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00643">643</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2278,7 +2278,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00647">647</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2331,7 +2331,7 @@ References <a href="/web-doxygen/docs/api/classes/doccite/#acb79082b3765794abb19
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01425">1425</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1425 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2366,7 +2366,7 @@ References <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00675">675</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2414,7 +2414,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00693">693</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2484,7 +2484,7 @@ References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00733">733</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2531,7 +2531,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00750">750</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 750 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2574,7 +2574,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00763">763</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2681,7 +2681,7 @@ References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00840">840</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 840 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2718,7 +2718,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00847">847</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2762,7 +2762,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00861">861</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 861 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2807,7 +2807,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00876">876</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 876 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2871,7 +2871,7 @@ References <a href="/web-doxygen/docs/api/classes/docsection/#abcd4b7aefb6d755c6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00910">910</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2930,7 +2930,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00939">939</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3014,7 +3014,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00993">993</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 993 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3057,7 +3057,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01006">1006</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1006 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3101,7 +3101,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01020">1020</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3144,7 +3144,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01033">1033</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1033 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3198,7 +3198,7 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#ad71b7d8e7cff7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01057">1057</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1057 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3235,7 +3235,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01064">1064</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1064 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3299,7 +3299,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01098">1098</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1098 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3340,7 +3340,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a1c683042
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01109">1109</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1109 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3376,7 +3376,7 @@ References <a href="#a8adcc63dc189a8e625ff27867dedbe25">m&#95;hide</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01115">1115</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1115 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3455,7 +3455,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01164">1164</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1164 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3493,7 +3493,7 @@ References <a href="#a8adcc63dc189a8e625ff27867dedbe25">m&#95;hide</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01172">1172</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3546,7 +3546,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01195">1195</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1195 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3597,7 +3597,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01281">1281</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1281 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3635,7 +3635,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01290">1290</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1290 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3674,7 +3674,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01298">1298</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1298 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3713,7 +3713,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01307">1307</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1307 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3752,7 +3752,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01316">1316</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1316 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3797,7 +3797,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01331">1331</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1331 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3836,7 +3836,7 @@ References <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb5321
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01340">1340</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1340 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3886,7 +3886,7 @@ References <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01361">1361</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1361 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3922,7 +3922,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01367">1367</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1367 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3968,7 +3968,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01383">1383</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1383 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4040,7 +4040,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01430">1430</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4201,7 +4201,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00097">97</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01561">1561</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1561 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4292,7 +4292,7 @@ References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01622">1622</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1622 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4332,7 +4332,7 @@ References <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01632">1632</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1632 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4369,7 +4369,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00100">100</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01639">1639</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1639 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4414,7 +4414,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00101">101</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01654">1654</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1654 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4446,7 +4446,7 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01658">1658</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1658 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4488,7 +4488,7 @@ References <a href="#a8adcc63dc189a8e625ff27867dedbe25">m&#95;hide</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 127 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4525,7 +4525,7 @@ Referenced by <a href="#a39a5bf02292d858e211a2cb3ee3f62c1">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00121">121</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01730">1730</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1730 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4570,7 +4570,7 @@ Referenced by <a href="#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00118">118</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01672">1672</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 118 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1672 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4630,7 +4630,7 @@ Referenced by <a href="#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00123">123</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 123 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4675,7 +4675,7 @@ Referenced by <a href="#a39a5bf02292d858e211a2cb3ee3f62c1">operator()</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00122">122</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 122 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4714,7 +4714,7 @@ Referenced by <a href="#a39a5bf02292d858e211a2cb3ee3f62c1">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00101">101</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 126 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4755,7 +4755,7 @@ Referenced by <a href="#a39a5bf02292d858e211a2cb3ee3f62c1">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01253">1253</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 130 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1253 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4815,7 +4815,7 @@ Referenced by <a href="#a8991833ac99826e07a993af4b58b0c4b">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00129">129</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01216">1216</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 129 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1216 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4884,7 +4884,7 @@ Referenced by <a href="#a247c4506996a3a6d71827322614efb30">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00125">125</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 125 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4921,7 +4921,7 @@ Referenced by <a href="#a7467e3f0f800ca5303ce1e6e473cdcfe">getStyle</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00119">119</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01700">1700</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1700 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4989,7 +4989,7 @@ Referenced by <a href="#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5027,7 +5027,7 @@ Referenced by <a href="#a74283afcc3656534bef009b917a9f525">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00135">135</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01770">1770</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 135 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1770 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5067,7 +5067,7 @@ Referenced by <a href="#a8991833ac99826e07a993af4b58b0c4b">operator()</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00131">131</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01747">1747</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 131 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1747 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5109,7 +5109,7 @@ Referenced by <a href="#a33dd9566336e1d3c40ea2dadff6d8676">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01743">1743</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 132 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1743 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5144,7 +5144,7 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00133">133</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01761">1761</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 133 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1761 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5185,7 +5185,7 @@ Referenced by <a href="#a732b1d92dfc620e4cb221bbb32fade22">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01757">1757</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 134 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1757 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5220,7 +5220,7 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#l01778">1778</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
+<p>Declaration at line 136 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>, definition at line 1778 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp">rtfdocvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5266,7 +5266,7 @@ Referenced by <a href="#a4f3ac1fc0fb8cb8218beb807d0a820d1">operator()</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00143">143</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5298,7 +5298,7 @@ Referenced by <a href="#ac315ddf81b73a005764278a3c190d1a4">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00145">145</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5330,7 +5330,7 @@ Referenced by <a href="#a489cc0ae371a7749b2bb9736ead27a19">includePicturePostRTF
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00151">151</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5362,7 +5362,7 @@ Referenced by <a href="#adae81723bf98cc11856ec916852cf089">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5394,7 +5394,7 @@ Referenced by <a href="#a7a1c80a721716cb64c2a82e80cbff047">decIndentLevel</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5426,7 +5426,7 @@ Referenced by <a href="#af3beab942bf46b1f903ac30ac39a10d2">operator()</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5458,7 +5458,7 @@ Referenced by <a href="#a75e708a4ea1b27587678f424211b8b62">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00146">146</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5490,7 +5490,7 @@ Referenced by <a href="#adc9cf36e3e61b81df2b0ada024366806">endLink</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5522,7 +5522,7 @@ Referenced by <a href="#a74283afcc3656534bef009b917a9f525">operator()</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5565,7 +5565,7 @@ Referenced by <a href="#adc9cf36e3e61b81df2b0ada024366806">endLink</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h/#l00149">149</a> of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

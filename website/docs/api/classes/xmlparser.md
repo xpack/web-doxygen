@@ -265,7 +265,7 @@ class XMLParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -316,7 +316,7 @@ class XMLParser { ... }
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00436">436</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line 436 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -359,7 +359,7 @@ Referenced by <a href="#a618752ff31a52f1d15eff066f1388bf0">operator=</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 </div>
@@ -389,7 +389,7 @@ Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 </div>
@@ -423,7 +423,7 @@ Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 
 <p>Destructor</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00442">442</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line 442 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -469,7 +469,7 @@ Reference <a href="#a38ae48d06930f9672f64cbf1adb9a242">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 </div>
@@ -499,7 +499,7 @@ Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 </div>
@@ -565,7 +565,7 @@ Reference <a href="#a9856a2a00cc80bea9de207cb444111f9">XMLParser</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00447">447</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -662,7 +662,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a92074847
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00507">507</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line 507 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -705,7 +705,7 @@ Referenced by <a href="#ad9b0a380760223431fbb84d35a8f12e9">parse</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00501">501</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>, definition at line 501 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -747,7 +747,7 @@ Reference <a href="#a38ae48d06930f9672f64cbf1adb9a242">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-h/#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
 
 <div class="doxyProgramListing">
 

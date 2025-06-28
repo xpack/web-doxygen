@@ -67,7 +67,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-h">tagreader.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#l01864">1864</a> of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+<p>Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/tagreader-h">tagreader.h</a>, definition at line 1864 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

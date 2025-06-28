@@ -69,7 +69,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/declinfo-h">declinfo.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/declinfo-l/#l00325">325</a> of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/declinfo-h">declinfo.h</a>, definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
 
 <div class="doxyProgramListing">
 

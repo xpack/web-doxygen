@@ -113,7 +113,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l01866">1866</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 

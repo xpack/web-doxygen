@@ -539,7 +539,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -580,7 +580,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00862">862</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -626,7 +626,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 <p>Examines current stack of white-space indentations; re-syncs the parser with the correct scope.</p>
 
-<p>Definition at line <a href="#l00792">792</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 792 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -687,7 +687,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00901">901</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -763,7 +763,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01016">1016</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -804,7 +804,7 @@ Referenced by <a href="#a1f4ddb72f0f713d700ec20f419ee58ac">findMemberLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01133">1133</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -870,7 +870,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 <p>counts the number of lines in the input</p>
 
-<p>Definition at line <a href="#l00823">823</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -922,7 +922,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01024">1024</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1024 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -965,7 +965,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01116">1116</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1116 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1013,7 +1013,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01417">1417</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1086,7 +1086,7 @@ Referenced by <a href="#a1f4ddb72f0f713d700ec20f419ee58ac">findMemberLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01455">1455</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1143,7 +1143,7 @@ References <a href="#a571c87662576c76ff69447c012c7d72f">codify</a>, <a href="#a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01233">1233</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1233 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1310,7 +1310,7 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01374">1374</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1374 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1387,7 +1387,7 @@ References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00163">163</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1422,7 +1422,7 @@ References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01205">1205</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1205 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1479,7 +1479,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01163">1163</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1554,7 +1554,7 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01477">1477</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1477 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1603,7 +1603,7 @@ References <a href="/web-doxygen/docs/api/classes/doxygen/#a9ada31fbc29681eedb5f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01034">1034</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1034 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1654,7 +1654,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01622">1622</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1622 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1698,7 +1698,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00844">844</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1752,7 +1752,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 <p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-<p>Definition at line <a href="#l00948">948</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1853,7 +1853,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01097">1097</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1905,7 +1905,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00122">122</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
 </div>
@@ -1935,7 +1935,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00872">872</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 872 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2001,7 +2001,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a337616be3bea43c6c1
 
 <p>writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.</p>
 
-<p>Definition at line <a href="#l01055">1055</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 1055 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2071,7 +2071,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00217">217</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2622,7 +2622,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00771">771</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2671,7 +2671,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2701,7 +2701,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00160">160</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2731,7 +2731,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2761,7 +2761,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2791,7 +2791,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
 
 <div class="doxyProgramListing">
 

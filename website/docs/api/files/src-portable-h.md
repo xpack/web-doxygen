@@ -120,7 +120,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6c24725da6b5b59e4c8867995e84648f">configStringRecode</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#ad2df37d9e386ae992a5aa98ab9a0515c">encodeForOutput</a>, <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#a54cf0d51cc8f1d0cbac630757606f50b">HtmlHelpRecoder::recode</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a724f5508f1314342da28cc51b867431b">Portable::recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70c91a538e4038f2157b046a1157acac">transcodeCharacterBuffer</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5030d1ce0680325d5a1fa0d7a36448c5">transcodeCharacterStringToUTF8</a>.
 </div>
@@ -145,7 +145,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6c24725da6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6c24725da6b5b59e4c8867995e84648f">configStringRecode</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#ad2df37d9e386ae992a5aa98ab9a0515c">encodeForOutput</a>, <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#a1a26634d3db023f8cdbe4f19db32ceee">HtmlHelpRecoder::finalize</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a724f5508f1314342da28cc51b867431b">Portable::recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70c91a538e4038f2157b046a1157acac">transcodeCharacterBuffer</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5030d1ce0680325d5a1fa0d7a36448c5">transcodeCharacterStringToUTF8</a>.
 </div>
@@ -170,7 +170,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6c24725da6b5b59e4c8867995e84648f">configStringRecode</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#ad2df37d9e386ae992a5aa98ab9a0515c">encodeForOutput</a>, <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#aaf8015f456496f1510c8e8643f959376">HtmlHelpRecoder::initialize</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a724f5508f1314342da28cc51b867431b">Portable::recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70c91a538e4038f2157b046a1157acac">transcodeCharacterBuffer</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5030d1ce0680325d5a1fa0d7a36448c5">transcodeCharacterStringToUTF8</a>.
 </div>

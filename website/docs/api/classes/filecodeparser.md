@@ -187,7 +187,7 @@ class FileCodeParser { ... }
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fileparser-h/#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/fileparser-h">fileparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fileparser-cpp/#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/src/fileparser-cpp">fileparser.cpp</a>.</p>
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/fileparser-h">fileparser.h</a>, definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/fileparser-cpp">fileparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -271,7 +271,7 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a346e7da814676
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fileparser-h/#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/fileparser-h">fileparser.h</a>.</p>
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/fileparser-h">fileparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 

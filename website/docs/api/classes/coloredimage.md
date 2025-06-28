@@ -154,7 +154,7 @@ class ColoredImage { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/image-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/image-cpp/#l00432">432</a> of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -218,7 +218,7 @@ Referenced by <a href="#a15d68911020c041ae76934d6e9bf4806">~ColoredImage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/image-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
 
 Reference <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a>.
 </div>
@@ -249,7 +249,7 @@ Reference <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/image-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/image-cpp/#l00460">460</a> of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -302,7 +302,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/image-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -345,7 +345,7 @@ Referenced by <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/image-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/image-cpp/#l00368">368</a> of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -83,7 +83,7 @@ struct XMLParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00433">433</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct XMLParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/libxml/xml-l/#l00432">432</a> of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+<p>Definition at line 432 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
 
 <div class="doxyProgramListing">
 

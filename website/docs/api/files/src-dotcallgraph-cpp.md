@@ -76,7 +76,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/dotcallgraph-cpp">dotcallgraph.cpp</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/dotcallgraph-cpp">dotcallgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

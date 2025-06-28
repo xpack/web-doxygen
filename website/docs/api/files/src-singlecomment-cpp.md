@@ -89,7 +89,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string.</p>
 
-<p>Definition at line <a href="#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -191,7 +191,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

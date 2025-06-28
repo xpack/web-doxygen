@@ -2132,7 +2132,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2162,7 +2162,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00452">452</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 452 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2192,7 +2192,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00181">181</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2222,7 +2222,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2291,7 +2291,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2349,7 +2349,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00433">433</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 433 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2411,7 +2411,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00425">425</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 425 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2479,7 +2479,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00191">191</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2552,7 +2552,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00415">415</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2600,7 +2600,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04569">4569</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4569 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2669,7 +2669,7 @@ Referenced by <a href="#a0ca04f9cfa633f92d16cdab66a3635db">handleImage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04372">4372</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4372 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2717,7 +2717,7 @@ References <a href="#a9806f33cfd9d47bb4fca710cce153466">g&#95;citeMutex</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04296">4296</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4296 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2773,7 +2773,7 @@ References <a href="/web-doxygen/docs/api/classes/formulamanager/#a263c84263295a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04624">4624</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4624 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2817,7 +2817,7 @@ Referenced by <a href="#abc7e7b10db0467ec67569096d637bf01">endBrief</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04631">4631</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4631 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2860,7 +2860,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04602">4602</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4602 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2903,7 +2903,7 @@ Referenced by <a href="#af2998873ea2f67f5127f7efd25e947df">addIline</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04610">4610</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4610 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2944,7 +2944,7 @@ Referenced by <a href="#af2998873ea2f67f5127f7efd25e947df">addIline</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04618">4618</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4618 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2983,7 +2983,7 @@ Referenced by <a href="#af2998873ea2f67f5127f7efd25e947df">addIline</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04325">4325</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4325 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3063,7 +3063,7 @@ References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04206">4206</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4206 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3186,7 +3186,7 @@ Referenced by <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04684">4684</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4684 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3234,7 +3234,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04150">4150</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4150 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3276,7 +3276,7 @@ Referenced by <a href="#a64ea78f664967e4f8113bda787a01cc1">handleCategory</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04638">4638</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4638 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3342,7 +3342,7 @@ References <a href="#af2998873ea2f67f5127f7efd25e947df">addIline</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00566">566</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3377,7 +3377,7 @@ References <a href="#af2998873ea2f67f5127f7efd25e947df">addIline</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03413">3413</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3413 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3420,7 +3420,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02906">2906</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2906 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3464,7 +3464,7 @@ References <a href="/web-doxygen/docs/api/classes/entry/#a470b655d0d6179559a11a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03329">3329</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3329 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3515,7 +3515,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02852">2852</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2852 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3557,7 +3557,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03171">3171</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3171 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3601,7 +3601,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03736">3736</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3736 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3643,7 +3643,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03722">3722</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3722 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3685,7 +3685,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02983">2983</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2983 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3729,7 +3729,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03370">3370</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3370 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3784,7 +3784,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02940">2940</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2940 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3828,7 +3828,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03820">3820</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3820 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3870,7 +3870,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02949">2949</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2949 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3914,7 +3914,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04085">4085</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4085 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3967,7 +3967,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04103">4103</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4103 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4015,7 +4015,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04116">4116</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4116 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4071,7 +4071,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02870">2870</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2870 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4117,7 +4117,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02897">2897</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2897 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4161,7 +4161,7 @@ References <a href="/web-doxygen/docs/api/classes/entry/#a470b655d0d6179559a11a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03180">3180</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3180 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4205,7 +4205,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03110">3110</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3110 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4252,7 +4252,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03079">3079</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3079 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4296,7 +4296,7 @@ Reference <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03806">3806</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3806 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4338,7 +4338,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03624">3624</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3624 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4407,7 +4407,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03597">3597</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3597 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4469,7 +4469,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03658">3658</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3658 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4539,7 +4539,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03215">3215</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3215 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4588,7 +4588,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02889">2889</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2889 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4631,7 +4631,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03088">3088</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3088 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4688,7 +4688,7 @@ References <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04077">4077</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4077 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4731,7 +4731,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03049">3049</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3049 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4778,7 +4778,7 @@ Reference <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03421">3421</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3421 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4818,7 +4818,7 @@ Reference <a href="#a0ebe50fa5f3c75360a5fcfda16fd0317">handleFileInfoResult</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03429">3429</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3429 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4944,7 +4944,7 @@ Referenced by <a href="#ac8420300a40d680c46cbc3dd309b3062">handleFileInfo</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03425">3425</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3425 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4984,7 +4984,7 @@ Reference <a href="#a0ebe50fa5f3c75360a5fcfda16fd0317">handleFileInfoResult</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02859">2859</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2859 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5030,7 +5030,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03390">3390</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3390 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5088,7 +5088,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03834">3834</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3834 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5130,7 +5130,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04846">4846</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4846 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5217,7 +5217,7 @@ References <a href="#a83faa6554b2d8d0f095551b84f726c7fa7d832af919ed50ad24d7594b7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02967">2967</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2967 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5259,7 +5259,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03743">3743</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3743 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5301,7 +5301,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03729">3729</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3729 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5343,7 +5343,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03827">3827</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3827 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5385,7 +5385,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03813">3813</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3813 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5427,7 +5427,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03757">3757</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3757 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5469,7 +5469,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03841">3841</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3841 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5511,7 +5511,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03799">3799</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3799 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5553,7 +5553,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03792">3792</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3792 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5595,7 +5595,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03887">3887</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3887 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5637,7 +5637,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03715">3715</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3715 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5679,7 +5679,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03771">3771</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3771 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5721,7 +5721,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03901">3901</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3901 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5763,7 +5763,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03915">3915</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3915 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5805,7 +5805,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03019">3019</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3019 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5849,7 +5849,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03561">3561</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3561 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5902,7 +5902,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03538">3538</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3538 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5945,7 +5945,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03579">3579</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3579 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5998,7 +5998,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03530">3530</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3530 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6041,7 +6041,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03345">3345</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3345 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6101,7 +6101,7 @@ References <a href="#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03785">3785</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3785 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6143,7 +6143,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03778">3778</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3778 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6185,7 +6185,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03693">3693</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3693 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6228,7 +6228,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04070">4070</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4070 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6270,7 +6270,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03848">3848</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3848 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6344,7 +6344,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03010">3010</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3010 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6388,7 +6388,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03930">3930</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3930 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6446,7 +6446,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03553">3553</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3553 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6489,7 +6489,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03546">3546</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3546 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6531,7 +6531,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03518">3518</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3518 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6578,7 +6578,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03036">3036</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3036 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6626,7 +6626,7 @@ References <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03257">3257</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3257 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6675,7 +6675,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02958">2958</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2958 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6719,7 +6719,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03137">3137</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3137 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6770,7 +6770,7 @@ References <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02924">2924</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2924 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6813,7 +6813,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03130">3130</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3130 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6855,7 +6855,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03701">3701</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3701 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6897,7 +6897,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02881">2881</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2881 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6940,7 +6940,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02932">2932</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2932 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6983,7 +6983,7 @@ Reference <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03028">3028</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3028 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7026,7 +7026,7 @@ Reference <a href="#a484e40378e3417b031703d1296f3d023">makeStructuralIndicator</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03061">3061</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3061 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7071,7 +7071,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03197">3197</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3197 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7124,7 +7124,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03967">3967</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3967 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7166,7 +7166,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03974">3974</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3974 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7208,7 +7208,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03981">3981</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3981 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7250,7 +7250,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03988">3988</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3988 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7292,7 +7292,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02974">2974</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2974 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7336,7 +7336,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03995">3995</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3995 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7378,7 +7378,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04002">4002</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4002 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7420,7 +7420,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03960">3960</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3960 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7462,7 +7462,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03922">3922</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3922 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7505,7 +7505,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03122">3122</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3122 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7548,7 +7548,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03894">3894</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3894 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7590,7 +7590,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03908">3908</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3908 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7632,7 +7632,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03271">3271</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3271 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7675,7 +7675,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03229">3229</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3229 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7724,7 +7724,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03243">3243</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3243 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7773,7 +7773,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03071">3071</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3071 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7816,7 +7816,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03279">3279</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3279 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7880,7 +7880,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03750">3750</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3750 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7922,7 +7922,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03708">3708</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3708 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7964,7 +7964,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03764">3764</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3764 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8006,7 +8006,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03953">3953</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3953 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8048,7 +8048,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03001">3001</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3001 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8092,7 +8092,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03308">3308</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3308 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8148,7 +8148,7 @@ References <a href="#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03162">3162</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3162 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8192,7 +8192,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04009">4009</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4009 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8288,7 +8288,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03153">3153</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3153 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8332,7 +8332,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02992">2992</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2992 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8376,7 +8376,7 @@ Reference <a href="#a9a61e8b784bf443d36e0c9a5ca5a944f">checkStructuralIndicator<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02915">2915</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 2915 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8420,7 +8420,7 @@ References <a href="/web-doxygen/docs/api/classes/entry/#a470b655d0d6179559a11a8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l03189">3189</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 3189 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8463,7 +8463,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04139">4139</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4139 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8509,7 +8509,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04183">4183</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4183 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8549,7 +8549,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04157">4157</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4157 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8608,7 +8608,7 @@ Referenced by <a href="#a3a82394a9aaa1cdf543c1acb47d8f2e4">handleAddToGroup</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04319">4319</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4319 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8652,7 +8652,7 @@ Referenced by <a href="#af9360a554b5e9b817c991a39445e2b39">addSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04417">4417</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4417 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8840,7 +8840,7 @@ Referenced by <a href="#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 </div>
 </div>
 
@@ -8868,7 +8868,7 @@ Referenced by <a href="#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04192">4192</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4192 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8915,7 +8915,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04389">4389</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4389 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8974,7 +8974,7 @@ Referenced by <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00697">697</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11160,7 +11160,7 @@ Referenced by <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04668">4668</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4668 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11213,7 +11213,7 @@ Referenced by <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00208">208</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11448,7 +11448,7 @@ Referenced by <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00528">528</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11485,7 +11485,7 @@ Referenced by <a href="#a2b8e4d926adebd224807ed5d9f0e3192">addCite</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00527">527</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11522,7 +11522,7 @@ Referenced by <a href="#ad7328f0606e5f8d93daecd7d5babee1d">addFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00526">526</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11559,7 +11559,7 @@ Referenced by <a href="#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l04386">4386</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4386 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 Referenced by <a href="#abc7e7b10db0467ec67569096d637bf01">endBrief</a> and <a href="#a3de3cea0489d29101ce232bbc41789da">setOutput</a>.
 </div>
@@ -11590,7 +11590,7 @@ Referenced by <a href="#abc7e7b10db0467ec67569096d637bf01">endBrief</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00558">558</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 558 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11622,7 +11622,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab8df06c9b8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00563">563</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11652,7 +11652,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab8df06c9b8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00412">412</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 412 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11682,7 +11682,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab8df06c9b8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00410">410</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 410 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11712,7 +11712,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab8df06c9b8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00411">411</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11742,7 +11742,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab8df06c9b8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -86,7 +86,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-h">xmlgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l02196">2196</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-h">xmlgen.h</a>, definition at line 2196 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

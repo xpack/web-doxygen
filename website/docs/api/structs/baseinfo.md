@@ -134,7 +134,7 @@ struct BaseInfo { ... }
 
 <p>Creates an object representing an inheritance relation</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00092">92</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -173,7 +173,7 @@ References <a href="#ae8bba327d477830b4664f9d03b05c97b">name</a>, <a href="#aaf4
 <div class="doxyMemberDoc">
 <p>the name of the base class</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -205,7 +205,7 @@ Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a>, <a href
 <div class="doxyMemberDoc">
 <p>inheritance type</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -237,7 +237,7 @@ Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a> and <a h
 <div class="doxyMemberDoc">
 <p>virtualness</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -380,7 +380,7 @@ class CiteInfoOption { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -431,7 +431,7 @@ class CiteInfoOption { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -467,7 +467,7 @@ References <a href="#ad3007072b457519c288280e4002ab091">CiteInfoOption</a> and <
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -512,7 +512,7 @@ Referenced by <a href="#a5b9cb6e8f165445d2bfda4d5f2a2af16">operator!=</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -555,7 +555,7 @@ Referenced by <a href="#a0cf6e6882211a46e19815d290d106029">makeNumber</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -598,7 +598,7 @@ Reference <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -637,7 +637,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -674,7 +674,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -711,7 +711,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -750,7 +750,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -787,7 +787,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -824,7 +824,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -861,7 +861,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -900,7 +900,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -940,7 +940,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -984,7 +984,7 @@ Referenced by <a href="#acfddc5e16040dfdc4275737de69110cc">changeToNumber</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1024,7 +1024,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1064,7 +1064,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
 <div class="doxyProgramListing">
 

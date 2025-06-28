@@ -269,7 +269,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -308,7 +308,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -349,7 +349,7 @@ Referenced by <a href="#a2027564d4381eb6e539320ee8b2e0bcd">convertUTF8ToUpper</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00152">152</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -422,7 +422,7 @@ Referenced by <a href="#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -512,7 +512,7 @@ Referenced by <a href="#a7cbb154918671e6150695e6ea1bbcf6e">caseConvert</a>, <a h
 <div class="doxyMemberDoc">
 <p>Converts the input string into a lower case version, also taking into account non-ASCII characters that has a lower case variant.</p>
 
-<p>Definition at line <a href="#l00187">187</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -549,7 +549,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3
 <div class="doxyMemberDoc">
 <p>Converts the input string into a upper case version, also taking into account non-ASCII characters that has a upper case variant.</p>
 
-<p>Definition at line <a href="#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -596,7 +596,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1
 
 <p>Decodes a given input of utf8 data to a unicode code point given the number of bytes it's made of</p>
 
-<p>Definition at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -640,7 +640,7 @@ Referenced by <a href="#a62db715498978c35a035b241e6ebdafb">convertUTF8CharToUnic
 <div class="doxyMemberDoc">
 <p>Returns the 32bit Unicode value matching character at byte position pos in the UTF8 encoded input.</p>
 
-<p>Definition at line <a href="#l00135">135</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -682,7 +682,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf
 
 <p>The resulting string can be a multi byte sequence.</p>
 
-<p>Definition at line <a href="#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -722,7 +722,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3
 <div class="doxyMemberDoc">
 <p>Returns the number of bytes making up a single UTF8 character given the first byte in the sequence.</p>
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -782,7 +782,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d909
 <div class="doxyMemberDoc">
 <p>Returns true iff the input string at byte position pos holds an upper case character.</p>
 
-<p>Definition at line <a href="#l00218">218</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -827,7 +827,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 
 <p>Returns the byte size of the character if there is match or 0 if not.</p>
 
-<p>Definition at line <a href="#l00228">228</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -863,7 +863,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d909
 <div class="doxyMemberDoc">
 <p>Check if the given Unicode character represents a punctuation character.</p>
 
-<p>Definition at line <a href="#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -901,7 +901,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf
 <div class="doxyMemberDoc">
 <p>Returns true iff the last character in input is a multibyte character.</p>
 
-<p>Definition at line <a href="#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -937,7 +937,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 <div class="doxyMemberDoc">
 <p>Writes the UTF8 character pointed to by s to stream t and returns a pointer to the next character.</p>
 
-<p>Definition at line <a href="#l00197">197</a> of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

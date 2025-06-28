@@ -172,7 +172,7 @@ class SysTimeKeeper { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -211,7 +211,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07ed
 <div class="doxyMemberDoc">
 <p>start a timer for this thread</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -254,7 +254,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f
 <div class="doxyMemberDoc">
 <p>ends a timer for this thread, accumulate time difference since start</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -308,7 +308,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -340,7 +340,7 @@ Referenced by <a href="#a4f6d6e92f23a8bc80ef6ec257295f101">elapsedTime</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -372,7 +372,7 @@ Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -415,7 +415,7 @@ Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

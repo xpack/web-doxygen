@@ -139,7 +139,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -174,7 +174,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#l00490">490</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -217,7 +217,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a68
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#l00503">503</a> of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

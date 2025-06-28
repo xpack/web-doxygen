@@ -83,7 +83,7 @@ struct CCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/code-l/#l04063">4063</a> of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+<p>Definition at line 4063 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct CCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/code-l/#l04062">4062</a> of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+<p>Definition at line 4062 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -217,7 +217,7 @@ class EmojiEntityMapper { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01960">1960</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1960 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -268,7 +268,7 @@ Referenced by <a href="#a6b4ebc91738fb8f8af7459346a86f49b">instance</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01973">1973</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1973 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -327,7 +327,7 @@ Referenced by <a href="#a6b4ebc91738fb8f8af7459346a86f49b">instance</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l02026">2026</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2026 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -385,7 +385,7 @@ Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01990">1990</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1990 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -444,7 +444,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c0
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l02016">2016</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2016 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -481,7 +481,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c
 <div class="doxyMemberDoc">
 <p>Writes the list of supported emojis to the given file.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01999">1999</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1999 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -531,7 +531,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -574,7 +574,7 @@ Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>
 <div class="doxyMemberDoc">
 <p>Returns the one and only instance of the Emoji entity mapper.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#l01978">1978</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1978 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -623,7 +623,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/emoji-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
 
 <div class="doxyProgramListing">
 

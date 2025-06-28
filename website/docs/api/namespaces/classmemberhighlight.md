@@ -126,7 +126,7 @@ namespace ClassMemberHighlight { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/index-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.</p>
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.</p>
 
 <div class="doxyProgramListing">
 

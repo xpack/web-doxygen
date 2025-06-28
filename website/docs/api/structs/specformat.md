@@ -109,7 +109,7 @@ struct SpecFormat { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -139,7 +139,7 @@ struct SpecFormat { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -169,7 +169,7 @@ struct SpecFormat { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -199,7 +199,7 @@ struct SpecFormat { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

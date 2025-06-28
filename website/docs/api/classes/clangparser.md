@@ -211,7 +211,7 @@ class ClangParser { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -251,7 +251,7 @@ Referenced by <a href="#afeda45c0fa8d3bd57ead3c5827552bb8">ClangTUParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-cpp/#l00995">995</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line 995 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -298,7 +298,7 @@ Referenced by <a href="#afeda45c0fa8d3bd57ead3c5827552bb8">ClangTUParser</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-cpp/#l00999">999</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -336,7 +336,7 @@ Referenced by <a href="#afeda45c0fa8d3bd57ead3c5827552bb8">ClangTUParser</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-cpp/#l01003">1003</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line 1003 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -377,7 +377,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
 </div>
 </div>
 
@@ -406,7 +406,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -449,7 +449,7 @@ Referenced by <a href="#acbfff98bae20ac65c370e5f418fc271c">ClangParser</a>.
 <div class="doxyMemberDoc">
 <p>Returns the one and only instance of the class.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-cpp/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>, definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -499,7 +499,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/clangparser-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/clangparser-h">clangparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 

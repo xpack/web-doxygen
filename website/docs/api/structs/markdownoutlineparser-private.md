@@ -70,7 +70,7 @@ struct MarkdownOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l03618">3618</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 3618 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

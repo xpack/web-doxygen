@@ -127,7 +127,7 @@ struct JJEnter&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -171,7 +171,7 @@ Reference <a href="#a7e140822bd84e2ae644d2865179d757f">JJEnter&lt; T &gt;::f</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -208,7 +208,7 @@ Reference <a href="#a7e140822bd84e2ae644d2865179d757f">JJEnter&lt; T &gt;::f</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
 
 <div class="doxyProgramListing">
 

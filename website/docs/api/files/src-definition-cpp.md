@@ -290,7 +290,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01547">1547</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1547 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -357,7 +357,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -409,7 +409,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a11dbc9f8f8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00157">157</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -501,7 +501,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#afa510f0e0d
 
 <p>The file is scanned for a opening bracket ('{') from <em>startLine</em> onward The line actually containing the bracket is returned via startLine. The file is scanned for a closing bracket ('}') from <em>endLine</em> backward. The line actually containing the bracket is returned via endLine. Note that for VHDL code the bracket search is not done.</p>
 
-<p>Definition at line <a href="#l00749">749</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -692,7 +692,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01061">1061</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1061 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -744,7 +744,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a4fb272d2b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00227">227</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -786,7 +786,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionaliasimpl/#ac69a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01534">1534</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1534 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -829,7 +829,7 @@ Referenced by <a href="#a73a802f4c5838f2ebe51f19aa9c2d8ea">abbreviate</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01923">1923</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -867,7 +867,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acc3d9699d44
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01929">1929</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1929 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -914,7 +914,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01718">1718</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1718 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -951,7 +951,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#af761f68b43
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01217">1217</a> of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+<p>Definition at line 1217 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

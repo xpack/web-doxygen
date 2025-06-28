@@ -83,7 +83,7 @@ struct SQLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00385">385</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct SQLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00384">384</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 

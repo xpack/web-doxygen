@@ -90,7 +90,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
 
 <div class="doxyProgramListing">
 

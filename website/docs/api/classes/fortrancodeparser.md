@@ -199,7 +199,7 @@ class FortranCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortrancode-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l01460">1460</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line 1460 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -247,7 +247,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparserfixed/#a62
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortrancode-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l01470">1470</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line 1470 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -362,7 +362,7 @@ Reference <a href="#a8df3de5a46d7ba39548b84645c55e0f4">p</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortrancode-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l01485">1485</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line 1485 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -515,7 +515,7 @@ References <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13b02
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortrancode-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#l01475">1475</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>, definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -563,7 +563,7 @@ Referenced by <a href="#a21fc1ba3570d499b095e5ba8559f287f">FortranCodeParser</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortrancode-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

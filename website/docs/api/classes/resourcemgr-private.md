@@ -70,7 +70,7 @@ class ResourceMgr::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

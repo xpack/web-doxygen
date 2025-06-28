@@ -147,7 +147,7 @@ struct Htags { ... }
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htags-h/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htags-cpp/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+<p>Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -278,7 +278,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htags-h/#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htags-cpp/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -384,7 +384,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/htags-h/#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/htags-cpp/#l00157">157</a> of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>, definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -448,7 +448,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a4d119855709ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/htags-h/#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/htags-h">htags.h</a>.</p>
 
 <div class="doxyProgramListing">
 

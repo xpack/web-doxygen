@@ -162,7 +162,7 @@ class TextGeneratorXMLImpl { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -206,7 +206,7 @@ Reference <a href="#a7d3e97ed90416a7221020dabe5835db3">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -242,7 +242,7 @@ Reference <a href="#a7d3e97ed90416a7221020dabe5835db3">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -285,7 +285,7 @@ References <a href="#a7d3e97ed90416a7221020dabe5835db3">m&#95;t</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l00184">184</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -326,7 +326,7 @@ References <a href="#a7d3e97ed90416a7221020dabe5835db3">m&#95;t</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#l00196">196</a> of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

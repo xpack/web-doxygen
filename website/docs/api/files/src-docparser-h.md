@@ -206,7 +206,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -236,7 +236,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>pointer to parser interface</p>
 
-<p>Definition at line <a href="#l00041">41</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -272,7 +272,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 <p>factory function to create a parser</p>
 
-<p>Declaration at line <a href="#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -307,7 +307,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l02163">2163</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 2163 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -355,7 +355,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b08
 
 <p>Searches for section and anchor commands in the input Sections found will be added to the <a href="/web-doxygen/docs/api/classes/sectionmanager">SectionManager</a>.</p>
 
-<p>Declaration at line <a href="#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l02176">2176</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -466,7 +466,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8c79cd46ab87
 </dl>
 
 
-<p>Declaration at line <a href="#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l01922">1922</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 1922 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -632,7 +632,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 
 <p>Main entry point for parsing simple text fragments. These fragments are limited to words, whitespace and symbols.</p>
 
-<p>Declaration at line <a href="#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l02105">2105</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 2105 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -725,7 +725,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 <p>Main entry point for parsing titles. These allow limited markup commands</p>
 
-<p>Declaration at line <a href="#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#l02053">2053</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>, definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

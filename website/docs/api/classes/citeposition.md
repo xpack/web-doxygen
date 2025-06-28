@@ -110,7 +110,7 @@ class CitePosition { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -148,7 +148,7 @@ References <a href="#a266c17e1bcb6dca43d0187737ba31851">fileName</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -180,7 +180,7 @@ Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cite-cpp/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -180,7 +180,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -225,7 +225,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -257,7 +257,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -289,7 +289,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00236">236</a> of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

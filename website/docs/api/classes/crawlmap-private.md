@@ -96,7 +96,7 @@ class Crawlmap::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ class Crawlmap::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ class Crawlmap::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sitemap-cpp/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

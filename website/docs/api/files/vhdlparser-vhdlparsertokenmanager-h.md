@@ -179,7 +179,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -223,7 +223,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -272,7 +272,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -321,7 +321,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -367,7 +367,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
 
 <div class="doxyProgramListing">
 

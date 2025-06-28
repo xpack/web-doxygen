@@ -256,7 +256,7 @@ class TranslatorKoreanEn { ... }
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -298,7 +298,7 @@ class TranslatorKoreanEn { ... }
 
 <p>Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -338,7 +338,7 @@ class TranslatorKoreanEn { ... }
 
 <p>Set the name to be used as latex command.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -398,7 +398,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 <p>The English LaTeX does not use such commands. Because of this the empty string is returned in this implementation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -437,7 +437,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -503,7 +503,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -553,7 +553,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-ke-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -135,7 +135,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00022">22</a> of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>.</p>
+<p>Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -171,7 +171,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>.</p>
 </div>
 </div>
 
@@ -194,7 +194,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/msc-cpp/#l00157">157</a> of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>, definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -283,7 +283,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b2c944
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/msc-cpp/#l00233">233</a> of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/msc-h">msc.h</a>, definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

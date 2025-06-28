@@ -288,7 +288,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -347,7 +347,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -407,7 +407,7 @@ Referenced by <a href="#a02024f4f45b1070b31d529c2f1307533">objectLinkToString</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02182">2182</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2182 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -499,7 +499,7 @@ Referenced by <a href="#a772414bc571e725007f1c8bc15ebb355">preProcessFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02154">2154</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2154 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -562,7 +562,7 @@ Referenced by <a href="#ad2df37d9e386ae992a5aa98ab9a0515c">encodeForOutput</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -604,7 +604,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9f4db29aeeb7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l01545">1545</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 1545 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -677,7 +677,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 <p>it is recursive and ugly.</p>
 
-<p>Definition at line <a href="#l02246">2246</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2246 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -776,7 +776,7 @@ Referenced by <a href="#a772414bc571e725007f1c8bc15ebb355">preProcessFile</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02870">2870</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2870 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -848,7 +848,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a69e6795499d9
 <div class="doxyMemberDoc">
 <p>Tests the integrity of the result by counting brackets.</p>
 
-<p>Definition at line <a href="#l02413">2413</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2413 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -932,7 +932,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02868">2868</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2868 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 Referenced by <a href="#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>.
 </div>
@@ -962,7 +962,7 @@ Referenced by <a href="#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02866">2866</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2866 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -999,7 +999,7 @@ Referenced by <a href="#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l02867">2867</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 2867 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1036,7 +1036,7 @@ Referenced by <a href="#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1074,7 +1074,7 @@ Referenced by <a href="#a772414bc571e725007f1c8bc15ebb355">preProcessFile</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

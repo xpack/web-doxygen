@@ -195,7 +195,7 @@ struct Grouping { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/types-h/#l00229">229</a> of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -244,7 +244,7 @@ struct Grouping { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/types-h/#l00256">256</a> of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -282,7 +282,7 @@ References <a href="#a05e6a053a86cc2f588d065f3880801dc">groupname</a> and <a hre
 <div class="doxyMemberDoc">
 <p>name of the group</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/types-h/#l00257">257</a> of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -314,7 +314,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 <p>priority of this definition</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/types-h/#l00258">258</a> of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -358,7 +358,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/types-h/#l00240">240</a> of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
 
 <div class="doxyProgramListing">
 

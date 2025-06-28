@@ -125,7 +125,7 @@ struct InputFileEncoding { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -160,7 +160,7 @@ struct InputFileEncoding { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -198,7 +198,7 @@ References <a href="#a222bb4f5f82c424610ffe2c4cac007b7">encoding</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -230,7 +230,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac369a1df025c65
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doxygen-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

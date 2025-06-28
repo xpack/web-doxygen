@@ -83,7 +83,7 @@ struct PythonOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02340">2340</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Definition at line 2340 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct PythonOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#l02339">2339</a> of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+<p>Definition at line 2339 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 

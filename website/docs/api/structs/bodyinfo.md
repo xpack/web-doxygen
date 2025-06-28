@@ -121,7 +121,7 @@ struct BodyInfo { ... }
 <div class="doxyMemberDoc">
 <p>line number of the start of the definition</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -153,7 +153,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477
 <div class="doxyMemberDoc">
 <p>line number of the end of the definition's body</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00066">66</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -185,7 +185,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477
 <div class="doxyMemberDoc">
 <p>file definition containing the function body</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -215,7 +215,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477
 <div class="doxyMemberDoc">
 <p>line number of the start of the definition's body</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/definition-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
 
 <div class="doxyProgramListing">
 

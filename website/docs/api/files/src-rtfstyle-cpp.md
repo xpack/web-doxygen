@@ -395,7 +395,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00364">364</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -466,7 +466,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00322">322</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -569,7 +569,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -613,7 +613,7 @@ Referenced by <a href="#a36e764c0a931ef05c53d3695489d198e">loadExtensions</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -645,7 +645,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00025">25</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -677,7 +677,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -709,7 +709,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -741,7 +741,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -773,7 +773,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -805,7 +805,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -837,7 +837,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -869,7 +869,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00362">362</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -901,7 +901,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1082,7 +1082,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1114,7 +1114,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00024">24</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1146,7 +1146,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00245">245</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1215,7 +1215,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00023">23</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1252,7 +1252,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00284">284</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534f0d123bc771ab3367">StyleData::setStyle</a> and <a href="/web-doxygen/docs/api/structs/styledata/#afa4e839cadb0aa89001d0a3b45845ce9">StyleData::StyleData</a>.
 </div>
@@ -1294,7 +1294,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1339,7 +1339,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1385,7 +1385,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1431,7 +1431,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1476,7 +1476,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1521,7 +1521,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00239">239</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1566,7 +1566,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

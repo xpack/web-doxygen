@@ -1319,7 +1319,7 @@ class Entry { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00119">119</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1359,7 +1359,7 @@ class Entry { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 126 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1405,7 +1405,7 @@ Referenced by <a href="#aa24b2fca5bb06b62af4f8efdd68ebf25">copyToSubEntry</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00127">127</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 127 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1514,7 +1514,7 @@ References <a href="#a6ea6c26832362f55a16544e54ae8b851">anchors</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00129">129</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 </div>
@@ -1545,7 +1545,7 @@ Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00131">131</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00121">121</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 131 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1595,7 +1595,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/entry-cpp/#a7cc1e387f18d81fa0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 </div>
@@ -1625,7 +1625,7 @@ Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 </div>
@@ -1672,7 +1672,7 @@ Reference <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00139">139</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1714,7 +1714,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 
 <p>Returns the parent for this <a href="/web-doxygen/docs/api/classes/entry">Entry</a> or nullptr if this entry has no parent.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1754,7 +1754,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>list of anchors defined in this entry</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00222">222</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1786,7 +1786,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>member arguments as a list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00194">194</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1818,7 +1818,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>member argument string</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1850,7 +1850,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>Artificially introduced item.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00229">229</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1882,7 +1882,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>member's bit fields</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00193">193</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1914,7 +1914,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84
 <div class="doxyMemberDoc">
 <p>column of the body in the source</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00217">217</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1946,7 +1946,7 @@ Referenced by <a href="#a98c62e07d86951008cc8a0d60632c262">Entry</a> and <a href
 <div class="doxyMemberDoc">
 <p>line number of the body in the source</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00216">216</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1978,7 +1978,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>brief description (doc block)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00203">203</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2010,7 +2010,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>file in which the brief desc. was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00205">205</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2042,7 +2042,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>line number at which the brief desc. was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00204">204</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2074,7 +2074,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>store info for commands whose default can be overridden</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00190">190</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2109,7 +2109,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>make a copy of <em>e</em> and add it as a child to this entry</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00154">154</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2148,7 +2148,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#afd4e9dc
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00155">155</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00163">163</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2185,7 +2185,7 @@ Reference <a href="#a1557e0058d4a18abe13f5d03828c6726">m&#95;sublist</a>.
 <div class="doxyMemberDoc">
 <p>documentation block (partly parsed)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00200">200</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2217,7 +2217,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>file in which the documentation was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00202">202</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2249,7 +2249,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>line number at which the documentation was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00201">201</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2281,7 +2281,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>line number where the definition ends</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00218">218</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2313,7 +2313,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>throw specification</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00214">214</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2345,7 +2345,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>explicitly defined as external?</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2377,7 +2377,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>is the symbol exported from a C++20 module</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00189">189</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2409,7 +2409,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a48485218477
 <div class="doxyMemberDoc">
 <p>list of base classes</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00220">220</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2446,7 +2446,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#abc809fca201
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00169">169</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2480,7 +2480,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>file this entry was extracted from</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00223">223</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2517,7 +2517,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>return the command name used to define GROUPDOC_SEC</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00238">238</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2558,7 +2558,7 @@ References <a href="#a470b655d0d6179559a11a81e6617d509a7637daf4200f6f55374604f23
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00230">230</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2595,7 +2595,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00248">248</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2642,7 +2642,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9cb5ab2169da2f5b
 <div class="doxyMemberDoc">
 <p>list of groups this entry belongs to</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00221">221</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2674,7 +2674,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 <p>is tag info valid</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00175">175</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2706,7 +2706,7 @@ Referenced by <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>, <a href="#
 <div class="doxyMemberDoc">
 <p>does this represent an entity that is hidden from the output</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00228">228</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2738,7 +2738,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>libclang id</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00231">231</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2770,7 +2770,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>documentation inside the body of a function</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00206">206</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2802,7 +2802,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 <p>file in which the body doc was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00208">208</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2834,7 +2834,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 <p>line number at which the body doc was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00207">207</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2866,7 +2866,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 <p>include file (2 arg of \class, must be unique)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00198">198</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2898,7 +2898,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 <p>include name (3 arg of \class)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00199">199</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2930,7 +2930,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 <p>initial value (for variables)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00197">197</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2962,7 +2962,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 <p>define/variable initializer lines to show</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00184">184</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2994,7 +2994,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 <p>name of the class in which documents are found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00213">213</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3026,7 +3026,7 @@ Referenced by <a href="#a98c62e07d86951008cc8a0d60632c262">Entry</a>, <a href="/
 <div class="doxyMemberDoc">
 <p>static ?</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3058,7 +3058,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>programming language in which this entry was found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00227">227</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3090,7 +3090,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00232">232</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3122,7 +3122,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a118dacc3a4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00266">266</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3154,7 +3154,7 @@ Referenced by <a href="#a98c62e07d86951008cc8a0d60632c262">Entry</a>, <a href="#
 <div class="doxyMemberDoc">
 <p>parent node in the tree</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00264">264</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3186,7 +3186,7 @@ Referenced by <a href="#aa24b2fca5bb06b62af4f8efdd68ebf25">copyToSubEntry</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00265">265</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3223,7 +3223,7 @@ Referenced by <a href="#a13c49362ea71812935f0399e0f7dcf77">children</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00167">167</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3257,7 +3257,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>Slice metadata.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00233">233</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3289,7 +3289,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>member group id</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00219">219</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3321,7 +3321,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00130">130</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 150 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3358,7 +3358,7 @@ References <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>, <a href="#add
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00151">151</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00137">137</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 151 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3395,7 +3395,7 @@ Reference <a href="#a1557e0058d4a18abe13f5d03828c6726">m&#95;sublist</a>.
 <div class="doxyMemberDoc">
 <p>signal, slot, (dcop) method, or property?</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00181">181</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3427,7 +3427,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad736f00784a
 <div class="doxyMemberDoc">
 <p>member name</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3459,7 +3459,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>the program text</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00196">196</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3491,7 +3491,7 @@ Referenced by <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>, <a href="#
 <div class="doxyMemberDoc">
 <p>class protection</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3523,7 +3523,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>prototype ?</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00187">187</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3555,7 +3555,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 <p>qualifiers specified with the qualifier command</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00235">235</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3587,7 +3587,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>property read accessor</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00211">211</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3619,7 +3619,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84
 <div class="doxyMemberDoc">
 <p>related class (doc block)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3651,7 +3651,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 <p>how relates is handled</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00210">210</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3686,7 +3686,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 
 <p>Removes entry <em>e</em> from the list of children. The entry will be deleted if found.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00160">160</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00170">170</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 160 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3728,7 +3728,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a5c1911
 <div class="doxyMemberDoc">
 <p>C++20 requires clause.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3763,7 +3763,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <p>Restore the state of this <a href="/web-doxygen/docs/api/classes/entry">Entry</a> to the default value it has at construction time.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00165">165</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00181">181</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 165 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3858,7 +3858,7 @@ Referenced by <a href="#a8283ac849b1f02ff82ca2ff28253db98">Entry</a>.
 <div class="doxyMemberDoc">
 <p>entry type (see Sections);</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3890,7 +3890,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00168">168</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00244">244</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 168 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3929,7 +3929,7 @@ References <a href="#a91a42bf7f7e6a4a8553f77f9c4882058">m&#95;fileDef</a> and <a
 <div class="doxyMemberDoc">
 <p>special lists (test/todo/bug/deprecated/..) this entry is in</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00226">226</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3961,7 +3961,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>class/member specifiers</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00182">182</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3993,7 +3993,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>start column of entry in the source</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4025,7 +4025,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>start line of entry in the source</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00224">224</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4057,7 +4057,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>automatically group class members?</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00188">188</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4094,7 +4094,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00177">177</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4128,7 +4128,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>tag file info data</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00176">176</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4160,7 +4160,7 @@ Referenced by <a href="#a98c62e07d86951008cc8a0d60632c262">Entry</a> and <a href
 <div class="doxyMemberDoc">
 <p>template argument declarations</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00195">195</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4192,7 +4192,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>member type</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00173">173</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4224,7 +4224,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>where clause (C#) for type constraints</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00215">215</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4256,7 +4256,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 <p>VHDL specifiers.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4288,7 +4288,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>virtualness of the entry</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00191">191</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4320,7 +4320,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 <p>property write accessor</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4365,7 +4365,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00145">145</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 145 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4403,7 +4403,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#a17c0d52c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00146">146</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/entry-cpp/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+<p>Declaration at line 146 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>, definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

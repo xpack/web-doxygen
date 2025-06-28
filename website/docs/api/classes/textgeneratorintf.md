@@ -151,7 +151,7 @@ class TextGeneratorIntf { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/util-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 Reference <a href="#a5367063112c94eece527eddf1cd9b978">writeBreak</a>.
 
@@ -178,7 +178,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/util-h/#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 Reference <a href="#a68781abe25ca876aa94ec160bf3ce4fc">writeLink</a>.
 
@@ -205,7 +205,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/util-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
 Reference <a href="#a218bc73e1dfd3381fa21e7e6bdab4839">writeString</a>.
 

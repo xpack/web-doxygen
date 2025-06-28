@@ -177,7 +177,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00868">868</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -239,7 +239,7 @@ References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00845">845</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -281,7 +281,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab8681769cd2f02
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -329,7 +329,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -366,7 +366,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00246">246</a> of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

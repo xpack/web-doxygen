@@ -4215,7 +4215,7 @@ class TranslatorGreek { ... }
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01182">1182</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1182 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4257,7 +4257,7 @@ class TranslatorGreek { ... }
 
 <p>Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4297,7 +4297,7 @@ class TranslatorGreek { ... }
 
 <p>Set the name to be used as latex command.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4338,7 +4338,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00068">68</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4381,7 +4381,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 <p>Header of the sections with inherited members specific for the base class(es)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01867">1867</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1867 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4421,7 +4421,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 <p>Used in the quick index of a class/file/namespace member list page to link to the unfiltered list of all members.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01384">1384</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1384 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4463,7 +4463,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 <p>Used in dot graph when UML_LOOK is enabled and there are many fields</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01845">1845</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1845 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4500,7 +4500,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00958">958</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 958 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4542,7 +4542,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 <p>This text is generated when the \author command is used and for the author section in man pages.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01257">1257</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1257 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4586,7 +4586,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a marker that is put before a \bug item</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01126">1126</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1126 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4628,7 +4628,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as the header of the bug list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01131">1131</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1131 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4670,7 +4670,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used to introduce a caller (or called-by) graph</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01503">1503</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1503 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4712,7 +4712,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Put in front of the call graph for a function.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01389">1389</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1389 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4754,7 +4754,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Header for the page with bibliographic citations</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01820">1820</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1820 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4794,7 +4794,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01191">1191</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1191 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4840,7 +4840,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>this text is put before a class diagram</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00512">512</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 512 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4882,7 +4882,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in LaTeX as the title of the chapter containing the documentation of all classes, structs and unions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00393">393</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 393 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4937,7 +4937,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 <p>Used for Java classes in the summary section of Java packages</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01089">1089</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1089 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4988,7 +4988,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is put above each page as a link to the class hierarchy</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5028,7 +5028,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the class hierarchy.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00237">237</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5068,7 +5068,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>Used as the header of a list of class methods in Objective-C. These are similar to static public member functions in C++.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01905">1905</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1905 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5110,7 +5110,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>Text used the source code in the file index</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00858">858</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 858 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5152,7 +5152,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>this text is put before a collaboration diagram</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00813">813</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 813 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5194,7 +5194,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is used in LaTeX as the title of the chapter with the annotated compound index.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5245,7 +5245,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is used in LaTeX as the title of the chapter with the annotated compound index (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01558">1558</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1558 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5285,7 +5285,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is put above each page as a link to the list of annotated classes</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00182">182</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5336,7 +5336,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the annotated compound list.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00250">250</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5393,7 +5393,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the annotated compound list (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01531">1531</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1531 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5433,7 +5433,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is put above each page as a link to the list of annotated data types (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01523">1523</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1523 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5473,7 +5473,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is put above each page as a link to all members of compounds.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00199">199</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5524,7 +5524,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the page with all class members.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00269">269</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5604,7 +5604,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the page with all data types (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01535">1535</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1535 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5658,7 +5658,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02422">2422</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2422 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5787,7 +5787,7 @@ References <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048
 
 <p>This is put above each page as a link to all members of compounds (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01527">1527</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1527 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5827,7 +5827,7 @@ References <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048
 
 <p>used as the title of the HTML page of a class/struct/union</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00587">587</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5887,7 +5887,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 
 <p>used as the title of the HTML page of a module/type (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01599">1599</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1599 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -5944,7 +5944,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02194">2194</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2194 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6003,7 +6003,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 
 <p>This is used in the documentation of a file/namespace/group before the list of links to documented compounds</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00488">488</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 488 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6054,7 +6054,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>the compound type as used for the xrefitems</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02283">2283</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2283 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6112,7 +6112,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 <div class="doxyMemberDoc">
 <p>C++20 concept.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02243">2243</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2243 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6156,7 +6156,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used to introduce the definition of the C++20 concept</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02277">2277</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2277 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6198,7 +6198,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as the title of chapter containing all information about concepts.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02264">2264</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2264 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6238,7 +6238,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as the title of chapter containing the index listing all concepts.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02260">2260</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2260 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6278,7 +6278,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as the title of page containing all the index of all concepts.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02256">2256</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2256 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6318,7 +6318,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as an introduction to the concept list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02268">2268</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2268 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6363,7 +6363,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as the title of the HTML page of a C++20 concept page</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02248">2248</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2248 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6404,7 +6404,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02102">2102</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2102 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6443,7 +6443,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 <p>UNO IDL constant groups.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01942">1942</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1942 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6484,7 +6484,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 <p>UNO IDL constant groups.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01938">1938</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1938 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6521,7 +6521,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02098">2098</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2098 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6563,7 +6563,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>header that is put before the list of constructor/destructors.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00823">823</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6605,7 +6605,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Text for copyright paragraph</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01824">1824</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1824 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6642,7 +6642,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02655">2655</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2655 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6681,7 +6681,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02094">2094</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2094 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6718,7 +6718,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02225">2225</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2225 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6757,7 +6757,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02221">2221</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2221 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6799,7 +6799,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in the documentation of a file/namespace/group before the list of links to documented compounds (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01582">1582</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1582 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6839,7 +6839,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>this text is generated when the \date command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00526">526</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6917,7 +6917,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01775">1775</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1775 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -6974,7 +6974,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01795">1795</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1795 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7016,7 +7016,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01809">1809</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1809 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7056,7 +7056,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02577">2577</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2577 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7092,7 +7092,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00790">790</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7134,7 +7134,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 
 <p>put after an undocumented member in the list of all members</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00166">166</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7171,7 +7171,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00794">794</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 794 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7213,7 +7213,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 
 <p>This is used in the documentation of a file before the list of documentation blocks for defines</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00458">458</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7253,7 +7253,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 
 <p>This is used in the documentation of a file as a header before the list of defines</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00422">422</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 422 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7293,7 +7293,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 
 <p>Text shown before a multi-line define</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01116">1116</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1116 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7332,7 +7332,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02576">2576</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2576 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7368,7 +7368,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00803">803</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 803 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7410,7 +7410,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 
 <p>Used as the header of the list of item that have been flagged deprecated</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01312">1312</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1312 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7449,7 +7449,7 @@ References <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169a
 <div class="doxyMemberDoc">
 <p>VHDL design unit documentation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02235">2235</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2235 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7488,7 +7488,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design unit hierarchy.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01986">1986</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1986 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7525,7 +7525,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design unit index.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02000">2000</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2000 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7562,7 +7562,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design unit list.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01989">1989</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1989 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7599,7 +7599,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design unit list description.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01995">1995</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1995 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7638,7 +7638,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design unit members.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01992">1992</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1992 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7675,7 +7675,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 <p>VHDL design units.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02003">2003</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2003 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7715,7 +7715,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 
 <p>header that is put before the detailed description of files, classes and namespaces.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7755,7 +7755,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 
 <p>Detail level selector shown for hierarchical indices</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01837">1837</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1837 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7795,7 +7795,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 
 <p>header that is used when the summary tag is missing inside the details tag</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7832,7 +7832,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02114">2114</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2114 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7871,7 +7871,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02118">2118</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2118 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7913,7 +7913,7 @@ Referenced by <a href="#a2cb2dddbeb0c7148f9ca1b9dd5e3ccc0">trClassDocumentation<
 
 <p>This returns the word directory with or without starting capital (<em>first_capital</em>) and in sigular or plural form (<em>singular</em>).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01479">1479</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1479 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7957,7 +7957,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Header for the graph showing the directory dependencies</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01828">1828</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1828 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -7997,7 +7997,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used as the name of the chapter containing the documentation of the directories.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01461">1461</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1461 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8037,7 +8037,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used as the title of the directory index and also in the Quick links of an HTML page, to link to the directory hierarchy.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01467">1467</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1467 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8077,7 +8077,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used as the name of the chapter containing the directory hierarchy.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01455">1455</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8117,7 +8117,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This returns the title of a directory page. The name of the directory is passed via <em>dirName</em>.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01473">1473</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1473 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8157,7 +8157,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>directory relation for <em>name</em></p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01714">1714</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1714 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8199,7 +8199,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in HTML as the title of index.html.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00348">348</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8241,7 +8241,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is used in the documentation of a file as a header before the list of enumerations</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00434">434</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 434 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8281,7 +8281,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for enumeration types</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00470">470</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 470 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8321,7 +8321,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for enumeration values</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01511">1511</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1511 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8361,7 +8361,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is used in the documentation of a file as a header before the list of (global) variables</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00452">452</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 452 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8401,7 +8401,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>Used file list for a Java enum</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01849">1849</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1849 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8445,7 +8445,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>put after an enum name in the list of all members</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00158">158</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8485,7 +8485,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>Header of a Java enum page (Java enums are represented as classes).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01857">1857</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1857 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8525,7 +8525,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>put after an enum value in the list of all members</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8565,7 +8565,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>Header used for the documentation section of a class' events.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01329">1329</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1329 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8607,7 +8607,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>Used as a header for declaration section of the events found in a C# program</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01324">1324</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1324 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8649,7 +8649,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is put above each page as a link to all examples.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00229">229</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8689,7 +8689,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is an introduction to the page with the list of all examples</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00333">333</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8726,7 +8726,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02190">2190</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2190 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8765,7 +8765,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02182">2182</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2182 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8804,7 +8804,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02186">2186</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2186 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8843,7 +8843,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02170">2170</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2170 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8882,7 +8882,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02174">2174</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2174 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8921,7 +8921,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02178">2178</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2178 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -8963,7 +8963,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>this text is generated when the \exception command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00542">542</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 542 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9000,7 +9000,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02646">2646</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2646 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9042,7 +9042,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>Used in a method of an Objective-C category that extends a class. Note that the @1 marker is required and is replaced by a link to the class method.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01897">1897</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1897 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9084,7 +9084,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01200">1200</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1200 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9128,7 +9128,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter containing the documentation of all files.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00412">412</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 412 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9168,7 +9168,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>when clicking a directory dependency label, a page with a table is shown. The heading for the first column mentions the source file that has a relation to another file.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01751">1751</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1751 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9210,7 +9210,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter with the list of all files.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00381">381</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9250,7 +9250,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is put above each page as a link to the list of documented files</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00195">195</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9290,7 +9290,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is an introduction to the list with all files.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00241">241</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9335,7 +9335,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is put above each page as a link to all members of files.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00212">212</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9386,7 +9386,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is an introduction to the page with all file members.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00311">311</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9443,7 +9443,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02351">2351</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2351 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9554,7 +9554,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>used as the title of the HTML page of a file</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00609">609</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 609 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9598,7 +9598,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>This is used for translation of the word that will be followed by a single name of the VHDL process flowchart.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02318">2318</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2318 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9638,7 +9638,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>used in the class documentation as a header before the list of all friends of a class</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00569">569</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 569 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9675,7 +9675,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 <div class="doxyMemberDoc">
 <p>VHDL functions/procedures/processes.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02006">2006</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2006 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9715,7 +9715,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for functions</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00476">476</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 476 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9755,7 +9755,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>This is used in the documentation of a file as a header before the list of (global) functions</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00440">440</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9795,7 +9795,7 @@ References <a href="/web-doxygen/docs/api/namespaces/filememberhighlight/#a399c1
 
 <p>This is used in the standard footer of each page and indicates when the page was generated</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00503">503</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9842,7 +9842,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>this is put at the author sections at the bottom of man pages. parameter s is name of the project name.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9888,7 +9888,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>this text is used in the title page of a LaTeX document.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00546">546</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 546 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9928,7 +9928,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8
 
 <p>This is put at the bottom of a class documentation page and is followed by a list of files that were used to generate the page.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00746">746</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 746 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -9988,7 +9988,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 
 <p>This is put at the bottom of a module documentation page and is followed by a list of files that were used to generate the page.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01665">1665</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1665 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10048,7 +10048,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01246">1246</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1246 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10092,7 +10092,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Label used for search results in the global namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01726">1726</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1726 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10134,7 +10134,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used in the file sources to point to the corresponding documentation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00833">833</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10173,7 +10173,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00866">866</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 866 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10215,7 +10215,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used in the file documentation to point to the corresponding sources.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00828">828</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 828 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10254,7 +10254,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00870">870</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 870 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10293,7 +10293,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00862">862</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10335,7 +10335,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01219">1219</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1219 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10379,7 +10379,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter with the class hierarchy.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00360">360</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10419,7 +10419,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used in member documentation blocks to produce a list of members that are implemented by this one.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01280">1280</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1280 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10463,7 +10463,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in member documentation blocks to produce a list of all members that implement this abstract member.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01288">1288</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1288 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10504,7 +10504,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02664">2664</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2664 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10543,7 +10543,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00962">962</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 962 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10586,7 +10586,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>this text is put before an include dependency graph</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00818">818</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10628,7 +10628,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>when clicking a directory dependency label, a page with a table is shown. The heading for the second column mentions the destination file that is included.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01760">1760</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1760 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10670,7 +10670,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>this is the remainder of the sentence after the class name</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10710,7 +10710,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in class documentation to produce a list of super classes, if class diagrams are disabled.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00680">680</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10754,7 +10754,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Used for a section containing inherited members</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01861">1861</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1861 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10794,7 +10794,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in class documentation to produce a list of base classes, if class diagrams are disabled.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00672">672</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10838,7 +10838,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Text shown before a multi-line variable/enum initialization</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00853">853</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10880,7 +10880,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Used as the header of a list of instance methods in Objective-C. These are similar to public member functions in C++.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01913">1913</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1913 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10919,7 +10919,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02146">2146</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2146 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10958,7 +10958,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02138">2138</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2138 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -10997,7 +10997,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02142">2142</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2142 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11036,7 +11036,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02126">2126</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2126 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11075,7 +11075,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02130">2130</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2130 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11114,7 +11114,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02134">2134</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2134 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11153,7 +11153,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 <p>old style UNO IDL services: implemented interfaces</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01930">1930</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1930 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11193,7 +11193,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Text for the \invariant command</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00848">848</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 848 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11232,7 +11232,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11274,7 +11274,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>text for the link to the legend page</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01049">1049</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11316,7 +11316,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>page explaining how the dot graph's should be interpreted The A in the text below are to prevent link to classes called "A".</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00984">984</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 984 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11420,7 +11420,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249cc
 
 <p>title of the graph legend page</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00977">977</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11462,7 +11462,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249cc
 
 <p>put in the class documentation</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11502,7 +11502,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249cc
 
 <p>Loading message shown when loading search results</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01720">1720</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1720 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11544,7 +11544,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249cc
 
 <p>This is in the (quick) index as a link to the main page (index.html)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00777">777</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11584,7 +11584,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249cc
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01237">1237</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1237 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11628,7 +11628,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>header that is put before the list of member attributes.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00115">115</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11679,7 +11679,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>header that is put before the list of enumerations.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00107">107</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11719,7 +11719,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>header that is put before the list of member functions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00111">111</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11759,7 +11759,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>header that is put before the list of member subprograms (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01519">1519</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1519 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11799,7 +11799,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>used as the title of the "list of all members" page of a class</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11839,7 +11839,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>header that is put before the list of typedefs.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11879,7 +11879,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>Used as the header of the member functions of an Objective-C class.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01920">1920</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1920 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11921,7 +11921,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01658">1658</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1658 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -11965,7 +11965,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter containing the documentation of all groups.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00387">387</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12005,7 +12005,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter with the index of all groups.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00354">354</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12042,7 +12042,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02593">2593</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2593 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12135,7 +12135,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>used as the title of the HTML page of a module (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01620">1620</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1620 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12179,7 +12179,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is put above each page as a link to the list of all groups of compounds or files (see the \group command).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12219,7 +12219,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is an introduction to the page with the list of class/file groups</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00341">341</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12259,7 +12259,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is used in LaTeX as the title of the chapter with the index of all modules (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01651">1651</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1651 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12299,7 +12299,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>used as the title of page containing all the index of all modules (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01586">1586</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1586 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12339,7 +12339,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>used as an introduction to the modules list (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01590">1590</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1590 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12384,7 +12384,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is an introduction to the page with all modules members (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01632">1632</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1632 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12437,7 +12437,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is put above each page as a link to all members of modules. (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01628">1628</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1628 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12474,7 +12474,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01802">1802</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1802 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12519,7 +12519,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>this is the text of a link put after brief descriptions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12559,7 +12559,7 @@ References <a href="/web-doxygen/docs/api/namespaces/modulememberhighlight/#ad9d
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01209">1209</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12604,7 +12604,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter containing the documentation of all namespaces.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00726">726</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12644,7 +12644,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in LaTeX as the title of the chapter with the index of all namespaces.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00720">720</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12684,7 +12684,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as the title of page containing all the index of all namespaces.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00554">554</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 554 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12724,7 +12724,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>used as an introduction to the namespace list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00558">558</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 558 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12769,7 +12769,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is an introduction to the page with all namespace members</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00706">706</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12818,7 +12818,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is put above each page as a link to all members of namespaces.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00702">702</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 702 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12855,7 +12855,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02511">2511</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2511 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -12960,7 +12960,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>used as the title of the HTML page of a namespace</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00617">617</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13004,7 +13004,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>This is used in the documentation before the list of all namespaces in a file.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00736">736</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 736 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13044,7 +13044,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>Text shown when no search results are found</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01738">1738</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1738 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13083,7 +13083,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00883">883</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 883 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13122,7 +13122,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02217">2217</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2217 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13161,7 +13161,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02213">2213</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2213 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13203,7 +13203,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>This text is added to the documentation when the \overload command is used for a overloaded function.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01491">1491</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13247,7 +13247,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>Used as the title of a Java package</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01101">1101</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1101 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13289,7 +13289,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>Used as a heading for a list of Java class variables with package scope.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01365">1365</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1365 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13331,7 +13331,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>Used as a heading for a list of Java class functions with package scope.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01347">1347</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13370,7 +13370,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02308">2308</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2308 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13410,7 +13410,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>The description of the package index page</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01106">1106</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1106 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13449,7 +13449,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01351">1351</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13491,7 +13491,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>The link name in the Quick links header for each page</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01111">1111</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1111 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13533,7 +13533,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>Used as a heading for a list of Java class types with package scope.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01340">1340</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1340 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13575,7 +13575,7 @@ References <a href="/web-doxygen/docs/api/namespaces/namespacememberhighlight/#a
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01228">1228</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1228 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13619,7 +13619,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in references to page that are put in the LaTeX documentation. It should be an abbreviation of the word page.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00783">783</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13656,7 +13656,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00874">874</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 874 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13698,7 +13698,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a tooltip for the toggle button that appears in the navigation tree in the HTML output when GENERATE_TREEVIEW is enabled. This tooltip explains the meaning of the button.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01878">1878</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1878 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13741,7 +13741,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>this text is generated when the \param command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00538">538</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13781,7 +13781,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Text for the \post command</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00843">843</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13823,7 +13823,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Text for the \pre command</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00838">838</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13862,7 +13862,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00922">922</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 922 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13901,7 +13901,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00638">638</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 638 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13938,7 +13938,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00640">640</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -13975,7 +13975,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00918">918</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14017,7 +14017,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a section header for IDL properties</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01074">1074</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1074 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14059,7 +14059,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a section header for IDL property documentation</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01079">1079</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1079 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14098,7 +14098,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00910">910</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14137,7 +14137,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00632">632</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 632 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14174,7 +14174,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00634">634</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14211,7 +14211,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00906">906</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 906 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14253,7 +14253,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used in a method of an Objective-C class that is declared in a a category. Note that the @1 marker is required and is replaced by a link.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01888">1888</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1888 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14292,7 +14292,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00891">891</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14340,7 +14340,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00624">624</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14377,7 +14377,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00626">626</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 626 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14414,7 +14414,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00887">887</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14453,7 +14453,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00950">950</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14495,7 +14495,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This is used in LaTeX as the title of the document</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00416">416</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 416 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14535,7 +14535,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>This text is put before the list of members referenced by a member</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01268">1268</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1268 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14577,7 +14577,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 <p>used in member documentation blocks to produce a list of members that are hidden by this one.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00688">688</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 688 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14621,7 +14621,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in member documentation blocks to produce a list of all member that overwrite the implementation of this member.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00696">696</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14665,7 +14665,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in the class documentation as a header before the list of all related classes</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00579">579</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14705,7 +14705,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>used in the compound documentation before a list of related functions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14745,7 +14745,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>This is put above each page as a link to all related pages.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14785,7 +14785,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>This is an introduction to the page with the list of related pages</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00337">337</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14825,7 +14825,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>subscript for the related functions.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14867,7 +14867,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Supersedes trRelatedFunctionDocumentation</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02348">2348</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2348 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14911,7 +14911,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Supersedes trRelatedFunctions</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02333">2333</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2333 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14953,7 +14953,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>Supersedes trRelatedSubscript</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02340">2340</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2340 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -14990,7 +14990,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00954">954</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15032,7 +15032,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>this text is generated when the \return command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00530">530</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15072,7 +15072,7 @@ Reference <a href="#aa7b5dbe64b316308be56eef9fd2f9839">trWriteList</a>.
 
 <p>This is used as the heading text for the retval command.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00772">772</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 772 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15136,7 +15136,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01165">1165</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1165 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15178,7 +15178,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>Used as ansicpg for RTF fcharset</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01172">1172</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15220,7 +15220,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>Used as header RTF general index</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01178">1178</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1178 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15262,7 +15262,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>used in RTF documentation as a heading for the Table of Contents.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01300">1300</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15304,7 +15304,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This is put above each page as a link to the search engine.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00233">233</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15344,7 +15344,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>Message shown while searching</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01732">1732</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1732 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15386,7 +15386,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This string is put before the list of matched words, for each search result. What follows is the list of words that matched the query.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01432">1432</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1432 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15428,7 +15428,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This string is put just before listing the search results. The text can be different depending on the number of documents found. Inside the text you can put the special marker $num to insert the number representing the actual number of search results. The <em>numDocuments</em> parameter can be either 0, 1 or 2, where the value 2 represents 2 or more matches. HTML markup is allowed inside the returned string.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01413">1413</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1413 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15482,7 +15482,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This string is used as the title for the page listing the search results.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01401">1401</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15524,7 +15524,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>this text is generated when the \sa command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00534">534</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15561,7 +15561,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02110">2110</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2110 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15600,7 +15600,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02106">2106</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2106 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15639,7 +15639,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 <p>UNO IDL service page.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01963">1963</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1963 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15682,7 +15682,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 <p>UNO IDL service page title.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01949">1949</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1949 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15723,7 +15723,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 <p>old style UNO IDL services: inherited services</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01934">1934</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1934 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15760,7 +15760,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00628">628</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15797,7 +15797,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00967">967</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 967 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15836,7 +15836,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 <p>UNO IDL singleton page.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01972">1972</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1972 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15879,7 +15879,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 <p>UNO IDL singleton page title.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01956">1956</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15920,7 +15920,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02122">2122</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2122 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -15962,7 +15962,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This is used in HTML as the title of page with source code for file filename</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01443">1443</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1443 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16004,7 +16004,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>Used as a heading for a list of static Java class variables with package scope.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01372">1372</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1372 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16046,7 +16046,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>Used as a heading for a list of static Java class functions with package scope.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01358">1358</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1358 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16085,7 +16085,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00926">926</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 926 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16124,7 +16124,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00642">642</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 642 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16161,7 +16161,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00914">914</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 914 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16200,7 +16200,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00636">636</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16237,7 +16237,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00902">902</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 902 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16276,7 +16276,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00630">630</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 630 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16313,7 +16313,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02166">2166</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2166 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16352,7 +16352,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02154">2154</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2154 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16391,7 +16391,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02158">2158</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2158 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16430,7 +16430,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02162">2162</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2162 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16469,7 +16469,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02150">2150</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2150 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16511,7 +16511,7 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01698">1698</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1698 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16555,7 +16555,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for subprograms (Fortran)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01576">1576</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1576 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16595,7 +16595,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used in the documentation of a file as a header before the list of (global) subprograms (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01570">1570</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1570 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16635,7 +16635,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Section header for list of template parameters</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01841">1841</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1841 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16675,7 +16675,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a marker that is put before a test item</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01059">1059</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1059 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16717,7 +16717,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as the header of the test list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01064">1064</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1064 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16759,7 +16759,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>this is the first part of a sentence that is followed by a class name</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00140">140</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16799,7 +16799,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as a marker that is put before a \todo item</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00936">936</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 936 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16841,7 +16841,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>Used as the header of the todo list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00941">941</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 941 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16880,7 +16880,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02585">2585</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2585 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16917,7 +16917,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02589">2589</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2589 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16954,7 +16954,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02587">2587</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -16991,7 +16991,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02591">2591</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2591 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17028,7 +17028,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02583">2583</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2583 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17068,7 +17068,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 <p>This is used for translation of the word that will possibly be followed by a single name or by a list of names of the category.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01689">1689</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1689 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17115,7 +17115,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>C# Type Constraint list</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01704">1704</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1704 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17157,7 +17157,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for typedefs</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00464">464</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17197,7 +17197,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in the documentation of a file as a header before the list of typedefs</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00428">428</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17237,7 +17237,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in LaTeX as the title of the chapter containing the documentation of all data types (Fortran).</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l01564">1564</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 1564 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17277,7 +17277,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in the documentation of a file/namespace before the list of documentation blocks for variables</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00482">482</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 482 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17317,7 +17317,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>This is used in the documentation of a file as a header before the list of (global) variables</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00446">446</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 446 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17357,7 +17357,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 
 <p>this text is generated when the \version command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00522">522</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 522 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17394,7 +17394,7 @@ Referenced by <a href="#ad0ee90de3abc1546fc1cafd985f1d4ea">trCompoundType</a>.
 <div class="doxyMemberDoc">
 <p>VHDL type.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l02009">2009</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17519,7 +17519,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#abfcc3de81e21aaab7b
 
 <p>this text is generated when the \warning command is used.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00518">518</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -17559,7 +17559,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#abfcc3de81e21aaab7b
 
 <p>this function is used to produce a comma-separated list of items. use generateMarker(i) to indicate where item i should be put.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-gr-h/#l00648">648</a> of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
+<p>Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/translator-gr-h">translator_gr.h</a>.</p>
 
 <div class="doxyProgramListing">
 

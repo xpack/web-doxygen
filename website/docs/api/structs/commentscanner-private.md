@@ -83,7 +83,7 @@ struct CommentScanner::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/commentscan-l/#l04700">4700</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct CommentScanner::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/commentscan-l/#l04699">4699</a> of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+<p>Definition at line 4699 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
 
 <div class="doxyProgramListing">
 

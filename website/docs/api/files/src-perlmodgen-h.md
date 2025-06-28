@@ -75,7 +75,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00021">21</a> of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#l02953">2953</a> of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+<p>Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 2953 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00020">20</a> of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#l01414">1414</a> of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+<p>Declaration at line 20 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 1414 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

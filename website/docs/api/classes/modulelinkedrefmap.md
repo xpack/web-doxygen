@@ -108,7 +108,7 @@ class ModuleLinkedRefMap { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01180">1180</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1180 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -152,7 +152,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01194">1194</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

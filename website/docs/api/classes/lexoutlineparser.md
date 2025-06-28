@@ -187,7 +187,7 @@ class LexOutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-l/#l01003">1003</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line 1003 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -233,7 +233,7 @@ Referenced by <a href="#a1c3dd92666badfafa45cb0e5295cd511">LexOutlineParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-l/#l01011">1011</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -289,7 +289,7 @@ Reference <a href="#a63d579cc2b0db08ab8057e022146b7d9">p</a>.
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -351,7 +351,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-l/#l01016">1016</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>, definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -403,7 +403,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -439,7 +439,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/lexscanner-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-h">lexscanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 

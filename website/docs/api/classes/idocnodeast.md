@@ -98,7 +98,7 @@ class IDocNodeAST { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docparser-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
 
 Reference <a href="#a503794169201cea4f02e4281b79b7ddb">isEmpty</a>.
 

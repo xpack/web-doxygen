@@ -602,7 +602,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00237">237</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -633,7 +633,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00239">239</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -664,7 +664,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00236">236</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -695,7 +695,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00234">234</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -726,7 +726,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00238">238</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -757,7 +757,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00235">235</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -799,7 +799,7 @@ class LinkedRefMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00364">364</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -837,7 +837,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00365">365</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -884,7 +884,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 
 <p>Adds an object reference to the ordered vector if it was not added already. Return true if the reference was added, and false if an object with the same key was already added before</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00284">284</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -937,7 +937,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a4aec37ad5da49
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00299">299</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -988,7 +988,7 @@ References <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1026,7 +1026,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00368">368</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1064,7 +1064,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00377">377</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1109,7 +1109,7 @@ References <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash
 
 <p>Removes an object from the container and deletes it. Returns true if the object was deleted or false it is was not found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00348">348</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1161,7 +1161,7 @@ References <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00374">374</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 374 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1201,7 +1201,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00367">367</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1239,7 +1239,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00369">369</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1280,7 +1280,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 
 <p>find an object given the key. Returns a pointer to the object if found or nullptr if it is not found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00243">243</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1327,7 +1327,7 @@ Referenced by <a href="#a273fe87b60116a378346a858e11e4b6e">LinkedRefMap&lt; T, H
 
 <p>find an object given the key. Returns a pointer to the object if found or nullptr if it is not found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00251">251</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1372,7 +1372,7 @@ References <a href="#aa825d33ecc2a6b96492886f163b7d47a">LinkedRefMap&lt; T, Hash
 
 <p>find an object given the key. Returns a pointer to the object if found or nullptr if it is not found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1413,7 +1413,7 @@ Reference <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 <p>non-const wrapper for find() const</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00265">265</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1454,7 +1454,7 @@ Reference <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00270">270</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1495,7 +1495,7 @@ Reference <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 <p>non-const wrapper for find() const</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00276">276</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1539,7 +1539,7 @@ Reference <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash,
 
 <p>Prepends an object reference to the ordered vector if it was not added already. Return true if the reference was added, and false if an object with the same key was already added before</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00317">317</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1590,7 +1590,7 @@ References <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00332">332</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1640,7 +1640,7 @@ References <a href="#a9f6506fe8d15e7f43f61929560a3c377">LinkedRefMap&lt; T, Hash
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00370">370</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 370 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1678,7 +1678,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00372">372</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 372 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1716,7 +1716,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00371">371</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 371 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1754,7 +1754,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00373">373</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1792,7 +1792,7 @@ Reference <a href="#a1ad918f78e81ed4580bcd9c0654fced1">LinkedRefMap&lt; T, Hash,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00375">375</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 375 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1833,7 +1833,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c2452646823
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00385">385</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1866,7 +1866,7 @@ Referenced by <a href="#a273fe87b60116a378346a858e11e4b6e">LinkedRefMap&lt; T, H
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/linkedmap-h/#l00384">384</a> of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
 
 <div class="doxyProgramListing">
 

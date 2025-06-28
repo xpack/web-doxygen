@@ -70,7 +70,7 @@ struct SysTimeKeeper::TimeData { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/portable-cpp/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

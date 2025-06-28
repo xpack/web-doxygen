@@ -83,7 +83,7 @@ struct DocTokenizer::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#l01712">1712</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+<p>Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -113,7 +113,7 @@ struct DocTokenizer::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#l01711">1711</a> of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+<p>Definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
 
 <div class="doxyProgramListing">
 

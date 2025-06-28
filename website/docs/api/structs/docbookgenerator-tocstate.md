@@ -96,7 +96,7 @@ struct DocbookGenerator::TocState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#l00347">347</a> of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+<p>Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ struct DocbookGenerator::TocState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#l00345">345</a> of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+<p>Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ struct DocbookGenerator::TocState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#l00346">346</a> of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+<p>Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

@@ -96,7 +96,7 @@ struct DocVisitor::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp/#l00029">29</a> of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ struct DocVisitor::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp/#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ struct DocVisitor::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp/#l00028">28</a> of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

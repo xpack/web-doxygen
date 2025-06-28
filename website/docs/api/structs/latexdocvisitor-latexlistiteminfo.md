@@ -70,7 +70,7 @@ struct LatexDocVisitor::LatexListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#l00203">203</a> of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
 
 <div class="doxyProgramListing">
 

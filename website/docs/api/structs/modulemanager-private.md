@@ -122,7 +122,7 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01210">1210</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -152,7 +152,7 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01211">1211</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -182,7 +182,7 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01208">1208</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -212,7 +212,7 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01209">1209</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -242,7 +242,7 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#l01212">1212</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+<p>Definition at line 1212 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

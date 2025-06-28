@@ -141,7 +141,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
 
 <div class="doxyProgramListing">
 

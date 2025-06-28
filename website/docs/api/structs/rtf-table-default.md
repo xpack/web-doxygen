@@ -114,7 +114,7 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfstyle-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -144,7 +144,7 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfstyle-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -174,7 +174,7 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfstyle-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -204,7 +204,7 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/rtfstyle-h/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
 
 <div class="doxyProgramListing">
 

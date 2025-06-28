@@ -108,7 +108,7 @@ toc_max_heading_level: 4
 <li>It handles conditional sections (cond...endcond blocks)</li>
 </ol>
 
-<p>Declaration at line <a href="#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/commentcnv-h">commentcnv.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#l01964">1964</a> of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-h">commentcnv.h</a>, definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
 
 <div class="doxyProgramListing">
 

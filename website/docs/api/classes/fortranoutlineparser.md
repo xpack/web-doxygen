@@ -219,7 +219,7 @@ class FortranOutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03343">3343</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 3343 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -262,7 +262,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparserfixed/#
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03348">3348</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 3348 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -317,7 +317,7 @@ Reference <a href="#a7b7d6850dfe712b2f29bccd9b9caffd9">p</a>.
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03366">3366</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 3366 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -382,7 +382,7 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb46
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03353">3353</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 3353 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -433,7 +433,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034
 
 <p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#l03371">3371</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 3371 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -480,7 +480,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.</p>
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.</p>
 
 <div class="doxyProgramListing">
 

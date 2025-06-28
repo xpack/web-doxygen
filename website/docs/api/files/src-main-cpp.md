@@ -76,7 +76,7 @@ toc_max_heading_level: 4
 
 <p>Default main. The idea of separating this from the rest of doxygen, is to make it possible to write your own main, with a different <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput()</a> function for instance.</p>
 
-<p>Definition at line <a href="#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.</p>
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

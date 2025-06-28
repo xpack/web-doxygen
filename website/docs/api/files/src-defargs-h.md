@@ -91,7 +91,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Declaration at line <a href="#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/defargs-h">defargs.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/defargs-l/#l00814">814</a> of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+<p>Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/defargs-h">defargs.h</a>, definition at line 814 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
 
 <div class="doxyProgramListing">
 

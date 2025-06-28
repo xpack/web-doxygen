@@ -214,7 +214,7 @@ class SectionRefs { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -250,7 +250,7 @@ class SectionRefs { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00103">103</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -291,7 +291,7 @@ class SectionRefs { ... }
 <div class="doxyMemberDoc">
 <p>Adds a non-owning section reference.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00116">116</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -332,7 +332,7 @@ References <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00122">122</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -371,7 +371,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00124">124</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -410,7 +410,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00123">123</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -452,7 +452,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 
 <p>Returns a constant pointer to the section info given a section label or nullptr if no section with the given label can be found.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -493,7 +493,7 @@ References <a href="#adff3d92da24bc6d95aa96f9356743166">m&#95;lookup</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00125">125</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -531,7 +531,7 @@ Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00128">128</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -563,7 +563,7 @@ Referenced by <a href="#a916946003ecac73c064487bace9e4bde">add</a>, <a href="#a5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/section-h/#l00129">129</a> of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
 
 <div class="doxyProgramListing">
 

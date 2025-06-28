@@ -470,7 +470,7 @@ class Cache&lt;K, V&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -501,7 +501,7 @@ class Cache&lt;K, V&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -532,7 +532,7 @@ class Cache&lt;K, V&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -574,7 +574,7 @@ class Cache&lt;K, V&gt; { ... }
 <div class="doxyMemberDoc">
 <p>creates a cache that can hold <em>capacity</em> elements</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -620,7 +620,7 @@ References <a href="#a62ce1e1112e08368aff14b6627d2d039">Cache&lt; K, V &gt;::cap
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -658,7 +658,7 @@ Reference <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00158">158</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -696,7 +696,7 @@ Reference <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#9
 <div class="doxyMemberDoc">
 <p>Returns the maximum number of values that can be stored in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -739,7 +739,7 @@ Referenced by <a href="#aaa77900cf0925ea6e46653361bc6be29">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 <p>Clears all values in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -781,7 +781,7 @@ References <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00157">157</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -819,7 +819,7 @@ Reference <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -873,7 +873,7 @@ Reference <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#9
 :::
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -929,7 +929,7 @@ References <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#
 <div class="doxyMemberDoc">
 <p>Returns how many of the <a href="#a31d7c56fdd7cf7147e93bbc7b5420901">find()</a> calls did find a value in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00138">138</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -970,7 +970,7 @@ Reference <a href="#a848baa79896ab6ebca4433c41b0098a0">Cache&lt; K, V &gt;::m&#9
 <div class="doxyMemberDoc">
 <p>Inserts <em>value</em> under <em>key</em> in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1028,7 +1028,7 @@ References <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#
 <div class="doxyMemberDoc">
 <p>Inserts <em>value</em> under <em>key</em> in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1086,7 +1086,7 @@ References <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#
 <div class="doxyMemberDoc">
 <p>Returns how many of the <a href="#a31d7c56fdd7cf7147e93bbc7b5420901">find()</a> calls did not found a value in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1135,7 +1135,7 @@ Reference <a href="#a16e8b2b3815ee6a0d9a025ee9b3896ee">Cache&lt; K, V &gt;::m&#9
 :::
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1182,7 +1182,7 @@ References <a href="#a226d4dd4795121ff2915e7363cd97fa5">Cache&lt; K, V &gt;::m&#
 <div class="doxyMemberDoc">
 <p>Returns the number of values stored in the cache.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00126">126</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1229,7 +1229,7 @@ Reference <a href="#ac777fc9de9e949a74106b11a9370703c">Cache&lt; K, V &gt;::m&#9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00163">163</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1279,7 +1279,7 @@ Referenced by <a href="#a2346678720d2078c031e7ea436e402b6">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00176">176</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1312,7 +1312,7 @@ Referenced by <a href="#a710ca4c838a720d74a5a9063df23a27e">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1345,7 +1345,7 @@ Referenced by <a href="#aaa0c3a5019640bfd305277ac83ff553f">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1378,7 +1378,7 @@ Referenced by <a href="#aaa77900cf0925ea6e46653361bc6be29">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00179">179</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1411,7 @@ Referenced by <a href="#a31d7c56fdd7cf7147e93bbc7b5420901">Cache&lt; K, V &gt;::
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/cache-h/#l00180">180</a> of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/cache-h">cache.h</a>.</p>
 
 <div class="doxyProgramListing">
 

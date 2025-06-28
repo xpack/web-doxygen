@@ -104,7 +104,7 @@ struct TagInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00106">106</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -136,7 +136,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -168,7 +168,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/entry-h/#l00104">104</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 

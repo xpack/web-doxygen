@@ -134,7 +134,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00170">170</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -188,7 +188,7 @@ Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00187">187</a> of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

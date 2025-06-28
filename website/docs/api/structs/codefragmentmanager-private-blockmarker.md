@@ -96,7 +96,7 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -126,7 +126,7 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

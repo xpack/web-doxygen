@@ -150,7 +150,7 @@ class vhdl::parser::VhdlTokenManagerErrorHandler { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -194,7 +194,7 @@ Reference <a href="#af7902c267118f16feb1484a97f949c62">m&#95;fileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp/#l00051">51</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -235,7 +235,7 @@ References <a href="#af7902c267118f16feb1484a97f949c62">m&#95;fileName</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -276,7 +276,7 @@ References <a href="#af7902c267118f16feb1484a97f949c62">m&#95;fileName</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp/#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
 
 <div class="doxyProgramListing">
 

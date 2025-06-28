@@ -161,7 +161,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00185">185</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -225,7 +225,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

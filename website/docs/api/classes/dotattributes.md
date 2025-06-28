@@ -136,7 +136,7 @@ class DotAttributes { ... }
 <div class="doxyMemberDoc">
 <p>Creates an instance of a DotAttribute list given its initial string representation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotattributes-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -179,7 +179,7 @@ Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m&#95;input</a>.
 <div class="doxyMemberDoc">
 <p>Return the string representation of the attribute list.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotattributes-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -221,7 +221,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#ad27e22c157d0c2d
 
 <p>update a given attribute with a new value. If the attribute is not found a new attribute will be appended.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotattributes-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -305,7 +305,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a1ab01907c1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotattributes-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
 
 <div class="doxyProgramListing">
 

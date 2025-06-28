@@ -345,7 +345,7 @@ class DocGroup { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00027">27</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -381,7 +381,7 @@ class DocGroup { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00205">205</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -439,7 +439,7 @@ References <a href="/web-doxygen/docs/api/classes/entry/#ad602ba19af5785515ed817
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00039">39</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00243">243</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -474,7 +474,7 @@ Reference <a href="#a832e0a0b5e7541fb07abef41a8f129a7">m&#95;memberGroupHeader</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00238">238</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -509,7 +509,7 @@ Reference <a href="#a832e0a0b5e7541fb07abef41a8f129a7">m&#95;memberGroupHeader</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00141">141</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -588,7 +588,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -640,7 +640,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -680,7 +680,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00190">190</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -727,7 +727,7 @@ Referenced by <a href="#a7610569d96adb6bd19ed159a5f53a26c">close</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00233">233</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -762,7 +762,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -805,7 +805,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -854,7 +854,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -923,7 +923,7 @@ References <a href="/web-doxygen/docs/api/files/src/membergroup-h/#af4a5ed4e8eab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-cpp/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>, definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -979,7 +979,7 @@ Referenced by <a href="#a9cb5ab2169da2f5bf14816e9c10e8290">open</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1011,7 +1011,7 @@ Referenced by <a href="#a7610569d96adb6bd19ed159a5f53a26c">close</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1043,7 +1043,7 @@ Referenced by <a href="#ae49d781442d3cbceed9b62859b3d4b89">enterCompound</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1075,7 +1075,7 @@ Referenced by <a href="#a9b79815ce3108572e1405da479f34e3d">addDocs</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00045">45</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1107,7 +1107,7 @@ Referenced by <a href="#a9c704ca73aa365da5c61e2b320f8cdd8">appendHeader</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00046">46</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1139,7 +1139,7 @@ Referenced by <a href="#a9b79815ce3108572e1405da479f34e3d">addDocs</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1171,7 +1171,7 @@ Referenced by <a href="#a7610569d96adb6bd19ed159a5f53a26c">close</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docgroup-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/docgroup-h">docgroup.h</a>.</p>
 
 <div class="doxyProgramListing">
 

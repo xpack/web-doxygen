@@ -414,7 +414,7 @@ class DotClassGraph { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00031">31</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00316">316</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -487,7 +487,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00377">377</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -528,7 +528,7 @@ References <a href="/web-doxygen/docs/api/classes/dotnode/#a748649462fd72baa804e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00361">361</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -565,7 +565,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a5d2fed512d38
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00035">35</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00353">353</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -605,7 +605,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00366">366</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -648,7 +648,7 @@ Referenced by <a href="#a4779548a943f89fd72b36b3d3694c135">isTooBig</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00480">480</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -688,7 +688,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00043">43</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00472">472</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 472 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -726,7 +726,7 @@ References <a href="#a091e67a871b92bc6e0e33cbf68a2ce5d">m&#95;usedNodes</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00449">449</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -771,7 +771,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a4b2e6be7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00042">42</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00464">464</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -823,7 +823,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00049">49</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00399">399</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 399 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -873,7 +873,7 @@ References <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607ed
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00047">47</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00382">382</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -926,7 +926,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00050">50</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00432">432</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -979,7 +979,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00413">413</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1034,7 +1034,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00026">26</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1154,7 +1154,7 @@ Referenced by <a href="#acda218b5772f482d137ab17020b96431">buildGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00252">252</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1250,7 +1250,7 @@ Referenced by <a href="#aab4159501d3dc8a968c4db08dcfc1863">addClass</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00114">114</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1313,7 +1313,7 @@ Referenced by <a href="#a53601818c690d945d05a971b506bb5df">DotClassGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp/#l00145">145</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>, definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1436,7 +1436,7 @@ Referenced by <a href="#a53601818c690d945d05a971b506bb5df">DotClassGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00063">63</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1468,7 +1468,7 @@ Referenced by <a href="#a53601818c690d945d05a971b506bb5df">DotClassGraph</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00062">62</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1500,7 +1500,7 @@ Referenced by <a href="#acda218b5772f482d137ab17020b96431">buildGraph</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00064">64</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1532,7 +1532,7 @@ Referenced by <a href="#a53601818c690d945d05a971b506bb5df">DotClassGraph</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00065">65</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1564,7 +1564,7 @@ Referenced by <a href="#a8df15e58576ecab3905a06fd1fc5de34">computeTheGraph</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1596,7 +1596,7 @@ Referenced by <a href="#a8df15e58576ecab3905a06fd1fc5de34">computeTheGraph</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
 
 <div class="doxyProgramListing">
 

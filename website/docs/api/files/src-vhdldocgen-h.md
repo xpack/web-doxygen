@@ -116,7 +116,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="#l00316">316</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#l02547">2547</a> of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp">vhdldocgen.cpp</a>.</p>
+<p>Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>, definition at line 2547 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp">vhdldocgen.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

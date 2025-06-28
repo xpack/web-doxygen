@@ -107,7 +107,7 @@ namespace SpanishTranslatorUtils { ... }
 
 <p>Returns true if the gender of the given component is masculine in Spanish.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-es-h/#l00040">40</a> of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -176,7 +176,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorspanish/#a5603972
 
 <p>Returns true if the gender of the given component is masculine in Spanish.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-es-h/#l00071">71</a> of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -245,7 +245,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorspanish/#a48545d5
 
 <p>Returns true if the gender of the given component is masculine in Spanish.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/translator-es-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/translator-es-h">translator_es.h</a>.</p>
 
 <div class="doxyProgramListing">
 

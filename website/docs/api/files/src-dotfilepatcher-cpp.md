@@ -193,7 +193,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00545">545</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 545 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -260,7 +260,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00124">124</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -382,7 +382,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e17
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00575">575</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -458,7 +458,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -517,7 +517,7 @@ document.addEventListener('DOMContentLoaded', (event) =&gt; {
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00108">108</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -564,7 +564,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00030">30</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -611,7 +611,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -663,7 +663,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00038">38</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -700,7 +700,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00048">48</a> of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

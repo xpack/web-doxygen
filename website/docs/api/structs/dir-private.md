@@ -70,7 +70,7 @@ struct Dir::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/dir-cpp/#l00186">186</a> of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

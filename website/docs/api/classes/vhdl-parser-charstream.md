@@ -800,7 +800,7 @@ class vhdl::parser::CharStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00166">166</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -844,7 +844,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00175">175</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -887,7 +887,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00183">183</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -931,7 +931,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00192">192</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -974,7 +974,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00200">200</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1018,7 +1018,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00209">209</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1061,7 +1061,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00217">217</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1111,7 +1111,7 @@ References <a href="#a26311afec7fdd2e830f9021d93a07857">available</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00155">155</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1159,7 +1159,7 @@ References <a href="#aa3e7f3158e5d605c2391d7821d620b8d">DeleteBuffers</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00243">243</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a146a464d8664e6fe5cd764e866726ac1">newLine</a>.
 </div>
@@ -1193,7 +1193,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a146a464d86
 
 <p>Lexer calls this method if it had already read some characters, but could not use them to match a (longer) token. So, they will be used again as the prefix of the next token and it is the implementation's responsibility to do this right.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1240,7 +1240,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a>, <a href="#a1
 
 <p>All characters must remain in the buffer between two successive calls to this method to implement backup correctly.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1282,7 +1282,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a>, <a href="#a9
 <div class="doxyMemberDoc">
 <p>The lexer calls this function to indicate that it is done with the stream and hence implementations can free any resources held by this class.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00153">153</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 Referenced by <a href="#ab4fb67513988560781f46bb5124f7966">~CharStream</a>.
 </div>
@@ -1312,7 +1312,7 @@ Referenced by <a href="#ab4fb67513988560781f46bb5124f7966">~CharStream</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1351,7 +1351,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a>, <a href="#af
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00120">120</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 </div>
 </div>
 
@@ -1379,7 +1379,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a>, <a href="#af
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00121">121</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 Referenced by <a href="#a9973e74a1dc5b4e1a99139b638286c42">readChar</a>.
 </div>
@@ -1410,7 +1410,7 @@ Referenced by <a href="#a9973e74a1dc5b4e1a99139b638286c42">readChar</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00057">57</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1448,7 +1448,7 @@ References <a href="#a36665c2174fbfd9d427d35f2babbd818">getBufcolumn</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00058">58</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1486,7 +1486,7 @@ References <a href="#aacc5ee96e0b1352acc4acde5a0e23aca">getBufline</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00053">53</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1524,7 +1524,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1562,7 +1562,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00056">56</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1603,7 +1603,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a> and <a href="
 
 <p>Implementations can return anything that they want to. For example, for efficiency, one might decide to just return NULL, which is a valid implementation.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00129">129</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1646,7 +1646,7 @@ References <a href="#a9a130a9b60ebcf293d35f84cab89d8d1">buffer</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1687,7 +1687,7 @@ References <a href="#aa2cbb8b449e060850a7de5632f30cc25">bufpos</a> and <a href="
 
 <p>This is used to build up the matched string for use in actions in the case of MORE. A simple and inefficient implementation of this is as follows :</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1729,7 +1729,7 @@ References <a href="#a9a130a9b60ebcf293d35f84cab89d8d1">buffer</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00034">34</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1767,7 +1767,7 @@ Reference <a href="#a53d2f0014c25f1bc4f8b94bba8659dec">tabSize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00060">60</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1808,7 +1808,7 @@ Reference <a href="#a0d812351e15796fd8ea5bb48257794a4">trackLineColumn</a>.
 
 <p>The method of selecting the input is the responsibility of the class implementing this class.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00095">95</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1869,7 +1869,7 @@ Referenced by <a href="#a4550db4daa4e8ec748659002ddb2ad6c">BeginToken</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00225">225</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a href="#ac16b96fc00c5fe1c7587406d6869f9b5">CharStream</a>, <a href="#a0582344d99aae18c75c7524f7b5a98b8">CharStream</a>, <a href="#ac868943acf237740db51babde94cff7b">CharStream</a>, <a href="#a82949d505a06f19999787ee61f85f7a7">CharStream</a>, <a href="#a7a3b115d9cb6f671539a8db6630f515c">CharStream</a>, <a href="#a3da31e2203a8bcdf92b4726e83535104">CharStream</a>, <a href="#a639909d8be82f388025752ddc28980cd">ReInit</a>, <a href="#a147a1e6e2f7cc4d9dc423bc40a542a66">ReInit</a> and <a href="#a93c0e6b18d38b9df067c39ca157df86a">ReInit</a>.
 </div>
@@ -1900,7 +1900,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00227">227</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1940,7 +1940,7 @@ References <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#a1d5156
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00231">231</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1979,7 +1979,7 @@ References <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#a1d5156
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00235">235</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 </div>
 </div>
 
@@ -2008,7 +2008,7 @@ References <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#a1d5156
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00238">238</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2048,7 +2048,7 @@ References <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#a1d5156
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2086,7 +2086,7 @@ Reference <a href="#a53d2f0014c25f1bc4f8b94bba8659dec">tabSize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00061">61</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2130,7 +2130,7 @@ Reference <a href="#a0d812351e15796fd8ea5bb48257794a4">trackLineColumn</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00246">246</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 Referenced by <a href="#a9973e74a1dc5b4e1a99139b638286c42">readChar</a>.
 </div>
@@ -2166,7 +2166,7 @@ Referenced by <a href="#a9973e74a1dc5b4e1a99139b638286c42">readChar</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2211,7 +2211,7 @@ Referenced by <a href="#a3e0f2c3e5fa9250abf00696661639488">getBeginColumn</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00044">44</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2262,7 +2262,7 @@ Referenced by <a href="#a3f296517fa30b9728af5ec8a9417800d">getBeginLine</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00258">258</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2299,7 +2299,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00249">249</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2336,7 +2336,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00250">250</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2373,7 +2373,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00248">248</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2410,7 +2410,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00251">251</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2447,7 +2447,7 @@ Referenced by <a href="#aea30b248a3b05857e3e60101afd2617a">backup</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00252">252</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2484,7 +2484,7 @@ Referenced by <a href="#aea30b248a3b05857e3e60101afd2617a">backup</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00254">254</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2521,7 +2521,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00264">264</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2558,7 +2558,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00260">260</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2595,7 +2595,7 @@ Referenced by <a href="#aea30b248a3b05857e3e60101afd2617a">backup</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00263">263</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2632,7 +2632,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00255">255</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2669,7 +2669,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00259">259</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2706,7 +2706,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00256">256</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2743,7 +2743,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00257">257</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2780,7 +2780,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00261">261</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2817,7 +2817,7 @@ Referenced by <a href="#a242b0ade90665d38c5931af90a59038b">CharStream</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00253">253</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2854,7 +2854,7 @@ Referenced by <a href="#a4550db4daa4e8ec748659002ddb2ad6c">BeginToken</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h/#l00262">262</a> of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
 
 <div class="doxyProgramListing">
 

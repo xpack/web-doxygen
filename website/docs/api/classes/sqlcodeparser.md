@@ -173,7 +173,7 @@ class SQLCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sqlcode-h/#l00032">32</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00388">388</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -218,7 +218,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sqlcode-h/#l00033">33</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00397">397</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -333,7 +333,7 @@ Reference <a href="#a86b9252c2ad560ced65ace0be82c20b4">p</a>.
 </dd>
 </dl>
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sqlcode-h/#l00036">36</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00409">409</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -458,7 +458,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a635b111e9953d65f635
 </dl>
 
 
-<p>Declaration at line <a href="/web-doxygen/docs/api/files/src/sqlcode-h/#l00052">52</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-l/#l00402">402</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -503,7 +503,7 @@ Referenced by <a href="#adf13c0f853d70fa5244e2acf670a49b9">SQLCodeParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/sqlcode-h/#l00055">55</a> of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>.</p>
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-h">sqlcode.h</a>.</p>
 
 <div class="doxyProgramListing">
 

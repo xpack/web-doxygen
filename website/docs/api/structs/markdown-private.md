@@ -552,7 +552,7 @@ struct Markdown::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00172">172</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -593,7 +593,7 @@ struct Markdown::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00115">115</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -644,7 +644,7 @@ struct Markdown::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00149">149</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -689,7 +689,7 @@ Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00164">164</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -752,7 +752,7 @@ Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <
 <div class="doxyMemberDoc">
 <p>looks for the next emph char, skipping other constructs, and stopping when either it is found, or we are at the end of a paragraph.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00148">148</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -896,7 +896,7 @@ Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00136">136</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1000,7 +1000,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00156">156</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1099,7 +1099,7 @@ Referenced by <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrR
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00134">134</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1200,7 +1200,7 @@ Referenced by <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>,
 <div class="doxyMemberDoc">
 <p>returns whether the line is a setext-style hdr underline</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00155">155</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1268,7 +1268,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00135">135</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1570,7 +1570,7 @@ Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00133">133</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1805,7 +1805,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 <p><span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0)</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00145">145</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1895,7 +1895,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00139">139</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1974,7 +1974,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 <p>process single emphasis</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00140">140</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2039,7 +2039,7 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> a
 <div class="doxyMemberDoc">
 <p>process double emphasis</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00141">141</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2103,7 +2103,7 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> a
 
 <p>Finds the first closing tag, and delegates to the other emph</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00142">142</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2196,7 +2196,7 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00138">138</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2242,7 +2242,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 <p>are treated specially, in the sense that all code inside is written unprocessed</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00137">137</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2364,7 +2364,7 @@ Referenced by <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00150">150</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2425,7 +2425,7 @@ Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00147">147</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2886,7 +2886,7 @@ References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd
 <div class="doxyMemberDoc">
 <p>Process ndash and mdashes.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00143">143</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -2957,7 +2957,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3146,7 +3146,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 <p>Process quoted section "...", can contain one embedded newline.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00144">144</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3197,7 +3197,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00146">146</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3302,7 +3302,7 @@ Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00161">161</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3450,7 +3450,7 @@ Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00162">162</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3548,7 +3548,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00159">159</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3603,7 +3603,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00151">151</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3678,7 +3678,7 @@ Referenced by <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00158">158</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3761,7 +3761,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00163">163</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -3998,7 +3998,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00179">179</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4030,7 +4030,7 @@ Referenced by <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00175">175</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4062,7 +4062,7 @@ Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00177">177</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4094,7 +4094,7 @@ Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00176">176</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4126,7 +4126,7 @@ Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00174">174</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -4158,7 +4158,7 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#l00178">178</a> of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
 
 <div class="doxyProgramListing">
 

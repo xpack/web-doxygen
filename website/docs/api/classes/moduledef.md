@@ -364,7 +364,7 @@ class ModuleDef { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00069">69</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -403,7 +403,7 @@ class ModuleDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00081">81</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad34f8b6da0aece071f38e255943f463e">writeModuleTreeNode</a>.
 </div>
@@ -428,7 +428,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad34f8b6da0aec
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00082">82</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912616cab9e00075658e0fa09d4">PerlModGenerator::generatePerlModForModule</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad34f8b6da0aece071f38e255943f463e">writeModuleTreeNode</a>.
 </div>
@@ -453,7 +453,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912616cab9e00075658e0fa09d4">PerlModGenerator::generatePerlModForModule</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad34f8b6da0aece071f38e255943f463e">writeModuleTreeNode</a>.
 </div>
@@ -478,7 +478,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>.
 </div>
@@ -503,7 +503,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7aac89ee42416993ce59da">ModuleManager::resolveImports</a> and <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a16de9b0536cf33e6b6380cf55ecb3ca5">ModuleDefImpl::sortMemberLists</a>.
 </div>
@@ -528,7 +528,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#abe59aee08bdd26b109a69b54f6e018ab">ModuleManager::resolvePartitionsRecursively</a>.
 </div>
@@ -553,7 +553,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#abe59aee08bd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00080">80</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912616cab9e00075658e0fa09d4">PerlModGenerator::generatePerlModForModule</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>.
 </div>
@@ -578,7 +578,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00078">78</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912616cab9e00075658e0fa09d4">PerlModGenerator::generatePerlModForModule</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a98f02f28ab5ec9b1a51543a7ef4ba1ab">writeModuleMembers</a>.
 </div>
@@ -603,7 +603,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00079">79</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>.
 </div>
@@ -628,7 +628,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00089">89</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912616cab9e00075658e0fa09d4">PerlModGenerator::generatePerlModForModule</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>.
 </div>
@@ -653,7 +653,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4d95b912
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00077">77</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 
 Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893122a2bcdd479b">Index::addModuleMemberNameToIndex</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>.
 </div>
@@ -678,7 +678,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00074">74</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 </div>
 </div>
 
@@ -701,7 +701,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00075">75</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 </div>
 </div>
 
@@ -724,7 +724,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00087">87</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 </div>
 </div>
 
@@ -747,7 +747,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00076">76</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 </div>
 </div>
 
@@ -770,7 +770,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/moduledef-h/#l00088">88</a> of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
 </div>
 </div>
 

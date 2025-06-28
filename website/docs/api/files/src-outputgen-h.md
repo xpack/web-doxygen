@@ -213,7 +213,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00059">59</a> of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
 
 <div class="doxyProgramListing">
 

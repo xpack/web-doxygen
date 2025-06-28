@@ -279,7 +279,7 @@ class CodeParserInterface { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a250f197dbdf763805425256ed96f37d8">parseCode</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
@@ -317,7 +317,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8
 </dl>
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/parserintf-h/#l00132">132</a> of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
 Reference <a href="#a3730d6a2825e4e377d7f7fb048f45367">resetCodeParserState</a>.
 

@@ -197,7 +197,7 @@ struct LayoutDocEntry { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00067">67</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -242,7 +242,7 @@ struct LayoutDocEntry { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00073">73</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -283,7 +283,7 @@ References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc9518
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00083">83</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 </div>
 </div>
 
@@ -306,7 +306,7 @@ References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc9518
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00072">72</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 
 Referenced by <a href="#a0a0e7f433c5939509c1b0738740ae618">entryToString</a>.
 </div>
@@ -331,7 +331,7 @@ Referenced by <a href="#a0a0e7f433c5939509c1b0738740ae618">entryToString</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/layout-h/#l00084">84</a> of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
 </div>
 </div>
 

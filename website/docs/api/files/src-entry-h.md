@@ -181,7 +181,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="#l00269">269</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -236,7 +236,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00037">37</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -287,7 +287,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00054">54</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -335,7 +335,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line <a href="#l00070">70</a> of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
 
 <div class="doxyProgramListing">
 

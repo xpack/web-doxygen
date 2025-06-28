@@ -649,7 +649,7 @@ class DocNode { ... }
 </dd>
 </dl>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00110">110</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -693,7 +693,7 @@ class DocNode { ... }
 
 <p>Creates a new node</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00085">85</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -738,7 +738,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00086">86</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 Reference <a href="#a12e0244788c1b56cb307517cb8d9d96f">DocNode</a>.
 </div>
@@ -777,7 +777,7 @@ Reference <a href="#a12e0244788c1b56cb307517cb8d9d96f">DocNode</a>.
 
 <p>Returns TRUE iff this node is inside a preformatted section</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00105">105</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -819,7 +819,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a90cd462d7e
 
 <p>Returns the parent of this node or nullptr for the root node.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00090">90</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -858,7 +858,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a0f22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00091">91</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -895,7 +895,7 @@ Reference <a href="#a780c81bebb1b1d7631396735b05b54fe">m&#95;parent</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00098">98</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -934,7 +934,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00099">99</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -974,7 +974,7 @@ Reference <a href="#aeaf1e42b13481f115dc6af5b5d1e399c">m&#95;parser</a>.
 
 <p>Sets a new parent for this node.</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00102">102</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1011,7 +1011,7 @@ References <a href="#a780c81bebb1b1d7631396735b05b54fe">m&#95;parent</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00096">96</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1048,7 +1048,7 @@ References <a href="#abedd2dfc7d6c0fcce6fc6212fc83f4fa">m&#95;thisVariant</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00093">93</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1087,7 +1087,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00094">94</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1134,7 +1134,7 @@ Reference <a href="#abedd2dfc7d6c0fcce6fc6212fc83f4fa">m&#95;thisVariant</a>.
 
 <p>Sets whether or not this item is inside a preformatted section</p>
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00109">109</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1174,7 +1174,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00112">112</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1206,7 +1206,7 @@ Referenced by <a href="#a79d0b2250794ae96a629d964f60cb2a4">isPreformatted</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00114">114</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1238,7 +1238,7 @@ Referenced by <a href="#a12e0244788c1b56cb307517cb8d9d96f">DocNode</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00113">113</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
@@ -1270,7 +1270,7 @@ Referenced by <a href="#a12e0244788c1b56cb307517cb8d9d96f">DocNode</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line <a href="/web-doxygen/docs/api/files/src/docnode-h/#l00115">115</a> of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
 <div class="doxyProgramListing">
 
