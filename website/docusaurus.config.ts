@@ -73,6 +73,7 @@ const config: Config = {
         menuDropdownLabel: 'Internals',
         mainPageTitle: 'Doxygen Internals',
         renderProgramListing: false,
+        renderProgramListingInline: true,
         verbose: false,
         debug: false
       },

@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">namespace</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/namespaces/clang">clang</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">clang</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -48,7 +48,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">namespace</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="undefined">clang::tooling</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">clang::tooling</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>

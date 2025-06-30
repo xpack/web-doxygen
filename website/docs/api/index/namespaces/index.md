@@ -45,17 +45,6 @@ keywords:
 <td class="doxyTreeItemLeft" align="left" valign="top">
 <span style="width: 12px; display: inline-block;"></span>
 <span class="doxyTreeIconBox"><span class="doxyTreeIcon">N</span></span>
-<a href="/web-doxygen/docs/api/namespaces/clang">clang</a>
-</td>
-<td class="doxyTreeItemRight" align="left" valign="top">
-
-</td>
-</tr>
-
-<tr class="doxyTreeItem">
-<td class="doxyTreeItemLeft" align="left" valign="top">
-<span style="width: 12px; display: inline-block;"></span>
-<span class="doxyTreeIconBox"><span class="doxyTreeIcon">N</span></span>
 <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight">ClassMemberHighlight</a>
 </td>
 <td class="doxyTreeItemRight" align="left" valign="top">

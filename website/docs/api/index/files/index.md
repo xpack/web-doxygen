@@ -23,36 +23,6 @@ keywords:
 <tr class="doxyTreeItem">
 <td class="doxyTreeItemLeft" align="left" valign="top">
 <span style="width: 0px; display: inline-block;"></span>
-<a href="/web-doxygen/docs/api/folders//users/ilg/myprojects/xpack-github/docusaurus/web-doxygen-git/build"><span class="doxyIconFolder">/Users/ilg/MyProjects/xpack.github/docusaurus/web-doxygen.git/build</span></a>
-</td>
-<td class="doxyTreeItemRight" align="left" valign="top">
-
-</td>
-</tr>
-
-<tr class="doxyTreeItem">
-<td class="doxyTreeItemLeft" align="left" valign="top">
-<span style="width: 12px; display: inline-block;"></span>
-<a href="/web-doxygen/docs/api/folders//users/ilg/myprojects/xpack-github/docusaurus/web-doxygen-git/build//users/ilg/myprojects/xpack-github/docusaurus/web-doxygen-git/build/doc-internal"><span class="doxyIconFolder">/Users/ilg/MyProjects/xpack.github/docusaurus/web-doxygen.git/build/doc_internal</span></a>
-</td>
-<td class="doxyTreeItemRight" align="left" valign="top">
-
-</td>
-</tr>
-
-<tr class="doxyTreeItem">
-<td class="doxyTreeItemLeft" align="left" valign="top">
-<span style="width: 0px; display: inline-block;"></span>
-<a href="/web-doxygen/docs/api/folders/doc-internal"><span class="doxyIconFolder">doc_internal</span></a>
-</td>
-<td class="doxyTreeItemRight" align="left" valign="top">
-
-</td>
-</tr>
-
-<tr class="doxyTreeItem">
-<td class="doxyTreeItemLeft" align="left" valign="top">
-<span style="width: 0px; display: inline-block;"></span>
 <a href="/web-doxygen/docs/api/folders/libxml"><span class="doxyIconFolder">libxml</span></a>
 </td>
 <td class="doxyTreeItemRight" align="left" valign="top">
