@@ -116,7 +116,7 @@ class IterableStack&lt;T, Container&gt; { ... }
 </table>
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxySectionDef">
 
@@ -147,7 +147,8 @@ class IterableStack&lt;T, Container&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -183,7 +184,8 @@ class IterableStack&lt;T, Container&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -219,7 +221,8 @@ class IterableStack&lt;T, Container&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +258,8 @@ class IterableStack&lt;T, Container&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -270,7 +274,7 @@ class IterableStack&lt;T, Container&gt; { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a></li>

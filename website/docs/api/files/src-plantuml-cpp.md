@@ -134,7 +134,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
+Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -181,7 +182,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/plantumlmanager/#aa83ff077c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
+Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -227,7 +229,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/plantumlmanager/#aa83ff077c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
+Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -279,7 +282,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/plantumlmanager/#aa83ff077c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
+Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -326,7 +330,8 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -481,7 +486,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config&#95;getList</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err&#95;full</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#ab7840bb4fca4b3d9938c1b3f0e1352ef">FileInfo::isFile</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#ad1b6b56d95d64570f2be3ca005b63412">maxCmdLine</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PlantumlManager::PUML&#95;BITMAP</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PlantumlManager::PUML&#95;EPS</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PlantumlManager::PUML&#95;SVG</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err\_full</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#ab7840bb4fca4b3d9938c1b3f0e1352ef">FileInfo::isFile</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#ad1b6b56d95d64570f2be3ca005b63412">maxCmdLine</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PlantumlManager::PUML\_BITMAP</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PlantumlManager::PUML\_EPS</a>, <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PlantumlManager::PUML\_SVG</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/plantumlmanager/#af38a83e442553a769951c724353cbe6a">PlantumlManager::run</a>.
 </div>

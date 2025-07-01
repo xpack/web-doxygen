@@ -51,7 +51,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class for generating documentation specific for VHDL. <a href="/web-doxygen/docs/api/classes/vhdldocgen/#details">More...</a></p>
+Class for generating documentation specific for VHDL. <a href="/web-doxygen/docs/api/classes/vhdldocgen/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -116,7 +116,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>, definition at line 2547 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp">vhdldocgen.cpp</a>.</p>
+
+Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-h">vhdldocgen.h</a>, definition at line 2547 of file <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp">vhdldocgen.cpp</a>.
 
 <div class="doxyProgramListing">
 

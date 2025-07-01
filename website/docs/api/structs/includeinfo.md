@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IncludeInfo` Struct Reference
 
-<p>Class representing the data associated with a #include statement. <a href="#details">More...</a></p>
+Class representing the data associated with a #include statement. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -109,9 +109,9 @@ struct IncludeInfo { ... }
 
 ## Description {#details}
 
-<p>Class representing the data associated with a #include statement.</p>
+Class representing the data associated with a #include statement.
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -141,7 +141,8 @@ struct IncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -176,7 +177,8 @@ struct IncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -215,7 +217,8 @@ References <a href="#ac9ea4d136292663b672a8aeec5944548">fileDef</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -247,7 +250,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -279,7 +283,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -296,7 +301,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a></li>

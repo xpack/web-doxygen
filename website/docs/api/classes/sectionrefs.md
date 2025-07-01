@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SectionRefs` Class Reference
 
-<p>class that represents a list of constant references to sections. <a href="#details">More...</a></p>
+class that represents a list of constant references to sections. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -92,7 +92,7 @@ class SectionRefs { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adds a non-owning section reference. <a href="#a916946003ecac73c064487bace9e4bde">More...</a></p>
+Adds a non-owning section reference. <a href="#a916946003ecac73c064487bace9e4bde">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -187,15 +187,15 @@ class SectionRefs { ... }
 
 ## Description {#details}
 
-<p>class that represents a list of constant references to sections.</p>
+class that represents a list of constant references to sections.
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Typedefs
 
-### const&#95;iterator {#a1f0027292f3e47cd2beb42004dc5bc80}
+### const\_iterator {#a1f0027292f3e47cd2beb42004dc5bc80}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -214,7 +214,8 @@ class SectionRefs { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -250,7 +251,8 @@ class SectionRefs { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -289,9 +291,10 @@ class SectionRefs { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Adds a non-owning section reference.</p>
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+Adds a non-owning section reference.
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -304,7 +307,7 @@ class SectionRefs { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>, <a href="#adff3d92da24bc6d95aa96f9356743166">m&#95;lookup</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#ac7e12ef0c11e1acc583d1d66404c2557">toStdString</a>.
+References <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m\_entries</a>, <a href="#adff3d92da24bc6d95aa96f9356743166">m\_lookup</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#ac7e12ef0c11e1acc583d1d66404c2557">toStdString</a>.
 </div>
 </div>
 
@@ -332,7 +335,8 @@ References <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -341,7 +345,7 @@ References <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef1
 </div>
 
 
-Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
+Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m\_entries</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>.
 </div>
@@ -371,7 +375,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -380,7 +385,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 </div>
 
 
-Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
+Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m\_entries</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>.
 </div>
@@ -410,7 +415,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -419,7 +425,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 </div>
 
 
-Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
+Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m\_entries</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>.
 </div>
@@ -450,9 +456,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 
 
 
-<p>Returns a constant pointer to the section info given a section label or nullptr if no section with the given label can be found.</p>
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+Returns a constant pointer to the section info given a section label or nullptr if no section with the given label can be found.
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -465,7 +472,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 </div>
 
 
-References <a href="#adff3d92da24bc6d95aa96f9356743166">m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#adff3d92da24bc6d95aa96f9356743166">m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -493,7 +500,8 @@ References <a href="#adff3d92da24bc6d95aa96f9356743166">m&#95;lookup</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -502,7 +510,7 @@ References <a href="#adff3d92da24bc6d95aa96f9356743166">m&#95;lookup</a> and <a 
 </div>
 
 
-Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
+Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m\_entries</a>.
 </div>
 </div>
 
@@ -512,7 +520,7 @@ Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
 
 ## Private Member Attributes
 
-### m&#95;entries {#a8ddc0e1f326840af1dd3f3f5d0ee4928}
+### m\_entries {#a8ddc0e1f326840af1dd3f3f5d0ee4928}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -531,7 +539,8 @@ Reference <a href="#a8ddc0e1f326840af1dd3f3f5d0ee4928">m&#95;entries</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -544,7 +553,7 @@ Referenced by <a href="#a916946003ecac73c064487bace9e4bde">add</a>, <a href="#a5
 </div>
 </div>
 
-### m&#95;lookup {#adff3d92da24bc6d95aa96f9356743166}
+### m\_lookup {#adff3d92da24bc6d95aa96f9356743166}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -563,7 +572,8 @@ Referenced by <a href="#a916946003ecac73c064487bace9e4bde">add</a>, <a href="#a5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -580,7 +590,7 @@ Referenced by <a href="#a916946003ecac73c064487bace9e4bde">add</a> and <a href="
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/section-h">section.h</a></li>

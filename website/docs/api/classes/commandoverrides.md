@@ -121,7 +121,7 @@ class CommandOverrides { ... }
 </table>
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxySectionDef">
 
@@ -151,7 +151,8 @@ class CommandOverrides { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -170,7 +171,7 @@ Reference <a href="#a377f196f17d9e11186b9b77e157e67d7">reset</a>.
 
 ## Public Member Functions
 
-### from&#95;store&#95;type() {#a10e8d98fae68eb335a65e83ff2495c13}
+### from\_store\_type() {#a10e8d98fae68eb335a65e83ff2495c13}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -194,7 +195,8 @@ Reference <a href="#a377f196f17d9e11186b9b77e157e67d7">reset</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -205,7 +207,7 @@ Reference <a href="#a377f196f17d9e11186b9b77e157e67d7">reset</a>.
 </div>
 </div>
 
-### from&#95;store&#95;type() {#a5aac4140abc357da023493e0743d3a50}
+### from\_store\_type() {#a5aac4140abc357da023493e0743d3a50}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -229,7 +231,8 @@ Reference <a href="#a377f196f17d9e11186b9b77e157e67d7">reset</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -264,7 +267,8 @@ Reference <a href="#a377f196f17d9e11186b9b77e157e67d7">reset</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -277,7 +281,7 @@ Referenced by <a href="#aa70227d4779277e28df010314eb2d460">CommandOverrides</a>.
 </div>
 </div>
 
-### to&#95;store&#95;type() {#a2cf2d3a041fdb1ae3784d0310ce64b76}
+### to\_store\_type() {#a2cf2d3a041fdb1ae3784d0310ce64b76}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -301,7 +305,8 @@ Referenced by <a href="#aa70227d4779277e28df010314eb2d460">CommandOverrides</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -312,7 +317,7 @@ Referenced by <a href="#aa70227d4779277e28df010314eb2d460">CommandOverrides</a>.
 </div>
 </div>
 
-### to&#95;store&#95;type() {#a5d2aaedad075507541b0a0021e37f6e7}
+### to\_store\_type() {#a5d2aaedad075507541b0a0021e37f6e7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -336,7 +341,8 @@ Referenced by <a href="#aa70227d4779277e28df010314eb2d460">CommandOverrides</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -351,7 +357,7 @@ Referenced by <a href="#aa70227d4779277e28df010314eb2d460">CommandOverrides</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a></li>

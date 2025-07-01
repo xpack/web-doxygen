@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Iterator` Class Reference
 
-<p>Class to iterate through matches. <a href="#details">More...</a></p>
+Class to iterate through matches. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -112,7 +112,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Creates an end-of-sequence iterator. <a href="#a87c2aec67346b247815d974cad0bfc2a">More...</a></p>
+Creates an end-of-sequence iterator. <a href="#a87c2aec67346b247815d974cad0bfc2a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -126,7 +126,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search. <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">More...</a></p>
+Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search. <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -185,7 +185,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns true if the iterators point to the same match (or both are end-of-sequence iterators) <a href="#ad00ffd6c0f81540663118248ca9f1aa3">More...</a></p>
+Returns true if the iterators point to the same match (or both are end-of-sequence iterators) <a href="#ad00ffd6c0f81540663118248ca9f1aa3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -199,7 +199,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns true if the iterators are not pointing to the same match. <a href="#af0ae906d2bb88ff783d099521209753f">More...</a></p>
+Returns true if the iterators are not pointing to the same match. <a href="#af0ae906d2bb88ff783d099521209753f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -213,7 +213,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a reference to the current match. <a href="#a1554335044a2747390e3e94b7f220575">More...</a></p>
+Returns a reference to the current match. <a href="#a1554335044a2747390e3e94b7f220575">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -227,7 +227,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a pointer to the current match. <a href="#a8d0e5734c6f0d6026964916052bf35ac">More...</a></p>
+Returns a pointer to the current match. <a href="#a8d0e5734c6f0d6026964916052bf35ac">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -241,7 +241,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Advances the iterator to the next match. <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">More...</a></p>
+Advances the iterator to the next match. <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -329,15 +329,15 @@ class reg::Iterator { ... }
 
 ## Description {#details}
 
-<p>Class to iterate through matches.</p>
+Class to iterate through matches.
 
-<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Typedefs
 
-### difference&#95;type {#a6424b2f931a5cb860a7d60bf777b3c03}
+### difference\_type {#a6424b2f931a5cb860a7d60bf777b3c03}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -356,7 +356,8 @@ class reg::Iterator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -367,7 +368,7 @@ class reg::Iterator { ... }
 </div>
 </div>
 
-### iterator&#95;category {#a5fb1af3a9c9e6ec4913f40548eba2352}
+### iterator\_category {#a5fb1af3a9c9e6ec4913f40548eba2352}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -386,7 +387,8 @@ class reg::Iterator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -416,7 +418,8 @@ class reg::Iterator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -446,7 +449,8 @@ class reg::Iterator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -457,7 +461,7 @@ class reg::Iterator { ... }
 </div>
 </div>
 
-### value&#95;type {#a8b099961d63d2f65eb8d1b7d2936c4c7}
+### value\_type {#a8b099961d63d2f65eb8d1b7d2936c4c7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -476,7 +480,8 @@ class reg::Iterator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -515,9 +520,10 @@ class reg::Iterator { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Creates an end-of-sequence iterator.</p>
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Creates an end-of-sequence iterator.
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -552,15 +558,16 @@ Referenced by <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a>, <a hr
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search.</p>
+
+Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search.
 
 
 :::info
-<p>the string and regular expression objects should remain valid while iterating.</p>
+the string and regular expression objects should remain valid while iterating.
 :::
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -570,7 +577,7 @@ Referenced by <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a>, <a hr
 </div>
 
 
-References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m&#95;pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m&#95;re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m&#95;str</a>.
+References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m\_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m\_str</a>.
 </div>
 </div>
 
@@ -598,7 +605,8 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 </div>
 </div>
 
@@ -626,7 +634,8 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 </div>
 </div>
 
@@ -654,7 +663,8 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 </div>
 </div>
 
@@ -686,9 +696,10 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a pointer to the current match.</p>
 
-<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Returns a pointer to the current match.
+
+Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -697,7 +708,7 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 </div>
 
 
-Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>.
+Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
 </div>
 </div>
 
@@ -723,9 +734,10 @@ Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns true if the iterators are not pointing to the same match.</p>
 
-<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Returns true if the iterators are not pointing to the same match.
+
+Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -734,11 +746,11 @@ Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>.
 </div>
 
 
-References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m&#95;pos</a>.
+References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>.
 </div>
 </div>
 
-### operator&#42;() {#a1554335044a2747390e3e94b7f220575}
+### operator\*() {#a1554335044a2747390e3e94b7f220575}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -760,9 +772,10 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a reference to the current match.</p>
 
-<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Returns a reference to the current match.
+
+Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -771,7 +784,7 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 </div>
 
 
-Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>.
+Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
 </div>
 </div>
 
@@ -797,9 +810,10 @@ Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Advances the iterator to the next match.</p>
 
-<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Advances the iterator to the next match.
+
+Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -834,9 +848,10 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns true if the iterators point to the same match (or both are end-of-sequence iterators)</p>
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+Returns true if the iterators point to the same match (or both are end-of-sequence iterators)
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -845,7 +860,7 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href
 </div>
 
 
-References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m&#95;pos</a>.
+References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>.
 </div>
 </div>
 
@@ -879,7 +894,8 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -899,7 +915,7 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 </div>
 
 
-References <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m&#95;match</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m&#95;pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m&#95;re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m&#95;str</a>.
+References <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m\_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m\_str</a>.
 
 Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">operator++</a>.
 </div>
@@ -911,7 +927,7 @@ Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a h
 
 ## Private Member Attributes
 
-### m&#95;match {#aa58bdff90e2e70b4f24af28daa8ce601}
+### m\_match {#aa58bdff90e2e70b4f24af28daa8ce601}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -930,7 +946,8 @@ Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -939,11 +956,11 @@ Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a h
 </div>
 
 
-Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a1554335044a2747390e3e94b7f220575">operator&#42;</a> and <a href="#a8d0e5734c6f0d6026964916052bf35ac">operator-&gt;</a>.
+Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a1554335044a2747390e3e94b7f220575">operator\*</a> and <a href="#a8d0e5734c6f0d6026964916052bf35ac">operator-&gt;</a>.
 </div>
 </div>
 
-### m&#95;pos {#a51b9b1ce207fe269f65a68cb701d8cdf}
+### m\_pos {#a51b9b1ce207fe269f65a68cb701d8cdf}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -962,7 +979,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -975,7 +993,7 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href
 </div>
 </div>
 
-### m&#95;re {#aebd291f5387d2877957ee97b04ec099c}
+### m\_re {#aebd291f5387d2877957ee97b04ec099c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -994,7 +1012,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1007,7 +1026,7 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a h
 </div>
 </div>
 
-### m&#95;str {#a95fadf06dfffc63a2ce6996b7ad8e51c}
+### m\_str {#a95fadf06dfffc63a2ce6996b7ad8e51c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1026,7 +1045,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1043,7 +1063,7 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a h
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a></li>

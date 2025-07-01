@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for Eclipse help files. <a href="/web-doxygen/docs/api/classes/eclipsehelp/#details">More...</a></p>
+Generator for Eclipse help files. <a href="/web-doxygen/docs/api/classes/eclipsehelp/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

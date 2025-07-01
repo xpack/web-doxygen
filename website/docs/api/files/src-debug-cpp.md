@@ -157,7 +157,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -198,7 +199,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -213,7 +215,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff
 </div>
 
 
-References <a href="#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa1079d9a4345660aa3e283c322fd12f3">Debug::Quiet</a>, <a href="#ab76040705893c60ac02bcca04c9aba5f">s&#95;labels</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa1079d9a4345660aa3e283c322fd12f3">Debug::Quiet</a>, <a href="#ab76040705893c60ac02bcca04c9aba5f">s\_labels</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.
 </div>
@@ -225,7 +227,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b4
 
 ## Variables
 
-### g&#95;debugFile {#a0fa8fc957f0879ebc8b79c19fe3557f4}
+### g\_debugFile {#a0fa8fc957f0879ebc8b79c19fe3557f4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -249,7 +251,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -258,11 +261,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b4
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc502ccb1198f8c">Debug::print&#95;</a> and <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc502ccb1198f8c">Debug::print\_</a> and <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.
 </div>
 </div>
 
-### g&#95;runningTime {#a3e85396212eb9f0ea3bc706daf150cdd}
+### g\_runningTime {#a3e85396212eb9f0ea3bc706daf150cdd}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -286,7 +289,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -299,7 +303,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015cae
 </div>
 </div>
 
-### s&#95;labels {#ab76040705893c60ac02bcca04c9aba5f}
+### s\_labels {#ab76040705893c60ac02bcca04c9aba5f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -323,7 +327,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015cae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 

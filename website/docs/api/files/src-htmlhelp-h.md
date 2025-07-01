@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A class that generated the HTML Help specific files. <a href="/web-doxygen/docs/api/classes/htmlhelp/#details">More...</a></p>
+A class that generated the HTML Help specific files. <a href="/web-doxygen/docs/api/classes/htmlhelp/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

@@ -107,7 +107,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorpersian/#abd5222c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorpersian/#abd5222c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-fa-h">translator_fa.h</a>.
 
 <div class="doxyProgramListing">
 

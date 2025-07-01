@@ -90,7 +90,7 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 </table>
 
 
-<p>Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -115,7 +115,8 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1038 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1038 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +146,8 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1037 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1037 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -181,7 +183,8 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -211,7 +214,8 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -226,7 +230,7 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

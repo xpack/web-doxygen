@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper struct representing a RGBA color. <a href="/web-doxygen/docs/api/structs/color/#details">More...</a></p>
+Helper struct representing a RGBA color. <a href="/web-doxygen/docs/api/structs/color/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -201,7 +201,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -237,7 +238,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -269,6 +271,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -291,7 +294,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 </dd>
 </dl>
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -337,7 +340,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -369,6 +373,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -392,7 +397,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 </dd>
 </dl>
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -439,7 +444,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -552,7 +558,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 

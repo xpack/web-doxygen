@@ -129,7 +129,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a> = 256&#42;256</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a> = 256\*256</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -184,7 +184,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -241,7 +242,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#a32913d63f72fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -333,9 +335,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcace
 
 
 
-<p>Cleanup the search indexer</p>
 
-<p>Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+Cleanup the search indexer
+
+Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -373,9 +376,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-<p>Initialize the search indexer</p>
 
-<p>Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+Initialize the search indexer
+
+Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -393,7 +397,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">SearchIndexIntf::External</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">SearchIndexIntf::Internal</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">SearchIndexIntf::External</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">SearchIndexIntf::Internal</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
 </div>
@@ -423,7 +427,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -466,7 +471,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#ac64814075d6e3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -492,7 +498,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#ac64814075d6e3
 
 ## Variables
 
-### g&#95;searchIndexMutex {#a327880ec7a71c2658cfa974939ddef30}
+### g\_searchIndexMutex {#a327880ec7a71c2658cfa974939ddef30}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -516,7 +522,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#ac64814075d6e3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -538,7 +545,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#a3682b0b970d44
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t numIndexEntries = 256&#42;256</td>
+<td class="doxyMemberName">const size_t numIndexEntries = 256\*256</td>
 </tr>
 </table>
 </td>
@@ -548,7 +555,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#a3682b0b970d44
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 

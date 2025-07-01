@@ -84,7 +84,7 @@ struct AnchorGenerator::Private { ... }
 </table>
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ struct AnchorGenerator::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ struct AnchorGenerator::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ struct AnchorGenerator::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,8 @@ struct AnchorGenerator::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +218,7 @@ struct AnchorGenerator::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/anchor-cpp">anchor.cpp</a></li>

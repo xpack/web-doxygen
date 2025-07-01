@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotDirProperty` Struct Reference
 
-<p>Properties are used to format the directories in the graph distinctively. <a href="#details">More...</a></p>
+Properties are used to format the directories in the graph distinctively. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>true if not all successors of a cluster are drawn <a href="#afa37640375733ea38413a589b3f90718">More...</a></p>
+true if not all successors of a cluster are drawn <a href="#afa37640375733ea38413a589b3f90718">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>true if parent is not drawn <a href="#a725a202c71456e1caf086cdd20a9baf9">More...</a></p>
+true if parent is not drawn <a href="#a725a202c71456e1caf086cdd20a9baf9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>true has successors, none is drawn <a href="#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">More...</a></p>
+true has successors, none is drawn <a href="#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>true if is the directory for which the graph is drawn <a href="#ac8ed0c0d9a9e5638b80ba4d96b1f7b7b">More...</a></p>
+true if is the directory for which the graph is drawn <a href="#ac8ed0c0d9a9e5638b80ba4d96b1f7b7b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>true if no successor of parent of original directory <a href="#ae497ee1efde3231d5f26bd05a05480e1">More...</a></p>
+true if no successor of parent of original directory <a href="#ae497ee1efde3231d5f26bd05a05480e1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -103,9 +103,9 @@ struct DotDirProperty { ... }
 
 ## Description {#details}
 
-<p>Properties are used to format the directories in the graph distinctively.</p>
+Properties are used to format the directories in the graph distinctively.
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -128,9 +128,10 @@ struct DotDirProperty { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>true if not all successors of a cluster are drawn</p>
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+true if not all successors of a cluster are drawn
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -160,9 +161,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>true if is the directory for which the graph is drawn</p>
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+true if is the directory for which the graph is drawn
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -192,9 +194,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>true if parent is not drawn</p>
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+true if parent is not drawn
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -224,9 +227,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>true if no successor of parent of original directory</p>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+true if no successor of parent of original directory
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -254,9 +258,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>true has successors, none is drawn</p>
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+true has successors, none is drawn
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -273,7 +278,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a></li>

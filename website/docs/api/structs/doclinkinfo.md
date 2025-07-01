@@ -89,7 +89,7 @@ struct DocLinkInfo { ... }
 </table>
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -114,7 +114,8 @@ struct DocLinkInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -146,7 +147,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -178,7 +180,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -210,7 +213,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -227,7 +231,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a></li>

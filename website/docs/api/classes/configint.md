@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ConfigInt` Class Reference
 
-<p>Class representing an integer type option. <a href="#details">More...</a></p>
+Class representing an integer type option. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ConfigInt { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a></p>
+Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -304,9 +304,9 @@ class ConfigInt { ... }
 
 ## Description {#details}
 
-<p>Class representing an integer type option.</p>
+Class representing an integer type option.
 
-<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxySectionDef">
 
@@ -336,7 +336,8 @@ class ConfigInt { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -354,7 +355,7 @@ class ConfigInt { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1ee7e5eaaec6d8f1ac">ConfigOption::ConfigOption</a>, <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m&#95;defValue</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a28fdea8e9fdf86e73faae697454c17ab">ConfigOption::m&#95;doc</a>, <a href="#a915eccce79f281db89e960354a20d162">m&#95;maxVal</a>, <a href="#a049b50af51f97be4d016f0024d0fc83c">m&#95;minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>, <a href="#a491b02657945f80a7ffb5cb9b3562ab7">maxVal</a>, <a href="#ae9fc76f1f588da6c5e4867b1943167fe">minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#ab89196927c521e95680eb5efdc562187">ConfigOption::name</a> and <a href="/web-doxygen/docs/api/classes/configoption/#ad60cb308cdf307e72796dc2fc2a40fdaac029c8062b88308de12914e88e12dcd8">ConfigOption::O&#95;Int</a>.
+References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1ee7e5eaaec6d8f1ac">ConfigOption::ConfigOption</a>, <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m\_defValue</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a28fdea8e9fdf86e73faae697454c17ab">ConfigOption::m\_doc</a>, <a href="#a915eccce79f281db89e960354a20d162">m\_maxVal</a>, <a href="#a049b50af51f97be4d016f0024d0fc83c">m\_minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a>, <a href="#a491b02657945f80a7ffb5cb9b3562ab7">maxVal</a>, <a href="#ae9fc76f1f588da6c5e4867b1943167fe">minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#ab89196927c521e95680eb5efdc562187">ConfigOption::name</a> and <a href="/web-doxygen/docs/api/classes/configoption/#ad60cb308cdf307e72796dc2fc2a40fdaac029c8062b88308de12914e88e12dcd8">ConfigOption::O\_Int</a>.
 </div>
 </div>
 
@@ -388,7 +389,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 239 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 239 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -400,7 +402,7 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0e540316e6cd940aa0ba248fb99f2c67cce98a6822482fba">Config::CompressedNoEnv</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a4c20e33d84d7477620edc8cdf3e3333b">containsEnvVar</a>, <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adac9662550d30efe51112c6f97485c60">writeTemplate</a>.
+References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0e540316e6cd940aa0ba248fb99f2c67cce98a6822482fba">Config::CompressedNoEnv</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a4c20e33d84d7477620edc8cdf3e3333b">containsEnvVar</a>, <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m\_valueString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adac9662550d30efe51112c6f97485c60">writeTemplate</a>.
 </div>
 </div>
 
@@ -428,7 +430,8 @@ References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 236 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 236 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -457,7 +460,7 @@ References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0e540316e6cd940aa0ba248fb99f2c67cce98a6822482fba">Config::CompressedNoEnv</a>, <a href="/web-doxygen/docs/api/classes/configimpl/#aa631fde6f0b7e94b180b07252096ec12">ConfigImpl::config&#95;warn</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a4c20e33d84d7477620edc8cdf3e3333b">containsEnvVar</a>, <a href="#a915eccce79f281db89e960354a20d162">m&#95;maxVal</a>, <a href="#a049b50af51f97be4d016f0024d0fc83c">m&#95;minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a> and <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a>.
+References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0e540316e6cd940aa0ba248fb99f2c67cce98a6822482fba">Config::CompressedNoEnv</a>, <a href="/web-doxygen/docs/api/classes/configimpl/#aa631fde6f0b7e94b180b07252096ec12">ConfigImpl::config\_warn</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a4c20e33d84d7477620edc8cdf3e3333b">containsEnvVar</a>, <a href="#a915eccce79f281db89e960354a20d162">m\_maxVal</a>, <a href="#a049b50af51f97be4d016f0024d0fc83c">m\_minVal</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a> and <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m\_valueString</a>.
 </div>
 </div>
 
@@ -486,7 +489,8 @@ References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -495,7 +499,7 @@ References <a href="/web-doxygen/docs/api/namespaces/config/#a098ed7e63f2ba437f0
 </div>
 
 
-References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m&#95;defValue</a> and <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>.
+References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m\_defValue</a> and <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a>.
 </div>
 </div>
 
@@ -524,7 +528,8 @@ References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m&#95;defValue</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -533,7 +538,7 @@ References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m&#95;defValue</a> and <
 </div>
 
 
-References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m&#95;defValue</a> and <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>.
+References <a href="#ac7de94b39eaeae44adf454fc0cfc4948">m\_defValue</a> and <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a>.
 
 Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a> and <a href="#a493485085f602ae7bc5d959189533b1c">writeXMLDoxyfile</a>.
 </div>
@@ -563,7 +568,8 @@ Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -572,7 +578,7 @@ Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a> a
 </div>
 
 
-Reference <a href="#a915eccce79f281db89e960354a20d162">m&#95;maxVal</a>.
+Reference <a href="#a915eccce79f281db89e960354a20d162">m\_maxVal</a>.
 
 Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 </div>
@@ -602,7 +608,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -611,7 +618,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 </div>
 
 
-Reference <a href="#a049b50af51f97be4d016f0024d0fc83c">m&#95;minVal</a>.
+Reference <a href="#a049b50af51f97be4d016f0024d0fc83c">m\_minVal</a>.
 
 Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 </div>
@@ -641,7 +648,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 237 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 1521 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 237 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 1521 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -653,7 +661,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>.
 </div>
 
 
-References <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#afcf1a493801a3f065ef9ca18e7c4f6c6">substEnvVarsInString</a>.
+References <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m\_valueString</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#afcf1a493801a3f065ef9ca18e7c4f6c6">substEnvVarsInString</a>.
 </div>
 </div>
 
@@ -681,7 +689,8 @@ References <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -690,7 +699,7 @@ References <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a> an
 </div>
 
 
-Reference <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>.
+Reference <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a>.
 </div>
 </div>
 
@@ -718,7 +727,8 @@ Reference <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -727,7 +737,7 @@ Reference <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>.
 </div>
 
 
-Reference <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a>.
+Reference <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m\_valueString</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf38a3ffcec3d0476">DocPara::handleDoxyConfig</a>.
 </div>
@@ -757,7 +767,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 238 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 238 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -788,7 +799,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a48749817b1eba2606c9762ba1bb4d43b">convertToComment</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a28fdea8e9fdf86e73faae697454c17ab">ConfigOption::m&#95;doc</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>, <a href="/web-doxygen/docs/api/classes/configoption/#aa3ef6fe13a480dad1404aee1bb0f2d11">ConfigOption::m&#95;spaces</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a5e54ead18c124c6c6c03ed3b678a7103">ConfigOption::m&#95;userComment</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a>, <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m&#95;valueString</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a641ee9c39bb9c1951b3079073b09d965aa40e4123355dbeb41dc6ca0c68c0d346">ConfigOption::MAX&#95;OPTION&#95;LENGTH</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a71ca02feacb0119f2130c0b07c2fe755">ConfigOption::writeIntValue</a> and <a href="/web-doxygen/docs/api/classes/configoption/#a369bfd358cef4c5e7c6bf10505ec70db">ConfigOption::writeStringValue</a>.
+References <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a48749817b1eba2606c9762ba1bb4d43b">convertToComment</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a28fdea8e9fdf86e73faae697454c17ab">ConfigOption::m\_doc</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>, <a href="/web-doxygen/docs/api/classes/configoption/#aa3ef6fe13a480dad1404aee1bb0f2d11">ConfigOption::m\_spaces</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a5e54ead18c124c6c6c03ed3b678a7103">ConfigOption::m\_userComment</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a>, <a href="#ad8bb315421ab52bb9afd38bf41c6be5a">m\_valueString</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a641ee9c39bb9c1951b3079073b09d965aa40e4123355dbeb41dc6ca0c68c0d346">ConfigOption::MAX\_OPTION\_LENGTH</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a71ca02feacb0119f2130c0b07c2fe755">ConfigOption::writeIntValue</a> and <a href="/web-doxygen/docs/api/classes/configoption/#a369bfd358cef4c5e7c6bf10505ec70db">ConfigOption::writeStringValue</a>.
 
 Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a>.
 </div>
@@ -818,7 +829,8 @@ Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 240 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 555 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 240 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 555 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -837,7 +849,7 @@ Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a>.
 </div>
 
 
-References <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m&#95;value</a> and <a href="/web-doxygen/docs/api/classes/configoption/#a71ca02feacb0119f2130c0b07c2fe755">ConfigOption::writeIntValue</a>.
+References <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>, <a href="#aa7e6a8356e9e10bda43ab145605f6f1d">m\_value</a> and <a href="/web-doxygen/docs/api/classes/configoption/#a71ca02feacb0119f2130c0b07c2fe755">ConfigOption::writeIntValue</a>.
 </div>
 </div>
 
@@ -865,7 +877,8 @@ References <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 241 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 241 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -877,7 +890,7 @@ References <a href="#a2886d897633e8aacb59f7530b736ebac">isDefault</a>, <a href="
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>.
+Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>.
 </div>
 </div>
 
@@ -887,7 +900,7 @@ Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f244321
 
 ## Private Member Attributes
 
-### m&#95;defValue {#ac7de94b39eaeae44adf454fc0cfc4948}
+### m\_defValue {#ac7de94b39eaeae44adf454fc0cfc4948}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -906,7 +919,8 @@ Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f244321
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -919,7 +933,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 </div>
 </div>
 
-### m&#95;maxVal {#a915eccce79f281db89e960354a20d162}
+### m\_maxVal {#a915eccce79f281db89e960354a20d162}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -938,7 +952,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -951,7 +966,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 </div>
 </div>
 
-### m&#95;minVal {#a049b50af51f97be4d016f0024d0fc83c}
+### m\_minVal {#a049b50af51f97be4d016f0024d0fc83c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -970,7 +985,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -983,7 +999,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 </div>
 </div>
 
-### m&#95;value {#aa7e6a8356e9e10bda43ab145605f6f1d}
+### m\_value {#aa7e6a8356e9e10bda43ab145605f6f1d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1002,7 +1018,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1015,7 +1032,7 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 </div>
 </div>
 
-### m&#95;valueString {#ad8bb315421ab52bb9afd38bf41c6be5a}
+### m\_valueString {#ad8bb315421ab52bb9afd38bf41c6be5a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1034,7 +1051,8 @@ Referenced by <a href="#a07aa951c7f1a25bc0eec264b74015fb9">ConfigInt</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1051,7 +1069,7 @@ Referenced by <a href="#aa9ef08f8142fa34f77f5351ce0f219cf">compareDoxyfile</a>, 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a></li>

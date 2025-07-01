@@ -64,7 +64,7 @@ struct GrowVector::Chunk { ... }
 </table>
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ struct GrowVector::Chunk { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -132,7 +133,8 @@ References <a href="/web-doxygen/docs/api/classes/growvector/#a47759ca4db6dd81e3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -149,7 +151,7 @@ Referenced by <a href="#a7920149181815d91225b896d6a9cd9d5">GrowVector&lt; T &gt;
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a></li>

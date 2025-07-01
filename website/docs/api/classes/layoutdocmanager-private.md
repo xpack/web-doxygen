@@ -84,7 +84,7 @@ class LayoutDocManager::Private { ... }
 </table>
 
 
-<p>Definition at line 1398 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+Definition at line 1398 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ class LayoutDocManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ class LayoutDocManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ class LayoutDocManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1404 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1404 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,8 @@ class LayoutDocManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1402 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1402 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +218,7 @@ class LayoutDocManager::Private { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a></li>

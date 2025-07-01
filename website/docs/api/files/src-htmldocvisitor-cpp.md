@@ -284,7 +284,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if the child nodes in paragraph <em>para</em> until <em>nodeIndex</em> contain a style change node that is still active and that style change is one that must be located outside of a paragraph, i.e. <a href="#a9daef16ea8fc3793c36c55f3657c6d29">More...</a></p>
+Returns TRUE if the child nodes in paragraph <em>para</em> until <em>nodeIndex</em> contain a style change node that is still active and that style change is one that must be located outside of a paragraph, i.e. <a href="#a9daef16ea8fc3793c36c55f3657c6d29">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -343,7 +343,7 @@ toc_max_heading_level: 4
 
 ## Enumerations
 
-### contexts&#95;t {#a4e6b0f73c140aef7a763d17e638acffa}
+### contexts\_t {#a4e6b0f73c140aef7a763d17e638acffa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -366,6 +366,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -373,59 +374,59 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NONE<a id="a4e6b0f73c140aef7a763d17e638acffaab50339a10e1de285ac99d4c3990b8693"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">STARTLI<a id="a4e6b0f73c140aef7a763d17e638acffaa89a5143944007e2a323affa8f816fdf4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">STARTDD<a id="a4e6b0f73c140aef7a763d17e638acffaa3665a2a774811222bbb8afe5dd487cfa"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ENDLI<a id="a4e6b0f73c140aef7a763d17e638acffaaa8dcace47afc97d234c81b2dfbbaa7d9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ENDDD<a id="a4e6b0f73c140aef7a763d17e638acffaad25fee547c59f4cabd1faaf5f022268f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">STARTTD<a id="a4e6b0f73c140aef7a763d17e638acffaad3873a2c103bc10c1a2e8f0d1d8c9053"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ENDTD<a id="a4e6b0f73c140aef7a763d17e638acffaac199ffe1ed698facddaf2059063caea7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INTERLI<a id="a4e6b0f73c140aef7a763d17e638acffaaf5f4924d6ab925439311056041a1a254"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INTERDD<a id="a4e6b0f73c140aef7a763d17e638acffaab90b0c574d99b39766cc2c2f50b535a2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INTERTD<a id="a4e6b0f73c140aef7a763d17e638acffaadda3c0f50e45a60f30f8553ef3679401"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -478,7 +479,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -533,7 +535,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -607,7 +610,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aca6957f15c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1262 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1262 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -644,7 +648,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aca6957f15c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds&#95;one&#95;of&#95;alternatives</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds\_one\_of\_alternatives</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a>.
 </div>
@@ -674,7 +678,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1130 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1130 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -813,13 +818,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52d
 </div>
 
 
-References <a href="#a4e6b0f73c140aef7a763d17e638acffaad25fee547c59f4cabd1faaf5f022268f">ENDDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaaa8dcace47afc97d234c81b2dfbbaa7d9">ENDLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaac199ffe1ed698facddaf2059063caea7">ENDTD</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds&#95;one&#95;of&#95;alternatives</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaab90b0c574d99b39766cc2c2f50b535a2">INTERDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaaf5f4924d6ab925439311056041a1a254">INTERLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaadda3c0f50e45a60f30f8553ef3679401">INTERTD</a>, <a href="#a520aa4c3a57667d69b67c176e4828d14">isFirstChildNode</a>, <a href="#abe2e2b94699822e58607ee92aa93cfc1">isLastChildNode</a>, <a href="#ab6b89b7570220507ecccee5aa2872f30">isSeparatedParagraph</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaab50339a10e1de285ac99d4c3990b8693">NONE</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaa3665a2a774811222bbb8afe5dd487cfa">STARTDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaa89a5143944007e2a323affa8f816fdf4">STARTLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaad3873a2c103bc10c1a2e8f0d1d8c9053">STARTTD</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#a4e6b0f73c140aef7a763d17e638acffaad25fee547c59f4cabd1faaf5f022268f">ENDDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaaa8dcace47afc97d234c81b2dfbbaa7d9">ENDLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaac199ffe1ed698facddaf2059063caea7">ENDTD</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds\_one\_of\_alternatives</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaab90b0c574d99b39766cc2c2f50b535a2">INTERDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaaf5f4924d6ab925439311056041a1a254">INTERLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaadda3c0f50e45a60f30f8553ef3679401">INTERTD</a>, <a href="#a520aa4c3a57667d69b67c176e4828d14">isFirstChildNode</a>, <a href="#abe2e2b94699822e58607ee92aa93cfc1">isLastChildNode</a>, <a href="#ab6b89b7570220507ecccee5aa2872f30">isSeparatedParagraph</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaab50339a10e1de285ac99d4c3990b8693">NONE</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaa3665a2a774811222bbb8afe5dd487cfa">STARTDD</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaa89a5143944007e2a323affa8f816fdf4">STARTLI</a>, <a href="#a4e6b0f73c140aef7a763d17e638acffaad3873a2c103bc10c1a2e8f0d1d8c9053">STARTTD</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec7280062cb3ee52864ce175748">HtmlDocVisitor::forceEndParagraph</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#afefc3354312d65c1163970f9d6fa248c">HtmlDocVisitor::forceStartParagraph</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a>.
 </div>
 </div>
 
-### holds&#95;value() {#aae7f2f75c9734a361d01219eb092830d}
+### holds\_value() {#aae7f2f75c9734a361d01219eb092830d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -844,7 +849,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1086 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1086 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -887,12 +893,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if the child nodes in paragraph <em>para</em> until <em>nodeIndex</em> contain a style change node that is still active and that style change is one that must be located outside of a paragraph, i.e.</p>
+
+Returns TRUE if the child nodes in paragraph <em>para</em> until <em>nodeIndex</em> contain a style change node that is still active and that style change is one that must be located outside of a paragraph, i.e.
 
 
-<p>it is a center, div, or pre tag. See also bug746162.</p>
+it is a center, div, or pre tag. See also bug746162.
 
-<p>Definition at line 2280 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+Definition at line 2280 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -968,7 +975,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1021,7 +1029,8 @@ Referenced by <a href="#a021de5017c6965ebf393d509ded08502">isInvisibleNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1069,7 +1078,8 @@ Referenced by <a href="#a021de5017c6965ebf393d509ded08502">isInvisibleNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1117,7 +1127,8 @@ Referenced by <a href="#a021de5017c6965ebf393d509ded08502">isInvisibleNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1129,7 +1140,7 @@ Referenced by <a href="#a021de5017c6965ebf393d509ded08502">isInvisibleNode</a>.
 </div>
 
 
-References <a href="#aae7f2f75c9734a361d01219eb092830d">holds&#95;value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
+References <a href="#aae7f2f75c9734a361d01219eb092830d">holds\_value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
 
 Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</a>.
 </div>
@@ -1159,7 +1170,8 @@ Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1213,7 +1225,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1103 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1103 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1225,7 +1238,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 </div>
 
 
-References <a href="#aae7f2f75c9734a361d01219eb092830d">holds&#95;value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
+References <a href="#aae7f2f75c9734a361d01219eb092830d">holds\_value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
 
 Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</a>.
 </div>
@@ -1250,7 +1263,8 @@ Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1108 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 1108 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1279,7 +1293,7 @@ Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aae7f2f75c9734a361d01219eb092830d">holds&#95;value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aae7f2f75c9734a361d01219eb092830d">holds\_value</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
 
 Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</a>.
 </div>
@@ -1309,7 +1323,8 @@ Referenced by <a href="#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1355,7 +1370,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1403,7 +1419,8 @@ Referenced by <a href="#a809219d7701732d9db2bbfef99c3e86b">makeBaseName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1459,7 +1476,7 @@ Referenced by <a href="#a809219d7701732d9db2bbfef99c3e86b">makeBaseName</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds&#95;one&#95;of&#95;alternatives</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a52966dec2b3158261a05706d39516e98">DocVerbatim::isBlock</a>, <a href="/web-doxygen/docs/api/classes/docformula/#a6efb81a9620e6fad264a0c896f2ca7cb">DocFormula::isInline</a>, <a href="/web-doxygen/docs/api/classes/docimage/#ae52199cbb5da4e10ccb3a9b53c4978ac">DocImage::isInlineImage</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>.
+References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds\_one\_of\_alternatives</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a52966dec2b3158261a05706d39516e98">DocVerbatim::isBlock</a>, <a href="/web-doxygen/docs/api/classes/docformula/#a6efb81a9620e6fad264a0c896f2ca7cb">DocFormula::isInline</a>, <a href="/web-doxygen/docs/api/classes/docimage/#ae52199cbb5da4e10ccb3a9b53c4978ac">DocImage::isInlineImage</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec7280062cb3ee52864ce175748">HtmlDocVisitor::forceEndParagraph</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#afefc3354312d65c1163970f9d6fa248c">HtmlDocVisitor::forceStartParagraph</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a>.
 </div>
@@ -1471,7 +1488,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 
 ## Variables
 
-### g&#95;types {#a21e2f9820845c9fed18295acf260cbd4}
+### g\_types {#a21e2f9820845c9fed18295acf260cbd4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1495,7 +1512,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab0d39ec728
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1532,7 +1550,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a90cd462d7e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1543,7 +1562,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a90cd462d7e
 </div>
 </div>
 
-### NUM&#95;HTML&#95;LIST&#95;TYPES {#a551cc0f262653160d52df2e34770bac5}
+### NUM\_HTML\_LIST\_TYPES {#a551cc0f262653160d52df2e34770bac5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1567,7 +1586,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a90cd462d7e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp">htmldocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `reg` Namespace Reference
 
-<p>Namespace for the regular expression functions. <a href="#details">More...</a></p>
+Namespace for the regular expression functions. <a href="#details">More...</a>
 
 ## Definition
 
@@ -36,7 +36,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/#details">More...</a></p>
+Class representing a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class to iterate through matches. <a href="/web-doxygen/docs/api/classes/reg/iterator/#details">More...</a></p>
+Class to iterate through matches. <a href="/web-doxygen/docs/api/classes/reg/iterator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Object representing the matching results. <a href="/web-doxygen/docs/api/classes/reg/match/#details">More...</a></p>
+Object representing the matching results. <a href="/web-doxygen/docs/api/classes/reg/match/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a></p>
+Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Object representing the match results of a capture range. <a href="/web-doxygen/docs/api/classes/reg/submatch/#details">More...</a></p>
+Object representing the match results of a capture range. <a href="/web-doxygen/docs/api/classes/reg/submatch/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -177,7 +177,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>. <a href="#a168f937e54607f4cf5597fa8e5aabcb7">More...</a></p>
+Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>. <a href="#a168f937e54607f4cf5597fa8e5aabcb7">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -191,7 +191,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>. <a href="#a4d1ef4b86632c8deaa796bf008205ff9">More...</a></p>
+Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>. <a href="#a4d1ef4b86632c8deaa796bf008205ff9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -205,7 +205,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Matches a given string <em>str</em> for a match against regular expression <em>re</em>. <a href="#abd83bf57cdc053d40135b7c8f211f2b9">More...</a></p>
+Matches a given string <em>str</em> for a match against regular expression <em>re</em>. <a href="#abd83bf57cdc053d40135b7c8f211f2b9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -219,7 +219,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Matches a given string <em>str</em> for a match against regular expression <em>re</em>. <a href="#a64421aecc141803690cdb0d6d235354b">More...</a></p>
+Matches a given string <em>str</em> for a match against regular expression <em>re</em>. <a href="#a64421aecc141803690cdb0d6d235354b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -233,7 +233,7 @@ namespace reg { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Searching in a given input string <em>for</em> parts that match regular expression <em>re</em> and replaces those parts by string <em>replacement</em>. <a href="#ab6913d787be9fe9992c8804af851fab9">More...</a></p>
+Searching in a given input string <em>for</em> parts that match regular expression <em>re</em> and replaces those parts by string <em>replacement</em>. <a href="#ab6913d787be9fe9992c8804af851fab9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -244,7 +244,7 @@ namespace reg { ... }
 
 ## Description {#details}
 
-<p>Namespace for the regular expression functions.</p>
+Namespace for the regular expression functions.
 
 <div class="doxySectionDef">
 
@@ -275,7 +275,8 @@ namespace reg { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -318,7 +319,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -359,7 +361,8 @@ Referenced by <a href="#ae874a7238f39cd3a0510485027015ef5">isalnum</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -400,7 +403,8 @@ Referenced by <a href="#ae874a7238f39cd3a0510485027015ef5">isalnum</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -433,12 +437,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Matches a given string <em>str</em> for a match against regular expression <em>re</em>.</p>
+
+Matches a given string <em>str</em> for a match against regular expression <em>re</em>.
 
 
-<p>Returns true iff a match was found for the whole string. Any capture groups are returned via the <em>match</em> object.</p>
+Returns true iff a match was found for the whole string. Any capture groups are returned via the <em>match</em> object.
 
-<p>Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -473,12 +478,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Matches a given string <em>str</em> for a match against regular expression <em>re</em>.</p>
+
+Matches a given string <em>str</em> for a match against regular expression <em>re</em>.
 
 
-<p>Returns true iff a match was found for the whole string.</p>
+Returns true iff a match was found for the whole string.
 
-<p>Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -512,9 +518,10 @@ References <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Searching in a given input string <em>for</em> parts that match regular expression <em>re</em> and replaces those parts by string <em>replacement</em>.</p>
 
-<p>Definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Searching in a given input string <em>for</em> parts that match regular expression <em>re</em> and replaces those parts by string <em>replacement</em>.
+
+Definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -561,12 +568,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>.</p>
+
+Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>.
 
 
-<p>Returns true iff a match was found. Details of what part of the string has matched is returned via the <em>match</em> object.</p>
+Returns true iff a match was found. Details of what part of the string has matched is returned via the <em>match</em> object.
 
-<p>An example to show how to match all identifiers in a string.</p>
+An example to show how to match all identifiers in a string.
 
 <div class="doxyProgramListing">
 
@@ -581,7 +589,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 </div>
 
 
-<p>produces:</p>
+produces:
 
 <div class="doxyProgramListing">
 
@@ -596,12 +604,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e026c26f12d4e67">Ex::Ex()</a> for <a href="/web-doxygen/docs/api/namespaces/details">details</a> on the regular expression patterns.</p>
+<a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e026c26f12d4e67">Ex::Ex()</a> for <a href="/web-doxygen/docs/api/namespaces/details">details</a> on the regular expression patterns.
 </dd>
 </dl>
 
 
-<p>Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -636,12 +644,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a70d9d3885e2
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>.</p>
+
+Search in a given string <em>str</em> starting at position <em>pos</em> for a match against regular expression <em>re</em>.
 
 
-<p>Returns true iff a match was found.</p>
+Returns true iff a match was found.
 
-<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -682,7 +691,8 @@ References <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -741,7 +751,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a></li>

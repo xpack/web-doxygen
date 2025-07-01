@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagInfo` Struct Reference
 
-<p>This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="#details">More...</a></p>
+This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -77,9 +77,9 @@ struct TagInfo { ... }
 
 ## Description {#details}
 
-<p>This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>.</p>
+This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>.
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxySectionDef">
 
@@ -104,7 +104,8 @@ struct TagInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -136,7 +137,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -168,7 +170,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -185,7 +188,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a></li>

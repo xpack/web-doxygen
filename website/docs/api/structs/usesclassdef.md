@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `UsesClassDef` Struct Reference
 
-<p>Class that contains information about a usage relation. <a href="#details">More...</a></p>
+Class that contains information about a usage relation. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ struct UsesClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class definition that this relation uses. <a href="#ae9ace813f9031b4afb6894e5ad15f901">More...</a></p>
+Class definition that this relation uses. <a href="#ae9ace813f9031b4afb6894e5ad15f901">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ struct UsesClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Dictionary of member variable names that form the edge labels of the usage relation. <a href="#abd90fd9dc0e0cb8edede35fa3a58e885">More...</a></p>
+Dictionary of member variable names that form the edge labels of the usage relation. <a href="#abd90fd9dc0e0cb8edede35fa3a58e885">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ struct UsesClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Template arguments used for the base class. <a href="#a5f65373ed5c0409ef538193d0e58f06d">More...</a></p>
+Template arguments used for the base class. <a href="#a5f65373ed5c0409ef538193d0e58f06d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -131,9 +131,9 @@ struct UsesClassDef { ... }
 
 ## Description {#details}
 
-<p>Class that contains information about a usage relation.</p>
+Class that contains information about a usage relation.
 
-<p>Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -163,7 +163,8 @@ struct UsesClassDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -206,7 +207,8 @@ Reference <a href="#ae9ace813f9031b4afb6894e5ad15f901">classDef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 486 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 486 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -248,9 +250,10 @@ References <a href="#abd90fd9dc0e0cb8edede35fa3a58e885">accessors</a> and <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Dictionary of member variable names that form the edge labels of the usage relation.</p>
 
-<p>Definition at line 499 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Dictionary of member variable names that form the edge labels of the usage relation.
+
+Definition at line 499 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -280,9 +283,10 @@ Referenced by <a href="#ac3b5c2f408116e9da744697d8d876796">addAccessor</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Class definition that this relation uses.</p>
 
-<p>Definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Class definition that this relation uses.
+
+Definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -314,7 +318,8 @@ Referenced by <a href="#a315e3fb5ca3523ec88e0ede4d4accafe">UsesClassDef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -342,9 +347,10 @@ Referenced by <a href="#a315e3fb5ca3523ec88e0ede4d4accafe">UsesClassDef</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Template arguments used for the base class.</p>
 
-<p>Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Template arguments used for the base class.
+
+Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -359,7 +365,7 @@ Referenced by <a href="#a315e3fb5ca3523ec88e0ede4d4accafe">UsesClassDef</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a></li>

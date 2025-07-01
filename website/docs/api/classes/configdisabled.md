@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ConfigDisabled` Class Reference
 
-<p>Section marker for compile time optional options. <a href="#details">More...</a></p>
+Section marker for compile time optional options. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ConfigDisabled { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a></p>
+Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -142,9 +142,9 @@ class ConfigDisabled { ... }
 
 ## Description {#details}
 
-<p>Section marker for compile time optional options.</p>
+Section marker for compile time optional options.
 
-<p>Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxySectionDef">
 
@@ -174,7 +174,8 @@ class ConfigDisabled { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -184,7 +185,7 @@ class ConfigDisabled { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1ee7e5eaaec6d8f1ac">ConfigOption::ConfigOption</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>, <a href="/web-doxygen/docs/api/classes/configoption/#ab89196927c521e95680eb5efdc562187">ConfigOption::name</a> and <a href="/web-doxygen/docs/api/classes/configoption/#ad60cb308cdf307e72796dc2fc2a40fdaa116df5f47c0442ad31ca0193cf540701">ConfigOption::O&#95;Disabled</a>.
+References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1ee7e5eaaec6d8f1ac">ConfigOption::ConfigOption</a>, <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>, <a href="/web-doxygen/docs/api/classes/configoption/#ab89196927c521e95680eb5efdc562187">ConfigOption::name</a> and <a href="/web-doxygen/docs/api/classes/configoption/#ad60cb308cdf307e72796dc2fc2a40fdaa116df5f47c0442ad31ca0193cf540701">ConfigOption::O\_Disabled</a>.
 </div>
 </div>
 
@@ -219,7 +220,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +257,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -290,7 +293,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -326,7 +330,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -361,7 +366,8 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 622 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.</p>
+
+Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 622 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -373,7 +379,7 @@ References <a href="/web-doxygen/docs/api/classes/configoption/#a3ce6753bba05ab1
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m&#95;name</a>.
+Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f2443212d0d032da63b20d7">ConfigOption::m\_name</a>.
 </div>
 </div>
 
@@ -381,7 +387,7 @@ Reference <a href="/web-doxygen/docs/api/classes/configoption/#a4f081d447f244321
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ConstExpressionParser` Class Reference
 
-<p>constant expression parser used for the C preprocessor <a href="#details">More...</a></p>
+constant expression parser used for the C preprocessor <a href="#details">More...</a>
 
 ## Declaration
 
@@ -108,9 +108,9 @@ class ConstExpressionParser { ... }
 
 ## Description {#details}
 
-<p>constant expression parser used for the C preprocessor</p>
+constant expression parser used for the C preprocessor
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>.
 
 <div class="doxySectionDef">
 
@@ -135,7 +135,8 @@ class ConstExpressionParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -157,7 +158,7 @@ Reference <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
 
 ## Public Destructor
 
-### ~ConstExpressionParser() {#ad40306abed35d82c106853dfd0babb6a}
+### \~ConstExpressionParser() {#ad40306abed35d82c106853dfd0babb6a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -176,7 +177,8 @@ Reference <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -217,7 +219,8 @@ Reference <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>, definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -250,7 +253,7 @@ Reference <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#a84d0b91d2043b65d26cf1fb530541965">constexpYYparse</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dabb929f64e4a2c8c41e79fa5bc4d763f3">Debug::Lex&#95;constexp</a> and <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#a84d0b91d2043b65d26cf1fb530541965">constexpYYparse</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dabb929f64e4a2c8c41e79fa5bc4d763f3">Debug::Lex\_constexp</a> and <a href="#abe72cc2c562c86799c620f8852a79045">p</a>.
 </div>
 </div>
 
@@ -279,7 +282,8 @@ References <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#a84d0b91d2043b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -288,7 +292,7 @@ References <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#a84d0b91d2043b
 </div>
 
 
-Referenced by <a href="#a8ba102bcf860cb7e9efb6d7388084872">ConstExpressionParser</a>, <a href="#af6f5dbdc0aadd6150973487b9c2d7514">parse</a> and <a href="#ad40306abed35d82c106853dfd0babb6a">~ConstExpressionParser</a>.
+Referenced by <a href="#a8ba102bcf860cb7e9efb6d7388084872">ConstExpressionParser</a>, <a href="#af6f5dbdc0aadd6150973487b9c2d7514">parse</a> and <a href="#ad40306abed35d82c106853dfd0babb6a">\~ConstExpressionParser</a>.
 </div>
 </div>
 
@@ -296,7 +300,7 @@ Referenced by <a href="#a8ba102bcf860cb7e9efb6d7388084872">ConstExpressionParser
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/constexp-h">constexp.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagFileParser` Class Reference
 
-<p>Tag file parser. <a href="#details">More...</a></p>
+Tag file parser. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -850,12 +850,12 @@ class anonymous_namespace{tagreader.cpp}::TagFileParser { ... }
 
 ## Description {#details}
 
-<p>Tag file parser.</p>
+Tag file parser.
 
 
-<p>Reads an XML-structured tagfile and builds up the structure in memory. The method <a href="#a9a2a4b0accaef9069229937226e60b10">buildLists()</a> is used to transfer/translate the structures to the doxygen engine.</p>
+Reads an XML-structured tagfile and builds up the structure in memory. The method <a href="#a9a2a4b0accaef9069229937226e60b10">buildLists()</a> is used to transfer/translate the structures to the doxygen engine.
 
-<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -879,6 +879,7 @@ class anonymous_namespace{tagreader.cpp}::TagFileParser { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -886,74 +887,74 @@ class anonymous_namespace{tagreader.cpp}::TagFileParser { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Invalid<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f29a1224"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InClass<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InConcept<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InFile<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InNamespace<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InGroup<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InPage<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InMember<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InEnumValue<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446baa8ba8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InPackage<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InDir<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InModule<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InTempArgList<a id="a7a2a20ef2fb10c1c35e093f0c3f41f85aeff175cadd93a4748a132b8020e4022e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 989 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 989 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1008,7 +1009,8 @@ class anonymous_namespace{tagreader.cpp}::TagFileParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1017,7 +1019,7 @@ class anonymous_namespace{tagreader.cpp}::TagFileParser { ... }
 </div>
 
 
-Reference <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a>.
+Reference <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a3965d52e8078507f0bfd354337">parseTagFile</a>.
 </div>
@@ -1048,7 +1050,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a396
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 986 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 986 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1079,7 +1082,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a396
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a017df4547430d10bdd70d7c56efcd78a">SectionType::Anchor</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a017df4547430d10bdd70d7c56efcd78a">SectionType::Anchor</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
 
 Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a>, <a href="#a9a2a4b0accaef9069229937226e60b10">buildLists</a> and <a href="#aa5dd16fd497d034a55fdca37a3c17804">buildMemberList</a>.
 </div>
@@ -1104,7 +1107,8 @@ Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1166,7 +1170,7 @@ Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a>, 
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a2dbc22c9108714bfd4417e558b7b82e2">ImportLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a57522338dd8bf2361634a923a2b71b81">ImportModule</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ac597d64b5224025af7bef1aad3172845">ImportSystem</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ab0ead0aebf84f57889aab39d528f34b4">IncludeSystem</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m&#95;tagFileCompounds</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::name</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::path</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a2dbc22c9108714bfd4417e558b7b82e2">ImportLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a57522338dd8bf2361634a923a2b71b81">ImportModule</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ac597d64b5224025af7bef1aad3172845">ImportSystem</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous\_namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ab0ead0aebf84f57889aab39d528f34b4">IncludeSystem</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m\_tagFileCompounds</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::name</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous\_namespace{tagreader.cpp}::TagFileInfo::path</a>.
 </div>
 </div>
 
@@ -1190,9 +1194,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 
 
 
-<p>Injects the info gathered by the XML parser into the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. This tree contains the information extracted from the input in a "unrelated" form.</p>
 
-<p>Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Injects the info gathered by the XML parser into the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. This tree contains the information extracted from the input in a "unrelated" form.
+
+Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1437,7 +1442,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#a887b37e99fd86677550a17186db349f2">DefinitionMutable::addSectionsToDefinition</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a017df4547430d10bdd70d7c56efcd78a">SectionType::Anchor</a>, <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>, <a href="#aa5dd16fd497d034a55fdca37a3c17804">buildMemberList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a694169fa539ad5c675f8d301acb54b2c">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::ClassNode::children</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#a5fd44909318ed3f44b17aaf966e7c019">anonymous&#95;namespace{tagreader.cpp}::TagConceptInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#a4a0db546adc33a679754bf1a2c7b0a46">anonymous&#95;namespace{tagreader.cpp}::TagModuleInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#a0ff6b0d4cff44254154e3c249cecf903">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::clangId</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m&#95;tagFileCompounds</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::path</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8653297bcfce5f19bebc8602e35cb589">stripExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#ac15a5ec4694c2839b96398815b523ad7">anonymous&#95;namespace{tagreader.cpp}::TagPageInfo::subpages</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a6aa32a2acb4b87396f2a74ba319c6299">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::ClassNode::tci</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3b6e212c0c08a615327124433781ad2">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::title</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous&#95;namespace{tagreader.cpp}::TagPageInfo::title</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#a887b37e99fd86677550a17186db349f2">DefinitionMutable::addSectionsToDefinition</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a017df4547430d10bdd70d7c56efcd78a">SectionType::Anchor</a>, <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>, <a href="#aa5dd16fd497d034a55fdca37a3c17804">buildMemberList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a694169fa539ad5c675f8d301acb54b2c">anonymous\_namespace{tagreader.cpp}::TagFileParser::ClassNode::children</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#a5fd44909318ed3f44b17aaf966e7c019">anonymous\_namespace{tagreader.cpp}::TagConceptInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#a4a0db546adc33a679754bf1a2c7b0a46">anonymous\_namespace{tagreader.cpp}::TagModuleInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#a0ff6b0d4cff44254154e3c249cecf903">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::clangId</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m\_tagFileCompounds</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous\_namespace{tagreader.cpp}::TagFileInfo::path</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8653297bcfce5f19bebc8602e35cb589">stripExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#ac15a5ec4694c2839b96398815b523ad7">anonymous\_namespace{tagreader.cpp}::TagPageInfo::subpages</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a6aa32a2acb4b87396f2a74ba319c6299">anonymous\_namespace{tagreader.cpp}::TagFileParser::ClassNode::tci</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3b6e212c0c08a615327124433781ad2">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::title</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous\_namespace{tagreader.cpp}::TagPageInfo::title</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -1460,7 +1465,8 @@ References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 985 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 985 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1582,7 +1588,7 @@ References <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5
 </div>
 
 
-References <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a>, <a href="/web-doxygen/docs/api/files/src/defargs-h/#a88825bfb79a9c15e54ff57415b4de54d">stringToArgumentList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a>, <a href="/web-doxygen/docs/api/files/src/defargs-h/#a88825bfb79a9c15e54ff57415b4de54d">stringToArgumentList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a> and <a href="#a9a2a4b0accaef9069229937226e60b10">buildLists</a>.
 </div>
@@ -1612,7 +1618,8 @@ Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1621,7 +1628,7 @@ Referenced by <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a> a
 </div>
 
 
-Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
+Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>.
 </div>
 </div>
 
@@ -1645,9 +1652,10 @@ Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
 
 
 
-<p>Dumps the internal structures. For debugging only!</p>
 
-<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Dumps the internal structures. For debugging only!
+
+Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1837,7 +1845,7 @@ Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a9bd81329febf6efe22788e03ddeaf0af">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Class</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#ada9ca1bc4c9e47fb4bcbe1d58e35eae7">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a875e577e0208e2abb0cc261be780dcb6">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#abdeeffe4f911bf72f5811d03c04e39a3">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::classList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ad99a604c79ce3c2e76a2f43488d5d4c3">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Concept</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a3c4e6dbf3e1df93a734d9959bac9ee94">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Dir</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a0b27918290ff5323bea1e3b78a9cf04e">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::File</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a949b238cd7c7927e08818bfc1100b20b">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a03937134cedab9078be39a77ee3a48a0">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Group</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m&#95;tagFileCompounds</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ae55f75a29310d7b60f7ac1d390c8ae42">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Module</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/structs/baseinfo/#ae8bba327d477830b4664f9d03b05c97b">BaseInfo::name</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ab3ba0fe968ce39dcfc6fe8cc0f1b02da">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Namespace</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a5c3e03594e0c0c25c2810deeb76c1297">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a4fd2089dc1695052ecacfae92e2b914d">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a193cfc9be3b995831c6af2fea6650e60">anonymous&#95;namespace{tagreader.cpp}::TagCompoundVariant::Page</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a491a4103f8b699cd1357254403040c95">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::pageList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a4cc9abe1c86f41a084f57c364ad56dda">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::path</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a54c65e15ae8672ee0c41439891fc6055">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::subdirList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da533ce7b02d8ce4b77e168009734b13d9">Debug::Tag</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous&#95;namespace{tagreader.cpp}::TagPageInfo::title</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous\_namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a9bd81329febf6efe22788e03ddeaf0af">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Class</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#ada9ca1bc4c9e47fb4bcbe1d58e35eae7">anonymous\_namespace{tagreader.cpp}::TagFileInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a875e577e0208e2abb0cc261be780dcb6">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#abdeeffe4f911bf72f5811d03c04e39a3">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::classList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ad99a604c79ce3c2e76a2f43488d5d4c3">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Concept</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a3c4e6dbf3e1df93a734d9959bac9ee94">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Dir</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a0b27918290ff5323bea1e3b78a9cf04e">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::File</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a949b238cd7c7927e08818bfc1100b20b">anonymous\_namespace{tagreader.cpp}::TagDirInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a03937134cedab9078be39a77ee3a48a0">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Group</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous\_namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m\_tagFileCompounds</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ae55f75a29310d7b60f7ac1d390c8ae42">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Module</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/structs/baseinfo/#ae8bba327d477830b4664f9d03b05c97b">BaseInfo::name</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7ab3ba0fe968ce39dcfc6fe8cc0f1b02da">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Namespace</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a5c3e03594e0c0c25c2810deeb76c1297">anonymous\_namespace{tagreader.cpp}::TagFileInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a4fd2089dc1695052ecacfae92e2b914d">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a1a5f5ee04cdc70747f2c031f548d4ed7a193cfc9be3b995831c6af2fea6650e60">anonymous\_namespace{tagreader.cpp}::TagCompoundVariant::Page</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a491a4103f8b699cd1357254403040c95">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::pageList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a4cc9abe1c86f41a084f57c364ad56dda">anonymous\_namespace{tagreader.cpp}::TagDirInfo::path</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a54c65e15ae8672ee0c41439891fc6055">anonymous\_namespace{tagreader.cpp}::TagDirInfo::subdirList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da533ce7b02d8ce4b77e168009734b13d9">Debug::Tag</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous\_namespace{tagreader.cpp}::TagPageInfo::title</a>.
 </div>
 </div>
 
@@ -1865,7 +1873,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1889,7 +1898,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a3f52c99f682fa0035584aedfc2ed8dbf">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::anchor</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a3f52c99f682fa0035584aedfc2ed8dbf">anonymous\_namespace{tagreader.cpp}::TagClassInfo::anchor</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -1917,7 +1926,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1936,7 +1946,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -1964,7 +1974,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 930 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 930 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1983,7 +1994,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2011,7 +2022,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 779 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 779 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2031,7 +2043,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous\_namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2059,7 +2071,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 894 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 894 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2088,7 +2101,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ab014917f432e45612c083450553a2726">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#a0ff6b0d4cff44254154e3c249cecf903">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::clangId</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ab014917f432e45612c083450553a2726">anonymous\_namespace{tagreader.cpp}::TagClassInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#a0ff6b0d4cff44254154e3c249cecf903">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::clangId</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2116,7 +2129,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2163,7 +2177,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a91f4902e8759c8a1aad1162893ad1132">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#ada9ca1bc4c9e47fb4bcbe1d58e35eae7">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a875e577e0208e2abb0cc261be780dcb6">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#abdeeffe4f911bf72f5811d03c04e39a3">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#a6e6f7e303a13f4d757e0146ad9468717">anonymous&#95;namespace{tagreader.cpp}::TagPackageInfo::classList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a91f4902e8759c8a1aad1162893ad1132">anonymous\_namespace{tagreader.cpp}::TagClassInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#ada9ca1bc4c9e47fb4bcbe1d58e35eae7">anonymous\_namespace{tagreader.cpp}::TagFileInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a875e577e0208e2abb0cc261be780dcb6">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#abdeeffe4f911bf72f5811d03c04e39a3">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::classList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#a6e6f7e303a13f4d757e0146ad9468717">anonymous\_namespace{tagreader.cpp}::TagPackageInfo::classList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2191,7 +2205,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2219,7 +2234,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m&#95;tagFileCompounds</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#ac75f982d3520a85cd31cabafbbd60dc7">m\_tagFileCompounds</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2247,7 +2262,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2282,7 +2298,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a22fa1ae1f73c523e66ffd0abd6483aa6">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::conceptList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a24159b7f6ebc47ac361d96f5dd45bff6">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::conceptList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#aa359781ecb15bfccb8ed538eface4a68">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::conceptList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a22fa1ae1f73c523e66ffd0abd6483aa6">anonymous\_namespace{tagreader.cpp}::TagFileInfo::conceptList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a24159b7f6ebc47ac361d96f5dd45bff6">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::conceptList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#aa359781ecb15bfccb8ed538eface4a68">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::conceptList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2310,7 +2326,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2333,7 +2350,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a54c65e15ae8672ee0c41439891fc6055">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::subdirList</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a54c65e15ae8672ee0c41439891fc6055">anonymous\_namespace{tagreader.cpp}::TagDirInfo::subdirList</a>.
 </div>
 </div>
 
@@ -2361,7 +2378,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c815
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2415,7 +2433,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c815
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a8d3ac23f544142e96ccf645831743432">AnchorGenerator::looksGenerated</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#a19ed33b56774430bad0811dbb24aa38d">m&#95;fileName</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#a75e30c8c85ae1460b55b1585e9386693">m&#95;title</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a8d3ac23f544142e96ccf645831743432">AnchorGenerator::looksGenerated</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#a19ed33b56774430bad0811dbb24aa38d">m\_fileName</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#a75e30c8c85ae1460b55b1585e9386693">m\_title</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2438,7 +2456,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2459,7 +2478,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#ac4f239fedcca27a83995d7b9a02b683d">anonymous&#95;namespace{tagreader.cpp}::g&#95;elementHandlers</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#ac4f239fedcca27a83995d7b9a02b683d">anonymous\_namespace{tagreader.cpp}::g\_elementHandlers</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -2487,7 +2506,8 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 457 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 457 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2506,7 +2526,7 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#aa13860af0001daf87f69281389f3c101">m&#95;curEnumValue</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m&#95;stateStack</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#aa13860af0001daf87f69281389f3c101">m\_curEnumValue</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m\_stateStack</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
 </div>
 </div>
 
@@ -2534,7 +2554,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2563,7 +2584,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a949b238cd7c7927e08818bfc1100b20b">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a949b238cd7c7927e08818bfc1100b20b">anonymous\_namespace{tagreader.cpp}::TagDirInfo::fileList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2591,7 +2612,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2622,7 +2644,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2650,7 +2672,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 981 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 981 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2687,7 +2710,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 804 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 804 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2708,7 +2732,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#abac57def474d6cfc6844a2c62c81b23e">m&#95;curIncludes</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#abfaa3aacc2e737b6b144cc72ee5755d5">anonymous\_namespace{tagreader.cpp}::TagFileInfo::includes</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#abac57def474d6cfc6844a2c62c81b23e">m\_curIncludes</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2736,7 +2760,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 414 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 414 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2768,7 +2793,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m&#95;stateStack</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::members</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m\_stateStack</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::members</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2796,7 +2821,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2819,7 +2845,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3c6fd89407442477963e1214db6724b">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::moduleList</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3c6fd89407442477963e1214db6724b">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::moduleList</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2847,7 +2873,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2881,7 +2908,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::name</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">InConcept</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">InModule</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">InPackage</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::name</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2909,7 +2936,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2944,7 +2972,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a5c3e03594e0c0c25c2810deeb76c1297">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a4fd2089dc1695052ecacfae92e2b914d">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#acd449b40f1afca3839ebdd0e12a461df">anonymous&#95;namespace{tagreader.cpp}::TagNamespaceInfo::namespaceList</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">InNamespace</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a5c3e03594e0c0c25c2810deeb76c1297">anonymous\_namespace{tagreader.cpp}::TagFileInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#a4fd2089dc1695052ecacfae92e2b914d">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::namespaceList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#acd449b40f1afca3839ebdd0e12a461df">anonymous\_namespace{tagreader.cpp}::TagNamespaceInfo::namespaceList</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -2972,7 +3000,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 650 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 650 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2995,7 +3024,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac98ead5c7177e4b65948de31a4c459be">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::fileList</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -3023,7 +3052,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3052,7 +3082,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a4cc9abe1c86f41a084f57c364ad56dda">anonymous&#95;namespace{tagreader.cpp}::TagDirInfo::path</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous&#95;namespace{tagreader.cpp}::TagFileInfo::path</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">InDir</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">InFile</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#a4cc9abe1c86f41a084f57c364ad56dda">anonymous\_namespace{tagreader.cpp}::TagDirInfo::path</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#a156c071cac61ccf562a2b9d2fed30a95">anonymous\_namespace{tagreader.cpp}::TagFileInfo::path</a>.
 </div>
 </div>
 
@@ -3080,7 +3110,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c815
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 964 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 964 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3100,7 +3131,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c815
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#acd576264c0c610848fa2d34e3808487f">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::subgroupList</a>.
 </div>
 </div>
 
@@ -3128,7 +3159,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3151,7 +3183,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#ac15a5ec4694c2839b96398815b523ad7">anonymous&#95;namespace{tagreader.cpp}::TagPageInfo::subpages</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#ac15a5ec4694c2839b96398815b523ad7">anonymous\_namespace{tagreader.cpp}::TagPageInfo::subpages</a>.
 </div>
 </div>
 
@@ -3179,7 +3211,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3199,7 +3232,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a747b8b8d3b89a1e4744e354c4de534ee">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::templateArguments</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a747b8b8d3b89a1e4744e354c4de534ee">anonymous\_namespace{tagreader.cpp}::TagClassInfo::templateArguments</a>.
 </div>
 </div>
 
@@ -3227,7 +3260,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 942 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 942 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3256,7 +3290,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe0
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3b6e212c0c08a615327124433781ad2">anonymous&#95;namespace{tagreader.cpp}::TagGroupInfo::title</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous&#95;namespace{tagreader.cpp}::TagPageInfo::title</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">InGroup</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">InPage</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#ac3b6e212c0c08a615327124433781ad2">anonymous\_namespace{tagreader.cpp}::TagGroupInfo::title</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#a251988254871e25f8b2a3f041ab0a0d1">anonymous\_namespace{tagreader.cpp}::TagPageInfo::title</a>.
 </div>
 </div>
 
@@ -3284,7 +3318,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3303,7 +3338,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a> and <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>.
 </div>
 </div>
 
@@ -3331,7 +3366,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3371,7 +3407,8 @@ References <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d34311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3383,7 +3420,7 @@ References <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d34311
 </div>
 
 
-Reference <a href="#a560587cbf60c107e9bae7e205fd6ef50">m&#95;locator</a>.
+Reference <a href="#a560587cbf60c107e9bae7e205fd6ef50">m\_locator</a>.
 </div>
 </div>
 
@@ -3411,7 +3448,8 @@ Reference <a href="#a560587cbf60c107e9bae7e205fd6ef50">m&#95;locator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3448,7 +3486,7 @@ Reference <a href="#a560587cbf60c107e9bae7e205fd6ef50">m&#95;locator</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous\_namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">InClass</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3471,7 +3509,8 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3505,7 +3544,7 @@ References <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#aa152a4c7667a4529af23ddb5fe6f80ee">anonymous&#95;namespace{tagreader.cpp}::g&#95;compoundFactory</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f29a1224">Invalid</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ae6caddaf29b3b9b89dbf500afd0d71a3">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::isObjC</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m&#95;curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#a560587cbf60c107e9bae7e205fd6ef50">m&#95;locator</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#aa152a4c7667a4529af23ddb5fe6f80ee">anonymous\_namespace{tagreader.cpp}::g\_compoundFactory</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f29a1224">Invalid</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ae6caddaf29b3b9b89dbf500afd0d71a3">anonymous\_namespace{tagreader.cpp}::TagClassInfo::isObjC</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#a68d8d8033bf8bd3d346a60e7237e276c">m\_curCompound</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#a560587cbf60c107e9bae7e205fd6ef50">m\_locator</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3533,7 +3572,8 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3547,7 +3587,7 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 </div>
 
 
-References <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#a19ed33b56774430bad0811dbb24aa38d">m&#95;fileName</a>, <a href="#a75e30c8c85ae1460b55b1585e9386693">m&#95;title</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#a19ed33b56774430bad0811dbb24aa38d">m\_fileName</a>, <a href="#a75e30c8c85ae1460b55b1585e9386693">m\_title</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3575,7 +3615,8 @@ References <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3587,7 +3628,7 @@ References <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a 
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f29a1224">Invalid</a> and <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f29a1224">Invalid</a> and <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>.
 </div>
 </div>
 
@@ -3610,7 +3651,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3631,7 +3673,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85ac73a5e6827c3a9bb6731a484f
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#ac4f239fedcca27a83995d7b9a02b683d">anonymous&#95;namespace{tagreader.cpp}::g&#95;elementHandlers</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#ac4f239fedcca27a83995d7b9a02b683d">anonymous\_namespace{tagreader.cpp}::g\_elementHandlers</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -3659,7 +3701,8 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 439 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 439 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3684,7 +3727,7 @@ References <a href="/web-doxygen/docs/api/namespaces/anonymous-tagreader-cpp-/#a
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446baa8ba8">InEnumValue</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#aa13860af0001daf87f69281389f3c101">m&#95;curEnumValue</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m&#95;stateStack</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p&#95;warn</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446baa8ba8">InEnumValue</a>, <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#aa13860af0001daf87f69281389f3c101">m\_curEnumValue</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m\_stateStack</a>, <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#ae5b3a55c16d6fcd320b824837e28e42a">p\_warn</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3712,7 +3755,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3749,7 +3793,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 792 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 792 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3768,7 +3813,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85af0bd1defdb45363bbae05d446
 </div>
 
 
-References <a href="#abac57def474d6cfc6844a2c62c81b23e">m&#95;curIncludes</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="#abac57def474d6cfc6844a2c62c81b23e">m\_curIncludes</a>, <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3796,7 +3841,8 @@ References <a href="#abac57def474d6cfc6844a2c62c81b23e">m&#95;curIncludes</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3835,7 +3881,7 @@ References <a href="#abac57def474d6cfc6844a2c62c81b23e">m&#95;curIncludes</a>, <
 </div>
 
 
-References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m&#95;curMember</a>, <a href="#a560587cbf60c107e9bae7e205fd6ef50">m&#95;locator</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m&#95;state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m&#95;stateStack</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
+References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448eff1ab94f">InMember</a>, <a href="#a703f6a9467842a8bd8d6c5b05ea60bfc">m\_curMember</a>, <a href="#a560587cbf60c107e9bae7e205fd6ef50">m\_locator</a>, <a href="#ac0775f760651bb75fb5919795b8a1241">m\_state</a>, <a href="#ada7baee04d5b524d2d3b2c4d2207cf6d">m\_stateStack</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ad2d3b265aa5d98961404eb3ebd539921">XMLHandlers::value</a>.
 </div>
 </div>
 
@@ -3863,7 +3909,8 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3875,7 +3922,7 @@ References <a href="#a7a2a20ef2fb10c1c35e093f0c3f41f85a463a8e3a1d39b8771600448ef
 </div>
 
 
-Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
+Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m\_curString</a>.
 </div>
 </div>
 
@@ -3904,7 +3951,8 @@ Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1013 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1013 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3964,7 +4012,7 @@ Reference <a href="#a9548f3206b46e2bd177d3a0de2d3f125">m&#95;curString</a>.
 </div>
 
 
-References <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a3f52c99f682fa0035584aedfc2ed8dbf">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#aa5dd16fd497d034a55fdca37a3c17804">buildMemberList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3adbdb3ac060038aa0e6e6c138ef9873">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Category</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ab014917f432e45612c083450553a2726">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a9bd81329febf6efe22788e03ddeaf0af">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Class</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497acf20423ed48998082c20099488a0917c">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Enum</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ab0d4998a26f5b5742ad38c4af8817e32">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Exception</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3c1aac82863ed9e5a9aca8ce687f711d">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Interface</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ae6caddaf29b3b9b89dbf500afd0d71a3">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::isObjC</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad04e53456007b170a459584ae6f313ac">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::kind</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m&#95;tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous&#95;namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6adf97f83acf6453d4a6a4b1070f3754">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::None</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a888a77f5ac0748b6c8001822417df8b6">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Protocol</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aa80c14f74871d9274671a9e33ac3c870">ArgumentList::push&#95;back</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ac2ba7e785c49050f48da9aacc45c2b85">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Service</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6ff5f73c8b5ebd311406568c8ef50bfd">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Singleton</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a886ef5dbd655a6c97726d7091c6b173e">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Struct</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a747b8b8d3b89a1e4744e354c4de534ee">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::templateArguments</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497aaef12e903e606a4895a16b393bfdec8c">anonymous&#95;namespace{tagreader.cpp}::TagClassInfo::Union</a>.
+References <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a3f52c99f682fa0035584aedfc2ed8dbf">anonymous\_namespace{tagreader.cpp}::TagClassInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ac56edb55f992391df4adef74f54f596f">anonymous\_namespace{tagreader.cpp}::TagClassInfo::bases</a>, <a href="#aa5dd16fd497d034a55fdca37a3c17804">buildMemberList</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3adbdb3ac060038aa0e6e6c138ef9873">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Category</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ab014917f432e45612c083450553a2726">anonymous\_namespace{tagreader.cpp}::TagClassInfo::clangId</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a9bd81329febf6efe22788e03ddeaf0af">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Class</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#abd7c06610979d5c6078dbf666c4358b5">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::docAnchors</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497acf20423ed48998082c20099488a0917c">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Enum</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ab0d4998a26f5b5742ad38c4af8817e32">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Exception</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a25246009588765b59a7e73cc87db2548">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::filename</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3c1aac82863ed9e5a9aca8ce687f711d">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Interface</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ae6caddaf29b3b9b89dbf500afd0d71a3">anonymous\_namespace{tagreader.cpp}::TagClassInfo::isObjC</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad04e53456007b170a459584ae6f313ac">anonymous\_namespace{tagreader.cpp}::TagClassInfo::kind</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#a8d08366f8e993aab489906c4998886e6">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::lineNr</a>, <a href="#adfdee579b9a50ed97a730b7a9f23436f">m\_tagName</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#af08267c179ffb9c4e799ea9a59f8f2a2">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::members</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#ad66cfffc0d1431ede0df482a7c5beaca">anonymous\_namespace{tagreader.cpp}::TagCompoundInfo::name</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6adf97f83acf6453d4a6a4b1070f3754">anonymous\_namespace{tagreader.cpp}::TagClassInfo::None</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a888a77f5ac0748b6c8001822417df8b6">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Protocol</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aa80c14f74871d9274671a9e33ac3c870">ArgumentList::push\_back</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ac2ba7e785c49050f48da9aacc45c2b85">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Service</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6ff5f73c8b5ebd311406568c8ef50bfd">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Singleton</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a886ef5dbd655a6c97726d7091c6b173e">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Struct</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#a747b8b8d3b89a1e4744e354c4de534ee">anonymous\_namespace{tagreader.cpp}::TagClassInfo::templateArguments</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497aaef12e903e606a4895a16b393bfdec8c">anonymous\_namespace{tagreader.cpp}::TagClassInfo::Union</a>.
 
 Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>.
 </div>
@@ -3989,7 +4037,8 @@ Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1014 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1014 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4008,7 +4057,7 @@ Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>.
 </div>
 
 
-References <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a>, <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a694169fa539ad5c675f8d301acb54b2c">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::ClassNode::children</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a6aa32a2acb4b87396f2a74ba319c6299">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::ClassNode::tci</a>.
+References <a href="#aa9daed7f8f5651e85aaa17885e61134c">buildClassEntry</a>, <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a>, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a694169fa539ad5c675f8d301acb54b2c">anonymous\_namespace{tagreader.cpp}::TagFileParser::ClassNode::children</a> and <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileparser/classnode/#a6aa32a2acb4b87396f2a74ba319c6299">anonymous\_namespace{tagreader.cpp}::TagFileParser::ClassNode::tci</a>.
 
 Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a> and <a href="#a9a2a4b0accaef9069229937226e60b10">buildLists</a>.
 </div>
@@ -4020,7 +4069,7 @@ Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a> an
 
 ## Private Member Attributes
 
-### m&#95;curCompound {#a68d8d8033bf8bd3d346a60e7237e276c}
+### m\_curCompound {#a68d8d8033bf8bd3d346a60e7237e276c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4039,7 +4088,8 @@ Referenced by <a href="#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">buildClassTree</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1018 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1018 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4052,7 +4102,7 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 </div>
 </div>
 
-### m&#95;curEnumValue {#aa13860af0001daf87f69281389f3c101}
+### m\_curEnumValue {#aa13860af0001daf87f69281389f3c101}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4071,7 +4121,8 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4084,7 +4135,7 @@ Referenced by <a href="#a06a8a71d6e6d9f8e93cee750e2faa0ef">endEnumValue</a> and 
 </div>
 </div>
 
-### m&#95;curIncludes {#abac57def474d6cfc6844a2c62c81b23e}
+### m\_curIncludes {#abac57def474d6cfc6844a2c62c81b23e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4103,7 +4154,8 @@ Referenced by <a href="#a06a8a71d6e6d9f8e93cee750e2faa0ef">endEnumValue</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1022 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1022 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4116,7 +4168,7 @@ Referenced by <a href="#a18f64ce17ad437b8675f4bd7b9f8a974">endIncludes</a> and <
 </div>
 </div>
 
-### m&#95;curMember {#a703f6a9467842a8bd8d6c5b05ea60bfc}
+### m\_curMember {#a703f6a9467842a8bd8d6c5b05ea60bfc}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4135,7 +4187,8 @@ Referenced by <a href="#a18f64ce17ad437b8675f4bd7b9f8a974">endIncludes</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4148,7 +4201,7 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 </div>
 </div>
 
-### m&#95;curString {#a9548f3206b46e2bd177d3a0de2d3f125}
+### m\_curString {#a9548f3206b46e2bd177d3a0de2d3f125}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4167,7 +4220,8 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1024 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1024 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4180,7 +4234,7 @@ Referenced by <a href="#a98c5a0d5ae75e20939baaba36ecaf2e3">characters</a>, <a hr
 </div>
 </div>
 
-### m&#95;fileName {#a19ed33b56774430bad0811dbb24aa38d}
+### m\_fileName {#a19ed33b56774430bad0811dbb24aa38d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4199,7 +4253,8 @@ Referenced by <a href="#a98c5a0d5ae75e20939baaba36ecaf2e3">characters</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1026 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1026 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4212,7 +4267,7 @@ Referenced by <a href="#a5b2c9b8ab174e898f87b90803529766c">endDocAnchor</a> and 
 </div>
 </div>
 
-### m&#95;locator {#a560587cbf60c107e9bae7e205fd6ef50}
+### m\_locator {#a560587cbf60c107e9bae7e205fd6ef50}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4231,7 +4286,8 @@ Referenced by <a href="#a5b2c9b8ab174e898f87b90803529766c">endDocAnchor</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1030 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1030 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4244,7 +4300,7 @@ Referenced by <a href="#a662591474cf5ed7adce79a42d49736af">setDocumentLocator</a
 </div>
 </div>
 
-### m&#95;state {#ac0775f760651bb75fb5919795b8a1241}
+### m\_state {#ac0775f760651bb75fb5919795b8a1241}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4263,7 +4319,8 @@ Referenced by <a href="#a662591474cf5ed7adce79a42d49736af">setDocumentLocator</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1028 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1028 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4276,7 +4333,7 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 </div>
 </div>
 
-### m&#95;stateStack {#ada7baee04d5b524d2d3b2c4d2207cf6d}
+### m\_stateStack {#ada7baee04d5b524d2d3b2c4d2207cf6d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4295,7 +4352,8 @@ Referenced by <a href="#a42aff7a35ce87a4df59d4a05f374f54e">endAnchor</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1029 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1029 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4308,7 +4366,7 @@ Referenced by <a href="#a06a8a71d6e6d9f8e93cee750e2faa0ef">endEnumValue</a>, <a 
 </div>
 </div>
 
-### m&#95;tagFileCompounds {#ac75f982d3520a85cd31cabafbbd60dc7}
+### m\_tagFileCompounds {#ac75f982d3520a85cd31cabafbbd60dc7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4327,7 +4385,8 @@ Referenced by <a href="#a06a8a71d6e6d9f8e93cee750e2faa0ef">endEnumValue</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1017 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1017 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4340,7 +4399,7 @@ Referenced by <a href="#afbafb9f58aa69f3ea191211d77ffccae">addIncludes</a>, <a h
 </div>
 </div>
 
-### m&#95;tagName {#adfdee579b9a50ed97a730b7a9f23436f}
+### m\_tagName {#adfdee579b9a50ed97a730b7a9f23436f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4359,7 +4418,8 @@ Referenced by <a href="#afbafb9f58aa69f3ea191211d77ffccae">addIncludes</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1025 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1025 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4372,7 +4432,7 @@ Referenced by <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a
 </div>
 </div>
 
-### m&#95;title {#a75e30c8c85ae1460b55b1585e9386693}
+### m\_title {#a75e30c8c85ae1460b55b1585e9386693}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4391,7 +4451,8 @@ Referenced by <a href="#a04e4220513820012d31302361cf4f24d">addDocAnchors</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1027 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1027 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4408,7 +4469,7 @@ Referenced by <a href="#a5b2c9b8ab174e898f87b90803529766c">endDocAnchor</a> and 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

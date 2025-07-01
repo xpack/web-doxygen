@@ -46,7 +46,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/lexscanneryy-state">lexscannerYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/lexscanneryy-state">lexscannerYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -220,7 +220,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad9510831aec6c47ba0ce5eda02af07e5">repeatChar</a>(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c&#95;str()</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad9510831aec6c47ba0ce5eda02af07e5">repeatChar</a>(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c\_str()</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -233,7 +233,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -251,7 +251,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -270,7 +270,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -312,7 +313,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -347,7 +349,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -393,7 +396,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -464,7 +468,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 </div>
 </div>
 
@@ -487,7 +492,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1260,7 +1266,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1297,7 +1304,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define repeatChar(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c&#95;str()</td>
+<td class="doxyMemberName">#define repeatChar(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c\_str()</td>
 </tr>
 </table>
 </td>
@@ -1307,7 +1314,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1318,7 +1326,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1327,7 +1335,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -1337,7 +1345,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1348,7 +1357,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1367,7 +1376,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1378,7 +1388,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1397,7 +1407,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1419,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1427,7 +1438,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 

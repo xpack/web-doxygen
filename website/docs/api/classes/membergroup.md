@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `MemberGroup` Class Reference
 
-<p>A class representing a group of members. <a href="#details">More...</a></p>
+A class representing a group of members. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -609,9 +609,9 @@ class MemberGroup { ... }
 
 ## Description {#details}
 
-<p>A class representing a group of members.</p>
+A class representing a group of members.
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxySectionDef">
 
@@ -636,7 +636,8 @@ class MemberGroup { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -655,7 +656,7 @@ class MemberGroup { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="#a1e680180c8170971bda95c445f9e8fd9">container</a>, <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="#ac917d697ac387e35c72253fe6afec7b9">docFile</a>, <a href="#acddbf4e98852c63461077bb29e80e00e">docLine</a>, <a href="#afc95ff9392193c0e867ec5e1a15332d4">grpHeader</a>, <a href="#a9d8679d2fc948fed9ee833c1fb5545f9">grpId</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a>, <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m&#95;docFile</a>, <a href="#a18983b9ac8859ed852f2376c8e95b447">m&#95;docLine</a>, <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a1e680180c8170971bda95c445f9e8fd9">container</a>, <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="#ac917d697ac387e35c72253fe6afec7b9">docFile</a>, <a href="#acddbf4e98852c63461077bb29e80e00e">docLine</a>, <a href="#afc95ff9392193c0e867ec5e1a15332d4">grpHeader</a>, <a href="#a9d8679d2fc948fed9ee833c1fb5545f9">grpId</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a>, <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m\_docFile</a>, <a href="#a18983b9ac8859ed852f2376c8e95b447">m\_docLine</a>, <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 
 Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 </div>
@@ -686,7 +687,8 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -712,7 +714,7 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/types-h/#a6dc2e6c0ceaaa530cb9859af8d37449da9bd81329febf6efe22788e03ddeaf0af">Class</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#ab3cff28cc4778300689c569599582b9b">MemberList::countDecMembers</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a>, <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>, <a href="/web-doxygen/docs/api/classes/membervector/#ae8265ec4f4b9b33ae0ddc0341f84433f">MemberVector::push&#95;back</a> and <a href="/web-doxygen/docs/api/classes/memberlist/#a65c0018e97550e259481590d8f9d5bee">MemberList::writePlainDeclarations</a>.
+References <a href="/web-doxygen/docs/api/files/src/types-h/#a6dc2e6c0ceaaa530cb9859af8d37449da9bd81329febf6efe22788e03ddeaf0af">Class</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#ab3cff28cc4778300689c569599582b9b">MemberList::countDecMembers</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a>, <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>, <a href="/web-doxygen/docs/api/classes/membervector/#ae8265ec4f4b9b33ae0ddc0341f84433f">MemberVector::push\_back</a> and <a href="/web-doxygen/docs/api/classes/memberlist/#a65c0018e97550e259481590d8f9d5bee">MemberList::writePlainDeclarations</a>.
 </div>
 </div>
 
@@ -735,7 +737,8 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#a6dc2e6c0ceaaa530cb
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -771,9 +774,10 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 
 
 
-<p>Add this group as a subsection of the declaration section, instead of rendering it in its own section</p>
 
-<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+Add this group as a subsection of the declaration section, instead of rendering it in its own section
+
+Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -818,7 +822,8 @@ Reference <a href="#afb3c989e974138d44fab79ce1a321971">inDeclSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -850,7 +855,8 @@ Reference <a href="#a0b7d8f05fe65b9d4a87b3e95cbe498ea">inSameSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -862,7 +868,7 @@ Reference <a href="#a0b7d8f05fe65b9d4a87b3e95cbe498ea">inSameSection</a>.
 </div>
 
 
-Reference <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a>.
+Reference <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a>.
 
 Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>, <a href="#a4e87b521c1766f9bfe0be171213660ea">writeDocumentation</a> and <a href="#a55915e6ca60ab6cd13d6d257bd916d60">writeDocumentationPage</a>.
 </div>
@@ -887,7 +893,8 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -922,7 +929,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -957,7 +965,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -980,7 +989,7 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
+References <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 </div>
 </div>
 
@@ -1003,7 +1012,8 @@ References <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d65148186203
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1038,7 +1048,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1111,7 +1122,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1120,7 +1132,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ff
 </div>
 
 
-Reference <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m&#95;docFile</a>.
+Reference <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m\_docFile</a>.
 
 Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 </div>
@@ -1150,7 +1162,8 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1159,7 +1172,7 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 </div>
 
 
-Reference <a href="#a18983b9ac8859ed852f2376c8e95b447">m&#95;docLine</a>.
+Reference <a href="#a18983b9ac8859ed852f2376c8e95b447">m\_docLine</a>.
 
 Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 </div>
@@ -1189,7 +1202,8 @@ Referenced by <a href="#a17798ab21bdf69de04afe3294c7005ca">MemberGroup</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1221,7 +1235,8 @@ Reference <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1234,7 +1249,7 @@ Reference <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>.
 </div>
 
 
-References <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a0fc0d3e4ca95dd0dc254d0efb1fd045a">docFindSections</a>, <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m&#95;docFile</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
+References <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a0fc0d3e4ca95dd0dc254d0efb1fd045a">docFindSections</a>, <a href="#ae49f7e0dd66e5fd58e52d2e216a0f798">m\_docFile</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 </div>
 </div>
 
@@ -1262,7 +1277,8 @@ References <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="/web-d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1299,7 +1315,8 @@ Reference <a href="#a9d8679d2fc948fed9ee833c1fb5545f9">grpId</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1331,7 +1348,8 @@ Reference <a href="#afc95ff9392193c0e867ec5e1a15332d4">grpHeader</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1373,7 +1391,7 @@ Reference <a href="#afc95ff9392193c0e867ec5e1a15332d4">grpHeader</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab001f5a231830270bac7da746201c02e">MemberDef::getSectionList</a>, <a href="#afb3c989e974138d44fab79ce1a321971">inDeclSection</a>, <a href="#a0b7d8f05fe65b9d4a87b3e95cbe498ea">inSameSection</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#aae7c161ee9febb2cb5ea6ed3dc74176e">GroupDef::insertMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac64bb0cde04aa2eed0e2a439d0a17c8e">Definition::isAlias</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a>, <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>, <a href="/web-doxygen/docs/api/classes/memberdefmutable/#ac1ea8d9adeeef3466a0b36b20aa8ca8e">MemberDefMutable::setGroupDef</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a9ea80ba313803ae565f05ce1c8eb6bb5">toMemberDefMutable</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab001f5a231830270bac7da746201c02e">MemberDef::getSectionList</a>, <a href="#afb3c989e974138d44fab79ce1a321971">inDeclSection</a>, <a href="#a0b7d8f05fe65b9d4a87b3e95cbe498ea">inSameSection</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#aae7c161ee9febb2cb5ea6ed3dc74176e">GroupDef::insertMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac64bb0cde04aa2eed0e2a439d0a17c8e">Definition::isAlias</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a>, <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>, <a href="/web-doxygen/docs/api/classes/memberdefmutable/#ac1ea8d9adeeef3466a0b36b20aa8ca8e">MemberDefMutable::setGroupDef</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a9ea80ba313803ae565f05ce1c8eb6bb5">toMemberDefMutable</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a629f6fc7b319c74df28381ca2e009d0b">addMembersToMemberGroup</a>.
 </div>
@@ -1398,7 +1416,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a629f6fc7b319c7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1422,7 +1441,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a629f6fc7b319c7
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m&#95;container</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
+References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="#ae8bd9cbfeab2545946c46eef9ba53400">m\_container</a> and <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 </div>
 </div>
 
@@ -1450,7 +1469,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aaca
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1482,7 +1502,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1517,7 +1538,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1552,7 +1574,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1587,7 +1610,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1622,7 +1646,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1657,7 +1682,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1692,7 +1718,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1704,7 +1731,7 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 </div>
 
 
-Reference <a href="#af118cd2ec3faa65375b364f1a01ce256">m&#95;xrefListItems</a>.
+Reference <a href="#af118cd2ec3faa65375b364f1a01ce256">m\_xrefListItems</a>.
 </div>
 </div>
 
@@ -1727,7 +1754,8 @@ Reference <a href="#af118cd2ec3faa65375b364f1a01ce256">m&#95;xrefListItems</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1766,7 +1794,8 @@ References <a href="#ad47e2e80677fc1d17a849b4b4c8c308a">doc</a>, <a href="/web-d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1803,7 +1832,8 @@ References <a href="#a1e680180c8170971bda95c445f9e8fd9">container</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1839,7 +1869,8 @@ References <a href="#a1e680180c8170971bda95c445f9e8fd9">container</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1878,7 +1909,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1919,7 +1951,8 @@ Reference <a href="#af5136254d93ca9a6fd5021ec2ea8f849">memberList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1951,7 +1984,8 @@ Referenced by <a href="#ae9bfe64caa099a821c650b927e4ac514">documentation</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1981,7 +2015,8 @@ Referenced by <a href="#ae9bfe64caa099a821c650b927e4ac514">documentation</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2013,7 +2048,8 @@ Referenced by <a href="#a918bd808efb147a24b25c5246425d5bf">header</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2045,7 +2081,8 @@ Referenced by <a href="#a25d5f6dce1695c96eaddefd8b54fce43">groupId</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2077,7 +2114,8 @@ Referenced by <a href="#a1dc30e752b0c36ee2be1716ff8d83856">addToDeclarationSecti
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2090,7 +2128,7 @@ Referenced by <a href="#a5e54a4524c532b3893ea2f810fbdbeb5">allMembersInSameSecti
 </div>
 </div>
 
-### m&#95;container {#ae8bd9cbfeab2545946c46eef9ba53400}
+### m\_container {#ae8bd9cbfeab2545946c46eef9ba53400}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2109,7 +2147,8 @@ Referenced by <a href="#a5e54a4524c532b3893ea2f810fbdbeb5">allMembersInSameSecti
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2122,7 +2161,7 @@ Referenced by <a href="#a298db4223e61135eb6da36ade9c00c02">addGroupedInheritedMe
 </div>
 </div>
 
-### m&#95;docFile {#ae49f7e0dd66e5fd58e52d2e216a0f798}
+### m\_docFile {#ae49f7e0dd66e5fd58e52d2e216a0f798}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2141,7 +2180,8 @@ Referenced by <a href="#a298db4223e61135eb6da36ade9c00c02">addGroupedInheritedMe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2154,7 +2194,7 @@ Referenced by <a href="#ac917d697ac387e35c72253fe6afec7b9">docFile</a>, <a href=
 </div>
 </div>
 
-### m&#95;docLine {#a18983b9ac8859ed852f2376c8e95b447}
+### m\_docLine {#a18983b9ac8859ed852f2376c8e95b447}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2173,7 +2213,8 @@ Referenced by <a href="#ac917d697ac387e35c72253fe6afec7b9">docFile</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2186,7 +2227,7 @@ Referenced by <a href="#acddbf4e98852c63461077bb29e80e00e">docLine</a> and <a hr
 </div>
 </div>
 
-### m&#95;xrefListItems {#af118cd2ec3faa65375b364f1a01ce256}
+### m\_xrefListItems {#af118cd2ec3faa65375b364f1a01ce256}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2205,7 +2246,8 @@ Referenced by <a href="#acddbf4e98852c63461077bb29e80e00e">docLine</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2237,7 +2279,8 @@ Referenced by <a href="#a64fc6bdd80d5cce30b106284d4649543">setRefItems</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2254,7 +2297,7 @@ Referenced by <a href="#a298db4223e61135eb6da36ade9c00c02">addGroupedInheritedMe
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a></li>

@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a></p>
+Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -45,7 +45,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-11-0">TranslatorAdapter&#95;1&#95;11&#95;0</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-11-0">TranslatorAdapter_1_11_0</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -58,7 +58,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0">TranslatorAdapter&#95;1&#95;10&#95;0</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0">TranslatorAdapter_1_10_0</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -71,7 +71,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-8">TranslatorAdapter&#95;1&#95;9&#95;8</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-8">TranslatorAdapter_1_9_8</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -84,7 +84,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6">TranslatorAdapter&#95;1&#95;9&#95;6</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6">TranslatorAdapter_1_9_6</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -97,7 +97,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-5">TranslatorAdapter&#95;1&#95;9&#95;5</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-5">TranslatorAdapter_1_9_5</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -110,7 +110,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-4">TranslatorAdapter&#95;1&#95;9&#95;4</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-4">TranslatorAdapter_1_9_4</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -123,7 +123,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-2">TranslatorAdapter&#95;1&#95;9&#95;2</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-2">TranslatorAdapter_1_9_2</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -136,7 +136,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-19">TranslatorAdapter&#95;1&#95;8&#95;19</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-19">TranslatorAdapter_1_8_19</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -149,7 +149,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-15">TranslatorAdapter&#95;1&#95;8&#95;15</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-15">TranslatorAdapter_1_8_15</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -162,7 +162,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-4">TranslatorAdapter&#95;1&#95;8&#95;4</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-4">TranslatorAdapter_1_8_4</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -175,7 +175,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-2">TranslatorAdapter&#95;1&#95;8&#95;2</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-2">TranslatorAdapter_1_8_2</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -188,12 +188,12 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0">TranslatorAdapter&#95;1&#95;8&#95;0</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0">TranslatorAdapter_1_8_0</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adapter class for languages that only contain translations up to version 1.8.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.8.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -202,12 +202,12 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5">TranslatorAdapter&#95;1&#95;7&#95;5</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5">TranslatorAdapter_1_7_5</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -216,12 +216,12 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0">TranslatorAdapter&#95;1&#95;6&#95;0</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0">TranslatorAdapter_1_6_0</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adapter class for languages that only contain translations up to version 1.6.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.6.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -230,12 +230,12 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6">TranslatorAdapter&#95;1&#95;4&#95;6</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6">TranslatorAdapter_1_4_6</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adapter class for languages that only contain translations up to version 1.4.6. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.4.6. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

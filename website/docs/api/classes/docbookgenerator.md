@@ -41,7 +41,7 @@ class DocbookGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for shared implementation for all output generators. <a href="/web-doxygen/docs/api/classes/outputgenerator/#details">More...</a></p>
+Base class for shared implementation for all output generators. <a href="/web-doxygen/docs/api/classes/outputgenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ class DocbookGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for output generators. <a href="/web-doxygen/docs/api/classes/outputgenintf/#details">More...</a></p>
+Abstract interface for output generators. <a href="/web-doxygen/docs/api/classes/outputgenintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2863,7 +2863,7 @@ class DocbookGenerator { ... }
 </table>
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -2888,7 +2888,8 @@ class DocbookGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2903,7 +2904,7 @@ class DocbookGenerator { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m&#95;codeList</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m\_codeList</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
 
 Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>, <a href="#acd55ac09ef27600eb1f6be12c339613f">DocbookGenerator</a>, <a href="#abfda55e880b3527d256491a2f8e908e1">operator=</a> and <a href="#a349d301ad0b14ab1784a059acfc82ad6">operator=</a>.
 </div>
@@ -2928,7 +2929,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2952,7 +2954,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a680ad2abb703e2cb60fbdddf8423315a">Docbook</a>, <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m&#95;codeList</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m&#95;descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m&#95;dir</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m&#95;firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m&#95;inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m&#95;inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m&#95;openSectionCount</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m&#95;simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
+References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a680ad2abb703e2cb60fbdddf8423315a">Docbook</a>, <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m\_codeList</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m\_descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m\_dir</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m\_firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m\_inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m\_inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m\_openSectionCount</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m\_simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
 </div>
 </div>
 
@@ -2980,7 +2982,8 @@ References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 </div>
@@ -2992,7 +2995,7 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 
 ## Public Destructor
 
-### ~DocbookGenerator() {#acd2d9e24cb0f45024d1efbfd59cff910}
+### \~DocbookGenerator() {#acd2d9e24cb0f45024d1efbfd59cff910}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3011,7 +3014,8 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 </div>
 </div>
 
@@ -3040,7 +3044,8 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3069,7 +3074,7 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a680ad2abb703e2cb60fbdddf8423315a">Docbook</a>, <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m&#95;codeList</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m&#95;descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m&#95;dir</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m&#95;firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m&#95;inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m&#95;inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m&#95;openSectionCount</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m&#95;simpleTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a680ad2abb703e2cb60fbdddf8423315a">Docbook</a>, <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m\_codeList</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m\_descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m\_dir</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m\_firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m\_inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m\_inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m\_openSectionCount</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m\_simpleTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3097,7 +3102,8 @@ References <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 </div>
@@ -3133,7 +3139,8 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 122 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 122 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3145,7 +3152,7 @@ Reference <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a> and <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>.
+References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a> and <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>.
 </div>
 </div>
 
@@ -3173,7 +3180,8 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 178 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1144 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 178 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1144 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3186,7 +3194,7 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3214,7 +3222,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 235 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 959 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 235 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 959 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3226,7 +3235,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -3254,7 +3263,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 123 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 123 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3268,7 +3278,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c7b1d7bb7c0d7ef9">clearSubDirs</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c7b1d7bb7c0d7ef9">clearSubDirs</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -3297,7 +3307,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3332,7 +3343,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 153 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 153 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3345,7 +3357,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a57ecb947b9d729a32204364b0be5f712">startConstraintList</a>, <a href="#aaac726241831c07dc4733f0e63dab3e1">startExamples</a> and <a href="#afba9fe943d8c123f6e40256bdca2f5d3">writeChar</a>.
 </div>
@@ -3376,7 +3388,8 @@ Referenced by <a href="#a57ecb947b9d729a32204364b0be5f712">startConstraintList</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3385,7 +3398,7 @@ Referenced by <a href="#a57ecb947b9d729a32204364b0be5f712">startConstraintList</
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -3413,7 +3426,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 160 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 828 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 160 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 828 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3426,7 +3440,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3454,7 +3468,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 258 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1321 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 258 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1321 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3467,7 +3482,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotcallgraph/#ad59c94658b83032817c03c0d59c7e5da">DotCallGraph::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotcallgraph/#ad59c94658b83032817c03c0d59c7e5da">DotCallGraph::writeGraph</a>.
 </div>
 </div>
 
@@ -3496,7 +3511,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3505,7 +3521,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -3533,7 +3549,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 250 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 250 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3555,7 +3572,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
 </div>
 </div>
 
@@ -3583,7 +3600,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1045 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1045 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3596,7 +3614,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3624,7 +3642,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 299 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1374 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 299 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1374 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3636,7 +3655,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -3664,7 +3683,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 300 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 300 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3677,7 +3697,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3705,7 +3725,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 295 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1356 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 295 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1356 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3717,7 +3738,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -3745,7 +3766,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 297 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1365 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 297 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1365 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3758,7 +3780,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3787,7 +3809,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3796,7 +3819,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -3825,7 +3848,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3834,7 +3858,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -3862,7 +3886,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 182 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1236 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 182 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1236 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3878,7 +3903,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m&#95;descTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m\_descTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3906,7 +3931,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 190 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1285 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 190 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1285 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3919,7 +3945,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3947,7 +3973,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 188 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1274 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 188 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1274 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3959,7 +3986,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -3987,7 +4014,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 184 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1252 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 184 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1252 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4000,7 +4028,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4028,7 +4056,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 186 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1263 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 186 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1263 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4040,7 +4069,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -4068,7 +4097,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 260 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1330 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 260 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1330 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4081,7 +4111,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a636d65d1b7097eca39e1dc431e8a7b32">DotDirDeps::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a636d65d1b7097eca39e1dc431e8a7b32">DotDirDeps::writeGraph</a>.
 </div>
 </div>
 
@@ -4109,7 +4139,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 252 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1303 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 252 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1303 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4122,7 +4153,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a0273e4e9adfbbe1f601a986636ef79dc">DotClassGraph::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a0273e4e9adfbbe1f601a986636ef79dc">DotClassGraph::writeGraph</a>.
 </div>
 </div>
 
@@ -4150,7 +4181,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 234 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 955 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 234 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 955 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4162,7 +4194,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -4191,7 +4223,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4200,7 +4233,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4228,7 +4261,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 173 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 173 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4241,7 +4275,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4269,7 +4303,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 126 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 126 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4301,7 +4336,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a2d188192c029b20f6505b7b79b8f288f">endPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m&#95;pageLinks</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a2d188192c029b20f6505b7b79b8f288f">endPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m\_pageLinks</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4329,7 +4364,8 @@ References <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 256 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1294 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 256 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1294 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4342,7 +4378,7 @@ References <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>, <a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a1e26ce5a2563ee5144ef66ff9cf88461">DotGroupCollaboration::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a1e26ce5a2563ee5144ef66ff9cf88461">DotGroupCollaboration::writeGraph</a>.
 </div>
 </div>
 
@@ -4370,7 +4406,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 197 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 854 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 197 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 854 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4383,7 +4420,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4412,7 +4449,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4421,7 +4459,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -4449,7 +4487,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 254 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1312 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 254 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1312 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4462,7 +4501,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a197a7b8e9b068d122b062c80b21784e4">DotInclDepGraph::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c">DocBook</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a197a7b8e9b068d122b062c80b21784e4">DotInclDepGraph::writeGraph</a>.
 </div>
 </div>
 
@@ -4491,7 +4530,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4500,7 +4540,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -4529,7 +4569,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4538,7 +4579,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4567,7 +4608,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4576,7 +4618,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4605,7 +4647,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4614,7 +4657,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4643,7 +4686,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4652,7 +4696,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4680,7 +4724,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 131 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 131 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4868,7 +4913,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB&#95;GEN&#95;C2</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ad179803c33ab064adfd6adf681a0a805">Doxygen::dirLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6cfac206c42a62e6e3ba66d5d4e4a471">Doxygen::exampleLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a8dab680d3e9e897983a1b9e7968c82c7">isClassDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a5dc0feebd328fce66fdf10940d325c13">isClassHierarchyIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a98d9a43fdd6c458d80251cbb6712f7d5">isCompoundIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aba356fa1d95f3ad5fe998378562d2968">isConceptDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7ed89b8fd01df70d408e1571d145c1c1">isConceptIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a55e8f77f5eb1557c27dad33a4ee24165">isDirDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7abc266c3a59d8d164fe6e05eb2bbd6a55">isDirIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ab520ec9da3284768c754fbbf4e907e08">isEndIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a87c7dab68957c9a53129b71dc0a90635">isExampleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a3c622c2f13fd1e39bf3b1fdad4a2ae2e">isFileDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2f028c6e71fd63fb9e23efb217b8c4a7">isFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a01093bf5aa5f29736aab5a03d438d428">isMainPage</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a56f0fdd7e2c9390989e1075d48ce7bbd">isModuleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a73fc6dc74e3caab626fcb788e489c006">isModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad8796f241437df840983ae62b0ec6bc5">isNamespaceDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ac72f48c94b82bf532b2eb7e9dd1c2345">isNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a41de1f39ac1ee1329a1374b2da6bfc70">isPageDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7af311c10a314387cf7b6310240aa89bb0">isPageDocumentation2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a96414d5dc6d8784abb414cf1b04b3218">isPageIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2d64103a58ee3a5192221119a31dfe28">isTitlePageAuthor</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad91b65ea5e9c3686b3a0078e32d9133f">isTitlePageStart</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aea69f72466bdd3c72c5c6b5bc6ee6cca">isTopicDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7a9b27e109f6dd8dde1ec3139e9c6636">isTopicIndex</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#a53279dc86a635990c995e61bc3b7104c">writePageLink</a>.
+References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB\_GEN\_C2</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ad179803c33ab064adfd6adf681a0a805">Doxygen::dirLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6cfac206c42a62e6e3ba66d5d4e4a471">Doxygen::exampleLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a8dab680d3e9e897983a1b9e7968c82c7">isClassDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a5dc0feebd328fce66fdf10940d325c13">isClassHierarchyIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a98d9a43fdd6c458d80251cbb6712f7d5">isCompoundIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aba356fa1d95f3ad5fe998378562d2968">isConceptDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7ed89b8fd01df70d408e1571d145c1c1">isConceptIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a55e8f77f5eb1557c27dad33a4ee24165">isDirDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7abc266c3a59d8d164fe6e05eb2bbd6a55">isDirIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ab520ec9da3284768c754fbbf4e907e08">isEndIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a87c7dab68957c9a53129b71dc0a90635">isExampleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a3c622c2f13fd1e39bf3b1fdad4a2ae2e">isFileDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2f028c6e71fd63fb9e23efb217b8c4a7">isFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a01093bf5aa5f29736aab5a03d438d428">isMainPage</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a56f0fdd7e2c9390989e1075d48ce7bbd">isModuleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a73fc6dc74e3caab626fcb788e489c006">isModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad8796f241437df840983ae62b0ec6bc5">isNamespaceDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ac72f48c94b82bf532b2eb7e9dd1c2345">isNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a41de1f39ac1ee1329a1374b2da6bfc70">isPageDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7af311c10a314387cf7b6310240aa89bb0">isPageDocumentation2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a96414d5dc6d8784abb414cf1b04b3218">isPageIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2d64103a58ee3a5192221119a31dfe28">isTitlePageAuthor</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad91b65ea5e9c3686b3a0078e32d9133f">isTitlePageStart</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aea69f72466bdd3c72c5c6b5bc6ee6cca">isTopicDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7a9b27e109f6dd8dde1ec3139e9c6636">isTopicIndex</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#a53279dc86a635990c995e61bc3b7104c">writePageLink</a>.
 </div>
 </div>
 
@@ -4897,7 +4942,8 @@ References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b48
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4906,7 +4952,7 @@ References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b48
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4935,7 +4981,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4944,7 +4991,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -4972,7 +5019,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 309 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1215 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 309 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1215 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4985,7 +5033,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5013,7 +5061,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1203 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1203 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5026,7 +5075,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5054,7 +5103,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 305 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1191 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 305 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1191 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5067,7 +5117,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5096,7 +5146,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5105,7 +5156,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5134,7 +5185,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5143,7 +5195,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5171,7 +5223,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1023 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1023 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5183,7 +5236,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -5211,7 +5264,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1424 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 316 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1424 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5229,7 +5283,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m&#95;tocState</a>.
+References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m\_tocState</a>.
 </div>
 </div>
 
@@ -5258,7 +5312,8 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5267,7 +5322,7 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5296,7 +5351,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5305,7 +5361,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5333,7 +5389,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 230 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 924 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 230 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 924 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5346,7 +5403,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5374,7 +5431,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 207 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1339 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 207 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1339 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5387,7 +5445,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -5415,7 +5473,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 280 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 968 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 280 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 968 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5427,7 +5486,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -5455,7 +5514,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 278 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1063 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 278 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1063 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5468,7 +5528,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5496,7 +5556,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 303 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1176 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 303 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1176 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5512,7 +5573,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m&#95;simpleTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m\_simpleTable</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5540,7 +5601,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 225 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 986 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 225 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 986 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5553,7 +5615,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5582,7 +5644,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5591,7 +5654,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5619,7 +5682,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 221 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 221 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5632,7 +5696,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5660,7 +5724,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 203 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 761 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 203 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 761 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5673,7 +5738,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5701,7 +5766,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 215 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 215 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5714,7 +5780,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5742,7 +5808,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 209 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 801 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 209 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 801 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5760,7 +5827,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m&#95;inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m&#95;inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m\_inListItem</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m\_inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5789,7 +5856,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5798,7 +5866,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5827,7 +5895,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5836,7 +5905,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5864,7 +5933,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1126 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1126 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5878,7 +5948,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5907,7 +5977,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5916,7 +5987,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -5945,7 +6016,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5954,7 +6026,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -5982,7 +6054,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5995,7 +6068,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6023,7 +6096,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 288 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1115 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 288 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1115 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6036,7 +6110,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6064,7 +6138,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 286 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1098 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 286 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1098 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6080,7 +6155,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6108,7 +6183,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 290 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 865 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 290 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 865 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6120,7 +6196,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -6148,7 +6224,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 284 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1088 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 284 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1088 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6160,7 +6237,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -6189,7 +6266,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6198,7 +6276,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6227,7 +6305,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6267,7 +6346,8 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6276,7 +6356,7 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -6305,7 +6385,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6314,7 +6395,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6342,7 +6423,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 176 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1138 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 176 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1138 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6356,7 +6438,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6385,7 +6467,8 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6394,7 +6477,7 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -6422,7 +6505,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 275 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 898 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 275 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 898 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6439,7 +6523,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6468,7 +6552,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6477,7 +6562,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -6505,7 +6590,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 137 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 934 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 137 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 934 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6519,7 +6605,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6547,7 +6633,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 318 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 318 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6566,7 +6653,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m&#95;tocState</a>, <a href="#a77480edd4c5054fa1834ff3b2dcd3db5">type</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ad3818ca1a9c067d97176dcbaf7022d9e">SectionInfo::type</a>.
+References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m\_tocState</a>, <a href="#a77480edd4c5054fa1834ff3b2dcd3db5">type</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ad3818ca1a9c067d97176dcbaf7022d9e">SectionInfo::type</a>.
 </div>
 </div>
 
@@ -6594,7 +6681,8 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 162 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 884 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 162 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 884 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6607,7 +6695,7 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6635,7 +6723,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 291 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1068 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 291 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1068 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6656,7 +6745,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
 </div>
 </div>
 
@@ -6685,7 +6774,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6694,7 +6784,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6723,7 +6813,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6732,7 +6823,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6761,7 +6852,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6770,7 +6862,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6798,7 +6890,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 177 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 874 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 177 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 874 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6811,7 +6904,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6840,7 +6933,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6849,7 +6943,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -6877,7 +6971,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 159 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 159 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6890,7 +6985,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6918,7 +7013,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 257 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1317 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 257 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1317 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6930,7 +7026,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -6959,7 +7055,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6968,7 +7065,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -6996,7 +7093,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 249 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 991 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 249 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 991 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7009,7 +7107,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7037,7 +7135,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7050,7 +7149,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7078,7 +7177,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 298 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 298 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7090,7 +7190,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7118,7 +7218,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 293 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1344 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 293 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1344 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7133,7 +7234,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#aea69ff69be259d30ee167aa920746fab">docify</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#aea69ff69be259d30ee167aa920746fab">docify</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7161,7 +7262,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 294 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 294 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7174,7 +7276,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7202,7 +7304,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 296 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1360 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 296 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1360 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7215,7 +7318,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7244,7 +7347,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7253,7 +7357,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -7282,7 +7386,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7291,7 +7396,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -7319,7 +7424,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 181 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1221 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 181 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1221 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7341,7 +7447,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m&#95;descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m\_descTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7369,7 +7475,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 189 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1279 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 189 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1279 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7382,7 +7489,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7410,7 +7517,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 187 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1268 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 187 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1268 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7423,7 +7531,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7451,7 +7559,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 183 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1245 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 183 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1245 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7465,7 +7574,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -7493,7 +7602,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 185 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1258 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 185 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1258 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7505,7 +7615,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7533,7 +7643,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 259 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1326 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 259 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1326 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7545,7 +7656,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7573,7 +7684,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1299 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1299 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7585,7 +7697,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7613,7 +7725,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 231 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 231 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7636,7 +7749,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m&#95;descTable</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m&#95;firstMember</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m&#95;inListItem</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m&#95;simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
+References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a207ad156ddb389309522fc4c6998bc3f">m\_descTable</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m\_firstMember</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m\_inListItem</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m\_simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
 </div>
 </div>
 
@@ -7665,7 +7778,8 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7674,7 +7788,7 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -7702,7 +7816,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 172 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1027 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 172 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1027 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7717,7 +7832,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#aea69ff69be259d30ee167aa920746fab">docify</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#aea69ff69be259d30ee167aa920746fab">docify</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -7745,7 +7860,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 125 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 125 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7783,7 +7899,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m&#95;codeGen</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m&#95;pageLinks</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6cc78f4946029df8c7135fbf36e625e4">relativePathToRoot</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a>, <a href="#af357a86f84b841c7a0d1a8e52d644f69">startPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a3ab50737477df1d37de25615f4bb4f6a">m\_codeGen</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m\_pageLinks</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6cc78f4946029df8c7135fbf36e625e4">relativePathToRoot</a>, <a href="#acc4b3e766937d32df7466312a4e6db40">relPath</a>, <a href="#af357a86f84b841c7a0d1a8e52d644f69">startPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -7811,7 +7927,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 255 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1290 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 255 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1290 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7823,7 +7940,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7851,7 +7968,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7872,7 +7990,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB&#95;GEN&#95;C2</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m&#95;firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m&#95;inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB\_GEN\_C2</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a81a6b8b5249d6aa1144eb15cd75ea019">m\_firstMember</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m\_inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7901,7 +8019,8 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7910,7 +8029,7 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -7938,7 +8057,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 253 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1308 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 253 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1308 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7950,7 +8070,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -7979,7 +8099,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7988,7 +8109,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -8017,7 +8138,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8026,7 +8148,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8055,7 +8177,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8064,7 +8187,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8093,7 +8216,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8102,7 +8226,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8131,7 +8255,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8140,7 +8265,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8168,7 +8293,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 130 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 130 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8260,7 +8386,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB&#95;GEN&#95;C2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a8dab680d3e9e897983a1b9e7968c82c7">isClassDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a5dc0feebd328fce66fdf10940d325c13">isClassHierarchyIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a98d9a43fdd6c458d80251cbb6712f7d5">isCompoundIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aba356fa1d95f3ad5fe998378562d2968">isConceptDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7ed89b8fd01df70d408e1571d145c1c1">isConceptIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a55e8f77f5eb1557c27dad33a4ee24165">isDirDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7abc266c3a59d8d164fe6e05eb2bbd6a55">isDirIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ab520ec9da3284768c754fbbf4e907e08">isEndIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a87c7dab68957c9a53129b71dc0a90635">isExampleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a3c622c2f13fd1e39bf3b1fdad4a2ae2e">isFileDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2f028c6e71fd63fb9e23efb217b8c4a7">isFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a01093bf5aa5f29736aab5a03d438d428">isMainPage</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a56f0fdd7e2c9390989e1075d48ce7bbd">isModuleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a73fc6dc74e3caab626fcb788e489c006">isModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad8796f241437df840983ae62b0ec6bc5">isNamespaceDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ac72f48c94b82bf532b2eb7e9dd1c2345">isNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a41de1f39ac1ee1329a1374b2da6bfc70">isPageDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7af311c10a314387cf7b6310240aa89bb0">isPageDocumentation2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a96414d5dc6d8784abb414cf1b04b3218">isPageIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2d64103a58ee3a5192221119a31dfe28">isTitlePageAuthor</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad91b65ea5e9c3686b3a0078e32d9133f">isTitlePageStart</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aea69f72466bdd3c72c5c6b5bc6ee6cca">isTopicDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7a9b27e109f6dd8dde1ec3139e9c6636">isTopicIndex</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB\_GEN\_C2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a8dab680d3e9e897983a1b9e7968c82c7">isClassDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a5dc0feebd328fce66fdf10940d325c13">isClassHierarchyIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a98d9a43fdd6c458d80251cbb6712f7d5">isCompoundIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aba356fa1d95f3ad5fe998378562d2968">isConceptDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7ed89b8fd01df70d408e1571d145c1c1">isConceptIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a55e8f77f5eb1557c27dad33a4ee24165">isDirDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7abc266c3a59d8d164fe6e05eb2bbd6a55">isDirIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ab520ec9da3284768c754fbbf4e907e08">isEndIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a87c7dab68957c9a53129b71dc0a90635">isExampleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a3c622c2f13fd1e39bf3b1fdad4a2ae2e">isFileDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2f028c6e71fd63fb9e23efb217b8c4a7">isFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a01093bf5aa5f29736aab5a03d438d428">isMainPage</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a56f0fdd7e2c9390989e1075d48ce7bbd">isModuleDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a73fc6dc74e3caab626fcb788e489c006">isModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad8796f241437df840983ae62b0ec6bc5">isNamespaceDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ac72f48c94b82bf532b2eb7e9dd1c2345">isNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a41de1f39ac1ee1329a1374b2da6bfc70">isPageDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7af311c10a314387cf7b6310240aa89bb0">isPageDocumentation2</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a96414d5dc6d8784abb414cf1b04b3218">isPageIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a2d64103a58ee3a5192221119a31dfe28">isTitlePageAuthor</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7ad91b65ea5e9c3686b3a0078e32d9133f">isTitlePageStart</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7aea69f72466bdd3c72c5c6b5bc6ee6cca">isTopicDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#ac9172d3ad8c8d0ffee55a44e76d507f7a7a9b27e109f6dd8dde1ec3139e9c6636">isTopicIndex</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8289,7 +8415,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8298,7 +8425,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8327,7 +8454,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8336,7 +8464,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -8364,7 +8492,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 308 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 308 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8377,7 +8506,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8405,7 +8534,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 306 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1197 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 306 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1197 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8418,7 +8548,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8446,7 +8576,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 304 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1185 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 304 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1185 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8459,7 +8590,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8488,7 +8619,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8497,7 +8629,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -8526,7 +8658,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8535,7 +8668,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -8563,7 +8696,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 311 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 311 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8575,7 +8709,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -8603,7 +8737,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 315 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1415 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 315 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1415 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8619,7 +8754,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m&#95;tocState</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m\_tocState</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -8648,7 +8783,8 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8657,7 +8793,7 @@ References <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -8686,7 +8822,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8695,7 +8832,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -8723,7 +8860,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 228 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 907 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 228 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 907 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8748,7 +8886,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB&#95;GEN&#95;C2</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6b97803492e067a2f8dd77">addIndexTerm</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB\_GEN\_C2</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a>.
 </div>
 </div>
 
@@ -8776,7 +8914,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 206 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1335 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 206 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1335 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8788,7 +8927,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ac174bf305a6
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -8816,7 +8955,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 279 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 963 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 279 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 963 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8829,7 +8969,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8857,7 +8997,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 277 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1058 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 277 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1058 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8870,7 +9011,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8898,7 +9039,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 302 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1150 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 302 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1150 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8931,7 +9073,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m&#95;simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ad884acf9c276fdecf1912bbc594e9fc6">m\_simpleTable</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -8959,7 +9101,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 224 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 982 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 224 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 982 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8971,7 +9114,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -9000,7 +9143,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9009,7 +9153,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9037,7 +9181,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 972 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 972 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9050,7 +9195,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9078,7 +9223,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9093,7 +9239,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m&#95;inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a854b705e94b366fb3ccf08317bd34b95">m\_inSimpleSect</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -9121,7 +9267,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 214 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 811 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 214 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 811 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9136,7 +9283,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m&#95;inListItem</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#adfc62c799e4573efca9deea8a7b96c31">m\_inListItem</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -9164,7 +9311,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 208 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 208 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9178,7 +9326,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m&#95;levelListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a100d37eb3a12a19bf9be985657fa5fde">m\_levelListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9207,7 +9355,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9216,7 +9365,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9245,7 +9394,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9254,7 +9404,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9282,7 +9432,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 216 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1121 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 216 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1121 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9294,7 +9445,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -9323,7 +9474,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9332,7 +9484,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9361,7 +9513,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9370,7 +9523,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -9398,7 +9551,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 156 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 737 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 156 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 737 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9411,7 +9565,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9439,7 +9593,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 287 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1108 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 287 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1108 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9453,7 +9608,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9481,7 +9636,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 285 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1093 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 285 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1093 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9493,7 +9649,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>.
 </div>
 </div>
 
@@ -9521,7 +9677,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 289 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 289 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9534,7 +9691,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9562,7 +9719,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 283 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1082 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 283 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1082 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9575,7 +9733,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9604,7 +9762,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9613,7 +9772,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9642,7 +9801,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9682,7 +9842,8 @@ Referenced by <a href="#a7a82873f4a7eeacb88ef535768b311f4">startFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9691,7 +9852,7 @@ Referenced by <a href="#a7a82873f4a7eeacb88ef535768b311f4">startFile</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -9720,7 +9881,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9729,7 +9891,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -9757,7 +9919,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 175 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1132 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 175 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1132 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9771,7 +9934,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a9872f2ebb33a85b7fff7268fee91a977">openSection</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
 </div>
 </div>
 
@@ -9800,7 +9963,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9809,7 +9973,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -9837,7 +10001,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 274 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 889 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 274 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 889 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9854,7 +10019,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -9883,7 +10048,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9892,7 +10058,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -9920,7 +10086,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 136 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 136 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9933,7 +10100,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9961,7 +10128,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 317 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 317 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9998,7 +10166,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m&#95;tocState</a>, <a href="#a77480edd4c5054fa1834ff3b2dcd3db5">type</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ad3818ca1a9c067d97176dcbaf7022d9e">SectionInfo::type</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a635b3b16aee9c0fda65d5b21a8ed262f">m\_tocState</a>, <a href="#a77480edd4c5054fa1834ff3b2dcd3db5">type</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ad3818ca1a9c067d97176dcbaf7022d9e">SectionInfo::type</a>.
 </div>
 </div>
 
@@ -10026,7 +10194,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 879 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 879 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10039,7 +10208,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m&#95;denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#a25d65c357f9a9cc5cf12912c2c3c301c">m\_denseText</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10068,7 +10237,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10108,7 +10278,8 @@ Referenced by <a href="#a42a2541faf3a23582c34b87fd29d4f57">endTocEntry</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10117,7 +10288,7 @@ Referenced by <a href="#a42a2541faf3a23582c34b87fd29d4f57">endTocEntry</a> and <
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10145,7 +10316,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1050 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1050 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10161,7 +10333,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="#aea69ff69be259d30ee167aa920746fab">docify</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="#aea69ff69be259d30ee167aa920746fab">docify</a>.
 </div>
 </div>
 
@@ -10189,7 +10361,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 124 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 124 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10207,7 +10380,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m&#95;codeList</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="#a1b13cd581e6888ae2e3819f72902d895">m\_codeList</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10236,7 +10409,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10245,7 +10419,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -10274,7 +10448,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10283,7 +10458,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -10311,7 +10486,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 243 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1406 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 243 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1406 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10327,7 +10503,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d65fcb0f241aab484a38">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -10355,7 +10531,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10369,7 +10546,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#af32154cfef85d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10398,7 +10575,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10407,7 +10585,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10436,7 +10614,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10445,7 +10624,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -10474,7 +10653,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10483,7 +10663,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -10511,7 +10691,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 179 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 869 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 179 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 869 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10524,7 +10705,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10552,7 +10733,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 158 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 158 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10566,7 +10748,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a>.
 </div>
 </div>
 
@@ -10594,7 +10776,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 132 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 132 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10614,7 +10797,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m&#95;pageLinks</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a>, <a href="#aff246cfd65c7cf0982c9b6b39155fc9e">m\_pageLinks</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
 
 Referenced by <a href="#a9a5dbcad360a1ad2a8f9403ae344d638">endIndexSection</a>.
 </div>
@@ -10645,7 +10828,8 @@ Referenced by <a href="#a9a5dbcad360a1ad2a8f9403ae344d638">endIndexSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10654,7 +10838,7 @@ Referenced by <a href="#a9a5dbcad360a1ad2a8f9403ae344d638">endIndexSection</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10683,7 +10867,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10692,7 +10877,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10720,7 +10905,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 165 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 846 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 165 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 846 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10735,7 +10921,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB&#95;GEN&#95;C2</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m&#95;inGroup</a> and <a href="#a90162d4829b02efea15aea7aa9d89d91">m&#95;inLevel</a>.
+References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#ad9e8d60bb28488aa27ff42b3c5907437">DB\_GEN\_C2</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#adeba147b33df197d9e0f917d7cd6580e">m\_inGroup</a> and <a href="#a90162d4829b02efea15aea7aa9d89d91">m\_inLevel</a>.
 </div>
 </div>
 
@@ -10764,7 +10950,8 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10773,7 +10960,7 @@ References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a>, <a hre
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10802,7 +10989,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10811,7 +10999,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10840,7 +11028,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10850,7 +11039,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB&#95;GEN&#95;NEW</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c19426244e6363928f1">DB\_GEN\_NEW</a>.
 </div>
 </div>
 
@@ -10878,7 +11067,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10891,7 +11081,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#a78e3360983610c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB&#95;GEN&#95;C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e232b5aea1600dbfde5c0d">DB\_GEN\_C</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10920,7 +11110,8 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10929,7 +11120,7 @@ References <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#aa904aecb68e
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10958,7 +11149,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10967,7 +11159,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -10996,7 +11188,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11005,7 +11198,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB&#95;GEN&#95;EMPTY</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be45a134b9b84d4e9c94">DB\_GEN\_EMPTY</a>.
 </div>
 </div>
 
@@ -11034,7 +11227,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 326 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1398 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 326 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1398 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -11049,7 +11243,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/docbookgen-h/#aabdfe0663066be
 </div>
 
 
-References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a> and <a href="#aee5e536b056fc4c7a6cce79f9175538d">m&#95;openSectionCount</a>.
+References <a href="#afae8cb3fd84db1e998a4f03433c1493b">closeSection</a> and <a href="#aee5e536b056fc4c7a6cce79f9175538d">m\_openSectionCount</a>.
 
 Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>.
 </div>
@@ -11074,7 +11268,8 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 325 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1392 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 325 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1392 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -11087,7 +11282,7 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>.
 </div>
 
 
-References <a href="#aee5e536b056fc4c7a6cce79f9175538d">m&#95;openSectionCount</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#aee5e536b056fc4c7a6cce79f9175538d">m\_openSectionCount</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>, <a href="#ac3c2a2d5f7ee268ca127a30fcaa78fe0">endSection</a>, <a href="#ab575d0e0e347d711d242bdc7fd8c7648">startDoxyAnchor</a>, <a href="#ac651122c0ac17ea4be13f8a4d71c3efa">startGroupHeader</a> and <a href="#a0332a478a833682cf5d2c547a8397973">writeRuler</a>.
 </div>
@@ -11112,7 +11307,8 @@ Referenced by <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 324 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1384 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 324 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 1384 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -11127,7 +11323,7 @@ Referenced by <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>,
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m&#95;openSectionCount</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aee5e536b056fc4c7a6cce79f9175538d">m\_openSectionCount</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#ac651122c0ac17ea4be13f8a4d71c3efa">startGroupHeader</a>, <a href="#a8ae15cadac821acb3d6ecfb6c541d6b9">startMemberDoc</a> and <a href="#aa0fe01b830ddb0d899e151aa389087c8">startSection</a>.
 </div>
@@ -11139,7 +11335,7 @@ Referenced by <a href="#ac651122c0ac17ea4be13f8a4d71c3efa">startGroupHeader</a>,
 
 ## Private Member Attributes
 
-### m&#95;codeGen {#a3ab50737477df1d37de25615f4bb4f6a}
+### m\_codeGen {#a3ab50737477df1d37de25615f4bb4f6a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11158,7 +11354,8 @@ Referenced by <a href="#ac651122c0ac17ea4be13f8a4d71c3efa">startGroupHeader</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11171,7 +11368,7 @@ Referenced by <a href="#a45427ad8a509ed14c5f6c1ef1a64e5d7">addCodeGen</a>, <a hr
 </div>
 </div>
 
-### m&#95;codeList {#a1b13cd581e6888ae2e3819f72902d895}
+### m\_codeList {#a1b13cd581e6888ae2e3819f72902d895}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11190,7 +11387,8 @@ Referenced by <a href="#a45427ad8a509ed14c5f6c1ef1a64e5d7">addCodeGen</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11203,7 +11401,7 @@ Referenced by <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;denseText {#a25d65c357f9a9cc5cf12912c2c3c301c}
+### m\_denseText {#a25d65c357f9a9cc5cf12912c2c3c301c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11222,7 +11420,8 @@ Referenced by <a href="#a59655593be449f9e01ce953a72233de0">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11235,7 +11434,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;descTable {#a207ad156ddb389309522fc4c6998bc3f}
+### m\_descTable {#a207ad156ddb389309522fc4c6998bc3f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11254,7 +11453,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11267,7 +11467,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;firstMember {#a81a6b8b5249d6aa1144eb15cd75ea019}
+### m\_firstMember {#a81a6b8b5249d6aa1144eb15cd75ea019}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11286,7 +11486,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11299,7 +11500,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;inGroup {#adeba147b33df197d9e0f917d7cd6580e}
+### m\_inGroup {#adeba147b33df197d9e0f917d7cd6580e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11318,7 +11519,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11331,7 +11533,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;inLevel {#a90162d4829b02efea15aea7aa9d89d91}
+### m\_inLevel {#a90162d4829b02efea15aea7aa9d89d91}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11350,7 +11552,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11363,7 +11566,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;inListItem {#adfc62c799e4573efca9deea8a7b96c31}
+### m\_inListItem {#adfc62c799e4573efca9deea8a7b96c31}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11382,7 +11585,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11395,7 +11599,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;inSimpleSect {#a854b705e94b366fb3ccf08317bd34b95}
+### m\_inSimpleSect {#a854b705e94b366fb3ccf08317bd34b95}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11414,7 +11618,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11427,7 +11632,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;levelListItem {#a100d37eb3a12a19bf9be985657fa5fde}
+### m\_levelListItem {#a100d37eb3a12a19bf9be985657fa5fde}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11446,7 +11651,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11459,7 +11665,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;openSectionCount {#aee5e536b056fc4c7a6cce79f9175538d}
+### m\_openSectionCount {#aee5e536b056fc4c7a6cce79f9175538d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11478,7 +11684,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11491,7 +11698,7 @@ Referenced by <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>,
 </div>
 </div>
 
-### m&#95;pageLinks {#aff246cfd65c7cf0982c9b6b39155fc9e}
+### m\_pageLinks {#aff246cfd65c7cf0982c9b6b39155fc9e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11510,7 +11717,8 @@ Referenced by <a href="#a9c26ae654351124ba44d61d231fd6836">closeAllSections</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11523,7 +11731,7 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>, <a href=
 </div>
 </div>
 
-### m&#95;simpleTable {#ad884acf9c276fdecf1912bbc594e9fc6}
+### m\_simpleTable {#ad884acf9c276fdecf1912bbc594e9fc6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11542,7 +11750,8 @@ Referenced by <a href="#aefb08482f742251ae543aeb57983b335">endFile</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11555,7 +11764,7 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 </div>
 </div>
 
-### m&#95;tocState {#a635b3b16aee9c0fda65d5b21a8ed262f}
+### m\_tocState {#a635b3b16aee9c0fda65d5b21a8ed262f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -11574,7 +11783,8 @@ Referenced by <a href="#a73bc1589590acfa468910e82d66d0a91">DocbookGenerator</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11606,7 +11816,8 @@ Referenced by <a href="#a74c7072c37b0f6ca58f077b0cdd0242e">endLocalToc</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
+Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -11649,7 +11860,8 @@ Referenced by <a href="#aab1ce69f9718b3c1e05f6c1b697664e4">endCallGraph</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.</p>
+
+Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -11668,7 +11880,7 @@ Referenced by <a href="#aab1ce69f9718b3c1e05f6c1b697664e4">endCallGraph</a>, <a 
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a77685956f8517f3a6e062e66925fc93c">createSubDirs</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a77685956f8517f3a6e062e66925fc93c">createSubDirs</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
 </div>
@@ -11678,7 +11890,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docbookgen-cpp">docbookgen.cpp</a></li>

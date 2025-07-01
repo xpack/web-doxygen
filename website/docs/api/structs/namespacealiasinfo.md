@@ -82,7 +82,7 @@ struct NamespaceAliasInfo { ... }
 </table>
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -112,7 +112,8 @@ struct NamespaceAliasInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -150,7 +151,8 @@ References <a href="#a7943caa7e956159237156950939a6fc7">alias</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -182,7 +184,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a></li>

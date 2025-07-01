@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DefineManager` Class Reference
 
-<p>Class that manages the defines available while preprocessing files. <a href="#details">More...</a></p>
+Class that manages the defines available while preprocessing files. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -113,7 +113,7 @@ class DefineManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper function to return the <a href="/web-doxygen/docs/api/classes/definemanager/definesperfile">DefinesPerFile</a> object for a given file name. <a href="#af28f29db081594e4c5adbf2894075669">More...</a></p>
+Helper function to return the <a href="/web-doxygen/docs/api/classes/definemanager/definesperfile">DefinesPerFile</a> object for a given file name. <a href="#af28f29db081594e4c5adbf2894075669">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -143,9 +143,9 @@ class DefineManager { ... }
 
 ## Description {#details}
 
-<p>Class that manages the defines available while preprocessing files.</p>
+Class that manages the defines available while preprocessing files.
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxySectionDef">
 
@@ -169,7 +169,8 @@ class DefineManager { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -210,7 +211,8 @@ class DefineManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -229,7 +231,7 @@ class DefineManager { ... }
 </div>
 
 
-Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
+Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m\_fileMap</a>.
 </div>
 </div>
 
@@ -257,7 +259,8 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -274,7 +277,7 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 </div>
 
 
-Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
+Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m\_fileMap</a>.
 </div>
 </div>
 
@@ -302,7 +305,8 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -320,7 +324,7 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 </div>
 
 
-Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
+Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m\_fileMap</a>.
 </div>
 </div>
 
@@ -348,7 +352,8 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -366,7 +371,7 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 </div>
 
 
-Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
+Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m\_fileMap</a>.
 </div>
 </div>
 
@@ -398,9 +403,10 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Helper function to return the <a href="/web-doxygen/docs/api/classes/definemanager/definesperfile">DefinesPerFile</a> object for a given file name.</p>
 
-<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Helper function to return the <a href="/web-doxygen/docs/api/classes/definemanager/definesperfile">DefinesPerFile</a> object for a given file name.
+
+Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -413,7 +419,7 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 </div>
 
 
-Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
+Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m\_fileMap</a>.
 </div>
 </div>
 
@@ -423,7 +429,7 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 
 ## Private Member Attributes
 
-### m&#95;fileMap {#ac670534f6d2a7daa296964c0ce91d216}
+### m\_fileMap {#ac670534f6d2a7daa296964c0ce91d216}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -442,7 +448,8 @@ Reference <a href="#ac670534f6d2a7daa296964c0ce91d216">m&#95;fileMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -459,7 +466,7 @@ Referenced by <a href="#a6cc40994ee9d3b5678232061d9d005a8">addInclude</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a></li>

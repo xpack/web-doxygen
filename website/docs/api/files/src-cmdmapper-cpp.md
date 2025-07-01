@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a></p>
+Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;cmdMap {#a5d85f7996a748b07426a2a96a87eb287}
+### g\_cmdMap {#a5d85f7996a748b07426a2a96a87eb287}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -131,7 +131,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 18 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 18 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -286,7 +287,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### g&#95;cmdMapper {#aa088b30c3ac7640e4c8cfb125e4bd6e6}
+### g\_cmdMapper {#aa088b30c3ac7640e4c8cfb125e4bd6e6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -310,11 +311,12 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 </div>
 </div>
 
-### g&#95;htmlTagMap {#a0d6e4453d528b2de1355edaafcc1853f}
+### g\_htmlTagMap {#a0d6e4453d528b2de1355edaafcc1853f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -338,7 +340,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -424,7 +427,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### g&#95;htmlTagMapper {#ad0bcba33ac06a2623c8bdaca5b36a7b2}
+### g\_htmlTagMapper {#ad0bcba33ac06a2623c8bdaca5b36a7b2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -448,7 +451,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 </div>
 </div>
 

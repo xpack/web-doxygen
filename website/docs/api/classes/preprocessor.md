@@ -120,7 +120,7 @@ class Preprocessor { ... }
 </table>
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>.
 
 <div class="doxySectionDef">
 
@@ -145,7 +145,8 @@ class Preprocessor { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4000 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4000 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -168,7 +169,7 @@ References <a href="#adfc55933ed845c9b089f305b365d8e6b">addSearchDir</a> and <a 
 
 ## Public Destructor
 
-### ~Preprocessor() {#a3c16724bc9e18b12a45f5a7fe2752b1b}
+### \~Preprocessor() {#a3c16724bc9e18b12a45f5a7fe2752b1b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -187,7 +188,8 @@ References <a href="#adfc55933ed845c9b089f305b365d8e6b">addSearchDir</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4006 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4006 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -228,7 +230,8 @@ Reference <a href="#afa129d4a1fdbf2e8afc644aac43b7da8">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 3993 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 3993 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -267,7 +270,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4011 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>, definition at line 4011 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -434,7 +438,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a96730086e79b6790b6269d07152a1735">forceEndCondSection</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#afa74555c39c3f592f0d6113ba0dc6aa9">g&#95;debugMutex</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#abbb87735f2e6370eeb5934dc1476cd7b">g&#95;updateGlobals</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8aaf0b778b0e0af69011f06c8734fdb891">ImportLocalObjC</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a850b5d27cd4e40d0405c4b7a0d76ab94">ImportSystemObjC</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ab0ead0aebf84f57889aab39d528f34b4">IncludeSystem</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da2a1f7084203db5870663c8778d215ad8">Debug::Lex&#95;pre</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ac6caf5a4de22f8ae50c8abb089aa6f19">Doxygen::macroDefinitions</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da1e4864dcfb33d0155b7c8b2506fa7c62">Debug::NoLineNo</a>, <a href="#afa129d4a1fdbf2e8afc644aac43b7da8">p</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daec63880706f2286cd7ca9057bf407e2f">Debug::Preprocessor</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a3cd40076f3904d6c6ea657b00df39cc6">setFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a96730086e79b6790b6269d07152a1735">forceEndCondSection</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#afa74555c39c3f592f0d6113ba0dc6aa9">g\_debugMutex</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#abbb87735f2e6370eeb5934dc1476cd7b">g\_updateGlobals</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8aaf0b778b0e0af69011f06c8734fdb891">ImportLocalObjC</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a850b5d27cd4e40d0405c4b7a0d76ab94">ImportSystemObjC</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8ab0ead0aebf84f57889aab39d528f34b4">IncludeSystem</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da2a1f7084203db5870663c8778d215ad8">Debug::Lex\_pre</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ac6caf5a4de22f8ae50c8abb089aa6f19">Doxygen::macroDefinitions</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da1e4864dcfb33d0155b7c8b2506fa7c62">Debug::NoLineNo</a>, <a href="#afa129d4a1fdbf2e8afc644aac43b7da8">p</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daec63880706f2286cd7ca9057bf407e2f">Debug::Preprocessor</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a3cd40076f3904d6c6ea657b00df39cc6">setFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.
 </div>
@@ -465,7 +469,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -474,7 +479,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 </div>
 
 
-Referenced by <a href="#adfc55933ed845c9b089f305b365d8e6b">addSearchDir</a>, <a href="#ada966c8b83e7c3bcd8759549c3cdf688">Preprocessor</a>, <a href="#ab3f6062c1f94727e3d51963720d13417">processFile</a> and <a href="#a3c16724bc9e18b12a45f5a7fe2752b1b">~Preprocessor</a>.
+Referenced by <a href="#adfc55933ed845c9b089f305b365d8e6b">addSearchDir</a>, <a href="#ada966c8b83e7c3bcd8759549c3cdf688">Preprocessor</a>, <a href="#ab3f6062c1f94727e3d51963720d13417">processFile</a> and <a href="#a3c16724bc9e18b12a45f5a7fe2752b1b">\~Preprocessor</a>.
 </div>
 </div>
 
@@ -482,7 +487,7 @@ Referenced by <a href="#adfc55933ed845c9b089f305b365d8e6b">addSearchDir</a>, <a 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-h">pre.h</a></li>

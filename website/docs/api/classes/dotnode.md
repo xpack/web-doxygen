@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotNode` Class Reference
 
-<p>A node in a dot graph. <a href="#details">More...</a></p>
+A node in a dot graph. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -592,7 +592,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>label text <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">More...</a></p>
+label text <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -606,7 +606,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>node's tooltip <a href="#a1cd471e954ba6e4bdd9060787da53286">More...</a></p>
+node's tooltip <a href="#a1cd471e954ba6e4bdd9060787da53286">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -620,7 +620,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>url of the node (format: remote$local) <a href="#afeafe76686b1e932aacbd7e9e854ff26">More...</a></p>
+url of the node (format: remote$local) <a href="#afeafe76686b1e932aacbd7e9e854ff26">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -634,7 +634,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>list of parent nodes (incoming arrows) <a href="#aa397d81f5f600725c2a98d77e3f27908">More...</a></p>
+list of parent nodes (incoming arrows) <a href="#aa397d81f5f600725c2a98d77e3f27908">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -648,7 +648,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>list of child nodes (outgoing arrows) <a href="#ac1234b87999769323c75747182e7b9d1">More...</a></p>
+list of child nodes (outgoing arrows) <a href="#ac1234b87999769323c75747182e7b9d1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -662,7 +662,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>edge info for each child <a href="#a761040a5361299f900b49c35c2462382">More...</a></p>
+edge info for each child <a href="#a761040a5361299f900b49c35c2462382">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -676,7 +676,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>used to mark a node as deleted <a href="#ae08bcf1483374985a785829e702b4f0d">More...</a></p>
+used to mark a node as deleted <a href="#ae08bcf1483374985a785829e702b4f0d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -690,7 +690,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>used to mark a node as written <a href="#a53c2882a93930d9fc813d4e6152aa475">More...</a></p>
+used to mark a node as written <a href="#a53c2882a93930d9fc813d4e6152aa475">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -704,7 +704,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>used to mark a node as documented <a href="#a3911b863e988573b48bd22cb81c49829">More...</a></p>
+used to mark a node as documented <a href="#a3911b863e988573b48bd22cb81c49829">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -718,7 +718,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>indicates if this is a root node <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">More...</a></p>
+indicates if this is a root node <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -732,7 +732,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>class representing this node (can be 0) <a href="#acad63761d0fcce398f2d8a663fd1cfa8">More...</a></p>
+class representing this node (can be 0) <a href="#acad63761d0fcce398f2d8a663fd1cfa8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -746,7 +746,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>is the node visible in the output <a href="#ab092b4fec02c4420c518ad325cc4b175">More...</a></p>
+is the node visible in the output <a href="#ab092b4fec02c4420c518ad325cc4b175">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -760,7 +760,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>does the node have non-visible children/parents <a href="#a408a1095014b55475e7138d861597b69">More...</a></p>
+does the node have non-visible children/parents <a href="#a408a1095014b55475e7138d861597b69">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -774,7 +774,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>shortest path to the root node <a href="#a7792be9d15ff8fc45863bce185e3e328">More...</a></p>
+shortest path to the root node <a href="#a7792be9d15ff8fc45863bce185e3e328">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -788,7 +788,7 @@ class DotNode { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>indicates if the node has been renumbered (to prevent endless loops) <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">More...</a></p>
+indicates if the node has been renumbered (to prevent endless loops) <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -863,9 +863,9 @@ class DotNode { ... }
 
 ## Description {#details}
 
-<p>A node in a dot graph.</p>
+A node in a dot graph.
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -894,6 +894,7 @@ class DotNode { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -901,24 +902,24 @@ class DotNode { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Plain<a id="acd975dffca58fc0d6bbcae4b37e280eda4cd8413207629a963225f4314b53adcd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">List<a id="acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Table<a id="acd975dffca58fc0d6bbcae4b37e280eda51c45b795d5d18a3e4e0c37e8b20a141"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -947,6 +948,7 @@ class DotNode { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -954,24 +956,24 @@ class DotNode { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Unknown<a id="ac40de94762a7659599b2056942373102adba69679a9bcc9333c7165d4e7bdade0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Truncated<a id="ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Untruncated<a id="ac40de94762a7659599b2056942373102aa2b953f9ab3592ebf7903ff35643eb60"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1007,7 +1009,8 @@ class DotNode { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1026,7 +1029,7 @@ class DotNode { ... }
 </div>
 
 
-References <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m&#95;classDef</a>, <a href="#aeb54967e727ba0255965c24265cfb376">m&#95;graph</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m&#95;isRoot</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#a1cd471e954ba6e4bdd9060787da53286">m&#95;tooltip</a> and <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>.
+References <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m\_classDef</a>, <a href="#aeb54967e727ba0255965c24265cfb376">m\_graph</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m\_isRoot</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#a1cd471e954ba6e4bdd9060787da53286">m\_tooltip</a> and <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>.
 
 Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href="#a98f7fc0d1caa3e53622039e86903b04e">addParent</a>, <a href="#a748649462fd72baa804eccd77fcfa612">deleteNodes</a>, <a href="#a05f42851921caf9442ed2c4e4468b695">findParent</a>, <a href="#a543c8aa7d944877ff050dbdb9bbfd7db">markAsTruncated</a>, <a href="#a92bc5bd51995cf7afba4f94f895e0ce7">markHasDocumentation</a>, <a href="#a62686e145c94129d85409214fb3e0571">removeChild</a>, <a href="#a2a36f34067293e7428ae7ea527678fee">removeParent</a>, <a href="#ae1dc99d158ddb9a5ce63dda67ea843f5">setNodeId</a> and <a href="#aeb01acd1ef9dbeb87e35e7eae24143b1">writeArrow</a>.
 </div>
@@ -1057,7 +1060,8 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1081,7 +1085,7 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a> and <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a> and <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3dc8a968c4db08dcfc1863">DotClassGraph::addClass</a>, <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a45107701951da66c41e13c127fc1e6e6">DotGfxHierarchyTable::addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a0fe67fd46cab2683e2d10271f90bfb2a">DotCallGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095a13ae269eb1a17631909f06">DotInclDepGraph::buildGraph</a>.
 </div>
@@ -1106,7 +1110,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1118,7 +1123,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3dc8a968c4db08dcfc1863">DotClassGraph::addClass</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a0fe67fd46cab2683e2d10271f90bfb2a">DotCallGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095a13ae269eb1a17631909f06">DotInclDepGraph::buildGraph</a>.
 </div>
@@ -1148,7 +1153,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1157,7 +1163,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 </div>
 
 
-Reference <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>.
+Reference <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a45107701951da66c41e13c127fc1e6e6">DotGfxHierarchyTable::addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c5f7d8ed348daed0e44dc">DotCallGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a94ed71ea8772865ed1f494bcedbb9b9f">DotClassGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a8aa3c90f1ef0858e708cb5636e9ed73b">DotInclDepGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf627bb7ebb4771ad47fcfbc">DotCallGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a1a4d42a2191cbdac155f1f9b67c4bfb5">DotInclDepGraph::determineVisibleNodes</a> and <a href="#a261123fa5550fbc2dd3b146e18f9f221">write</a>.
 </div>
@@ -1182,7 +1188,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a4510
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 888 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 888 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1196,7 +1203,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a4510
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a> and <a href="#a53c2882a93930d9fc813d4e6152aa475">m&#95;written</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a> and <a href="#a53c2882a93930d9fc813d4e6152aa475">m\_written</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a>.
 </div>
@@ -1221,7 +1228,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 895 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 895 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1253,7 +1261,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 </div>
 
 
-References <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>.
+References <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>.
 </div>
 </div>
 
@@ -1276,7 +1284,8 @@ References <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1301,7 +1310,7 @@ References <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a> and <
 </div>
 
 
-References <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#ae08bcf1483374985a785829e702b4f0d">m&#95;deleted</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#ae08bcf1483374985a785829e702b4f0d">m\_deleted</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a748649462fd72baa804eccd77fcfa612">deleteNodes</a>.
 </div>
@@ -1331,7 +1340,8 @@ Referenced by <a href="#a748649462fd72baa804eccd77fcfa612">deleteNodes</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1340,7 +1350,7 @@ Referenced by <a href="#a748649462fd72baa804eccd77fcfa612">deleteNodes</a>.
 </div>
 
 
-Reference <a href="#a7792be9d15ff8fc45863bce185e3e328">m&#95;distance</a>.
+Reference <a href="#a7792be9d15ff8fc45863bce185e3e328">m\_distance</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf627bb7ebb4771ad47fcfbc">DotCallGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a1a4d42a2191cbdac155f1f9b67c4bfb5">DotInclDepGraph::determineVisibleNodes</a> and <a href="#a21956cf8ee9e3f8b750c221f6d00ee84">setDistance</a>.
 </div>
@@ -1370,7 +1380,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf62
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1379,7 +1390,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf62
 </div>
 
 
-Reference <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>.
+Reference <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>.
 
 Referenced by <a href="#a0332e2befe926de95b367c391a0ac70c">writeDEF</a>, <a href="#a4be56bbbeefd5d44b58d28f05c446725">writeDocbook</a> and <a href="#aed2051e58bce93b9250b99108a77ae00">writeXML</a>.
 </div>
@@ -1409,7 +1420,8 @@ Referenced by <a href="#a0332e2befe926de95b367c391a0ac70c">writeDEF</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1422,7 +1434,7 @@ Referenced by <a href="#a0332e2befe926de95b367c391a0ac70c">writeDEF</a>, <a href
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>.
 </div>
 </div>
 
@@ -1450,7 +1462,8 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1459,7 +1472,7 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 </div>
 
 
-Reference <a href="#a3911b863e988573b48bd22cb81c49829">m&#95;hasDoc</a>.
+Reference <a href="#a3911b863e988573b48bd22cb81c49829">m\_hasDoc</a>.
 </div>
 </div>
 
@@ -1487,7 +1500,8 @@ Reference <a href="#a3911b863e988573b48bd22cb81c49829">m&#95;hasDoc</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1496,7 +1510,7 @@ Reference <a href="#a3911b863e988573b48bd22cb81c49829">m&#95;hasDoc</a>.
 </div>
 
 
-Reference <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">m&#95;renumbered</a>.
+Reference <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">m\_renumbered</a>.
 
 Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
@@ -1526,7 +1540,8 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1535,7 +1550,7 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
 
 
-Reference <a href="#a408a1095014b55475e7138d861597b69">m&#95;truncated</a>.
+Reference <a href="#a408a1095014b55475e7138d861597b69">m\_truncated</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c5f7d8ed348daed0e44dc">DotCallGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a94ed71ea8772865ed1f494bcedbb9b9f">DotClassGraph::determineTruncatedNodes</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a8aa3c90f1ef0858e708cb5636e9ed73b">DotInclDepGraph::determineTruncatedNodes</a>.
 </div>
@@ -1565,7 +1580,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1574,7 +1590,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 </div>
 
 
-Reference <a href="#ab092b4fec02c4420c518ad325cc4b175">m&#95;visible</a>.
+Reference <a href="#ab092b4fec02c4420c518ad325cc4b175">m\_visible</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c5f7d8ed348daed0e44dc">DotCallGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a94ed71ea8772865ed1f494bcedbb9b9f">DotClassGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a8aa3c90f1ef0858e708cb5636e9ed73b">DotInclDepGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf627bb7ebb4771ad47fcfbc">DotCallGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a1a4d42a2191cbdac155f1f9b67c4bfb5">DotInclDepGraph::determineVisibleNodes</a>.
 </div>
@@ -1604,7 +1620,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1613,7 +1630,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 </div>
 
 
-Reference <a href="#a53c2882a93930d9fc813d4e6152aa475">m&#95;written</a>.
+Reference <a href="#a53c2882a93930d9fc813d4e6152aa475">m\_written</a>.
 </div>
 </div>
 
@@ -1641,7 +1658,8 @@ Reference <a href="#a53c2882a93930d9fc813d4e6152aa475">m&#95;written</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1650,7 +1668,7 @@ Reference <a href="#a53c2882a93930d9fc813d4e6152aa475">m&#95;written</a>.
 </div>
 
 
-Reference <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>.
+Reference <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a>.
 </div>
@@ -1680,7 +1698,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce726
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1689,7 +1708,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce726
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a408a1095014b55475e7138d861597b69">m&#95;truncated</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a> and <a href="#ac40de94762a7659599b2056942373102aa2b953f9ab3592ebf7903ff35643eb60">Untruncated</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a408a1095014b55475e7138d861597b69">m\_truncated</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a> and <a href="#ac40de94762a7659599b2056942373102aa2b953f9ab3592ebf7903ff35643eb60">Untruncated</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c5f7d8ed348daed0e44dc">DotCallGraph::determineTruncatedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a94ed71ea8772865ed1f494bcedbb9b9f">DotClassGraph::determineTruncatedNodes</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a8aa3c90f1ef0858e708cb5636e9ed73b">DotInclDepGraph::determineTruncatedNodes</a>.
 </div>
@@ -1719,7 +1738,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1728,7 +1748,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#aebbdfe5eff5c
 </div>
 
 
-References <a href="#ab092b4fec02c4420c518ad325cc4b175">m&#95;visible</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab092b4fec02c4420c518ad325cc4b175">m\_visible</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#ab6cc9aafe7eb910bca59ef9cea2dff14">DotGroupCollaboration::addCollaborationMember</a>, <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#af3afda59cf627bb7ebb4771ad47fcfbc">DotCallGraph::determineVisibleNodes</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#a1a4d42a2191cbdac155f1f9b67c4bfb5">DotInclDepGraph::determineVisibleNodes</a>.
 </div>
@@ -1758,7 +1778,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#ab6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1767,7 +1788,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#ab6c
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#a3911b863e988573b48bd22cb81c49829">m&#95;hasDoc</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#a3911b863e988573b48bd22cb81c49829">m\_hasDoc</a>.
 </div>
 </div>
 
@@ -1795,7 +1816,8 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1804,7 +1826,7 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 </div>
 
 
-Reference <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">m&#95;renumbered</a>.
+Reference <a href="#a8debf620e1d23ba12a2255d7ff7b8d32">m\_renumbered</a>.
 
 Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
@@ -1834,7 +1856,8 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1843,7 +1866,7 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
 
 
-Reference <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>.
+Reference <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>.
 
 Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>, <a href="#ae1dc99d158ddb9a5ce63dda67ea843f5">setNodeId</a> and <a href="#aeb01acd1ef9dbeb87e35e7eae24143b1">writeArrow</a>.
 </div>
@@ -1873,7 +1896,8 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1882,7 +1906,7 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>, <a
 </div>
 
 
-Reference <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>.
+Reference <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a94ed71ea8772865ed1f494bcedbb9b9f">DotClassGraph::determineTruncatedNodes</a> and <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a71cb7cce72603b64606e7897c3b90e0b">DotClassGraph::determineVisibleNodes</a>.
 </div>
@@ -1907,7 +1931,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1920,7 +1945,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>.
 </div>
 </div>
 
@@ -1943,7 +1968,8 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1956,7 +1982,7 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>.
 </div>
 </div>
 
@@ -1979,7 +2005,8 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 922 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 922 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2016,7 +2043,7 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a href=
 </div>
 
 
-References <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>, <a href="#a1d245f9612e50c197d2df5392bfae2bb">markRenumbered</a>, <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a946942fcd286a1fa51650603fa75b89a">subgraphId</a>.
+References <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>, <a href="#a1d245f9612e50c197d2df5392bfae2bb">markRenumbered</a>, <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a946942fcd286a1fa51650603fa75b89a">subgraphId</a>.
 </div>
 </div>
 
@@ -2039,7 +2066,8 @@ References <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2051,7 +2079,7 @@ References <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a>, <a hre
 </div>
 
 
-References <a href="#a196e6efc147272506e3e0564dfe47bfe">distance</a> and <a href="#a7792be9d15ff8fc45863bce185e3e328">m&#95;distance</a>.
+References <a href="#a196e6efc147272506e3e0564dfe47bfe">distance</a> and <a href="#a7792be9d15ff8fc45863bce185e3e328">m\_distance</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3dc8a968c4db08dcfc1863">DotClassGraph::addClass</a>, <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a0fe67fd46cab2683e2d10271f90bfb2a">DotCallGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095a13ae269eb1a17631909f06">DotInclDepGraph::buildGraph</a>.
 </div>
@@ -2081,7 +2109,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2090,7 +2119,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 </div>
 
 
-References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a> and <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>.
+References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a> and <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>.
 </div>
 </div>
 
@@ -2118,7 +2147,8 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2127,7 +2157,7 @@ References <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="#a
 </div>
 
 
-Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m&#95;subgraphId</a>.
+Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m\_subgraphId</a>.
 </div>
 </div>
 
@@ -2155,7 +2185,8 @@ Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m&#95;subgraphId</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2164,7 +2195,7 @@ Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m&#95;subgraphId</a>.
 </div>
 
 
-Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m&#95;subgraphId</a>.
+Reference <a href="#afa257c0a638d14c60ba4714df5a9845b">m\_subgraphId</a>.
 
 Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
@@ -2189,7 +2220,8 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2247,7 +2279,7 @@ Referenced by <a href="#a4e9da1f53e500d73aa8997ead79093fb">renumberNodes</a>.
 </div>
 
 
-References <a href="#ad8b1f38e1403f73fc4f8745b5fbe00c9">children</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m&#95;parents</a>, <a href="#a408a1095014b55475e7138d861597b69">m&#95;truncated</a>, <a href="#ab092b4fec02c4420c518ad325cc4b175">m&#95;visible</a>, <a href="#a53c2882a93930d9fc813d4e6152aa475">m&#95;written</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a>, <a href="#aeb01acd1ef9dbeb87e35e7eae24143b1">writeArrow</a> and <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
+References <a href="#ad8b1f38e1403f73fc4f8745b5fbe00c9">children</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>, <a href="#aa397d81f5f600725c2a98d77e3f27908">m\_parents</a>, <a href="#a408a1095014b55475e7138d861597b69">m\_truncated</a>, <a href="#ab092b4fec02c4420c518ad325cc4b175">m\_visible</a>, <a href="#a53c2882a93930d9fc813d4e6152aa475">m\_written</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a>, <a href="#aeb01acd1ef9dbeb87e35e7eae24143b1">writeArrow</a> and <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a>.
 </div>
@@ -2272,7 +2304,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2330,7 +2363,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/edgeproperties/#a2b2315fe38a4822f4e657c71236fb027">EdgeProperties::arrowStyleMap</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a337e8f4aa741ef97ec3ed8fd7b1accb7">Collaboration</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a9aa86c737a1f46a55567ee172b5a07c9">EdgeInfo::color</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="#a6bc845933b52f07e32502d844a9b2794">convertLabel</a>, <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="/web-doxygen/docs/api/structs/edgeproperties/#ad0c9d3fa5e49b41e92ff95cbf188a5b1">EdgeProperties::edgeColorMap</a>, <a href="/web-doxygen/docs/api/structs/edgeproperties/#a7938928bf27311c0e4acf2c40e0f0510">EdgeProperties::edgeStyleMap</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#abeb235190964a4b359ff9dc1970fb327">EdgeInfo::label</a>, <a href="#aeb54967e727ba0255965c24265cfb376">m&#95;graph</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#a0fbb1be142f0fa3995ad058c3e34a47b">normalEdgeProps</a>, <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a534c4e3b34bb87d6077fc1cb398dd121">EdgeInfo::style</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda51c45b795d5d18a3e4e0c37e8b20a141">Table</a> and <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#a7bcfb1cbfe72252acb0e3c103189c105">umlEdgeProps</a>.
+References <a href="/web-doxygen/docs/api/structs/edgeproperties/#a2b2315fe38a4822f4e657c71236fb027">EdgeProperties::arrowStyleMap</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a337e8f4aa741ef97ec3ed8fd7b1accb7">Collaboration</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a9aa86c737a1f46a55567ee172b5a07c9">EdgeInfo::color</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a6bc845933b52f07e32502d844a9b2794">convertLabel</a>, <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href="/web-doxygen/docs/api/structs/edgeproperties/#ad0c9d3fa5e49b41e92ff95cbf188a5b1">EdgeProperties::edgeColorMap</a>, <a href="/web-doxygen/docs/api/structs/edgeproperties/#a7938928bf27311c0e4acf2c40e0f0510">EdgeProperties::edgeStyleMap</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#abeb235190964a4b359ff9dc1970fb327">EdgeInfo::label</a>, <a href="#aeb54967e727ba0255965c24265cfb376">m\_graph</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#a0fbb1be142f0fa3995ad058c3e34a47b">normalEdgeProps</a>, <a href="#a3c08a5ee367bbf4c58c719ff7f8e0fc7">number</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a534c4e3b34bb87d6077fc1cb398dd121">EdgeInfo::style</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda51c45b795d5d18a3e4e0c37e8b20a141">Table</a> and <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#a7bcfb1cbfe72252acb0e3c103189c105">umlEdgeProps</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a> and <a href="#a261123fa5550fbc2dd3b146e18f9f221">write</a>.
 </div>
@@ -2355,7 +2388,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2426,7 +2460,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea60
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotnode-h/#a1833cf88609789ddbebeeb77747e593f">escapeTooltip</a>, <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m&#95;classDef</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m&#95;isRoot</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#a1cd471e954ba6e4bdd9060787da53286">m&#95;tooltip</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="#ae7a5c86a2927e880a7c8413e57275811">writeLabel</a> and <a href="#a1cb314bd0d605efa7019319e3da26870">writeUrl</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotnode-h/#a1833cf88609789ddbebeeb77747e593f">escapeTooltip</a>, <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m\_classDef</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m\_isRoot</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#a1cd471e954ba6e4bdd9060787da53286">m\_tooltip</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="#ae7a5c86a2927e880a7c8413e57275811">writeLabel</a> and <a href="#a1cb314bd0d605efa7019319e3da26870">writeUrl</a>.
 
 Referenced by <a href="#a261123fa5550fbc2dd3b146e18f9f221">write</a>.
 </div>
@@ -2451,7 +2485,8 @@ Referenced by <a href="#a261123fa5550fbc2dd3b146e18f9f221">write</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2514,7 +2549,7 @@ Referenced by <a href="#a261123fa5550fbc2dd3b146e18f9f221">write</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
 </div>
 </div>
 
@@ -2537,7 +2572,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 768 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 768 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2606,7 +2642,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
 </div>
 </div>
 
@@ -2629,7 +2665,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2736,7 +2773,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a337e8f4aa741ef97ec3ed8fd7b1accb7">Collaboration</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config&#95;getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="#a6bc845933b52f07e32502d844a9b2794">convertLabel</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">List</a>, <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m&#95;classDef</a>, <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m&#95;isRoot</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a408a1095014b55475e7138d861597b69">m&#95;truncated</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4cd8413207629a963225f4314b53adcd">Plain</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#aad3d1cd78282b91d3a5d5c91686cb13b">stripProtectionPrefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a> and <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a337e8f4aa741ef97ec3ed8fd7b1accb7">Collaboration</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a6bc845933b52f07e32502d844a9b2794">convertLabel</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">List</a>, <a href="#acad63761d0fcce398f2d8a663fd1cfa8">m\_classDef</a>, <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>, <a href="#a2653bd0cf33ae9b2c8ede6a00df5fa8e">m\_isRoot</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a408a1095014b55475e7138d861597b69">m\_truncated</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4cd8413207629a963225f4314b53adcd">Plain</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#aad3d1cd78282b91d3a5d5c91686cb13b">stripProtectionPrefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ac40de94762a7659599b2056942373102a4bb6a5a03b3707d0819d9c4023b516cd">Truncated</a> and <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a>.
 
 Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 </div>
@@ -2761,7 +2798,8 @@ Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2793,7 +2831,7 @@ Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>, <a href="#ad1c9b1e1192faac2bf956a6a3043be0c">placeholderUrl</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>, <a href="#ad1c9b1e1192faac2bf956a6a3043be0c">placeholderUrl</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>.
 
 Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 </div>
@@ -2818,7 +2856,8 @@ Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2887,7 +2926,7 @@ Referenced by <a href="#a3f65f51eefb97cf188587b56115d973a">writeBox</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m&#95;children</a>, <a href="#a761040a5361299f900b49c35c2462382">m&#95;edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m&#95;label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m&#95;number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m&#95;url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e">EdgeInfo::Blue</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a323a0f1b9913242153ef1f84abb05a60">edgeInfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949">EdgeInfo::Green</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6">EdgeInfo::Grey</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ac1234b87999769323c75747182e7b9d1">m\_children</a>, <a href="#a761040a5361299f900b49c35c2462382">m\_edgeInfo</a>, <a href="#a2e5b698b3f8e557561cf25e7b523ebc9">m\_label</a>, <a href="#a13b1afa66e70ead8d342df1305cc8297">m\_number</a>, <a href="#afeafe76686b1e932aacbd7e9e854ff26">m\_url</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02">EdgeInfo::Orange</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3">EdgeInfo::Orange2</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98">EdgeInfo::Purple</a> and <a href="/web-doxygen/docs/api/classes/edgeinfo/#afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74">EdgeInfo::Red</a>.
 </div>
 </div>
 
@@ -2897,7 +2936,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 
 ## Private Member Attributes
 
-### m&#95;children {#ac1234b87999769323c75747182e7b9d1}
+### m\_children {#ac1234b87999769323c75747182e7b9d1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2914,9 +2953,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>list of child nodes (outgoing arrows)</p>
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+list of child nodes (outgoing arrows)
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2929,7 +2969,7 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 </div>
 </div>
 
-### m&#95;classDef {#acad63761d0fcce398f2d8a663fd1cfa8}
+### m\_classDef {#acad63761d0fcce398f2d8a663fd1cfa8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2946,9 +2986,10 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>class representing this node (can be 0)</p>
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+class representing this node (can be 0)
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2961,7 +3002,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </div>
 </div>
 
-### m&#95;deleted {#ae08bcf1483374985a785829e702b4f0d}
+### m\_deleted {#ae08bcf1483374985a785829e702b4f0d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2978,9 +3019,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>used to mark a node as deleted</p>
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+used to mark a node as deleted
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2993,7 +3035,7 @@ Referenced by <a href="#ae2c044edad92d6008b036ae6c1f97551">deleteNode</a>.
 </div>
 </div>
 
-### m&#95;distance {#a7792be9d15ff8fc45863bce185e3e328}
+### m\_distance {#a7792be9d15ff8fc45863bce185e3e328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3010,9 +3052,10 @@ Referenced by <a href="#ae2c044edad92d6008b036ae6c1f97551">deleteNode</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>shortest path to the root node</p>
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+shortest path to the root node
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3025,7 +3068,7 @@ Referenced by <a href="#a196e6efc147272506e3e0564dfe47bfe">distance</a> and <a h
 </div>
 </div>
 
-### m&#95;edgeInfo {#a761040a5361299f900b49c35c2462382}
+### m\_edgeInfo {#a761040a5361299f900b49c35c2462382}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3042,9 +3085,10 @@ Referenced by <a href="#a196e6efc147272506e3e0564dfe47bfe">distance</a> and <a h
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>edge info for each child</p>
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+edge info for each child
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3057,7 +3101,7 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 </div>
 </div>
 
-### m&#95;graph {#aeb54967e727ba0255965c24265cfb376}
+### m\_graph {#aeb54967e727ba0255965c24265cfb376}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3076,7 +3120,8 @@ Referenced by <a href="#ac54555a412724c31181a40a50213e38e">addChild</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3089,7 +3134,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a hr
 </div>
 </div>
 
-### m&#95;hasDoc {#a3911b863e988573b48bd22cb81c49829}
+### m\_hasDoc {#a3911b863e988573b48bd22cb81c49829}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3106,9 +3151,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a hr
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>used to mark a node as documented</p>
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+used to mark a node as documented
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3121,7 +3167,7 @@ Referenced by <a href="#ac192b74541fe778106f8c17e970dc489">hasDocumentation</a> 
 </div>
 </div>
 
-### m&#95;isRoot {#a2653bd0cf33ae9b2c8ede6a00df5fa8e}
+### m\_isRoot {#a2653bd0cf33ae9b2c8ede6a00df5fa8e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3138,9 +3184,10 @@ Referenced by <a href="#ac192b74541fe778106f8c17e970dc489">hasDocumentation</a> 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>indicates if this is a root node</p>
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+indicates if this is a root node
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3153,7 +3200,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </div>
 </div>
 
-### m&#95;label {#a2e5b698b3f8e557561cf25e7b523ebc9}
+### m\_label {#a2e5b698b3f8e557561cf25e7b523ebc9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3170,9 +3217,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>label text</p>
 
-<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+label text
+
+Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3185,7 +3233,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </div>
 </div>
 
-### m&#95;number {#a13b1afa66e70ead8d342df1305cc8297}
+### m\_number {#a13b1afa66e70ead8d342df1305cc8297}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3204,7 +3252,8 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3217,7 +3266,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </div>
 </div>
 
-### m&#95;parents {#aa397d81f5f600725c2a98d77e3f27908}
+### m\_parents {#aa397d81f5f600725c2a98d77e3f27908}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3234,9 +3283,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>list of parent nodes (incoming arrows)</p>
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+list of parent nodes (incoming arrows)
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3249,7 +3299,7 @@ Referenced by <a href="#a98f7fc0d1caa3e53622039e86903b04e">addParent</a>, <a hre
 </div>
 </div>
 
-### m&#95;renumbered {#a8debf620e1d23ba12a2255d7ff7b8d32}
+### m\_renumbered {#a8debf620e1d23ba12a2255d7ff7b8d32}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3266,9 +3316,10 @@ Referenced by <a href="#a98f7fc0d1caa3e53622039e86903b04e">addParent</a>, <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>indicates if the node has been renumbered (to prevent endless loops)</p>
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+indicates if the node has been renumbered (to prevent endless loops)
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3281,7 +3332,7 @@ Referenced by <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a> and 
 </div>
 </div>
 
-### m&#95;subgraphId {#afa257c0a638d14c60ba4714df5a9845b}
+### m\_subgraphId {#afa257c0a638d14c60ba4714df5a9845b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3300,7 +3351,8 @@ Referenced by <a href="#a778848585e3ab3d63610f568c7299511">isRenumbered</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3313,7 +3365,7 @@ Referenced by <a href="#a54523891e16f0ad2c98f745983f0ed1c">setSubgraphId</a> and
 </div>
 </div>
 
-### m&#95;tooltip {#a1cd471e954ba6e4bdd9060787da53286}
+### m\_tooltip {#a1cd471e954ba6e4bdd9060787da53286}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3330,9 +3382,10 @@ Referenced by <a href="#a54523891e16f0ad2c98f745983f0ed1c">setSubgraphId</a> and
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>node's tooltip</p>
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+node's tooltip
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3345,7 +3398,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a hr
 </div>
 </div>
 
-### m&#95;truncated {#a408a1095014b55475e7138d861597b69}
+### m\_truncated {#a408a1095014b55475e7138d861597b69}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3362,9 +3415,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a> and <a hr
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>does the node have non-visible children/parents</p>
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+does the node have non-visible children/parents
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3377,7 +3431,7 @@ Referenced by <a href="#adcfb83215c88dcdd5c39391547e3882b">isTruncated</a>, <a h
 </div>
 </div>
 
-### m&#95;url {#afeafe76686b1e932aacbd7e9e854ff26}
+### m\_url {#afeafe76686b1e932aacbd7e9e854ff26}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3394,9 +3448,10 @@ Referenced by <a href="#adcfb83215c88dcdd5c39391547e3882b">isTruncated</a>, <a h
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>url of the node (format: remote$local)</p>
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+url of the node (format: remote$local)
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3409,7 +3464,7 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </div>
 </div>
 
-### m&#95;visible {#ab092b4fec02c4420c518ad325cc4b175}
+### m\_visible {#ab092b4fec02c4420c518ad325cc4b175}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3426,9 +3481,10 @@ Referenced by <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>, <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>is the node visible in the output</p>
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+is the node visible in the output
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3441,7 +3497,7 @@ Referenced by <a href="#a9e97a698e9e6460cd7fac782e38f0ce7">isVisible</a>, <a hre
 </div>
 </div>
 
-### m&#95;written {#a53c2882a93930d9fc813d4e6152aa475}
+### m\_written {#a53c2882a93930d9fc813d4e6152aa475}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3458,9 +3514,10 @@ Referenced by <a href="#a9e97a698e9e6460cd7fac782e38f0ce7">isVisible</a>, <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>used to mark a node as written</p>
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+used to mark a node as written
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3503,7 +3560,8 @@ Referenced by <a href="#a27692f33c86a577ad85ab7176539d4de">clearWriteFlag</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3629,7 +3687,7 @@ Referenced by <a href="#a27692f33c86a577ad85ab7176539d4de">clearWriteFlag</a>, <
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">List</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4cd8413207629a963225f4314b53adcd">Plain</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="#acd975dffca58fc0d6bbcae4b37e280eda51c45b795d5d18a3e4e0c37e8b20a141">Table</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">List</a>, <a href="#acd975dffca58fc0d6bbcae4b37e280eda4cd8413207629a963225f4314b53adcd">Plain</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="#acd975dffca58fc0d6bbcae4b37e280eda51c45b795d5d18a3e4e0c37e8b20a141">Table</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>, <a href="/web-doxygen/docs/api/structs/dotgroupcollaboration/edge/#a1f4c832d9b0e56ecdf8f164784623354">DotGroupCollaboration::Edge::write</a>, <a href="#aeb01acd1ef9dbeb87e35e7eae24143b1">writeArrow</a>, <a href="/web-doxygen/docs/api/files/src/dotnode-cpp/#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a> and <a href="#ae7a5c86a2927e880a7c8413e57275811">writeLabel</a>.
 </div>
@@ -3660,9 +3718,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8
 
 
 
-<p>helper function that deletes all nodes in a connected graph, given one of the graph's nodes</p>
 
-<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 405 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+helper function that deletes all nodes in a connected graph, given one of the graph's nodes
+
+Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 405 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3681,7 +3740,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8
 
 References <a href="#ae2c044edad92d6008b036ae6c1f97551">deleteNode</a> and <a href="#a48f504e2687c7ccf1f010ab9a1aeebf3">DotNode</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a3a3d80fa9ab081c5458268636796bfbc">DotCallGraph::~DotCallGraph</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a7cfd0c424567809bb652f0d952f85272">DotClassGraph::~DotClassGraph</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#af16036a50c08251c90de8841af69858a">DotInclDepGraph::~DotInclDepGraph</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a3a3d80fa9ab081c5458268636796bfbc">DotCallGraph::\~DotCallGraph</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a7cfd0c424567809bb652f0d952f85272">DotClassGraph::\~DotClassGraph</a> and <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#af16036a50c08251c90de8841af69858a">DotInclDepGraph::\~DotInclDepGraph</a>.
 </div>
 </div>
 
@@ -3716,7 +3775,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotcallgraph/#a3a3d80fa9ab0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3733,7 +3793,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotlegendgraph/#af02bfaa220
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a></li>

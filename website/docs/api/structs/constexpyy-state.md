@@ -128,7 +128,7 @@ struct constexpYY_state { ... }
 </table>
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxySectionDef">
 
@@ -153,7 +153,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -183,7 +184,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -213,7 +215,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -243,7 +246,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -273,7 +277,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -303,7 +308,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -333,7 +339,8 @@ struct constexpYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -348,7 +355,7 @@ struct constexpYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a></li>

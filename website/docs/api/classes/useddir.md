@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `UsedDir` Class Reference
 
-<p>Usage information of a directory. <a href="#details">More...</a></p>
+Usage information of a directory. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ class UsedDir { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Take up dependency between files. <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">More...</a></p>
+Take up dependency between files. <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,7 @@ class UsedDir { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns true iff any of the dependencies between source and destination files are direct (i.e. <a href="#ac811027be125869ba23da94b5dd631c2">More...</a></p>
+Returns true iff any of the dependencies between source and destination files are direct (i.e. <a href="#ac811027be125869ba23da94b5dd631c2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,7 +127,7 @@ class UsedDir { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns true iff any of the dependencies from the source file to the destination file are directly coming from a file in the source directory (i.e. <a href="#ac799f97624a4a2a3d6698ef82f969591">More...</a></p>
+Returns true iff any of the dependencies from the source file to the destination file are directly coming from a file in the source directory (i.e. <a href="#ac799f97624a4a2a3d6698ef82f969591">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -141,7 +141,7 @@ class UsedDir { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns true iff any of the dependencies from the source file to the destination file are directly targeting a file in the destination directory (i.e. <a href="#a6620a736948a61103b4281aef2a2d59c">More...</a></p>
+Returns true iff any of the dependencies from the source file to the destination file are directly targeting a file in the destination directory (i.e. <a href="#a6620a736948a61103b4281aef2a2d59c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -236,9 +236,9 @@ class UsedDir { ... }
 
 ## Description {#details}
 
-<p>Usage information of a directory.</p>
+Usage information of a directory.
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -263,7 +263,8 @@ class UsedDir { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+
+Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -275,7 +276,7 @@ class UsedDir { ... }
 </div>
 
 
-References <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="#af03eac45e535a65d1d19ae3472503f31">m&#95;dir</a>.
+References <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="#af03eac45e535a65d1d19ae3472503f31">m\_dir</a>.
 </div>
 </div>
 
@@ -302,7 +303,8 @@ References <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="#af
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Take up dependency between files.</p>
+
+Take up dependency between files.
 
 
 <dl class="doxyParamsList">
@@ -311,25 +313,25 @@ References <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="#af
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] srcFd</td>
-<td class="doxyParamItemDescription"><p>dependent file which depends on dstFd</p></td>
+<td class="doxyParamItemDescription">dependent file which depends on dstFd</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] dstFd</td>
-<td class="doxyParamItemDescription"><p>dependee file on which srcFd depends on</p></td>
+<td class="doxyParamItemDescription">dependee file on which srcFd depends on</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] srcDirect</td>
-<td class="doxyParamItemDescription"><p>true iff the source dependency was the direct (not inherited from a sub dir)</p></td>
+<td class="doxyParamItemDescription">true iff the source dependency was the direct (not inherited from a sub dir)</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] dstDirect</td>
-<td class="doxyParamItemDescription"><p>true iff the destination dependency was direct (not inherited from a sub dir)</p></td>
+<td class="doxyParamItemDescription">true iff the destination dependency was direct (not inherited from a sub dir)</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 820 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 820 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -344,7 +346,7 @@ References <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="#af
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filepair/#a4fa66c88e9e7ecd2ad19da2ee00e7808">FilePair::key</a>, <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>, <a href="#a6c178a62064746363c8914dc0fff9df9">m&#95;hasDirectDeps</a>, <a href="#a0f3ef45db59856e42bbc150c837e6106">m&#95;hasDirectDstDeps</a> and <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m&#95;hasDirectSrcDeps</a>.
+References <a href="/web-doxygen/docs/api/classes/filepair/#a4fa66c88e9e7ecd2ad19da2ee00e7808">FilePair::key</a>, <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m\_filePairs</a>, <a href="#a6c178a62064746363c8914dc0fff9df9">m\_hasDirectDeps</a>, <a href="#a0f3ef45db59856e42bbc150c837e6106">m\_hasDirectDstDeps</a> and <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m\_hasDirectSrcDeps</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>.
 </div>
@@ -374,7 +376,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -383,7 +386,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 </div>
 
 
-Reference <a href="#af03eac45e535a65d1d19ae3472503f31">m&#95;dir</a>.
+Reference <a href="#af03eac45e535a65d1d19ae3472503f31">m\_dir</a>.
 
 Referenced by <a href="#ab39375942f8340b04bbd3c471e52f6fb">UsedDir</a>.
 </div>
@@ -413,7 +416,8 @@ Referenced by <a href="#ab39375942f8340b04bbd3c471e52f6fb">UsedDir</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -422,7 +426,7 @@ Referenced by <a href="#ab39375942f8340b04bbd3c471e52f6fb">UsedDir</a>.
 </div>
 
 
-Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
+Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m\_filePairs</a>.
 </div>
 </div>
 
@@ -445,7 +449,8 @@ Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+
+Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -457,7 +462,7 @@ Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
 </div>
 
 
-Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
+Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m\_filePairs</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>.
 </div>
@@ -485,12 +490,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns true iff any of the dependencies between source and destination files are direct (i.e.</p>
+
+Returns true iff any of the dependencies between source and destination files are direct (i.e.
 
 
-<p>not "inherited" from sub directories)</p>
+not "inherited" from sub directories)
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -499,7 +505,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 </div>
 
 
-Reference <a href="#a6c178a62064746363c8914dc0fff9df9">m&#95;hasDirectDeps</a>.
+Reference <a href="#a6c178a62064746363c8914dc0fff9df9">m\_hasDirectDeps</a>.
 </div>
 </div>
 
@@ -525,12 +531,13 @@ Reference <a href="#a6c178a62064746363c8914dc0fff9df9">m&#95;hasDirectDeps</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns true iff any of the dependencies from the source file to the destination file are directly targeting a file in the destination directory (i.e.</p>
+
+Returns true iff any of the dependencies from the source file to the destination file are directly targeting a file in the destination directory (i.e.
 
 
-<p>not inherited via sub directories)</p>
+not inherited via sub directories)
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -539,7 +546,7 @@ Reference <a href="#a6c178a62064746363c8914dc0fff9df9">m&#95;hasDirectDeps</a>.
 </div>
 
 
-Reference <a href="#a0f3ef45db59856e42bbc150c837e6106">m&#95;hasDirectDstDeps</a>.
+Reference <a href="#a0f3ef45db59856e42bbc150c837e6106">m\_hasDirectDstDeps</a>.
 </div>
 </div>
 
@@ -565,12 +572,13 @@ Reference <a href="#a0f3ef45db59856e42bbc150c837e6106">m&#95;hasDirectDstDeps</a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns true iff any of the dependencies from the source file to the destination file are directly coming from a file in the source directory (i.e.</p>
+
+Returns true iff any of the dependencies from the source file to the destination file are directly coming from a file in the source directory (i.e.
 
 
-<p>not inherited via sub directories)</p>
+not inherited via sub directories)
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -579,7 +587,7 @@ Reference <a href="#a0f3ef45db59856e42bbc150c837e6106">m&#95;hasDirectDstDeps</a
 </div>
 
 
-Reference <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m&#95;hasDirectSrcDeps</a>.
+Reference <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m\_hasDirectSrcDeps</a>.
 </div>
 </div>
 
@@ -602,7 +610,8 @@ Reference <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m&#95;hasDirectSrcDeps</a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 828 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+
+Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 828 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -622,7 +631,7 @@ Reference <a href="#ae6af50543bb0ee6b75d2318c3ad5c17e">m&#95;hasDirectSrcDeps</a
 </div>
 
 
-Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
+Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m\_filePairs</a>.
 </div>
 </div>
 
@@ -632,7 +641,7 @@ Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
 
 ## Private Member Attributes
 
-### m&#95;dir {#af03eac45e535a65d1d19ae3472503f31}
+### m\_dir {#af03eac45e535a65d1d19ae3472503f31}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -651,7 +660,8 @@ Reference <a href="#a4f3827076b62dfd2c4ffe56e58e1f59c">m&#95;filePairs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -664,7 +674,7 @@ Referenced by <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="
 </div>
 </div>
 
-### m&#95;filePairs {#a4f3827076b62dfd2c4ffe56e58e1f59c}
+### m\_filePairs {#a4f3827076b62dfd2c4ffe56e58e1f59c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -683,7 +693,8 @@ Referenced by <a href="#a9f9871ef38cb735feebfe0b338ca4e2c">dir</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -696,7 +707,7 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a>, <a hr
 </div>
 </div>
 
-### m&#95;hasDirectDeps {#a6c178a62064746363c8914dc0fff9df9}
+### m\_hasDirectDeps {#a6c178a62064746363c8914dc0fff9df9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -715,7 +726,8 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -728,7 +740,7 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a> and <a
 </div>
 </div>
 
-### m&#95;hasDirectDstDeps {#a0f3ef45db59856e42bbc150c837e6106}
+### m\_hasDirectDstDeps {#a0f3ef45db59856e42bbc150c837e6106}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -747,7 +759,8 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -760,7 +773,7 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a> and <a
 </div>
 </div>
 
-### m&#95;hasDirectSrcDeps {#ae6af50543bb0ee6b75d2318c3ad5c17e}
+### m\_hasDirectSrcDeps {#ae6af50543bb0ee6b75d2318c3ad5c17e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -779,7 +792,8 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -796,7 +810,7 @@ Referenced by <a href="#a9944cb27f5ddd2a96b8f0c49bd744e49">addFileDep</a> and <a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Grouping` Struct Reference
 
-<p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info. <a href="#details">More...</a></p>
+<a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ struct Grouping { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> priority. <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70">More...</a></p>
+<a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> priority. <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -80,7 +80,7 @@ struct Grouping { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>name of the group <a href="#a05e6a053a86cc2f588d065f3880801dc">More...</a></p>
+name of the group <a href="#a05e6a053a86cc2f588d065f3880801dc">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,7 +94,7 @@ struct Grouping { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>priority of this definition <a href="#aead55d7198ceffe16cb82d2c114e4254">More...</a></p>
+priority of this definition <a href="#aead55d7198ceffe16cb82d2c114e4254">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -124,15 +124,15 @@ struct Grouping { ... }
 
 ## Description {#details}
 
-<p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info.</p>
+<a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info.
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxySectionDef">
 
 ## Enumerations
 
-### GroupPri&#95;t {#a9f0ec5ab376b083ebe3274ea79fd2d70}
+### GroupPri\_t {#a9f0ec5ab376b083ebe3274ea79fd2d70}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -149,7 +149,8 @@ struct Grouping { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> priority.</p>
+
+<a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> priority.
 
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
@@ -158,44 +159,44 @@ struct Grouping { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_LOWEST<a id="a9f0ec5ab376b083ebe3274ea79fd2d70a251075fcb0324e4f5f3d7bc8767ca06b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_AUTO_WEAK<a id="a9f0ec5ab376b083ebe3274ea79fd2d70aa59227c8fa39faf56ebc4c06e08d4d84"></a></td>
-<td class="doxyEnumItemDescription"><p>membership in group was defined via @weakgroup (= GROUPING_LOWEST)</p></td>
+<td class="doxyEnumItemDescription">membership in group was defined via @weakgroup (= GROUPING_LOWEST)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_AUTO_ADD<a id="a9f0ec5ab376b083ebe3274ea79fd2d70a44f89332beea02ebc5d56bcb71a081ba"></a></td>
-<td class="doxyEnumItemDescription"><p>membership in group was defined via @add[to]group</p></td>
+<td class="doxyEnumItemDescription">membership in group was defined via @add[to]group</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_AUTO_DEF<a id="a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f"></a></td>
-<td class="doxyEnumItemDescription"><p>membership in group was defined via @defgroup</p></td>
+<td class="doxyEnumItemDescription">membership in group was defined via @defgroup</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_AUTO_HIGHEST<a id="a9f0ec5ab376b083ebe3274ea79fd2d70ab0dee71675bf90a137537784427e2956"></a></td>
-<td class="doxyEnumItemDescription"><p> (= GROUPING_AUTO_DEF)</p></td>
+<td class="doxyEnumItemDescription"> (= GROUPING_AUTO_DEF)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_INGROUP<a id="a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb"></a></td>
-<td class="doxyEnumItemDescription"><p>membership in group was defined by @ingroup</p></td>
+<td class="doxyEnumItemDescription">membership in group was defined by @ingroup</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUPING_HIGHEST<a id="a9f0ec5ab376b083ebe3274ea79fd2d70adca997c0931955d0ff0b9e23d14a9d2a"></a></td>
-<td class="doxyEnumItemDescription"><p> (= GROUPING_INGROUP)</p></td>
+<td class="doxyEnumItemDescription"> (= GROUPING_INGROUP)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -244,7 +245,8 @@ struct Grouping { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -280,9 +282,10 @@ References <a href="#a05e6a053a86cc2f588d065f3880801dc">groupname</a> and <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>name of the group</p>
 
-<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+name of the group
+
+Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -312,9 +315,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>priority of this definition</p>
 
-<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+priority of this definition
+
+Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -358,7 +362,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -381,7 +386,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 </div>
 
 
-References <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70a44f89332beea02ebc5d56bcb71a081ba">GROUPING&#95;AUTO&#95;ADD</a>, <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">GROUPING&#95;AUTO&#95;DEF</a>, <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70aa59227c8fa39faf56ebc4c06e08d4d84">GROUPING&#95;AUTO&#95;WEAK</a> and <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">GROUPING&#95;INGROUP</a>.
+References <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70a44f89332beea02ebc5d56bcb71a081ba">GROUPING\_AUTO\_ADD</a>, <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">GROUPING\_AUTO\_DEF</a>, <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70aa59227c8fa39faf56ebc4c06e08d4d84">GROUPING\_AUTO\_WEAK</a> and <a href="#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">GROUPING\_INGROUP</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef56cd0de5d89dcfead564e7">addClassToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a9ed7b5fc926a79337a09aa8ecef0e41d">addConceptToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a378ec2ef3e841a44602739461386c1f9">addDirToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#af777f735af0317cec08f59bd101c0825">addExampleToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23a2e8465946abfdfe294c4c">addGroupToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102af38c14812ccc21a86401c">addMemberToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a623caa8256bca5d7b0f640cd8182bcc6">addModuleToGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a035458fc750e2a32abad901b719f8392">addNamespaceToGroups</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4299844cb805de324387ae0072ea6e9d">tryAddEnumDocsToGroupMember</a>.
 </div>
@@ -391,7 +396,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/types-h">types.h</a></li>

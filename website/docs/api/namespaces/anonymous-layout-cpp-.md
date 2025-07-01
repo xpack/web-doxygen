@@ -211,7 +211,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -250,7 +251,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -289,7 +291,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -330,7 +333,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -372,7 +376,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -414,7 +419,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -457,7 +463,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -481,7 +488,7 @@ namespace { ... }
 
 ## Variables
 
-### g&#95;elementHandlers {#a470220b386daeb653bf189ad7b6c419f}
+### g\_elementHandlers {#a470220b386daeb653bf189ad7b6c419f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -505,7 +512,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1085,7 +1093,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutparser/#acbe58d70dfdb
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a></li>

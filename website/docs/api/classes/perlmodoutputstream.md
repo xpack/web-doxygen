@@ -122,7 +122,7 @@ class PerlModOutputStream { ... }
 </table>
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -152,7 +152,8 @@ class PerlModOutputStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -161,7 +162,7 @@ class PerlModOutputStream { ... }
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
+Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 </div>
 </div>
 
@@ -190,7 +191,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -202,7 +204,7 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
+Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 </div>
 </div>
 
@@ -225,7 +227,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -237,7 +240,7 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
+Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 </div>
 </div>
 
@@ -260,7 +263,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -272,7 +276,7 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
+Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 </div>
 </div>
 
@@ -295,7 +299,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -307,7 +312,7 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
+Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 </div>
 </div>
 
@@ -317,7 +322,7 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 
 ## Public Member Attributes
 
-### m&#95;t {#a8b547a3ef08a494ca5458a0b253d2063}
+### m\_t {#a8b547a3ef08a494ca5458a0b253d2063}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -336,7 +341,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m&#95;t</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -353,7 +359,7 @@ Referenced by <a href="#a6970acf3298a0e408427b54d1b876cd5">add</a>, <a href="#a5
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a></li>

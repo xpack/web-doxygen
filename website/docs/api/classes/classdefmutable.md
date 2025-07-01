@@ -54,7 +54,7 @@ class ClassDefMutable { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A abstract class representing of a compound symbol. <a href="/web-doxygen/docs/api/classes/classdef/#details">More...</a></p>
+A abstract class representing of a compound symbol. <a href="/web-doxygen/docs/api/classes/classdef/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -752,7 +752,7 @@ class ClassDefMutable { ... }
 </table>
 
 
-<p>Definition at line 372 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 372 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -777,7 +777,8 @@ class ClassDefMutable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="#ae24cc8d57767aa81b004bc941de52e90">addExample</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
 
@@ -804,7 +805,8 @@ Referenced by <a href="#ae24cc8d57767aa81b004bc941de52e90">addExample</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a8e6e94e29c2e6db09e38213e1525cd64">addListReferences</a>.
 
@@ -831,7 +833,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 434 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 434 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a1c90cadafedf7c5aabf13652c88929d9">addMembersToMemberGroup</a>.
 
@@ -858,7 +861,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4219b5e9c9b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="#ad59851d3155ba565dfe74bbb919435cc">addMembersToTemplateInstance</a> and <a href="/web-doxygen/docs/api/classes/classdef/#a201b8f24043f9b7c7cc59d55282f6d47">ClassDef::templateArguments</a>.
 
@@ -885,7 +889,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a97d3881f19cc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 426 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 426 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="#a8839c9270bdf7c9779b0bcf221608f0f">addMemberToTemplateInstance</a> and <a href="/web-doxygen/docs/api/classes/classdef/#a201b8f24043f9b7c7cc59d55282f6d47">ClassDef::templateArguments</a>.
 
@@ -912,7 +917,8 @@ Referenced by <a href="#a8839c9270bdf7c9779b0bcf221608f0f">addMemberToTemplateIn
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a8ce00e76971eb9e767556f901f03970a">addQualifiers</a>.
 
@@ -939,7 +945,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 436 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 436 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a02add5668fa40a4104eee73bafae1a55">addTypeConstraints</a>.
 
@@ -966,7 +973,8 @@ Referenced by <a href="#a02add5668fa40a4104eee73bafae1a55">addTypeConstraints</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#acc27a2bc4401c6769868027174ae8859">addUsedByClass</a>.
 
@@ -993,7 +1001,8 @@ Referenced by <a href="#acc27a2bc4401c6769868027174ae8859">addUsedByClass</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 429 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 429 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a495b362e77fb13df4c06880dcd36daae">addUsedClass</a>.
 
@@ -1020,7 +1029,8 @@ Referenced by <a href="#a495b362e77fb13df4c06880dcd36daae">addUsedClass</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 437 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 437 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a003956b60072c315dd1d0b219ac8509c">computeAnchors</a>.
 
@@ -1047,7 +1057,8 @@ Referenced by <a href="#a003956b60072c315dd1d0b219ac8509c">computeAnchors</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 444 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 444 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a1ba28a556105e009bab4a3a1321e4de9">countMembers</a>.
 
@@ -1074,7 +1085,8 @@ Referenced by <a href="#a1ba28a556105e009bab4a3a1321e4de9">countMembers</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#abe388143a997de70f1730c5a4da5dbf5">distributeMemberGroupDocumentation</a>.
 
@@ -1101,7 +1113,8 @@ Referenced by <a href="#abe388143a997de70f1730c5a4da5dbf5">distributeMemberGroup
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 433 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 433 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ac6574e432cbe06bbe10532e99ae1e4d9">findSectionsInDocumentation</a>.
 
@@ -1128,7 +1141,8 @@ Referenced by <a href="#ac6574e432cbe06bbe10532e99ae1e4d9">findSectionsInDocumen
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ab421224fb5bce7b90c4fe60b788a4b2d">hasCollaborationGraph</a>.
 
@@ -1155,7 +1169,8 @@ Referenced by <a href="#ab421224fb5bce7b90c4fe60b788a4b2d">hasCollaborationGraph
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a5f947813ec8aaffcf3ecb2e855d6af27">hasInheritanceGraph</a>.
 
@@ -1182,7 +1197,8 @@ Referenced by <a href="#a5f947813ec8aaffcf3ecb2e855d6af27">hasInheritanceGraph</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="#a761d9f7cc2f81e4ac4211e265540bace">insertBaseClass</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
 
@@ -1209,7 +1225,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a30024fb4695179564d5c0d4b1784b4c4">insertExplicitTemplateInstance</a>.
 
@@ -1236,7 +1253,8 @@ Referenced by <a href="#a30024fb4695179564d5c0d4b1784b4c4">insertExplicitTemplat
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aceb3bff3f6febf20e1abb61386da66e7">insertMember</a>.
 
@@ -1263,7 +1281,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 422 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 422 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a9455d0a7225968447a4bb2b7ce6eb46c">insertSubClass</a>.
 
@@ -1290,7 +1309,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 414 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 414 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a6abab23b873d04b3a17def0cfa7f7002">insertTemplateInstance</a>.
 
@@ -1317,7 +1337,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f26028922a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 425 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 425 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a98844b40b53f9e938671fe274771754f">insertUsedFile</a>.
 
@@ -1344,7 +1365,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 431 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 431 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="#a2612e395bff76cdb264d5e2a2165ddd2">makeTemplateArgument</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
@@ -1371,7 +1393,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e15
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a84cabed2f3be53244c3f999960f040cf">mergeCategory</a>.
 
@@ -1398,7 +1421,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad091d341c14
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#add1551ed5dda937cb558185bd9f6a26f">mergeMembers</a>.
 
@@ -1425,7 +1449,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae643312889a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 408 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 408 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a09dcfe1736728398cb27b617d3fdb0b7">overrideCollaborationGraph</a>.
 
@@ -1452,7 +1477,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 403 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 403 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ab428fb804faaa5575f1fd51e06dad3b8">overrideInheritanceGraph</a>.
 
@@ -1479,7 +1505,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 441 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 441 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a584286323030eb7d8b980932db316393">reclassifyMember</a>.
 
@@ -1506,7 +1533,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 442 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 442 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#abfb14856f2e7b09ad3583fb16953b8e0">removeMemberFromLists</a>.
 
@@ -1533,7 +1561,8 @@ Referenced by <a href="#abfb14856f2e7b09ad3583fb16953b8e0">removeMemberFromLists
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 443 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 443 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#abb17571af31f200efe39466c2e96dd30">setAnonymousEnumType</a>.
 
@@ -1560,7 +1589,8 @@ Referenced by <a href="#abb17571af31f200efe39466c2e96dd30">setAnonymousEnumType<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 395 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 395 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aa29fd7952f1c8eb27ec028f721752ef2">setCategoryOf</a>.
 
@@ -1587,7 +1617,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e60
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a0eed3eca2f487ea375047fa77f3fe322">setClassName</a>.
 
@@ -1614,7 +1645,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d63
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a8dfceccabbb0db0d35bd96baada5569d">setClassSpecifier</a>.
 
@@ -1641,7 +1673,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#abd16aabc699670ad3d110122f710d944">setCompoundType</a>.
 
@@ -1668,7 +1701,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a433e1fc2bf9d074747f0e7479d1c9653">setFileDef</a>.
 
@@ -1695,7 +1729,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a587dbea5e2811999a97fcedbb5619eff">setGroupDefForAllMembers</a>.
 
@@ -1722,7 +1757,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 404 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 404 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a7fe1df2ecc8bec6e699cebe5f17154ec">setImplicitTemplateInstance</a>.
 
@@ -1749,7 +1785,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#af3eab25ba334
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ab8538398ef1512b81297ba04af813924">setIncludeFile</a>.
 
@@ -1776,7 +1813,8 @@ Referenced by <a href="#ab8538398ef1512b81297ba04af813924">setIncludeFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ae43d1ddb8b8a545ca6f12980c3c17034">setIsStatic</a>.
 
@@ -1803,7 +1841,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a30706a65a1692c85e8791a82ab40fad4">setMetaData</a>.
 
@@ -1830,7 +1869,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 383 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 383 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#ae19eb06e3739c420f825acb885d25416">setModuleDef</a>.
 
@@ -1857,7 +1897,8 @@ Referenced by <a href="#ae19eb06e3739c420f825acb885d25416">setModuleDef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aad450d410ef63ffbd30b47be5a70e742">setProtection</a>.
 
@@ -1884,7 +1925,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 399 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 399 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a9aeaf894c5b89c28322bcaaeef220c0c">setRequiresClause</a>.
 
@@ -1911,7 +1953,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aee97719f20204be072d7de3a445296d7">setSubGrouping</a>.
 
@@ -1938,7 +1981,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a9c8efa9791f60a2d93bfb735d5880f86">setTagLessReference</a>.
 
@@ -1965,7 +2009,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a39bb7d9a1e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a763c629167d89e9ffcfd0c59d43bc7d5">setTemplateArguments</a>.
 
@@ -1992,7 +2037,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a28f3153dca572de010e0123e2efbb7a5">setTemplateBaseClassNames</a>.
 
@@ -2019,7 +2065,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f26028922a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 393 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 393 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a7a79a2f8d3698eb9e654332da668b259">setTemplateMaster</a>.
 
@@ -2046,7 +2093,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#af3eab25ba334
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aadad154d921a40f51f94b6a300fe95fc">setTypeConstraints</a>.
 
@@ -2073,7 +2121,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#a9ebbd33fff9657c55529319f4a355309">setUsedOnly</a>.
 
@@ -2100,7 +2149,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/classdef-h/#aec372817e0466def72f8457dd908b0c2">createClassDef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-h/#a9e5773d03b68726ad9d01bb1c7dc5f0e">createClassDefAlias</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/classdef-h/#a3349b7e69fa32e5e6ebd2a40d40d6878">getClass</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a9a3699b6766321cef5a194b6fa1a9d2c">ClassDef::isJavaEnum</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#ad3f331c1d12e6f5256e749173835b2b8">sortAllMembersList</a>, <a href="/web-doxygen/docs/api/files/src/classdef-h/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-h/#a2d0bf73f7801534e7e2b6e5fc03ed6f5">toClassDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
@@ -2127,7 +2177,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae643312889a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 439 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 439 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="#aa5eb04ce72bf8939bc7f1e101fb385ad">sortMemberLists</a>.
 
@@ -2139,7 +2190,7 @@ Referenced by <a href="#aa5eb04ce72bf8939bc7f1e101fb385ad">sortMemberLists</a> a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a></li>

@@ -58,7 +58,7 @@ struct CommentScanner::Private { ... }
 </table>
 
 
-<p>Definition at line 4697 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+Definition at line 4697 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct CommentScanner::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct CommentScanner::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 4699 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 4699 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct CommentScanner::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a></li>

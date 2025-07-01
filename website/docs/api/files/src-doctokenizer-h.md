@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Data associated with a token used by the comment block parser. <a href="/web-doxygen/docs/api/structs/tokeninfo/#details">More...</a></p>
+Data associated with a token used by the comment block parser. <a href="/web-doxygen/docs/api/structs/tokeninfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -138,7 +138,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make&#95;##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make\_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -192,6 +192,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -199,14 +200,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">RETVAL_SPECIFICATIONS<a id="ac5068e014aa0089764ab0968a14d15c4aa161a7f3dd868ca8a86430dbbb91a01c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -228,7 +229,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### RETVAL&#95;SPECIFICATIONS {#af34027d1fa2ba238a169f936abd3b6ed}
+### RETVAL\_SPECIFICATIONS {#af34027d1fa2ba238a169f936abd3b6ed}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -247,42 +248,43 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;OK,              0x10000)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;SimpleSec,       0x10001)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;ListItem,        0x10002)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;Section,         0x10003)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;Subsection,      0x10004)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;Subsubsection,   0x10005)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;Paragraph,       0x10006)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;SubParagraph,    0x10007)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndList,         0x10008)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndPre,          0x10009)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;DescData,        0x1000A)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;DescTitle,       0x1000B)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndDesc,         0x1000C)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;TableRow,        0x1000D)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;TableCell,       0x1000E)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;TableHCell,      0x1000F)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndTable,        0x10010)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndTableCell,    0x10011)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndTableRow,     0x10012)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;Internal,        0x10013)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;SwitchLang,      0x10014)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;CloseXml,        0x10015)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndBlockQuote,   0x10016)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;CopyDoc,         0x10017)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndInternal,     0x10018)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndParBlock,     0x10019)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;EndHtmlDetails,  0x1001A)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal&#95;SubSubParagraph, 0x1001B)
+<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_OK,              0x10000)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SimpleSec,       0x10001)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_ListItem,        0x10002)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Section,         0x10003)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Subsection,      0x10004)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Subsubsection,   0x10005)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Paragraph,       0x10006)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SubParagraph,    0x10007)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndList,         0x10008)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndPre,          0x10009)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_DescData,        0x1000A)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_DescTitle,       0x1000B)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndDesc,         0x1000C)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableRow,        0x1000D)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableCell,       0x1000E)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableHCell,      0x1000F)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTable,        0x10010)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTableCell,    0x10011)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTableRow,     0x10012)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Internal,        0x10013)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SwitchLang,      0x10014)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_CloseXml,        0x10015)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndBlockQuote,   0x10016)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_CopyDoc,         0x10017)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndInternal,     0x10018)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndParBlock,     0x10019)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndHtmlDetails,  0x1001A)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SubSubParagraph, 0x1001B)
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -319,7 +321,7 @@ toc_max_heading_level: 4
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to&#95;string</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>.
 </div>
 </div>
 
@@ -342,7 +344,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -362,7 +365,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TKSPEC(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make&#95;##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
+<td class="doxyMemberName">#define TKSPEC(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make\_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
 </tr>
 </table>
 </td>
@@ -372,7 +375,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -402,7 +406,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -413,7 +418,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 </div>
 </div>
 
-### TOKEN&#95;SPECIFICATIONS {#ae312610edfc5a0b680201b585c3643a3}
+### TOKEN\_SPECIFICATIONS {#ae312610edfc5a0b680201b585c3643a3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -432,28 +437,29 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;EOF,          -1)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;NONE,          0)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;WORD,          1)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;LNKWORD,       2)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;WHITESPACE,    3)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;LISTITEM,      4)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;ENDLIST,       5)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;COMMAND&#95;AT,    6) /&#42;! Command starting with `@` &#42;/  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;HTMLTAG,       7)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;SYMBOL,        8)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;NEWPARA,       9)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;RCSTAG,       10)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;URL,          11)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK&#95;COMMAND&#95;BS,   12) /&#42;! Command starting with `\` &#42;/
+<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_EOF,          -1)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_NONE,          0)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_WORD,          1)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_LNKWORD,       2)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_WHITESPACE,    3)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_LISTITEM,      4)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_ENDLIST,       5)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_COMMAND\_AT,    6) /\*! Command starting with `@` \*/  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_HTMLTAG,       7)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_SYMBOL,        8)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_NEWPARA,       9)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_RCSTAG,       10)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_URL,          11)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_COMMAND\_BS,   12) /\*! Command starting with `\` \*/
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -476,7 +482,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to&#95;string</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>.
 </div>
 </div>
 

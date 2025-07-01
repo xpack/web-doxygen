@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>checks if the given char c is a delimiter minus is checked apart, can be unary minus <a href="#a51b274f2d0a9dc8d6a7896a7b1960bf7">More...</a></p>
+checks if the given char c is a delimiter minus is checked apart, can be unary minus <a href="#a51b274f2d0a9dc8d6a7896a7b1960bf7">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>checks if the given char c is a letter or underscore <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">More...</a></p>
+checks if the given char c is a letter or underscore <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -101,9 +101,10 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>checks if the given char c is a letter or underscore</p>
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+checks if the given char c is a letter or underscore
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -143,7 +144,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -183,9 +185,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fd
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>checks if the given char c is a delimiter minus is checked apart, can be unary minus</p>
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+checks if the given char c is a delimiter minus is checked apart, can be unary minus
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 

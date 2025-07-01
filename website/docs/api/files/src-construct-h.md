@@ -30,7 +30,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Macro to implement rule of 5 for an abstract base class. <a href="#a51c78b6c191813bfea21abec61771bb8">More...</a></p>
+Macro to implement rule of 5 for an abstract base class. <a href="#a51c78b6c191813bfea21abec61771bb8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -44,7 +44,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Macro to help implementing the rule of 5 for a default copyable &amp; movable class. <a href="#a486a52ba5a3c818d903c8e6e1a176de9">More...</a></p>
+Macro to help implementing the rule of 5 for a default copyable &amp; movable class. <a href="#a486a52ba5a3c818d903c8e6e1a176de9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -58,7 +58,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Macro to help implementing the rule of 5 for a non-copyable &amp; movable class. <a href="#a463380876083913ee3764113b803c040">More...</a></p>
+Macro to help implementing the rule of 5 for a non-copyable &amp; movable class. <a href="#a463380876083913ee3764113b803c040">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -72,7 +72,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Macro to help implementing the rule of 5 for a class that can be moved but not copied. <a href="#a688296d263443dea19096ab2dc20139e">More...</a></p>
+Macro to help implementing the rule of 5 for a class that can be moved but not copied. <a href="#a688296d263443dea19096ab2dc20139e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -112,7 +112,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### ABSTRACT&#95;BASE&#95;CLASS {#a51c78b6c191813bfea21abec61771bb8}
+### ABSTRACT\_BASE\_CLASS {#a51c78b6c191813bfea21abec61771bb8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -129,7 +129,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Macro to implement rule of 5 for an abstract base class.</p>
+
+Macro to implement rule of 5 for an abstract base class.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -139,12 +140,12 @@ toc_max_heading_level: 4
     cls &amp;operator=(const cls &amp;) = delete;         \
     cls(cls &amp;&amp;) = delete;                         \
     cls &amp;operator=(cls &amp;&amp;) = delete;              \
-    virtual ~cls() = default;                     \
+    virtual \~cls() = default;                     \
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -162,7 +163,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### DEFAULT&#95;COPYABLE {#a486a52ba5a3c818d903c8e6e1a176de9}
+### DEFAULT\_COPYABLE {#a486a52ba5a3c818d903c8e6e1a176de9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -179,7 +180,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Macro to help implementing the rule of 5 for a default copyable &amp; movable class.</p>
+
+Macro to help implementing the rule of 5 for a default copyable &amp; movable class.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -188,12 +190,12 @@ toc_max_heading_level: 4
     cls &amp;operator=(const cls &amp;) = default;        \
     cls(cls &amp;&amp;) = default;                        \
     cls &amp;operator=(cls &amp;&amp;) = default;             \
-    virtual ~cls() = default;
+    virtual \~cls() = default;
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -209,7 +211,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### DEFAULT&#95;MOVABLE&#95;IMPL {#a99f886aa80820b965aadfd38db5003af}
+### DEFAULT\_MOVABLE\_IMPL {#a99f886aa80820b965aadfd38db5003af}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -228,6 +230,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
@@ -237,7 +240,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -251,7 +254,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### NON&#95;COPYABLE {#a463380876083913ee3764113b803c040}
+### NON\_COPYABLE {#a463380876083913ee3764113b803c040}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -268,7 +271,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Macro to help implementing the rule of 5 for a non-copyable &amp; movable class.</p>
+
+Macro to help implementing the rule of 5 for a non-copyable &amp; movable class.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -281,7 +285,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -297,7 +301,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### ONLY&#95;DEFAULT&#95;MOVABLE {#a688296d263443dea19096ab2dc20139e}
+### ONLY\_DEFAULT\_MOVABLE {#a688296d263443dea19096ab2dc20139e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -314,7 +318,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Macro to help implementing the rule of 5 for a class that can be moved but not copied.</p>
+
+Macro to help implementing the rule of 5 for a class that can be moved but not copied.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -327,7 +332,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,7 +348,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### ONLY&#95;MOVABLE&#95;DECL {#acd9a2a46760eaf661dda21da2d111bba}
+### ONLY\_MOVABLE\_DECL {#acd9a2a46760eaf661dda21da2d111bba}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -362,6 +367,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
@@ -373,7 +379,7 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.</p>
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/construct-h">construct.h</a>.
 
 <div class="doxyProgramListing">
 

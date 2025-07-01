@@ -43,7 +43,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class managing a pool of worker threads. <a href="/web-doxygen/docs/api/classes/threadpool/#details">More...</a></p>
+Class managing a pool of worker threads. <a href="/web-doxygen/docs/api/classes/threadpool/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

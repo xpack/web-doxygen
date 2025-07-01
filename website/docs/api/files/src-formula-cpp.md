@@ -297,7 +297,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -349,7 +350,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -402,7 +404,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -467,7 +470,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -519,7 +523,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -570,7 +575,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -622,7 +628,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -672,7 +679,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -735,7 +743,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -792,7 +801,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="#a45390d3758ea90a1a3501782f0e4e087">g&#95;inkscapeDetectionMutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="#a45390d3758ea90a1a3501782f0e4e087">g\_inkscapeDetectionMutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
 
 Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>.
 </div>
@@ -822,7 +831,8 @@ Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaIn
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -892,7 +902,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1009,7 +1020,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1084,7 +1096,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1107,7 +1120,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="#a2eb5aacd88293a8b5b1651f814592500">g&#95;formulaUpdateMutex</a>, <a href="/web-doxygen/docs/api/classes/formula/#aa98f77319800a11b67fc2be1a2b5f0d4">Formula::setHeight</a> and <a href="/web-doxygen/docs/api/classes/formula/#ad6f4bcbc9d72789367acac83a3ea6846">Formula::setWidth</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="#a2eb5aacd88293a8b5b1651f814592500">g\_formulaUpdateMutex</a>, <a href="/web-doxygen/docs/api/classes/formula/#aa98f77319800a11b67fc2be1a2b5f0d4">Formula::setHeight</a> and <a href="/web-doxygen/docs/api/classes/formula/#ad6f4bcbc9d72789367acac83a3ea6846">Formula::setWidth</a>.
 
 Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 </div>
@@ -1119,7 +1132,7 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 ## Variables
 
-### g&#95;formulaUpdateMutex {#a2eb5aacd88293a8b5b1651f814592500}
+### g\_formulaUpdateMutex {#a2eb5aacd88293a8b5b1651f814592500}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1143,7 +1156,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1156,7 +1170,7 @@ Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>
 </div>
 </div>
 
-### g&#95;inkscapeDetectionMutex {#a45390d3758ea90a1a3501782f0e4e087}
+### g\_inkscapeDetectionMutex {#a45390d3758ea90a1a3501782f0e4e087}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1180,7 +1194,8 @@ Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 

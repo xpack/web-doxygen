@@ -77,7 +77,7 @@ struct AliasInfo { ... }
 </table>
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ struct AliasInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -146,7 +147,8 @@ References <a href="#a961fc24be73469269379e0bf359ea400">separator</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -178,7 +180,8 @@ Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -195,7 +198,7 @@ Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a></li>

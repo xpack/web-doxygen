@@ -129,7 +129,7 @@ struct DocLexerContext { ... }
 </table>
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxySectionDef">
 
@@ -159,7 +159,8 @@ struct DocLexerContext { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -198,7 +199,8 @@ References <a href="#af642c9d98d61a5f08c615d79a0c4fcd1">autoListLevel</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -230,7 +232,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -262,7 +265,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -294,7 +298,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -326,7 +331,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -358,7 +364,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -375,7 +382,7 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a></li>

@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-<p>The following table gives an overview of the doxygen releases together with the release dates.</p>
+The following table gives an overview of the doxygen releases together with the release dates.
 
 <ul class="doxyList ">
 <li><b>Release 1.14.0</b>&nbsp;&nbsp; 24-05-2025</li>

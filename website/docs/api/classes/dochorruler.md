@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocHorRuler` Class Reference
 
-<p>Node representing a horizontal ruler. <a href="#details">More...</a></p>
+Node representing a horizontal ruler. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocHorRuler { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
+Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -109,9 +109,9 @@ class DocHorRuler { ... }
 
 ## Description {#details}
 
-<p>Node representing a horizontal ruler.</p>
+Node representing a horizontal ruler.
 
-<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -141,7 +141,8 @@ class DocHorRuler { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -151,7 +152,7 @@ class DocHorRuler { ... }
 </div>
 
 
-References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m&#95;attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.
+References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m\_attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.
 </div>
 </div>
 
@@ -185,7 +186,8 @@ References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/w
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +196,7 @@ References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/w
 </div>
 
 
-Reference <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m&#95;attribs</a>.
+Reference <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m\_attribs</a>.
 
 Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab06971ee32204757c136a8239efbe14c">HtmlDocVisitor::operator()</a>.
 </div>
@@ -206,7 +208,7 @@ Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <
 
 ## Private Member Attributes
 
-### m&#95;attribs {#acc7b813019a76d0091aa3fcbcf3f6949}
+### m\_attribs {#acc7b813019a76d0091aa3fcbcf3f6949}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -225,7 +227,8 @@ Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -242,7 +245,7 @@ Referenced by <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a></li>

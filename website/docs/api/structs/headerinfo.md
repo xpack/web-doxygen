@@ -90,7 +90,7 @@ struct HeaderInfo { ... }
 </table>
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -120,7 +120,8 @@ struct HeaderInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -159,7 +160,8 @@ References <a href="#aadb5cc580d8f717af5e5bb6d7a1bb104">fileName</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -191,7 +193,8 @@ Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -223,7 +226,8 @@ Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -240,7 +244,7 @@ Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a></li>

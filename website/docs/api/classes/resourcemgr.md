@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ResourceMgr` Class Reference
 
-<p>Singleton for managing resources compiled into an executable. <a href="#details">More...</a></p>
+Singleton for managing resources compiled into an executable. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Registers an array of resources. <a href="#af1f39af9986eadf7af87bdc52e607f0e">More...</a></p>
+Registers an array of resources. <a href="#af1f39af9986eadf7af87bdc52e607f0e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Writes all resource belonging to a given category to a given target directory. <a href="#a64d65000b297d313a09e4c1cca1f17e0">More...</a></p>
+Writes all resource belonging to a given category to a given target directory. <a href="#a64d65000b297d313a09e4c1cca1f17e0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Copies a registered resource to a given target directory. <a href="#a32b8297da656a43a255a3a1b27c210b9">More...</a></p>
+Copies a registered resource to a given target directory. <a href="#a32b8297da656a43a255a3a1b27c210b9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Copies a registered resource to a given target directory under a given target name. <a href="#ad396917a059d354b1ff240b9af3a006c">More...</a></p>
+Copies a registered resource to a given target directory under a given target name. <a href="#ad396917a059d354b1ff240b9af3a006c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,7 +135,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Gets the resource data as a C string. <a href="#aa60ef164e79a11cfa31de29221db11aa">More...</a></p>
+Gets the resource data as a C string. <a href="#aa60ef164e79a11cfa31de29221db11aa">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -155,7 +155,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a pointer to the resource object with the given name. <a href="#a2bc16163bd7e09f324093b641113b077">More...</a></p>
+Returns a pointer to the resource object with the given name. <a href="#a2bc16163bd7e09f324093b641113b077">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -194,7 +194,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the one and only instance of this class. <a href="#a02fb3176893696eaf659d680c8b08064">More...</a></p>
+Returns the one and only instance of this class. <a href="#a02fb3176893696eaf659d680c8b08064">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -205,9 +205,9 @@ class ResourceMgr { ... }
 
 ## Description {#details}
 
-<p>Singleton for managing resources compiled into an executable.</p>
+Singleton for managing resources compiled into an executable.
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxySectionDef">
 
@@ -232,7 +232,8 @@ class ResourceMgr { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
+Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +256,7 @@ Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.
 
 ## Private Destructor
 
-### ~ResourceMgr() {#af9daad2dabbe144b6c7f8cdf0d25568b}
+### \~ResourceMgr() {#af9daad2dabbe144b6c7f8cdf0d25568b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -274,7 +275,8 @@ Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
+Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -310,9 +312,10 @@ Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Copies a registered resource to a given target directory.</p>
 
-<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Copies a registered resource to a given target directory.
+
+Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -347,9 +350,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Copies a registered resource to a given target directory under a given target name.</p>
 
-<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Copies a registered resource to a given target directory under a given target name.
+
+Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -422,9 +426,10 @@ Referenced by <a href="#a32b8297da656a43a255a3a1b27c210b9">copyResource</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Gets the resource data as a C string.</p>
 
-<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Gets the resource data as a C string.
+
+Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -469,9 +474,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Registers an array of resources.</p>
 
-<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Registers an array of resources.
+
+Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -507,9 +513,10 @@ Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Writes all resource belonging to a given category to a given target directory.</p>
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Writes all resource belonging to a given category to a given target directory.
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -567,9 +574,10 @@ References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a pointer to the resource object with the given name.</p>
 
-<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Returns a pointer to the resource object with the given name.
+
+Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -614,7 +622,8 @@ Referenced by <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -655,9 +664,10 @@ Referenced by <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="#af
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the one and only instance of this class.</p>
 
-<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+Returns the one and only instance of this class.
+
+Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -680,7 +690,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a></li>

@@ -77,7 +77,7 @@ struct Markdown::Private::LinkRef { ... }
 </table>
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ struct Markdown::Private::LinkRef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +146,8 @@ References <a href="#a0baddbcfa1ac370161f6f8d373bd6228">link</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +179,8 @@ Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +197,7 @@ Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a></li>

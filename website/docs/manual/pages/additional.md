@@ -23,13 +23,13 @@ toc_max_heading_level: 4
 ## Custom Pages {#custom_pages}
 
 
-<p>Doxygen can be also be used to create custom pages that are not part of the API of your library/program. The purpose of such pages is to enrich your documentation with anything else that you think the user may find useful.</p>
+Doxygen can be also be used to create custom pages that are not part of the API of your library/program. The purpose of such pages is to enrich your documentation with anything else that you think the user may find useful.
 
-<p>To create custom pages, use one of the supported file extension: <span class="doxyComputerOutput">.dox</span>, <span class="doxyComputerOutput">.txt</span>, or <span class="doxyComputerOutput">.md</span>. Doxygen will treat a .dox or .txt file as a C/C++ source file, and a .md file as a Markdown file.</p>
+To create custom pages, use one of the supported file extension: <span class="doxyComputerOutput">.dox</span>, <span class="doxyComputerOutput">.txt</span>, or <span class="doxyComputerOutput">.md</span>. Doxygen will treat a .dox or .txt file as a C/C++ source file, and a .md file as a Markdown file.
 
-<p>For a .dox or .txt file, one can use a single Doxygen comment, like so:</p>
+For a .dox or .txt file, one can use a single Doxygen comment, like so:
 
-<p><span class="doxyComputerOutput">manual/index.dox</span></p>
+<span class="doxyComputerOutput">manual/index.dox</span>
 
 <div class="doxyProgramListing">
 
@@ -42,9 +42,9 @@ toc_max_heading_level: 4
 </div>
 
 
-<p>You'll note that the <a href="/web-doxygen/docs/pages/commands/#cmdmainpage">\mainpage</a> command was used, which tells Doxygen to use this page as, well, the main page. For other pages, prefix them with the <a href="/web-doxygen/docs/pages/commands/#cmdpage">\page</a> command.</p>
+You'll note that the <a href="/web-doxygen/docs/pages/commands/#cmdmainpage">\mainpage</a> command was used, which tells Doxygen to use this page as, well, the main page. For other pages, prefix them with the <a href="/web-doxygen/docs/pages/commands/#cmdpage">\page</a> command.
 
-<p>By default Doxygen will not know about these custom files, so we'll need to let it know through the <span class="doxyComputerOutput">INPUT</span> attribute in our Doxyfile. For the about example add this line to your Doxyfile:</p>
+By default Doxygen will not know about these custom files, so we'll need to let it know through the <span class="doxyComputerOutput">INPUT</span> attribute in our Doxyfile. For the about example add this line to your Doxyfile:
 
 <div class="doxyProgramListing">
 
@@ -53,7 +53,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p>Next, we may want to add the instructions on how to build the project, so we create <span class="doxyComputerOutput">manual/building/index.dox</span>. As you read a bit more of the documentation, you will find out that Doxygen supports a subset of the <a href="/web-doxygen/docs/pages/htmlcmds">HTML</a> tags, so we can write the following:</p>
+Next, we may want to add the instructions on how to build the project, so we create <span class="doxyComputerOutput">manual/building/index.dox</span>. As you read a bit more of the documentation, you will find out that Doxygen supports a subset of the <a href="/web-doxygen/docs/pages/htmlcmds">HTML</a> tags, so we can write the following:
 
 <div class="doxyProgramListing">
 
@@ -78,7 +78,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p>But you can of course also do the same using the popular <a href="/web-doxygen/docs/pages/markdown">Markdown</a> notation:</p>
+But you can of course also do the same using the popular <a href="/web-doxygen/docs/pages/markdown">Markdown</a> notation:
 
 
 <pre><code># Building
@@ -101,7 +101,7 @@ cd into the root of the project and run:
 ### Automatically Adding Files {#automatically_adding_files}
 
 
-<p>At this point we could now go ahead and add <span class="doxyComputerOutput">manual/building/index.dox</span> to our INPUT's with comma separation, but this might become annoying over time as we build up our manual, instead we'll just change it reference our manual folder:</p>
+At this point we could now go ahead and add <span class="doxyComputerOutput">manual/building/index.dox</span> to our INPUT's with comma separation, but this might become annoying over time as we build up our manual, instead we'll just change it reference our manual folder:
 
 <div class="doxyProgramListing">
 
@@ -110,7 +110,7 @@ cd into the root of the project and run:
 </div>
 
 
-<p>And set</p>
+And set
 
 <div class="doxyProgramListing">
 
@@ -119,12 +119,12 @@ cd into the root of the project and run:
 </div>
 
 
-<p>To make sure as we add any subdirectories of the manual as we create more organization and content.</p>
+To make sure as we add any subdirectories of the manual as we create more organization and content.
 
 ### Side Panel Treeview {#treeview}
 
 
-<p>As your manual scales up, you might want to also have a nice tree view to show you where you are in the manual to stay organized. This is easy enough to set up, turn it on with</p>
+As your manual scales up, you might want to also have a nice tree view to show you where you are in the manual to stay organized. This is easy enough to set up, turn it on with
 
 <div class="doxyProgramListing">
 
@@ -133,13 +133,13 @@ cd into the root of the project and run:
 </div>
 
 
-<p>In your <span class="doxyComputerOutput">Doxyfile</span>.</p>
+In your <span class="doxyComputerOutput">Doxyfile</span>.
 
-<p>You'll recall that our <span class="doxyComputerOutput">manual/index.dox</span> file is pretty bland, without any links pointing anywhere, by using the <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a> command we can add links between various topics, and doing so will automatically start to populate our treeview.</p>
+You'll recall that our <span class="doxyComputerOutput">manual/index.dox</span> file is pretty bland, without any links pointing anywhere, by using the <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a> command we can add links between various topics, and doing so will automatically start to populate our treeview.
 
-<p>If you notice that your tree is more like a pile of leaves then you can remedy this by checking out <a href="/web-doxygen/docs/pages/grouping/#subpaging">Subpaging</a>.</p>
+If you notice that your tree is more like a pile of leaves then you can remedy this by checking out <a href="/web-doxygen/docs/pages/grouping/#subpaging">Subpaging</a>.
 
-<p>This discussion should give you some direction on how to build a scalable manual to enrich your documentation, from here you might want to customize your <a href="/web-doxygen/docs/pages/customize/#layout">layout</a>.</p>
+This discussion should give you some direction on how to build a scalable manual to enrich your documentation, from here you might want to customize your <a href="/web-doxygen/docs/pages/customize/#layout">layout</a>.
 
 <hr/>
 

@@ -47,7 +47,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a></p>
+VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,6 +135,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -142,34 +143,34 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNKNOWN<a id="a02fbf486f00c210089e02f7153a7e55ba696b031073e74bf2cb98e5ef201d4aa3"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GEN_SEC<a id="a02fbf486f00c210089e02f7153a7e55bace9b6b1321f6162e00ed2ae15192733f"></a></td>
-<td class="doxyEnumItemDescription"><p> (=0x1)</p></td>
+<td class="doxyEnumItemDescription"> (=0x1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PARAM_SEC<a id="a02fbf486f00c210089e02f7153a7e55ba03e3141cc2c3c15cbb2e2e901cb51f51"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">CONTEXT_SEC<a id="a02fbf486f00c210089e02f7153a7e55baacf46948c6ab40ac68701e7bb2502b39"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PROTECTED_SEC<a id="a02fbf486f00c210089e02f7153a7e55ba511fdf5647052639b72dce7f1d292e8c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.</p>
+Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -205,7 +206,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
+Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -267,7 +269,8 @@ References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
+Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -279,7 +282,7 @@ References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a61ffdba0efc8d9b6390969cb7fa5d37b">g&#95;instFiles</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a61ffdba0efc8d9b6390969cb7fa5d37b">g\_instFiles</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab8681769cd2f027fbf46a4836d3825e9">VhdlDocGen::computeVhdlComponentRelations</a>.
 </div>

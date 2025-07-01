@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagCompoundVariant` Class Reference
 
-<p>Variant class that holds a unique pointer to one of the specific container types. <a href="#details">More...</a></p>
+Variant class that holds a unique pointer to one of the specific container types. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -186,7 +186,7 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generic non-const getter. <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">More...</a></p>
+Generic non-const getter. <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -203,7 +203,7 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generic const getter. <a href="#a075bedde017c1e7f64a865823d650e9a">More...</a></p>
+Generic const getter. <a href="#a075bedde017c1e7f64a865823d650e9a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -217,7 +217,7 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Convenience method to get the shared compound info. <a href="#ada07509516bd81f1be4bec2da3d968ee">More...</a></p>
+Convenience method to get the shared compound info. <a href="#ada07509516bd81f1be4bec2da3d968ee">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -272,7 +272,7 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generic factory method to create a variant holding a unique pointer to a given compound type. <a href="#a3af267dcba2e60ce52e4c260cefd2659">More...</a></p>
+Generic factory method to create a variant holding a unique pointer to a given compound type. <a href="#a3af267dcba2e60ce52e4c260cefd2659">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -523,9 +523,9 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 
 ## Description {#details}
 
-<p>Variant class that holds a unique pointer to one of the specific container types.</p>
+Variant class that holds a unique pointer to one of the specific container types.
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -559,7 +559,8 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -599,6 +600,7 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -606,59 +608,59 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Uninitialized<a id="a1a5f5ee04cdc70747f2c031f548d4ed7af704f57ea420275ad51bf55b7dec2c96"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Class<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a9bd81329febf6efe22788e03ddeaf0af"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 1)</p></td>
+<td class="doxyEnumItemDescription"> (= 1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Concept<a id="a1a5f5ee04cdc70747f2c031f548d4ed7ad99a604c79ce3c2e76a2f43488d5d4c3"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 2)</p></td>
+<td class="doxyEnumItemDescription"> (= 2)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Namespace<a id="a1a5f5ee04cdc70747f2c031f548d4ed7ab3ba0fe968ce39dcfc6fe8cc0f1b02da"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 3)</p></td>
+<td class="doxyEnumItemDescription"> (= 3)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Package<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a209802fb858e2c83205027dbbb5d9e6c"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 4)</p></td>
+<td class="doxyEnumItemDescription"> (= 4)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">File<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a0b27918290ff5323bea1e3b78a9cf04e"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 5)</p></td>
+<td class="doxyEnumItemDescription"> (= 5)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Group<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a03937134cedab9078be39a77ee3a48a0"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 6)</p></td>
+<td class="doxyEnumItemDescription"> (= 6)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Page<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a193cfc9be3b995831c6af2fea6650e60"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 7)</p></td>
+<td class="doxyEnumItemDescription"> (= 7)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Dir<a id="a1a5f5ee04cdc70747f2c031f548d4ed7a3c4e6dbf3e1df93a734d9959bac9ee94"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 8)</p></td>
+<td class="doxyEnumItemDescription"> (= 8)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Module<a id="a1a5f5ee04cdc70747f2c031f548d4ed7ae55f75a29310d7b60f7ac1d390c8ae42"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 9)</p></td>
+<td class="doxyEnumItemDescription"> (= 9)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -710,7 +712,8 @@ class anonymous_namespace{tagreader.cpp}::TagCompoundVariant { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -748,7 +751,8 @@ Referenced by <a href="#a3af267dcba2e60ce52e4c260cefd2659">make</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -757,7 +761,7 @@ Referenced by <a href="#a3af267dcba2e60ce52e4c260cefd2659">make</a>, <a href="#a
 </div>
 
 
-Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
+Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m\_variant</a>.
 </div>
 </div>
 
@@ -785,7 +789,8 @@ Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </div>
@@ -815,7 +820,8 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </div>
@@ -827,7 +833,7 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 
 ## Public Destructor
 
-### ~TagCompoundVariant() {#a56f02d4c6510f4d3a652fdaf4c55392d}
+### \~TagCompoundVariant() {#a56f02d4c6510f4d3a652fdaf4c55392d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -851,7 +857,8 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 </div>
 </div>
 
@@ -885,7 +892,8 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </div>
@@ -915,7 +923,8 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </div>
@@ -950,9 +959,10 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Generic non-const getter.</p>
 
-<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Generic non-const getter.
+
+Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -965,7 +975,7 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 </div>
 
 
-Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
+Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m\_variant</a>.
 
 Referenced by <a href="#aecdddc886c305831f0e4bf9b36cb2144">getClassInfo</a>, <a href="#a76af6272f2edf465e56c6dfc731f9192">getClassInfo</a>, <a href="#a5fb7e7fefecde97cea369c55f58e367e">getConceptInfo</a>, <a href="#a1df259306a8b49db56edfae975212438">getConceptInfo</a>, <a href="#a6b55a2a4fcbe5a242bf54617b55dbd12">getDirInfo</a>, <a href="#a0263464701c1c349edf780cfeb4b8328">getDirInfo</a>, <a href="#ab91e958d6133e04a11ce51184b97a7d5">getFileInfo</a>, <a href="#ab4ac3ae910e5db8c0b0120f43f51fa7d">getFileInfo</a>, <a href="#a0370312a169de5cd396e6a75693b93fd">getGroupInfo</a>, <a href="#a52b5bd323b2e0f0438d9bff2a99e451a">getGroupInfo</a>, <a href="#a37e76b5208428c5718b25c6d0d8954f8">getModuleInfo</a>, <a href="#a6d0ddf6c0d348a5f8469131a71bd632e">getModuleInfo</a>, <a href="#a38cd32d0f444be4c1c966bff3810741e">getNamespaceInfo</a>, <a href="#abcdb3194641b47c4fa4c6fb03056d907">getNamespaceInfo</a>, <a href="#a9db08cc2c472e51fcba120aa465a3e3b">getPackageInfo</a>, <a href="#a3fff18a657808d4b9a2e2e9dac582e02">getPackageInfo</a>, <a href="#a01ad2fda8badd6741ecbfc924465dd83">getPageInfo</a> and <a href="#a946094c2f97fca0434faf9a5b7ba0018">getPageInfo</a>.
 </div>
@@ -994,9 +1004,10 @@ Referenced by <a href="#aecdddc886c305831f0e4bf9b36cb2144">getClassInfo</a>, <a 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Generic const getter.</p>
 
-<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Generic const getter.
+
+Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1009,7 +1020,7 @@ Referenced by <a href="#aecdddc886c305831f0e4bf9b36cb2144">getClassInfo</a>, <a 
 </div>
 
 
-Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
+Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m\_variant</a>.
 </div>
 </div>
 
@@ -1035,9 +1046,10 @@ Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Convenience method to get the shared compound info.</p>
 
-<p>Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Convenience method to get the shared compound info.
+
+Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1090,7 +1102,8 @@ References <a href="#a1a5f5ee04cdc70747f2c031f548d4ed7a9bd81329febf6efe22788e03d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1102,7 +1115,7 @@ References <a href="#a1a5f5ee04cdc70747f2c031f548d4ed7a9bd81329febf6efe22788e03d
 </div>
 
 
-Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m&#95;variant</a>.
+Reference <a href="#a624ef630086cfd11dad472d26148b0c7">m\_variant</a>.
 
 Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 </div>
@@ -1114,7 +1127,7 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 
 ## Private Member Attributes
 
-### m&#95;variant {#a624ef630086cfd11dad472d26148b0c7}
+### m\_variant {#a624ef630086cfd11dad472d26148b0c7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1133,7 +1146,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1176,9 +1190,10 @@ Referenced by <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>, <a href="#a0
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Generic factory method to create a variant holding a unique pointer to a given compound type.</p>
 
-<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Generic factory method to create a variant holding a unique pointer to a given compound type.
+
+Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1224,7 +1239,8 @@ Reference <a href="#a539d6efdb511dab3ec85713d00b1aafe">TagCompoundVariant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1263,7 +1279,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1300,7 +1317,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1339,7 +1357,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1376,7 +1395,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1415,7 +1435,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1452,7 +1473,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1491,7 +1513,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1528,7 +1551,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1567,7 +1591,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1604,7 +1629,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1643,7 +1669,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1680,7 +1707,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1719,7 +1747,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1756,7 +1785,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1795,7 +1825,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1832,7 +1863,8 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1871,7 +1903,8 @@ Referenced by <a href="#ada07509516bd81f1be4bec2da3d968ee">getCompoundInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1888,7 +1921,7 @@ Reference <a href="#acbc0d02d8c19b6c832b770b5e6100ff3">get</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

@@ -58,7 +58,7 @@ struct emojiEntityInfo { ... }
 </table>
 
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct emojiEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct emojiEntityInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct emojiEntityInfo { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a></li>

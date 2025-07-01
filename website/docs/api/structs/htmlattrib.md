@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlAttrib` Struct Reference
 
-<p>Class representing a HTML attribute. <a href="#details">More...</a></p>
+Class representing a HTML attribute. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -83,9 +83,9 @@ struct HtmlAttrib { ... }
 
 ## Description {#details}
 
-<p>Class representing a HTML attribute.</p>
+Class representing a HTML attribute.
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxySectionDef">
 
@@ -115,7 +115,8 @@ struct HtmlAttrib { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -153,7 +154,8 @@ References <a href="#a89bb7f09a717b34af2fc9b5466adad63">name</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -185,7 +187,8 @@ Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -202,7 +205,7 @@ Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a></li>

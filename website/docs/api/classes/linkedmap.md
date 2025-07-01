@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `LinkedMap` Class Template Reference
 
-<p>Container class representing a vector of objects with keys. <a href="#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -233,7 +233,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A non-const wrapper for find() const. <a href="#a658afbac162b60faccc48da30fc39470">More...</a></p>
+A non-const wrapper for find() const. <a href="#a658afbac162b60faccc48da30fc39470">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -250,7 +250,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A non-const wrapper for find() const. <a href="#a8049d249bddabf8b19862a1013c151da">More...</a></p>
+A non-const wrapper for find() const. <a href="#a8049d249bddabf8b19862a1013c151da">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -267,7 +267,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A non-const wrapper for find() const. <a href="#a22821349a515cf453414cd64dc5bd750">More...</a></p>
+A non-const wrapper for find() const. <a href="#a22821349a515cf453414cd64dc5bd750">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -604,18 +604,18 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 
 ## Description {#details}
 
-<p>Container class representing a vector of objects with keys.</p>
+Container class representing a vector of objects with keys.
 
 
-<p>Objects can efficiently be looked up given the key. Objects are owned by the container. When adding objects the order of addition is kept, and used while iterating.</p>
+Objects can efficiently be looked up given the key. Objects are owned by the container. When adding objects the order of addition is kept, and used while iterating.
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Typedefs
 
-### const&#95;iterator {#a761eb01323123cf737f88cf65adaa95d}
+### const\_iterator {#a761eb01323123cf737f88cf65adaa95d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -635,7 +635,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -646,7 +647,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 </div>
 </div>
 
-### const&#95;reverse&#95;iterator {#addcb5d41602952016038d8315e183d49}
+### const\_reverse\_iterator {#addcb5d41602952016038d8315e183d49}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -666,7 +667,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -697,7 +699,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -728,7 +731,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -739,7 +743,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 </div>
 </div>
 
-### reverse&#95;iterator {#a3f1e6d91dde39b1a948a67f401a5afaa}
+### reverse\_iterator {#a3f1e6d91dde39b1a948a67f401a5afaa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -759,7 +763,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -790,7 +795,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -807,7 +813,7 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 
 ## Public Operators
 
-### operator&#91;&#93;() {#adf2840eabd548e287a9db8c40d453eb2}
+### operator\[\]() {#adf2840eabd548e287a9db8c40d453eb2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -832,7 +838,8 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -841,11 +848,11 @@ class LinkedMap&lt;T, Hash, KeyEqual, Map&gt; { ... }
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
-### operator&#91;&#93;() {#a58e9cb2ea5649b464cd9a34f58ace816}
+### operator\[\]() {#a58e9cb2ea5649b464cd9a34f58ace816}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -870,7 +877,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -879,7 +887,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -915,9 +923,10 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 
 
 
-<p>Adds a new object to the ordered vector if it was not added already. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.</p>
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Adds a new object to the ordered vector if it was not added already. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -938,7 +947,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#a320fc1c937898dd004caadd235e6d68a">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b78163bb29dbb6f21def29">addEnumValuesToEnums</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a82770a95f2aebec7ffee2162e3a67215">findEnums</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab1c5d97fd966b1d6996e5c4ce21c88b1">readDir</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adfb0efa72e3e5ed08b1881ccd8332e5e">readFileOrDirectory</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
 </div>
@@ -969,7 +978,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#a320fc1c937
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -990,7 +1000,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#a320fc1c937
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -1020,9 +1030,10 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 
 
 
-<p>Adds an existing object to the ordered vector (unless another object was already added under the same key). Ownership is transferred. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.</p>
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Adds an existing object to the ordered vector (unless another object was already added under the same key). Ownership is transferred. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1042,7 +1053,7 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a>.
 </div>
 </div>
 
@@ -1071,7 +1082,8 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1091,7 +1103,7 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -1120,7 +1132,8 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1129,7 +1142,7 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1158,7 +1171,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1167,7 +1181,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1196,7 +1210,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1209,7 +1224,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-References <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a>.
+References <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>.
 </div>
@@ -1241,9 +1256,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218
 
 
 
-<p>Removes an object from the container and deletes it. Returns true if the object was deleted or false it is was not found.</p>
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Removes an object from the container and deletes it. Returns true if the object was deleted or false it is was not found.
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1266,7 +1282,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218
 </div>
 
 
-References <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0d52d8428bbcdd06b6975">ClassDefImpl::hideDerivedVariablesInPython</a>.
 </div>
@@ -1297,7 +1313,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1306,7 +1323,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1335,7 +1352,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1344,7 +1362,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1373,7 +1391,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1382,7 +1401,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1412,9 +1431,10 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 
 
 
-<p>Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.</p>
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1427,7 +1447,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a>.
+Reference <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a>.
 
 Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#addab86ba882be1f9c4137b6ceb095991">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#a32a09a931c866f27807ceeabb48946f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#ab0ee1991e602ebd106de0fe5884979b6">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b78163bb29dbb6f21def29">addEnumValuesToEnums</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912d3c3491c992ea5d60fd9d5">DefinitionImpl::addSectionsToDefinition</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#a26024c34c8fc5cbe9ba0d57218e17f1f">DocHtmlCaption::DocHtmlCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="#a658afbac162b60faccc48da30fc39470">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#aed32ef99019918a4c854c58e3fa4f918">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a8049d249bddabf8b19862a1013c151da">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a22821349a515cf453414cd64dc5bd750">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a0151a88e0794af12a9e7932de2d7a928">PerlModGenerator::generatePerlModForPage</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0d52d8428bbcdd06b6975">ClassDefImpl::hideDerivedVariablesInPython</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a>, <a href="/web-doxygen/docs/api/classes/docroot/#a860207dd6bee34648ddbfd55e3ddaff8">DocRoot::parse</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#acfb3aacf4b559a4b9fb4fb5b2dc960bc">DocXRefItem::parse</a>, <a href="#ac5e00dabde23084cd671b0fe61772297">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="#a1f76d619b8096fc4446808b378b8ce14">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ace65d9b91347502c11ccb43cf">processSection</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7970104534296194ccd535117234a682">resolveTypeDef</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70d0b468521b0304252fb659f3b15e24">showFileDefMatches</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
 </div>
@@ -1459,9 +1479,10 @@ Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash
 
 
 
-<p>Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.</p>
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1474,7 +1495,7 @@ Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash
 </div>
 
 
-References <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -1504,9 +1525,10 @@ References <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, K
 
 
 
-<p>Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.</p>
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Find an object given the key. Returns a pointer to the element if found or nullptr if it is not found.
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1545,9 +1567,10 @@ Reference <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, Ke
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>A non-const wrapper for find() const.</p>
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+A non-const wrapper for find() const.
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1586,9 +1609,10 @@ Reference <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, Ke
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>A non-const wrapper for find() const.</p>
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+A non-const wrapper for find() const.
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1627,9 +1651,10 @@ Reference <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, Ke
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>A non-const wrapper for find() const.</p>
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+A non-const wrapper for find() const.
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1671,9 +1696,10 @@ Reference <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, Ke
 
 
 
-<p>Prepends a new object to the ordered vector if it was not added already. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.</p>
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+Prepends a new object to the ordered vector if it was not added already. Return a non-owning pointer to the newly added object, or to the existing object if it was already inserted before under the given key.
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1694,7 +1720,7 @@ Reference <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a> and <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a>.
 </div>
 </div>
 
@@ -1723,7 +1749,8 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1743,7 +1770,7 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 </div>
 
 
-References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>, <a href="#ab06db672a0fee1e5fe35340fb58f5a89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_lookup</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -1772,7 +1799,8 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1781,7 +1809,7 @@ References <a href="#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, K
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1810,7 +1838,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1819,7 +1848,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1848,7 +1877,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1857,7 +1887,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1886,7 +1916,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1895,7 +1926,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 </div>
 </div>
 
@@ -1924,7 +1955,8 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1933,7 +1965,7 @@ Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, Ke
 </div>
 
 
-Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m&#95;entries</a>.
+Reference <a href="#a6c3a30d6871d3b560e6cd5360b164f46">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::m\_entries</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab6c1ebf5d50811e57eee6f8d2e201744">computeClassRelations</a>.
 </div>
@@ -1945,7 +1977,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab6c1ebf5d50
 
 ## Private Member Attributes
 
-### m&#95;entries {#a6c3a30d6871d3b560e6cd5360b164f46}
+### m\_entries {#a6c3a30d6871d3b560e6cd5360b164f46}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1965,7 +1997,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab6c1ebf5d50
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1974,11 +2007,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab6c1ebf5d50
 </div>
 
 
-Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#addab86ba882be1f9c4137b6ceb095991">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#a32a09a931c866f27807ceeabb48946f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#ab0ee1991e602ebd106de0fe5884979b6">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#a4f9f85656f6481dc10277057d168d74e">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::begin</a>, <a href="#a97730addaf4399cae4511cea404a482b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::begin</a>, <a href="#a607048cb06f6ad98ae763d5734db73d4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::clear</a>, <a href="#a6150feb21a667df3826df38c1a0878fa">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::del</a>, <a href="#a9a1da7be0df75c8ef81cdb3d825c6df3">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#aa5583f9f11e470f5810a431a795f64d2">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::end</a>, <a href="#ae54a6938e3c17da11dd1d23a6217499d">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::end</a>, <a href="#adf2840eabd548e287a9db8c40d453eb2">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::operator&#91;&#93;</a>, <a href="#a58e9cb2ea5649b464cd9a34f58ace816">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::operator&#91;&#93;</a>, <a href="#ac5e00dabde23084cd671b0fe61772297">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="#a1f76d619b8096fc4446808b378b8ce14">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="#aca527abc73458116bb7c965a4417ab42">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rbegin</a>, <a href="#ac7bb388567d79b9d1e97198cdde6c3f0">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rbegin</a>, <a href="#a833c562ee3244c51c48acb2284e56f89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rend</a>, <a href="#aa92f5f3a31fd45d04e4bb38e04112f5b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rend</a> and <a href="#ac1237f7ce32427ef9f9f334d0b97b1fb">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::size</a>.
+Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#addab86ba882be1f9c4137b6ceb095991">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#a32a09a931c866f27807ceeabb48946f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#ab0ee1991e602ebd106de0fe5884979b6">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::add</a>, <a href="#a4f9f85656f6481dc10277057d168d74e">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::begin</a>, <a href="#a97730addaf4399cae4511cea404a482b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::begin</a>, <a href="#a607048cb06f6ad98ae763d5734db73d4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::clear</a>, <a href="#a6150feb21a667df3826df38c1a0878fa">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::del</a>, <a href="#a9a1da7be0df75c8ef81cdb3d825c6df3">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#aa5583f9f11e470f5810a431a795f64d2">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::end</a>, <a href="#ae54a6938e3c17da11dd1d23a6217499d">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::end</a>, <a href="#adf2840eabd548e287a9db8c40d453eb2">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::operator\[\]</a>, <a href="#a58e9cb2ea5649b464cd9a34f58ace816">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::operator\[\]</a>, <a href="#ac5e00dabde23084cd671b0fe61772297">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="#a1f76d619b8096fc4446808b378b8ce14">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::prepend</a>, <a href="#aca527abc73458116bb7c965a4417ab42">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rbegin</a>, <a href="#ac7bb388567d79b9d1e97198cdde6c3f0">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rbegin</a>, <a href="#a833c562ee3244c51c48acb2284e56f89">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rend</a>, <a href="#aa92f5f3a31fd45d04e4bb38e04112f5b">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::rend</a> and <a href="#ac1237f7ce32427ef9f9f334d0b97b1fb">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::size</a>.
 </div>
 </div>
 
-### m&#95;lookup {#ab06db672a0fee1e5fe35340fb58f5a89}
+### m\_lookup {#ab06db672a0fee1e5fe35340fb58f5a89}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1998,7 +2031,8 @@ Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.</p>
+
+Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2015,7 +2049,7 @@ Referenced by <a href="#acddca8cb09f114936f6b80276f2c9c1b">LinkedMap&lt; T, Hash
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/linkedmap-h">linkedmap.h</a></li>

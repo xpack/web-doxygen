@@ -97,7 +97,7 @@ struct ModuleManager::Private { ... }
 </table>
 
 
-<p>Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -122,7 +122,8 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -152,7 +153,8 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -182,7 +184,8 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -212,7 +215,8 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -242,7 +246,8 @@ struct ModuleManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1212 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
+Definition at line 1212 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -257,7 +262,7 @@ struct ModuleManager::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a></li>

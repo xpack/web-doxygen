@@ -58,7 +58,7 @@ struct LexCodeParser::Private { ... }
 </table>
 
 
-<p>Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct LexCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1173 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
+Definition at line 1173 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct LexCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
+Definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct LexCodeParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a></li>

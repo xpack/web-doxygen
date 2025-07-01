@@ -54,13 +54,13 @@ struct details::Impl&lt;T, Ts&gt; { ... }
 </table>
 
 
-<p>Definition at line 1345 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 1345 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Static Functions
 
-### holds&#95;one&#95;of&#95;alternatives() {#a0fd4278ad6e530e3ed836849026072b6}
+### holds\_one\_of\_alternatives() {#a0fd4278ad6e530e3ed836849026072b6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -87,7 +87,8 @@ struct details::Impl&lt;T, Ts&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -99,9 +100,9 @@ struct details::Impl&lt;T, Ts&gt; { ... }
 </div>
 
 
-Reference <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds&#95;one&#95;of&#95;alternatives</a>.
+Reference <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds\_one\_of\_alternatives</a>.
 
-Referenced by <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds&#95;one&#95;of&#95;alternatives</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds&#95;one&#95;of&#95;alternatives</a>.
+Referenced by <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds\_one\_of\_alternatives</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds\_one\_of\_alternatives</a>.
 </div>
 </div>
 
@@ -109,7 +110,7 @@ Referenced by <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, 
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a></li>

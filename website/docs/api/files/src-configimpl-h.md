@@ -44,7 +44,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a></p>
+Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -58,7 +58,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Section marker for grouping the configuration options. <a href="/web-doxygen/docs/api/classes/configinfo/#details">More...</a></p>
+Section marker for grouping the configuration options. <a href="/web-doxygen/docs/api/classes/configinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -72,7 +72,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a list type option. <a href="/web-doxygen/docs/api/classes/configlist/#details">More...</a></p>
+Class representing a list type option. <a href="/web-doxygen/docs/api/classes/configlist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -86,7 +86,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing an enum type option. <a href="/web-doxygen/docs/api/classes/configenum/#details">More...</a></p>
+Class representing an enum type option. <a href="/web-doxygen/docs/api/classes/configenum/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -100,7 +100,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a string type option. <a href="/web-doxygen/docs/api/classes/configstring/#details">More...</a></p>
+Class representing a string type option. <a href="/web-doxygen/docs/api/classes/configstring/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -114,7 +114,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing an integer type option. <a href="/web-doxygen/docs/api/classes/configint/#details">More...</a></p>
+Class representing an integer type option. <a href="/web-doxygen/docs/api/classes/configint/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -128,7 +128,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a Boolean type option. <a href="/web-doxygen/docs/api/classes/configbool/#details">More...</a></p>
+Class representing a Boolean type option. <a href="/web-doxygen/docs/api/classes/configbool/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -142,7 +142,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Section marker for obsolete options. <a href="/web-doxygen/docs/api/classes/configobsolete/#details">More...</a></p>
+Section marker for obsolete options. <a href="/web-doxygen/docs/api/classes/configobsolete/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Section marker for compile time optional options. <a href="/web-doxygen/docs/api/classes/configdisabled/#details">More...</a></p>
+Section marker for compile time optional options. <a href="/web-doxygen/docs/api/classes/configdisabled/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -170,7 +170,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Singleton for configuration variables. <a href="/web-doxygen/docs/api/classes/configimpl/#details">More...</a></p>
+Singleton for configuration variables. <a href="/web-doxygen/docs/api/classes/configimpl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -217,7 +217,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0bd161ae0aee486bcb7f2e82081bbc29">ConfigImpl_getString</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getString(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0bd161ae0aee486bcb7f2e82081bbc29">ConfigImpl_getString</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getString(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -230,7 +230,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13b1e81f31f3f51a4efbe3c8ded57daf">ConfigImpl_getInt</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getInt(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13b1e81f31f3f51a4efbe3c8ded57daf">ConfigImpl_getInt</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getInt(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -243,7 +243,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a52b5269fc72b0ae62828285a049e0ce5">ConfigImpl_getList</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getList(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a52b5269fc72b0ae62828285a049e0ce5">ConfigImpl_getList</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getList(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -256,7 +256,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af7dd00a211fe14999c78fce030022cc8">ConfigImpl_getEnum</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getEnum(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af7dd00a211fe14999c78fce030022cc8">ConfigImpl_getEnum</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getEnum(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -269,7 +269,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aae7186f5d5a06fedba658e712974a9c8">ConfigImpl_getBool</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getBool(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aae7186f5d5a06fedba658e712974a9c8">ConfigImpl_getBool</a>(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getBool(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -306,7 +306,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -336,7 +337,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -353,7 +355,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### ConfigImpl&#95;getBool {#aae7186f5d5a06fedba658e712974a9c8}
+### ConfigImpl\_getBool {#aae7186f5d5a06fedba658e712974a9c8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -362,7 +364,7 @@ toc_max_heading_level: 4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ConfigImpl_getBool(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getBool(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberName">#define ConfigImpl_getBool(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getBool(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 </table>
 </td>
@@ -372,7 +374,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -385,7 +388,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </div>
 </div>
 
-### ConfigImpl&#95;getEnum {#af7dd00a211fe14999c78fce030022cc8}
+### ConfigImpl\_getEnum {#af7dd00a211fe14999c78fce030022cc8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -394,7 +397,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ConfigImpl_getEnum(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getEnum(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberName">#define ConfigImpl_getEnum(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getEnum(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 </table>
 </td>
@@ -404,7 +407,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -415,7 +419,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </div>
 </div>
 
-### ConfigImpl&#95;getInt {#a13b1e81f31f3f51a4efbe3c8ded57daf}
+### ConfigImpl\_getInt {#a13b1e81f31f3f51a4efbe3c8ded57daf}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -424,7 +428,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ConfigImpl_getInt(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getInt(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberName">#define ConfigImpl_getInt(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getInt(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 </table>
 </td>
@@ -434,7 +438,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -445,7 +450,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </div>
 </div>
 
-### ConfigImpl&#95;getList {#a52b5269fc72b0ae62828285a049e0ce5}
+### ConfigImpl\_getList {#a52b5269fc72b0ae62828285a049e0ce5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -454,7 +459,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ConfigImpl_getList(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getList(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberName">#define ConfigImpl_getList(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getList(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 </table>
 </td>
@@ -464,7 +469,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -475,7 +481,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </div>
 </div>
 
-### ConfigImpl&#95;getString {#a0bd161ae0aee486bcb7f2e82081bbc29}
+### ConfigImpl\_getString {#a0bd161ae0aee486bcb7f2e82081bbc29}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -484,7 +490,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ConfigImpl_getString(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getString(&#95;&#95;FILE&#95;&#95;,&#95;&#95;LINE&#95;&#95;,val)</td>
+<td class="doxyMemberName">#define ConfigImpl_getString(val)&nbsp;&nbsp;&nbsp;<a href="/web-doxygen/docs/api/classes/configimpl/#a501e98a30e96c9930ac4b1791b80c09a">ConfigImpl::instance</a>()-&gt;getString(\_\_FILE\_\_,\_\_LINE\_\_,val)</td>
 </tr>
 </table>
 </td>
@@ -494,7 +500,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
+Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
 
 <div class="doxyProgramListing">
 

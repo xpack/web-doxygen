@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a></p>
+Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -133,6 +133,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -140,24 +141,24 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NO<a id="ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251"></a></td>
-<td class="doxyEnumItemDescription"><p>not called through texorpdf</p></td>
+<td class="doxyEnumItemDescription">not called through texorpdf</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TEX<a id="ac63cb3ba9a18f02ff6bde1a72b79b492a9ed6f50f63c3af102f036468321d142b"></a></td>
-<td class="doxyEnumItemDescription"><p>called through texorpdf as TeX (first) part</p></td>
+<td class="doxyEnumItemDescription">called through texorpdf as TeX (first) part</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PDF<a id="ac63cb3ba9a18f02ff6bde1a72b79b492abcd1b68617759b1dfcff0403a6b5a8d1"></a></td>
-<td class="doxyEnumItemDescription"><p>called through texorpdf as PDF (second) part</p></td>
+<td class="doxyEnumItemDescription">called through texorpdf as PDF (second) part</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 

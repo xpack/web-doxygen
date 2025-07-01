@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>SQL scanner. <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#details">More...</a></p>
+SQL scanner. <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

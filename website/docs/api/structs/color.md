@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Color` Struct Reference
 
-<p>Helper struct representing a RGBA color. <a href="#details">More...</a></p>
+Helper struct representing a RGBA color. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -85,9 +85,9 @@ struct Color { ... }
 
 ## Description {#details}
 
-<p>Helper struct representing a RGBA color.</p>
+Helper struct representing a RGBA color.
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -112,7 +112,8 @@ struct Color { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -142,7 +143,8 @@ struct Color { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -172,7 +174,8 @@ struct Color { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -202,7 +205,8 @@ struct Color { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -217,7 +221,7 @@ struct Color { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a></li>

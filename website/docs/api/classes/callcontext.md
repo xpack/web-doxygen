@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CallContext` Class Reference
 
-<p>Represents the call context. <a href="#details">More...</a></p>
+Represents the call context. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -141,9 +141,9 @@ class CallContext { ... }
 
 ## Description {#details}
 
-<p>Represents the call context.</p>
+Represents the call context.
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxySectionDef">
 
@@ -173,7 +173,8 @@ class CallContext { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -219,7 +220,8 @@ Reference <a href="#a7869d538aef25757711715bbd042ab62">clear</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -232,7 +234,7 @@ Reference <a href="#a7869d538aef25757711715bbd042ab62">clear</a>.
 </div>
 
 
-Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
+Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m\_stvList</a>.
 
 Referenced by <a href="#acf102c125585ad2e1bbfd53f71bdf736">CallContext</a>.
 </div>
@@ -262,7 +264,8 @@ Referenced by <a href="#acf102c125585ad2e1bbfd53f71bdf736">CallContext</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -274,7 +277,7 @@ Referenced by <a href="#acf102c125585ad2e1bbfd53f71bdf736">CallContext</a>.
 </div>
 
 
-Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
+Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m\_stvList</a>.
 </div>
 </div>
 
@@ -302,7 +305,8 @@ Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -321,7 +325,7 @@ Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a8768bac9d029bdc223a04b1e11ab282f">CallContext::Ctx::bracketCount</a>, <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>, <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a25706b50d9a1377bc3c8d955047ad4fc">CallContext::Ctx::name</a> and <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a4f7150e244df309082ff5cc1abb0806f">CallContext::Ctx::type</a>.
+References <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a8768bac9d029bdc223a04b1e11ab282f">CallContext::Ctx::bracketCount</a>, <a href="#ab06d8743378a2f8012f1f6268321298e">m\_stvList</a>, <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a25706b50d9a1377bc3c8d955047ad4fc">CallContext::Ctx::name</a> and <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a4f7150e244df309082ff5cc1abb0806f">CallContext::Ctx::type</a>.
 </div>
 </div>
 
@@ -349,7 +353,8 @@ References <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a8768bac9d029
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -361,7 +366,7 @@ References <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a8768bac9d029
 </div>
 
 
-Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
+Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m\_stvList</a>.
 </div>
 </div>
 
@@ -389,7 +394,8 @@ Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -402,7 +408,7 @@ Reference <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a>.
 </div>
 
 
-References <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a> and <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a725fa748acce00d5e41f9c1f00c7be95">CallContext::Ctx::stv</a>.
+References <a href="#ab06d8743378a2f8012f1f6268321298e">m\_stvList</a> and <a href="/web-doxygen/docs/api/structs/callcontext/ctx/#a725fa748acce00d5e41f9c1f00c7be95">CallContext::Ctx::stv</a>.
 </div>
 </div>
 
@@ -412,7 +418,7 @@ References <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a> and <a
 
 ## Private Member Attributes
 
-### m&#95;stvList {#ab06d8743378a2f8012f1f6268321298e}
+### m\_stvList {#ab06d8743378a2f8012f1f6268321298e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -431,7 +437,8 @@ References <a href="#ab06d8743378a2f8012f1f6268321298e">m&#95;stvList</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -448,7 +455,7 @@ Referenced by <a href="#a7869d538aef25757711715bbd042ab62">clear</a>, <a href="#
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a></li>

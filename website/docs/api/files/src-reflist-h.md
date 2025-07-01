@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This struct represents an item in the list of references. <a href="/web-doxygen/docs/api/classes/refitem/#details">More...</a></p>
+This struct represents an item in the list of references. <a href="/web-doxygen/docs/api/classes/refitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -54,7 +54,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>List of cross-referenced items. <a href="/web-doxygen/docs/api/classes/reflist/#details">More...</a></p>
+List of cross-referenced items. <a href="/web-doxygen/docs/api/classes/reflist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -119,7 +119,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 

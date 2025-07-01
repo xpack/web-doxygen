@@ -81,7 +81,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.</p>
+
+Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -92,7 +93,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### WIN32&#95;LEAN&#95;AND&#95;MEAN {#ac7bef5d85e3dcd73eef56ad39ffc84a9}
+### WIN32\_LEAN\_AND\_MEAN {#ac7bef5d85e3dcd73eef56ad39ffc84a9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -111,7 +112,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.</p>
+
+Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.
 
 <div class="doxyProgramListing">
 

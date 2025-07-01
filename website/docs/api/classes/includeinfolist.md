@@ -45,7 +45,7 @@ class IncludeInfoList { ... }
 </table>
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <hr/>
 

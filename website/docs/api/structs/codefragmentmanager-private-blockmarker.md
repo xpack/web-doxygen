@@ -71,7 +71,7 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 </table>
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -96,7 +96,8 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -126,7 +127,8 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -156,7 +158,8 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -171,7 +174,7 @@ struct CodeFragmentManager::Private::BlockMarker { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a></li>

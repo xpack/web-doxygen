@@ -295,7 +295,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static WARN_AS_ERROR_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8e1d65011b82b41029cea922b7b3c298">g_warnBehavior</a> = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN&#95;AS&#95;ERROR&#95;t::NO</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8e1d65011b82b41029cea922b7b3c298">g_warnBehavior</a> = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN\_AS\_ERROR\_t::NO</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -402,7 +402,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -419,13 +420,13 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ab1c5d408176641f644437b6c4b551246">g&#95;warnHash</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ab1c5d408176641f644437b6c4b551246">g\_warnHash</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
 
-Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term&#95;</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term\_</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
-### do&#95;warn() {#a64ba1596ef3046e773e49494e9e25913}
+### do\_warn() {#a64ba1596ef3046e773e49494e9e25913}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -449,7 +450,8 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -462,13 +464,13 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 </div>
 
 
-References <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
+References <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
 
-Referenced by <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn&#95;</a>.
+Referenced by <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn\_</a>.
 </div>
 </div>
 
-### err&#95;() {#a3a494fadd4c48c14de490e66d80bb279}
+### err\_() {#a3a494fadd4c48c14de490e66d80bb279}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -487,7 +489,8 @@ Referenced by <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn&#95;</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -503,13 +506,13 @@ Referenced by <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn&#95;</a>.
 </div>
 
 
-References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g&#95;errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>.
+References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g\_errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ae3b8cd624e6c2ec6778469b7821caafd">err&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ae3b8cd624e6c2ec6778469b7821caafd">err\_fmt</a>.
 </div>
 </div>
 
-### err&#95;full&#95;() {#aee081170866fc184d3119f7c24566b74}
+### err\_full\_() {#aee081170866fc184d3119f7c24566b74}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -528,7 +531,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ae3b8cd624e6c2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -540,9 +544,9 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ae3b8cd624e6c2
 </div>
 
 
-References <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a> and <a href="#a8a0504f5cfc80ac9db15736e27d04554">g&#95;errorStr</a>.
+References <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a> and <a href="#a8a0504f5cfc80ac9db15736e27d04554">g\_errorStr</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af6932e5ae88b6ad6b25989caf7fad051">err&#95;full&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af6932e5ae88b6ad6b25989caf7fad051">err\_full\_fmt</a>.
 </div>
 </div>
 
@@ -565,7 +569,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af6932e5ae88b6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -609,13 +614,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af6932e5ae88b6
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#af099fa6239b4961887192d8eadfd2a44">Portable::fclose</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g&#95;warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g&#95;warnlogFile</a>, <a href="#a74c872d0bf5eb507f454aaa810973144">g&#95;warnlogTemp</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g&#95;warnStat</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a394e935b6fd1899b26f8987f89a4cbfb">Portable::unlink</a>.
+References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#af099fa6239b4961887192d8eadfd2a44">Portable::fclose</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g\_warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g\_warnlogFile</a>, <a href="#a74c872d0bf5eb507f454aaa810973144">g\_warnlogTemp</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g\_warnStat</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a394e935b6fd1899b26f8987f89a4cbfb">Portable::unlink</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
 </div>
 </div>
 
-### format&#95;warn() {#ad150b78be80374eb1373be71e75a67b0}
+### format\_warn() {#ad150b78be80374eb1373be71e75a67b0}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -639,7 +644,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -689,13 +695,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </div>
 
 
-References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g&#95;warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>, <a href="#aad4ae1643bcdbcff1680a322e5bbae8d">g&#95;warnFormat</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g&#95;warnlogFile</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g&#95;warnStat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g\_warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>, <a href="#aad4ae1643bcdbcff1680a322e5bbae8d">g\_warnFormat</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g\_warnlogFile</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g\_warnStat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
 
-Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a> and <a href="#aee081170866fc184d3119f7c24566b74">err&#95;full&#95;</a>.
+Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do\_warn</a> and <a href="#aee081170866fc184d3119f7c24566b74">err\_full\_</a>.
 </div>
 </div>
 
-### handle&#95;warn&#95;as&#95;error() {#aed763574c33aa626cd8209d9d681938a}
+### handle\_warn\_as\_error() {#aed763574c33aa626cd8209d9d681938a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -719,7 +725,8 @@ Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -745,9 +752,9 @@ Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a> and <
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g&#95;warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g&#95;warnlogFile</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g&#95;warnStat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g\_warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g\_warnlogFile</a>, <a href="#a807b8e20fe24490244de4bfdaf531bef">g\_warnStat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
 
-Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a>, <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do\_warn</a>, <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
@@ -770,7 +777,8 @@ Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -833,13 +841,13 @@ Referenced by <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a>, <a h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config&#95;getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#af099fa6239b4961887192d8eadfd2a44">Portable::fclose</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g&#95;errorStr</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g&#95;warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>, <a href="#aad4ae1643bcdbcff1680a322e5bbae8d">g&#95;warnFormat</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g&#95;warningStr</a>, <a href="#a7a6bddc99419347af9c2d3569bada867">g&#95;warnLineFormat</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g&#95;warnlogFile</a>, <a href="#a74c872d0bf5eb507f454aaa810973144">g&#95;warnlogTemp</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4e8eda17264bc9f97c4d106882c8d874">Portable::pid</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#af099fa6239b4961887192d8eadfd2a44">Portable::fclose</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g\_errorStr</a>, <a href="#a8e1d65011b82b41029cea922b7b3c298">g\_warnBehavior</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>, <a href="#aad4ae1643bcdbcff1680a322e5bbae8d">g\_warnFormat</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g\_warningStr</a>, <a href="#a7a6bddc99419347af9c2d3569bada867">g\_warnLineFormat</a>, <a href="#aef140dc11e587afb68a5b902eef06241">g\_warnlogFile</a>, <a href="#a74c872d0bf5eb507f454aaa810973144">g\_warnlogTemp</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4e8eda17264bc9f97c4d106882c8d874">Portable::pid</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c785229969c3052f3e37fb1">checkConfiguration</a>.
 </div>
 </div>
 
-### msg&#95;() {#aca6c414913e8be769863ed67c1e82141}
+### msg\_() {#aca6c414913e8be769863ed67c1e82141}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -858,7 +866,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -878,13 +887,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015caee0ab90ddb6e87">Debug::elapsedTime</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a> and <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da9cbd5d3516ffd3fe86238779edb2f7c5">Debug::Time</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015caee0ab90ddb6e87">Debug::elapsedTime</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a> and <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da9cbd5d3516ffd3fe86238779edb2f7c5">Debug::Time</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ace632f900cabdba027c4f8034b7c31ef">msg&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ace632f900cabdba027c4f8034b7c31ef">msg\_fmt</a>.
 </div>
 </div>
 
-### term&#95;() {#aea5f4b9b7bf7b3f59be94e5e096095ad}
+### term\_() {#aea5f4b9b7bf7b3f59be94e5e096095ad}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -903,7 +912,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ace632f900cabd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -930,13 +940,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#ace632f900cabd
 </div>
 
 
-References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g&#95;errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a> and <a href="#aef140dc11e587afb68a5b902eef06241">g&#95;warnlogFile</a>.
+References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g\_errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a> and <a href="#aef140dc11e587afb68a5b902eef06241">g\_warnlogFile</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a470c151e1a1142bf01f5e9be2500d20d">term&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a470c151e1a1142bf01f5e9be2500d20d">term\_fmt</a>.
 </div>
 </div>
 
-### warn&#95;() {#a7bb548412cf2bb2cf0d98b653eadaa88}
+### warn\_() {#a7bb548412cf2bb2cf0d98b653eadaa88}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -955,7 +965,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a470c151e1a114
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -979,13 +990,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a470c151e1a114
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="#a64ba1596ef3046e773e49494e9e25913">do&#95;warn</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeafb8427f1dd12e9cfe06017e2d46f6843">DocError</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g&#95;warningStr</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aead321401b4e59fb2eb89b942818e860bb">IncompleteDoc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeaebd9bec4d70abc789d439c1f136b0538">Layout</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeafcb2132b65cdd119b19be66fbc3622e2">Undocumented</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a64ba1596ef3046e773e49494e9e25913">do\_warn</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeafb8427f1dd12e9cfe06017e2d46f6843">DocError</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g\_warningStr</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aead321401b4e59fb2eb89b942818e860bb">IncompleteDoc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeaebd9bec4d70abc789d439c1f136b0538">Layout</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aeafcb2132b65cdd119b19be66fbc3622e2">Undocumented</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af459e756f4676a24a106e67723415920">warn&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af459e756f4676a24a106e67723415920">warn\_fmt</a>.
 </div>
 </div>
 
-### warn&#95;flush() {#aad9799c2a434877f36bc92beb8966567}
+### warn\_flush() {#aad9799c2a434877f36bc92beb8966567}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1004,7 +1015,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af459e756f4676
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1016,13 +1028,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#af459e756f4676
 </div>
 
 
-Reference <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>.
+Reference <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/statistics/#aa3c0ae123d9f74e170ba1bab16dd8575">Statistics::end</a>.
 </div>
 </div>
 
-### warn&#95;line() {#a4149b6b3cb3e0246eb2e0d47de02538f}
+### warn\_line() {#a4149b6b3cb3e0246eb2e0d47de02538f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1041,7 +1053,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/statistics/#aa3c0ae123d9f74
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1061,13 +1074,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/statistics/#aa3c0ae123d9f74
 </div>
 
 
-References <a href="#a7a6bddc99419347af9c2d3569bada867">g&#95;warnLineFormat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+References <a href="#a7a6bddc99419347af9c2d3569bada867">g\_warnLineFormat</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab8f6cdb1a0374f49399a31bd2ea0226a">checkPageRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#abc809fca2014e90fe0aee477a1964ed7">computePageRelations</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa4009560979330b7c6fb2cb3">findGlobalMember</a>.
 </div>
 </div>
 
-### warn&#95;uncond&#95;() {#a9860ed9c33a1b2d1842c66e97c2e9eba}
+### warn\_uncond\_() {#a9860ed9c33a1b2d1842c66e97c2e9eba}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1086,7 +1099,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1102,9 +1116,9 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 </div>
 
 
-References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g&#95;errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g&#95;mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g&#95;warnFile</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g&#95;warningStr</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>.
+References <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>, <a href="#a8a0504f5cfc80ac9db15736e27d04554">g\_errorStr</a>, <a href="#abf45c484c585bd82d2d892c29de4a0be">g\_mutex</a>, <a href="#abfb684889b2b27eb72e96af8478b5f85">g\_warnFile</a>, <a href="#a9d34be93b99045d723b7edc562d10ce4">g\_warningStr</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a38008a48b77c36b6ab647ba2cc5017b9">warn&#95;uncond&#95;fmt</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a38008a48b77c36b6ab647ba2cc5017b9">warn\_uncond\_fmt</a>.
 </div>
 </div>
 
@@ -1114,7 +1128,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a38008a48b77c3
 
 ## Variables
 
-### g&#95;errorStr {#a8a0504f5cfc80ac9db15736e27d04554}
+### g\_errorStr {#a8a0504f5cfc80ac9db15736e27d04554}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1138,7 +1152,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a38008a48b77c3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1147,11 +1162,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-h/#a38008a48b77c3
 </div>
 
 
-Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href="#aee081170866fc184d3119f7c24566b74">err&#95;full&#95;</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term&#95;</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a>, <a href="#aee081170866fc184d3119f7c24566b74">err\_full\_</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term\_</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
-### g&#95;mutex {#abf45c484c585bd82d2d892c29de4a0be}
+### g\_mutex {#abf45c484c585bd82d2d892c29de4a0be}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1175,7 +1190,8 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1184,11 +1200,11 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 </div>
 
 
-Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>, <a href="#aca6c414913e8be769863ed67c1e82141">msg&#95;</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term&#95;</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>, <a href="#aca6c414913e8be769863ed67c1e82141">msg\_</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term\_</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
-### g&#95;warnBehavior {#a8e1d65011b82b41029cea922b7b3c298}
+### g\_warnBehavior {#a8e1d65011b82b41029cea922b7b3c298}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1197,7 +1213,7 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">WARN_AS_ERROR_t g_warnBehavior = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN&#95;AS&#95;ERROR&#95;t::NO</a></td>
+<td class="doxyMemberName">WARN_AS_ERROR_t g_warnBehavior = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN\_AS\_ERROR\_t::NO</a></td>
 </tr>
 </table>
 </td>
@@ -1212,7 +1228,8 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1221,11 +1238,11 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 </div>
 
 
-Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a> and <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.
+Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a> and <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.
 </div>
 </div>
 
-### g&#95;warnFile {#abfb684889b2b27eb72e96af8478b5f85}
+### g\_warnFile {#abfb684889b2b27eb72e96af8478b5f85}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1249,7 +1266,8 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1258,11 +1276,11 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <
 </div>
 
 
-Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term&#95;</a>, <a href="#aad9799c2a434877f36bc92beb8966567">warn&#95;flush</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a>, <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term\_</a>, <a href="#aad9799c2a434877f36bc92beb8966567">warn\_flush</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
-### g&#95;warnFormat {#aad4ae1643bcdbcff1680a322e5bbae8d}
+### g\_warnFormat {#aad4ae1643bcdbcff1680a322e5bbae8d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1286,7 +1304,8 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1295,11 +1314,11 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err&#95;</a>, <a href
 </div>
 
 
-Referenced by <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a> and <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.
+Referenced by <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a> and <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.
 </div>
 </div>
 
-### g&#95;warnHash {#ab1c5d408176641f644437b6c4b551246}
+### g\_warnHash {#ab1c5d408176641f644437b6c4b551246}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1323,7 +1342,8 @@ Referenced by <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1336,7 +1356,7 @@ Referenced by <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>.
 </div>
 </div>
 
-### g&#95;warningStr {#a9d34be93b99045d723b7edc562d10ce4}
+### g\_warningStr {#a9d34be93b99045d723b7edc562d10ce4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1360,7 +1380,8 @@ Referenced by <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1369,11 +1390,11 @@ Referenced by <a href="#a158f798fb6e8971c1480747fa7061a96">checkWarnMessage</a>.
 </div>
 
 
-Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn&#95;</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn&#95;uncond&#95;</a>.
+Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="#a7bb548412cf2bb2cf0d98b653eadaa88">warn\_</a> and <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 </div>
 </div>
 
-### g&#95;warnLineFormat {#a7a6bddc99419347af9c2d3569bada867}
+### g\_warnLineFormat {#a7a6bddc99419347af9c2d3569bada867}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1397,7 +1418,8 @@ Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1406,11 +1428,11 @@ Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>
 </div>
 
 
-Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a> and <a href="#a4149b6b3cb3e0246eb2e0d47de02538f">warn&#95;line</a>.
+Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a> and <a href="#a4149b6b3cb3e0246eb2e0d47de02538f">warn\_line</a>.
 </div>
 </div>
 
-### g&#95;warnlogFile {#aef140dc11e587afb68a5b902eef06241}
+### g\_warnlogFile {#aef140dc11e587afb68a5b902eef06241}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1434,7 +1456,8 @@ Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1443,11 +1466,11 @@ Referenced by <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>
 </div>
 
 
-Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a> and <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term&#95;</a>.
+Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a>, <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>, <a href="#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a> and <a href="#aea5f4b9b7bf7b3f59be94e5e096095ad">term\_</a>.
 </div>
 </div>
 
-### g&#95;warnlogTemp {#a74c872d0bf5eb507f454aaa810973144}
+### g\_warnlogTemp {#a74c872d0bf5eb507f454aaa810973144}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1471,7 +1494,8 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1484,7 +1508,7 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a> an
 </div>
 </div>
 
-### g&#95;warnStat {#a807b8e20fe24490244de4bfdaf531bef}
+### g\_warnStat {#a807b8e20fe24490244de4bfdaf531bef}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1508,7 +1532,8 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/message-cpp">message.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1517,7 +1542,7 @@ Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a> an
 </div>
 
 
-Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format&#95;warn</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle&#95;warn&#95;as&#95;error</a>.
+Referenced by <a href="#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="#ad150b78be80374eb1373be71e75a67b0">format\_warn</a> and <a href="#aed763574c33aa626cd8209d9d681938a">handle\_warn\_as\_error</a>.
 </div>
 </div>
 

@@ -36,7 +36,7 @@ class ModuleList { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; ModuleDef &#42; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; ModuleDef * &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class ModuleList { ... }
 </table>
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <hr/>
 

@@ -62,7 +62,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/configoptions-h">configoptions.h</a>.</p>
+
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/configoptions-h">configoptions.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/configimpl/#af661fbf44e03c43d5ae7c3e30ef33a18">ConfigImpl::ConfigImpl</a>.
 </div>

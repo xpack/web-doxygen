@@ -62,7 +62,7 @@ struct xmlYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the code fragment as text <a href="#ae1517f6453471eec1e347545d1976ed8">More...</a></p>
+the code fragment as text <a href="#ae1517f6453471eec1e347545d1976ed8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -76,7 +76,7 @@ struct xmlYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>read offset during parsing <a href="#aba579c26d99a864ae794244a892bd689">More...</a></p>
+read offset during parsing <a href="#aba579c26d99a864ae794244a892bd689">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -268,7 +268,7 @@ struct xmlYY_state { ... }
 </table>
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxySectionDef">
 
@@ -293,7 +293,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -323,7 +324,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -353,7 +355,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -383,7 +386,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -413,7 +417,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -443,7 +448,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -473,7 +479,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -503,7 +510,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -533,7 +541,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -561,9 +570,10 @@ struct xmlYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>read offset during parsing</p>
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+read offset during parsing
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -591,9 +601,10 @@ struct xmlYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the code fragment as text</p>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+the code fragment as text
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -623,7 +634,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -653,7 +665,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -683,7 +696,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -713,7 +727,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -743,7 +758,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -773,7 +789,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -803,7 +820,8 @@ struct xmlYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -818,7 +836,7 @@ struct xmlYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a></li>

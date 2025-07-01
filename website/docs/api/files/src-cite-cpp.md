@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>class that provide information about the p[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a></p>
+class that provide information about the p\[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -112,7 +112,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const char *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a> = "bibTmpFile&#95;"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a> = "bibTmpFile\_"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -138,7 +138,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const std::string</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a> = "CITE&#95;FORMULA&#95;"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a> = "CITE\_FORMULA\_"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -180,7 +180,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -225,7 +226,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -247,7 +249,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const char* bibTmpFile = "bibTmpFile&#95;"</td>
+<td class="doxyMemberName">const char* bibTmpFile = "bibTmpFile\_"</td>
 </tr>
 </table>
 </td>
@@ -257,7 +259,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -270,7 +273,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 </div>
 </div>
 
-### g&#95;formulaMarker {#a98402aa01b6229891b70c079b6ce7b59}
+### g\_formulaMarker {#a98402aa01b6229891b70c079b6ce7b59}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -279,7 +282,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const std::string g_formulaMarker = "CITE&#95;FORMULA&#95;"</td>
+<td class="doxyMemberName">const std::string g_formulaMarker = "CITE\_FORMULA\_"</td>
 </tr>
 </table>
 </td>
@@ -289,7 +292,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
 
 <div class="doxyProgramListing">
 

@@ -85,7 +85,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;clangMutex {#a2d3ea1645a5e51e8da5f98432bb06cb8}
+### g\_clangMutex {#a2d3ea1645a5e51e8da5f98432bb06cb8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -109,7 +109,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.
 
 <div class="doxyProgramListing">
 

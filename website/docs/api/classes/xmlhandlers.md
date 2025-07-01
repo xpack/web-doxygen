@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `XMLHandlers` Class Reference
 
-<p>Event handlers that can installed by the client and called while parsing a XML document. <a href="#details">More...</a></p>
+Event handlers that can installed by the client and called while parsing a XML document. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -138,7 +138,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked at the start of the document <a href="#ae666b94024ae82743cc7b8ae6445e684">More...</a></p>
+handler invoked at the start of the document <a href="#ae666b94024ae82743cc7b8ae6445e684">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -152,7 +152,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked at the end of the document <a href="#a762ceef4d0f235077af889915799facf">More...</a></p>
+handler invoked at the end of the document <a href="#a762ceef4d0f235077af889915799facf">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -166,7 +166,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked when an opening tag has been found <a href="#a75b4fb2c24bd41404fe59c31a6dbd493">More...</a></p>
+handler invoked when an opening tag has been found <a href="#a75b4fb2c24bd41404fe59c31a6dbd493">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -180,7 +180,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked when a closing tag has been found <a href="#a623bc48085a8ced78c3202713a24724e">More...</a></p>
+handler invoked when a closing tag has been found <a href="#a623bc48085a8ced78c3202713a24724e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -194,7 +194,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked when content between tags has been found <a href="#a895a088f5352bced5cf6a998da7fc06a">More...</a></p>
+handler invoked when content between tags has been found <a href="#a895a088f5352bced5cf6a998da7fc06a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -208,7 +208,7 @@ class XMLHandlers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>handler invoked when the parser encounters an error <a href="#adf5e4d9f4927edb0fb5d1259a4da9960">More...</a></p>
+handler invoked when the parser encounters an error <a href="#adf5e4d9f4927edb0fb5d1259a4da9960">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -238,9 +238,9 @@ class XMLHandlers { ... }
 
 ## Description {#details}
 
-<p>Event handlers that can installed by the client and called while parsing a XML document.</p>
+Event handlers that can installed by the client and called while parsing a XML document.
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxySectionDef">
 
@@ -265,7 +265,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -295,7 +296,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -325,7 +327,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -355,7 +358,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -385,7 +389,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -415,7 +420,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -445,7 +451,8 @@ class XMLHandlers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -479,9 +486,10 @@ class XMLHandlers { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked when content between tags has been found</p>
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked when content between tags has been found
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -511,9 +519,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a396
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked at the end of the document</p>
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked at the end of the document
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -541,9 +550,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a396
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked when a closing tag has been found</p>
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked when a closing tag has been found
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -573,9 +583,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a92074847
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked when the parser encounters an error</p>
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked when the parser encounters an error
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -605,9 +616,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a92074847
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked at the start of the document</p>
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked at the start of the document
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -637,9 +649,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a396
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>handler invoked when an opening tag has been found</p>
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+handler invoked when an opening tag has been found
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -683,7 +696,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a92074847
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -700,7 +714,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a92074847
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a655e33094d44e8925db5939ca9d68d36">elemIsVisible</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a6927f64d6b3e45878b5102852e1e2fac">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startBase</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startCompound</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3646ed3d0fe02e98b159d52ff914f305">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startDocAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#afc3a2293108d7a644b0c57ad06f29c11">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startEnumValue</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a347e401a684f17633b5d23c1010b3f28">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startIncludes</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#ae1e94d4f205f79a8b052e4140d575cb9">LayoutParser::startLayout</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa4db9510d59066b8d7f847bda9fb9574">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startMember</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#afcd6c1e555f2bc462f5703468b23c3d8">LayoutParser::startMemberDeclEntry</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#a159d9ffd0d6742275e763d2bb25ae3f0">LayoutParser::startMemberDefEntry</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#aba3b3876764867eeb32b9dcce3d4b63b">LayoutParser::startNavEntry</a> and <a href="/web-doxygen/docs/api/classes/layoutparser/#a3a78c06f8d054ac9c9b0b210d243f9b6">LayoutParser::startSectionEntry</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a655e33094d44e8925db5939ca9d68d36">elemIsVisible</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a6927f64d6b3e45878b5102852e1e2fac">anonymous\_namespace{tagreader.cpp}::TagFileParser::startBase</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous\_namespace{tagreader.cpp}::TagFileParser::startCompound</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3646ed3d0fe02e98b159d52ff914f305">anonymous\_namespace{tagreader.cpp}::TagFileParser::startDocAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#afc3a2293108d7a644b0c57ad06f29c11">anonymous\_namespace{tagreader.cpp}::TagFileParser::startEnumValue</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a347e401a684f17633b5d23c1010b3f28">anonymous\_namespace{tagreader.cpp}::TagFileParser::startIncludes</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#ae1e94d4f205f79a8b052e4140d575cb9">LayoutParser::startLayout</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa4db9510d59066b8d7f847bda9fb9574">anonymous\_namespace{tagreader.cpp}::TagFileParser::startMember</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#afcd6c1e555f2bc462f5703468b23c3d8">LayoutParser::startMemberDeclEntry</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#a159d9ffd0d6742275e763d2bb25ae3f0">LayoutParser::startMemberDefEntry</a>, <a href="/web-doxygen/docs/api/classes/layoutparser/#aba3b3876764867eeb32b9dcce3d4b63b">LayoutParser::startNavEntry</a> and <a href="/web-doxygen/docs/api/classes/layoutparser/#a3a78c06f8d054ac9c9b0b210d243f9b6">LayoutParser::startSectionEntry</a>.
 </div>
 </div>
 
@@ -708,7 +722,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a655e33094d44
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/libxml/xml-h">xml.h</a></li>

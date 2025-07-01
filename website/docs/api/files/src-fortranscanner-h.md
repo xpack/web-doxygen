@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a></p>
+Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 

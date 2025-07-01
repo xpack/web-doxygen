@@ -67,6 +67,7 @@ namespace ClassMemberHighlight { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -74,59 +75,59 @@ namespace ClassMemberHighlight { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">All<a id="a6048197e058a0592b709901a26fd5beba525098ea62cbd9b913ceea1265eade0d"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Functions<a id="a6048197e058a0592b709901a26fd5bebace63d3b887ff69dc23d3bcf921399f04"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Variables<a id="a6048197e058a0592b709901a26fd5beba19d9a8f4e05df2e1a3475c55060fac6b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Typedefs<a id="a6048197e058a0592b709901a26fd5beba3032b799b82514421a73aa3c41963261"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Enums<a id="a6048197e058a0592b709901a26fd5beba7046101c6dcadf2e24d1957e9f239554"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EnumValues<a id="a6048197e058a0592b709901a26fd5beba373da1884065adefbae311305eb2db9b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Properties<a id="a6048197e058a0592b709901a26fd5beba5ddbeed21dbb7628f833e7e6d8119cb6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Events<a id="a6048197e058a0592b709901a26fd5bebad729fb1b23106e5472bec39ff0e8fa75"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Related<a id="a6048197e058a0592b709901a26fd5beba414351f516224ef9dc574636365547d1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Total<a id="a6048197e058a0592b709901a26fd5beba499794d5799366ef962288af11c865b4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.</p>
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -152,7 +153,7 @@ namespace ClassMemberHighlight { ... }
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/index-h">index.h</a></li>

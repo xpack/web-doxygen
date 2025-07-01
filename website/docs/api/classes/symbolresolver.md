@@ -79,7 +79,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Find the class definition matching name within the scope set. <a href="#a7d24640728b220c0b98554dbc7aa9d5f">More...</a></p>
+Find the class definition matching name within the scope set. <a href="#a7d24640728b220c0b98554dbc7aa9d5f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Wrapper around resolveClass that returns a mutable interface to the class object or a nullptr if the symbol is immutable. <a href="#ab3249c001539f0f9de46a3ec8098fbea">More...</a></p>
+Wrapper around resolveClass that returns a mutable interface to the class object or a nullptr if the symbol is immutable. <a href="#ab3249c001539f0f9de46a3ec8098fbea">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Find the symbool definition matching name within the scope set. <a href="#a739c707d2150c5b2115fa731694eaeec">More...</a></p>
+Find the symbool definition matching name within the scope set. <a href="#a739c707d2150c5b2115fa731694eaeec">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Checks if symbol <em>item</em> is accessible from within <em>scope</em>. <a href="#a2d50ab34b5f003b3ee4c1283a414eca0">More...</a></p>
+Checks if symbol <em>item</em> is accessible from within <em>scope</em>. <a href="#a2d50ab34b5f003b3ee4c1283a414eca0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,7 +135,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Check if symbol <em>item</em> is accessible from within <em>scope</em>, where it has to match the <em>explicitScopePart</em>. <a href="#a63c2a4c6c16e4b5f9f527ab147c0ea2e">More...</a></p>
+Check if symbol <em>item</em> is accessible from within <em>scope</em>, where it has to match the <em>explicitScopePart</em>. <a href="#a63c2a4c6c16e4b5f9f527ab147c0ea2e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -149,7 +149,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Sets or updates the file scope using when resolving symbols. <a href="#accc9cb1dfddba4432265a175e5875d55">More...</a></p>
+Sets or updates the file scope using when resolving symbols. <a href="#accc9cb1dfddba4432265a175e5875d55">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -163,7 +163,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> resolves to a type member (e.g. <a href="#ae434934a4e3459b50310c2a1dc9dd17b">More...</a></p>
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> resolves to a type member (e.g. <a href="#ae434934a4e3459b50310c2a1dc9dd17b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -177,7 +177,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a template specialization, the template part is return via this method. <a href="#a82dea93383a1eeb7005e54e013358ee0">More...</a></p>
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a template specialization, the template part is return via this method. <a href="#a82dea93383a1eeb7005e54e013358ee0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -191,7 +191,7 @@ class SymbolResolver { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a typedef or using declaration. <a href="#a6f023b174a5e9064fb4afdf69a02f284">More...</a></p>
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a typedef or using declaration. <a href="#a6f023b174a5e9064fb4afdf69a02f284">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -223,9 +223,9 @@ class SymbolResolver { ... }
 
 
 
-<p>Helper class to find a class definition or check if A symbol is accessible in a given scope.</p>
+Helper class to find a class definition or check if A symbol is accessible in a given scope.
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.
 
 <div class="doxySectionDef">
 
@@ -255,7 +255,8 @@ class SymbolResolver { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -277,7 +278,7 @@ Reference <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 
 ## Public Destructor
 
-### ~SymbolResolver() {#a40f6b85e30e458772ef6c5534344b0d5}
+### \~SymbolResolver() {#a40f6b85e30e458772ef6c5534344b0d5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -296,7 +297,8 @@ Reference <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -332,12 +334,13 @@ Reference <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a typedef or using declaration.</p>
+
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a typedef or using declaration.
 
 
-<p>The type name it resolved to is returned via this method.</p>
+The type name it resolved to is returned via this method.
 
-<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1726 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1726 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -372,9 +375,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a template specialization, the template part is return via this method.</p>
 
-<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1721 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> points to a template specialization, the template part is return via this method.
+
+Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1721 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -409,12 +413,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> resolves to a type member (e.g.</p>
+
+In case a call to <a href="#a7d24640728b220c0b98554dbc7aa9d5f">resolveClass()</a> resolves to a type member (e.g.
 
 
-<p>an enum) this method will return it.</p>
+an enum) this method will return it.
 
-<p>Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1716 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1716 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -449,18 +454,19 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Checks if symbol <em>item</em> is accessible from within <em>scope</em>.</p>
+
+Checks if symbol <em>item</em> is accessible from within <em>scope</em>.
 
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.</p>
+-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.
 </dd>
 </dl>
 
 
-<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -479,7 +485,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO&#95;TRACE&#95;EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60ffd0b23680e5318865a367b0d26871">SymbolResolver::Private::isAccessibleFrom</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a01a031ffd0a93eb06668c1e93fb57f69">SymbolResolver::Private::isAccessibleFromWithExpScope</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7970104534296194ccd535117234a682">resolveTypeDef</a>.
 </div>
@@ -502,18 +508,19 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Check if symbol <em>item</em> is accessible from within <em>scope</em>, where it has to match the <em>explicitScopePart</em>.</p>
+
+Check if symbol <em>item</em> is accessible from within <em>scope</em>, where it has to match the <em>explicitScopePart</em>.
 
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.</p>
+-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.
 </dd>
 </dl>
 
 
-<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1697 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1697 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +541,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO&#95;TRACE&#95;EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a74d53555d942680120e24d2a54022fe0">p</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5ecfe67024087367b33d18430021a3c0">getMemberFromSymbol</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a40f0f9c9cb6b6b7392ae6e695fc74671">SymbolResolver::Private::getResolvedSymbol</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#aef9c4245c6f445e282a59005f1f6ca5a">SymbolResolver::Private::getResolvedType</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a01a031ffd0a93eb06668c1e93fb57f69">SymbolResolver::Private::isAccessibleFromWithExpScope</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a763d03603a7b427c9f02719fb95b2c30">SymbolResolver::Private::substTypedef</a>.
 </div>
@@ -557,7 +564,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5ecfe670240873
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Find the class definition matching name within the scope set.</p>
+
+Find the class definition matching name within the scope set.
 
 
 <dl class="doxyParamsList">
@@ -566,30 +574,30 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5ecfe670240873
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">scope</td>
-<td class="doxyParamItemDescription"><p>The scope to search from.</p></td>
+<td class="doxyParamItemDescription">The scope to search from.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription"><p>The name of the symbol.</p></td>
+<td class="doxyParamItemDescription">The name of the symbol.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">maybeUnlinkable</td>
-<td class="doxyParamItemDescription"><p>include unlinkable symbols in the search.</p></td>
+<td class="doxyParamItemDescription">include unlinkable symbols in the search.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">mayBeHidden</td>
-<td class="doxyParamItemDescription"><p>include hidden symbols in the search.</p></td>
+<td class="doxyParamItemDescription">include hidden symbols in the search.</td>
 </tr>
 </table>
 </dd>
 </dl>
 
 :::info
-<p>As a result of this call the getters <a href="#ae434934a4e3459b50310c2a1dc9dd17b">getTypedef()</a>, <a href="#a82dea93383a1eeb7005e54e013358ee0">getTemplateSpec()</a>, and <a href="#a6f023b174a5e9064fb4afdf69a02f284">getResolvedType()</a> are set as well.</p>
+As a result of this call the getters <a href="#ae434934a4e3459b50310c2a1dc9dd17b">getTypedef()</a>, <a href="#a82dea93383a1eeb7005e54e013358ee0">getTemplateSpec()</a>, and <a href="#a6f023b174a5e9064fb4afdf69a02f284">getResolvedType()</a> are set as well.
 :::
 
 
-<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1616 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1616 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -647,7 +655,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5ecfe670240873
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO&#95;TRACE&#95;ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO&#95;TRACE&#95;EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a9682735bd2cf0656eaa944f8b3e364a2">getClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab542c942324f159b79deed8cdca5663a">mangleCSharpGenericName</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a74d53555d942680120e24d2a54022fe0">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a9682735bd2cf0656eaa944f8b3e364a2">getClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab542c942324f159b79deed8cdca5663a">mangleCSharpGenericName</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a74d53555d942680120e24d2a54022fe0">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aef7ec01b7eb267f9742878e12cbe99cf">findClassDefinition</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8e0a72feb96a836fa1650fe1b9f1e39a">findClassWithinClassContext</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714c6e35d4ddc62777790">getCanonicalTypeForIdentifier</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a11601f7b8b08cb9600482e5dc3bc51c5">normalizeNonTemplateArgumentsInString</a> and <a href="#ab3249c001539f0f9de46a3ec8098fbea">resolveClassMutable</a>.
 </div>
@@ -675,9 +683,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aef7ec01b7eb
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Wrapper around resolveClass that returns a mutable interface to the class object or a nullptr if the symbol is immutable.</p>
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
+Wrapper around resolveClass that returns a mutable interface to the class object or a nullptr if the symbol is immutable.
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -715,7 +724,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Find the symbool definition matching name within the scope set.</p>
+
+Find the symbool definition matching name within the scope set.
 
 
 <dl class="doxyParamsList">
@@ -724,33 +734,33 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">scope</td>
-<td class="doxyParamItemDescription"><p>The scope to search from.</p></td>
+<td class="doxyParamItemDescription">The scope to search from.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription"><p>The name of the symbol.</p></td>
+<td class="doxyParamItemDescription">The name of the symbol.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">args</td>
-<td class="doxyParamItemDescription"><p><a href="/web-doxygen/docs/api/structs/argument">Argument</a> list associated with the symbol (for functions)</p></td>
+<td class="doxyParamItemDescription"><a href="/web-doxygen/docs/api/structs/argument">Argument</a> list associated with the symbol (for functions)</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">checkCV</td>
-<td class="doxyParamItemDescription"><p>Check const/volatile qualifiers (for methods)</p></td>
+<td class="doxyParamItemDescription">Check const/volatile qualifiers (for methods)</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">insideCode</td>
-<td class="doxyParamItemDescription"><p>Is the symbol found in a code fragment</p></td>
+<td class="doxyParamItemDescription">Is the symbol found in a code fragment</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">onlyLinkable</td>
-<td class="doxyParamItemDescription"><p>Only search linkable definitions</p></td>
+<td class="doxyParamItemDescription">Only search linkable definitions</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1667 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1667 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -775,7 +785,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO&#95;TRACE&#95;EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a74d53555d942680120e24d2a54022fe0">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a74d53555d942680120e24d2a54022fe0">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a043364950b2274c362fdd7e6b48d6ef6">findUsingDeclarations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>.
 </div>
@@ -798,9 +808,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a043364950b2
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Sets or updates the file scope using when resolving symbols.</p>
 
-<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Sets or updates the file scope using when resolving symbols.
+
+Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>, definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -843,7 +854,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-h">symbolresolver.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -860,7 +872,7 @@ Referenced by <a href="#a6f023b174a5e9064fb4afdf69a02f284">getResolvedType</a>, 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a></li>

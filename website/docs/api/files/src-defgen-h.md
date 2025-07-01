@@ -62,7 +62,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 18 of file <a href="/web-doxygen/docs/api/files/src/defgen-h">defgen.h</a>, definition at line 482 of file <a href="/web-doxygen/docs/api/files/src/defgen-cpp">defgen.cpp</a>.</p>
+
+Declaration at line 18 of file <a href="/web-doxygen/docs/api/files/src/defgen-h">defgen.h</a>, definition at line 482 of file <a href="/web-doxygen/docs/api/files/src/defgen-cpp">defgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -115,7 +116,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#ae1923bdab69f09adecb356bed8d869f0">generateDEFForFile</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#af7618d7d3aeddf3aae435cd00b9293e9">generateDEFForNamespace</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#ae1923bdab69f09adecb356bed8d869f0">generateDEFForFile</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#af7618d7d3aeddf3aae435cd00b9293e9">generateDEFForNamespace</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
 </div>

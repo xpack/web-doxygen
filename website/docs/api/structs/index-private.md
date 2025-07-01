@@ -383,7 +383,7 @@ struct Index::Private { ... }
 </table>
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -408,7 +408,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -438,7 +439,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -468,7 +470,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -498,7 +501,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -528,7 +532,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -558,7 +563,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -588,7 +594,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -618,7 +625,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -648,7 +656,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -678,7 +687,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -708,7 +718,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -738,7 +749,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -768,7 +780,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -798,7 +811,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -828,7 +842,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -858,7 +873,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -888,7 +904,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -918,7 +935,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -948,7 +966,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -978,7 +997,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1008,7 +1028,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1038,7 +1059,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1068,7 +1090,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1098,7 +1121,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1128,7 +1152,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1158,7 +1183,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1188,7 +1214,8 @@ struct Index::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1203,7 +1230,7 @@ struct Index::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a></li>

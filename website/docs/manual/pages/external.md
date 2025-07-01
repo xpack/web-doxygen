@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-<p>If your project depends on external libraries or tools, there are several reasons to not include all sources for these with every run of Doxygen:</p>
+If your project depends on external libraries or tools, there are several reasons to not include all sources for these with every run of Doxygen:
 
 <dl class="doxyVariableList">
 <dt>Disk space:</dt>
@@ -35,18 +35,18 @@ toc_max_heading_level: 4
 <dd>If the external package and its documentation are copyright someone else, it may be better - or even necessary - to reference it rather than include a copy of it with your project's documentation. When the author forbids redistribution, this is necessary. If the author requires compliance with some license condition as a precondition of redistribution, and you do not want to be bound by those conditions, referring to their copy of their documentation is preferable to including a copy.</dd>
 </dl>
 
-<p>If any of the above apply, you can use Doxygen's tag file mechanism. A tag file is basically a compact representation of the entities found in the external sources. Doxygen can both generate and read tag files.</p>
+If any of the above apply, you can use Doxygen's tag file mechanism. A tag file is basically a compact representation of the entities found in the external sources. Doxygen can both generate and read tag files.
 
-<p>To generate a tag file for your project, simply put the name of the tag file after the <a href="/web-doxygen/docs/pages/config/#cfg_generate_tagfile">GENERATE_TAGFILE</a> option in the configuration file.</p>
+To generate a tag file for your project, simply put the name of the tag file after the <a href="/web-doxygen/docs/pages/config/#cfg_generate_tagfile">GENERATE\_TAGFILE</a> option in the configuration file.
 
-<p>To combine the output of one or more external projects with your own project you should specify the name of the tag files after the <a href="/web-doxygen/docs/pages/config/#cfg_tagfiles">TAGFILES</a> option in the configuration file.</p>
+To combine the output of one or more external projects with your own project you should specify the name of the tag files after the <a href="/web-doxygen/docs/pages/config/#cfg_tagfiles">TAGFILES</a> option in the configuration file.
 
-<p>A tag file typically only contains a relative location of the documentation from the point where Doxygen was run. So when you include a tag file in other project you have to specify where the external documentation is located in relation this project. You can do this in the configuration file by assigning the (relative) location to the tag files specified after the <a href="/web-doxygen/docs/pages/config/#cfg_tagfiles">TAGFILES</a> configuration option. If you use a relative path it should be relative with respect to the directory where the HTML output of your project is generated; so a relative path from the HTML output directory of a project to the HTML output of the other project that is linked to.</p>
+A tag file typically only contains a relative location of the documentation from the point where Doxygen was run. So when you include a tag file in other project you have to specify where the external documentation is located in relation this project. You can do this in the configuration file by assigning the (relative) location to the tag files specified after the <a href="/web-doxygen/docs/pages/config/#cfg_tagfiles">TAGFILES</a> configuration option. If you use a relative path it should be relative with respect to the directory where the HTML output of your project is generated; so a relative path from the HTML output directory of a project to the HTML output of the other project that is linked to.
 
 <dl class="doxySectionUser">
 <dt>Example: </dt>
 <dd>
-<p>Suppose you have a project <span class="doxyComputerOutput">proj</span> that uses two external projects called <span class="doxyComputerOutput">ext1</span> and <span class="doxyComputerOutput">ext2</span>. The directory structure looks as follows:</p>
+Suppose you have a project <span class="doxyComputerOutput">proj</span> that uses two external projects called <span class="doxyComputerOutput">ext1</span> and <span class="doxyComputerOutput">ext2</span>. The directory structure looks as follows:
 </dd>
 </dl>
 
@@ -76,7 +76,7 @@ toc_max_heading_level: 4
 <dl class="doxySectionUser">
 <dt></dt>
 <dd>
-<p>Then the relevant parts of the configuration files look as follows:</p>
+Then the relevant parts of the configuration files look as follows:
 </dd>
 </dl>
 
@@ -84,7 +84,7 @@ toc_max_heading_level: 4
 <dl class="doxySectionUser">
 <dt></dt>
 <dd>
-<p>proj.cfg:</p>
+proj.cfg:
 
 
 <pre><code>OUTPUT_DIRECTORY  = proj
@@ -94,7 +94,7 @@ TAGFILES          = ext1/ext1.tag=../../ext1/html \
 </code></pre>
 
 
-<p>ext1.cfg:</p>
+ext1.cfg:
 
 
 <pre><code>OUTPUT_DIRECTORY  = ext1
@@ -102,7 +102,7 @@ GENERATE_TAGFILE  = ext1/ext1.tag
 </code></pre>
 
 
-<p>ext2.cfg:</p>
+ext2.cfg:
 
 
 <pre><code>OUTPUT_DIRECTORY  = ext2

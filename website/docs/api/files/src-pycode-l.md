@@ -55,7 +55,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/pycodeyy-state">pycodeYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/pycodeyy-state">pycodeYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -502,7 +502,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -520,7 +520,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -539,7 +539,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -580,7 +581,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -624,9 +626,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-<p>Examines current stack of white-space indentations; re-syncs the parser with the correct scope.</p>
 
-<p>Definition at line 792 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+Examines current stack of white-space indentations; re-syncs the parser with the correct scope.
+
+Definition at line 792 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -687,7 +690,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -735,7 +739,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
 </div>
 </div>
 
@@ -763,7 +767,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -804,7 +809,8 @@ Referenced by <a href="#a1f4ddb72f0f713d700ec20f419ee58ac">findMemberLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -868,9 +874,10 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-<p>counts the number of lines in the input</p>
 
-<p>Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+counts the number of lines in the input
+
+Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -922,7 +929,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1024 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1024 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -965,7 +973,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1116 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1116 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1013,7 +1022,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1056,7 +1066,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3e118df515565a29662b41396ee66579">ClassDef::isBaseClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
+References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3e118df515565a29662b41396ee66579">ClassDef::isBaseClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
 
 Referenced by <a href="#a1f4ddb72f0f713d700ec20f419ee58ac">findMemberLink</a>.
 </div>
@@ -1086,7 +1096,8 @@ Referenced by <a href="#a1f4ddb72f0f713d700ec20f419ee58ac">findMemberLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1143,7 +1154,8 @@ References <a href="#a571c87662576c76ff69447c012c7d72f">codify</a>, <a href="#a7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1233 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1233 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1282,7 +1294,7 @@ References <a href="#a571c87662576c76ff69447c012c7d72f">codify</a>, <a href="#a7
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a9682735bd2cf0656eaa944f8b3e364a2">getClass</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3bec35936216530bf2385a8dfd2ab0e5">ClassDef::getMemberByName</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefde162e271a1d9e6b24">NamespaceDef::getMemberByName</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac29daa4ae4a11022a30d2deb6934624c">getResolvedNamespace</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/scopedtypevariant/#a40759daee26ba0878db5ea90bf6621ff">ScopedTypeVariant::isDummy</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a897bf45c84c487532045b33d50d94741">stripClassName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
+References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a9682735bd2cf0656eaa944f8b3e364a2">getClass</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3bec35936216530bf2385a8dfd2ab0e5">ClassDef::getMemberByName</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefde162e271a1d9e6b24">NamespaceDef::getMemberByName</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac29daa4ae4a11022a30d2deb6934624c">getResolvedNamespace</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/scopedtypevariant/#a40759daee26ba0878db5ea90bf6621ff">ScopedTypeVariant::isDummy</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a897bf45c84c487532045b33d50d94741">stripClassName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
 </div>
 </div>
 
@@ -1310,7 +1322,8 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1374 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1374 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1358,7 +1371,7 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd6f2e9b06bd03d">LocalDef::baseClasses</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3345ad9e2ab3a9d1b524391ae5f6c545">generateClassOrGlobalLink</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/scopedtypevariant/#a7fb21854450b5fcdfe884b320e72d7be">ScopedTypeVariant::localDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd6f2e9b06bd03d">LocalDef::baseClasses</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3345ad9e2ab3a9d1b524391ae5f6c545">generateClassOrGlobalLink</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/scopedtypevariant/#a7fb21854450b5fcdfe884b320e72d7be">ScopedTypeVariant::localDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
 </div>
 </div>
 
@@ -1387,7 +1400,8 @@ References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1422,7 +1436,8 @@ References <a href="/web-doxygen/docs/api/classes/localdef/#a4ed8113c3b0036e4cdd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1205 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1205 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1479,7 +1494,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1554,7 +1570,8 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1477 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1477 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1603,7 +1620,8 @@ References <a href="/web-doxygen/docs/api/classes/doxygen/#a9ada31fbc29681eedb5f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1034 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1034 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1629,7 +1647,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 </div>
 </div>
 
-### pop&#95;state() {#a84f9bfb00f12e8fc287ed97f3e1d693c}
+### pop\_state() {#a84f9bfb00f12e8fc287ed97f3e1d693c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1654,7 +1672,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1622 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1622 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1698,7 +1717,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1750,9 +1770,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-<p>Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+
+Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1853,7 +1874,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1905,7 +1927,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
 </div>
@@ -1935,7 +1958,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 872 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 872 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1999,9 +2023,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a337616be3bea43c6c1
 
 
 
-<p>writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.</p>
 
-<p>Definition at line 1055 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.
+
+Definition at line 1055 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2048,7 +2073,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a337616be3bea43c6c1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
+References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
 </div>
 </div>
 
@@ -2071,7 +2096,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2622,7 +2648,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2652,7 +2679,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 ## Macro Definitions
 
-### DBG&#95;CTX {#a234e2efe67eececd88b140b46ea37463}
+### DBG\_CTX {#a234e2efe67eececd88b140b46ea37463}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2671,7 +2698,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2682,7 +2710,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2691,7 +2719,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -2701,7 +2729,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2712,7 +2741,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2731,7 +2760,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2742,7 +2772,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2761,7 +2791,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2772,7 +2803,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2791,7 +2822,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocVisitor` Class Reference
 
-<p>Helper base class for functionality shared by all visitors. <a href="#details">More...</a></p>
+Helper base class for functionality shared by all visitors. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for Docbook output. <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#details">More...</a></p>
+Concrete visitor implementation for Docbook output. <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for HTML output. <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#details">More...</a></p>
+Concrete visitor implementation for HTML output. <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a></p>
+Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -83,7 +83,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/mandocvisitor/#details">More...</a></p>
+Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/mandocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -97,7 +97,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for PerlMod output. <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#details">More...</a></p>
+Concrete visitor implementation for PerlMod output. <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -111,7 +111,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for RTF output. <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#details">More...</a></p>
+Concrete visitor implementation for RTF output. <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -125,7 +125,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for TEXT output. <a href="/web-doxygen/docs/api/classes/textdocvisitor/#details">More...</a></p>
+Concrete visitor implementation for TEXT output. <a href="/web-doxygen/docs/api/classes/textdocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -139,7 +139,7 @@ class DocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Concrete visitor implementation for XML output. <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#details">More...</a></p>
+Concrete visitor implementation for XML output. <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -252,9 +252,9 @@ class DocVisitor { ... }
 
 ## Description {#details}
 
-<p>Helper base class for functionality shared by all visitors.</p>
+Helper base class for functionality shared by all visitors.
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>.
 
 <div class="doxySectionDef">
 
@@ -279,7 +279,8 @@ class DocVisitor { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -290,7 +291,7 @@ class DocVisitor { ... }
 </div>
 
 
-Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
+Reference <a href="#ab2efd487690f854426007b91c3c4d533">m\_p</a>.
 </div>
 </div>
 
@@ -300,7 +301,7 @@ Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
 
 ## Public Destructor
 
-### ~DocVisitor() {#a2b6a270d493b47592126ce5b63f9e83e}
+### \~DocVisitor() {#a2b6a270d493b47592126ce5b63f9e83e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -324,7 +325,8 @@ Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
+Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -362,7 +364,8 @@ Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
+Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -385,7 +388,7 @@ Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
 </div>
 
 
-References <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#ab2efd487690f854426007b91c3c4d533">m\_p</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a1abe1e85619493e4e99240d290c3bdd2">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af32530eae2ce36e648a925f28f1ca781">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a41c844f5b9078d32e11a14b45b6f5c2d">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a611ec420e06726e8061f4fe83c3f8a6f">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#aff3cb0ea5dd2ee90d238e8689a34e0da">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac219ce4773970158e118d1d3b57ebd78">XmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ae2f1f49b8496f09377c4e7de91e2f3d6">XmlDocVisitor::operator()</a>.
 </div>
@@ -410,7 +413,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -425,7 +429,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8
 </div>
 
 
-Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
+Reference <a href="#ab2efd487690f854426007b91c3c4d533">m\_p</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a489cc0ae371a7749b2bb9736ead27a19">RTFDocVisitor::includePicturePostRTF</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a1abe1e85619493e4e99240d290c3bdd2">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af32530eae2ce36e648a925f28f1ca781">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a41c844f5b9078d32e11a14b45b6f5c2d">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a611ec420e06726e8061f4fe83c3f8a6f">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac219ce4773970158e118d1d3b57ebd78">XmlDocVisitor::operator()</a>.
 </div>
@@ -450,7 +454,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a489cc0ae371
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
+Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -462,7 +467,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a489cc0ae371
 </div>
 
 
-Reference <a href="#ab2efd487690f854426007b91c3c4d533">m&#95;p</a>.
+Reference <a href="#ab2efd487690f854426007b91c3c4d533">m\_p</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a2e791b200dd11ec24ff27a9aab0f8940">RTFDocVisitor::includePicturePreRTF</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a1abe1e85619493e4e99240d290c3bdd2">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af32530eae2ce36e648a925f28f1ca781">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a41c844f5b9078d32e11a14b45b6f5c2d">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a611ec420e06726e8061f4fe83c3f8a6f">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac219ce4773970158e118d1d3b57ebd78">XmlDocVisitor::operator()</a>.
 </div>
@@ -474,7 +479,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a2e791b200dd
 
 ## Private Member Attributes
 
-### m&#95;p {#ab2efd487690f854426007b91c3c4d533}
+### m\_p {#ab2efd487690f854426007b91c3c4d533}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -493,7 +498,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a2e791b200dd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-h">docvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -510,7 +516,7 @@ Referenced by <a href="#ab35e631d7cac3a0e521c8af8b9353a12">DocVisitor</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a></li>

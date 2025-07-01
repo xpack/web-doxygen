@@ -42,6 +42,10 @@ ls -1 *.cfg | sed -e 's|\([a-z-]*\).cfg|echo "XML_OUTPUT = xml/examples/\1/xml" 
 ls -1 *.cfg | sed -e 's|\([a-z-]*\).cfg|echo "GENERATE_XML = YES" >> \1.cfg|'
 ```
 
+```
+style=&quot;display: block; margin-left: 0; margin-right: auto;&quot;
+```
+
 ### Prerequisites
 
 On macOS, install the dependencies:
@@ -274,5 +278,3 @@ The following table gives an overview of the doxygen special commands and the ve
 <listitem><para>\$ </para>
 ...
 ```
-
-

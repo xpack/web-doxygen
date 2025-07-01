@@ -18,16 +18,16 @@ keywords:
 
 
 
-<img src="/web-doxygen/img/doxygen_logo.svg" width="634" height="197" alt="Doxygen"/><br/>
+<img src="/web-doxygen/img/doxygen_logo.svg" width="634" height="197" alt="Doxygen" style="display: block; margin-left: 0; margin-right: auto;"/><br/>
 Version: 1.14.0
 
 
 
 ## Introduction
 
-<p>Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, and to some extent D. Doxygen also supports the hardware description language VHDL.</p>
+Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, and to some extent D. Doxygen also supports the hardware description language VHDL.
 
-<p>Doxygen can help you in three ways:</p>
+Doxygen can help you in three ways:
 
 <ol class="doxyList" type="1">
 <li>It can generate an on-line documentation browser (in HTML) and/or an off-line reference manual (in <code>{\LaTeX}</code>) from a set of documented source files. There is also support for generating output in RTF (MS-Word), PostScript, hyperlinked PDF, compressed HTML, and Unix man pages. The documentation is extracted directly from the sources, which makes it much easier to keep the documentation consistent with the source code.</li>
@@ -35,12 +35,12 @@ Version: 1.14.0
 <li>You can also use Doxygen for creating normal documentation (as I did for the Doxygen user manual and web-site).</li>
 </ol>
 
-<p>Doxygen is developed under macOS and Linux, but is set-up to be highly portable. As a result, it runs on most other Unix flavors as well. Furthermore, executables for Windows are available.</p>
+Doxygen is developed under macOS and Linux, but is set-up to be highly portable. As a result, it runs on most other Unix flavors as well. Furthermore, executables for Windows are available.
 
-<p><br/>
-This manual is divided into three parts, each of which is divided into several sections.</p>
+<br/>
+This manual is divided into three parts, each of which is divided into several sections.
 
-<p>The first part forms a user manual:</p>
+The first part forms a user manual:
 
 <ul class="doxyList ">
 <li>Section <a href="/web-doxygen/docs/pages/install">Installation</a> discusses how to <a href="https://www.doxygen.org/download.html">download</a>, compile and install Doxygen for your platform.</li>
@@ -65,7 +65,7 @@ This manual is divided into three parts, each of which is divided into several s
 <li>Section <a href="/web-doxygen/docs/pages/trouble">Troubleshooting</a> tells you what to do when you have problems.</li>
 </ul>
 
-<p>The second part forms a reference manual:</p>
+The second part forms a reference manual:
 
 <ul class="doxyList ">
 <li>Section <a href="/web-doxygen/docs/pages/features">Features</a> presents an overview of what Doxygen can do.</li>
@@ -78,7 +78,7 @@ This manual is divided into three parts, each of which is divided into several s
 <li>Section <a href="/web-doxygen/docs/pages/emojisup">Emoji support</a> shows an introduction how emoji can be used within the documentation.</li>
 </ul>
 
-<p>The third part provides information for developers:</p>
+The third part provides information for developers:
 
 <ul class="doxyList ">
 <li>Section <a href="/web-doxygen/docs/pages/arch">Doxygen's Internals</a> gives a global overview of how Doxygen is internally structured.</li>
@@ -86,31 +86,31 @@ This manual is divided into three parts, each of which is divided into several s
 <li>Section <a href="/web-doxygen/docs/pages/langhowto">Internationalization</a> explains how to add support for new output languages.</li>
 </ul>
 
-<p><br/></p>
+<br/>
 
 ## Doxygen license
 
-<p>Copyright © 1997-2025 by <a href="mailto:doxygen@gmail.com">Dimitri van Heesch</a>.</p>
+Copyright © 1997-2025 by <a href="mailto:doxygen@gmail.com">Dimitri van Heesch</a>.
 
-<p>Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as&nbsp;is" without express or implied warranty. See the <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU General Public License</a> for more details.</p>
+Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as&nbsp;is" without express or implied warranty. See the <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html">GNU General Public License</a> for more details.
 
-<p>Documents produced by Doxygen are derivative works derived from the input used in their production; they are not affected by this license.</p>
+Documents produced by Doxygen are derivative works derived from the input used in their production; they are not affected by this license.
 
 ## User examples
 
-<p>Doxygen supports a number of <a href="/web-doxygen/docs/pages/output">output formats</a> where HTML is the most popular one. I've gathered <a href="https://www.doxygen.org/results.html">some nice examples</a> of real-life projects using Doxygen.</p>
+Doxygen supports a number of <a href="/web-doxygen/docs/pages/output">output formats</a> where HTML is the most popular one. I've gathered <a href="https://www.doxygen.org/results.html">some nice examples</a> of real-life projects using Doxygen.
 
-<p>These are part of a larger <a href="https://www.doxygen.org/projects.html">list of projects</a> that use Doxygen. If you know other projects, let <a href="mailto:doxygen@gmail.com?subject=New%20project%20using%20Doxygen">me</a> know and I'll add them.</p>
+These are part of a larger <a href="https://www.doxygen.org/projects.html">list of projects</a> that use Doxygen. If you know other projects, let <a href="mailto:doxygen@gmail.com?subject=New%20project%20using%20Doxygen">me</a> know and I'll add them.
 
 ## Future work
 
-<p>Although Doxygen is successfully used by large number of companies and open source projects already, there is always room for improvement.</p>
+Although Doxygen is successfully used by large number of companies and open source projects already, there is always room for improvement.
 
-<p>You can also submit enhancement requests in <a href="https://github.com/doxygen/doxygen/issues">the bug tracker</a>.</p>
+You can also submit enhancement requests in <a href="https://github.com/doxygen/doxygen/issues">the bug tracker</a>.
 
 ## Acknowledgments
 
-<p>Thanks go to:</p>
+Thanks go to:
 
 <ul class="doxyList ">
 <li>Malte Zöckler and Roland Wunderling, authors of DOC++. The first version of Doxygen borrowed some code of an old version of DOC++. Although I have rewritten practically all code since then, DOC++ has still given me a good start in writing Doxygen.</li>

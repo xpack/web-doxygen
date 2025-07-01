@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SymbolModifiers` Struct Reference
 
-<p>Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc) <a href="#details">More...</a></p>
+Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc) <a href="#details">More...</a>
 
 ## Declaration
 
@@ -119,7 +119,7 @@ struct SymbolModifiers { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This is only used with function return value. <a href="#a562bc973e362b8bf352c8bd8bd11d92b">More...</a></p>
+This is only used with function return value. <a href="#a562bc973e362b8bf352c8bd8bd11d92b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -416,9 +416,9 @@ struct SymbolModifiers { ... }
 
 ## Description {#details}
 
-<p>Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc)</p>
+Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc)
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxySectionDef">
 
@@ -442,6 +442,7 @@ struct SymbolModifiers { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -449,29 +450,29 @@ struct SymbolModifiers { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NONE_D<a id="aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IN<a id="aceec8152eeb6c06b8dbe03ef14fed6a4a61e9eb5a7ae3678a1c6254b69617f4b7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">OUT<a id="aceec8152eeb6c06b8dbe03ef14fed6a4a0238d370b0f2d73432f8021cd1c1aed1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INOUT<a id="aceec8152eeb6c06b8dbe03ef14fed6a4a3274f871e28c11b61c8256d20296aa27"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -500,6 +501,7 @@ struct SymbolModifiers { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -507,24 +509,24 @@ struct SymbolModifiers { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NONE_P<a id="a6c76745fa39de2b90353729fe62c6708ae43158532fe3de25bbe6661d6fdef5d0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PUBLIC<a id="a6c76745fa39de2b90353729fe62c6708ae0d7c512c0fe421f9d64e801771f9fb3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PRIVATE<a id="a6c76745fa39de2b90353729fe62c6708a3af5ff26f32ecc18b95bd75082789867"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -565,7 +567,8 @@ struct SymbolModifiers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -579,7 +582,7 @@ struct SymbolModifiers { ... }
 </div>
 
 
-References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href="#a951fe24444c6f9225d468ce28f69c044">bindVar</a>, <a href="#af53aa7a23a005f7e861977192ea549ad">contiguous</a>, <a href="#a2aad749396a02ead46410d78da584e9a">deferred</a>, <a href="#a3e997f886dd5832f1f8ae64aadca020c">dimension</a>, <a href="#a60ca7cc66daff6cdae19b5d4162f77a4">direction</a>, <a href="#a3187a1ff0724dbcff6cf591cd815bd78">external</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9df901b470a76a04f234ff6863f1dca1">intrinsic</a>, <a href="#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">NONE&#95;D</a>, <a href="#a6c76745fa39de2b90353729fe62c6708ae43158532fe3de25bbe6661d6fdef5d0">NONE&#95;P</a>, <a href="#a1500769a8e0054bb142980765556c923">nonoverridable</a>, <a href="#adcd51442f97dbef24a66a86ecd231fda">nopass</a>, <a href="#aa6211c1be3fd479e53a26b498e5fc94b">optional</a>, <a href="#a3237efa8834ef0f47b9e14284e1db710">parameter</a>, <a href="#af73c8f692ea33c3d1250adc8e4a1b946">pass</a>, <a href="#aa087f0ac7c16038e40ba11ad1b66c635">passVar</a>, <a href="#ac783671e5116d72c93935bb9bf7c2cb8">pointer</a>, <a href="#a391410448831f7e0e967635319e16d73">protect</a>, <a href="#add511aaa15123dd20538a4e23415b91e">protection</a>, <a href="#a7df57513685e3721861f65ba286952b1">returnName</a>, <a href="#a25d1321a621eb7496f4e2e3ac99b0842">save</a>, <a href="#a10971e3ef27a2e20c71a769c6d237807">target</a>, <a href="#a562bc973e362b8bf352c8bd8bd11d92b">type</a>, <a href="#a18f0ffb7109d897a5ba0eb58ac3ace45">value</a> and <a href="#a6034722aa4017fca0054462b41b4aa97">volat</a>.
+References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href="#a951fe24444c6f9225d468ce28f69c044">bindVar</a>, <a href="#af53aa7a23a005f7e861977192ea549ad">contiguous</a>, <a href="#a2aad749396a02ead46410d78da584e9a">deferred</a>, <a href="#a3e997f886dd5832f1f8ae64aadca020c">dimension</a>, <a href="#a60ca7cc66daff6cdae19b5d4162f77a4">direction</a>, <a href="#a3187a1ff0724dbcff6cf591cd815bd78">external</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9df901b470a76a04f234ff6863f1dca1">intrinsic</a>, <a href="#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">NONE\_D</a>, <a href="#a6c76745fa39de2b90353729fe62c6708ae43158532fe3de25bbe6661d6fdef5d0">NONE\_P</a>, <a href="#a1500769a8e0054bb142980765556c923">nonoverridable</a>, <a href="#adcd51442f97dbef24a66a86ecd231fda">nopass</a>, <a href="#aa6211c1be3fd479e53a26b498e5fc94b">optional</a>, <a href="#a3237efa8834ef0f47b9e14284e1db710">parameter</a>, <a href="#af73c8f692ea33c3d1250adc8e4a1b946">pass</a>, <a href="#aa087f0ac7c16038e40ba11ad1b66c635">passVar</a>, <a href="#ac783671e5116d72c93935bb9bf7c2cb8">pointer</a>, <a href="#a391410448831f7e0e967635319e16d73">protect</a>, <a href="#add511aaa15123dd20538a4e23415b91e">protection</a>, <a href="#a7df57513685e3721861f65ba286952b1">returnName</a>, <a href="#a25d1321a621eb7496f4e2e3ac99b0842">save</a>, <a href="#a10971e3ef27a2e20c71a769c6d237807">target</a>, <a href="#a562bc973e362b8bf352c8bd8bd11d92b">type</a>, <a href="#a18f0ffb7109d897a5ba0eb58ac3ace45">value</a> and <a href="#a6034722aa4017fca0054462b41b4aa97">volat</a>.
 
 Referenced by <a href="#a73f1b078fd79fffd3a50ca217b580bed">operator|=</a> and <a href="#aaca9d411d0392efd25510ca3209178d0">operator|=</a>.
 </div>
@@ -611,9 +614,10 @@ Referenced by <a href="#a73f1b078fd79fffd3a50ca217b580bed">operator|=</a> and <a
 
 
 
-<p>Adds passed yyextra-&gt;modifiers to these yyextra-&gt;modifiers.</p>
 
-<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Adds passed yyextra-&gt;modifiers to these yyextra-&gt;modifiers.
+
+Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -646,7 +650,7 @@ Referenced by <a href="#a73f1b078fd79fffd3a50ca217b580bed">operator|=</a> and <a
 </div>
 
 
-References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href="#a951fe24444c6f9225d468ce28f69c044">bindVar</a>, <a href="#af53aa7a23a005f7e861977192ea549ad">contiguous</a>, <a href="#a2aad749396a02ead46410d78da584e9a">deferred</a>, <a href="#a3e997f886dd5832f1f8ae64aadca020c">dimension</a>, <a href="#a60ca7cc66daff6cdae19b5d4162f77a4">direction</a>, <a href="#a3187a1ff0724dbcff6cf591cd815bd78">external</a>, <a href="#a9df901b470a76a04f234ff6863f1dca1">intrinsic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">NONE&#95;D</a>, <a href="#a6c76745fa39de2b90353729fe62c6708ae43158532fe3de25bbe6661d6fdef5d0">NONE&#95;P</a>, <a href="#a1500769a8e0054bb142980765556c923">nonoverridable</a>, <a href="#adcd51442f97dbef24a66a86ecd231fda">nopass</a>, <a href="#aa6211c1be3fd479e53a26b498e5fc94b">optional</a>, <a href="#a3237efa8834ef0f47b9e14284e1db710">parameter</a>, <a href="#af73c8f692ea33c3d1250adc8e4a1b946">pass</a>, <a href="#aa087f0ac7c16038e40ba11ad1b66c635">passVar</a>, <a href="#ac783671e5116d72c93935bb9bf7c2cb8">pointer</a>, <a href="#a391410448831f7e0e967635319e16d73">protect</a>, <a href="#add511aaa15123dd20538a4e23415b91e">protection</a>, <a href="#a25d1321a621eb7496f4e2e3ac99b0842">save</a>, <a href="#a49316e7efc80b5ea90df2ad2941359f8">SymbolModifiers</a>, <a href="#a10971e3ef27a2e20c71a769c6d237807">target</a>, <a href="#a18f0ffb7109d897a5ba0eb58ac3ace45">value</a> and <a href="#a6034722aa4017fca0054462b41b4aa97">volat</a>.
+References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href="#a951fe24444c6f9225d468ce28f69c044">bindVar</a>, <a href="#af53aa7a23a005f7e861977192ea549ad">contiguous</a>, <a href="#a2aad749396a02ead46410d78da584e9a">deferred</a>, <a href="#a3e997f886dd5832f1f8ae64aadca020c">dimension</a>, <a href="#a60ca7cc66daff6cdae19b5d4162f77a4">direction</a>, <a href="#a3187a1ff0724dbcff6cf591cd815bd78">external</a>, <a href="#a9df901b470a76a04f234ff6863f1dca1">intrinsic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">NONE\_D</a>, <a href="#a6c76745fa39de2b90353729fe62c6708ae43158532fe3de25bbe6661d6fdef5d0">NONE\_P</a>, <a href="#a1500769a8e0054bb142980765556c923">nonoverridable</a>, <a href="#adcd51442f97dbef24a66a86ecd231fda">nopass</a>, <a href="#aa6211c1be3fd479e53a26b498e5fc94b">optional</a>, <a href="#a3237efa8834ef0f47b9e14284e1db710">parameter</a>, <a href="#af73c8f692ea33c3d1250adc8e4a1b946">pass</a>, <a href="#aa087f0ac7c16038e40ba11ad1b66c635">passVar</a>, <a href="#ac783671e5116d72c93935bb9bf7c2cb8">pointer</a>, <a href="#a391410448831f7e0e967635319e16d73">protect</a>, <a href="#add511aaa15123dd20538a4e23415b91e">protection</a>, <a href="#a25d1321a621eb7496f4e2e3ac99b0842">save</a>, <a href="#a49316e7efc80b5ea90df2ad2941359f8">SymbolModifiers</a>, <a href="#a10971e3ef27a2e20c71a769c6d237807">target</a>, <a href="#a18f0ffb7109d897a5ba0eb58ac3ace45">value</a> and <a href="#a6034722aa4017fca0054462b41b4aa97">volat</a>.
 </div>
 </div>
 
@@ -670,9 +674,10 @@ References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href
 
 
 
-<p>Extracts and adds passed modifier to these yyextra-&gt;modifiers.</p>
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Extracts and adds passed modifier to these yyextra-&gt;modifiers.
+
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -812,7 +817,8 @@ References <a href="#a3a7425ed3b345a52a97a37850cecf54d">allocatable</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -844,7 +850,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -876,7 +883,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -908,7 +916,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -940,7 +949,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#ae88a4d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -972,7 +982,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1004,7 +1015,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1036,7 +1048,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1068,7 +1081,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1100,7 +1114,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#ae88a4d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1132,7 +1147,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#ae88a4d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1164,7 +1180,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1196,7 +1213,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1228,7 +1246,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1260,7 +1279,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1292,7 +1312,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1324,7 +1345,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1356,7 +1378,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#ae88a4d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1388,7 +1411,8 @@ Referenced by <a href="#a49316e7efc80b5ea90df2ad2941359f8">SymbolModifiers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1420,7 +1444,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1450,9 +1475,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>This is only used with function return value.</p>
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+This is only used with function return value.
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1484,7 +1510,8 @@ Referenced by <a href="#a49316e7efc80b5ea90df2ad2941359f8">SymbolModifiers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1516,7 +1543,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1533,7 +1561,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a521d11
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocParserContext` Struct Reference
 
-<p>Parser's context to store all global variables. <a href="#details">More...</a></p>
+Parser's context to store all global variables. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -454,9 +454,9 @@ struct DocParserContext { ... }
 
 ## Description {#details}
 
-<p>Parser's context to store all global variables.</p>
+Parser's context to store all global variables.
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxySectionDef">
 
@@ -481,7 +481,8 @@ struct DocParserContext { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -513,7 +514,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -545,7 +547,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -577,7 +580,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -609,7 +613,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -641,7 +646,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -673,7 +679,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -705,7 +712,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -737,7 +745,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -769,7 +778,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -801,7 +811,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -833,7 +844,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -865,7 +877,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -897,7 +910,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -929,7 +943,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -961,7 +976,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -993,7 +1009,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docref/#a6004b78783411b8c57
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1025,7 +1042,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1057,7 +1075,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1087,7 +1106,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1119,7 +1139,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1151,7 +1172,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1183,7 +1205,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1215,7 +1238,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1245,7 +1269,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1277,7 +1302,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1309,7 +1335,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1341,7 +1368,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1373,7 +1401,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1405,7 +1434,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1437,7 +1467,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1469,7 +1500,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1486,7 +1518,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a></li>

@@ -192,7 +192,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -208,7 +209,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>.
 </div>
@@ -238,7 +239,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -292,7 +294,8 @@ Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -339,7 +342,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -366,7 +370,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23b
 
 ## Variables
 
-### g&#95;blankWritten {#aaefb4e34c320d2cc3ff8f37eb8e0a3ea}
+### g\_blankWritten {#aaefb4e34c320d2cc3ff8f37eb8e0a3ea}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -390,7 +394,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TranslatorAdapter_1_8_0` Class Reference
 
-<p>Adapter class for languages that only contain translations up to version 1.8.0. <a href="#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.8.0. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ class TranslatorAdapter_1_8_0 { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a></p>
+Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -233,9 +233,9 @@ class TranslatorAdapter_1_8_0 { ... }
 
 ## Description {#details}
 
-<p>Adapter class for languages that only contain translations up to version 1.8.0.</p>
+Adapter class for languages that only contain translations up to version 1.8.0.
 
-<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxySectionDef">
 
@@ -266,7 +266,8 @@ class TranslatorAdapter_1_8_0 { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 408 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 408 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -305,7 +306,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 396 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -344,7 +346,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -383,7 +386,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 399 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 399 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -422,7 +426,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -461,7 +466,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 405 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 405 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -500,7 +506,8 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 393 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 393 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -540,17 +547,18 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 
 
 
-<p>This method is used to generate a warning message to signal the user that the translation of his/her language of choice needs updating. It must be implemented by the translator adapter class (pure virtual).</p>
+
+This method is used to generate a warning message to signal the user that the translation of his/her language of choice needs updating. It must be implemented by the translator adapter class (pure virtual).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a></p>
+<a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a>
 </dd>
 </dl>
 
 
-<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -568,7 +576,7 @@ References <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a></li>

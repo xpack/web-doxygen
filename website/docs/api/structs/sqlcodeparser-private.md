@@ -58,7 +58,7 @@ struct SQLCodeParser::Private { ... }
 </table>
 
 
-<p>Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct SQLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct SQLCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct SQLCodeParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a></li>

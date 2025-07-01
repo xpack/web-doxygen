@@ -84,7 +84,7 @@ struct FormulaManager::Private { ... }
 </table>
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ struct FormulaManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ struct FormulaManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ struct FormulaManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,8 @@ struct FormulaManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +218,7 @@ struct FormulaManager::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a></li>

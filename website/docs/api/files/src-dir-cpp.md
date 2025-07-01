@@ -204,7 +204,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -237,7 +238,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -281,7 +283,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -293,7 +296,7 @@ toc_max_heading_level: 4
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#abe5bc298b8ac3b911af947e2b29089f5">FlowChart::buildCommentNodes</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>, <a href="/web-doxygen/docs/api/classes/memberlists/#a4c6708898611587ed51cf6c1a2622c52">MemberLists::get</a>, <a href="/web-doxygen/docs/api/classes/examplelist/#a461e72c8f6d52cf93b0c4db33d6bda8b">ExampleList::inSort</a>, <a href="/web-doxygen/docs/api/classes/htmlattriblist/#ac7c837fb5c6a666618137b335fe89760">HtmlAttribList::mergeAttribute</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable&#95;memmem</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6ed566c33a63fcd30d53c4">searchInputFiles</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#abe5bc298b8ac3b911af947e2b29089f5">FlowChart::buildCommentNodes</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>, <a href="/web-doxygen/docs/api/classes/memberlists/#a4c6708898611587ed51cf6c1a2622c52">MemberLists::get</a>, <a href="/web-doxygen/docs/api/classes/examplelist/#a461e72c8f6d52cf93b0c4db33d6bda8b">ExampleList::inSort</a>, <a href="/web-doxygen/docs/api/classes/htmlattriblist/#ac7c837fb5c6a666618137b335fe89760">HtmlAttribList::mergeAttribute</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable\_memmem</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6ed566c33a63fcd30d53c4">searchInputFiles</a>.
 </div>
 </div>
 
@@ -321,7 +324,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#abe5bc298b8ac3b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -361,7 +365,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -402,7 +407,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -413,7 +419,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572
 </div>
 </div>
 
-### WIN32&#95;LEAN&#95;AND&#95;MEAN {#ac7bef5d85e3dcd73eef56ad39ffc84a9}
+### WIN32\_LEAN\_AND\_MEAN {#ac7bef5d85e3dcd73eef56ad39ffc84a9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -432,7 +438,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 

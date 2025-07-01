@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DefinesPerFile` Class Reference
 
-<p>Local class used to hold the defines for a single file. <a href="#details">More...</a></p>
+Local class used to hold the defines for a single file. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class DefineManager::DefinesPerFile { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Creates an empty container for defines. <a href="#a28f786619e5a63c13d9f0d6233914675">More...</a></p>
+Creates an empty container for defines. <a href="#a28f786619e5a63c13d9f0d6233914675">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -176,9 +176,9 @@ class DefineManager::DefinesPerFile { ... }
 
 ## Description {#details}
 
-<p>Local class used to hold the defines for a single file.</p>
+Local class used to hold the defines for a single file.
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxySectionDef">
 
@@ -206,9 +206,10 @@ class DefineManager::DefinesPerFile { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Creates an empty container for defines.</p>
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Creates an empty container for defines.
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -220,7 +221,7 @@ class DefineManager::DefinesPerFile { ... }
 </div>
 
 
-References <a href="#a3ce942a3afdfbec6ad3eea0096c2c012">m&#95;parent</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
+References <a href="#a3ce942a3afdfbec6ad3eea0096c2c012">m\_parent</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>.
 
 Referenced by <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 </div>
@@ -256,7 +257,8 @@ Referenced by <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -268,7 +270,7 @@ Referenced by <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 </div>
 
 
-Reference <a href="#ac3a7690feba1d8603e2689c032a263e7">m&#95;includedFiles</a>.
+Reference <a href="#ac3a7690feba1d8603e2689c032a263e7">m\_includedFiles</a>.
 </div>
 </div>
 
@@ -296,7 +298,8 @@ Reference <a href="#ac3a7690feba1d8603e2689c032a263e7">m&#95;includedFiles</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -337,7 +340,8 @@ Reference <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -363,7 +367,7 @@ Reference <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 </div>
 
 
-References <a href="#a28f786619e5a63c13d9f0d6233914675">DefinesPerFile</a>, <a href="#a62829771df09db4d985c0938a2dd17c5">m&#95;defines</a>, <a href="#ac3a7690feba1d8603e2689c032a263e7">m&#95;includedFiles</a>, <a href="#a3ce942a3afdfbec6ad3eea0096c2c012">m&#95;parent</a> and <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
+References <a href="#a28f786619e5a63c13d9f0d6233914675">DefinesPerFile</a>, <a href="#a62829771df09db4d985c0938a2dd17c5">m\_defines</a>, <a href="#ac3a7690feba1d8603e2689c032a263e7">m\_includedFiles</a>, <a href="#a3ce942a3afdfbec6ad3eea0096c2c012">m\_parent</a> and <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 
 Referenced by <a href="#ad0cd2f06be4aa715612884608c79c90f">retrieve</a> and <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a>.
 </div>
@@ -393,7 +397,8 @@ Referenced by <a href="#ad0cd2f06be4aa715612884608c79c90f">retrieve</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -410,7 +415,7 @@ Referenced by <a href="#ad0cd2f06be4aa715612884608c79c90f">retrieve</a> and <a h
 </div>
 
 
-References <a href="#a62829771df09db4d985c0938a2dd17c5">m&#95;defines</a> and <a href="#a3720c4590f5e5afbecb80c77c118bb35">m&#95;stored</a>.
+References <a href="#a62829771df09db4d985c0938a2dd17c5">m\_defines</a> and <a href="#a3720c4590f5e5afbecb80c77c118bb35">m\_stored</a>.
 </div>
 </div>
 
@@ -438,7 +443,8 @@ References <a href="#a62829771df09db4d985c0938a2dd17c5">m&#95;defines</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -447,7 +453,7 @@ References <a href="#a62829771df09db4d985c0938a2dd17c5">m&#95;defines</a> and <a
 </div>
 
 
-Reference <a href="#a3720c4590f5e5afbecb80c77c118bb35">m&#95;stored</a>.
+Reference <a href="#a3720c4590f5e5afbecb80c77c118bb35">m\_stored</a>.
 </div>
 </div>
 
@@ -457,7 +463,7 @@ Reference <a href="#a3720c4590f5e5afbecb80c77c118bb35">m&#95;stored</a>.
 
 ## Private Member Attributes
 
-### m&#95;defines {#a62829771df09db4d985c0938a2dd17c5}
+### m\_defines {#a62829771df09db4d985c0938a2dd17c5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -476,7 +482,8 @@ Reference <a href="#a3720c4590f5e5afbecb80c77c118bb35">m&#95;stored</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -489,7 +496,7 @@ Referenced by <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a> and <
 </div>
 </div>
 
-### m&#95;includedFiles {#ac3a7690feba1d8603e2689c032a263e7}
+### m\_includedFiles {#ac3a7690feba1d8603e2689c032a263e7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -508,7 +515,8 @@ Referenced by <a href="#a6e51ee0c21e8152703c154432f78148a">retrieveRec</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -521,7 +529,7 @@ Referenced by <a href="#a01d40ea9678233df1c4deaa66e8e77ae">addInclude</a> and <a
 </div>
 </div>
 
-### m&#95;parent {#a3ce942a3afdfbec6ad3eea0096c2c012}
+### m\_parent {#a3ce942a3afdfbec6ad3eea0096c2c012}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -540,7 +548,8 @@ Referenced by <a href="#a01d40ea9678233df1c4deaa66e8e77ae">addInclude</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -553,7 +562,7 @@ Referenced by <a href="#a28f786619e5a63c13d9f0d6233914675">DefinesPerFile</a> an
 </div>
 </div>
 
-### m&#95;stored {#a3720c4590f5e5afbecb80c77c118bb35}
+### m\_stored {#a3720c4590f5e5afbecb80c77c118bb35}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -572,7 +581,8 @@ Referenced by <a href="#a28f786619e5a63c13d9f0d6233914675">DefinesPerFile</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -589,7 +599,7 @@ Referenced by <a href="#aaf26b848a690b17547d913dbb49848e6">store</a> and <a href
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a></li>

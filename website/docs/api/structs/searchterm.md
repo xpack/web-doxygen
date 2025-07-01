@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SearchTerm` Struct Reference
 
-<p>Searchable term. <a href="#details">More...</a></p>
+Searchable term. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -92,7 +92,7 @@ struct SearchTerm { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>encoded version of the search term <a href="#aec66f0d2f6bb7fb2905bc14546af792b">More...</a></p>
+encoded version of the search term <a href="#aec66f0d2f6bb7fb2905bc14546af792b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -131,7 +131,7 @@ struct SearchTerm { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>lower case word that is indexed (e.g. name of a symbol, or word from a title) <a href="#a806ba2eda79b8dc1de6be3177de1b9d9">More...</a></p>
+lower case word that is indexed (e.g. name of a symbol, or word from a title) <a href="#a806ba2eda79b8dc1de6be3177de1b9d9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -145,7 +145,7 @@ struct SearchTerm { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>title to show in the output for this search result <a href="#a7425c2f78a5d28163452433a2a0c64a4">More...</a></p>
+title to show in the output for this search result <a href="#a7425c2f78a5d28163452433a2a0c64a4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -159,7 +159,7 @@ struct SearchTerm { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>definition to link to <a href="#a9294691914e9c1d8e59a1400c5972466">More...</a></p>
+definition to link to <a href="#a9294691914e9c1d8e59a1400c5972466">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -170,9 +170,9 @@ struct SearchTerm { ... }
 
 ## Description {#details}
 
-<p>Searchable term.</p>
+Searchable term.
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxySectionDef">
 
@@ -197,7 +197,8 @@ struct SearchTerm { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -238,7 +239,8 @@ struct SearchTerm { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -275,7 +277,8 @@ References <a href="#a9294691914e9c1d8e59a1400c5972466">info</a>, <a href="#ac88
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -311,9 +314,10 @@ References <a href="#a9294691914e9c1d8e59a1400c5972466">info</a>, <a href="#ac88
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>encoded version of the search term</p>
 
-<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+encoded version of the search term
+
+Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -371,7 +375,8 @@ References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fe
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
+Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -428,9 +433,10 @@ Referenced by <a href="#a1b3d5eea3265628d4e969e52ed6dbf1d">SearchTerm</a> and <a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>definition to link to</p>
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+definition to link to
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -460,9 +466,10 @@ Referenced by <a href="#ac882a4444faaec272c4a80c69bc40035">makeTitle</a>, <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>title to show in the output for this search result</p>
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+title to show in the output for this search result
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -492,9 +499,10 @@ Referenced by <a href="#ac882a4444faaec272c4a80c69bc40035">makeTitle</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>lower case word that is indexed (e.g. name of a symbol, or word from a title)</p>
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+lower case word that is indexed (e.g. name of a symbol, or word from a title)
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -511,7 +519,7 @@ Referenced by <a href="#a1b3d5eea3265628d4e969e52ed6dbf1d">SearchTerm</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following files:</p>
+The documentation for this struct was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a></li>

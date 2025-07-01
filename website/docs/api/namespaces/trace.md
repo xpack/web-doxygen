@@ -73,7 +73,8 @@ namespace Trace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -107,7 +108,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a></li>

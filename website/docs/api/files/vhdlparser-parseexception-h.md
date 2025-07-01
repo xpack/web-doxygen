@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This exception is thrown when parse errors are encountered. <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception/#details">More...</a></p>
+This exception is thrown when parse errors are encountered. <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The end of line string for this machine. <a href="#a55b81f273444186ad83e1087f9a3706d">More...</a></p>
+The end of line string for this machine. <a href="#a55b81f273444186ad83e1087f9a3706d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -120,9 +120,10 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>The end of line string for this machine.</p>
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+The end of line string for this machine.
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 <div class="doxyProgramListing">
 

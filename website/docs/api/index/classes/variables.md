@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-<p>The class member variables used by this project are:</p>
+The class member variables used by this project are:
 
 ## - A -
 

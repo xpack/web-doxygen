@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A class representing a group of members. <a href="/web-doxygen/docs/api/classes/membergroup/#details">More...</a></p>
+A class representing a group of members. <a href="/web-doxygen/docs/api/classes/membergroup/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -79,7 +79,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Data collected for a member group. <a href="/web-doxygen/docs/api/structs/membergroupinfo/#details">More...</a></p>
+Data collected for a member group. <a href="/web-doxygen/docs/api/structs/membergroupinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -150,7 +150,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -167,7 +168,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### DOX&#95;NOGROUP {#af4a5ed4e8eab2424cd34974b84562093}
+### DOX\_NOGROUP {#af4a5ed4e8eab2424cd34974b84562093}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -186,7 +187,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 

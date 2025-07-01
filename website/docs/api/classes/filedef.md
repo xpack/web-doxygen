@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FileDef` Class Reference
 
-<p>A model of a file symbol. <a href="#details">More...</a></p>
+A model of a file symbol. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class FileDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
+The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -948,14 +948,14 @@ class FileDef { ... }
 
 ## Description {#details}
 
-<p>A model of a file symbol.</p>
+A model of a file symbol.
 
 
-<p>An object of this class contains all file information that is gathered. This includes the members and compounds defined in the file.</p>
+An object of this class contains all file information that is gathered. This includes the members and compounds defined in the file.
 
-<p>The member <a href="#a09f77095e41c7b6c9f9b9e54fb702dcb">writeDocumentation()</a> can be used to generate the page of documentation to HTML and LaTeX.</p>
+The member <a href="#a09f77095e41c7b6c9f9b9e54fb702dcb">writeDocumentation()</a> can be used to generate the page of documentation to HTML and LaTeX.
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -981,13 +981,14 @@ class FileDef { ... }
 
 
 
-<p>Returns the absolute path including the file name.</p>
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns the absolute path including the file name.
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a800e157b3a9d9d68b3961528e60117d9">absFilePath</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aed02fe5ded54336952277d72ed72360d">MemberDefImpl::&#95;writeGroupInclude</a>, <a href="#a800e157b3a9d9d68b3961528e60117d9">absFilePath</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#aae7040ab38171d6666f314331a4d6335">FileDefImpl::addIncludedByDependency</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#af6e40a9b55ddf54aebef42114a99a861">FileDefImpl::addIncludeDependency</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232db6c9889f7f473a5cf3d3">addIncludeFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d637d9f99c1adef34aafe856">addVariableToFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095a13ae269eb1a17631909f06">DotInclDepGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b4a037c36ac329185ff">VhdlDocGen::createFlowChart</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#aa6f427f748bd461630a7656583fc729e">DotInclDepGraph::DotInclDepGraph</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac8b51a59c563eeb4756d181947a53260">haveEqualFileNames</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#aab82ef451cf5eff26b1d097aefd8d421">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a608907da6a8263ac7cff6caae01673c9">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docdiafile/#a1396bc16741d66e4abf8a5293eda4632">DocDiaFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docdotfile/#a2043f4bc708113c37611f56b991b6cb0">DocDotFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docmscfile/#ae8a3e4c248768b7438a264aaa5114813">DocMscFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docplantumlfile/#aced065805a867717cc792ae759c96876">DocPlantUmlFile::parse</a>, <a href="/web-doxygen/docs/api/classes/ccodeparser/#a106ea78aa6382f5b06dbd2563d5b99e4">CCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7aac89ee42416993ce59da">ModuleManager::resolveImports</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aed02fe5ded54336952277d72ed72360d">MemberDefImpl::\_writeGroupInclude</a>, <a href="#a800e157b3a9d9d68b3961528e60117d9">absFilePath</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#aae7040ab38171d6666f314331a4d6335">FileDefImpl::addIncludedByDependency</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#af6e40a9b55ddf54aebef42114a99a861">FileDefImpl::addIncludeDependency</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232db6c9889f7f473a5cf3d3">addIncludeFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d637d9f99c1adef34aafe856">addVariableToFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095a13ae269eb1a17631909f06">DotInclDepGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b4a037c36ac329185ff">VhdlDocGen::createFlowChart</a>, <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#aa6f427f748bd461630a7656583fc729e">DotInclDepGraph::DotInclDepGraph</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac8b51a59c563eeb4756d181947a53260">haveEqualFileNames</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#aab82ef451cf5eff26b1d097aefd8d421">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a608907da6a8263ac7cff6caae01673c9">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docdiafile/#a1396bc16741d66e4abf8a5293eda4632">DocDiaFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docdotfile/#a2043f4bc708113c37611f56b991b6cb0">DocDotFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docmscfile/#ae8a3e4c248768b7438a264aaa5114813">DocMscFile::parse</a>, <a href="/web-doxygen/docs/api/classes/docplantumlfile/#aced065805a867717cc792ae759c96876">DocPlantUmlFile::parse</a>, <a href="/web-doxygen/docs/api/classes/ccodeparser/#a106ea78aa6382f5b06dbd2563d5b99e4">CCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7aac89ee42416993ce59da">ModuleManager::resolveImports</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
 </div>
 </div>
 
@@ -1010,7 +1011,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aed02fe5ded5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a2a164a0ef6d6c1cf6fc18092dd5430fe">addIncludedByDependency</a>.
 
@@ -1037,7 +1039,8 @@ Referenced by <a href="#a2a164a0ef6d6c1cf6fc18092dd5430fe">addIncludedByDependen
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#af56d10caad769cdcef8b885f09dbb2c6">addIncludeDependency</a>.
 
@@ -1064,7 +1067,8 @@ Referenced by <a href="#af56d10caad769cdcef8b885f09dbb2c6">addIncludeDependency<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a205fd09f150dd34f985d2535c17c70f8">addIncludedUsingDirectives</a>.
 
@@ -1091,7 +1095,8 @@ Referenced by <a href="#a205fd09f150dd34f985d2535c17c70f8">addIncludedUsingDirec
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a846076b8618596012928fa927ea18dc3">addListReferences</a>.
 
@@ -1118,7 +1123,8 @@ Referenced by <a href="#a846076b8618596012928fa927ea18dc3">addListReferences</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#acfed3295a29007aa4d656133ce62cc7b">addMembersToMemberGroup</a>.
 
@@ -1145,7 +1151,8 @@ Referenced by <a href="#acfed3295a29007aa4d656133ce62cc7b">addMembersToMemberGro
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a68551c8cdfd8c232cf318b13783c48e7">addSourceRef</a>.
 
@@ -1172,7 +1179,8 @@ Referenced by <a href="#a68551c8cdfd8c232cf318b13783c48e7">addSourceRef</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a005fcd20ce9a5bb8a4f241e6ff31a953">addUsingDeclaration</a>.
 
@@ -1199,7 +1207,8 @@ Referenced by <a href="#a005fcd20ce9a5bb8a4f241e6ff31a953">addUsingDeclaration</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aca012a3d955a5d4794c1316d8b8e93f9">addUsingDirective</a>.
 
@@ -1226,7 +1235,8 @@ Referenced by <a href="#aca012a3d955a5d4794c1316d8b8e93f9">addUsingDirective</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aeeae011b65e14f1933b386f2741dc099">combineUsingRelations</a>.
 
@@ -1253,7 +1263,8 @@ Referenced by <a href="#aeeae011b65e14f1933b386f2741dc099">combineUsingRelations
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a1562f7a121bb62c980311df03af65dfa">computeAnchors</a>.
 
@@ -1280,7 +1291,8 @@ Referenced by <a href="#a1562f7a121bb62c980311df03af65dfa">computeAnchors</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a12b579f1630d64feaa012bf37befd9f3">countMembers</a>.
 
@@ -1307,7 +1319,8 @@ Referenced by <a href="#a12b579f1630d64feaa012bf37befd9f3">countMembers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ade13b18f394ab2b1ccfed54d251998e6">distributeMemberGroupDocumentation</a>.
 
@@ -1335,9 +1348,10 @@ Referenced by <a href="#ade13b18f394ab2b1ccfed54d251998e6">distributeMemberGroup
 
 
 
-<p>Returns the name as it is used in the documentation</p>
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns the name as it is used in the documentation
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ad7d5e7ac753d7247cfaad5be9ea3eaec">docName</a>.
 
@@ -1365,9 +1379,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 
 
 
-<p>Returns the unique file name (this may include part of the path).</p>
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns the unique file name (this may include part of the path).
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a93e1226e2ce3405e358aebe045c2d691">fileName</a>.
 
@@ -1394,7 +1409,8 @@ Referenced by <a href="#a93e1226e2ce3405e358aebe045c2d691">fileName</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a3117f93db90c0902388059724f23ed5c">fileVersion</a>.
 
@@ -1421,7 +1437,8 @@ Referenced by <a href="#a3117f93db90c0902388059724f23ed5c">fileVersion</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a053c77baf962339b471a1182127dcb7b">findSectionsInDocumentation</a>.
 
@@ -1448,7 +1465,8 @@ Referenced by <a href="#a053c77baf962339b471a1182127dcb7b">findSectionsInDocumen
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a6702563833af37fc90c00d231c4574b5">generateSourceFile</a>.
 
@@ -1475,7 +1493,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aab805384a7002a2749c260129ae5cc77">getAllIncludeFilesRecursively</a>.
 
@@ -1502,7 +1521,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a82f5e81b574bc9e6635cfdd4d8ee2dfe">getClasses</a>.
 
@@ -1529,7 +1549,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ae622a5297d0810cc339d335b07aae7c0">getConcepts</a>.
 
@@ -1556,7 +1577,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#af21458ff3331bd2e517b67f1a374c139">getDirDef</a>.
 
@@ -1583,7 +1605,8 @@ Referenced by <a href="#af21458ff3331bd2e517b67f1a374c139">getDirDef</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a11c922f32703c5ddc3e4b9d47cea33a3">getMemberGroups</a>.
 
@@ -1610,7 +1633,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa4d01cc3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aca0861997f31aa265f0c0078c947fdc9">getMemberList</a>.
 
@@ -1637,7 +1661,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#ae1923bdab69f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#abe37d079d39eda03281588a4ebecbef6">getMemberLists</a>.
 
@@ -1664,7 +1689,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a4db21a8dd1bc568eab26da04d3b97edc">getModuleDef</a>.
 
@@ -1691,7 +1717,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a67d97db3c717b8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a049235b5e182aa2c71db539c6d0896d3">getNamespaces</a>.
 
@@ -1719,9 +1746,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 
 
 
-<p>Returns the absolute path of this file.</p>
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns the absolute path of this file.
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a4fa6cc178c30328fa1ae5efec0fea794">getPath</a>.
 
@@ -1748,7 +1776,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a374589109923f4be74cb049d9aeb34e3">getSourceDefinition</a>.
 
@@ -1775,7 +1804,8 @@ Referenced by <a href="#a374589109923f4be74cb049d9aeb34e3">getSourceDefinition</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a4cbe3e667b3f9a006fa94f9d582cb49d">getSourceMember</a>.
 
@@ -1802,7 +1832,8 @@ Referenced by <a href="#a4cbe3e667b3f9a006fa94f9d582cb49d">getSourceMember</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a7304fd5a027f3efb4972abb52ecb4490">getUsedDefinitions</a>.
 
@@ -1829,7 +1860,8 @@ Referenced by <a href="#a7304fd5a027f3efb4972abb52ecb4490">getUsedDefinitions</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a7034a3e83b3708fef2741870ada63406">getUsedNamespaces</a>.
 
@@ -1857,9 +1889,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa40
 
 
 
-<p>Returns version of this file.</p>
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns version of this file.
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a353a4bb7664cfaab3696138993aab820">getVersion</a>.
 
@@ -1886,7 +1919,8 @@ Referenced by <a href="#a353a4bb7664cfaab3696138993aab820">getVersion</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a3a75a471103750aaf77fba8b4d626626">hasDetailedDescription</a>.
 
@@ -1913,7 +1947,8 @@ Referenced by <a href="#a3a75a471103750aaf77fba8b4d626626">hasDetailedDescriptio
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a42e693aee88e6bf23cf5d5f790e4b1da">hasIncludedByGraph</a>.
 
@@ -1940,7 +1975,8 @@ Referenced by <a href="#a42e693aee88e6bf23cf5d5f790e4b1da">hasIncludedByGraph</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a9ae86880ec6d8d33a71e63aefd3d8d31">hasIncludeGraph</a>.
 
@@ -1967,7 +2003,8 @@ Referenced by <a href="#a9ae86880ec6d8d33a71e63aefd3d8d31">hasIncludeGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a839282776181f9ae9798a4f7e04e2a42">includedByDependencyGraphFileName</a>.
 
@@ -1994,7 +2031,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#aa6f427f74
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ae9c6fecec7ff96fded91315943519a25">includedByFileList</a>.
 
@@ -2021,7 +2059,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ae0cf64cd4de49e26166e60dffa2c2136">includeDependencyGraphFileName</a>.
 
@@ -2048,7 +2087,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#aa6f427f74
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aaa1fd01a880dff1fb1724a1dd209693f">includeFileList</a>.
 
@@ -2076,9 +2116,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#ad88aa8095
 
 
 
-<p>Returns the name of the verbatim copy of this file (if any).</p>
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns the name of the verbatim copy of this file (if any).
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a0f57e53f5377727d90c7b9a9124aab87">includeName</a>.
 
@@ -2105,7 +2146,8 @@ Referenced by <a href="#a0f57e53f5377727d90c7b9a9124aab87">includeName</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a04ca466b2b911a6fb33348d9f2bbe581">insertClass</a>.
 
@@ -2132,7 +2174,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a1cecfeeaf19b7327980086d4980350b4">insertConcept</a>.
 
@@ -2159,7 +2202,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#af4af20feef555e05cb545474d38347d4">insertMember</a>.
 
@@ -2186,7 +2230,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#af6ff0f87e12e2f0b7db034560c7aaa8e">insertNamespace</a>.
 
@@ -2213,7 +2258,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ad64ab8e7db62dd0d9ddde26d0a7a1263">isDocumentationFile</a>.
 
@@ -2240,7 +2286,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78b0d7057156fc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 References <a href="#a6858e32cadf108d46cec1f3cba4246c4">isIncluded</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
 
@@ -2268,9 +2315,10 @@ Referenced by <a href="#a6858e32cadf108d46cec1f3cba4246c4">isIncluded</a>.
 
 
 
-<p>Returns TRUE if this file is a source file.</p>
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Returns TRUE if this file is a source file.
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a861089f5b42709f2192b80437378dafa">isSource</a>.
 
@@ -2297,7 +2345,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aaed0d04fb64018b9100460b8f27c5fd8">numDecMembers</a>.
 
@@ -2324,7 +2373,8 @@ Referenced by <a href="#aaed0d04fb64018b9100460b8f27c5fd8">numDecMembers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a738b5a39e9f8aae10c1b367b5f1f8198">numDocMembers</a>.
 
@@ -2351,7 +2401,8 @@ Referenced by <a href="#a738b5a39e9f8aae10c1b367b5f1f8198">numDocMembers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/filedef-h/#a57b6a9dbcf3240c5a691f37564ef89ad">createFileDef</a>, <a href="#ad43c4d8ba9857b32e92ca529152e4958">overrideIncludedByGraph</a> and <a href="/web-doxygen/docs/api/files/src/filedef-h/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>.
 
@@ -2378,7 +2429,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a34
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a47e9d040abffbca72511e5646e41d5ee">overrideIncludeGraph</a>.
 
@@ -2405,7 +2457,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a34
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aa94fb5944a0a002a77e43e85b450b49d">parseSource</a>.
 
@@ -2432,7 +2485,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a01cff3381547eaad2ff2427bb8dd10c5">removeMember</a>.
 
@@ -2459,7 +2513,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a804ef07ae8eae183b9cd04f2d54dc16b">setDirDef</a>.
 
@@ -2486,7 +2541,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a937c47db4eb14c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 References <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#aac5133ba847f1acd52b1f1999cc60798">setDiskName</a>.
 
@@ -2513,7 +2569,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab57dc156537
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a0294b0d683e277fc4ee9a4e6e375bc33">setModuleDef</a>.
 
@@ -2540,7 +2597,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a9a5ccba7154
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a77be2cf02917e4f96eba3bc619af6c75">sortMemberLists</a>.
 
@@ -2567,7 +2625,8 @@ Referenced by <a href="#a77be2cf02917e4f96eba3bc619af6c75">sortMemberLists</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#abd14f90bf605b6f4064b30a202529230">subGrouping</a>.
 
@@ -2594,7 +2653,8 @@ Referenced by <a href="#abd14f90bf605b6f4064b30a202529230">subGrouping</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#aa1e5932865d564d3ff08ba5174387303">title</a>.
 
@@ -2621,7 +2681,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a09f77095e41c7b6c9f9b9e54fb702dcb">writeDocumentation</a>.
 
@@ -2648,7 +2709,8 @@ Referenced by <a href="#a09f77095e41c7b6c9f9b9e54fb702dcb">writeDocumentation</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ab7647ad0008c119f00afab1aabf54eef">writeMemberPages</a>.
 
@@ -2675,7 +2737,8 @@ Referenced by <a href="#ab7647ad0008c119f00afab1aabf54eef">writeMemberPages</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ab543f56f30593b2c4729ef833b69eec5">writeSourceBody</a>.
 
@@ -2702,7 +2765,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#ab14d9b564c00f99b044fd45039472eb9">writeSourceFooter</a>.
 
@@ -2729,7 +2793,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a54e37d254c25b131df238b422d4c180b">writeSourceHeader</a>.
 
@@ -2756,7 +2821,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 Reference <a href="#a43eeb0840f7f101f887905c31da0b139">writeTagFile</a>.
 
@@ -2768,7 +2834,7 @@ Referenced by <a href="#a43eeb0840f7f101f887905c31da0b139">writeTagFile</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a></li>

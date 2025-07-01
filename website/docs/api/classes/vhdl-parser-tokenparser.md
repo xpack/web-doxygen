@@ -41,7 +41,7 @@ class vhdl::parser::TokenParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ class vhdl::parser::TokenParser { ... }
 </table>
 
 
-<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxySectionDef">
 
@@ -119,7 +119,8 @@ class vhdl::parser::TokenParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -162,7 +163,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -179,7 +181,7 @@ Referenced by <a href="#ac5cb74c3a7c9a7f4620c34d939da9fbc">setLexParser</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a></li>

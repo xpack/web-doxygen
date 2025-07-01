@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `OutputCodeList` Class Reference
 
-<p>Class representing a list of different code generators. <a href="#details">More...</a></p>
+Class representing a list of different code generators. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -102,7 +102,7 @@ class OutputCodeList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Add a code generator to the list, using a syntax similar to std::make_unique&lt;T&gt;() <a href="#a140918bf6841d5fa572a58a7a59eece9">More...</a></p>
+Add a code generator to the list, using a syntax similar to std::make\_unique&lt;T&gt;() <a href="#a140918bf6841d5fa572a58a7a59eece9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -119,7 +119,7 @@ class OutputCodeList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a pointer to a specific generator in the list. <a href="#a3320211f0fe2d7cdcced9f93ccd8ab61">More...</a></p>
+Returns a pointer to a specific generator in the list. <a href="#a3320211f0fe2d7cdcced9f93ccd8ab61">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -133,7 +133,7 @@ class OutputCodeList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Enable or disable a specific generator. <a href="#aa698fb8d956eefe27034d2030751a002">More...</a></p>
+Enable or disable a specific generator. <a href="#aa698fb8d956eefe27034d2030751a002">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -432,12 +432,12 @@ class OutputCodeList { ... }
 
 ## Description {#details}
 
-<p>Class representing a list of different code generators.</p>
+Class representing a list of different code generators.
 
 
-<p>It offers the same interface as the specific code generators, and will forward each method to all generators that are enabled.</p>
+It offers the same interface as the specific code generators, and will forward each method to all generators that are enabled.
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxySectionDef">
 
@@ -462,7 +462,8 @@ class OutputCodeList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -503,7 +504,8 @@ class OutputCodeList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -515,7 +517,7 @@ class OutputCodeList { ... }
 </div>
 
 
-Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 
 Referenced by <a href="#a140918bf6841d5fa572a58a7a59eece9">add</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a45427ad8a509ed14c5f6c1ef1a64e5d7">DocbookGenerator::addCodeGen</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ab7780b856bce0c4e0ea29e92fec08dce">HtmlGenerator::addCodeGen</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a019e5d73adb47b293289531bf8431dd4">LatexGenerator::addCodeGen</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a21756c4404bc9061c6d5691ced263a08">ManGenerator::addCodeGen</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aac388fe5f65f2e3d8acb66b1466b2f0b">RTFGenerator::addCodeGen</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c157228188e339625da475">generateBriefDoc</a>, <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3931b4604b8a76ac26b7380a585ef543">FileDefImpl::parseSource</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac584b41f75fc411a218e9e684fd491d5">FileDefImpl::writeSourceBody</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a1f234d06f4ded36681d8976f055d5929">writeXMLDocBlock</a>.
 </div>
@@ -544,9 +546,10 @@ Referenced by <a href="#a140918bf6841d5fa572a58a7a59eece9">add</a>, <a href="/we
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Add a code generator to the list, using a syntax similar to std::make_unique&lt;T&gt;()</p>
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+Add a code generator to the list, using a syntax similar to std::make\_unique&lt;T&gt;()
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -559,7 +562,7 @@ Referenced by <a href="#a140918bf6841d5fa572a58a7a59eece9">add</a>, <a href="/we
 </div>
 
 
-References <a href="#a60b7d69b02fe400d0111a3321c9f0265">add</a> and <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+References <a href="#a60b7d69b02fe400d0111a3321c9f0265">add</a> and <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 </div>
 </div>
 
@@ -587,7 +590,8 @@ References <a href="#a60b7d69b02fe400d0111a3321c9f0265">add</a> and <a href="#a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -599,7 +603,7 @@ References <a href="#a60b7d69b02fe400d0111a3321c9f0265">add</a> and <a href="#a1
 </div>
 
 
-Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 </div>
 </div>
 
@@ -627,7 +631,8 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -667,7 +672,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filecodeparser/#a16bbf3ac1b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -707,7 +713,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -747,7 +754,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filecodeparser/#a16bbf3ac1b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -785,7 +793,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputcodeintf/#a127a4783dec156
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -823,7 +832,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputcodeintf/#aa45791b7a34c31
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -862,9 +872,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166f
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a pointer to a specific generator in the list.</p>
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+Returns a pointer to a specific generator in the list.
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -880,7 +891,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166f
 </div>
 
 
-Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 </div>
 </div>
 
@@ -908,7 +919,8 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -917,7 +929,7 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 </div>
 
 
-Reference <a href="#a7d78b59a476511a0e4d91cc2d175a769">m&#95;id</a>.
+Reference <a href="#a7d78b59a476511a0e4d91cc2d175a769">m\_id</a>.
 
 Referenced by <a href="#ac2ca8e5197d97fe6e8650a1949457ac0">setId</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
 </div>
@@ -945,9 +957,10 @@ Referenced by <a href="#ac2ca8e5197d97fe6e8650a1949457ac0">setId</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Enable or disable a specific generator.</p>
 
-<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+Enable or disable a specific generator.
+
+Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -962,7 +975,7 @@ Referenced by <a href="#ac2ca8e5197d97fe6e8650a1949457ac0">setId</a> and <a href
 </div>
 
 
-Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 </div>
 </div>
 
@@ -990,7 +1003,8 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -999,7 +1013,7 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 </div>
 
 
-References <a href="#a6fdb262f6dcf3dc188a8c91814e9cba4">id</a> and <a href="#a7d78b59a476511a0e4d91cc2d175a769">m&#95;id</a>.
+References <a href="#a6fdb262f6dcf3dc188a8c91814e9cba4">id</a> and <a href="#a7d78b59a476511a0e4d91cc2d175a769">m\_id</a>.
 </div>
 </div>
 
@@ -1027,7 +1041,8 @@ References <a href="#a6fdb262f6dcf3dc188a8c91814e9cba4">id</a> and <a href="#a7d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1067,7 +1082,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1079,7 +1095,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166f
 
 Reference <a href="/web-doxygen/docs/api/classes/outputcodeintf/#a58d79ca11fffa10472ef58b269541011">OutputCodeIntf::startCodeFragment</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e278284bc82564b4515fb600608">MemberDefImpl::&#95;writeMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6bab634f62d558e8d56cb84dee170cd2">DefinitionImpl::writeInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd9865b477141ab58dcb20">VhdlDocGen::writeSource</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac584b41f75fc411a218e9e684fd491d5">FileDefImpl::writeSourceBody</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e278284bc82564b4515fb600608">MemberDefImpl::\_writeMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6bab634f62d558e8d56cb84dee170cd2">DefinitionImpl::writeInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd9865b477141ab58dcb20">VhdlDocGen::writeSource</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac584b41f75fc411a218e9e684fd491d5">FileDefImpl::writeSourceBody</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
 </div>
 </div>
 
@@ -1107,7 +1123,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e27828
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1147,7 +1164,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filecodeparser/#a16bbf3ac1b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1185,7 +1203,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputcodeintf/#a5f11bd7fc9a1ec
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1225,7 +1244,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#a443391a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1265,7 +1285,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1305,7 +1326,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/ccodeparser/#a106ea78aa6382
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1345,7 +1367,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#ada294ec0d3d5d40d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1388,7 +1411,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1429,7 +1453,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filecodeparser/#a16bbf3ac1b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1477,7 +1502,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1495,7 +1521,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 </div>
 
 
-Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
+Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m\_outputCodeList</a>.
 </div>
 </div>
 
@@ -1505,7 +1531,7 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 
 ## Private Member Attributes
 
-### m&#95;id {#a7d78b59a476511a0e4d91cc2d175a769}
+### m\_id {#a7d78b59a476511a0e4d91cc2d175a769}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1524,7 +1550,8 @@ Reference <a href="#a1b66e22d9c49abb5cec665038904357b">m&#95;outputCodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1537,7 +1564,7 @@ Referenced by <a href="#a6fdb262f6dcf3dc188a8c91814e9cba4">id</a> and <a href="#
 </div>
 </div>
 
-### m&#95;outputCodeList {#a1b66e22d9c49abb5cec665038904357b}
+### m\_outputCodeList {#a1b66e22d9c49abb5cec665038904357b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1556,7 +1583,8 @@ Referenced by <a href="#a6fdb262f6dcf3dc188a8c91814e9cba4">id</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1573,7 +1601,7 @@ Referenced by <a href="#a140918bf6841d5fa572a58a7a59eece9">add</a>, <a href="#a6
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a></li>

@@ -129,7 +129,7 @@ struct PreIncludeInfo { ... }
 </table>
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxySectionDef">
 
@@ -159,7 +159,8 @@ struct PreIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -200,7 +201,8 @@ References <a href="#a15f1159eaf981c7035b440feb08c9097">fileName</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -232,7 +234,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -264,7 +267,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -296,7 +300,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -328,7 +333,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -360,7 +366,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -377,7 +384,7 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a></li>

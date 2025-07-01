@@ -64,7 +64,7 @@ class KeywordHash { ... }
 </table>
 
 
-<p>Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ class KeywordHash { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,7 +159,7 @@ class KeywordHash { ... }
 </div>
 
 
-References <a href="#aa4c39218b1d9789ab4beba8ffb08f85d">hash</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#adcb5e53d22730cfbca1e27236cd11aff">MAX&#95;HASH&#95;VALUE</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#a7073af2fa16b860b734ab4554eacf3c3">MIN&#95;WORD&#95;LENGTH</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.
+References <a href="#aa4c39218b1d9789ab4beba8ffb08f85d">hash</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#adcb5e53d22730cfbca1e27236cd11aff">MAX\_HASH\_VALUE</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#a7073af2fa16b860b734ab4554eacf3c3">MIN\_WORD\_LENGTH</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/defargs-l/#aac9470d1061fbdc10e05184c45712c29">nameIsActuallyPartOfType</a>.
 </div>
@@ -195,7 +196,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defargs-l/#aac9470d1061fb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -257,7 +259,7 @@ Referenced by <a href="#ad9e74a09c57e4891e741ecf7ee23919e">find</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a></li>

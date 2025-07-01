@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `AccessStack` Class Reference
 
-<p>Helper class representing the stack of items considered while resolving the scope. <a href="#details">More...</a></p>
+Helper class representing the stack of items considered while resolving the scope. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -130,9 +130,9 @@ class AccessStack { ... }
 
 ## Description {#details}
 
-<p>Helper class representing the stack of items considered while resolving the scope.</p>
+Helper class representing the stack of items considered while resolving the scope.
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -162,7 +162,8 @@ class AccessStack { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -174,7 +175,7 @@ class AccessStack { ... }
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 </div>
 </div>
 
@@ -202,7 +203,8 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -216,7 +218,7 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60ffd0b23680e5318865a367b0d26871">SymbolResolver::Private::isAccessibleFrom</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a01a031ffd0a93eb06668c1e93fb57f69">SymbolResolver::Private::isAccessibleFromWithExpScope</a>.
 </div>
@@ -246,7 +248,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -260,7 +263,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 </div>
 </div>
 
@@ -288,7 +291,8 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -300,7 +304,7 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60ffd0b23680e5318865a367b0d26871">SymbolResolver::Private::isAccessibleFrom</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a01a031ffd0a93eb06668c1e93fb57f69">SymbolResolver::Private::isAccessibleFromWithExpScope</a>.
 </div>
@@ -330,7 +334,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -342,7 +347,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60ffd0b23680e5318865a367b0d26871">SymbolResolver::Private::isAccessibleFrom</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a01a031ffd0a93eb06668c1e93fb57f69">SymbolResolver::Private::isAccessibleFromWithExpScope</a>.
 </div>
@@ -372,7 +377,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -384,7 +390,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60
 </div>
 
 
-Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
+Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m\_elements</a>.
 </div>
 </div>
 
@@ -394,7 +400,7 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 
 ## Private Member Attributes
 
-### m&#95;elements {#a7e31ff49d1d3b02a9f6864eac0231294}
+### m\_elements {#a7e31ff49d1d3b02a9f6864eac0231294}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -413,7 +419,8 @@ Reference <a href="#a7e31ff49d1d3b02a9f6864eac0231294">m&#95;elements</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -430,7 +437,7 @@ Referenced by <a href="#a5e0ca516d391062bf40af38e0fe9d187">clear</a>, <a href="#
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a></li>

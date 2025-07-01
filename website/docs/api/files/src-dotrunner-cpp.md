@@ -98,7 +98,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aea20ab8f782b45746f1e20f5d0b565e6">MAX_LATEX_GRAPH_SIZE</a>&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX&#95;LATEX&#95;GRAPH&#95;INCH</a> &#42; 72)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aea20ab8f782b45746f1e20f5d0b565e6">MAX_LATEX_GRAPH_SIZE</a>&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a> \* 72)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -153,7 +153,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +215,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -258,7 +260,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -307,7 +310,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a11984900bb9b207c7496404c65c40115">MAX&#95;LATEX&#95;GRAPH&#95;INCH</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab14881c67dae32902aa709517177e5ce">Dir::rename</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab14881c67dae32902aa709517177e5ce">Dir::rename</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.
 </div>
@@ -338,7 +341,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -351,7 +355,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4
 </div>
 </div>
 
-### MAX&#95;LATEX&#95;GRAPH&#95;INCH {#a11984900bb9b207c7496404c65c40115}
+### MAX\_LATEX\_GRAPH\_INCH {#a11984900bb9b207c7496404c65c40115}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -370,7 +374,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -383,7 +388,7 @@ Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
 </div>
 </div>
 
-### MAX&#95;LATEX&#95;GRAPH&#95;SIZE {#aea20ab8f782b45746f1e20f5d0b565e6}
+### MAX\_LATEX\_GRAPH\_SIZE {#aea20ab8f782b45746f1e20f5d0b565e6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -392,7 +397,7 @@ Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define MAX_LATEX_GRAPH_SIZE&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX&#95;LATEX&#95;GRAPH&#95;INCH</a> &#42; 72)</td>
+<td class="doxyMemberName">#define MAX_LATEX_GRAPH_SIZE&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a> \* 72)</td>
 </tr>
 </table>
 </td>
@@ -402,7 +407,8 @@ Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
 
 <div class="doxyProgramListing">
 

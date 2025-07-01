@@ -36,7 +36,7 @@ class GroupList { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; GroupDef &#42; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; GroupDef * &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class GroupList { ... }
 </table>
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
 
 <hr/>
 

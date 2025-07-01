@@ -131,7 +131,7 @@ class SymbolMap&lt;T&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Add a symbol <em>def</em> into the map under key <em>name</em>. <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">More...</a></p>
+Add a symbol <em>def</em> into the map under key <em>name</em>. <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -148,7 +148,7 @@ class SymbolMap&lt;T&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Remove a symbol <em>def</em> from the map that was stored under key <em>name</em>. <a href="#a36b000d1d74ec4820b0d1c3a57dd645c">More...</a></p>
+Remove a symbol <em>def</em> from the map that was stored under key <em>name</em>. <a href="#a36b000d1d74ec4820b0d1c3a57dd645c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -295,15 +295,15 @@ class SymbolMap&lt;T&gt; { ... }
 
 
 
-<p>Class implementing a symbol map that maps symbol names to objects. Symbol names do not have to be unique. Supports adding symbols with <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">add()</a>, removing symbols with <a href="#a36b000d1d74ec4820b0d1c3a57dd645c">remove()</a>, and finding symbols with <a href="#a84904cdc40a6daca784500b454fbc813">find()</a>.</p>
+Class implementing a symbol map that maps symbol names to objects. Symbol names do not have to be unique. Supports adding symbols with <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">add()</a>, removing symbols with <a href="#a36b000d1d74ec4820b0d1c3a57dd645c">remove()</a>, and finding symbols with <a href="#a84904cdc40a6daca784500b454fbc813">find()</a>.
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Typedefs
 
-### const&#95;iterator {#a53fbe4b99c651adaaf27f506450a9a1d}
+### const\_iterator {#a53fbe4b99c651adaaf27f506450a9a1d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -323,7 +323,8 @@ class SymbolMap&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -354,7 +355,8 @@ class SymbolMap&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -385,7 +387,8 @@ class SymbolMap&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -416,7 +419,8 @@ class SymbolMap&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -447,7 +451,8 @@ class SymbolMap&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -487,9 +492,10 @@ class SymbolMap&lt;T&gt; { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Add a symbol <em>def</em> into the map under key <em>name</em>.</p>
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+Add a symbol <em>def</em> into the map under key <em>name</em>.
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -509,7 +515,7 @@ class SymbolMap&lt;T&gt; { ... }
 </div>
 
 
-References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -538,7 +544,8 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -547,7 +554,7 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 </div>
 
 
-Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>.
+Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>.
 </div>
 </div>
 
@@ -576,7 +583,8 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -585,7 +593,7 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 </div>
 
 
-Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>.
+Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>.
 </div>
 </div>
 
@@ -614,7 +622,8 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -623,7 +632,7 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 </div>
 
 
-Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>.
+Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>.
 </div>
 </div>
 
@@ -652,7 +661,8 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -661,7 +671,7 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 </div>
 
 
-Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>.
+Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>.
 </div>
 </div>
 
@@ -690,7 +700,8 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -699,7 +710,7 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 </div>
 
 
-Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>.
+Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>.
 </div>
 </div>
 
@@ -729,9 +740,10 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 
 
 
-<p>Find the list of symbols stored under key <em>name</em> Returns a pair of iterators pointing to the start and end of the range of matching symbols</p>
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+Find the list of symbols stored under key <em>name</em> Returns a pair of iterators pointing to the start and end of the range of matching symbols
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -745,7 +757,7 @@ Reference <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#
 </div>
 
 
-References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a>, <a href="#a44148f88041734dd12f69521dc25e174">SymbolMap&lt; T &gt;::m&#95;noMatch</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a>, <a href="#a44148f88041734dd12f69521dc25e174">SymbolMap&lt; T &gt;::m\_noMatch</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -772,9 +784,10 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Remove a symbol <em>def</em> from the map that was stored under key <em>name</em>.</p>
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+Remove a symbol <em>def</em> from the map that was stored under key <em>name</em>.
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -799,7 +812,7 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 </div>
 
 
-References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&#95;map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m\_map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -809,7 +822,7 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 
 ## Private Member Attributes
 
-### m&#95;map {#adb4e4e42ab3d988f61ab9e6a3f057bcf}
+### m\_map {#adb4e4e42ab3d988f61ab9e6a3f057bcf}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -829,7 +842,8 @@ References <a href="#adb4e4e42ab3d988f61ab9e6a3f057bcf">SymbolMap&lt; T &gt;::m&
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -842,7 +856,7 @@ Referenced by <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">SymbolMap&lt; T &gt;:
 </div>
 </div>
 
-### m&#95;noMatch {#a44148f88041734dd12f69521dc25e174}
+### m\_noMatch {#a44148f88041734dd12f69521dc25e174}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -862,7 +876,8 @@ Referenced by <a href="#a5ee5036f5adbd147a02e4aa476fc8b72">SymbolMap&lt; T &gt;:
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -879,7 +894,7 @@ Referenced by <a href="#a84904cdc40a6daca784500b454fbc813">SymbolMap&lt; T &gt;:
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/symbolmap-h">symbolmap.h</a></li>

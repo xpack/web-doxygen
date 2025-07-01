@@ -150,7 +150,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -204,7 +205,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -261,9 +263,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a456518c674e7ae8f
 
 
 
-<p>Checks if a file "baseName".md5 exists. If so the contents are compared with <em>md5</em>. If equal FALSE is returned. The .md5 is created or updated after successful creation of the output file.</p>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+Checks if a file "baseName".md5 exists. If so the contents are compared with <em>md5</em>. If equal FALSE is returned. The .md5 is created or updated after successful creation of the output file.
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -308,7 +311,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 
 ## Variables
 
-### g&#95;dotIndexListMutex {#ac4c77ee56010cac577323cba8c6a1ee4}
+### g\_dotIndexListMutex {#ac4c77ee56010cac577323cba8c6a1ee4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -327,7 +330,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -346,7 +350,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59de
 
 ## Macro Definitions
 
-### MAP&#95;CMD {#a8e61450eb94b16e866568ad3aed2d9f1}
+### MAP\_CMD {#a8e61450eb94b16e866568ad3aed2d9f1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -365,7 +369,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59de
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
 
 <div class="doxyProgramListing">
 

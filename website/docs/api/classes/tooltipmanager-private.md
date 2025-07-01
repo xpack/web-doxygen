@@ -45,7 +45,7 @@ class TooltipManager::Private { ... }
 </table>
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -70,7 +70,8 @@ class TooltipManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -85,7 +86,7 @@ class TooltipManager::Private { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a></li>

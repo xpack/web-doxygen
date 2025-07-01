@@ -307,7 +307,7 @@ class CiteInfoOption { ... }
 </table>
 
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxySectionDef">
 
@@ -331,6 +331,7 @@ class CiteInfoOption { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -338,49 +339,49 @@ class CiteInfoOption { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNKNOWN<a id="a399d7010f84c67803f2508d1def8fa05a922f941408247d5249ef789b6067075e"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NUMBER<a id="a399d7010f84c67803f2508d1def8fa05a125bcd540598342502c667ea53715fc4"></a></td>
-<td class="doxyEnumItemDescription"><p> (= (1&lt;&lt;0))</p></td>
+<td class="doxyEnumItemDescription"> (= (1&lt;&lt;0))</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SHORTAUTHOR<a id="a399d7010f84c67803f2508d1def8fa05a4fcc55a2adf5b5f3190cc4b0afd4ae18"></a></td>
-<td class="doxyEnumItemDescription"><p> (= (1&lt;&lt;1))</p></td>
+<td class="doxyEnumItemDescription"> (= (1&lt;&lt;1))</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">YEAR<a id="a399d7010f84c67803f2508d1def8fa05aa612f924cdd3c6680dee7798db4e6eb4"></a></td>
-<td class="doxyEnumItemDescription"><p> (= (1&lt;&lt;2))</p></td>
+<td class="doxyEnumItemDescription"> (= (1&lt;&lt;2))</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TypeMask<a id="a399d7010f84c67803f2508d1def8fa05a3448962e5b4730bee13edf8b031102c8"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0000FFFF)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0000FFFF)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">OptionMask<a id="a399d7010f84c67803f2508d1def8fa05a91cb6fc4f3f7ebbe1c86409601d45495"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0xFFFF0000)</p></td>
+<td class="doxyEnumItemDescription"> (= 0xFFFF0000)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOPAR_BIT<a id="a399d7010f84c67803f2508d1def8fa05a0f327d56099298f88abf351d59e2c4e8"></a></td>
-<td class="doxyEnumItemDescription"><p> (= (1&lt;&lt;16))</p></td>
+<td class="doxyEnumItemDescription"> (= (1&lt;&lt;16))</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOCITE_BIT<a id="a399d7010f84c67803f2508d1def8fa05af7c423a479f5b6b99fcaf4cb5fb6f244"></a></td>
-<td class="doxyEnumItemDescription"><p> (= (1&lt;&lt;17))</p></td>
+<td class="doxyEnumItemDescription"> (= (1&lt;&lt;17))</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -431,7 +432,8 @@ class CiteInfoOption { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -467,7 +469,8 @@ References <a href="#ad3007072b457519c288280e4002ab091">CiteInfoOption</a> and <
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -476,7 +479,7 @@ References <a href="#ad3007072b457519c288280e4002ab091">CiteInfoOption</a> and <
 </div>
 
 
-References <a href="#ad3007072b457519c288280e4002ab091">CiteInfoOption</a> and <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>.
+References <a href="#ad3007072b457519c288280e4002ab091">CiteInfoOption</a> and <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a>.
 
 Referenced by <a href="#a5b9cb6e8f165445d2bfda4d5f2a2af16">operator!=</a>.
 </div>
@@ -512,7 +515,8 @@ Referenced by <a href="#a5b9cb6e8f165445d2bfda4d5f2a2af16">operator!=</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -555,7 +559,8 @@ Referenced by <a href="#a0cf6e6882211a46e19815d290d106029">makeNumber</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -564,7 +569,7 @@ Referenced by <a href="#a0cf6e6882211a46e19815d290d106029">makeNumber</a>, <a hr
 </div>
 
 
-Reference <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>.
+Reference <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a>.
 </div>
 </div>
 
@@ -598,7 +603,8 @@ Reference <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -607,7 +613,7 @@ Reference <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>.
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a>, <a href="#a399d7010f84c67803f2508d1def8fa05a125bcd540598342502c667ea53715fc4">NUMBER</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a91cb6fc4f3f7ebbe1c86409601d45495">OptionMask</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a>, <a href="#a399d7010f84c67803f2508d1def8fa05a125bcd540598342502c667ea53715fc4">NUMBER</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a91cb6fc4f3f7ebbe1c86409601d45495">OptionMask</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>.
 </div>
@@ -637,7 +643,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -646,7 +653,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a125bcd540598342502c667ea53715fc4">NUMBER</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a125bcd540598342502c667ea53715fc4">NUMBER</a>.
 </div>
 </div>
 
@@ -674,7 +681,8 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -683,7 +691,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a4fcc55a2adf5b5f3190cc4b0afd4ae18">SHORTAUTHOR</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a4fcc55a2adf5b5f3190cc4b0afd4ae18">SHORTAUTHOR</a>.
 </div>
 </div>
 
@@ -711,7 +719,8 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -720,7 +729,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a3448962e5b4730bee13edf8b031102c8">TypeMask</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a3448962e5b4730bee13edf8b031102c8">TypeMask</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>.
 </div>
@@ -750,7 +759,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -759,7 +769,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05aa612f924cdd3c6680dee7798db4e6eb4">YEAR</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05aa612f924cdd3c6680dee7798db4e6eb4">YEAR</a>.
 </div>
 </div>
 
@@ -787,7 +797,8 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -796,7 +807,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05af7c423a479f5b6b99fcaf4cb5fb6f244">NOCITE&#95;BIT</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05af7c423a479f5b6b99fcaf4cb5fb6f244">NOCITE\_BIT</a>.
 </div>
 </div>
 
@@ -824,7 +835,8 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -833,7 +845,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a0f327d56099298f88abf351d59e2c4e8">NOPAR&#95;BIT</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a0f327d56099298f88abf351d59e2c4e8">NOPAR\_BIT</a>.
 </div>
 </div>
 
@@ -861,7 +873,8 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -870,7 +883,7 @@ References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a hr
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05af7c423a479f5b6b99fcaf4cb5fb6f244">NOCITE&#95;BIT</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05af7c423a479f5b6b99fcaf4cb5fb6f244">NOCITE\_BIT</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>.
 </div>
@@ -900,7 +913,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -909,7 +923,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 </div>
 
 
-References <a href="#adc4d207dba652deb9f15789243ec997b">m&#95;bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a0f327d56099298f88abf351d59e2c4e8">NOPAR&#95;BIT</a>.
+References <a href="#adc4d207dba652deb9f15789243ec997b">m\_bits</a> and <a href="#a399d7010f84c67803f2508d1def8fa05a0f327d56099298f88abf351d59e2c4e8">NOPAR\_BIT</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>.
 </div>
@@ -921,7 +935,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 
 ## Private Member Attributes
 
-### m&#95;bits {#adc4d207dba652deb9f15789243ec997b}
+### m\_bits {#adc4d207dba652deb9f15789243ec997b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -940,7 +954,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -984,7 +999,8 @@ Referenced by <a href="#acfddc5e16040dfdc4275737de69110cc">changeToNumber</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1024,7 +1040,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1064,7 +1081,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1083,7 +1101,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a></li>

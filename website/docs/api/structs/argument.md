@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Argument` Struct Reference
 
-<p>This class contains the information about the argument of a function or template. <a href="#details">More...</a></p>
+This class contains the information about the argument of a function or template. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -174,9 +174,9 @@ struct Argument { ... }
 
 ## Description {#details}
 
-<p>This class contains the information about the argument of a function or template.</p>
+This class contains the information about the argument of a function or template.
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxySectionDef">
 
@@ -207,9 +207,10 @@ struct Argument { ... }
 
 
 
-<p>return TRUE if this argument is documentation and the argument has a non empty name.</p>
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+return TRUE if this argument is documentation and the argument has a non empty name.
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -251,7 +252,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f406
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -295,9 +297,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/argumentlist/#ab8454af348e4
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s array specifier (may be empty)</p>
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s array specifier (may be empty)
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -330,9 +333,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s attribute (IDL only)</p>
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s attribute (IDL only)
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -365,9 +369,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 
 
 
-<p>Cached value of canonical type (after type resolution). Empty initially.</p>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+Cached value of canonical type (after type resolution). Empty initially.
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -400,9 +405,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s default value (may be empty)</p>
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s default value (may be empty)
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -411,7 +417,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::&#95;writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::\_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
 </div>
 </div>
 
@@ -435,9 +441,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s documentation (may be empty)</p>
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s documentation (may be empty)
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -470,9 +477,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s name (may be empty)</p>
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s name (may be empty)
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -481,7 +489,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::&#95;writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e3ef52a4229263c68aca">addKnRArgInfo</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4bd83121097f770a187192b054f59364">checkForKnRstyleC</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa9f3bbbf9ecc3d8cf038de3a62cb6cb5">extractCanonicalArgType</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a7656679a311cb6f8c5269ada7d1f8bd4">fixArgumentListForJavaScript</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a6c050f3e9b9e8855bad36862ab3173ba">getParameter</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a>, <a href="#aca66c2b989361c43f7e1adfe9d7f125d">hasDocumentation</a>, <a href="#ae3866d29516dff9ac0eb3a40b09db5a8">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf988c072b1ab9b4934fc04e430f9925">matchArgument2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::\_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e3ef52a4229263c68aca">addKnRArgInfo</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4bd83121097f770a187192b054f59364">checkForKnRstyleC</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa9f3bbbf9ecc3d8cf038de3a62cb6cb5">extractCanonicalArgType</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a7656679a311cb6f8c5269ada7d1f8bd4">fixArgumentListForJavaScript</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a6c050f3e9b9e8855bad36862ab3173ba">getParameter</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a>, <a href="#aca66c2b989361c43f7e1adfe9d7f125d">hasDocumentation</a>, <a href="#ae3866d29516dff9ac0eb3a40b09db5a8">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf988c072b1ab9b4934fc04e430f9925">matchArgument2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
 </div>
 </div>
 
@@ -505,9 +513,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 
 
-<p><a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s type</p>
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+<a href="/web-doxygen/docs/api/structs/argument">Argument</a>'s type
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -516,7 +525,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::&#95;writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e3ef52a4229263c68aca">addKnRArgInfo</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a53849d7f7a3b6511175fd2c40be515b8">applyModifiers</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4bd83121097f770a187192b054f59364">checkForKnRstyleC</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa9f3bbbf9ecc3d8cf038de3a62cb6cb5">extractCanonicalArgType</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a7656679a311cb6f8c5269ada7d1f8bd4">fixArgumentListForJavaScript</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a>, <a href="#ae3866d29516dff9ac0eb3a40b09db5a8">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf988c072b1ab9b4934fc04e430f9925">matchArgument2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::\_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a424adbb16d98e3ef52a4229263c68aca">addKnRArgInfo</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a53849d7f7a3b6511175fd2c40be515b8">applyModifiers</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4bd83121097f770a187192b054f59364">checkForKnRstyleC</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa9f3bbbf9ecc3d8cf038de3a62cb6cb5">extractCanonicalArgType</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a7656679a311cb6f8c5269ada7d1f8bd4">fixArgumentListForJavaScript</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a>, <a href="#ae3866d29516dff9ac0eb3a40b09db5a8">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf988c072b1ab9b4934fc04e430f9925">matchArgument2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a19a78cda05295880aa74873cfbad293b">ClassDefImpl::writeTemplateSpec</a>.
 </div>
 </div>
 
@@ -540,9 +549,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 
 
-<p>Used for Java generics: &lt;T extends C&gt;</p>
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+Used for Java generics: &lt;T extends C&gt;
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -557,7 +567,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a></li>

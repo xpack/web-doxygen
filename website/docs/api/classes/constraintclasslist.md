@@ -45,7 +45,7 @@ class ConstraintClassList { ... }
 </table>
 
 
-<p>Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <hr/>
 

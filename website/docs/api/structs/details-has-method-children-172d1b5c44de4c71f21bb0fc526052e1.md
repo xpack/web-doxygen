@@ -37,7 +37,7 @@ struct details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::false&#95;type</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::false_type</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ struct details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::true&#95;type</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::true_type</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -54,7 +54,7 @@ struct details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&
 </table>
 
 
-<p>Definition at line 1380 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 1380 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <hr/>
 

@@ -193,7 +193,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 545 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+
+Definition at line 545 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -230,7 +231,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal&#95;at</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b1817e1d1de1732e4c4f9069c">DotFilePatcher::writeSVGFigureLink</a>.
 </div>
@@ -260,7 +261,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -382,7 +384,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e17
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+
+Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -428,6 +431,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -443,8 +447,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
   &lt;use id="arrowleft" xlink:href="#arrowLeft" x="0" y="0" onmousedown="handlePan(-1,0)"/&gt;
 &lt;/g&gt;
 &lt;svg viewBox="0 0 15 15" width="100%" height="30px" preserveAspectRatio="xMaxYMin meet"&gt;
- &lt;g id="arrow&#95;out" transform="scale(0.3 0.3)"&gt;
-  &lt;a xlink:href="$orgname" target="&#95;base"&gt;
+ &lt;g id="arrow\_out" transform="scale(0.3 0.3)"&gt;
+  &lt;a xlink:href="$orgname" target="\_base"&gt;
    &lt;rect id="button" ry="5" rx="5" y="6" x="6" height="38" width="38"
         fill="#f2f5e9" fill-opacity="0.5" stroke="#606060" stroke-width="1.0"/&gt;
    &lt;path id="arrow"
@@ -458,7 +462,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b18
 </dd>
 </dl>
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -495,29 +499,30 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">= R"svg(
 &lt;style type='text/css'&gt;
-&lt;!&#91;CDATA&#91;
-&#91;data-mouse-over-selected='false'&#93; { opacity: 0.7; }
-&#91;data-mouse-over-selected='true'&#93;  { opacity: 1.0; }
-&#93;&#93;&gt;
+&lt;!\[CDATA\[
+\[data-mouse-over-selected='false'\] { opacity: 0.7; }
+\[data-mouse-over-selected='true'\]  { opacity: 1.0; }
+\]\]&gt;
 &lt;/style&gt;
-&lt;script type="application/ecmascript"&gt;&lt;!&#91;CDATA&#91;
+&lt;script type="application/ecmascript"&gt;&lt;!\[CDATA\[
 document.addEventListener('DOMContentLoaded', (event) =&gt; {
   highlightEdges();
   highlightAdjacentNodes();
 });
-&#93;&#93;&gt;&lt;/script&gt;
+\]\]&gt;&lt;/script&gt;
 &lt;/svg&gt;
 )svg"
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -554,6 +559,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -564,7 +570,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </dd>
 </dl>
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -577,7 +583,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </div>
 </div>
 
-### svgZoomHeader0&#95;noinit {#a83a06206861ee463b6db5e4e746be795}
+### svgZoomHeader0\_noinit {#a83a06206861ee463b6db5e4e746be795}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -601,6 +607,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -611,7 +618,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 </dd>
 </dl>
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -648,22 +655,23 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">= R"svg(
-&lt;style type="text/css"&gt;&lt;!&#91;CDATA&#91;
+&lt;style type="text/css"&gt;&lt;!\[CDATA\[
 .node, .edge {opacity: 0.7;}
 .node.selected, .edge.selected {opacity: 1;}
 .edge:hover path { stroke: red; }
 .edge:hover polygon { stroke: red; fill: red; }
-&#93;&#93;&gt;&lt;/style&gt;
+\]\]&gt;&lt;/style&gt;
 )svg"
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -700,7 +708,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp">dotfilepatcher.cpp</a>.
 
 <div class="doxyProgramListing">
 

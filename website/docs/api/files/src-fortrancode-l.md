@@ -57,7 +57,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>data of an use-statement <a href="/web-doxygen/docs/api/classes/useentry/#details">More...</a></p>
+data of an use-statement <a href="/web-doxygen/docs/api/classes/useentry/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,7 +71,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="/web-doxygen/docs/api/classes/usemap/#details">More...</a></p>
+module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="/web-doxygen/docs/api/classes/usemap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -85,7 +85,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Contains names of used modules and names of local variables. <a href="/web-doxygen/docs/api/classes/scope/#details">More...</a></p>
+Contains names of used modules and names of local variables. <a href="/web-doxygen/docs/api/classes/scope/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,7 +94,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/fortrancodeyy-state">fortrancodeYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/fortrancodeyy-state">fortrancodeYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -163,7 +163,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>searches for definition of a module (Namespace) <a href="#a504e4bc3498a0866fed7ca24f0b6140c">More...</a></p>
+searches for definition of a module (Namespace) <a href="#a504e4bc3498a0866fed7ca24f0b6140c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -177,7 +177,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>searches for definition of a type <a href="#a22ca0992a85719c162c23eb696be6608">More...</a></p>
+searches for definition of a type <a href="#a22ca0992a85719c162c23eb696be6608">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -308,7 +308,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>gets the link to a generic procedure which depends not on the name, but on the parameter list <a href="#a2111383c92568a7b28fe96bf69a9f4d2">More...</a></p>
+gets the link to a generic procedure which depends not on the name, but on the parameter list <a href="#a2111383c92568a7b28fe96bf69a9f4d2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -374,7 +374,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>start scope <a href="#a1eb414a7080ee6bcef950eba00f991b7">More...</a></p>
+start scope <a href="#a1eb414a7080ee6bcef950eba00f991b7">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -388,7 +388,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>end scope <a href="#a239ee1e47d4722402cd650ae2d0cd59f">More...</a></p>
+end scope <a href="#a239ee1e47d4722402cd650ae2d0cd59f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -428,7 +428,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>searches for definition of function memberName <a href="#aa3d64c285d12ea68252876251ea0fc2d">More...</a></p>
+searches for definition of function memberName <a href="#aa3d64c285d12ea68252876251ea0fc2d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -644,7 +644,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6198b2fcf96178b24ad4efff2a3debb0">YY_USER_ACTION</a>&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a>; <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> += static&#95;cast&lt;int&gt;(yyleng);}</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6198b2fcf96178b24ad4efff2a3debb0">YY_USER_ACTION</a>&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a>; <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> += static\_cast&lt;int&gt;(yyleng);}</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -657,7 +657,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a9a0fdbfa8e6dc0e59c2015a0f1e663c2">YY_FTN_RESET</a>&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a> = 0; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = 0; <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> = 1;}</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a9a0fdbfa8e6dc0e59c2015a0f1e663c2">YY_FTN_RESET</a>&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a> = 0; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = 0; <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> = 1;}</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -670,7 +670,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a633f0b53ce61259dee93c2398f1674f0">YY_FTN_REJECT</a>&nbsp;&nbsp;&nbsp;{<a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = <a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a>; REJECT;}</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a633f0b53ce61259dee93c2398f1674f0">YY_FTN_REJECT</a>&nbsp;&nbsp;&nbsp;{<a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = <a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a>; REJECT;}</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -683,7 +683,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -701,7 +701,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -720,7 +720,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -761,7 +762,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -807,7 +809,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -850,7 +853,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -892,7 +896,8 @@ Reference <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -952,7 +957,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab721695
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1000,7 +1006,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab721695
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
 </div>
 </div>
 
@@ -1029,9 +1035,10 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-<p>write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.</p>
 
-<p>Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.
+
+Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1095,9 +1102,10 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-<p>counts the number of lines in the input</p>
 
-<p>Definition at line 1349 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+counts the number of lines in the input
+
+Definition at line 1349 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1149,7 +1157,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1192,7 +1201,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1238,9 +1248,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>end scope</p>
 
-<p>Definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+end scope
+
+Definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1265,7 +1276,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a> and <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.
+References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a> and <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.
 </div>
 </div>
 
@@ -1293,7 +1304,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1373,7 +1385,8 @@ Referenced by <a href="#a239f1eec84677be9196b0c6a9179bdd0">generateLink</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1343 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1343 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1424,8 @@ Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>searches for definition of function memberName</p>
+
+searches for definition of function memberName
 
 
 <dl class="doxyParamsList">
@@ -1420,19 +1434,19 @@ Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">yyscanner</td>
-<td class="doxyParamItemDescription"><p>the scanner data to be used</p></td>
+<td class="doxyParamItemDescription">the scanner data to be used</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">memberName</td>
-<td class="doxyParamItemDescription"><p>the name of the function/variable</p></td>
+<td class="doxyParamItemDescription">the name of the function/variable</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">moduleName</td>
-<td class="doxyParamItemDescription"><p>name of enclosing module or null, if global entry</p></td>
+<td class="doxyParamItemDescription">name of enclosing module or null, if global entry</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useMap</td>
-<td class="doxyParamItemDescription"><p>map of data of USE-statement</p></td>
+<td class="doxyParamItemDescription">map of data of USE-statement</td>
 </tr>
 </table>
 </dd>
@@ -1441,12 +1455,12 @@ Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p><a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise</p>
+<a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise
 </dd>
 </dl>
 
 
-<p>Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1567,7 +1581,8 @@ Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>searches for definition of a module (Namespace)</p>
+
+searches for definition of a module (Namespace)
 
 
 <dl class="doxyParamsList">
@@ -1576,11 +1591,11 @@ Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">mname</td>
-<td class="doxyParamItemDescription"><p>the name of the module</p></td>
+<td class="doxyParamItemDescription">the name of the module</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">cd</td>
-<td class="doxyParamItemDescription"><p>the entry, if found or null</p></td>
+<td class="doxyParamItemDescription">the entry, if found or null</td>
 </tr>
 </table>
 </dd>
@@ -1589,12 +1604,12 @@ Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>true, if module is found</p>
+true, if module is found
 </dd>
 </dl>
 
 
-<p>Definition at line 1110 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 1110 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1640,7 +1655,8 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>searches for definition of a type</p>
+
+searches for definition of a type
 
 
 <dl class="doxyParamsList">
@@ -1649,19 +1665,19 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tname</td>
-<td class="doxyParamItemDescription"><p>the name of the type</p></td>
+<td class="doxyParamItemDescription">the name of the type</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">moduleName</td>
-<td class="doxyParamItemDescription"><p>name of enclosing module or null, if global entry</p></td>
+<td class="doxyParamItemDescription">name of enclosing module or null, if global entry</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">cd</td>
-<td class="doxyParamItemDescription"><p>the entry, if found or null</p></td>
+<td class="doxyParamItemDescription">the entry, if found or null</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useMap</td>
-<td class="doxyParamItemDescription"><p>map of data of USE-statement</p></td>
+<td class="doxyParamItemDescription">map of data of USE-statement</td>
 </tr>
 </table>
 </dd>
@@ -1670,12 +1686,12 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>true, if type is found</p>
+true, if type is found
 </dd>
 </dl>
 
 
-<p>Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1743,19 +1759,20 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>gets the link to a generic procedure which depends not on the name, but on the parameter list</p>
+
+gets the link to a generic procedure which depends not on the name, but on the parameter list
 
 
 <div class="doxyXrefSect">
 <dl class="doxyXrefSectList">
 <dt class="doxyXrefSectTitle"><a href=/web-doxygen/docs/api/pages/todo/#_todo000002>Todo</a></dt>
 <dd class="doxyXrefSectDescription">
-<p>implementation</p>
+implementation
 </dd>
 </dl>
 </div>
 
-<p>Definition at line 1260 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 1260 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1800,7 +1817,8 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1835,7 +1853,8 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1267 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1267 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1902,7 +1921,8 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1944,7 +1964,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1440 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1440 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1964,7 +1985,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 </div>
 </div>
 
-### pop&#95;state() {#a84f9bfb00f12e8fc287ed97f3e1d693c}
+### pop\_state() {#a84f9bfb00f12e8fc287ed97f3e1d693c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1989,7 +2010,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1592 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1592 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2033,7 +2055,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2085,9 +2108,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-<p>Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+
+Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2179,7 +2203,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2229,9 +2254,10 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>start scope</p>
 
-<p>Definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+start scope
+
+Definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2245,7 +2271,7 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694dc27b52bd30efe903f9654">findScopeFromQualifiedName</a>.
 </div>
@@ -2275,7 +2301,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 </div>
 </div>
 
@@ -2304,9 +2331,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694d
 
 
 
-<p>writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.</p>
 
-<p>Definition at line 1067 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.
+
+Definition at line 1067 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2350,7 +2378,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
+References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
 </div>
 </div>
 
@@ -2373,7 +2401,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2964,7 +2993,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2994,7 +3024,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 ## Variables
 
-### yy&#95;end {#adc3fff33a8db22a36f05baec1001a010}
+### yy\_end {#adc3fff33a8db22a36f05baec1001a010}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3013,7 +3043,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3024,7 +3055,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### yy&#95;my&#95;start {#a66a71125f0f01a2a8d1a3608807695fa}
+### yy\_my\_start {#a66a71125f0f01a2a8d1a3608807695fa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3043,7 +3074,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3054,7 +3086,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### yy&#95;old&#95;start {#ab0517027b61f63c8a563733d6e813ad1}
+### yy\_old\_start {#ab0517027b61f63c8a563733d6e813ad1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3073,7 +3105,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3090,7 +3123,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 ## Macro Definitions
 
-### DBG&#95;CTX {#a234e2efe67eececd88b140b46ea37463}
+### DBG\_CTX {#a234e2efe67eececd88b140b46ea37463}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3109,7 +3142,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3120,7 +3154,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;FTN&#95;REJECT {#a633f0b53ce61259dee93c2398f1674f0}
+### YY\_FTN\_REJECT {#a633f0b53ce61259dee93c2398f1674f0}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3129,7 +3163,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_FTN_REJECT&nbsp;&nbsp;&nbsp;{<a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = <a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a>; REJECT;}</td>
+<td class="doxyMemberName">#define YY_FTN_REJECT&nbsp;&nbsp;&nbsp;{<a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = <a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a>; REJECT;}</td>
 </tr>
 </table>
 </td>
@@ -3139,7 +3173,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3150,7 +3185,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;FTN&#95;RESET {#a9a0fdbfa8e6dc0e59c2015a0f1e663c2}
+### YY\_FTN\_RESET {#a9a0fdbfa8e6dc0e59c2015a0f1e663c2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3159,7 +3194,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_FTN_RESET&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a> = 0; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = 0; <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> = 1;}</td>
+<td class="doxyMemberName">#define YY_FTN_RESET&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a> = 0; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = 0; <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> = 1;}</td>
 </tr>
 </table>
 </td>
@@ -3169,7 +3204,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3180,7 +3216,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3189,7 +3225,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -3199,7 +3235,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3210,7 +3247,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3229,7 +3266,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3240,7 +3278,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;NO&#95;TOP&#95;STATE {#ac3eedc6d2e3e4c9b2bacd0f1ebeab98a}
+### YY\_NO\_TOP\_STATE {#ac3eedc6d2e3e4c9b2bacd0f1ebeab98a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3259,7 +3297,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3270,7 +3309,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3289,7 +3328,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3300,7 +3340,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3320,6 +3360,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
+
 <div class="doxyXrefSect">
 <dl class="doxyXrefSectList">
 <dt class="doxyXrefSectTitle"><a href=/web-doxygen/docs/api/pages/todo/#_todo000001>Todo</a></dt>
@@ -3335,7 +3376,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </dl>
 </div>
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3346,7 +3387,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 </div>
 
-### YY&#95;USER&#95;ACTION {#a6198b2fcf96178b24ad4efff2a3debb0}
+### YY\_USER\_ACTION {#a6198b2fcf96178b24ad4efff2a3debb0}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3355,7 +3396,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_USER_ACTION&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy&#95;old&#95;start</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy&#95;my&#95;start</a> = <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a>; <a href="#adc3fff33a8db22a36f05baec1001a010">yy&#95;end</a> += static&#95;cast&lt;int&gt;(yyleng);}</td>
+<td class="doxyMemberName">#define YY_USER_ACTION&nbsp;&nbsp;&nbsp;{<a href="#ab0517027b61f63c8a563733d6e813ad1">yy\_old\_start</a> = <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a>; <a href="#a66a71125f0f01a2a8d1a3608807695fa">yy\_my\_start</a> = <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a>; <a href="#adc3fff33a8db22a36f05baec1001a010">yy\_end</a> += static\_cast&lt;int&gt;(yyleng);}</td>
 </tr>
 </table>
 </td>
@@ -3365,7 +3406,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TokenInfo` Struct Reference
 
-<p>Data associated with a token used by the comment block parser. <a href="#details">More...</a></p>
+Data associated with a token used by the comment block parser. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -278,9 +278,9 @@ struct TokenInfo { ... }
 
 ## Description {#details}
 
-<p>Data associated with a token used by the comment block parser.</p>
+Data associated with a token used by the comment block parser.
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxySectionDef">
 
@@ -304,6 +304,7 @@ struct TokenInfo { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -311,29 +312,29 @@ struct TokenInfo { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">In<a id="acc77be95dcb06cac9e3954a1ab62c443a430d723273d0bce74134074236310cb3"></a></td>
-<td class="doxyEnumItemDescription"><p> (=1)</p></td>
+<td class="doxyEnumItemDescription"> (=1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Out<a id="acc77be95dcb06cac9e3954a1ab62c443a015517728a8cf2e9afa7daf358494b7f"></a></td>
-<td class="doxyEnumItemDescription"><p> (=2)</p></td>
+<td class="doxyEnumItemDescription"> (=2)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">InOut<a id="acc77be95dcb06cac9e3954a1ab62c443ab035bcc98eb9bf542c4ab3d20b3ad3ca"></a></td>
-<td class="doxyEnumItemDescription"><p> (=3)</p></td>
+<td class="doxyEnumItemDescription"> (=3)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Unspecified<a id="acc77be95dcb06cac9e3954a1ab62c443a4970bd30967b6173cb3aeb899cfc7a1a"></a></td>
-<td class="doxyEnumItemDescription"><p> (=0)</p></td>
+<td class="doxyEnumItemDescription"> (=0)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -369,7 +370,8 @@ struct TokenInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -401,7 +403,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochref/#a2a9332a0da85f6e05
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -433,7 +436,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -465,7 +469,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -495,7 +500,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -527,7 +533,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmltable/#a2a913b8204fc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -559,7 +566,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -591,7 +599,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -623,7 +632,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -655,7 +665,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -687,7 +698,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -719,7 +731,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -749,7 +762,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -781,7 +795,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -813,7 +828,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -845,7 +861,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -877,7 +894,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -894,7 +912,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a></li>

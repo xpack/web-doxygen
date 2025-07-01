@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SearchIndexIntf` Class Reference
 
-<p>Abstract proxy interface for non-javascript based search indices. <a href="#details">More...</a></p>
+Abstract proxy interface for non-javascript based search indices. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -205,12 +205,12 @@ class SearchIndexIntf { ... }
 
 ## Description {#details}
 
-<p>Abstract proxy interface for non-javascript based search indices.</p>
+Abstract proxy interface for non-javascript based search indices.
 
 
-<p>It forwards calls to either <a href="/web-doxygen/docs/api/classes/searchindex">SearchIndex</a> or <a href="/web-doxygen/docs/api/classes/searchindexexternal">SearchIndexExternal</a> depending on the <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9ea">Kind</a> passed during construction.</p>
+It forwards calls to either <a href="/web-doxygen/docs/api/classes/searchindex">SearchIndex</a> or <a href="/web-doxygen/docs/api/classes/searchindexexternal">SearchIndexExternal</a> depending on the <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9ea">Kind</a> passed during construction.
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxySectionDef">
 
@@ -235,7 +235,8 @@ class SearchIndexIntf { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -270,6 +271,7 @@ class SearchIndexIntf { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -277,24 +279,24 @@ class SearchIndexIntf { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Disabled<a id="ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Internal<a id="ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">External<a id="ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -335,7 +337,8 @@ class SearchIndexIntf { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -344,7 +347,7 @@ class SearchIndexIntf { ... }
 </div>
 
 
-References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a> and <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a>.
+References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a> and <a href="#ab3bc6742416b3472eebee53632757df2">m\_kind</a>.
 </div>
 </div>
 
@@ -378,7 +381,8 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -397,7 +401,7 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 </div>
 
 
-Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
+Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m\_variant</a>.
 </div>
 </div>
 
@@ -425,7 +429,8 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -434,7 +439,7 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 </div>
 
 
-References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a> and <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a>.
+References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a> and <a href="#ab3bc6742416b3472eebee53632757df2">m\_kind</a>.
 </div>
 </div>
 
@@ -462,7 +467,8 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -471,7 +477,7 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 </div>
 
 
-Reference <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a>.
+Reference <a href="#ab3bc6742416b3472eebee53632757df2">m\_kind</a>.
 </div>
 </div>
 
@@ -499,7 +505,8 @@ Reference <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -518,7 +525,7 @@ Reference <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a>.
 </div>
 
 
-Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
+Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m\_variant</a>.
 </div>
 </div>
 
@@ -546,7 +553,8 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -563,7 +571,7 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 </div>
 
 
-References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a>, <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">External</a>, <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">Internal</a>, <a href="#ab3bc6742416b3472eebee53632757df2">m&#95;kind</a> and <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
+References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">Disabled</a>, <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">External</a>, <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">Internal</a>, <a href="#ab3bc6742416b3472eebee53632757df2">m\_kind</a> and <a href="#a950d158c195ac3eef237b9a6ae7a5265">m\_variant</a>.
 </div>
 </div>
 
@@ -591,7 +599,8 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -610,7 +619,7 @@ References <a href="#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4
 </div>
 
 
-Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
+Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m\_variant</a>.
 </div>
 </div>
 
@@ -620,7 +629,7 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 
 ## Private Member Attributes
 
-### m&#95;kind {#ab3bc6742416b3472eebee53632757df2}
+### m\_kind {#ab3bc6742416b3472eebee53632757df2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -639,7 +648,8 @@ Reference <a href="#a950d158c195ac3eef237b9a6ae7a5265">m&#95;variant</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -652,7 +662,7 @@ Referenced by <a href="#a99ba48887ebb27a765bc9f36d4339c77">enabled</a>, <a href=
 </div>
 </div>
 
-### m&#95;variant {#a950d158c195ac3eef237b9a6ae7a5265}
+### m\_variant {#a950d158c195ac3eef237b9a6ae7a5265}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -671,7 +681,8 @@ Referenced by <a href="#a99ba48887ebb27a765bc9f36d4339c77">enabled</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -688,7 +699,7 @@ Referenced by <a href="#a40c73d699dbfbee68fb730a3246965c1">addWord</a>, <a href=
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a></li>

@@ -58,13 +58,13 @@ struct ConstExpressionParser::Private { ... }
 </table>
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Attributes
 
-### constexpYY&#95;extra {#ac08762d90b1acca8ef18c8edd91586ed}
+### constexpYY\_extra {#ac08762d90b1acca8ef18c8edd91586ed}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -83,7 +83,8 @@ struct ConstExpressionParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct ConstExpressionParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct ConstExpressionParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a></li>

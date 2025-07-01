@@ -58,7 +58,7 @@ struct COutlineParser::Private { ... }
 </table>
 
 
-<p>Definition at line 8397 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+Definition at line 8397 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct COutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 8400 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
+Definition at line 8400 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct COutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 8399 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
+Definition at line 8399 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct COutlineParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a></li>

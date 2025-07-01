@@ -62,7 +62,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Information about an linkable anchor. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/taganchorinfo/#details">More...</a></p>
+Information about an linkable anchor. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/taganchorinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -76,7 +76,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for class specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#details">More...</a></p>
+Container for class specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for all compound types. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#details">More...</a></p>
+Base class for all compound types. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,7 +104,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Variant class that holds a unique pointer to one of the specific container types. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#details">More...</a></p>
+Variant class that holds a unique pointer to one of the specific container types. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -118,7 +118,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for concept specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#details">More...</a></p>
+Container for concept specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -132,7 +132,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for directory specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#details">More...</a></p>
+Container for directory specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -146,7 +146,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for enum values that are scoped within an enum. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagenumvalueinfo/#details">More...</a></p>
+Container for enum values that are scoped within an enum. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagenumvalueinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -160,7 +160,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for file specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#details">More...</a></p>
+Container for file specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -174,7 +174,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Tag file parser. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#details">More...</a></p>
+Tag file parser. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -188,7 +188,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for group specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#details">More...</a></p>
+Container for group specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -202,7 +202,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for include info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagincludeinfo/#details">More...</a></p>
+Container for include info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagincludeinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -216,7 +216,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for member specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagmemberinfo/#details">More...</a></p>
+Container for member specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagmemberinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -230,7 +230,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for module specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#details">More...</a></p>
+Container for module specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -244,7 +244,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for namespace specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#details">More...</a></p>
+Container for namespace specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -258,7 +258,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for package specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#details">More...</a></p>
+Container for package specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -272,7 +272,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container for page specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#details">More...</a></p>
+Container for page specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -492,7 +492,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -522,7 +523,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -552,7 +554,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -582,7 +585,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -612,7 +616,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -642,7 +647,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -672,7 +678,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -702,7 +709,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -732,7 +740,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -768,7 +777,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -801,7 +811,8 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1044 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1044 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -821,7 +832,7 @@ namespace { ... }
 
 ## Variables
 
-### g&#95;compoundFactory {#aa152a4c7667a4529af23ddb5fe6f80ee}
+### g\_compoundFactory {#aa152a4c7667a4529af23ddb5fe6f80ee}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -845,36 +856,37 @@ namespace { ... }
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">=
 {
   
-  { "class",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a9bd81329febf6efe22788e03ddeaf0af">TagClassInfo::Kind::Class</a>);     } } },
-  { "struct",    { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a886ef5dbd655a6c97726d7091c6b173e">TagClassInfo::Kind::Struct</a>);    } } },
-  { "union",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497aaef12e903e606a4895a16b393bfdec8c">TagClassInfo::Kind::Union</a>);     } } },
-  { "interface", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3c1aac82863ed9e5a9aca8ce687f711d">TagClassInfo::Kind::Interface</a>); } } },
-  { "enum",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497acf20423ed48998082c20099488a0917c">TagClassInfo::Kind::Enum</a>);      } } },
-  { "exception", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ab0d4998a26f5b5742ad38c4af8817e32">TagClassInfo::Kind::Exception</a>); } } },
-  { "protocol",  { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a888a77f5ac0748b6c8001822417df8b6">TagClassInfo::Kind::Protocol</a>);  } } },
-  { "category",  { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3adbdb3ac060038aa0e6e6c138ef9873">TagClassInfo::Kind::Category</a>);  } } },
-  { "service",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ac2ba7e785c49050f48da9aacc45c2b85">TagClassInfo::Kind::Service</a>);   } } },
-  { "singleton", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6ff5f73c8b5ebd311406568c8ef50bfd">TagClassInfo::Kind::Singleton</a>); } } },
-  { "file",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">TagFileParser::InFile</a>,      &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo">TagFileInfo</a>&gt;();                               } } },
-  { "namespace", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">TagFileParser::InNamespace</a>, &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo">TagNamespaceInfo</a>&gt;();                          } } },
-  { "concept",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">TagFileParser::InConcept</a>,   &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo">TagConceptInfo</a>&gt;();                            } } },
-  { "module",    { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">TagFileParser::InModule</a>,    &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo">TagModuleInfo</a>&gt;();                             } } },
-  { "group",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">TagFileParser::InGroup</a>,     &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo">TagGroupInfo</a>&gt;();                              } } },
-  { "page",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">TagFileParser::InPage</a>,      &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo">TagPageInfo</a>&gt;();                               } } },
-  { "package",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">TagFileParser::InPackage</a>,   &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo">TagPackageInfo</a>&gt;();                            } } },
-  { "dir",       { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">TagFileParser::InDir</a>,       &#91;&#93;() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo">TagDirInfo</a>&gt;();                                } } }
+  { "class",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a9bd81329febf6efe22788e03ddeaf0af">TagClassInfo::Kind::Class</a>);     } } },
+  { "struct",    { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a886ef5dbd655a6c97726d7091c6b173e">TagClassInfo::Kind::Struct</a>);    } } },
+  { "union",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497aaef12e903e606a4895a16b393bfdec8c">TagClassInfo::Kind::Union</a>);     } } },
+  { "interface", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3c1aac82863ed9e5a9aca8ce687f711d">TagClassInfo::Kind::Interface</a>); } } },
+  { "enum",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497acf20423ed48998082c20099488a0917c">TagClassInfo::Kind::Enum</a>);      } } },
+  { "exception", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ab0d4998a26f5b5742ad38c4af8817e32">TagClassInfo::Kind::Exception</a>); } } },
+  { "protocol",  { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a888a77f5ac0748b6c8001822417df8b6">TagClassInfo::Kind::Protocol</a>);  } } },
+  { "category",  { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a3adbdb3ac060038aa0e6e6c138ef9873">TagClassInfo::Kind::Category</a>);  } } },
+  { "service",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497ac2ba7e785c49050f48da9aacc45c2b85">TagClassInfo::Kind::Service</a>);   } } },
+  { "singleton", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a93b6ce3a1981ac7eec5187fe01f13f88">TagFileParser::InClass</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo">TagClassInfo</a>&gt;(<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#ad710e6d1b19b22e7b1c9342cbe994497a6ff5f73c8b5ebd311406568c8ef50bfd">TagClassInfo::Kind::Singleton</a>); } } },
+  { "file",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a8153ea8cb5da0e11193e8780e0235ecd">TagFileParser::InFile</a>,      \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo">TagFileInfo</a>&gt;();                               } } },
+  { "namespace", { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85aaa2eff2017752b6a0d1a8b902f99b53d">TagFileParser::InNamespace</a>, \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo">TagNamespaceInfo</a>&gt;();                          } } },
+  { "concept",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85ab50fef501e869e3a88c64c5dd7b49d0b">TagFileParser::InConcept</a>,   \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo">TagConceptInfo</a>&gt;();                            } } },
+  { "module",    { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a31219fa12b60084e1f85db1eeffe4697">TagFileParser::InModule</a>,    \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo">TagModuleInfo</a>&gt;();                             } } },
+  { "group",     { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a0f3cb97fa8ce0ce8b07863c65b5a0d3a">TagFileParser::InGroup</a>,     \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo">TagGroupInfo</a>&gt;();                              } } },
+  { "page",      { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85ac57db6ff719aec7e364b0823d5c231db">TagFileParser::InPage</a>,      \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo">TagPageInfo</a>&gt;();                               } } },
+  { "package",   { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85a10248ae7318932ab6199589d50836c37">TagFileParser::InPackage</a>,   \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo">TagPackageInfo</a>&gt;();                            } } },
+  { "dir",       { <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a7a2a20ef2fb10c1c35e093f0c3f41f85acf8144d7c837a76fe6497c8158c6b973">TagFileParser::InDir</a>,       \[\]() { return <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#a3af267dcba2e60ce52e4c260cefd2659">TagCompoundVariant::make</a>&lt;<a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo">TagDirInfo</a>&gt;();                                } } }
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -904,11 +916,11 @@ namespace { ... }
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startCompound</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous\_namespace{tagreader.cpp}::TagFileParser::startCompound</a>.
 </div>
 </div>
 
-### g&#95;elementHandlers {#ac4f239fedcca27a83995d7b9a02b683d}
+### g\_elementHandlers {#ac4f239fedcca27a83995d7b9a02b683d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -930,6 +942,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 </table>
 </div>
 <div class="doxyMemberDoc">
+
 
 
 <dl class="doxySectionUser">
@@ -969,7 +982,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 </dd>
 </dl>
 
-<p>Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1007,7 +1020,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::startElement</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous\_namespace{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous\_namespace{tagreader.cpp}::TagFileParser::startElement</a>.
 </div>
 </div>
 
@@ -1015,7 +1028,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

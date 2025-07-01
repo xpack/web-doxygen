@@ -95,13 +95,13 @@ struct SIData_CurrentDoc { ... }
 </table>
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Constructors
 
-### SIData&#95;CurrentDoc() {#a3be768e36e36f25c733809f449fe3911}
+### SIData\_CurrentDoc() {#a3be768e36e36f25c733809f449fe3911}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -125,7 +125,8 @@ struct SIData_CurrentDoc { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -164,7 +165,8 @@ References <a href="#aac6713d4387641dcd18aba49386d3b16">anchor</a>, <a href="#a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -173,7 +175,7 @@ References <a href="#aac6713d4387641dcd18aba49386d3b16">anchor</a>, <a href="#a3
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc</a>.
+Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
 </div>
 </div>
 
@@ -196,7 +198,8 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -205,7 +208,7 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc</a>.
+Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
 </div>
 </div>
 
@@ -228,7 +231,8 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -237,7 +241,7 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc</a>.
+Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
 </div>
 </div>
 
@@ -245,7 +249,7 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData&#95;CurrentDoc
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `types.h` File Reference
 
-<p>This file contains a number of basic enums and types. <a href="#details">More...</a></p>
+This file contains a number of basic enums and types. <a href="#details">More...</a>
 
 ## Included Headers
 
@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info. <a href="/web-doxygen/docs/api/structs/grouping/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/structs/grouping">Grouping</a> info. <a href="/web-doxygen/docs/api/structs/grouping/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -49,7 +49,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Wrapper class for the <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type. <a href="/web-doxygen/docs/api/classes/memberlisttype/#details">More...</a></p>
+Wrapper class for the <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> type. <a href="/web-doxygen/docs/api/classes/memberlisttype/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -76,7 +76,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Wrapper class for a number of boolean properties. <a href="/web-doxygen/docs/api/classes/typespecifier/#details">More...</a></p>
+Wrapper class for a number of boolean properties. <a href="/web-doxygen/docs/api/classes/typespecifier/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Wrapper class for the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> type. <a href="/web-doxygen/docs/api/classes/entrytype/#details">More...</a></p>
+Wrapper class for the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> type. <a href="/web-doxygen/docs/api/classes/entrytype/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -395,7 +395,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of members. <a href="#a25bb280e18cf31773c1d9d2757047a13">More...</a></p>
+<a href="#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of members. <a href="#a25bb280e18cf31773c1d9d2757047a13">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -461,7 +461,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Virtualness of a member. <a href="#ae50a03fe23936bc138aa8f32a8a00e91">More...</a></p>
+Virtualness of a member. <a href="#ae50a03fe23936bc138aa8f32a8a00e91">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -514,7 +514,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Kind of method. <a href="#aa47c5950c8c616cf03f0156e6a486388">More...</a></p>
+Kind of method. <a href="#aa47c5950c8c616cf03f0156e6a486388">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -554,7 +554,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Type of member relation. <a href="#afe95737a46bf989b2739cdd33444072e">More...</a></p>
+Type of member relation. <a href="#afe95737a46bf989b2739cdd33444072e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -594,7 +594,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Kind of member relationship. <a href="#a488a95166a7324de16f90ba756a0ad7d">More...</a></p>
+Kind of member relationship. <a href="#a488a95166a7324de16f90ba756a0ad7d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -634,7 +634,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">More...</a></p>
+Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -682,7 +682,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##&#95;,</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##\_,</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -708,7 +708,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return "&#91;"+std::string(#x)+bits&#95;to&#95;string()+"&#93;";</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -721,7 +721,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return label;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return label;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -734,7 +734,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return xml&#95;str;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return xml\_str;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -747,7 +747,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return to&#95;pub();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_pub();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -760,7 +760,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return to&#95;prot();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_prot();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -786,7 +786,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;m&#95;is##x = m&#95;is##x || other.is##x();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;m\_is##x = m\_is##x || other.is##x();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -799,7 +799,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m&#95;is##x == t2.m&#95;is##x);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m\_is##x == t2.m\_is##x);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -864,7 +864,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8378fad7ed4c8737bf257e000165d11d">ETYPE</a>(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "&#91;"+std::string(#x)+bits&#95;to&#95;string()+"&#93;";</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8378fad7ed4c8737bf257e000165d11d">ETYPE</a>(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -892,7 +892,7 @@ toc_max_heading_level: 4
 
 ## Description {#details}
 
-<p>This file contains a number of basic enums and types.</p>
+This file contains a number of basic enums and types.
 
 <div class="doxySectionDef">
 
@@ -921,6 +921,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -928,149 +929,149 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Default<a id="a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Class<a id="a55cbcb91fc25e3a2e785b8a30309843ca9bd81329febf6efe22788e03ddeaf0af"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Struct<a id="a55cbcb91fc25e3a2e785b8a30309843ca886ef5dbd655a6c97726d7091c6b173e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Union<a id="a55cbcb91fc25e3a2e785b8a30309843caaef12e903e606a4895a16b393bfdec8c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Interface<a id="a55cbcb91fc25e3a2e785b8a30309843ca3c1aac82863ed9e5a9aca8ce687f711d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Protocol<a id="a55cbcb91fc25e3a2e785b8a30309843ca888a77f5ac0748b6c8001822417df8b6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Category<a id="a55cbcb91fc25e3a2e785b8a30309843ca3adbdb3ac060038aa0e6e6c138ef9873"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Exception<a id="a55cbcb91fc25e3a2e785b8a30309843cab0d4998a26f5b5742ad38c4af8817e32"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Service<a id="a55cbcb91fc25e3a2e785b8a30309843cac2ba7e785c49050f48da9aacc45c2b85"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Singleton<a id="a55cbcb91fc25e3a2e785b8a30309843ca6ff5f73c8b5ebd311406568c8ef50bfd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Concept<a id="a55cbcb91fc25e3a2e785b8a30309843cad99a604c79ce3c2e76a2f43488d5d4c3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Namespace<a id="a55cbcb91fc25e3a2e785b8a30309843cab3ba0fe968ce39dcfc6fe8cc0f1b02da"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Package<a id="a55cbcb91fc25e3a2e785b8a30309843ca209802fb858e2c83205027dbbb5d9e6c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Module<a id="a55cbcb91fc25e3a2e785b8a30309843cae55f75a29310d7b60f7ac1d390c8ae42"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Define<a id="a55cbcb91fc25e3a2e785b8a30309843ca9312cc2f02f42764c70c3713f80fe219"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Function<a id="a55cbcb91fc25e3a2e785b8a30309843ca86408593c34af77fdd90df932f8b5261"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Variable<a id="a55cbcb91fc25e3a2e785b8a30309843ca47c14840d8e15331fa420b9b2f757cd9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Typedef<a id="a55cbcb91fc25e3a2e785b8a30309843ca5fede51b97a819dedf4f83bc2aacbc6a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EnumValue<a id="a55cbcb91fc25e3a2e785b8a30309843ca29785ae7827639b31b629cc7f9c150e0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Enumeration<a id="a55cbcb91fc25e3a2e785b8a30309843ca2958e521f3da6b41059c4369a34a2a23"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Signal<a id="a55cbcb91fc25e3a2e785b8a30309843ca085fea7abdc5d904fe69a3081efd7398"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Slot<a id="a55cbcb91fc25e3a2e785b8a30309843ca9234cc57c43f272b55a94b0069fe62d1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Friend<a id="a55cbcb91fc25e3a2e785b8a30309843ca930a91848917f92cf7e2f8d744fa4177"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">DCOP<a id="a55cbcb91fc25e3a2e785b8a30309843cad8be171b26c1f1b456fea317076584ab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Property<a id="a55cbcb91fc25e3a2e785b8a30309843ca5ad234cb2cde4266195252a23ca7d84e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Event<a id="a55cbcb91fc25e3a2e785b8a30309843caa4ecfc70574394990cf17bd83df499f7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sequence<a id="a55cbcb91fc25e3a2e785b8a30309843ca3ff39d3acb327553070a64ef0cb321d5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Dictionary<a id="a55cbcb91fc25e3a2e785b8a30309843ca3beb75d1563ebc22253341be4ce57f44"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1136,6 +1137,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1143,24 +1145,24 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Unknown<a id="ad3f2a8c13ceee9c0aaeabf930dd88266a88183b946cc5f0e8c96b2e66e1c74a7e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Free<a id="ad3f2a8c13ceee9c0aaeabf930dd88266ab24ce0cd392a5b0b8dedc66c25213594"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Fixed<a id="ad3f2a8c13ceee9c0aaeabf930dd88266a4457d440870ad6d42bab9082d9bf9b61"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1198,6 +1200,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1205,34 +1208,34 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">File<a id="a6dc2e6c0ceaaa530cb9859af8d37449da0b27918290ff5323bea1e3b78a9cf04e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Namespace<a id="a6dc2e6c0ceaaa530cb9859af8d37449dab3ba0fe968ce39dcfc6fe8cc0f1b02da"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Group<a id="a6dc2e6c0ceaaa530cb9859af8d37449da03937134cedab9078be39a77ee3a48a0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Class<a id="a6dc2e6c0ceaaa530cb9859af8d37449da9bd81329febf6efe22788e03ddeaf0af"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Module<a id="a6dc2e6c0ceaaa530cb9859af8d37449dae55f75a29310d7b60f7ac1d390c8ae42"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1272,6 +1275,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1279,89 +1283,89 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Define<a id="a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Function<a id="a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Variable<a id="a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Typedef<a id="a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Enumeration<a id="a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EnumValue<a id="a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Signal<a id="a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Slot<a id="a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Friend<a id="a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">DCOP<a id="a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Property<a id="a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Event<a id="a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Interface<a id="a63e3de542c5d38de617ab78c8c8f5a41a3c1aac82863ed9e5a9aca8ce687f711d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Service<a id="a63e3de542c5d38de617ab78c8c8f5a41ac2ba7e785c49050f48da9aacc45c2b85"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sequence<a id="a63e3de542c5d38de617ab78c8c8f5a41a3ff39d3acb327553070a64ef0cb321d5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Dictionary<a id="a63e3de542c5d38de617ab78c8c8f5a41a3beb75d1563ebc22253341be4ce57f44"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1412,6 +1416,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1419,14 +1424,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">METHODTYPE_SPECIFICATIONS<a id="a0872178db42722c310fe6117189ed441a47f2ee242b0c0ccd2473f33a38ce53e5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1464,6 +1469,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1471,14 +1477,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PROTECTION_SPECIFICATIONS<a id="a90e352184df58cd09455fe9996cd4deda45c6fe0f4777df058c67b18e82db7b85"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1516,6 +1522,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1523,14 +1530,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">RELATESTYPE_SPECIFICATIONS<a id="aa370e9ca1d3ff266cab92689bcc37d9eac239eb793faaea4b0374405fa3c001ca"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1568,6 +1575,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1575,14 +1583,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">RELATIONSHIP_SPECIFICATIONS<a id="a9d625fe894d9313ec78df1d78553f32eaccd145ddb2107257845bb9b1f6ce9638"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1620,6 +1628,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1627,14 +1636,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SPECIFIER_SPECIFICATIONS<a id="ab16236bdd10ddf4d73a9847350f0017ea2966205079e6f777cfecca5ab49d6cd2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1672,6 +1681,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1679,14 +1689,14 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SRCLANGEXT_SPECIFICATIONS<a id="a9974623ce72fc23df5d64426b9178bf2ab0644fd8b14888ef369b2ceb00a35e02"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1724,6 +1734,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -1731,149 +1742,149 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNKNOWN<a id="abfcc3de81e21aaab7b108c10eec8cc91a696b031073e74bf2cb98e5ef201d4aa3"></a></td>
-<td class="doxyEnumItemDescription"><p> (=0)</p></td>
+<td class="doxyEnumItemDescription"> (=0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">LIBRARY<a id="abfcc3de81e21aaab7b108c10eec8cc91acb0a59495dfabbf78b33afa5ea3aa341"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ENTITY<a id="abfcc3de81e21aaab7b108c10eec8cc91a5427d771a8a2cf2dcd1825f9453da92e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PACKAGE_BODY<a id="abfcc3de81e21aaab7b108c10eec8cc91a47926792add35e040deb8533855d8135"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ARCHITECTURE<a id="abfcc3de81e21aaab7b108c10eec8cc91a29330223e96b4290e236a247aec153fd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PACKAGE<a id="abfcc3de81e21aaab7b108c10eec8cc91ae83af69d4844921d55507863e9099eb2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ATTRIBUTE<a id="abfcc3de81e21aaab7b108c10eec8cc91a6461230ce7343a1f1091515aa3071f31"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SIGNAL<a id="abfcc3de81e21aaab7b108c10eec8cc91ac023ee28e6cb71d64feec71f0cbac067"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">COMPONENT<a id="abfcc3de81e21aaab7b108c10eec8cc91a7fc67f9f99bcdc7656908ef20801d05b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">CONSTANT<a id="abfcc3de81e21aaab7b108c10eec8cc91a8d6b5cada83510220f59e00ce86d4d92"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TYPE<a id="abfcc3de81e21aaab7b108c10eec8cc91a948495146facadfe8859789036313d79"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SUBTYPE<a id="abfcc3de81e21aaab7b108c10eec8cc91aa63881580161eaceee8aac4a5138a9cf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">FUNCTION<a id="abfcc3de81e21aaab7b108c10eec8cc91a6a72a6a776662a244f82d31e9274a07b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">RECORD<a id="abfcc3de81e21aaab7b108c10eec8cc91a921df56002ee5dc960debedc8ae06072"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PROCEDURE<a id="abfcc3de81e21aaab7b108c10eec8cc91a6c4d52355c694ee12dcd648562757f52"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">USE<a id="abfcc3de81e21aaab7b108c10eec8cc91a7dc33953b23388ad93a4db20e33d26e4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PROCESS<a id="abfcc3de81e21aaab7b108c10eec8cc91ab93c13848c6490ae962feec15fbdd151"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">PORT<a id="abfcc3de81e21aaab7b108c10eec8cc91a463c00141b4c3a7f76acd3540052f8f5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNITS<a id="abfcc3de81e21aaab7b108c10eec8cc91a456d42d0c8fd369eb23335d23fb3856a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GENERIC<a id="abfcc3de81e21aaab7b108c10eec8cc91ac942dc2a9f958acddc67e11472d3ca0b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INSTANTIATION<a id="abfcc3de81e21aaab7b108c10eec8cc91a738a1b45bfeea63f32029dc677b697d2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">GROUP<a id="abfcc3de81e21aaab7b108c10eec8cc91a720909a4b948fc9e33633b61960d6b3c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">VFILE<a id="abfcc3de81e21aaab7b108c10eec8cc91a9e930dea59e2d5f4853d805d149ab727"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SHAREDVARIABLE<a id="abfcc3de81e21aaab7b108c10eec8cc91ab22b8c1db6bfdab91c75225b09f6052e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">CONFIG<a id="abfcc3de81e21aaab7b108c10eec8cc91a73e99d350a4aa6f1a5af04ec29173f73"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ALIAS<a id="abfcc3de81e21aaab7b108c10eec8cc91adc6effcb98019a63f6d5ee5624a29058"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">MISCELLANEOUS<a id="abfcc3de81e21aaab7b108c10eec8cc91aa17d8ffb0b755e300c5df2d818354e8a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UCF_CONST<a id="abfcc3de81e21aaab7b108c10eec8cc91aa8d5924ee664d7dce82922af0698cb68"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1943,7 +1954,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1991,7 +2003,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a833284e
 </div>
 </div>
 
-### to&#95;string() {#a77df23cf91cf59df5e7edf9f887daa7c}
+### to\_string() {#a77df23cf91cf59df5e7edf9f887daa7c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2015,7 +2027,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a833284e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2034,13 +2047,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a833284e
 </div>
 
 
-Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION&#95;SPECIFICATIONS</a>.
+Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION\_SPECIFICATIONS</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/fmt/formatter-90b67b5fff342f1f4811ae76fe2c9660/#aeee33c56578717211a19737a06dd41cc">fmt::formatter&lt; MethodTypes &gt;::format</a>, <a href="/web-doxygen/docs/api/structs/fmt/formatter-daff972618727491746978371a4d085f/#a3e38e0e5ebbc2cebd9ae2abbd5785723">fmt::formatter&lt; Protection &gt;::format</a>, <a href="/web-doxygen/docs/api/structs/fmt/formatter-fcc5bf00f385d03831cd3caa023f8800/#a8b4aa1bedcac6584e771fd14b25f0b69">fmt::formatter&lt; RelatesType &gt;::format</a>, <a href="/web-doxygen/docs/api/structs/fmt/formatter-0429673a9028c4f3fa9d52d2e17897f3/#ad614ae6bc992bc7638e70a4b8e939cf4">fmt::formatter&lt; Relationship &gt;::format</a>, <a href="/web-doxygen/docs/api/structs/fmt/formatter-5ea0b39724d6aada50678fd65eb3d74b/#afc03d0df4913a8a83e707232e68ad9c8">fmt::formatter&lt; Specifier &gt;::format</a>, <a href="/web-doxygen/docs/api/structs/fmt/formatter-6625149323a2be27829912899c3034b9/#a2397234e3dc36d79f8739f525627759b">fmt::formatter&lt; SrcLangExt &gt;::format</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a969690ca9b1155540d43631f499b3880">langToString</a>.
 </div>
 </div>
 
-### to&#95;string() {#a781956f9a5f15627c3ad0c453471fcb2}
+### to\_string() {#a781956f9a5f15627c3ad0c453471fcb2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2064,7 +2077,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/fmt/formatter-90b67b5fff342
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2083,11 +2097,11 @@ Referenced by <a href="/web-doxygen/docs/api/structs/fmt/formatter-90b67b5fff342
 </div>
 
 
-Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATIONS</a>.
+Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string() {#aa296536c4d5e37f20d8dd4565a227880}
+### to\_string() {#aa296536c4d5e37f20d8dd4565a227880}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2111,7 +2125,8 @@ Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATI
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2130,11 +2145,11 @@ Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATI
 </div>
 
 
-Reference <a href="#aa47c5950c8c616cf03f0156e6a486388">METHODTYPE&#95;SPECIFICATIONS</a>.
+Reference <a href="#aa47c5950c8c616cf03f0156e6a486388">METHODTYPE\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string() {#a4bcd58ed93a360bdbea6fc47840188b0}
+### to\_string() {#a4bcd58ed93a360bdbea6fc47840188b0}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2158,7 +2173,8 @@ Reference <a href="#aa47c5950c8c616cf03f0156e6a486388">METHODTYPE&#95;SPECIFICAT
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2177,11 +2193,11 @@ Reference <a href="#aa47c5950c8c616cf03f0156e6a486388">METHODTYPE&#95;SPECIFICAT
 </div>
 
 
-Reference <a href="#afe95737a46bf989b2739cdd33444072e">RELATESTYPE&#95;SPECIFICATIONS</a>.
+Reference <a href="#afe95737a46bf989b2739cdd33444072e">RELATESTYPE\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string() {#acdc6fb28fcb86e6aaf38ffd29f3c64da}
+### to\_string() {#acdc6fb28fcb86e6aaf38ffd29f3c64da}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2205,7 +2221,8 @@ Reference <a href="#afe95737a46bf989b2739cdd33444072e">RELATESTYPE&#95;SPECIFICA
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2224,11 +2241,11 @@ Reference <a href="#afe95737a46bf989b2739cdd33444072e">RELATESTYPE&#95;SPECIFICA
 </div>
 
 
-Reference <a href="#a488a95166a7324de16f90ba756a0ad7d">RELATIONSHIP&#95;SPECIFICATIONS</a>.
+Reference <a href="#a488a95166a7324de16f90ba756a0ad7d">RELATIONSHIP\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string() {#a2da846b4975bb30a57ced1867322ecd0}
+### to\_string() {#a2da846b4975bb30a57ced1867322ecd0}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2252,7 +2269,8 @@ Reference <a href="#a488a95166a7324de16f90ba756a0ad7d">RELATIONSHIP&#95;SPECIFIC
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2271,11 +2289,11 @@ Reference <a href="#a488a95166a7324de16f90ba756a0ad7d">RELATIONSHIP&#95;SPECIFIC
 </div>
 
 
-Reference <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">SRCLANGEXT&#95;SPECIFICATIONS</a>.
+Reference <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">SRCLANGEXT\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string&#95;lower() {#aec6ffd7cb8531fdfcb9b81e521a15197}
+### to\_string\_lower() {#aec6ffd7cb8531fdfcb9b81e521a15197}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2299,7 +2317,8 @@ Reference <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">SRCLANGEXT&#95;SPECIFICAT
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2318,13 +2337,13 @@ Reference <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">SRCLANGEXT&#95;SPECIFICAT
 </div>
 
 
-Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION&#95;SPECIFICATIONS</a>.
+Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION\_SPECIFICATIONS</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ae573ed6a005229032275f13fa540451a">writeInnerClasses</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a361dd0c822c454f8b1fe78d762c9d872">writeListOfAllMembers</a>.
 </div>
 </div>
 
-### to&#95;string&#95;lower() {#a5d9065c0202f9af268a759fc9ebcb90a}
+### to\_string\_lower() {#a5d9065c0202f9af268a759fc9ebcb90a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2348,7 +2367,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2367,11 +2387,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </div>
 
 
-Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATIONS</a>.
+Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER\_SPECIFICATIONS</a>.
 </div>
 </div>
 
-### to&#95;string&#95;lower&#95;class() {#a62c3d03ca859f9ec6c0820ed52f26b6c}
+### to\_string\_lower\_class() {#a62c3d03ca859f9ec6c0820ed52f26b6c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2395,7 +2415,8 @@ Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATI
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2414,7 +2435,7 @@ Reference <a href="#ae50a03fe23936bc138aa8f32a8a00e91">SPECIFIER&#95;SPECIFICATI
 </div>
 
 
-Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION&#95;SPECIFICATIONS</a>.
+Reference <a href="#a25bb280e18cf31773c1d9d2757047a13">PROTECTION\_SPECIFICATIONS</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>.
 </div>
@@ -2426,7 +2447,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 
 ## Macro Definitions
 
-### ENTRY&#95;TYPES {#a7db4207760cabc7833ce294438492fac}
+### ENTRY\_TYPES {#a7db4207760cabc7833ce294438492fac}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2445,7 +2466,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2520,16 +2542,17 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> make##x() { return <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a>(static&#95;cast&lt;int&gt;(x)|static&#95;cast&lt;int&gt;(bits)); } \
-    bool is##x() const { return (m&#95;type&amp;TypeMask)==x; }
+<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> make##x() { return <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a>(static\_cast&lt;int&gt;(x)|static\_cast&lt;int&gt;(bits)); } \
+    bool is##x() const { return (m\_type&amp;TypeMask)==x; }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2551,7 +2574,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ETYPE(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "&#91;"+std::string(#x)+bits&#95;to&#95;string()+"&#93;";</td>
+<td class="doxyMemberName">#define ETYPE(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
 </tr>
 </table>
 </td>
@@ -2561,7 +2584,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 809 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 809 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2593,7 +2617,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 822 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 822 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2606,7 +2631,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </div>
 </div>
 
-### METHODTYPE&#95;SPECIFICATIONS {#aa47c5950c8c616cf03f0156e6a486388}
+### METHODTYPE\_SPECIFICATIONS {#aa47c5950c8c616cf03f0156e6a486388}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2623,7 +2648,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Kind of method.</p>
+
+Kind of method.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -2638,7 +2664,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </dd>
 </dl>
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2653,11 +2679,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </div>
 
 
-Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
+Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to\_string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2666,7 +2692,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##&#95;,</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##\_,</td>
 </tr>
 </table>
 </td>
@@ -2676,7 +2702,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2688,7 +2715,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2707,16 +2734,17 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> x() { return <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a>(static&#95;cast&lt;int&gt;(x##&#95;)|static&#95;cast&lt;int&gt;(bits)); } \
-    bool is##x() const { return (m&#95;type&amp;TypeMask)==x##&#95;; }
+<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> x() { return <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a>(static\_cast&lt;int&gt;(x##\_)|static\_cast&lt;int&gt;(bits)); } \
+    bool is##x() const { return (m\_type&amp;TypeMask)==x##\_; }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2728,7 +2756,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2737,7 +2765,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return "&#91;"+std::string(#x)+bits&#95;to&#95;string()+"&#93;";</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
 </tr>
 </table>
 </td>
@@ -2747,7 +2775,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2759,7 +2788,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2768,7 +2797,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return label;</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return label;</td>
 </tr>
 </table>
 </td>
@@ -2778,7 +2807,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2790,7 +2820,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2799,7 +2829,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return xml&#95;str;</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return xml\_str;</td>
 </tr>
 </table>
 </td>
@@ -2809,7 +2839,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2821,7 +2852,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2830,7 +2861,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return to&#95;pub();</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_pub();</td>
 </tr>
 </table>
 </td>
@@ -2840,7 +2871,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 431 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 431 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2852,7 +2884,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPE {#afb88727a08555f63ef2adef052312328}
+### ML\_TYPE {#afb88727a08555f63ef2adef052312328}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2861,7 +2893,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##&#95; : return to&#95;prot();</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_prot();</td>
 </tr>
 </table>
 </td>
@@ -2871,7 +2903,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 443 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 443 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2883,7 +2916,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### ML&#95;TYPES {#a0b57c6a6df9f6272180b5017651fdc1b}
+### ML\_TYPES {#a0b57c6a6df9f6272180b5017651fdc1b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2902,7 +2935,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3010,7 +3044,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3040,7 +3075,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3051,7 +3087,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 </div>
 
-### PROTECTION&#95;SPECIFICATIONS {#a25bb280e18cf31773c1d9d2757047a13}
+### PROTECTION\_SPECIFICATIONS {#a25bb280e18cf31773c1d9d2757047a13}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3068,7 +3104,8 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p><a href="#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of members.</p>
+
+<a href="#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of members.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -3081,7 +3118,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </dd>
 </dl>
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3094,7 +3131,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to&#95;string</a>.
 </div>
 
 
-Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a href="#aec6ffd7cb8531fdfcb9b81e521a15197">to&#95;string&#95;lower</a> and <a href="#a62c3d03ca859f9ec6c0820ed52f26b6c">to&#95;string&#95;lower&#95;class</a>.
+Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to\_string</a>, <a href="#aec6ffd7cb8531fdfcb9b81e521a15197">to\_string\_lower</a> and <a href="#a62c3d03ca859f9ec6c0820ed52f26b6c">to\_string\_lower\_class</a>.
 </div>
 </div>
 
@@ -3117,7 +3154,8 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3147,7 +3185,8 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3177,7 +3216,8 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3207,7 +3247,8 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3218,7 +3259,7 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 </div>
 </div>
 
-### RELATESTYPE&#95;SPECIFICATIONS {#afe95737a46bf989b2739cdd33444072e}
+### RELATESTYPE\_SPECIFICATIONS {#afe95737a46bf989b2739cdd33444072e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3235,7 +3276,8 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Type of member relation.</p>
+
+Type of member relation.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -3247,7 +3289,7 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 </dd>
 </dl>
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3259,11 +3301,11 @@ Referenced by <a href="#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>, <a
 </div>
 
 
-Referenced by <a href="#a4bcd58ed93a360bdbea6fc47840188b0">to&#95;string</a>.
+Referenced by <a href="#a4bcd58ed93a360bdbea6fc47840188b0">to\_string</a>.
 </div>
 </div>
 
-### RELATIONSHIP&#95;SPECIFICATIONS {#a488a95166a7324de16f90ba756a0ad7d}
+### RELATIONSHIP\_SPECIFICATIONS {#a488a95166a7324de16f90ba756a0ad7d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3280,7 +3322,8 @@ Referenced by <a href="#a4bcd58ed93a360bdbea6fc47840188b0">to&#95;string</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Kind of member relationship.</p>
+
+Kind of member relationship.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -3292,7 +3335,7 @@ Referenced by <a href="#a4bcd58ed93a360bdbea6fc47840188b0">to&#95;string</a>.
 </dd>
 </dl>
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3304,7 +3347,7 @@ Referenced by <a href="#a4bcd58ed93a360bdbea6fc47840188b0">to&#95;string</a>.
 </div>
 
 
-Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
+Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to\_string</a>.
 </div>
 </div>
 
@@ -3327,7 +3370,8 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3357,7 +3401,8 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3387,7 +3432,8 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3417,7 +3463,8 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3428,7 +3475,7 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 </div>
 </div>
 
-### SPECIFIER&#95;SPECIFICATIONS {#ae50a03fe23936bc138aa8f32a8a00e91}
+### SPECIFIER\_SPECIFICATIONS {#ae50a03fe23936bc138aa8f32a8a00e91}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3445,7 +3492,8 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Virtualness of a member.</p>
+
+Virtualness of a member.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -3457,7 +3505,7 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 </dd>
 </dl>
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3469,7 +3517,7 @@ Referenced by <a href="#acdc6fb28fcb86e6aaf38ffd29f3c64da">to&#95;string</a>.
 </div>
 
 
-Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and <a href="#a5d9065c0202f9af268a759fc9ebcb90a">to&#95;string&#95;lower</a>.
+Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to\_string</a> and <a href="#a5d9065c0202f9af268a759fc9ebcb90a">to\_string\_lower</a>.
 </div>
 </div>
 
@@ -3492,7 +3540,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3522,7 +3571,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3552,7 +3602,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3582,7 +3633,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3612,7 +3664,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3623,7 +3676,7 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 </div>
 </div>
 
-### SRCLANGEXT&#95;SPECIFICATIONS {#a3904e82eff9a84f12bbca91f34bd8b1f}
+### SRCLANGEXT\_SPECIFICATIONS {#a3904e82eff9a84f12bbca91f34bd8b1f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3640,7 +3693,8 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Language as given by extension.</p>
+
+Language as given by extension.
 
 <dl class="doxySectionUser">
 <dt>Value</dt>
@@ -3666,7 +3720,7 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 </dd>
 </dl>
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3692,7 +3746,7 @@ Referenced by <a href="#a781956f9a5f15627c3ad0c453471fcb2">to&#95;string</a> and
 </div>
 
 
-Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
+Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to\_string</a>.
 </div>
 </div>
 
@@ -3705,7 +3759,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;m&#95;is##x = m&#95;is##x || other.is##x();</td>
+<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;m\_is##x = m\_is##x || other.is##x();</td>
 </tr>
 </table>
 </td>
@@ -3715,7 +3769,8 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3740,7 +3795,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m&#95;is##x == t2.m&#95;is##x);</td>
+<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m\_is##x == t2.m\_is##x);</td>
 </tr>
 </table>
 </td>
@@ -3750,7 +3805,8 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
+Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3785,10 +3841,11 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">      if (m&#95;is##x) {                                                      \
+<div class="doxyVerbatim">      if (m\_is##x) {                                                      \
         if (!first) result+=",";                                          \
         result+=#x; first=false;                                          \
       }
@@ -3796,7 +3853,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 </dd>
 </dl>
 
-<p>Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3831,19 +3888,20 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    public:                                                               \
-      <a href="/web-doxygen/docs/api/classes/typespecifier">TypeSpecifier</a> &amp;set##x(bool b) { m&#95;is##x = b; return &#42;this; }        \
-      bool is##x() const { return m&#95;is##x; }                              \
+      <a href="/web-doxygen/docs/api/classes/typespecifier">TypeSpecifier</a> &amp;set##x(bool b) { m\_is##x = b; return \*this; }        \
+      bool is##x() const { return m\_is##x; }                              \
     private:                                                              \
-      bool m&#95;is##x : 1;
+      bool m\_is##x : 1;
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3859,7 +3917,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 </div>
 </div>
 
-### TYPE&#95;SPECIFIERS {#a41aa73212f991bad715476690521886c}
+### TYPE\_SPECIFIERS {#a41aa73212f991bad715476690521886c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -3878,28 +3936,29 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">/&#42;  0 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Template)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Ref)               <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Value)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>)          \
-/&#42;  5 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca886ef5dbd655a6c97726d7091c6b173e">Struct</a>)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843caaef12e903e606a4895a16b393bfdec8c">Union</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cab0d4998a26f5b5742ad38c4af8817e32">Exception</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca888a77f5ac0748b6c8001822417df8b6">Protocol</a>)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3adbdb3ac060038aa0e6e6c138ef9873">Category</a>)           \
-/&#42; 10 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(SealedClass)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(AbstractClass)   <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Enum)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cac2ba7e785c49050f48da9aacc45c2b85">Service</a>)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca6ff5f73c8b5ebd311406568c8ef50bfd">Singleton</a>)          \
-/&#42; 15 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ForwardDecl)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Local)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(EnumStruct)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExpr)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateGettable)    \
-/&#42; 20 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedGettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/commentscan-l/#abef2fa9b94f622b395476cf09af989c4a0125cf5f3ca38b312ca5d3b511c45a13">Inline</a>)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Explicit)           \
-/&#42; 25 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Mutable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Settable)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Gettable)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readable)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Writable)           \
-/&#42; 30 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Final)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Abstract)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Addable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Removable)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Raisable)           \
-/&#42; 35 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Override)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(New)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Sealed)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Initonly)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Optional)           \
-/&#42; 40 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Required)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NonAtomic)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Copy)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Retain)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Assign)             \
-/&#42; 45 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Strong)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Weak)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Unretained)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Alias)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExp)           \
-/&#42; 50 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Delete)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoExcept)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Attribute)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca5ad234cb2cde4266195252a23ca7d84e">Property</a>)           \
-/&#42; 55 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readonly)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Bound)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Constrained)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Transient)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeVoid)          \
-/&#42; 60 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeDefault)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeAmbiguous)  <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Published)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstEval)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstInit)          \
-/&#42; 65 &#42;/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoDiscard)
+<div class="doxyVerbatim">/\*  0 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Template)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Ref)               <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Value)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>)          \
+/\*  5 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca886ef5dbd655a6c97726d7091c6b173e">Struct</a>)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843caaef12e903e606a4895a16b393bfdec8c">Union</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cab0d4998a26f5b5742ad38c4af8817e32">Exception</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca888a77f5ac0748b6c8001822417df8b6">Protocol</a>)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3adbdb3ac060038aa0e6e6c138ef9873">Category</a>)           \
+/\* 10 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(SealedClass)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(AbstractClass)   <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Enum)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cac2ba7e785c49050f48da9aacc45c2b85">Service</a>)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca6ff5f73c8b5ebd311406568c8ef50bfd">Singleton</a>)          \
+/\* 15 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ForwardDecl)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Local)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(EnumStruct)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExpr)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateGettable)    \
+/\* 20 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedGettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/commentscan-l/#abef2fa9b94f622b395476cf09af989c4a0125cf5f3ca38b312ca5d3b511c45a13">Inline</a>)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Explicit)           \
+/\* 25 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Mutable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Settable)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Gettable)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readable)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Writable)           \
+/\* 30 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Final)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Abstract)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Addable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Removable)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Raisable)           \
+/\* 35 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Override)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(New)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Sealed)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Initonly)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Optional)           \
+/\* 40 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Required)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NonAtomic)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Copy)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Retain)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Assign)             \
+/\* 45 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Strong)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Weak)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Unretained)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Alias)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExp)           \
+/\* 50 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Delete)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoExcept)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Attribute)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca5ad234cb2cde4266195252a23ca7d84e">Property</a>)           \
+/\* 55 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readonly)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Bound)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Constrained)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Transient)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeVoid)          \
+/\* 60 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeDefault)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeAmbiguous)  <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Published)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstEval)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstInit)          \
+/\* 65 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoDiscard)
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3922,7 +3981,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to&#95;string</a>.
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/typespecifier/#adc33a4d3e53f2ef1064cb32f0c3811e9">TypeSpecifier::merge</a>, <a href="/web-doxygen/docs/api/classes/typespecifier/#a4dc5b5d3a4fe7693a2982eb6de5dacfe">TypeSpecifier::operator==</a> and <a href="/web-doxygen/docs/api/classes/typespecifier/#a253f39d5231d613732dc149a1e00bd55">TypeSpecifier::to&#95;string</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/typespecifier/#adc33a4d3e53f2ef1064cb32f0c3811e9">TypeSpecifier::merge</a>, <a href="/web-doxygen/docs/api/classes/typespecifier/#a4dc5b5d3a4fe7693a2982eb6de5dacfe">TypeSpecifier::operator==</a> and <a href="/web-doxygen/docs/api/classes/typespecifier/#a253f39d5231d613732dc149a1e00bd55">TypeSpecifier::to\_string</a>.
 </div>
 </div>
 

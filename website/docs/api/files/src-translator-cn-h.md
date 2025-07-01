@@ -62,7 +62,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### CN&#95;SPC {#a375d442150a496e071f05f8e16fd7da4}
+### CN\_SPC {#a375d442150a496e071f05f8e16fd7da4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -82,9 +82,10 @@ toc_max_heading_level: 4
 
 
 
-<p>If you want insert a space whenever Chinese meets English characters, set CN_SPC to " ", else null.</p>
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.</p>
+If you want insert a space whenever Chinese meets English characters, set CN\_SPC to " ", else null.
+
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.
 
 <div class="doxyProgramListing">
 

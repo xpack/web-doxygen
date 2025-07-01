@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `BaseClassDef` Struct Reference
 
-<p>Class that contains information about an inheritance relation. <a href="#details">More...</a></p>
+Class that contains information about an inheritance relation. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class definition that this relation inherits from. <a href="#a2a62f0f7057f4cd514f3d1417191ff26">More...</a></p>
+Class definition that this relation inherits from. <a href="#a2a62f0f7057f4cd514f3d1417191ff26">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>name used in the inheritance list (may be a typedef name instead of the class name) <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">More...</a></p>
+name used in the inheritance list (may be a typedef name instead of the class name) <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,7 +88,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private. <a href="#ab5a986f56300bfa53f7c4cff58196294">More...</a></p>
+<a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private. <a href="#ab5a986f56300bfa53f7c4cff58196294">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -102,7 +102,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Virtualness of the inheritance relation: Normal, or Virtual. <a href="#a844100c6fcd90233e01e52fc92107464">More...</a></p>
+Virtualness of the inheritance relation: Normal, or Virtual. <a href="#a844100c6fcd90233e01e52fc92107464">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -116,7 +116,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Template arguments used for the base class. <a href="#a2b8a712d468d70c6c80b5c07f49711ae">More...</a></p>
+Template arguments used for the base class. <a href="#a2b8a712d468d70c6c80b5c07f49711ae">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,9 +127,9 @@ struct BaseClassDef { ... }
 
 ## Description {#details}
 
-<p>Class that contains information about an inheritance relation.</p>
+Class that contains information about an inheritance relation.
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -159,7 +159,8 @@ struct BaseClassDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -196,9 +197,10 @@ References <a href="#a2a62f0f7057f4cd514f3d1417191ff26">classDef</a>, <a href="#
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Class definition that this relation inherits from.</p>
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Class definition that this relation inherits from.
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -228,9 +230,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>, <a 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p><a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private.</p>
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+<a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private.
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -260,9 +263,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Template arguments used for the base class.</p>
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Template arguments used for the base class.
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -292,9 +296,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>name used in the inheritance list (may be a typedef name instead of the class name)</p>
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+name used in the inheritance list (may be a typedef name instead of the class name)
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -324,9 +329,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Virtualness of the inheritance relation: Normal, or Virtual.</p>
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Virtualness of the inheritance relation: Normal, or Virtual.
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,7 +349,7 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and 
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a></li>

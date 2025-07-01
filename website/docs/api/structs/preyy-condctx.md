@@ -103,13 +103,13 @@ struct preYY_CondCtx { ... }
 </table>
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxySectionDef">
 
 ## Public Constructors
 
-### preYY&#95;CondCtx() {#ae8816dc8d6a8891850c41b82f50a3a39}
+### preYY\_CondCtx() {#ae8816dc8d6a8891850c41b82f50a3a39}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -133,7 +133,8 @@ struct preYY_CondCtx { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -172,7 +173,8 @@ References <a href="#a0886db350b865344ce61171643dda73c">fileName</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -181,7 +183,7 @@ References <a href="#a0886db350b865344ce61171643dda73c">fileName</a>, <a href="#
 </div>
 
 
-Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>.
+Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY\_CondCtx</a>.
 </div>
 </div>
 
@@ -204,7 +206,8 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -213,7 +216,7 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 </div>
 
 
-Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>.
+Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY\_CondCtx</a>.
 </div>
 </div>
 
@@ -236,7 +239,8 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -245,7 +249,7 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 </div>
 
 
-Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>.
+Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY\_CondCtx</a>.
 </div>
 </div>
 
@@ -268,7 +272,8 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -277,7 +282,7 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 </div>
 
 
-Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>.
+Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY\_CondCtx</a>.
 </div>
 </div>
 
@@ -285,7 +290,7 @@ Referenced by <a href="#ae8816dc8d6a8891850c41b82f50a3a39">preYY&#95;CondCtx</a>
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a></li>

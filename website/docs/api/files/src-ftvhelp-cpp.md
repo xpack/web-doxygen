@@ -403,7 +403,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -433,7 +434,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -463,7 +465,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -493,7 +496,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 583 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 583 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +538,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -562,7 +567,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a> and <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>.
+References <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a> and <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>.
 
 Referenced by <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a> and <a href="#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>.
 </div>
@@ -592,7 +597,8 @@ Referenced by <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -650,7 +656,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -695,7 +702,8 @@ Referenced by <a href="#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -740,7 +748,8 @@ Referenced by <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -800,7 +809,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -859,7 +869,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -908,7 +919,8 @@ Referenced by <a href="#aa1a81456e5d00c9e3c4ff4d9f3e3c123">generateIndent</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -934,7 +946,7 @@ Referenced by <a href="#aa1a81456e5d00c9e3c4ff4d9f3e3c123">generateIndent</a>, <
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78d33655f54cd45e22070b58a6dce6b6">stripScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78d33655f54cd45e22070b58a6dce6b6">stripScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>.
 </div>
@@ -964,7 +976,8 @@ Referenced by <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1092,7 +1105,7 @@ Referenced by <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#ab983afb4157621ae3548364755a75002">LayoutNavEntry::find</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aba6653be2d238e1fc793706547950107">getProjectId</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a87bc2288833b8769bd03e47c58fbba6a">LayoutDocManager::instance</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-h/#a8a39a1a82ce3ac026350d5ab014d9393">JAVASCRIPT&#95;LICENSE&#95;TEXT</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1d56f22de057d96035949f029dd6e4e8">mainPageHasTitle</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/structs/navindexentry/#a684ba0c749048aa18f5e29f8ba820d7f">NavIndexEntry::path</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#ad70cfcbfc25b8f303a59cd8f76c61465">LayoutDocManager::rootNavEntry</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#a006dfaa93d3dee670dd4ae22d28a1db7">LayoutNavEntry::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/navindexentry/#a27809e7b238b92e5aafafd1a57900111">NavIndexEntry::url</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#ab983afb4157621ae3548364755a75002">LayoutNavEntry::find</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aba6653be2d238e1fc793706547950107">getProjectId</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a87bc2288833b8769bd03e47c58fbba6a">LayoutDocManager::instance</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-h/#a8a39a1a82ce3ac026350d5ab014d9393">JAVASCRIPT\_LICENSE\_TEXT</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1d56f22de057d96035949f029dd6e4e8">mainPageHasTitle</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/structs/navindexentry/#a684ba0c749048aa18f5e29f8ba820d7f">NavIndexEntry::path</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#ad70cfcbfc25b8f303a59cd8f76c61465">LayoutDocManager::rootNavEntry</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/structs/layoutnaventry/#a006dfaa93d3dee670dd4ae22d28a1db7">LayoutNavEntry::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/navindexentry/#a27809e7b238b92e5aafafd1a57900111">NavIndexEntry::url</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/ftvhelp/#aad2b0bf5b5d217f8e0b77b486fed3527">FTVHelp::generateTreeViewScripts</a>.
 </div>
@@ -1122,7 +1135,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/ftvhelp/#aad2b0bf5b5d217f8e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 608 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 608 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1210,7 +1224,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/ftvhelp/#aad2b0bf5b5d217f8e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="#a24d81fe9c93c2e315bd713aed99379c4">dupOfParent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78b0d7057156fc989474dc86bfb86187">fileVisibleInIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a854c08e309ca4fd7db25afc86cd90e55">g&#95;navIndexMutex</a>, <a href="#a3ec1633fe7ff4f8ae5374bff88c55b81">generateJSLink</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="#a8e90c9de4676d5baf1fb570c0c0c0495">pathToNode</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a24d81fe9c93c2e315bd713aed99379c4">dupOfParent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78b0d7057156fc989474dc86bfb86187">fileVisibleInIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a854c08e309ca4fd7db25afc86cd90e55">g\_navIndexMutex</a>, <a href="#a3ec1633fe7ff4f8ae5374bff88c55b81">generateJSLink</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="#a8e90c9de4676d5baf1fb570c0c0c0495">pathToNode</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>.
 
 Referenced by <a href="#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a> and <a href="#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>.
 </div>
@@ -1240,7 +1254,8 @@ Referenced by <a href="#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1298,7 +1313,7 @@ Referenced by <a href="#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>
 </div>
 
 
-References <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="#aefb94fa4d5f207d7a1aa6c7fb5ab54b5">convertFileId2Var</a>, <a href="#a24d81fe9c93c2e315bd713aed99379c4">dupOfParent</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a>.
+References <a href="#a75770b555330a417f9bc44cba8e7b5c5">collectJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#aefb94fa4d5f207d7a1aa6c7fb5ab54b5">convertFileId2Var</a>, <a href="#a24d81fe9c93c2e315bd713aed99379c4">dupOfParent</a>, <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a>.
 
 Referenced by <a href="#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>.
 </div>
@@ -1328,7 +1343,8 @@ Referenced by <a href="#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1397,7 +1413,8 @@ Referenced by <a href="#a3ec1633fe7ff4f8ae5374bff88c55b81">generateJSLink</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1453,7 +1470,8 @@ Referenced by <a href="#a2945edc16c199a62e84ee85d81b9c854">generateJSTree</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1466,7 +1484,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4b
 </div>
 </div>
 
-### g&#95;navIndexMutex {#a854c08e309ca4fd7db25afc86cd90e55}
+### g\_navIndexMutex {#a854c08e309ca4fd7db25afc86cd90e55}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1490,7 +1508,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 606 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 606 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 

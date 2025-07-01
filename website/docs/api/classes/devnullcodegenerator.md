@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DevNullCodeGenerator` Class Reference
 
-<p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="#details">More...</a></p>
+Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DevNullCodeGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
+Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -305,9 +305,9 @@ class DevNullCodeGenerator { ... }
 
 ## Description {#details}
 
-<p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything.</p>
+Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything.
 
-<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -338,7 +338,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -374,7 +375,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -410,7 +412,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -446,7 +449,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -482,7 +486,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -518,7 +523,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -554,7 +560,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -590,7 +597,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -626,7 +634,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -662,7 +671,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -698,7 +708,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -734,7 +745,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -770,7 +782,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -806,7 +819,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -842,7 +856,8 @@ class DevNullCodeGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -880,7 +895,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -916,7 +932,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -955,7 +972,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -992,7 +1010,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1009,7 +1028,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a></li>

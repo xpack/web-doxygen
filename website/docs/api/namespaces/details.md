@@ -31,7 +31,7 @@ namespace details { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children">has&#95;method&#95;children&lt;T, typename&gt;</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children">has_method_children&lt;T, typename&gt;</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -44,7 +44,7 @@ namespace details { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has&#95;method&#95;children&lt;T, std::void&#95;t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>

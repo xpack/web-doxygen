@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ClassDiagram` Class Reference
 
-<p>Class representing a built-in class diagram. <a href="#details">More...</a></p>
+Class representing a built-in class diagram. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -121,9 +121,9 @@ class ClassDiagram { ... }
 
 ## Description {#details}
 
-<p>Class representing a built-in class diagram.</p>
+Class representing a built-in class diagram.
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.
 
 <div class="doxySectionDef">
 
@@ -148,7 +148,8 @@ class ClassDiagram { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -179,7 +180,7 @@ class ClassDiagram { ... }
 
 References <a href="/web-doxygen/docs/api/classes/diagramitem/#aca2295801c4b08a1565e86da1c04c242">DiagramItem::move</a>, <a href="#ae809b1b9a4f0d75b800ec8eaeab91c47">p</a> and <a href="/web-doxygen/docs/api/classes/diagramitem/#ae9a8464ab6a8101b4a0ca6059006bd76">DiagramItem::xPos</a>.
 
-Referenced by <a href="#a6ddb806254eae2bc59a5a8c19a51d142">~ClassDiagram</a>.
+Referenced by <a href="#a6ddb806254eae2bc59a5a8c19a51d142">\~ClassDiagram</a>.
 </div>
 </div>
 
@@ -189,7 +190,7 @@ Referenced by <a href="#a6ddb806254eae2bc59a5a8c19a51d142">~ClassDiagram</a>.
 
 ## Public Destructor
 
-### ~ClassDiagram() {#a6ddb806254eae2bc59a5a8c19a51d142}
+### \~ClassDiagram() {#a6ddb806254eae2bc59a5a8c19a51d142}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -208,7 +209,8 @@ Referenced by <a href="#a6ddb806254eae2bc59a5a8c19a51d142">~ClassDiagram</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.
 
 Reference <a href="#aaac25c860e59589fa68e48b4f2ea3de3">ClassDiagram</a>.
 </div>
@@ -239,7 +241,8 @@ Reference <a href="#aaac25c860e59589fa68e48b4f2ea3de3">ClassDiagram</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1073 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1073 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -541,7 +544,7 @@ Reference <a href="#aaac25c860e59589fa68e48b4f2ea3de3">ClassDiagram</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ae809b1b9a4f0d75b800ec8eaeab91c47">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ae809b1b9a4f0d75b800ec8eaeab91c47">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab2b909084907d1b1e629d8af009fe997">LatexGenerator::endClassDiagram</a>.
 </div>
@@ -566,7 +569,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab2b9090849
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1369 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>, definition at line 1369 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -605,7 +609,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab2b9090849
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#aa13a42b6fd4f4b0c89be8c3bab657be3">fontHeight</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#addf4ae1173df3a2d96b5862df8960117">IMAGE&#95;EXT</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a1633af3b4b6c08d35ec5538e9f599543">labelHorMargin</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a486228a1ff55861685b37025028df553">labelHorSpacing</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#aefcc016999157bad4cd16a4b11656a87">labelVertSpacing</a>, <a href="#ae809b1b9a4f0d75b800ec8eaeab91c47">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#aa13a42b6fd4f4b0c89be8c3bab657be3">fontHeight</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#addf4ae1173df3a2d96b5862df8960117">IMAGE\_EXT</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a1633af3b4b6c08d35ec5538e9f599543">labelHorMargin</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a486228a1ff55861685b37025028df553">labelHorSpacing</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#aefcc016999157bad4cd16a4b11656a87">labelVertSpacing</a>, <a href="#ae809b1b9a4f0d75b800ec8eaeab91c47">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a2906dcb02cfd455c0d910c9f9501bfbe">DocbookGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93e17c4e30b815977a5c865">HtmlGenerator::endClassDiagram</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a0322020ce9d74181bb997b886239ce19">RTFGenerator::endClassDiagram</a>.
 </div>
@@ -636,7 +640,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a2906dcb0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/diagram-h">diagram.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -653,7 +658,7 @@ Referenced by <a href="#aaac25c860e59589fa68e48b4f2ea3de3">ClassDiagram</a>, <a 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a></li>

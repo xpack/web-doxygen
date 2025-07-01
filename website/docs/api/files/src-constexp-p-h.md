@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `constexp_p.h` File Reference
 
-<p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="#details">More...</a></p>
+Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="#details">More...</a>
 
 ## Included Headers
 
@@ -31,7 +31,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/constexpyy-state">constexpYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/constexpyy-state">constexpYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -142,13 +142,13 @@ toc_max_heading_level: 4
 
 ## Description {#details}
 
-<p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>)</p>
+Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>)
 
 <div class="doxySectionDef">
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -167,7 +167,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -184,7 +185,7 @@ toc_max_heading_level: 4
 
 ## Functions
 
-### constexpYYget&#95;extra() {#ac2a97f335cfe0ab93b670cd11bf99817}
+### constexpYYget\_extra() {#ac2a97f335cfe0ab93b670cd11bf99817}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -203,7 +204,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 </div>
 </div>
 
@@ -226,7 +228,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 Reference <a href="#a2ceb5b985e149f18e018b142cfdd7264">YYSTYPE</a>.
 </div>
@@ -251,7 +254,8 @@ Reference <a href="#a2ceb5b985e149f18e018b142cfdd7264">YYSTYPE</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f5dbdc0aadd6150973487b9c2d7514">ConstExpressionParser::parse</a>.
 </div>
@@ -263,7 +267,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f
 
 ## Macro Definitions
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -282,7 +286,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -312,7 +317,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
 
 <div class="doxyProgramListing">
 

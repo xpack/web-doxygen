@@ -861,7 +861,7 @@ class DocTokenizer { ... }
 </table>
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxySectionDef">
 
@@ -886,7 +886,8 @@ class DocTokenizer { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 185 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1752 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 185 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1752 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -902,7 +903,7 @@ class DocTokenizer { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da099ed01f3be5fd04d8e8f53a4b8b808c">Debug::Lex&#95;doctokenizer</a> and <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
+References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da099ed01f3be5fd04d8e8f53a4b8b808c">Debug::Lex\_doctokenizer</a> and <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 </div>
 </div>
 
@@ -912,7 +913,7 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 
 ## Public Destructor
 
-### ~DocTokenizer() {#a70d2b66a1db91742f0de4c9239192fce}
+### \~DocTokenizer() {#a70d2b66a1db91742f0de4c9239192fce}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -931,7 +932,8 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 186 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1761 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 186 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1761 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -973,7 +975,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2148 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2148 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1010,7 +1013,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 242 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2183 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 242 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2183 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1049,7 +1053,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docautolist/#a8eef0f06619e7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 198 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 198 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1074,7 +1079,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docautolist/#a8eef0f06619e7
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da099ed01f3be5fd04d8e8f53a4b8b808c">Debug::Lex&#95;doctokenizer</a>, <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da099ed01f3be5fd04d8e8f53a4b8b808c">Debug::Lex\_doctokenizer</a>, <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a0fc0d3e4ca95dd0dc254d0efb1fd045a">docFindSections</a>.
 </div>
@@ -1099,7 +1104,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a0fc0d3e4c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 193 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2197 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 193 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2197 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1138,7 +1144,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 200 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1797 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 200 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1797 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1184,7 +1191,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 205 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1767 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 205 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1767 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1221,7 +1229,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 204 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1731 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 204 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1731 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1271,7 +1280,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2211 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2211 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1310,7 +1320,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 239 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2162 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 239 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2162 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1356,7 +1367,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#a74ff0b5b4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 203 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1716 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 203 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1716 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1378,7 +1390,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#a74ff0b5b4
 </div>
 
 
-References <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY&#95;BUF&#95;SIZE</a>.
+References <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY\_BUF\_SIZE</a>.
 </div>
 </div>
 
@@ -1401,7 +1413,8 @@ References <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 194 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2204 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 194 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2204 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1438,7 +1451,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 190 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1818 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 190 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1818 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1478,7 +1492,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 238 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2155 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 238 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2155 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1517,7 +1532,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 192 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2190 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 192 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2190 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1556,7 +1572,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 237 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2074 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 237 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2074 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1593,7 +1610,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 247 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2111 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 247 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2111 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1633,7 +1651,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 231 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2032 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 231 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2032 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1672,7 +1691,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 210 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1848 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 210 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1848 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1713,7 +1733,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1908 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1908 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1753,7 +1774,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 223 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 223 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1793,7 +1815,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 232 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2039 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 232 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2039 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1832,7 +1855,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 248 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2119 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 248 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2119 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1872,7 +1896,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a724e489c954b75034
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 227 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2003 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 227 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2003 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1911,7 +1936,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 213 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1875 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 213 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1875 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1952,7 +1978,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 211 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1857 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 211 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1857 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1993,7 +2020,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 228 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2010 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 228 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2010 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2030,7 +2058,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 249 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2127 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 249 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2127 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2069,7 +2098,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a8cdd911ef9ea557d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 221 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1924 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 221 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1924 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2109,7 +2139,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 222 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1932 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 222 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1932 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2149,7 +2180,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 234 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 234 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2186,7 +2218,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1948 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1948 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2226,7 +2259,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 215 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1916 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 215 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1916 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2266,7 +2300,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 230 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2025 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 230 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2025 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2305,7 +2340,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0bff680b96bc9c76b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 214 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1884 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 214 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1884 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2345,7 +2381,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 224 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 224 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2385,7 +2422,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 246 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2103 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 246 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2103 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2425,7 +2463,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 207 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1826 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 207 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1826 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2465,7 +2504,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 225 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1989 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 225 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1989 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2504,7 +2544,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b631
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 229 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2017 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 229 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2017 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2544,7 +2585,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 243 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1981 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 243 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1981 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2584,7 +2626,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 245 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1972 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 245 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1972 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2625,7 +2668,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 252 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2081 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 252 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2081 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2662,7 +2706,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 250 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2134 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 250 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2134 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2701,7 +2746,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 233 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2046 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 233 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2046 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2740,7 +2786,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a8541b3718d4e34888
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1892 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1892 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2780,7 +2827,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 244 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2096 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 244 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2096 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2819,7 +2867,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2141 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2141 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2858,7 +2907,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 236 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2067 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 236 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2067 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2897,7 +2947,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a2bb5ccde078a4388f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 240 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2088 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 240 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2088 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2937,7 +2988,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 235 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2060 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 235 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2060 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2976,7 +3028,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doctext/#aada5a740aa0832964
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 208 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1834 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 208 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1834 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3015,7 +3068,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#a4768457c43
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 209 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1841 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 209 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1841 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3052,7 +3106,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1940 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1940 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3092,7 +3147,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 212 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 212 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3133,7 +3189,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 216 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1900 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 216 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1900 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3173,7 +3230,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 226 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1996 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 226 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1996 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3212,7 +3270,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9ed
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 241 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 241 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3251,7 +3310,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docautolist/#a8eef0f06619e7
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 189 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1811 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 189 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1811 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3288,7 +3348,8 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 206 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1772 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Declaration at line 206 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>, definition at line 1772 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3302,7 +3363,7 @@ Reference <a href="#aede113d286596811d42ad1fab08996e4">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a86da2f5e3360caa90276fc24433d9512">unput&#95;string</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#aede113d286596811d42ad1fab08996e4">p</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a86da2f5e3360caa90276fc24433d9512">unput\_string</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>.
 </div>
@@ -3333,7 +3394,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3342,7 +3404,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 </div>
 
 
-Referenced by <a href="#a1416a695181d2b7475649fcfa6328afc">cleanup</a>, <a href="#a6384abe92f96fc6fa9c2fd47ce057b6e">DocTokenizer</a>, <a href="#a41327ee370bdbdf5e367328e8e83a23b">endAutoList</a>, <a href="#a640bce791d53e83dcbd47f7ab01620e8">findSections</a>, <a href="#ae5366d3fa4095f81903bcc38ca7c88c7">getLineNr</a>, <a href="#a27ef42f7f738e8eef6801d5f701b4b8f">init</a>, <a href="#a286239d4401fbbfb8b183a7e9c521866">lex</a>, <a href="#ae2407880f57f0b80f4f803d369776189">popContext</a>, <a href="#ad3b3ac28b0574b550069906f1b758a30">popState</a>, <a href="#aff805b06ccfab10b895659c51afb5829">pushBackHtmlTag</a>, <a href="#ab0ed44ca62a9c1f9a33f3be549b9bd2f">pushContext</a>, <a href="#a32e052e3732a2c7bb469ac4834cb1819">pushState</a>, <a href="#aeaf8532d281e202aaf58eb8daa3e5742">resetToken</a>, <a href="#a9a8546fd68f4a34986e4fb9adeca44a7">setInsidePre</a>, <a href="#a2ffd450e14852a41762e405e33efed7d">setLineNr</a>, <a href="#a61dcd0ef63e1d16cf7fe47ecf5bc8892">setStateAnchor</a>, <a href="#a5f0e4aba378bcd41427c01c1aed84650">setStateBlock</a>, <a href="#a1ccf706bbc6ef5c6dc46020feef92b48">setStateCite</a>, <a href="#a34431cb2cd05302e5f119e040a769f37">setStateCode</a>, <a href="#abd6696245928c12d39088589853903f0">setStateDbOnly</a>, <a href="#a2726da7c2b27d07e2a8ab92a280b73f6">setStateDot</a>, <a href="#add6c257f79f2b4cfebeb232710ea89b3">setStateDoxyConfig</a>, <a href="#a1fbe30cd437ccd6c1b1ab3273bbb13ea">setStateEmoji</a>, <a href="#a800041c36835be7289de964cd48966cf">setStateFile</a>, <a href="#ac363da2884c9fac4485a41f4c62f30ec">setStateHtmlOnly</a>, <a href="#acfcff1fd7726a10245844d66db38958c">setStateICode</a>, <a href="#a42356130c7f62e388d487606719fcaa4">setStateIFile</a>, <a href="#accb3c15b818a362e992e1a29cd7cba0b">setStateILine</a>, <a href="#a176080102d22a57cf6b954cd0fd800ed">setStateILiteral</a>, <a href="#a146a51289b61c4a07eae63f20a70c47c">setStateILiteralOpt</a>, <a href="#ac3823e30efb8777b24236bf28c1fac52">setStateInternalRef</a>, <a href="#aeb2eaeb1ff17b18714dba1df124638e0">setStateIVerbatim</a>, <a href="#a809628767bfb37617b67e8909177c379">setStateLatexOnly</a>, <a href="#a75e912a405a74470ff41c7cd66dd7d8d">setStateLink</a>, <a href="#a8b58ee7b91c9386f23990ae2a3aac4d6">setStateManOnly</a>, <a href="#a34eda462c7101585f7632608537fbaa5">setStateMsc</a>, <a href="#ad361dcd21e016d2b11b9547025eb940e">setStateOptions</a>, <a href="#ae3c97a1c50f2345ed8a821b064752e4c">setStatePara</a>, <a href="#a5b84c53eb58ffa4536429f435af7dc7e">setStateParam</a>, <a href="#a34d618f840d6483ebe02c2eb19b66531">setStatePattern</a>, <a href="#ae84231059e79d7a987d450315ea4c555">setStatePlantUML</a>, <a href="#a605b63eab0905368b46d73b38f2d04e6">setStatePlantUMLOpt</a>, <a href="#a1f55af9e8e2d60d02519b04f247ca2b9">setStatePrefix</a>, <a href="#adde6d5b20c7ce890471cf3624183d4d0">setStateQuotedString</a>, <a href="#a480480bc983e0a6b3982516e39f0a0e7">setStateRef</a>, <a href="#a663752c3113ff8c63348c9efb7dc48ab">setStateRtfOnly</a>, <a href="#af231e89152d53e5c666cf3e18aaadb8f">setStateSetScope</a>, <a href="#a8d2996962fd97f18550674846502274b">setStateShowDate</a>, <a href="#a59640a5ec3ad9cbad272a6925f189542">setStateSkipTitle</a>, <a href="#a1e486e33ea997eb77a714fa5ff47f60d">setStateSnippet</a>, <a href="#aace7e3d8edd67ef73441256379557aea">setStateText</a>, <a href="#a7b9c9df4ada21e5fb5c5a7d5eac0fbd2">setStateTitle</a>, <a href="#a0b6da566ad128beaf9ccb68aa8d1c705">setStateTitleAttrValue</a>, <a href="#a746075b39ec5494c78a415f58d9a31a2">setStateVerbatim</a>, <a href="#ab8885a45a72652256b2889ada34466ef">setStateXmlCode</a>, <a href="#aeb9d0c6ca2a16fa2b0d11aaca48d29f7">setStateXmlOnly</a>, <a href="#aa411158a25cb6c8180ed3b371d5c76c0">setStateXRefItem</a>, <a href="#a354d1d1fc89286290f7cbcd0e2e1d3b0">startAutoList</a>, <a href="#a060403865cc48ca7f55af46d8272282c">token</a>, <a href="#ab8df06c9b8d04453c03cd380baa8e0b8">unputString</a> and <a href="#a70d2b66a1db91742f0de4c9239192fce">~DocTokenizer</a>.
+Referenced by <a href="#a1416a695181d2b7475649fcfa6328afc">cleanup</a>, <a href="#a6384abe92f96fc6fa9c2fd47ce057b6e">DocTokenizer</a>, <a href="#a41327ee370bdbdf5e367328e8e83a23b">endAutoList</a>, <a href="#a640bce791d53e83dcbd47f7ab01620e8">findSections</a>, <a href="#ae5366d3fa4095f81903bcc38ca7c88c7">getLineNr</a>, <a href="#a27ef42f7f738e8eef6801d5f701b4b8f">init</a>, <a href="#a286239d4401fbbfb8b183a7e9c521866">lex</a>, <a href="#ae2407880f57f0b80f4f803d369776189">popContext</a>, <a href="#ad3b3ac28b0574b550069906f1b758a30">popState</a>, <a href="#aff805b06ccfab10b895659c51afb5829">pushBackHtmlTag</a>, <a href="#ab0ed44ca62a9c1f9a33f3be549b9bd2f">pushContext</a>, <a href="#a32e052e3732a2c7bb469ac4834cb1819">pushState</a>, <a href="#aeaf8532d281e202aaf58eb8daa3e5742">resetToken</a>, <a href="#a9a8546fd68f4a34986e4fb9adeca44a7">setInsidePre</a>, <a href="#a2ffd450e14852a41762e405e33efed7d">setLineNr</a>, <a href="#a61dcd0ef63e1d16cf7fe47ecf5bc8892">setStateAnchor</a>, <a href="#a5f0e4aba378bcd41427c01c1aed84650">setStateBlock</a>, <a href="#a1ccf706bbc6ef5c6dc46020feef92b48">setStateCite</a>, <a href="#a34431cb2cd05302e5f119e040a769f37">setStateCode</a>, <a href="#abd6696245928c12d39088589853903f0">setStateDbOnly</a>, <a href="#a2726da7c2b27d07e2a8ab92a280b73f6">setStateDot</a>, <a href="#add6c257f79f2b4cfebeb232710ea89b3">setStateDoxyConfig</a>, <a href="#a1fbe30cd437ccd6c1b1ab3273bbb13ea">setStateEmoji</a>, <a href="#a800041c36835be7289de964cd48966cf">setStateFile</a>, <a href="#ac363da2884c9fac4485a41f4c62f30ec">setStateHtmlOnly</a>, <a href="#acfcff1fd7726a10245844d66db38958c">setStateICode</a>, <a href="#a42356130c7f62e388d487606719fcaa4">setStateIFile</a>, <a href="#accb3c15b818a362e992e1a29cd7cba0b">setStateILine</a>, <a href="#a176080102d22a57cf6b954cd0fd800ed">setStateILiteral</a>, <a href="#a146a51289b61c4a07eae63f20a70c47c">setStateILiteralOpt</a>, <a href="#ac3823e30efb8777b24236bf28c1fac52">setStateInternalRef</a>, <a href="#aeb2eaeb1ff17b18714dba1df124638e0">setStateIVerbatim</a>, <a href="#a809628767bfb37617b67e8909177c379">setStateLatexOnly</a>, <a href="#a75e912a405a74470ff41c7cd66dd7d8d">setStateLink</a>, <a href="#a8b58ee7b91c9386f23990ae2a3aac4d6">setStateManOnly</a>, <a href="#a34eda462c7101585f7632608537fbaa5">setStateMsc</a>, <a href="#ad361dcd21e016d2b11b9547025eb940e">setStateOptions</a>, <a href="#ae3c97a1c50f2345ed8a821b064752e4c">setStatePara</a>, <a href="#a5b84c53eb58ffa4536429f435af7dc7e">setStateParam</a>, <a href="#a34d618f840d6483ebe02c2eb19b66531">setStatePattern</a>, <a href="#ae84231059e79d7a987d450315ea4c555">setStatePlantUML</a>, <a href="#a605b63eab0905368b46d73b38f2d04e6">setStatePlantUMLOpt</a>, <a href="#a1f55af9e8e2d60d02519b04f247ca2b9">setStatePrefix</a>, <a href="#adde6d5b20c7ce890471cf3624183d4d0">setStateQuotedString</a>, <a href="#a480480bc983e0a6b3982516e39f0a0e7">setStateRef</a>, <a href="#a663752c3113ff8c63348c9efb7dc48ab">setStateRtfOnly</a>, <a href="#af231e89152d53e5c666cf3e18aaadb8f">setStateSetScope</a>, <a href="#a8d2996962fd97f18550674846502274b">setStateShowDate</a>, <a href="#a59640a5ec3ad9cbad272a6925f189542">setStateSkipTitle</a>, <a href="#a1e486e33ea997eb77a714fa5ff47f60d">setStateSnippet</a>, <a href="#aace7e3d8edd67ef73441256379557aea">setStateText</a>, <a href="#a7b9c9df4ada21e5fb5c5a7d5eac0fbd2">setStateTitle</a>, <a href="#a0b6da566ad128beaf9ccb68aa8d1c705">setStateTitleAttrValue</a>, <a href="#a746075b39ec5494c78a415f58d9a31a2">setStateVerbatim</a>, <a href="#ab8885a45a72652256b2889ada34466ef">setStateXmlCode</a>, <a href="#aeb9d0c6ca2a16fa2b0d11aaca48d29f7">setStateXmlOnly</a>, <a href="#aa411158a25cb6c8180ed3b371d5c76c0">setStateXRefItem</a>, <a href="#a354d1d1fc89286290f7cbcd0e2e1d3b0">startAutoList</a>, <a href="#a060403865cc48ca7f55af46d8272282c">token</a>, <a href="#ab8df06c9b8d04453c03cd380baa8e0b8">unputString</a> and <a href="#a70d2b66a1db91742f0de4c9239192fce">\~DocTokenizer</a>.
 </div>
 </div>
 
@@ -3350,7 +3412,7 @@ Referenced by <a href="#a1416a695181d2b7475649fcfa6328afc">cleanup</a>, <a href=
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a></li>

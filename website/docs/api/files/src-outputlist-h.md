@@ -49,7 +49,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type. <a href="/web-doxygen/docs/api/classes/outputcodedefer/#details">More...</a></p>
+Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type. <a href="/web-doxygen/docs/api/classes/outputcodedefer/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -63,7 +63,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Implementation that allows capturing calls made to the code interface to later invoke them on a <a href="/web-doxygen/docs/api/classes/outputcodelist">OutputCodeList</a> via <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166fa9eb6c282a2351da070e85fe63">replay()</a>. <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#details">More...</a></p>
+Implementation that allows capturing calls made to the code interface to later invoke them on a <a href="/web-doxygen/docs/api/classes/outputcodelist">OutputCodeList</a> via <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166fa9eb6c282a2351da070e85fe63">replay()</a>. <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a list of different code generators. <a href="/web-doxygen/docs/api/classes/outputcodelist/#details">More...</a></p>
+Class representing a list of different code generators. <a href="/web-doxygen/docs/api/classes/outputcodelist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -117,7 +117,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a list of output generators that are written to in parallel. <a href="/web-doxygen/docs/api/classes/outputlist/#details">More...</a></p>
+Class representing a list of output generators that are written to in parallel. <a href="/web-doxygen/docs/api/classes/outputlist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -247,7 +247,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -277,7 +278,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -307,7 +309,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -337,7 +340,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -367,7 +371,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -397,7 +402,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 

@@ -63,7 +63,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/doctokenizeryy-state">doctokenizerYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/doctokenizeryy-state">doctokenizerYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -263,7 +263,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>(s, len)&nbsp;&nbsp;&nbsp;do { for(int i=0;i&lt;(int)len;i++) if (s&#91;i&#93;=='\n') yyextra-&gt;yyLineNr++; } while(0)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>(s, len)&nbsp;&nbsp;&nbsp;do { for(int i=0;i&lt;(int)len;i++) if (s\[i\]=='\n') yyextra-&gt;yyLineNr++; } while(0)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -276,7 +276,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a86da2f5e3360caa90276fc24433d9512">unput_string</a>(yytext, yyleng)&nbsp;&nbsp;&nbsp;do { for (int i=(int)yyleng-1;i&gt;=0;i--) unput(yytext&#91;i&#93;); } while(0)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a86da2f5e3360caa90276fc24433d9512">unput_string</a>(yytext, yyleng)&nbsp;&nbsp;&nbsp;do { for (int i=(int)yyleng-1;i&gt;=0;i--) unput(yytext\[i\]); } while(0)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -289,7 +289,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -302,7 +302,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ae5b01ac2fa5a6ad5fb97559638abe686">YY_DECL</a>&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> doctokenizerYYlex(<a href="/web-doxygen/docs/api/files/src/code-l/#a9484188abbc459dafcbd4c96425fa70b">yyscan&#95;t</a> yyscanner)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ae5b01ac2fa5a6ad5fb97559638abe686">YY_DECL</a>&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> doctokenizerYYlex(<a href="/web-doxygen/docs/api/files/src/code-l/#a9484188abbc459dafcbd4c96425fa70b">yyscan\_t</a> yyscanner)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -315,7 +315,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac3286b18a2e91b4571b97df96a118e84">yyterminate</a>()&nbsp;&nbsp;&nbsp;return Token::make&#95;TK&#95;EOF()</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac3286b18a2e91b4571b97df96a118e84">yyterminate</a>()&nbsp;&nbsp;&nbsp;return Token::make\_TK\_EOF()</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -333,7 +333,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -352,7 +352,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -393,7 +394,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -431,7 +433,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal&#95;at</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>.
 </div>
 </div>
 
@@ -454,7 +456,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e907
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -506,7 +509,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -541,7 +545,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -679,7 +684,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1585 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 1585 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -735,7 +741,8 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 </div>
 </div>
 
@@ -758,7 +765,8 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2029,7 +2037,8 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2063,7 +2072,7 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define lineCount(s, len)&nbsp;&nbsp;&nbsp;do { for(int i=0;i&lt;(int)len;i++) if (s&#91;i&#93;=='\n') yyextra-&gt;yyLineNr++; } while(0)</td>
+<td class="doxyMemberName">#define lineCount(s, len)&nbsp;&nbsp;&nbsp;do { for(int i=0;i&lt;(int)len;i++) if (s\[i\]=='\n') yyextra-&gt;yyLineNr++; } while(0)</td>
 </tr>
 </table>
 </td>
@@ -2073,7 +2082,8 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2086,7 +2096,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### unput&#95;string {#a86da2f5e3360caa90276fc24433d9512}
+### unput\_string {#a86da2f5e3360caa90276fc24433d9512}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2095,7 +2105,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define unput_string(yytext, yyleng)&nbsp;&nbsp;&nbsp;do { for (int i=(int)yyleng-1;i&gt;=0;i--) unput(yytext&#91;i&#93;); } while(0)</td>
+<td class="doxyMemberName">#define unput_string(yytext, yyleng)&nbsp;&nbsp;&nbsp;do { for (int i=(int)yyleng-1;i&gt;=0;i--) unput(yytext\[i\]); } while(0)</td>
 </tr>
 </table>
 </td>
@@ -2105,7 +2115,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2116,7 +2127,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### YY&#95;DECL {#ae5b01ac2fa5a6ad5fb97559638abe686}
+### YY\_DECL {#ae5b01ac2fa5a6ad5fb97559638abe686}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2125,7 +2136,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_DECL&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> doctokenizerYYlex(<a href="/web-doxygen/docs/api/files/src/code-l/#a9484188abbc459dafcbd4c96425fa70b">yyscan&#95;t</a> yyscanner)</td>
+<td class="doxyMemberName">#define YY_DECL&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> doctokenizerYYlex(<a href="/web-doxygen/docs/api/files/src/code-l/#a9484188abbc459dafcbd4c96425fa70b">yyscan\_t</a> yyscanner)</td>
 </tr>
 </table>
 </td>
@@ -2135,7 +2146,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2146,7 +2158,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2155,7 +2167,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -2165,7 +2177,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2176,7 +2189,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2195,7 +2208,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2206,7 +2220,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2225,7 +2239,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2236,7 +2251,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2255,7 +2270,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2275,7 +2291,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define yyterminate()&nbsp;&nbsp;&nbsp;return Token::make&#95;TK&#95;EOF()</td>
+<td class="doxyMemberName">#define yyterminate()&nbsp;&nbsp;&nbsp;return Token::make\_TK\_EOF()</td>
 </tr>
 </table>
 </td>
@@ -2285,7 +2301,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 

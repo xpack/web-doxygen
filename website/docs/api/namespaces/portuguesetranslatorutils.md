@@ -113,9 +113,10 @@ namespace PortugueseTranslatorUtils { ... }
 
 
 
-<p>Returns true if the gender of the given component is masculine in Portuguese.</p>
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+Returns true if the gender of the given component is masculine in Portuguese.
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -152,7 +153,7 @@ namespace PortugueseTranslatorUtils { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba525098ea62cbd9b913ceea1265eade0d">ClassMemberHighlight::All</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba7046101c6dcadf2e24d1957e9f239554">ClassMemberHighlight::Enums</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba373da1884065adefbae311305eb2db9b">ClassMemberHighlight::EnumValues</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5bebad729fb1b23106e5472bec39ff0e8fa75">ClassMemberHighlight::Events</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5bebace63d3b887ff69dc23d3bcf921399f04">ClassMemberHighlight::Functions</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba5ddbeed21dbb7628f833e7e6d8119cb6">ClassMemberHighlight::Properties</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba414351f516224ef9dc574636365547d1">ClassMemberHighlight::Related</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba3032b799b82514421a73aa3c41963261">ClassMemberHighlight::Typedefs</a> and <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba19d9a8f4e05df2e1a3475c55060fac6b">ClassMemberHighlight::Variables</a>.
+References <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba525098ea62cbd9b913ceea1265eade0d">ClassMemberHighlight::All</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba7046101c6dcadf2e24d1957e9f239554">ClassMemberHighlight::Enums</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba373da1884065adefbae311305eb2db9b">ClassMemberHighlight::EnumValues</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5bebad729fb1b23106e5472bec39ff0e8fa75">ClassMemberHighlight::Events</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5bebace63d3b887ff69dc23d3bcf921399f04">ClassMemberHighlight::Functions</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba5ddbeed21dbb7628f833e7e6d8119cb6">ClassMemberHighlight::Properties</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba414351f516224ef9dc574636365547d1">ClassMemberHighlight::Related</a>, <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba3032b799b82514421a73aa3c41963261">ClassMemberHighlight::Typedefs</a> and <a href="/web-doxygen/docs/api/namespaces/classmemberhighlight/#a6048197e058a0592b709901a26fd5beba19d9a8f4e05df2e1a3475c55060fac6b">ClassMemberHighlight::Variables</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a8b33bb212cfc7cd14fb63d3e94a61c07">TranslatorBrazilian::trCompoundMembersDescriptionTotal</a> and <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a2150e491d4124a0b73f7b28be18c20b0">TranslatorPortuguese::trCompoundMembersDescriptionTotal</a>.
 </div>
@@ -183,9 +184,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a8b33b
 
 
 
-<p>Returns true if the gender of the given component is masculine in Portuguese.</p>
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+Returns true if the gender of the given component is masculine in Portuguese.
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -243,9 +245,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a9a15f
 
 
 
-<p>Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.</p>
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -300,9 +303,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a67d1a
 
 
 
-<p>Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.</p>
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.</p>
+Returns true if the gender of the given component is masculine in Brazilian Portuguese and European Portuguese.
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -338,7 +342,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#ae1d52
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/translator-br-h">translator_br.h</a></li>

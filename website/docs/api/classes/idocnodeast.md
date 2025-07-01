@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IDocNodeAST` Class Reference
 
-<p>opaque representation of the abstract syntax tree (AST) <a href="#details">More...</a></p>
+opaque representation of the abstract syntax tree (AST) <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class IDocNodeAST { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing the abstract syntax tree of a documentation block. <a href="/web-doxygen/docs/api/classes/docnodeast/#details">More...</a></p>
+Class representing the abstract syntax tree of a documentation block. <a href="/web-doxygen/docs/api/classes/docnodeast/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,9 +71,9 @@ class IDocNodeAST { ... }
 
 ## Description {#details}
 
-<p>opaque representation of the abstract syntax tree (AST)</p>
+opaque representation of the abstract syntax tree (AST)
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.
 
 <div class="doxySectionDef">
 
@@ -98,7 +98,8 @@ class IDocNodeAST { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.
 
 Reference <a href="#a503794169201cea4f02e4281b79b7ddb">isEmpty</a>.
 
@@ -110,7 +111,7 @@ Referenced by <a href="#a503794169201cea4f02e4281b79b7ddb">isEmpty</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a></li>

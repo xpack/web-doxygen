@@ -43,7 +43,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### YY&#95;FATAL&#95;ERROR {#ac0586b8b0b092d02f4ba7d45abe328f2}
+### YY\_FATAL\_ERROR {#ac0586b8b0b092d02f4ba7d45abe328f2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -62,6 +62,7 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
@@ -69,20 +70,20 @@ toc_max_heading_level: 4
   <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> msg1 = <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>;                                               \
   msg1 += "\n    lexical analyzer: ";                                \
   msg1 += <a href="/web-doxygen/docs/api/files/src/code-l/#acb5f8818546103e3b804ab8606b52c4a">getLexerFILE</a>();                                            \
-  if (!static&#95;cast&lt;yyguts&#95;t&#42;&gt;(yyscanner)-&gt;yyextra&#95;r-&gt;fileName.isEmpty()) \
+  if (!static\_cast&lt;yyguts\_t\*&gt;(yyscanner)-&gt;yyextra\_r-&gt;fileName.isEmpty()) \
   {                                                                  \
     msg1 += " (for: ";                                               \
-    msg1 += static&#95;cast&lt;yyguts&#95;t&#42;&gt;(yyscanner)-&gt;yyextra&#95;r-&gt;fileName;  \
+    msg1 += static\_cast&lt;yyguts\_t\*&gt;(yyscanner)-&gt;yyextra\_r-&gt;fileName;  \
     msg1 += ")";                                                     \
   }                                                                  \
   msg1 += "\n";                                                      \
-  yy&#95;fatal&#95;error( <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>(msg1) , yyscanner);                         \
+  yy\_fatal\_error( <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>(msg1) , yyscanner);                         \
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/doxygen-lex-h">doxygen_lex.h</a>.</p>
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/doxygen-lex-h">doxygen_lex.h</a>.
 
 <div class="doxyProgramListing">
 

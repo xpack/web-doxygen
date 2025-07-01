@@ -45,7 +45,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/sqlcodeyy-state">sqlcodeYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/sqlcodeyy-state">sqlcodeYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -310,7 +310,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -328,7 +328,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -347,7 +347,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -388,7 +389,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -450,9 +452,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385
 
 
 
-<p>counts the number of lines in the input</p>
 
-<p>Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+counts the number of lines in the input
+
+Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -504,7 +507,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -547,7 +551,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -591,7 +596,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -626,7 +632,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -676,7 +683,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -728,9 +736,10 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902d
 
 
 
-<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -812,7 +821,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda20158
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -855,7 +865,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 </div>
 </div>
 
@@ -878,7 +889,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -987,7 +999,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1017,7 +1030,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 ## Macro Definitions
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1026,7 +1039,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -1036,7 +1049,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1047,7 +1061,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 </div>
 
-### YY&#95;NEVER&#95;INTERACTIVE {#a15b85de192a189d5a31cdd518e001e6e}
+### YY\_NEVER\_INTERACTIVE {#a15b85de192a189d5a31cdd518e001e6e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1066,7 +1080,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1077,7 +1092,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1096,7 +1111,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1107,7 +1123,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1126,7 +1142,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1137,7 +1154,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1156,7 +1173,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 

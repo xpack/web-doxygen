@@ -23,34 +23,34 @@ toc_max_heading_level: 4
 ## Format {#config_format}
 
 
-<p>A configuration file is a free-form ASCII text file with a structure that is similar to that of a <span class="doxyComputerOutput">Makefile</span>, with the default name <span class="doxyComputerOutput">Doxyfile</span>. It is parsed by <span class="doxyComputerOutput">doxygen</span>. The file may contain tabs and newlines for formatting purposes. The statements in the file are case-sensitive.</p>
+A configuration file is a free-form ASCII text file with a structure that is similar to that of a <span class="doxyComputerOutput">Makefile</span>, with the default name <span class="doxyComputerOutput">Doxyfile</span>. It is parsed by <span class="doxyComputerOutput">doxygen</span>. The file may contain tabs and newlines for formatting purposes. The statements in the file are case-sensitive.
 
-<p>The configuration file essentially consists of a list of assignment statements. Each statement consists of a <span class="doxyComputerOutput">TAG_NAME</span> written in capitals, followed by the equal sign (<span class="doxyComputerOutput">=</span>) and one or more values. If the same tag is assigned more than once, the last assignment overwrites any earlier assignment. For tags that take a list as their argument, the <span class="doxyComputerOutput">+=</span> operator can be used instead of <span class="doxyComputerOutput">=</span> to append new values to the list. Values are sequences of non-blanks. If the value should contain one or more blanks it must be surrounded by quotes (<span class="doxyComputerOutput">"..."</span>). Multiple lines can be concatenated by inserting a backslash (<span class="doxyComputerOutput">\</span>) as the last non-whitespace character of a line.</p>
+The configuration file essentially consists of a list of assignment statements. Each statement consists of a <span class="doxyComputerOutput">TAG\_NAME</span> written in capitals, followed by the equal sign (<span class="doxyComputerOutput">=</span>) and one or more values. If the same tag is assigned more than once, the last assignment overwrites any earlier assignment. For tags that take a list as their argument, the <span class="doxyComputerOutput">+=</span> operator can be used instead of <span class="doxyComputerOutput">=</span> to append new values to the list. Values are sequences of non-blanks. If the value should contain one or more blanks it must be surrounded by quotes (<span class="doxyComputerOutput">"..."</span>). Multiple lines can be concatenated by inserting a backslash (<span class="doxyComputerOutput">\</span>) as the last non-whitespace character of a line.
 
-<p>Comments begin with the hash character (<span class="doxyComputerOutput">#</span>) and end at the end of the line. Comments may be placed anywhere within the file (except within quotes). Comments beginning with two hash characters (<span class="doxyComputerOutput">##</span>) are kept while updating the configuration file when they are placed in front of a <span class="doxyComputerOutput">TAG_NAME</span>, or at the beginning or end of the configuration file.</p>
+Comments begin with the hash character (<span class="doxyComputerOutput">#</span>) and end at the end of the line. Comments may be placed anywhere within the file (except within quotes). Comments beginning with two hash characters (<span class="doxyComputerOutput">##</span>) are kept while updating the configuration file when they are placed in front of a <span class="doxyComputerOutput">TAG\_NAME</span>, or at the beginning or end of the configuration file.
 
-<p>Environment variables can be expanded using the pattern <span class="doxyComputerOutput">$(ENV_VARIABLE_NAME)</span>. A small example:</p>
+Environment variables can be expanded using the pattern <span class="doxyComputerOutput">$(ENV\_VARIABLE\_NAME)</span>. A small example:
 
 
 <pre><code>DOT_PATH      = $(YOUR_DOT_PATH)
 </code></pre>
 
 
-<p>You can also include part of a configuration file from another configuration file using a <span class="doxyComputerOutput">@INCLUDE</span> tag as follows:</p>
+You can also include part of a configuration file from another configuration file using a <span class="doxyComputerOutput">@INCLUDE</span> tag as follows:
 
 
 <pre><code>@INCLUDE = config_file_name
 </code></pre>
 
 
-<p>The include file is searched in the current working directory. You can also specify a list of directories that should be searched before looking in the current working directory. Do this by putting a <span class="doxyComputerOutput">@INCLUDE_PATH</span> tag with these paths before the <span class="doxyComputerOutput">@INCLUDE</span> tag, e.g.:</p>
+The include file is searched in the current working directory. You can also specify a list of directories that should be searched before looking in the current working directory. Do this by putting a <span class="doxyComputerOutput">@INCLUDE\_PATH</span> tag with these paths before the <span class="doxyComputerOutput">@INCLUDE</span> tag, e.g.:
 
 
 <pre><code>@INCLUDE_PATH = my_config_dir
 </code></pre>
 
 
-<p>The configuration options can be divided into several categories. Below is an alphabetical index of the tags that are recognized followed by the descriptions of the tags grouped by category.</p>
+The configuration options can be divided into several categories. Below is an alphabetical index of the tags that are recognized followed by the descriptions of the tags grouped by category.
 
 
 <ul class="doxyTocList">
@@ -366,7 +366,7 @@ toc_max_heading_level: 4
 ## Project related configuration options {#config_project}
 
 
-<p><a id="cfg_doxyfile_encoding"></a></p>
+<a id="cfg_doxyfile_encoding"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">DOXYFILE_ENCODING</span></dt>
@@ -491,14 +491,14 @@ Minimum value: <span class="doxyComputerOutput">1</span>, maximum value: <span c
 <dd>This tag can be used to specify a number of aliases that act as commands in the documentation. An alias has the form:
 
 
-<pre><code>name=value
+<pre><code> name=value
 </code></pre>
 
 
 For example adding
 
 
-<pre><code>"sideeffect=@par Side Effects:^^"
+<pre><code> "sideeffect=@par Side Effects:^^"
 </code></pre>
 
 
@@ -542,7 +542,7 @@ The default value is: <span class="doxyComputerOutput">YES</span>.
 <dd>When the <span class="doxyComputerOutput">TOC_INCLUDE_HEADINGS</span> tag is set to a non-zero value, all headings up to that level are automatically included in the table of contents, even if they do not have an id attribute.
 
 :::info
-<p>This feature currently applies only to Markdown headings.</p>
+This feature currently applies only to Markdown headings.
 :::
 
 
@@ -619,13 +619,13 @@ The default value is: <span class="doxyComputerOutput">NO</span>.</dd>
 ## Build related configuration options {#config_build}
 
 
-<p><a id="cfg_extract_all"></a></p>
+<a id="cfg_extract_all"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">EXTRACT_ALL</span></dt>
 <dd>If the <span class="doxyComputerOutput">EXTRACT_ALL</span> tag is set to <span class="doxyComputerOutput">YES</span>, Doxygen will assume all entities in documentation are documented, even if no documentation was available. Private class members and static file members will be hidden unless the <a href="#cfg_extract_private">EXTRACT_PRIVATE</a> respectively <a href="#cfg_extract_static">EXTRACT_STATIC</a> tags are set to <span class="doxyComputerOutput">YES</span>.
 :::info
-<p>This will also disable the warnings about undocumented members that are normally produced when <a href="#cfg_warnings">WARNINGS</a> is set to <span class="doxyComputerOutput">YES</span>.</p>
+This will also disable the warnings about undocumented members that are normally produced when <a href="#cfg_warnings">WARNINGS</a> is set to <span class="doxyComputerOutput">YES</span>.
 :::
 
 
@@ -735,12 +735,12 @@ The default value is: <span class="doxyComputerOutput">NO</span>.
 <dd>If the <span class="doxyComputerOutput">SORT_MEMBERS_CTORS_1ST</span> tag is set to <span class="doxyComputerOutput">YES</span> then Doxygen will sort the (brief and detailed) documentation of class members so that constructors and destructors are listed first. If set to <span class="doxyComputerOutput">NO</span> the constructors will appear in the respective orders defined by <a href="#cfg_sort_brief_docs">SORT_BRIEF_DOCS</a> and <a href="#cfg_sort_member_docs">SORT_MEMBER_DOCS</a>.
 
 :::info
-<p>If <a href="#cfg_sort_brief_docs">SORT_BRIEF_DOCS</a> is set to <span class="doxyComputerOutput">NO</span> this option is ignored for sorting brief member documentation.</p>
+If <a href="#cfg_sort_brief_docs">SORT_BRIEF_DOCS</a> is set to <span class="doxyComputerOutput">NO</span> this option is ignored for sorting brief member documentation.
 :::
 
 
 :::info
-<p>If <a href="#cfg_sort_member_docs">SORT_MEMBER_DOCS</a> is set to <span class="doxyComputerOutput">NO</span> this option is ignored for sorting detailed member documentation.</p>
+If <a href="#cfg_sort_member_docs">SORT_MEMBER_DOCS</a> is set to <span class="doxyComputerOutput">NO</span> this option is ignored for sorting detailed member documentation.
 :::
 
 
@@ -754,12 +754,12 @@ The default value is: <span class="doxyComputerOutput">NO</span>.
 <dd>If the <span class="doxyComputerOutput">SORT_BY_SCOPE_NAME</span> tag is set to <span class="doxyComputerOutput">YES</span>, the class list will be sorted by fully-qualified names, including namespaces. If set to <span class="doxyComputerOutput">NO</span>, the class list will be sorted only by class name, not including the namespace part.
 
 :::info
-<p>This option is not very useful if <a href="#cfg_hide_scope_names">HIDE_SCOPE_NAMES</a> is set to <span class="doxyComputerOutput">YES</span>.</p>
+This option is not very useful if <a href="#cfg_hide_scope_names">HIDE_SCOPE_NAMES</a> is set to <span class="doxyComputerOutput">YES</span>.
 :::
 
 
 :::info
-<p>This option applies only to the class list, not to the alphabetical list.</p>
+This option applies only to the class list, not to the alphabetical list.
 :::
 
 
@@ -812,7 +812,7 @@ The default value is: <span class="doxyComputerOutput">YES</span>.
  Example of using a shell script as a filter for Unix:
 
 
-<pre><code>FILE_VERSION_FILTER = "/bin/sh versionfilter.sh"
+<pre><code> FILE_VERSION_FILTER = "/bin/sh versionfilter.sh"
 </code></pre>
 
 
@@ -854,19 +854,19 @@ Note that if you run Doxygen from a directory containing a file called <span cla
 <dd>The <span class="doxyComputerOutput">EXTERNAL_TOOL_PATH</span> tag can be used to extend the search path (PATH environment variable) so that external tools such as <span class="doxyComputerOutput">latex</span> and <span class="doxyComputerOutput">gs</span> can be found.
 
 :::info
-<p>Directories specified with EXTERNAL_TOOL_PATH are added in front of the path already specified by the PATH variable, and are added in the order specified.</p>
+Directories specified with EXTERNAL_TOOL_PATH are added in front of the path already specified by the PATH variable, and are added in the order specified.
 :::
 
 
 :::info
-<p>This option is particularly useful for macOS version 14 (Sonoma) and higher, when running Doxygen from Doxywizard, because in this case any user-defined changes to the PATH are ignored. A typical example on macOS is to set</p>
+This option is particularly useful for macOS version 14 (Sonoma) and higher, when running Doxygen from Doxywizard, because in this case any user-defined changes to the PATH are ignored. A typical example on macOS is to set
 
 
 <pre><code>EXTERNAL_TOOL_PATH = /Library/TeX/texbin /usr/local/bin
 </code></pre>
 
 
-<p>together with the standard path, the full search path used by doxygen when launching external tools will then become</p>
+together with the standard path, the full search path used by doxygen when launching external tools will then become
 
 
 <pre><code>PATH=/Library/TeX/texbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
@@ -877,7 +877,7 @@ Note that if you run Doxygen from a directory containing a file called <span cla
 ## Configuration options related to warning and progress messages {#config_messages}
 
 
-<p><a id="cfg_quiet"></a></p>
+<a id="cfg_quiet"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">QUIET</span></dt>
@@ -924,7 +924,7 @@ The default value is: <span class="doxyComputerOutput">NO</span>.
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_warn_line_format">WARN_LINE_FORMAT</a></p>
+<a href="#cfg_warn_line_format">WARN_LINE_FORMAT</a>
 </dd>
 </dl>
 
@@ -936,13 +936,13 @@ The default value is: <span class="doxyComputerOutput">$file:$line: $text</span>
 Example:
 
 
-<pre><code>WARN_LINE_FORMAT = "'vi $file +$line'"
+<pre><code>  WARN_LINE_FORMAT = "'vi $file +$line'"
 </code></pre>
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_warn_format">WARN_FORMAT</a></p>
+<a href="#cfg_warn_format">WARN_FORMAT</a>
 </dd>
 </dl>
 
@@ -956,13 +956,13 @@ The default value is: <span class="doxyComputerOutput">at line $line of file $fi
 ## Configuration options related to the input files {#config_input}
 
 
-<p><a id="cfg_input"></a></p>
+<a id="cfg_input"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">INPUT</span></dt>
 <dd>The <span class="doxyComputerOutput">INPUT</span> tag is used to specify the files and/or directories that contain documented source files. You may enter file names like <span class="doxyComputerOutput">myfile.cpp</span> or directories like <span class="doxyComputerOutput">/usr/src/myproject</span>. Separate the files or directories with spaces. See also <a href="#cfg_file_patterns">FILE_PATTERNS</a> and <a href="#cfg_extension_mapping">EXTENSION_MAPPING</a>
 :::info
-<p>If this tag is empty the current directory is searched.</p>
+If this tag is empty the current directory is searched.
 :::
 
 
@@ -972,7 +972,7 @@ The default value is: <span class="doxyComputerOutput">at line $line of file $fi
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_input_file_encoding">INPUT_FILE_ENCODING</a></p>
+<a href="#cfg_input_file_encoding">INPUT_FILE_ENCODING</a>
 </dd>
 </dl>
 
@@ -984,7 +984,7 @@ The default value is: <span class="doxyComputerOutput">UTF-8</span>.
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_input_encoding">INPUT_ENCODING</a> for further information on supported encodings.</p>
+<a href="#cfg_input_encoding">INPUT_ENCODING</a> for further information on supported encodings.
 </dd>
 </dl>
 
@@ -1075,7 +1075,7 @@ Minimum value: <span class="doxyComputerOutput">7</span>, maximum value: <span c
 ## Configuration options related to source browsing {#config_source_browser}
 
 
-<p><a id="cfg_source_browser"></a></p>
+<a id="cfg_source_browser"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">SOURCE_BROWSER</span></dt>
@@ -1131,7 +1131,7 @@ This tag requires that the tag <a href="#cfg_source_browser">SOURCE_BROWSER</a> 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p>Section <a href="/web-doxygen/docs/pages/commands/#cmdclass">\class</a>.</p>
+Section <a href="/web-doxygen/docs/pages/commands/#cmdclass">\class</a>.
 </dd>
 </dl>
 
@@ -1141,7 +1141,7 @@ The default value is: <span class="doxyComputerOutput">YES</span>.
 <dt><span class="doxyComputerOutput">CLANG_ASSISTED_PARSING</span></dt>
 <dd>If the <span class="doxyComputerOutput">CLANG_ASSISTED_PARSING</span> tag is set to <span class="doxyComputerOutput">YES</span> then Doxygen will use the <a href="http://clang.llvm.org/">clang parser</a> for more accurate parsing at the cost of reduced performance. This can be particularly helpful with template rich C++ code for which Doxygen's built-in parser lacks the necessary type information.
 :::info
-<p>The availability of this option depends on whether or not Doxygen was generated with the <span class="doxyComputerOutput">-Duse_libclang=ON</span> option for CMake.</p>
+The availability of this option depends on whether or not Doxygen was generated with the <span class="doxyComputerOutput">-Duse_libclang=ON</span> option for CMake.
 :::
 
 
@@ -1157,14 +1157,14 @@ This tag requires that the tag <a href="#cfg_clang_assisted_parsing">CLANG_ASSIS
 <dt><span class="doxyComputerOutput">CLANG_DATABASE_PATH</span></dt>
 <dd>If clang assisted parsing is enabled you can provide the clang parser with the path to the directory containing a file called <span class="doxyComputerOutput">compile_commands.json</span>. This file is the <a href="http://clang.llvm.org/docs/HowToSetupToolingForLLVM.html">compilation database</a> containing the options used when the source files were built. This is equivalent to specifying the <span class="doxyComputerOutput">-p</span> option to a clang tool, such as <span class="doxyComputerOutput">clang-check</span>. These options will then be passed to the parser. Any options specified with <a href="#cfg_clang_options">CLANG_OPTIONS</a> will be added as well.
 :::info
-<p>The availability of this option depends on whether or not Doxygen was generated with the <span class="doxyComputerOutput">-Duse_libclang=ON</span> option for CMake.</p>
+The availability of this option depends on whether or not Doxygen was generated with the <span class="doxyComputerOutput">-Duse_libclang=ON</span> option for CMake.
 :::</dd>
 </dl>
 
 ## Configuration options related to the alphabetical class index {#config_index}
 
 
-<p><a id="cfg_alphabetical_index"></a></p>
+<a id="cfg_alphabetical_index"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">ALPHABETICAL_INDEX</span></dt>
@@ -1179,7 +1179,7 @@ This tag requires that the tag <a href="#cfg_alphabetical_index">ALPHABETICAL_IN
 ## Configuration options related to the HTML output {#config_html}
 
 
-<p><a id="cfg_generate_html"></a></p>
+<a id="cfg_generate_html"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_HTML</span></dt>
@@ -1207,7 +1207,7 @@ This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is
 and then modify the file <span class="doxyComputerOutput">new_header.html</span>.
 See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for information on how to generate the default header that Doxygen normally uses.
 :::info
-<p>The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following markers have a special meaning inside the header and footer:</p>
+The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following markers have a special meaning inside the header and footer:
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">$title</span></dt>
@@ -1257,7 +1257,7 @@ See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</
 To cope with differences in the layout of the header and footer that depend on configuration settings, the header can also contain special blocks that will be copied to the output or skipped depending on the configuration. Such blocks have the following form:
 
 
-<pre><code>&lt;!--BEGIN BLOCKNAME--&gt;
+<pre><code> &lt;!--BEGIN BLOCKNAME--&gt;
  Some context copied when condition BLOCKNAME holds
  &lt;!--END BLOCKNAME--&gt;
  &lt;!--BEGIN !BLOCKNAME--&gt;
@@ -1298,7 +1298,7 @@ This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is
 <dd>The <span class="doxyComputerOutput">HTML_STYLESHEET</span> tag can be used to specify a user-defined cascading style sheet that is used by each HTML page. It can be used to fine-tune the look of the HTML output. If left blank Doxygen will generate a default style sheet.
 See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for information on how to generate the style sheet that Doxygen normally uses.
 :::info
-<p>It is recommended to use <a href="#cfg_html_extra_stylesheet">HTML_EXTRA_STYLESHEET</a> instead of this tag, as it is more robust and this tag (<span class="doxyComputerOutput">HTML_STYLESHEET</span>) will in the future become obsolete.</p>
+It is recommended to use <a href="#cfg_html_extra_stylesheet">HTML_EXTRA_STYLESHEET</a> instead of this tag, as it is more robust and this tag (<span class="doxyComputerOutput">HTML_STYLESHEET</span>) will in the future become obsolete.
 :::
 
 
@@ -1307,12 +1307,12 @@ This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is
 <dd>The <span class="doxyComputerOutput">HTML_EXTRA_STYLESHEET</span> tag can be used to specify additional user-defined cascading style sheets that are included after the standard style sheets created by Doxygen. Using this option one can overrule certain style aspects. This is preferred over using <a href="#cfg_html_stylesheet">HTML_STYLESHEET</a> since it does not replace the standard style sheet and is therefore more robust against future updates. Doxygen will copy the style sheet files to the output directory.
 
 :::info
-<p>The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).</p>
+The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).
 :::
 
 
 :::info
-<p>Since the styling of scrollbars can currently not be overruled in Webkit/Chromium, the styling will be left out of the default doxygen.css if one or more extra stylesheets have been specified. So if scrollbar customization is desired it has to be added explicitly. Here is an example style sheet that gives the contents area a fixed width:</p>
+Since the styling of scrollbars can currently not be overruled in Webkit/Chromium, the styling will be left out of the default doxygen.css if one or more extra stylesheets have been specified. So if scrollbar customization is desired it has to be added explicitly. Here is an example style sheet that gives the contents area a fixed width:
 
 
 <pre><code>body {
@@ -1585,7 +1585,7 @@ This tag requires that the tag <a href="#cfg_use_mathjax">USE_MATHJAX</a> is set
 with in the file <span class="doxyComputerOutput">disableRenderer.js</span>:
 
 
-<pre><code>MathJax.Hub.Config({
+<pre><code>  MathJax.Hub.Config({
    menuSettings: {
     showRenderer: false,
    }
@@ -1637,7 +1637,7 @@ This tag requires that the tag <a href="#cfg_searchengine">SEARCHENGINE</a> is s
 ## Configuration options related to the LaTeX output {#config_latex}
 
 
-<p><a id="cfg_generate_latex"></a></p>
+<a id="cfg_generate_latex"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_LATEX</span></dt>
@@ -1656,14 +1656,14 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 <dt><span class="doxyComputerOutput">MAKEINDEX_CMD_NAME</span></dt>
 <dd>The <span class="doxyComputerOutput">MAKEINDEX_CMD_NAME</span> tag can be used to specify the command name to generate index for <code>$\mbox{\LaTeX}$</code>.
 :::info
-<p>This tag is used in the <span class="doxyComputerOutput">Makefile</span> / <span class="doxyComputerOutput">make.bat</span>.</p>
+This tag is used in the <span class="doxyComputerOutput">Makefile</span> / <span class="doxyComputerOutput">make.bat</span>.
 :::
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_latex_makeindex_cmd">LATEX_MAKEINDEX_CMD</a> for the part in the generated output file (<span class="doxyComputerOutput">.tex</span>).</p>
+<a href="#cfg_latex_makeindex_cmd">LATEX_MAKEINDEX_CMD</a> for the part in the generated output file (<span class="doxyComputerOutput">.tex</span>).
 </dd>
 </dl>
 
@@ -1673,14 +1673,14 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 <dt><span class="doxyComputerOutput">LATEX_MAKEINDEX_CMD</span></dt>
 <dd>The <span class="doxyComputerOutput">LATEX_MAKEINDEX_CMD</span> tag can be used to specify the command name to generate index for <code>$\mbox{\LaTeX}$</code>. In case there is no backslash (<span class="doxyComputerOutput">\</span>) as first character it will be automatically added in the <code>$\mbox{\LaTeX}$</code> code.
 :::info
-<p>This tag is used in the generated output file (<span class="doxyComputerOutput">.tex</span>).</p>
+This tag is used in the generated output file (<span class="doxyComputerOutput">.tex</span>).
 :::
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#cfg_makeindex_cmd_name">MAKEINDEX_CMD_NAME</a> for the part in the <span class="doxyComputerOutput">Makefile</span> / <span class="doxyComputerOutput">make.bat</span>.</p>
+<a href="#cfg_makeindex_cmd_name">MAKEINDEX_CMD_NAME</a> for the part in the <span class="doxyComputerOutput">Makefile</span> / <span class="doxyComputerOutput">make.bat</span>.
 </dd>
 </dl>
 
@@ -1701,7 +1701,7 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 To get the <span class="doxyComputerOutput">times</span> font for instance you can specify :
 
 
-<pre><code>EXTRA_PACKAGES=times
+<pre><code>  EXTRA_PACKAGES=times
 or
   EXTRA_PACKAGES={times}
 </code></pre>
@@ -1710,7 +1710,7 @@ or
 To use the option <span class="doxyComputerOutput">intlimits</span> with the <span class="doxyComputerOutput">amsmath</span> package you can specify:
 
 
-<pre><code>EXTRA_PACKAGES=[intlimits]{amsmath}
+<pre><code>   EXTRA_PACKAGES=[intlimits]{amsmath}
 </code></pre>
 
 
@@ -1730,7 +1730,7 @@ See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</
 <br/>
 Note: Only use a user-defined header if you know what you are doing!
 :::info
-<p>The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following commands have a special meaning inside the header (and footer):</p>
+The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following commands have a special meaning inside the header (and footer):
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">$title</span></dt>
@@ -1796,7 +1796,7 @@ Note: Only use a user-defined header if you know what you are doing!
 To cope with differences in the layout of the header and footer that depend on configuration settings, the header and footer can also contain special blocks that will be copied to the output or skipped depending on the configuration. Such blocks have the following form:
 
 
-<pre><code>%%BEGIN BLOCKNAME
+<pre><code> %%BEGIN BLOCKNAME
  Some context copied when condition BLOCKNAME holds
  %%END BLOCKNAME
  %%BEGIN !BLOCKNAME
@@ -1846,7 +1846,7 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 <dd>The <span class="doxyComputerOutput">LATEX_EXTRA_STYLESHEET</span> tag can be used to specify additional user-defined <code>$\mbox{\LaTeX}$</code> style sheets that are included after the standard style sheets created by Doxygen. Using this option one can overrule certain style aspects. Doxygen will copy the style sheet files to the output directory.
 
 :::info
-<p>The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).</p>
+The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).
 :::
 
 
@@ -1885,7 +1885,7 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 ## Configuration options related to the RTF output {#config_rtf}
 
 
-<p><a id="cfg_generate_rtf"></a></p>
+<a id="cfg_generate_rtf"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_RTF</span></dt>
@@ -1922,7 +1922,7 @@ This tag requires that the tag <a href="#cfg_generate_rtf">GENERATE_RTF</a> is s
 ## Configuration options related to the man page output {#config_man}
 
 
-<p><a id="cfg_generate_man"></a></p>
+<a id="cfg_generate_man"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_MAN</span></dt>
@@ -1949,7 +1949,7 @@ This tag requires that the tag <a href="#cfg_generate_man">GENERATE_MAN</a> is s
 ## Configuration options related to the XML output {#config_xml}
 
 
-<p><a id="cfg_generate_xml"></a></p>
+<a id="cfg_generate_xml"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_XML</span></dt>
@@ -1973,7 +1973,7 @@ This tag requires that the tag <a href="#cfg_generate_xml">GENERATE_XML</a> is s
 ## Configuration options related to the DOCBOOK output {#config_docbook}
 
 
-<p><a id="cfg_generate_docbook"></a></p>
+<a id="cfg_generate_docbook"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_DOCBOOK</span></dt>
@@ -1989,7 +1989,7 @@ This tag requires that the tag <a href="#cfg_generate_docbook">GENERATE_DOCBOOK<
 ## Configuration options for the AutoGen Definitions output {#config_autogen}
 
 
-<p><a id="cfg_generate_autogen_def"></a></p>
+<a id="cfg_generate_autogen_def"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_AUTOGEN_DEF</span></dt>
@@ -2000,7 +2000,7 @@ The default value is: <span class="doxyComputerOutput">NO</span>.</dd>
 ## Configuration options related to Sqlite3 output {#config_sqlite3}
 
 
-<p><a id="cfg_generate_sqlite3"></a></p>
+<a id="cfg_generate_sqlite3"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_SQLITE3</span></dt>
@@ -2020,7 +2020,7 @@ This tag requires that the tag <a href="#cfg_generate_sqlite3">GENERATE_SQLITE3<
 ## Configuration options related to the Perl module output {#config_perlmod}
 
 
-<p><a id="cfg_generate_perlmod"></a></p>
+<a id="cfg_generate_perlmod"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">GENERATE_PERLMOD</span></dt>
@@ -2045,7 +2045,7 @@ This tag requires that the tag <a href="#cfg_generate_perlmod">GENERATE_PERLMOD<
 ## Configuration options related to the preprocessor {#config_preprocessor}
 
 
-<p><a id="cfg_enable_preprocessing"></a></p>
+<a id="cfg_enable_preprocessing"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">ENABLE_PREPROCESSING</span></dt>
@@ -2086,7 +2086,7 @@ This tag requires that the tag <a href="#cfg_enable_preprocessing">ENABLE_PREPRO
 ## Configuration options related to external references {#config_external}
 
 
-<p><a id="cfg_tagfiles"></a></p>
+<a id="cfg_tagfiles"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">TAGFILES</span></dt>
@@ -2094,20 +2094,20 @@ This tag requires that the tag <a href="#cfg_enable_preprocessing">ENABLE_PREPRO
 For each tag file the location of the external documentation should be added. The format of a tag file without this location is as follows:
 
 
-<pre><code>TAGFILES = file1 file2 ...
+<pre><code>  TAGFILES = file1 file2 ...
 </code></pre>
 
 
 Adding location for the tag files is done as follows:
 
 
-<pre><code>TAGFILES = file1=loc1 "file2 = loc2" ...
+<pre><code>  TAGFILES = file1=loc1 "file2 = loc2" ...
 </code></pre>
 
 
 where <span class="doxyComputerOutput">loc1</span> and <span class="doxyComputerOutput">loc2</span> can be relative or absolute paths or URLs. See the section <a href="/web-doxygen/docs/pages/external">Linking to external documentation</a> for more information about the use of tag files.
 :::info
-<p>Each tag file must have a unique name (where the name does <em>NOT</em> include the path). If a tag file is not located in the directory in which Doxygen is run, you must also specify the path to the tagfile here.</p>
+Each tag file must have a unique name (where the name does <em>NOT</em> include the path). If a tag file is not located in the directory in which Doxygen is run, you must also specify the path to the tagfile here.
 :::
 
 
@@ -2131,7 +2131,7 @@ The default value is: <span class="doxyComputerOutput">YES</span>.</dd>
 ## Configuration options related to diagram generator tools {#config_dot}
 
 
-<p><a id="cfg_hide_undoc_relations"></a></p>
+<a id="cfg_hide_undoc_relations"></a>
 
 <dl class="doxyVariableList">
 <dt><span class="doxyComputerOutput">HIDE_UNDOC_RELATIONS</span></dt>
@@ -2287,7 +2287,7 @@ This tag requires that the tag <a href="#cfg_have_dot">HAVE_DOT</a> is set to <s
 <dd>If the <span class="doxyComputerOutput">GENERATE_LEGEND</span> tag is set to <span class="doxyComputerOutput">YES</span> Doxygen will generate a legend page explaining the meaning of the various boxes and arrows in the dot generated graphs.
 
 :::info
-<p>This tag requires that <a href="#cfg_uml_look">UML_LOOK</a> isn't set, i.e. the Doxygen internal graphical representation for inheritance and collaboration diagrams is used.</p>
+This tag requires that <a href="#cfg_uml_look">UML_LOOK</a> isn't set, i.e. the Doxygen internal graphical representation for inheritance and collaboration diagrams is used.
 :::
 
 
@@ -2309,14 +2309,14 @@ The default value is: <span class="doxyComputerOutput">YES</span>.
 ## Examples {#config_examples}
 
 
-<p>Suppose you have a simple project consisting of two files: a source file <span class="doxyComputerOutput">example.cc</span> and a header file <span class="doxyComputerOutput">example.h</span>. Then a minimal configuration file is as simple as:</p>
+Suppose you have a simple project consisting of two files: a source file <span class="doxyComputerOutput">example.cc</span> and a header file <span class="doxyComputerOutput">example.h</span>. Then a minimal configuration file is as simple as:
 
 
 <pre><code>INPUT            = example.cc example.h
 </code></pre>
 
 
-<p>Assuming the example makes use of Qt classes and <span class="doxyComputerOutput">perl</span> is located in <span class="doxyComputerOutput">/usr/bin</span>, a more realistic configuration file would be:</p>
+Assuming the example makes use of Qt classes and <span class="doxyComputerOutput">perl</span> is located in <span class="doxyComputerOutput">/usr/bin</span>, a more realistic configuration file would be:
 
 
 <pre><code>PROJECT_NAME     = Example
@@ -2327,7 +2327,7 @@ SEARCHENGINE     = NO
 </code></pre>
 
 
-<p>To generate the documentation for the <a href="https://sourceforge.net/projects/qdbttabular/">QdbtTabular</a> package I have used the following configuration file:</p>
+To generate the documentation for the <a href="https://sourceforge.net/projects/qdbttabular/">QdbtTabular</a> package I have used the following configuration file:
 
 
 <pre><code>PROJECT_NAME     = QdbtTabular
@@ -2341,7 +2341,7 @@ SEARCHENGINE     = YES
 </code></pre>
 
 
-<p>To regenerate the Qt-1.44 documentation from the sources, you could use the following configuration file:</p>
+To regenerate the Qt-1.44 documentation from the sources, you could use the following configuration file:
 
 
 <pre><code>PROJECT_NAME         = Qt
@@ -2382,7 +2382,7 @@ RECURSIVE            = YES
 </code></pre>
 
 
-<p>For the Qt-2.1 sources I recommend to use the following settings:</p>
+For the Qt-2.1 sources I recommend to use the following settings:
 
 
 <pre><code>PROJECT_NAME          = Qt
@@ -2412,7 +2412,7 @@ EXPAND_AS_DEFINED     = Q_OBJECT_FAKE Q_OBJECT ACTIVATE_SIGNAL_WITH_PARAM \
 </code></pre>
 
 
-<p>Here Doxygen's preprocessor is used to substitute some macro names that are normally substituted by the C preprocessor, but without doing full macro expansion.</p>
+Here Doxygen's preprocessor is used to substitute some macro names that are normally substituted by the C preprocessor, but without doing full macro expansion.
  
 Go to the <a href="/docs/pages/commands/">next</a> section or return to the
  <a href="/docs/">index</a>.

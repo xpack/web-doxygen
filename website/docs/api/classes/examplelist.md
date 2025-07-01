@@ -64,7 +64,7 @@ class ExampleList { ... }
 </table>
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ class ExampleList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -123,7 +124,7 @@ References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e6
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/example-h">example.h</a></li>

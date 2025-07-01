@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SearchIndex` Class Reference
 
-<p>Writes search index for doxygen provided server based search engine that uses PHP. <a href="#details">More...</a></p>
+Writes search index for doxygen provided server based search engine that uses PHP. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -199,9 +199,9 @@ class SearchIndex { ... }
 
 ## Description {#details}
 
-<p>Writes search index for doxygen provided server based search engine that uses PHP.</p>
+Writes search index for doxygen provided server based search engine that uses PHP.
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxySectionDef">
 
@@ -226,7 +226,8 @@ class SearchIndex { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -238,7 +239,7 @@ class SearchIndex { ... }
 </div>
 
 
-References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a>.
+References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m\_index</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a>.
 </div>
 </div>
 
@@ -267,7 +268,8 @@ References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -280,7 +282,7 @@ References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a> and <a h
 </div>
 
 
-References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a327880ec7a71c2658cfa974939ddef30">g&#95;searchIndexMutex</a>.
+References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a327880ec7a71c2658cfa974939ddef30">g\_searchIndexMutex</a>.
 </div>
 </div>
 
@@ -303,7 +305,8 @@ References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -411,7 +414,7 @@ References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href=
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a327880ec7a71c2658cfa974939ddef30">g&#95;searchIndexMutex</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a73c07c74e91e201e5c9dc6f60528f229">PageDef::hasTitle</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aa06f7bb4f5d2ed2dee01f390446be6c2">m&#95;url2IdMap</a>, <a href="#a40461e0e23f44bd6c1ec8fd42fd3a54e">m&#95;urlIndex</a>, <a href="#ac48958318e80356f3dd535cdf564dbe3">m&#95;urlMaxIndex</a>, <a href="#a2d410345f7d657bb9d6a1ba014f09560">m&#95;urls</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#aae487f3fd3ce36b104cb6b82e287cfaa">PageDef::title</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#a7697e578ee832ee5d8e992bf6dc93617">toPageDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.
+References <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a327880ec7a71c2658cfa974939ddef30">g\_searchIndexMutex</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a73c07c74e91e201e5c9dc6f60528f229">PageDef::hasTitle</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aa06f7bb4f5d2ed2dee01f390446be6c2">m\_url2IdMap</a>, <a href="#a40461e0e23f44bd6c1ec8fd42fd3a54e">m\_urlIndex</a>, <a href="#ac48958318e80356f3dd535cdf564dbe3">m\_urlMaxIndex</a>, <a href="#a2d410345f7d657bb9d6a1ba014f09560">m\_urls</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#aae487f3fd3ce36b104cb6b82e287cfaa">PageDef::title</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#a7697e578ee832ee5d8e992bf6dc93617">toPageDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.
 </div>
 </div>
 
@@ -434,7 +437,8 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#a239fe97763880615334
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -568,7 +572,7 @@ References <a href="/web-doxygen/docs/api/classes/classdef/#a239fe97763880615334
 </div>
 
 
-References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a>, <a href="#a2d410345f7d657bb9d6a1ba014f09560">m&#95;urls</a>, <a href="#a94c8476a68e3394f72ffe2d0dea68518">m&#95;words</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a61aa3a8c310a432e4925f68741d9bb21">writeInt</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a0b6667c7bad976edc1ef63202c87defe">writeString</a>.
+References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m\_index</a>, <a href="#a2d410345f7d657bb9d6a1ba014f09560">m\_urls</a>, <a href="#a94c8476a68e3394f72ffe2d0dea68518">m\_words</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a61aa3a8c310a432e4925f68741d9bb21">writeInt</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a0b6667c7bad976edc1ef63202c87defe">writeString</a>.
 </div>
 </div>
 
@@ -597,7 +601,8 @@ References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
+Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -645,7 +650,7 @@ References <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a>, <a href
 </div>
 
 
-References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a7d789071ce6a6464fb8ce89eb65083d3">charsToIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae052d7dcea3289dd204d8d425cf9d4c9">getPrefixIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m&#95;index</a>, <a href="#a40461e0e23f44bd6c1ec8fd42fd3a54e">m&#95;urlIndex</a>, <a href="#a94c8476a68e3394f72ffe2d0dea68518">m&#95;words</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-cpp/#a7d789071ce6a6464fb8ce89eb65083d3">charsToIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae052d7dcea3289dd204d8d425cf9d4c9">getPrefixIndex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a7d3b63b57ca232db7b18b1a5d9861101">m\_index</a>, <a href="#a40461e0e23f44bd6c1ec8fd42fd3a54e">m\_urlIndex</a>, <a href="#a94c8476a68e3394f72ffe2d0dea68518">m\_words</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a3682b0b970d4422622723a8abe4d35ca">addWord</a> and <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>.
 </div>
@@ -657,7 +662,7 @@ Referenced by <a href="#a3682b0b970d4422622723a8abe4d35ca">addWord</a> and <a hr
 
 ## Private Member Attributes
 
-### m&#95;index {#a7d3b63b57ca232db7b18b1a5d9861101}
+### m\_index {#a7d3b63b57ca232db7b18b1a5d9861101}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -676,7 +681,8 @@ Referenced by <a href="#a3682b0b970d4422622723a8abe4d35ca">addWord</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -689,7 +695,7 @@ Referenced by <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a hr
 </div>
 </div>
 
-### m&#95;url2IdMap {#aa06f7bb4f5d2ed2dee01f390446be6c2}
+### m\_url2IdMap {#aa06f7bb4f5d2ed2dee01f390446be6c2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -708,7 +714,8 @@ Referenced by <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -721,7 +728,7 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a>.
 </div>
 </div>
 
-### m&#95;urlIndex {#a40461e0e23f44bd6c1ec8fd42fd3a54e}
+### m\_urlIndex {#a40461e0e23f44bd6c1ec8fd42fd3a54e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -740,7 +747,8 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -753,7 +761,7 @@ Referenced by <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a> and <a
 </div>
 </div>
 
-### m&#95;urlMaxIndex {#ac48958318e80356f3dd535cdf564dbe3}
+### m\_urlMaxIndex {#ac48958318e80356f3dd535cdf564dbe3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -772,7 +780,8 @@ Referenced by <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -785,7 +794,7 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a>.
 </div>
 </div>
 
-### m&#95;urls {#a2d410345f7d657bb9d6a1ba014f09560}
+### m\_urls {#a2d410345f7d657bb9d6a1ba014f09560}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -804,7 +813,8 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -817,7 +827,7 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a> and
 </div>
 </div>
 
-### m&#95;words {#a94c8476a68e3394f72ffe2d0dea68518}
+### m\_words {#a94c8476a68e3394f72ffe2d0dea68518}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -836,7 +846,8 @@ Referenced by <a href="#ac8f6bb104126c1406d2d6e5ad368822c">setCurrentDoc</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -853,7 +864,7 @@ Referenced by <a href="#a32913d63f72fe21010e49b4f77bc5cfd">addWordRec</a> and <a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a></li>

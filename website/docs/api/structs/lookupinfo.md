@@ -121,7 +121,7 @@ struct LookupInfo { ... }
 </table>
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -151,7 +151,8 @@ struct LookupInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 </div>
 </div>
 
@@ -179,7 +180,8 @@ struct LookupInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -218,7 +220,8 @@ References <a href="#a9421fd652d8b718b86eb095de4483146">definition</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -250,7 +253,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d2365854
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -282,7 +286,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -314,7 +319,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -331,7 +337,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad3dd00ae1c
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a></li>

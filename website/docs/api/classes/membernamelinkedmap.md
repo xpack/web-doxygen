@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `MemberNameLinkedMap` Class Reference
 
-<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="#details">More...</a></p>
+Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class MemberNameLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,9 +71,9 @@ class MemberNameLinkedMap { ... }
 
 ## Description {#details}
 
-<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects.</p>
+Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects.
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.</p>
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.
 
 <div class="doxySectionDef">
 
@@ -103,7 +103,8 @@ class MemberNameLinkedMap { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -138,7 +139,7 @@ References <a href="/web-doxygen/docs/api/classes/membername/#ada97200941011de3b
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a></li>

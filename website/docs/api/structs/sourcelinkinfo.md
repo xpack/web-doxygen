@@ -102,7 +102,7 @@ struct SourceLinkInfo { ... }
 </table>
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -127,7 +127,8 @@ struct SourceLinkInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -159,7 +160,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -191,7 +193,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -223,7 +226,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +259,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -272,7 +277,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a></li>

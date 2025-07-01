@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Resource` Struct Reference
 
-<p>Compiled resource. <a href="#details">More...</a></p>
+Compiled resource. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -122,9 +122,9 @@ struct Resource { ... }
 
 ## Description {#details}
 
-<p>Compiled resource.</p>
+Compiled resource.
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxySectionDef">
 
@@ -148,6 +148,7 @@ struct Resource { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -155,19 +156,19 @@ struct Resource { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Verbatim<a id="abde5e686869a8c7241557d18033b382eaf197aa4cab57b5ab94f906de74015e27"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">SVG<a id="abde5e686869a8c7241557d18033b382eabb7175dffd36169ed5e9dedf6e508bdf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -203,7 +204,8 @@ struct Resource { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -233,7 +235,8 @@ struct Resource { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -265,7 +268,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -295,7 +299,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -327,7 +332,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -344,7 +350,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotGfxHierarchyTable` Class Reference
 
-<p>Represents a graphical class hierarchy. <a href="#details">More...</a></p>
+Represents a graphical class hierarchy. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotGfxHierarchyTable { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
+A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -328,9 +328,9 @@ class DotGfxHierarchyTable { ... }
 
 ## Description {#details}
 
-<p>Represents a graphical class hierarchy.</p>
+Represents a graphical class hierarchy.
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxySectionDef">
 
@@ -355,7 +355,8 @@ class DotGfxHierarchyTable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -391,7 +392,8 @@ class DotGfxHierarchyTable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -442,9 +444,9 @@ class DotGfxHierarchyTable { ... }
 </div>
 
 
-References <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa0f09f8179e2e4b6da595beaa37e17dd">Doxygen::hiddenClassLinkedMap</a>, <a href="#ae2416c7105ffa6921afb732f1ae02576">m&#95;classType</a>, <a href="#addef5c344b77e954bd92c44c6f768126">m&#95;prefix</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m&#95;rootNodes</a>, <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa0f09f8179e2e4b6da595beaa37e17dd">Doxygen::hiddenClassLinkedMap</a>, <a href="#ae2416c7105ffa6921afb732f1ae02576">m\_classType</a>, <a href="#addef5c344b77e954bd92c44c6f768126">m\_prefix</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m\_rootNodes</a>, <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m\_rootSubgraphs</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
-Referenced by <a href="#a434bb97932efb57dc0df493217c9a687">~DotGfxHierarchyTable</a>.
+Referenced by <a href="#a434bb97932efb57dc0df493217c9a687">\~DotGfxHierarchyTable</a>.
 </div>
 </div>
 
@@ -454,7 +456,7 @@ Referenced by <a href="#a434bb97932efb57dc0df493217c9a687">~DotGfxHierarchyTable
 
 ## Public Destructor
 
-### ~DotGfxHierarchyTable() {#a434bb97932efb57dc0df493217c9a687}
+### \~DotGfxHierarchyTable() {#a434bb97932efb57dc0df493217c9a687}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -478,7 +480,8 @@ Referenced by <a href="#a434bb97932efb57dc0df493217c9a687">~DotGfxHierarchyTable
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 References <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>.
 </div>
@@ -509,7 +512,8 @@ References <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a>
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -526,7 +530,7 @@ References <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a>
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m&#95;graphId</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a0e2edc905a769cb9613f050ef092f82b">DotGraph::m&#95;noDivTag</a>, <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m&#95;rootSubgraphNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aa7fd99414b3925cf99fcffb171ce3d1b">DotGraph::m&#95;zoomable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m\_graphId</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a0e2edc905a769cb9613f050ef092f82b">DotGraph::m\_noDivTag</a>, <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m\_rootSubgraphNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aa7fd99414b3925cf99fcffb171ce3d1b">DotGraph::m\_zoomable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
 
 Referenced by <a href="#a47c5aeaf257c00ebecc958a4c78c5de9">writeGraph</a>.
 </div>
@@ -556,7 +560,8 @@ Referenced by <a href="#a47c5aeaf257c00ebecc958a4c78c5de9">writeGraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -565,7 +570,7 @@ Referenced by <a href="#a47c5aeaf257c00ebecc958a4c78c5de9">writeGraph</a>.
 </div>
 
 
-Reference <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>.
+Reference <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m\_rootSubgraphs</a>.
 </div>
 </div>
 
@@ -588,7 +593,8 @@ Reference <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -625,7 +631,7 @@ Reference <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>.
 </div>
 
 
-References <a href="#a7a98b48366bc0fc41ee0d43eb425087a">createGraph</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m&#95;rootSubgraphs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="#a7a98b48366bc0fc41ee0d43eb425087a">createGraph</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="#a12cd9c4ea2e895b0a789e7480f9dae60">m\_rootSubgraphs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ad05e0b9d1baf567428af8a4e6b96b0ca">HtmlGenerator::writeGraphicalHierarchy</a>.
 </div>
@@ -662,7 +668,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ad05e0b9d1ba
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -692,7 +699,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ad05e0b9d1ba
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a0748856bca50f42e2abd5b36ca083bae">Hierarchy</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m&#95;rootNodes</a>, <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m&#95;rootSubgraphNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m&#95;theGraph</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
+References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a0748856bca50f42e2abd5b36ca083bae">Hierarchy</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m\_rootNodes</a>, <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m\_rootSubgraphNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m\_theGraph</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
 </div>
 </div>
 
@@ -721,7 +728,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -738,7 +746,7 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 </div>
 
 
-References <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m&#95;graphId</a>, <a href="#addef5c344b77e954bd92c44c6f768126">m&#95;prefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
+References <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m\_graphId</a>, <a href="#addef5c344b77e954bd92c44c6f768126">m\_prefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
 </div>
 </div>
 
@@ -767,7 +775,8 @@ References <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m&#95;graphId</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -779,7 +788,7 @@ References <a href="#a5b7f4e1246f73f8aaded6883e990a57b">m&#95;graphId</a>, <a hr
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m&#95;rootSubgraphNode</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ac4ca8f1f6de9f177db00629f53a75c6c">m\_rootSubgraphNode</a>.
 </div>
 </div>
 
@@ -808,7 +817,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -862,7 +872,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 </div>
 
 
-References <a href="#a45107701951da66c41e13c127fc1e6e6">addHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab1ab1504610c798f4924026a48bb4301">VhdlDocGen::convert</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a010ab08982f29df8c0f3d3f0f642f0f0a0f87010297b89ed715ad63fccec9b90e">VhdlDocGen::ENTITYCLASS</a>, <a href="#ae2416c7105ffa6921afb732f1ae02576">m&#95;classType</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m&#95;rootNodes</a> and <a href="#a6bd18aa03f734599e511071075d2d0a5">m&#95;usedNodes</a>.
+References <a href="#a45107701951da66c41e13c127fc1e6e6">addHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab1ab1504610c798f4924026a48bb4301">VhdlDocGen::convert</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a010ab08982f29df8c0f3d3f0f642f0f0a0f87010297b89ed715ad63fccec9b90e">VhdlDocGen::ENTITYCLASS</a>, <a href="#ae2416c7105ffa6921afb732f1ae02576">m\_classType</a>, <a href="#ae95c2d0497af31d870cdec866e18e97f">m\_rootNodes</a> and <a href="#a6bd18aa03f734599e511071075d2d0a5">m\_usedNodes</a>.
 
 Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable</a>.
 </div>
@@ -887,7 +897,8 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.</p>
+
+Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>, definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -968,7 +979,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dotnode/#ac54555a412724c31181a40a50213e38e">DotNode::addChild</a>, <a href="#a45107701951da66c41e13c127fc1e6e6">addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#ad8b1f38e1403f73fc4f8745b5fbe00c9">DotNode::children</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3067e647412a923d7743258c89eabe75">ClassDef::isVisibleInHierarchy</a>, <a href="#a6bd18aa03f734599e511071075d2d0a5">m&#95;usedNodes</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a8988355568d7d2f2fe1b876be67bac92">EdgeInfo::protectionToColor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.
+References <a href="/web-doxygen/docs/api/classes/dotnode/#ac54555a412724c31181a40a50213e38e">DotNode::addChild</a>, <a href="#a45107701951da66c41e13c127fc1e6e6">addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#ad8b1f38e1403f73fc4f8745b5fbe00c9">DotNode::children</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3067e647412a923d7743258c89eabe75">ClassDef::isVisibleInHierarchy</a>, <a href="#a6bd18aa03f734599e511071075d2d0a5">m\_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/edgeinfo/#a8988355568d7d2f2fe1b876be67bac92">EdgeInfo::protectionToColor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.
 
 Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and <a href="#a45107701951da66c41e13c127fc1e6e6">addHierarchy</a>.
 </div>
@@ -980,7 +991,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 
 ## Private Member Attributes
 
-### m&#95;classType {#ae2416c7105ffa6921afb732f1ae02576}
+### m\_classType {#ae2416c7105ffa6921afb732f1ae02576}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -999,7 +1010,8 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1012,7 +1024,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 </div>
 </div>
 
-### m&#95;graphId {#a5b7f4e1246f73f8aaded6883e990a57b}
+### m\_graphId {#a5b7f4e1246f73f8aaded6883e990a57b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1031,7 +1043,8 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1044,7 +1057,7 @@ Referenced by <a href="#a7a98b48366bc0fc41ee0d43eb425087a">createGraph</a> and <
 </div>
 </div>
 
-### m&#95;prefix {#addef5c344b77e954bd92c44c6f768126}
+### m\_prefix {#addef5c344b77e954bd92c44c6f768126}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1063,7 +1076,8 @@ Referenced by <a href="#a7a98b48366bc0fc41ee0d43eb425087a">createGraph</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1076,7 +1090,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 </div>
 </div>
 
-### m&#95;rootNodes {#ae95c2d0497af31d870cdec866e18e97f}
+### m\_rootNodes {#ae95c2d0497af31d870cdec866e18e97f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1095,7 +1109,8 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1108,7 +1123,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a>, <a 
 </div>
 </div>
 
-### m&#95;rootSubgraphNode {#ac4ca8f1f6de9f177db00629f53a75c6c}
+### m\_rootSubgraphNode {#ac4ca8f1f6de9f177db00629f53a75c6c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1127,7 +1142,8 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1140,7 +1156,7 @@ Referenced by <a href="#a75c5c04dae25cb36a4715d0c49a4b196">computeTheGraph</a>, 
 </div>
 </div>
 
-### m&#95;rootSubgraphs {#a12cd9c4ea2e895b0a789e7480f9dae60}
+### m\_rootSubgraphs {#a12cd9c4ea2e895b0a789e7480f9dae60}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1159,7 +1175,8 @@ Referenced by <a href="#a75c5c04dae25cb36a4715d0c49a4b196">computeTheGraph</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1172,7 +1189,7 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 </div>
 </div>
 
-### m&#95;usedNodes {#a6bd18aa03f734599e511071075d2d0a5}
+### m\_usedNodes {#a6bd18aa03f734599e511071075d2d0a5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1191,7 +1208,8 @@ Referenced by <a href="#a3e9a28f1f5867cc3d2de69b7db30c15f">DotGfxHierarchyTable<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1208,7 +1226,7 @@ Referenced by <a href="#a2c46ad2d91b685cb40efdc4ffeb85e61">addClassList</a> and 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-cpp">dotgfxhierarchytable.cpp</a></li>

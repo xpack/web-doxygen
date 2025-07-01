@@ -95,7 +95,7 @@ struct InputFileEncoding { ... }
 </table>
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -125,7 +125,8 @@ struct InputFileEncoding { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -160,7 +161,8 @@ struct InputFileEncoding { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -198,7 +200,8 @@ References <a href="#a222bb4f5f82c424610ffe2c4cac007b7">encoding</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -230,7 +233,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac369a1df025c65
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -247,7 +251,7 @@ Referenced by <a href="#a652126d014d0e294261512d42dd5275e">InputFileEncoding</a>
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a></li>

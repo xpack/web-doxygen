@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `STLInfo` Struct Reference
 
-<p>A struct contained the data for an STL class. <a href="#details">More...</a></p>
+A struct contained the data for an STL class. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -150,9 +150,9 @@ struct STLInfo { ... }
 
 ## Description {#details}
 
-<p>A struct contained the data for an STL class.</p>
+A struct contained the data for an STL class.
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -177,7 +177,8 @@ struct STLInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -209,7 +210,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -241,7 +243,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -273,7 +276,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -305,7 +309,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -337,7 +342,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -369,7 +375,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -401,7 +408,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -433,7 +441,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -450,7 +459,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a></li>

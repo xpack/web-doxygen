@@ -122,7 +122,7 @@ struct FTVHelp::Private { ... }
 </table>
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -152,7 +152,8 @@ struct FTVHelp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -190,7 +191,8 @@ References <a href="#a935339dbb3248e848d361fb86e47e6c3">indentNodes</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -267,7 +269,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -446,7 +449,8 @@ Referenced by <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -476,7 +480,8 @@ Referenced by <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -508,7 +513,8 @@ Referenced by <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -525,7 +531,7 @@ Referenced by <a href="#a2ffca7a7650eddd1fc37799566ba38f5">generateLink</a> and 
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a></li>

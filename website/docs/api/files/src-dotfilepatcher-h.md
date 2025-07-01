@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper class to insert a set of map file into an output file. <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#details">More...</a></p>
+Helper class to insert a set of map file into an output file. <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

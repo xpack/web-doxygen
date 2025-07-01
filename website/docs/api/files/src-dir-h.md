@@ -63,7 +63,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a directory in the file system. <a href="/web-doxygen/docs/api/classes/dir/#details">More...</a></p>
+Class representing a directory in the file system. <a href="/web-doxygen/docs/api/classes/dir/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

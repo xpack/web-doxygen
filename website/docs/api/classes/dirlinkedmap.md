@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DirLinkedMap` Class Reference
 
-<p>A linked map of directories. <a href="#details">More...</a></p>
+A linked map of directories. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DirLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,9 +52,9 @@ class DirLinkedMap { ... }
 
 ## Description {#details}
 
-<p>A linked map of directories.</p>
+A linked map of directories.
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <hr/>
 

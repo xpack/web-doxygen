@@ -518,7 +518,7 @@ class NamespaceDefAliasImpl { ... }
 </table>
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -548,7 +548,8 @@ class NamespaceDefAliasImpl { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -568,7 +569,7 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da
 
 ## Public Destructor
 
-### ~NamespaceDefAliasImpl() {#aa249d545c495a99f7bc37c4867d328c9}
+### \~NamespaceDefAliasImpl() {#aa249d545c495a99f7bc37c4867d328c9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -592,7 +593,8 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -637,9 +639,10 @@ Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9
 
 
 
-<p>Returns the anchor within a page where this item can be found</p>
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the anchor within a page where this item can be found
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -679,9 +682,10 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-<p>Used for syntax highlighting symbol class</p>
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Used for syntax highlighting symbol class
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -720,7 +724,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -759,7 +764,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a6189830ef990cb1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -799,9 +805,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#aa7a3c112d07ba84
 
 
 
-<p>Use this for dynamic inspection of the type of the derived class</p>
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Use this for dynamic inspection of the type of the derived class
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -842,9 +849,10 @@ Referenced by <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a>.
 
 
 
-<p>Returns the name of the definition as it appears in the output</p>
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the name of the definition as it appears in the output
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -883,7 +891,8 @@ References <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac849416c9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -923,9 +932,10 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a99240810ee50ab17c
 
 
 
-<p>Returns the classes contained in this namespace</p>
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the classes contained in this namespace
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -965,9 +975,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b4
 
 
 
-<p>Returns the concepts contained in this namespace</p>
 
-<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the concepts contained in this namespace
+
+Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1007,9 +1018,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0
 
 
 
-<p>Returns the Slice exceptions contained in this namespace</p>
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the Slice exceptions contained in this namespace
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1049,9 +1061,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a7cf1f663e03f57d
 
 
 
-<p>Returns the Slice interfaces contained in this namespace</p>
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the Slice interfaces contained in this namespace
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1090,7 +1103,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#ae5d69194a246277
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1130,9 +1144,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefd
 
 
 
-<p>Returns the user defined member groups</p>
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the user defined member groups
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1171,7 +1186,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1210,7 +1226,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1250,9 +1267,10 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f
 
 
 
-<p>Returns the namespaces contained in this namespace</p>
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the namespaces contained in this namespace
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1290,7 +1308,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1331,9 +1350,10 @@ Referenced by <a href="#a7dfc149d0ae08e80b0698dde86a26056">anchor</a>, <a href="
 
 
 
-<p>Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.</p>
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1373,9 +1393,10 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-<p>Returns the Slice structs contained in this namespace</p>
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the Slice structs contained in this namespace
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1414,7 +1435,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1453,7 +1475,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1492,7 +1515,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1531,7 +1555,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1570,7 +1595,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1609,7 +1635,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1649,9 +1676,10 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-<p>Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.</p>
 
-<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.
+
+Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1691,9 +1719,10 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-<p>Returns TRUE iff it is possible to link to this item within this project.</p>
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns TRUE iff it is possible to link to this item within this project.
+
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1732,7 +1761,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1771,7 +1801,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1811,9 +1842,10 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-<p>Returns the local name without any scope qualifiers.</p>
 
-<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+Returns the local name without any scope qualifiers.
+
+Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1852,7 +1884,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1891,7 +1924,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1930,7 +1964,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
+Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1948,7 +1983,7 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a></li>

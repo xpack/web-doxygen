@@ -110,7 +110,7 @@ struct LatexDocVisitor::TableState { ... }
 </table>
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxySectionDef">
 
@@ -135,7 +135,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -165,7 +166,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -195,7 +197,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -225,7 +228,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +259,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -285,7 +290,8 @@ struct LatexDocVisitor::TableState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -300,7 +306,7 @@ struct LatexDocVisitor::TableState { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a></li>

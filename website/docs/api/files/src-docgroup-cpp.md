@@ -66,7 +66,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;groupId {#a05d0ccc0d7aaedbd3ae467c5d1479658}
+### g\_groupId {#a05d0ccc0d7aaedbd3ae467c5d1479658}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -90,7 +90,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -103,7 +104,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 </div>
 </div>
 
-### g&#95;memberGroupInfoMapMutex {#a83c0259d4567db59783728e348688ab3}
+### g\_memberGroupInfoMapMutex {#a83c0259d4567db59783728e348688ab3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -127,7 +128,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.
 
 <div class="doxyProgramListing">
 

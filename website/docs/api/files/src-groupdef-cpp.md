@@ -274,7 +274,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1444 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1444 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -306,7 +307,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#a4a80bd0b7430a7adaf6403f01821becd">GroupDef::addClass</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a2d0bf73f7801534e7e2b6e5fc03ed6f5">toClassDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#a4a80bd0b7430a7adaf6403f01821becd">GroupDef::addClass</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a2d0bf73f7801534e7e2b6e5fc03ed6f5">toClassDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>.
 </div>
@@ -331,7 +332,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1469 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1469 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -362,7 +364,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#ae0e35a187293d00cdccc7da69e3e86a0">GroupDef::addConcept</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#a04c0091865f3e596872d27767ba1061a">toConceptDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#ae0e35a187293d00cdccc7da69e3e86a0">GroupDef::addConcept</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#a04c0091865f3e596872d27767ba1061a">toConceptDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081b43164c747df76e55af9f">addConceptToContext</a>.
 </div>
@@ -387,7 +389,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1541 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1541 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -417,7 +420,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#a1cefe14a8b4f2004a76bbcca39e5aada">GroupDef::addDir</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#a1cefe14a8b4f2004a76bbcca39e5aada">GroupDef::addDir</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333345115c87ef3474369ba4">findDirDocumentation</a>.
 </div>
@@ -442,7 +445,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1724 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1724 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -470,7 +474,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#a1f7a8ae65f303cde09e95f68d1960e08">GroupDef::addExample</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#a1f7a8ae65f303cde09e95f68d1960e08">GroupDef::addExample</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 </div>
 </div>
 
@@ -493,7 +497,8 @@ References <a href="/web-doxygen/docs/api/classes/groupdef/#a1f7a8ae65f303cde09e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1564 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1564 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +539,7 @@ References <a href="/web-doxygen/docs/api/classes/groupdef/#a1f7a8ae65f303cde09e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#aa5e0a4e1a5c815563de6e3ea235da420">GroupDef::addGroup</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#abbcaaf2e683208c173158a73d512edd0">GroupDef::findGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#aa5e0a4e1a5c815563de6e3ea235da420">GroupDef::addGroup</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#abbcaaf2e683208c173158a73d512edd0">GroupDef::findGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2907cfb329df93257c355ceaa29993d7">organizeSubGroupsFiltered</a>.
 </div>
@@ -560,9 +565,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2907cfb329d
 
 
 
-<p>Add a member to the group with the highest priority</p>
 
-<p>Definition at line 1599 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+Add a member to the group with the highest priority
+
+Definition at line 1599 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -693,7 +699,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2907cfb329d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/entry/#ac02a6c1dd922221351f6de0286d48d77">Entry::doc</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a90092536a05578d258ca1381e3176c88">MemberDef::getClassDefOfAnonymousType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a251075fcb0324e4f5f3d7bc8767ca06b">Grouping::GROUPING&#95;LOWEST</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#aae7c161ee9febb2cb5ea6ed3dc74176e">GroupDef::insertMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a62090524551868d7e7016245b3800d1b">GroupDef::removeMember</a>, <a href="/web-doxygen/docs/api/classes/memberdefmutable/#ac1ea8d9adeeef3466a0b36b20aa8ca8e">MemberDefMutable::setGroupDef</a>, <a href="/web-doxygen/docs/api/classes/classdefmutable/#a587dbea5e2811999a97fcedbb5619eff">ClassDefMutable::setGroupDefForAllMembers</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a2d0bf73f7801534e7e2b6e5fc03ed6f5">toClassDefMutable</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a9ea80ba313803ae565f05ce1c8eb6bb5">toMemberDefMutable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/entry/#ac02a6c1dd922221351f6de0286d48d77">Entry::doc</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a90092536a05578d258ca1381e3176c88">MemberDef::getClassDefOfAnonymousType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a251075fcb0324e4f5f3d7bc8767ca06b">Grouping::GROUPING\_LOWEST</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#aae7c161ee9febb2cb5ea6ed3dc74176e">GroupDef::insertMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a62090524551868d7e7016245b3800d1b">GroupDef::removeMember</a>, <a href="/web-doxygen/docs/api/classes/memberdefmutable/#ac1ea8d9adeeef3466a0b36b20aa8ca8e">MemberDefMutable::setGroupDef</a>, <a href="/web-doxygen/docs/api/classes/classdefmutable/#a587dbea5e2811999a97fcedbb5619eff">ClassDefMutable::setGroupDefForAllMembers</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a2d0bf73f7801534e7e2b6e5fc03ed6f5">toClassDefMutable</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a9ea80ba313803ae565f05ce1c8eb6bb5">toMemberDefMutable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d2f900d75b86848050a8a7">addDefineDoc</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a84f44faa684a361d36970a435c382b0f">addEnumDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a95106cfe8d0c8504016e0714ae0e10f7">addGlobalFunction</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ba474a85367760e0e849c9732d5fa26">addInterfaceOrServiceToServiceOrSingleton</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1a6c7747b5e3263fe4e6b5">addMemberDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad736f00784a47fe1c1bf6317f9a1b51b">addMethodToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84e986afdbc14dcba2bcf3c">addVariableToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d637d9f99c1adef34aafe856">addVariableToFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a568741e989fcbe6cd20c1295cf9c7aed">buildTypedefList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a82770a95f2aebec7ffee2162e3a67215">findEnums</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602ab473a38ae5ae27e66611">findMember</a>.
 </div>
@@ -718,7 +724,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1493 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1493 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -745,7 +752,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#a530747d47eb188ab2997190dcd78b8bb">GroupDef::addModule</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#a530747d47eb188ab2997190dcd78b8bb">GroupDef::addModule</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a55c2fea37704d58f2127c5f892851b48">ModuleManager::addDocs</a>.
 </div>
@@ -770,7 +777,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a55c2fea3770
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1514 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1514 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -804,7 +812,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a55c2fea3770
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/groupdef/#a69045b40b7deb5217d45b0bf1e183d7f">GroupDef::addNamespace</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING&#95;INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae480c007a9e16b642a72ffb1119c5812">toNamespaceDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/groupdef/#a69045b40b7deb5217d45b0bf1e183d7f">GroupDef::addNamespace</a>, <a href="/web-doxygen/docs/api/classes/entry/#a736f1dfadfe0c0fabb022c533aa27fdc">Entry::fileName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#ad683be469954d7f1aafc5f443a642506">Grouping::getGroupPriName</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70a464b2001acf04bed5df29c11a66fb2fb">Grouping::GROUPING\_INGROUP</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/structs/grouping/#a05e6a053a86cc2f588d065f3880801dc">Grouping::groupname</a>, <a href="/web-doxygen/docs/api/classes/entry/#a7a7b0a48faf21641b21124fb8381aa1e">Entry::groups</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#ace7c1ad57b2a21941d7dd860e7e9c9fd">DefinitionMutable::makePartOfGroup</a>, <a href="/web-doxygen/docs/api/structs/grouping/#aead55d7198ceffe16cb82d2c114e4254">Grouping::pri</a>, <a href="/web-doxygen/docs/api/classes/entry/#a81bf40c0a6646dc1e33097d7e2552c96">Entry::startLine</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae480c007a9e16b642a72ffb1119c5812">toNamespaceDefMutable</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f923667206aac9e24848997edd6d8b">buildNamespaceList</a>.
 </div>
@@ -829,7 +837,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a71f92366720
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -871,7 +880,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1788 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1788 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -964,7 +974,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a2a3b6387c4b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1926 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1926 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1019,7 +1030,8 @@ Referenced by <a href="#ae378b5ab8e781335e10e32435ae70ded">hasNonReferenceNested
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1996 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 1996 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1062,7 +1074,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.</p>
+
+Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/groupdef-cpp">groupdef.cpp</a>.
 
 <div class="doxyProgramListing">
 

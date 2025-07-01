@@ -90,7 +90,7 @@ struct DocCmdMap { ... }
 </table>
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxySectionDef">
 
@@ -120,7 +120,8 @@ struct DocCmdMap { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,7 +159,8 @@ References <a href="#af819abbea48c5ed9c466986e97cb9c75">handler</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -190,7 +192,8 @@ Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -222,7 +225,8 @@ Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -239,7 +243,7 @@ Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a></li>

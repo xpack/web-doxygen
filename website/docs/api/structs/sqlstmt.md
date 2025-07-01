@@ -71,7 +71,7 @@ struct SqlStmt { ... }
 </table>
 
 
-<p>Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -96,7 +96,8 @@ struct SqlStmt { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
+Definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +129,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
+Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -160,7 +162,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
+Definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +180,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a></li>

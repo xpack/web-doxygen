@@ -71,7 +71,7 @@ struct FortranCodeParser::Private { ... }
 </table>
 
 
-<p>Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -96,7 +96,8 @@ struct FortranCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -126,7 +127,8 @@ struct FortranCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -156,7 +158,8 @@ struct FortranCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
+Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -171,7 +174,7 @@ struct FortranCodeParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a></li>

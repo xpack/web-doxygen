@@ -53,7 +53,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state">vhdlcodeYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state">vhdlcodeYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -500,7 +500,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -518,7 +518,7 @@ toc_max_heading_level: 4
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -537,7 +537,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -578,7 +579,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1004 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1004 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -621,7 +623,8 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1500 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1500 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -663,7 +666,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a8f0a381fdae1427b118
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 966 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 966 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -738,7 +742,8 @@ Referenced by <a href="#a5ab4cb556cb2bcbce39b40bbe297fd1d">writeWord</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -779,7 +784,7 @@ Referenced by <a href="#a5ab4cb556cb2bcbce39b40bbe297fd1d">writeWord</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
 </div>
 </div>
 
@@ -808,9 +813,10 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-<p>write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.</p>
 
-<p>Definition at line 1238 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.
+
+Definition at line 1238 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -887,7 +893,8 @@ References <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ae8c2c4e6dab
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1508 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1508 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -977,9 +984,10 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 
 
 
-<p>counts the number of lines in the input</p>
 
-<p>Definition at line 1433 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+counts the number of lines in the input
+
+Definition at line 1433 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1031,7 +1039,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1118 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1118 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1074,7 +1083,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1452 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1452 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1124,7 +1134,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1377 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1377 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1214,9 +1225,10 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a8017
 
 
 
-<p>writes a link to a function or procedure</p>
 
-<p>Definition at line 1324 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+writes a link to a function or procedure
+
+Definition at line 1324 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1268,7 +1280,8 @@ Referenced by <a href="#adb5cfe08b5887df4a026299543638531">writeFuncProto</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1340 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1340 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1342,7 +1355,8 @@ Referenced by <a href="#aaf9011f7d4c2a48af197236c52d0a95d">codifyMapLines</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1377,7 +1391,8 @@ Referenced by <a href="#aaf9011f7d4c2a48af197236c52d0a95d">codifyMapLines</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1126 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1126 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1427,7 +1442,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1479,9 +1495,10 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902d
 
 
 
-<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-<p>Definition at line 1050 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+
+Definition at line 1050 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1584,7 +1601,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1469 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1469 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1638,7 +1656,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 </div>
 </div>
 
@@ -1666,7 +1685,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1612 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1612 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1715,7 +1735,8 @@ Referenced by <a href="#a5ab4cb556cb2bcbce39b40bbe297fd1d">writeWord</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1488 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1488 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1762,7 +1783,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1566 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1566 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1833,9 +1855,10 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 
 
 
-<p>writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.</p>
 
-<p>Definition at line 1284 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.
+
+Definition at line 1284 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1880,7 +1903,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
+References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
 </div>
 </div>
 
@@ -1908,7 +1931,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1603 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 1603 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1951,9 +1975,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e
 
 
 
-<p>writes a word to the output. If curr_class is defined, the word belongs to a class and will be linked.</p>
 
-<p>Definition at line 1146 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+writes a word to the output. If curr\_class is defined, the word belongs to a class and will be linked.
+
+Definition at line 1146 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2073,7 +2098,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2820,7 +2846,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 935 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 935 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2850,7 +2877,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 
 ## Macro Definitions
 
-### DBG&#95;CTX {#a234e2efe67eececd88b140b46ea37463}
+### DBG\_CTX {#a234e2efe67eececd88b140b46ea37463}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2869,7 +2896,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2880,7 +2908,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2889,7 +2917,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -2899,7 +2927,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2910,7 +2939,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2929,7 +2958,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2940,7 +2970,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2959,7 +2989,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2970,7 +3001,7 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2989,7 +3020,8 @@ Referenced by <a href="#a5a47760391ae7b0e270bd1de323be1e0">codifyLines</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 

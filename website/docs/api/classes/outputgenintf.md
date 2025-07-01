@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `OutputGenIntf` Class Reference
 
-<p>Abstract interface for output generators. <a href="#details">More...</a></p>
+Abstract interface for output generators. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class OutputGenIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for HTML output. <a href="/web-doxygen/docs/api/classes/htmlgenerator/#details">More...</a></p>
+Generator for HTML output. <a href="/web-doxygen/docs/api/classes/htmlgenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -68,7 +68,7 @@ class OutputGenIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexgenerator/#details">More...</a></p>
+Generator for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexgenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -82,7 +82,7 @@ class OutputGenIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for Man page output. <a href="/web-doxygen/docs/api/classes/mangenerator/#details">More...</a></p>
+Generator for Man page output. <a href="/web-doxygen/docs/api/classes/mangenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -96,7 +96,7 @@ class OutputGenIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for RTF output. <a href="/web-doxygen/docs/api/classes/rtfgenerator/#details">More...</a></p>
+Generator for RTF output. <a href="/web-doxygen/docs/api/classes/rtfgenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2544,9 +2544,9 @@ class OutputGenIntf { ... }
 
 ## Description {#details}
 
-<p>Abstract interface for output generators.</p>
+Abstract interface for output generators.
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -2571,7 +2571,8 @@ class OutputGenIntf { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a2399adf8c0604e50bb4c0911ef961742">addCodeGen</a>.
 
@@ -2598,7 +2599,8 @@ Referenced by <a href="#a2399adf8c0604e50bb4c0911ef961742">addCodeGen</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a25a640422f1a26c32e99bab05d044738">addIndexItem</a>.
 
@@ -2625,7 +2627,8 @@ Referenced by <a href="#a25a640422f1a26c32e99bab05d044738">addIndexItem</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7045a43d7af51c6afc747cf4fbb83e62">addLabel</a>.
 
@@ -2652,7 +2655,8 @@ Referenced by <a href="#a7045a43d7af51c6afc747cf4fbb83e62">addLabel</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a80b9bba0ea2a5777a3d1a6b5455d6985">cleanup</a>.
 
@@ -2679,7 +2683,8 @@ Referenced by <a href="#a80b9bba0ea2a5777a3d1a6b5455d6985">cleanup</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a685aff27480f0f7cfe980bdd91cfffaf">clone</a>.
 
@@ -2706,7 +2711,8 @@ Referenced by <a href="#a685aff27480f0f7cfe980bdd91cfffaf">clone</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aac6eb7a359ed49bbeb245e3e7b0993eb">docify</a>.
 
@@ -2733,7 +2739,8 @@ Referenced by <a href="#aac6eb7a359ed49bbeb245e3e7b0993eb">docify</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a251e99f1dd3a2ca68601bac19b82e34e">endAnonTypeScope</a>.
 
@@ -2760,7 +2767,8 @@ Referenced by <a href="#a251e99f1dd3a2ca68601bac19b82e34e">endAnonTypeScope</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aeba9dcd8b62329cd89ae44948320ffb7">endBold</a>.
 
@@ -2787,7 +2795,8 @@ Referenced by <a href="#aeba9dcd8b62329cd89ae44948320ffb7">endBold</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a14ff59f95f9e1d0378ca4a740b715d84">endCallGraph</a>.
 
@@ -2814,7 +2823,8 @@ Referenced by <a href="#a14ff59f95f9e1d0378ca4a740b715d84">endCallGraph</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#afac6536bc0b0f3702c307df16e33d377">endCenter</a>.
 
@@ -2841,7 +2851,8 @@ Referenced by <a href="#afac6536bc0b0f3702c307df16e33d377">endCenter</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#abf06294041a469daea14c657e7f8f8a1">endClassDiagram</a>.
 
@@ -2868,7 +2879,8 @@ Referenced by <a href="#abf06294041a469daea14c657e7f8f8a1">endClassDiagram</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae4a763b35a02d7ea5e883a2f20de2dd5">endCompoundTemplateParams</a>.
 
@@ -2895,7 +2907,8 @@ Referenced by <a href="#ae4a763b35a02d7ea5e883a2f20de2dd5">endCompoundTemplatePa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a22a61ff0c02d0f91fcfa7b4f7ac7f405">endConstraintDocs</a>.
 
@@ -2922,7 +2935,8 @@ Referenced by <a href="#a22a61ff0c02d0f91fcfa7b4f7ac7f405">endConstraintDocs</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a38b9f1b3191f567cf6c95a6c3521e8fb">endConstraintList</a>.
 
@@ -2949,7 +2963,8 @@ Referenced by <a href="#a38b9f1b3191f567cf6c95a6c3521e8fb">endConstraintList</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa6d996d867bc819fccaf3b6471247469">endConstraintParam</a>.
 
@@ -2976,7 +2991,8 @@ Referenced by <a href="#aa6d996d867bc819fccaf3b6471247469">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab13fa68b965aa0974f29be60dff9db84">endConstraintType</a>.
 
@@ -3003,7 +3019,8 @@ Referenced by <a href="#ab13fa68b965aa0974f29be60dff9db84">endConstraintType</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a54cc5e51ef3ce1f73ce8fe5076728ce2">endContents</a>.
 
@@ -3030,7 +3047,8 @@ Referenced by <a href="#a54cc5e51ef3ce1f73ce8fe5076728ce2">endContents</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac7c4412fd00138e2fc488aadc7f30245">endDescForItem</a>.
 
@@ -3057,7 +3075,8 @@ Referenced by <a href="#ac7c4412fd00138e2fc488aadc7f30245">endDescForItem</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa739019fb6ba6bf3574124960a0c008d">endDescTable</a>.
 
@@ -3084,7 +3103,8 @@ Referenced by <a href="#aa739019fb6ba6bf3574124960a0c008d">endDescTable</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a0da533da32a0c6732034fd20e5a2ac8e">endDescTableData</a>.
 
@@ -3111,7 +3131,8 @@ Referenced by <a href="#a0da533da32a0c6732034fd20e5a2ac8e">endDescTableData</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad99cfd41eafdc5084b1295c5566952fe">endDescTableInit</a>.
 
@@ -3138,7 +3159,8 @@ Referenced by <a href="#ad99cfd41eafdc5084b1295c5566952fe">endDescTableInit</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a396567c15638c9a422a2d81f965f961e">endDescTableRow</a>.
 
@@ -3165,7 +3187,8 @@ Referenced by <a href="#a396567c15638c9a422a2d81f965f961e">endDescTableRow</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8eff9a7f506c0f6e778f3e1042a1164c">endDescTableTitle</a>.
 
@@ -3192,7 +3215,8 @@ Referenced by <a href="#a8eff9a7f506c0f6e778f3e1042a1164c">endDescTableTitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3975a13911703f0137c23fcb011f28d6">endDirDepGraph</a>.
 
@@ -3219,7 +3243,8 @@ Referenced by <a href="#a3975a13911703f0137c23fcb011f28d6">endDirDepGraph</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a85da45c99b7e32ea195bf761badef17e">endDotGraph</a>.
 
@@ -3246,7 +3271,8 @@ Referenced by <a href="#a85da45c99b7e32ea195bf761badef17e">endDotGraph</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7468a0ce3722e8bef650142f7156db55">endDoxyAnchor</a>.
 
@@ -3273,7 +3299,8 @@ Referenced by <a href="#a7468a0ce3722e8bef650142f7156db55">endDoxyAnchor</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a37834e6f65935417349d2385634a2c21">endEmphasis</a>.
 
@@ -3300,7 +3327,8 @@ Referenced by <a href="#a37834e6f65935417349d2385634a2c21">endEmphasis</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad2f10d9cc4f4ff526bff1d3898f33934">endExamples</a>.
 
@@ -3327,7 +3355,8 @@ Referenced by <a href="#ad2f10d9cc4f4ff526bff1d3898f33934">endExamples</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aec223180ecc276ad0d0382a7de95bfb9">endFile</a>.
 
@@ -3354,7 +3383,8 @@ Referenced by <a href="#aec223180ecc276ad0d0382a7de95bfb9">endFile</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aab20e32028a6c404de530f20a8d08afe">endGroupCollaboration</a>.
 
@@ -3381,7 +3411,8 @@ Referenced by <a href="#aab20e32028a6c404de530f20a8d08afe">endGroupCollaboration
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7c1550c8839cbd8b1ebe15247624502b">endGroupHeader</a>.
 
@@ -3408,7 +3439,8 @@ Referenced by <a href="#a7c1550c8839cbd8b1ebe15247624502b">endGroupHeader</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa0cb366bd225ec3b8637dbf745bb8495">endHeaderSection</a>.
 
@@ -3435,7 +3467,8 @@ Referenced by <a href="#aa0cb366bd225ec3b8637dbf745bb8495">endHeaderSection</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7c2ff3af9f3bc519bf30ab81fd72cd75">endInclDepGraph</a>.
 
@@ -3462,7 +3495,8 @@ Referenced by <a href="#a7c2ff3af9f3bc519bf30ab81fd72cd75">endInclDepGraph</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#addf2b99b43f4d42da4ff4201ad2daf3d">endIndent</a>.
 
@@ -3489,7 +3523,8 @@ Referenced by <a href="#addf2b99b43f4d42da4ff4201ad2daf3d">endIndent</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a499b7e7082ce98ac420b4713a0a4fb0a">endIndexItem</a>.
 
@@ -3516,7 +3551,8 @@ Referenced by <a href="#a499b7e7082ce98ac420b4713a0a4fb0a">endIndexItem</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#af6b5aa596df8637546d29846c07c971e">endIndexKey</a>.
 
@@ -3543,7 +3579,8 @@ Referenced by <a href="#af6b5aa596df8637546d29846c07c971e">endIndexKey</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7c5b6593573ffe5ab167aa4f3b2ffdb9">endIndexList</a>.
 
@@ -3570,7 +3607,8 @@ Referenced by <a href="#a7c5b6593573ffe5ab167aa4f3b2ffdb9">endIndexList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a157226abc71a5e32f8cb882cc4d943b1">endIndexListItem</a>.
 
@@ -3597,7 +3635,8 @@ Referenced by <a href="#a157226abc71a5e32f8cb882cc4d943b1">endIndexListItem</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a927f5983fc93c11d18237ca76fb74eb5">endIndexSection</a>.
 
@@ -3624,7 +3663,8 @@ Referenced by <a href="#a927f5983fc93c11d18237ca76fb74eb5">endIndexSection</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae711fa5b116608e306734eec728f6d79">endIndexValue</a>.
 
@@ -3651,7 +3691,8 @@ Referenced by <a href="#ae711fa5b116608e306734eec728f6d79">endIndexValue</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a60ae605fb609b3390e640b46ea9485df">endInlineHeader</a>.
 
@@ -3678,7 +3719,8 @@ Referenced by <a href="#a60ae605fb609b3390e640b46ea9485df">endInlineHeader</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a89b792e5046631e4093bcf4a61411eeb">endInlineMemberDoc</a>.
 
@@ -3705,7 +3747,8 @@ Referenced by <a href="#a89b792e5046631e4093bcf4a61411eeb">endInlineMemberDoc</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3b809e57901e6c2e3cff2a413f2af5de">endInlineMemberName</a>.
 
@@ -3732,7 +3775,8 @@ Referenced by <a href="#a3b809e57901e6c2e3cff2a413f2af5de">endInlineMemberName</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7ca6cba268cc3096f54b1c9d58876d22">endInlineMemberType</a>.
 
@@ -3759,7 +3803,8 @@ Referenced by <a href="#a7ca6cba268cc3096f54b1c9d58876d22">endInlineMemberType</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a10e1c75aa036fadb2b4914564c1be3ff">endItemList</a>.
 
@@ -3786,7 +3831,8 @@ Referenced by <a href="#a10e1c75aa036fadb2b4914564c1be3ff">endItemList</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa3e20dae21d9d6e5b11a94a38b10896a">endItemListItem</a>.
 
@@ -3813,7 +3859,8 @@ Referenced by <a href="#aa3e20dae21d9d6e5b11a94a38b10896a">endItemListItem</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a695f6a7ee5d38ef46da40bc44fca8828">endLabels</a>.
 
@@ -3840,7 +3887,8 @@ Referenced by <a href="#a695f6a7ee5d38ef46da40bc44fca8828">endLabels</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7b88cf6885c4ca71693bb3ca988a48b2">endLocalToc</a>.
 
@@ -3867,7 +3915,8 @@ Referenced by <a href="#a7b88cf6885c4ca71693bb3ca988a48b2">endLocalToc</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad7a6280b740a76252834564a1f4fbce9">endMemberDeclaration</a>.
 
@@ -3894,7 +3943,8 @@ Referenced by <a href="#ad7a6280b740a76252834564a1f4fbce9">endMemberDeclaration<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a9ae7d5969b715c6e25b3937179bdfcda">endMemberDescription</a>.
 
@@ -3921,7 +3971,8 @@ Referenced by <a href="#a9ae7d5969b715c6e25b3937179bdfcda">endMemberDescription<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#afe07b6722ddad023f2a87715be57d02a">endMemberDoc</a>.
 
@@ -3948,7 +3999,8 @@ Referenced by <a href="#afe07b6722ddad023f2a87715be57d02a">endMemberDoc</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa4eb90cc7d89d88a0d2333be8063394f">endMemberDocList</a>.
 
@@ -3975,7 +4027,8 @@ Referenced by <a href="#aa4eb90cc7d89d88a0d2333be8063394f">endMemberDocList</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a97574716039c8331afbd0295e0cd7dac">endMemberDocName</a>.
 
@@ -4002,7 +4055,8 @@ Referenced by <a href="#a97574716039c8331afbd0295e0cd7dac">endMemberDocName</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aac37e18752d8dac929d084738ea62392">endMemberDocPrefixItem</a>.
 
@@ -4029,7 +4083,8 @@ Referenced by <a href="#aac37e18752d8dac929d084738ea62392">endMemberDocPrefixIte
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 309 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 309 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a24f794d0e5c68e92203f4ce949d9948a">endMemberDocSimple</a>.
 
@@ -4056,7 +4111,8 @@ Referenced by <a href="#a24f794d0e5c68e92203f4ce949d9948a">endMemberDocSimple</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a595fff4a7d0ae9b9d7642237c28f8901">endMemberGroup</a>.
 
@@ -4083,7 +4139,8 @@ Referenced by <a href="#a595fff4a7d0ae9b9d7642237c28f8901">endMemberGroup</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a0c8b5416218377138621fb34b840b790">endMemberGroupDocs</a>.
 
@@ -4110,7 +4167,8 @@ Referenced by <a href="#a0c8b5416218377138621fb34b840b790">endMemberGroupDocs</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a50e780b2fe3496ff171dbb1e6759b341">endMemberGroupHeader</a>.
 
@@ -4137,7 +4195,8 @@ Referenced by <a href="#a50e780b2fe3496ff171dbb1e6759b341">endMemberGroupHeader<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6a824e30a4173507c3d8b8fc1d391840">endMemberHeader</a>.
 
@@ -4164,7 +4223,8 @@ Referenced by <a href="#a6a824e30a4173507c3d8b8fc1d391840">endMemberHeader</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="#aa9af48be8371aee3f0d0b65d4fd22015">endMemberItem</a> and <a href="#a221f0f1fd10d58c14f9caf7faa36dde1">type</a>.
 
@@ -4191,7 +4251,8 @@ Referenced by <a href="#aa9af48be8371aee3f0d0b65d4fd22015">endMemberItem</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7f70ed026824c54b80bb9019bb8fd735">endMemberList</a>.
 
@@ -4218,7 +4279,8 @@ Referenced by <a href="#a7f70ed026824c54b80bb9019bb8fd735">endMemberList</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a667642e79b9e787ffaaed927431106e7">endMemberSections</a>.
 
@@ -4245,7 +4307,8 @@ Referenced by <a href="#a667642e79b9e787ffaaed927431106e7">endMemberSections</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a024f537b0e167928d8fbbd7c83126afe">endMemberSubtitle</a>.
 
@@ -4272,7 +4335,8 @@ Referenced by <a href="#a024f537b0e167928d8fbbd7c83126afe">endMemberSubtitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae5d41dae8e31415f650b52a29eba2817">endMemberTemplateParams</a>.
 
@@ -4299,7 +4363,8 @@ Referenced by <a href="#ae5d41dae8e31415f650b52a29eba2817">endMemberTemplatePara
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a39d62301cd87ef0c6e51bc7c55c9982b">endPageDoc</a>.
 
@@ -4326,7 +4391,8 @@ Referenced by <a href="#a39d62301cd87ef0c6e51bc7c55c9982b">endPageDoc</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac0916dd878a34ca4c4b65492dc17b3c8">endPageRef</a>.
 
@@ -4353,7 +4419,8 @@ Referenced by <a href="#ac0916dd878a34ca4c4b65492dc17b3c8">endPageRef</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8f725c5406981a4aaa9aba38078ffc71">endParagraph</a>.
 
@@ -4380,7 +4447,8 @@ Referenced by <a href="#a8f725c5406981a4aaa9aba38078ffc71">endParagraph</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a35d39fdc7cdaec182baa7fb3d909fab7">endParameterDefVal</a>.
 
@@ -4407,7 +4475,8 @@ Referenced by <a href="#a35d39fdc7cdaec182baa7fb3d909fab7">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6cbac7733e17d57b2caccb30e3bf98e2">endParameterExtra</a>.
 
@@ -4434,7 +4503,8 @@ Referenced by <a href="#a6cbac7733e17d57b2caccb30e3bf98e2">endParameterExtra</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a514360a2c3c4b46107f244004e6befa5">endParameterList</a>.
 
@@ -4461,7 +4531,8 @@ Referenced by <a href="#a514360a2c3c4b46107f244004e6befa5">endParameterList</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a9958dc52e088a6c840c324f992a61782">endParameterName</a>.
 
@@ -4488,7 +4559,8 @@ Referenced by <a href="#a9958dc52e088a6c840c324f992a61782">endParameterName</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a436aab094abf10c862af8e86712ac7df">endParameterType</a>.
 
@@ -4515,7 +4587,8 @@ Referenced by <a href="#a436aab094abf10c862af8e86712ac7df">endParameterType</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a43b7360d19bc7009a3d6ff1ec1398664">endPlainFile</a>.
 
@@ -4542,7 +4615,8 @@ Referenced by <a href="#a43b7360d19bc7009a3d6ff1ec1398664">endPlainFile</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab8f1a4a235cb4e41997f238b2c969d18">endProjectNumber</a>.
 
@@ -4569,7 +4643,8 @@ Referenced by <a href="#ab8f1a4a235cb4e41997f238b2c969d18">endProjectNumber</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a779e6a499dbba756b5589de4cab1d8a8">endQuickIndices</a>.
 
@@ -4596,7 +4671,8 @@ Referenced by <a href="#a779e6a499dbba756b5589de4cab1d8a8">endQuickIndices</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aaf3c9cb988a0e2d49068465772433409">endSection</a>.
 
@@ -4623,7 +4699,8 @@ Referenced by <a href="#aaf3c9cb988a0e2d49068465772433409">endSection</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a74f9d5740031dd466964edd9c1d8e366">endSmall</a>.
 
@@ -4650,7 +4727,8 @@ Referenced by <a href="#a74f9d5740031dd466964edd9c1d8e366">endSmall</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="#aad5585b6af901be0830ae54b693668ce">endTextBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
 
@@ -4677,7 +4755,8 @@ Referenced by <a href="#aad5585b6af901be0830ae54b693668ce">endTextBlock</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a578bfc0ee8985ffdf1e141445e3479e4">endTextLink</a>.
 
@@ -4704,7 +4783,8 @@ Referenced by <a href="#a578bfc0ee8985ffdf1e141445e3479e4">endTextLink</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#abc47b7bf7e7ba0ab1b3a34f4e36e5a37">endTitleHead</a>.
 
@@ -4731,7 +4811,8 @@ Referenced by <a href="#abc47b7bf7e7ba0ab1b3a34f4e36e5a37">endTitleHead</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a20804e800904af439381fbf9f11be3d3">endTocEntry</a>.
 
@@ -4758,7 +4839,8 @@ Referenced by <a href="#a20804e800904af439381fbf9f11be3d3">endTocEntry</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3a10feddac419bcac5c2456710213600">endTypewriter</a>.
 
@@ -4785,7 +4867,8 @@ Referenced by <a href="#a3a10feddac419bcac5c2456710213600">endTypewriter</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="#a41b77727f57a04d415d7acfa77dfcf13">exceptionEntry</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
 
@@ -4812,7 +4895,8 @@ Referenced by <a href="#a41b77727f57a04d415d7acfa77dfcf13">exceptionEntry</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#aa837f5a6ce555e11398b3df3ecb3e88f">insertMemberAlign</a>.
 
@@ -4839,7 +4923,8 @@ Referenced by <a href="#aa837f5a6ce555e11398b3df3ecb3e88f">insertMemberAlign</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a2082c126cedbfc6c0491fc8b96ccba7a">insertMemberAlignLeft</a>.
 
@@ -4866,7 +4951,8 @@ Referenced by <a href="#a2082c126cedbfc6c0491fc8b96ccba7a">insertMemberAlignLeft
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a707578caad094f7af3f04f1b4a54f052">lastIndexPage</a>.
 
@@ -4893,7 +4979,8 @@ Referenced by <a href="#a707578caad094f7af3f04f1b4a54f052">lastIndexPage</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a5a3b3d5489a1fcb2d885e3544da2a924">lineBreak</a>.
 
@@ -4920,7 +5007,8 @@ Referenced by <a href="#a5a3b3d5489a1fcb2d885e3544da2a924">lineBreak</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a373de27a917a5e5b6421fa26f87c4449">startAnonTypeScope</a>.
 
@@ -4947,7 +5035,8 @@ Referenced by <a href="#a373de27a917a5e5b6421fa26f87c4449">startAnonTypeScope</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3b32f7ed14989d25fd76888ab942e65b">startBold</a>.
 
@@ -4974,7 +5063,8 @@ Referenced by <a href="#a3b32f7ed14989d25fd76888ab942e65b">startBold</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#adb8e5518bbf7f0829f3a2572a1720079">startCallGraph</a>.
 
@@ -5001,7 +5091,8 @@ Referenced by <a href="#adb8e5518bbf7f0829f3a2572a1720079">startCallGraph</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8a4437f40ef79e76ed6aca6e2b6eb4e5">startCenter</a>.
 
@@ -5028,7 +5119,8 @@ Referenced by <a href="#a8a4437f40ef79e76ed6aca6e2b6eb4e5">startCenter</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a9b1cedf05d8efc75853f8e7c7582f322">startClassDiagram</a>.
 
@@ -5055,7 +5147,8 @@ Referenced by <a href="#a9b1cedf05d8efc75853f8e7c7582f322">startClassDiagram</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a94f617fe193172f0f97b27c499de9cfa">startCompoundTemplateParams</a>.
 
@@ -5082,7 +5175,8 @@ Referenced by <a href="#a94f617fe193172f0f97b27c499de9cfa">startCompoundTemplate
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 305 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 305 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7dc709f71d6789db7c3b4443ed448b1a">startConstraintDocs</a>.
 
@@ -5109,7 +5203,8 @@ Referenced by <a href="#a7dc709f71d6789db7c3b4443ed448b1a">startConstraintDocs</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a04817619e41efde49c970d1975151edf">startConstraintList</a>.
 
@@ -5136,7 +5231,8 @@ Referenced by <a href="#a04817619e41efde49c970d1975151edf">startConstraintList</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae9d43c719e2fccb17737dfebaec0a07c">startConstraintParam</a>.
 
@@ -5163,7 +5259,8 @@ Referenced by <a href="#ae9d43c719e2fccb17737dfebaec0a07c">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a24edd015165887d5e18c316e68c655c4">startConstraintType</a>.
 
@@ -5190,7 +5287,8 @@ Referenced by <a href="#a24edd015165887d5e18c316e68c655c4">startConstraintType</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae686f96a24cb17e204b8d497701d5d62">startContents</a>.
 
@@ -5217,7 +5315,8 @@ Referenced by <a href="#ae686f96a24cb17e204b8d497701d5d62">startContents</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a62c4d70eded6831c56b01a78ed8de5a9">startDescForItem</a>.
 
@@ -5244,7 +5343,8 @@ Referenced by <a href="#a62c4d70eded6831c56b01a78ed8de5a9">startDescForItem</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a099593df5a76ae4bb6826aa8be58ca71">startDescTable</a>.
 
@@ -5271,7 +5371,8 @@ Referenced by <a href="#a099593df5a76ae4bb6826aa8be58ca71">startDescTable</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a14febd9e78a190e5e6fc1b0000a86845">startDescTableData</a>.
 
@@ -5298,7 +5399,8 @@ Referenced by <a href="#a14febd9e78a190e5e6fc1b0000a86845">startDescTableData</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab38bee163993a50c58b8bd4c79216d1a">startDescTableInit</a>.
 
@@ -5325,7 +5427,8 @@ Referenced by <a href="#ab38bee163993a50c58b8bd4c79216d1a">startDescTableInit</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6ee5d670908097c2bc08bedf6e1c32c6">startDescTableRow</a>.
 
@@ -5352,7 +5455,8 @@ Referenced by <a href="#a6ee5d670908097c2bc08bedf6e1c32c6">startDescTableRow</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab1af7866c36c8c7fe2d2375558935b85">startDescTableTitle</a>.
 
@@ -5379,7 +5483,8 @@ Referenced by <a href="#ab1af7866c36c8c7fe2d2375558935b85">startDescTableTitle</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aba0e8dca170cca694dc0166fb95aa13e">startDirDepGraph</a>.
 
@@ -5406,7 +5511,8 @@ Referenced by <a href="#aba0e8dca170cca694dc0166fb95aa13e">startDirDepGraph</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad2819be1125a573d7abdbf5a522b9310">startDotGraph</a>.
 
@@ -5433,7 +5539,8 @@ Referenced by <a href="#ad2819be1125a573d7abdbf5a522b9310">startDotGraph</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aecae8460986ee6b91397ae321ce627a1">startDoxyAnchor</a>.
 
@@ -5460,7 +5567,8 @@ Referenced by <a href="#aecae8460986ee6b91397ae321ce627a1">startDoxyAnchor</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#adcc1b898c2dcc3f6062da795a440da48">startEmphasis</a>.
 
@@ -5487,7 +5595,8 @@ Referenced by <a href="#adcc1b898c2dcc3f6062da795a440da48">startEmphasis</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8c05d1ccc1a97e87db2eb6ac111ba720">startExamples</a>.
 
@@ -5514,7 +5623,8 @@ Referenced by <a href="#a8c05d1ccc1a97e87db2eb6ac111ba720">startExamples</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a751894ca7271d62e186144bf6ea750b4">startFile</a>.
 
@@ -5541,7 +5651,8 @@ Referenced by <a href="#a751894ca7271d62e186144bf6ea750b4">startFile</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a695dc048f7688078bff6ba6eae779dea">startGroupCollaboration</a>.
 
@@ -5568,7 +5679,8 @@ Referenced by <a href="#a695dc048f7688078bff6ba6eae779dea">startGroupCollaborati
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3c25f35ecd9dbcbcd1804513473f8683">startGroupHeader</a>.
 
@@ -5595,7 +5707,8 @@ Referenced by <a href="#a3c25f35ecd9dbcbcd1804513473f8683">startGroupHeader</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#af915369f4ac0e6faeb3d558de0a5ccea">startHeaderSection</a>.
 
@@ -5622,7 +5735,8 @@ Referenced by <a href="#af915369f4ac0e6faeb3d558de0a5ccea">startHeaderSection</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8d87cbaafb593cdcbf9b2b98a7dd1f1b">startInclDepGraph</a>.
 
@@ -5649,7 +5763,8 @@ Referenced by <a href="#a8d87cbaafb593cdcbf9b2b98a7dd1f1b">startInclDepGraph</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3942248646635d62ce76ff4c58501013">startIndent</a>.
 
@@ -5676,7 +5791,8 @@ Referenced by <a href="#a3942248646635d62ce76ff4c58501013">startIndent</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab4fea7fc7613b609e6b63ebe49e2637f">startIndexItem</a>.
 
@@ -5703,7 +5819,8 @@ Referenced by <a href="#ab4fea7fc7613b609e6b63ebe49e2637f">startIndexItem</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a4a2892a4a593cce615ffce7172eabc42">startIndexKey</a>.
 
@@ -5730,7 +5847,8 @@ Referenced by <a href="#a4a2892a4a593cce615ffce7172eabc42">startIndexKey</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6b2597524bf7275b5af10536cdf49f31">startIndexList</a>.
 
@@ -5757,7 +5875,8 @@ Referenced by <a href="#a6b2597524bf7275b5af10536cdf49f31">startIndexList</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aff1ac58d5e1754872e65e7a3db6f2241">startIndexListItem</a>.
 
@@ -5784,7 +5903,8 @@ Referenced by <a href="#aff1ac58d5e1754872e65e7a3db6f2241">startIndexListItem</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae869ad0ddcd664eebbedee81ad94e925">startIndexSection</a>.
 
@@ -5811,7 +5931,8 @@ Referenced by <a href="#ae869ad0ddcd664eebbedee81ad94e925">startIndexSection</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a7a7025f965ca3fcf915dbf010a4a416a">startIndexValue</a>.
 
@@ -5838,7 +5959,8 @@ Referenced by <a href="#a7a7025f965ca3fcf915dbf010a4a416a">startIndexValue</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a0ccc69fb60f4b835a7eed748a9fea1a6">startInlineHeader</a>.
 
@@ -5865,7 +5987,8 @@ Referenced by <a href="#a0ccc69fb60f4b835a7eed748a9fea1a6">startInlineHeader</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab46c5f34ec08151ad23e699ec093e858">startInlineMemberDoc</a>.
 
@@ -5892,7 +6015,8 @@ Referenced by <a href="#ab46c5f34ec08151ad23e699ec093e858">startInlineMemberDoc<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a0776046486af09020f31ee8f87f8c1d0">startInlineMemberName</a>.
 
@@ -5919,7 +6043,8 @@ Referenced by <a href="#a0776046486af09020f31ee8f87f8c1d0">startInlineMemberName
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6735e2e800ba3e27cd0fb768e78fd1b2">startInlineMemberType</a>.
 
@@ -5946,7 +6071,8 @@ Referenced by <a href="#a6735e2e800ba3e27cd0fb768e78fd1b2">startInlineMemberType
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3f8b6ad1e7e50f7fdeb3c69d8f02b6e7">startItemList</a>.
 
@@ -5973,7 +6099,8 @@ Referenced by <a href="#a3f8b6ad1e7e50f7fdeb3c69d8f02b6e7">startItemList</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#af2f528b46750b254f7a799fcd6ed28d7">startItemListItem</a>.
 
@@ -6000,7 +6127,8 @@ Referenced by <a href="#af2f528b46750b254f7a799fcd6ed28d7">startItemListItem</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad79d3695d6eef65e69af540fc5e2187f">startLabels</a>.
 
@@ -6027,7 +6155,8 @@ Referenced by <a href="#ad79d3695d6eef65e69af540fc5e2187f">startLabels</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6b77f3e740d66edde2819141517d8788">startLocalToc</a>.
 
@@ -6054,7 +6183,8 @@ Referenced by <a href="#a6b77f3e740d66edde2819141517d8788">startLocalToc</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac38369ad05d7e5584a64b32576dc95e6">startMemberDeclaration</a>.
 
@@ -6081,7 +6211,8 @@ Referenced by <a href="#ac38369ad05d7e5584a64b32576dc95e6">startMemberDeclaratio
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aef4e50ba3e911eec35461895c2864b7a">startMemberDescription</a>.
 
@@ -6108,7 +6239,8 @@ Referenced by <a href="#aef4e50ba3e911eec35461895c2864b7a">startMemberDescriptio
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a116232c9975fe8505bf789dd51eadb56">startMemberDoc</a>.
 
@@ -6135,7 +6267,8 @@ Referenced by <a href="#a116232c9975fe8505bf789dd51eadb56">startMemberDoc</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3cc64b48e08f8c37ae68c052666e2581">startMemberDocList</a>.
 
@@ -6162,7 +6295,8 @@ Referenced by <a href="#a3cc64b48e08f8c37ae68c052666e2581">startMemberDocList</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a1c683042be29f8f10d539f4a01a03237">align</a> and <a href="#a45d8c190fc894d6743423e628c19294b">startMemberDocName</a>.
 
@@ -6189,7 +6323,8 @@ Referenced by <a href="#a45d8c190fc894d6743423e628c19294b">startMemberDocName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a5995a8429533bd21364530edeb763711">startMemberDocPrefixItem</a>.
 
@@ -6216,7 +6351,8 @@ Referenced by <a href="#a5995a8429533bd21364530edeb763711">startMemberDocPrefixI
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a0593059cb1552745f7a97a3040dd5e7c">startMemberDocSimple</a>.
 
@@ -6243,7 +6379,8 @@ Referenced by <a href="#a0593059cb1552745f7a97a3040dd5e7c">startMemberDocSimple<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a36689312cd35c431b1ce66ac3ba35594">startMemberGroup</a>.
 
@@ -6270,7 +6407,8 @@ Referenced by <a href="#a36689312cd35c431b1ce66ac3ba35594">startMemberGroup</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac57ae72f8115bbe8ed6b303cffb984f7">startMemberGroupDocs</a>.
 
@@ -6297,7 +6435,8 @@ Referenced by <a href="#ac57ae72f8115bbe8ed6b303cffb984f7">startMemberGroupDocs<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3593d54f692a41d566ae01109aeef05e">startMemberGroupHeader</a>.
 
@@ -6324,7 +6463,8 @@ Referenced by <a href="#a3593d54f692a41d566ae01109aeef05e">startMemberGroupHeade
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a38cce7e6f2c721d28cd581fffc261667">startMemberHeader</a>.
 
@@ -6351,7 +6491,8 @@ Referenced by <a href="#a38cce7e6f2c721d28cd581fffc261667">startMemberHeader</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="#a859d57760dab81918c1f54667a4b7bb6">startMemberItem</a> and <a href="#a221f0f1fd10d58c14f9caf7faa36dde1">type</a>.
 
@@ -6378,7 +6519,8 @@ Referenced by <a href="#a859d57760dab81918c1f54667a4b7bb6">startMemberItem</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#abc21f85b1ee972d5143aa0e10c12a74c">startMemberList</a>.
 
@@ -6405,7 +6547,8 @@ Referenced by <a href="#abc21f85b1ee972d5143aa0e10c12a74c">startMemberList</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a479613dbc7e8b8967342736b76a00b59">startMemberSections</a>.
 
@@ -6432,7 +6575,8 @@ Referenced by <a href="#a479613dbc7e8b8967342736b76a00b59">startMemberSections</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a47701af94cd5ea03b74733c9d7926251">startMemberSubtitle</a>.
 
@@ -6459,7 +6603,8 @@ Referenced by <a href="#a47701af94cd5ea03b74733c9d7926251">startMemberSubtitle</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a84b6535ee5e38767846bea0e6ba96c8a">startMemberTemplateParams</a>.
 
@@ -6486,7 +6631,8 @@ Referenced by <a href="#a84b6535ee5e38767846bea0e6ba96c8a">startMemberTemplatePa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a2b784e509b334fac1a75627148761be8">startPageDoc</a>.
 
@@ -6513,7 +6659,8 @@ Referenced by <a href="#a2b784e509b334fac1a75627148761be8">startPageDoc</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad700dc5ae546c3e60eaf3a0fc821f626">startPageRef</a>.
 
@@ -6540,7 +6687,8 @@ Referenced by <a href="#ad700dc5ae546c3e60eaf3a0fc821f626">startPageRef</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#af0f23248db3a810e3fa1a22efd6dc810">startParagraph</a>.
 
@@ -6567,7 +6715,8 @@ Referenced by <a href="#af0f23248db3a810e3fa1a22efd6dc810">startParagraph</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ad6785e89293e0a1a656cea7f3a11ce0f">startParameterDefVal</a>.
 
@@ -6594,7 +6743,8 @@ Referenced by <a href="#ad6785e89293e0a1a656cea7f3a11ce0f">startParameterDefVal<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aca6ab24e04280715dbb109c2fff18356">startParameterExtra</a>.
 
@@ -6621,7 +6771,8 @@ Referenced by <a href="#aca6ab24e04280715dbb109c2fff18356">startParameterExtra</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8c23f7c0b2fd4ba55c2e5a262a3e3de7">startParameterList</a>.
 
@@ -6648,7 +6799,8 @@ Referenced by <a href="#a8c23f7c0b2fd4ba55c2e5a262a3e3de7">startParameterList</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a230c27f71a06e4127b602b621f548985">startParameterName</a>.
 
@@ -6675,7 +6827,8 @@ Referenced by <a href="#a230c27f71a06e4127b602b621f548985">startParameterName</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a1976bdf79e45f6747ef356cae0a95411">startParameterType</a>.
 
@@ -6702,7 +6855,8 @@ Referenced by <a href="#a1976bdf79e45f6747ef356cae0a95411">startParameterType</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8a3d61c68c3ec0817933b533ced5806a">startPlainFile</a>.
 
@@ -6729,7 +6883,8 @@ Referenced by <a href="#a8a3d61c68c3ec0817933b533ced5806a">startPlainFile</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a9aa73996eef9d354eda1aa7bef80a92d">startProjectNumber</a>.
 
@@ -6756,7 +6911,8 @@ Referenced by <a href="#a9aa73996eef9d354eda1aa7bef80a92d">startProjectNumber</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a49399b68dc9d396e2decd25c69fe9c71">startQuickIndices</a>.
 
@@ -6783,7 +6939,8 @@ Referenced by <a href="#a49399b68dc9d396e2decd25c69fe9c71">startQuickIndices</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#adcf099495987baa700a91ebd8284efd2">startSection</a>.
 
@@ -6810,7 +6967,8 @@ Referenced by <a href="#adcf099495987baa700a91ebd8284efd2">startSection</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aa535ab26ba3724479354f6944e780f39">startSmall</a>.
 
@@ -6837,7 +6995,8 @@ Referenced by <a href="#aa535ab26ba3724479354f6944e780f39">startSmall</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#af2409cde2f7961ca5cf4b967335c5f50">startTextBlock</a>.
 
@@ -6864,7 +7023,8 @@ Referenced by <a href="#af2409cde2f7961ca5cf4b967335c5f50">startTextBlock</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a075de9b4d65864892a5a4bea2ae751dd">startTextLink</a>.
 
@@ -6891,7 +7051,8 @@ Referenced by <a href="#a075de9b4d65864892a5a4bea2ae751dd">startTextLink</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a39e6e6ec7f39f8847632b75dfa5490a9">startTitleHead</a>.
 
@@ -6918,7 +7079,8 @@ Referenced by <a href="#a39e6e6ec7f39f8847632b75dfa5490a9">startTitleHead</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#af1602bf413b97f22052cf036643f3f1c">startTocEntry</a>.
 
@@ -6945,7 +7107,8 @@ Referenced by <a href="#af1602bf413b97f22052cf036643f3f1c">startTocEntry</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a8d12471e1fa0455d4957b72f25c64302">startTypewriter</a>.
 
@@ -6972,7 +7135,8 @@ Referenced by <a href="#a8d12471e1fa0455d4957b72f25c64302">startTypewriter</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a221f0f1fd10d58c14f9caf7faa36dde1">type</a>.
 
@@ -6999,7 +7163,8 @@ Referenced by <a href="#aa9af48be8371aee3f0d0b65d4fd22015">endMemberItem</a>, <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#afda0d70c12b2ac6fc6e66a4543b19a44">writeAnchor</a>.
 
@@ -7026,7 +7191,8 @@ Referenced by <a href="#afda0d70c12b2ac6fc6e66a4543b19a44">writeAnchor</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab3b1f57669e3d916ca995a880935a6df">writeChar</a>.
 
@@ -7053,7 +7219,8 @@ Referenced by <a href="#ab3b1f57669e3d916ca995a880935a6df">writeChar</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#abbad8b45e48b0d0dd8139c9c5ce5e74d">writeDoc</a>.
 
@@ -7080,7 +7247,8 @@ Referenced by <a href="#abbad8b45e48b0d0dd8139c9c5ce5e74d">writeDoc</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ae06d07286c1a5e0e8dd4dcb413eea3ee">writeFooter</a>.
 
@@ -7107,7 +7275,8 @@ Referenced by <a href="#ae06d07286c1a5e0e8dd4dcb413eea3ee">writeFooter</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3eac8c3de9fb5faac26a15e461441ac5">writeGraphicalHierarchy</a>.
 
@@ -7134,7 +7303,8 @@ Referenced by <a href="#a3eac8c3de9fb5faac26a15e461441ac5">writeGraphicalHierarc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aec93094d1142185397b89f683e3f805c">writeInheritedSectionTitle</a>.
 
@@ -7161,7 +7331,8 @@ Referenced by <a href="#aec93094d1142185397b89f683e3f805c">writeInheritedSection
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a272adadd57275dc0ffe350691531eca4">writeLabel</a>.
 
@@ -7188,7 +7359,8 @@ Referenced by <a href="#a272adadd57275dc0ffe350691531eca4">writeLabel</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6ffbea116a5c5bf0c54b43ba3f6a4132">writeLatexSpacing</a>.
 
@@ -7215,7 +7387,8 @@ Referenced by <a href="#a6ffbea116a5c5bf0c54b43ba3f6a4132">writeLatexSpacing</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac9673da2d9860875be433aa9885da80d">writeLogo</a>.
 
@@ -7242,7 +7415,8 @@ Referenced by <a href="#ac9673da2d9860875be433aa9885da80d">writeLogo</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ab93da7f6e4680d6426a444871a0dd272">writeNavigationPath</a>.
 
@@ -7269,7 +7443,8 @@ Referenced by <a href="#ab93da7f6e4680d6426a444871a0dd272">writeNavigationPath</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#ac7523bc031627d3ffec3a61be2183983">writeNonBreakableSpace</a>.
 
@@ -7296,7 +7471,8 @@ Referenced by <a href="#ac7523bc031627d3ffec3a61be2183983">writeNonBreakableSpac
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a53380f84190045f14ef3c6ae2f5dd275">writeObjectLink</a>.
 
@@ -7323,7 +7499,8 @@ Referenced by <a href="#a53380f84190045f14ef3c6ae2f5dd275">writeObjectLink</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a85839f2257cc6632c3307df7f1c48cd4">writePageLink</a>.
 
@@ -7350,7 +7527,8 @@ Referenced by <a href="#a85839f2257cc6632c3307df7f1c48cd4">writePageLink</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3253ebaf15e52566edf6b5804ed0e930">writePageOutline</a>.
 
@@ -7377,7 +7555,8 @@ Referenced by <a href="#a3253ebaf15e52566edf6b5804ed0e930">writePageOutline</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#abeaa883814a4981f89c3383a1dac404b">writeQuickLinks</a>.
 
@@ -7404,7 +7583,8 @@ Referenced by <a href="#abeaa883814a4981f89c3383a1dac404b">writeQuickLinks</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a3e67a4680207146c0717f53e778ad83e">writeRuler</a>.
 
@@ -7431,7 +7611,8 @@ Referenced by <a href="#a3e67a4680207146c0717f53e778ad83e">writeRuler</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a06d7c1c55247348a93966711afbb983f">writeSearchInfo</a>.
 
@@ -7458,7 +7639,8 @@ Referenced by <a href="#a06d7c1c55247348a93966711afbb983f">writeSearchInfo</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#aaa7b661bcbc35895bd704e48999c3849">writeSplitBar</a>.
 
@@ -7485,7 +7667,8 @@ Referenced by <a href="#aaa7b661bcbc35895bd704e48999c3849">writeSplitBar</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 References <a href="#a221f0f1fd10d58c14f9caf7faa36dde1">type</a> and <a href="#afd391f13f33ee9163d495756f978447b">writeStartAnnoItem</a>.
 
@@ -7512,7 +7695,8 @@ Referenced by <a href="#afd391f13f33ee9163d495756f978447b">writeStartAnnoItem</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a9425335496ccadd1a9c8235cf31280e1">writeString</a>.
 
@@ -7539,7 +7723,8 @@ Referenced by <a href="#a9425335496ccadd1a9c8235cf31280e1">writeString</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a2711a39698d7169932b7e24b9223ef06">writeStyleInfo</a>.
 
@@ -7566,7 +7751,8 @@ Referenced by <a href="#a2711a39698d7169932b7e24b9223ef06">writeStyleInfo</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a08a84ef9ad423d5893da62114366f71b">writeSummaryLink</a>.
 
@@ -7593,7 +7779,8 @@ Referenced by <a href="#a08a84ef9ad423d5893da62114366f71b">writeSummaryLink</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
 
 Reference <a href="#a6dc8d2bf34bb5f53b758cbcac0074e3c">writeSynopsis</a>.
 
@@ -7605,7 +7792,7 @@ Referenced by <a href="#a6dc8d2bf34bb5f53b758cbcac0074e3c">writeSynopsis</a> and
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a></li>

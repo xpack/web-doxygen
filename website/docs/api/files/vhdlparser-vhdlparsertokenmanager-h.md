@@ -42,7 +42,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -75,7 +75,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -160,7 +160,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### JAVACC&#95;CHARSTREAM {#aa81d8e4b132ec27d0c7b302bd166d8e9}
+### JAVACC\_CHARSTREAM {#aa81d8e4b132ec27d0c7b302bd166d8e9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -179,7 +179,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -211,19 +212,20 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">{\
    for (int x = start; x &lt;= <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>; x++) {\
-      jjstateSet&#91;jjnewStateCnt++&#93; = jjnextStates&#91;x&#93;;\
-   } /&#42;while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);&#42;/\
+      jjstateSet\[jjnewStateCnt++\] = jjnextStates\[x\];\
+   } /\*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);\*/\
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -258,21 +260,22 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">{\
-   if (jjrounds&#91;state&#93; != jjround)\
+   if (jjrounds\[state\] != jjround)\
    {\
-      jjstateSet&#91;jjnewStateCnt++&#93; = state;\
-      jjrounds&#91;state&#93; = jjround;\
+      jjstateSet\[jjnewStateCnt++\] = state;\
+      jjrounds\[state\] = jjround;\
    }\
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -309,19 +312,20 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">{\
    for (int x = start; x &lt;= <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>; x++) {\
-      <a href="#a001c4feea657cf8f87bdfa1ba634d903">jjCheckNAdd</a>(jjnextStates&#91;x&#93;);\
-   } /&#42;while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);&#42;/\
+      <a href="#a001c4feea657cf8f87bdfa1ba634d903">jjCheckNAdd</a>(jjnextStates\[x\]);\
+   } /\*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);\*/\
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -356,6 +360,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
@@ -367,7 +372,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 </dd>
 </dl>
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.</p>
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsertokenmanager-h">VhdlParserTokenManager.h</a>.
 
 <div class="doxyProgramListing">
 

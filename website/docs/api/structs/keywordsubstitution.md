@@ -95,7 +95,7 @@ struct KeywordSubstitution { ... }
 </table>
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxySectionDef">
 
@@ -120,7 +120,8 @@ struct KeywordSubstitution { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -150,7 +151,8 @@ struct KeywordSubstitution { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -186,7 +188,8 @@ struct KeywordSubstitution { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -216,7 +219,8 @@ struct KeywordSubstitution { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -231,7 +235,7 @@ struct KeywordSubstitution { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/util-h">util.h</a></li>

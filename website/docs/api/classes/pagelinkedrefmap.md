@@ -41,7 +41,7 @@ class PageLinkedRefMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -51,7 +51,7 @@ class PageLinkedRefMap { ... }
 </table>
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 <hr/>
 

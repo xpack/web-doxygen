@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="/web-doxygen/docs/api/structs/htmlentityinfo/#details">More...</a></p>
+Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="/web-doxygen/docs/api/structs/htmlentityinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -72,7 +72,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abf83726e81c80d306c467d65700ebe3d">SYM</a>(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym&#95;##s,"&amp;"#s";"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abf83726e81c80d306c467d65700ebe3d">SYM</a>(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym\_##s,"&amp;"#s";"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -90,7 +90,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;htmlEntities {#addeeaed9ec5e674f6ace6f0ba57b10d7}
+### g\_htmlEntities {#addeeaed9ec5e674f6ace6f0ba57b10d7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -114,7 +114,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -424,7 +425,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define SYM(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym&#95;##s,"&amp;"#s";"</td>
+<td class="doxyMemberName">#define SYM(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym\_##s,"&amp;"#s";"</td>
 </tr>
 </table>
 </td>
@@ -434,7 +435,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 </div>
 </div>
 

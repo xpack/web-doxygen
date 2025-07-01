@@ -266,7 +266,7 @@ struct doctokenizerYY_state { ... }
 </table>
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxySectionDef">
 
@@ -291,7 +291,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -321,7 +322,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -351,7 +353,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -381,7 +384,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -411,7 +415,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -441,7 +446,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -471,7 +477,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -501,7 +508,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -531,7 +539,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -561,7 +570,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -591,7 +601,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -621,7 +632,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -651,7 +663,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -681,7 +694,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -711,7 +725,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -741,7 +756,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -771,7 +787,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -801,7 +818,8 @@ struct doctokenizerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -816,7 +834,7 @@ struct doctokenizerYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a></li>

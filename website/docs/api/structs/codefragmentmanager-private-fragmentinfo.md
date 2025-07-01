@@ -148,7 +148,7 @@ struct CodeFragmentManager::Private::FragmentInfo { ... }
 </table>
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -178,7 +178,8 @@ struct CodeFragmentManager::Private::FragmentInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -216,7 +217,8 @@ Reference <a href="#a4ecdcb6f208adad84cf6bc1643bf402a">recorderCodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -349,7 +351,7 @@ Reference <a href="#a4ecdcb6f208adad84cf6bc1643bf402a">recorderCodeList</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO&#95;TRACE&#95;ADD</a>, <a href="#ab048a15363f78e3ff91a4f8c0bf76d3b">blocks</a>, <a href="#aa14990e60719d0e710eade3471641a1c">blocksById</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a> and <a href="#ab042db2cad417d3271ba4bef80c5607a">fileContents</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="#ab048a15363f78e3ff91a4f8c0bf76d3b">blocks</a>, <a href="#aa14990e60719d0e710eade3471641a1c">blocksById</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="#ab042db2cad417d3271ba4bef80c5607a">fileContents</a>.
 </div>
 </div>
 
@@ -378,7 +380,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -410,7 +413,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -442,7 +446,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -474,7 +479,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -504,7 +510,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +541,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -551,7 +559,7 @@ Referenced by <a href="#af3e07441d60fae2c1df5d7803f3f97a8">FragmentInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a></li>

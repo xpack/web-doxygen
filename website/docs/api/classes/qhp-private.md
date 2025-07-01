@@ -97,7 +97,7 @@ class Qhp::Private { ... }
 </table>
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -122,7 +122,8 @@ class Qhp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -152,7 +153,8 @@ class Qhp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -182,7 +184,8 @@ class Qhp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -212,7 +215,8 @@ class Qhp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -242,7 +246,8 @@ class Qhp::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
+Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -257,7 +262,7 @@ class Qhp::Private { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a></li>

@@ -49,7 +49,7 @@ struct sqlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the code fragment as text <a href="#a2e8632bb6999de5c3ec3389f71bf57a2">More...</a></p>
+the code fragment as text <a href="#a2e8632bb6999de5c3ec3389f71bf57a2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -63,7 +63,7 @@ struct sqlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>read offset during parsing <a href="#ada659847a96ed5365784886406361fce">More...</a></p>
+read offset during parsing <a href="#ada659847a96ed5365784886406361fce">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ struct sqlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>number of line in the code fragment <a href="#a9f23efc42a01c1374c20e82ce29aa9ec">More...</a></p>
+number of line in the code fragment <a href="#a9f23efc42a01c1374c20e82ce29aa9ec">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,7 +104,7 @@ struct sqlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>current line number <a href="#a756aa04a624850382faac05984cba884">More...</a></p>
+current line number <a href="#a756aa04a624850382faac05984cba884">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -270,7 +270,7 @@ struct sqlcodeYY_state { ... }
 </table>
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -295,7 +295,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -325,7 +326,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -355,7 +357,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -385,7 +388,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -415,7 +419,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -445,7 +450,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -475,7 +481,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -505,7 +512,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -535,7 +543,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -565,7 +574,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -593,9 +603,10 @@ struct sqlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>number of line in the code fragment</p>
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+number of line in the code fragment
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -623,9 +634,10 @@ struct sqlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>read offset during parsing</p>
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+read offset during parsing
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -653,9 +665,10 @@ struct sqlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the code fragment as text</p>
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+the code fragment as text
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -685,7 +698,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -715,7 +729,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -745,7 +760,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -775,7 +791,8 @@ struct sqlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -803,9 +820,10 @@ struct sqlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>current line number</p>
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+current line number
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -820,7 +838,7 @@ struct sqlcodeYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DiagramRow` Class Reference
 
-<p>Class representing a row in the built-in class diagram. <a href="#details">More...</a></p>
+Class representing a row in the built-in class diagram. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -259,9 +259,9 @@ class DiagramRow { ... }
 
 ## Description {#details}
 
-<p>Class representing a row in the built-in class diagram.</p>
+Class representing a row in the built-in class diagram.
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -286,7 +286,8 @@ class DiagramRow { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -316,7 +317,8 @@ class DiagramRow { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -327,7 +329,7 @@ class DiagramRow { ... }
 </div>
 </div>
 
-### reverse&#95;iterator {#a34cb1ca03889cd1f2ed7366e05009148}
+### reverse\_iterator {#a34cb1ca03889cd1f2ed7366e05009148}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -346,7 +348,8 @@ class DiagramRow { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -376,7 +379,8 @@ class DiagramRow { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -417,7 +421,8 @@ class DiagramRow { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -426,7 +431,7 @@ class DiagramRow { ... }
 </div>
 
 
-References <a href="#a0f408150b4d9388a2eb169d2216c33df">m&#95;diagram</a> and <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m&#95;level</a>.
+References <a href="#a0f408150b4d9388a2eb169d2216c33df">m\_diagram</a> and <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m\_level</a>.
 
 Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a>.
 </div>
@@ -462,7 +467,8 @@ Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -471,7 +477,7 @@ Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a>.
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -499,7 +505,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -508,7 +515,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -531,7 +538,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -578,7 +586,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="#a582a842c520400a016f12213246c39b5">DiagramRow</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a993acabcec0ddbb0fc27ff4eb47b9368">gridHeight</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3067e647412a923d7743258c89eabe75">ClassDef::isVisibleInHierarchy</a>, <a href="#a0f408150b4d9388a2eb169d2216c33df">m&#95;diagram</a>, <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>, <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m&#95;level</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.
+References <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="#a582a842c520400a016f12213246c39b5">DiagramRow</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a993acabcec0ddbb0fc27ff4eb47b9368">gridHeight</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#a2955a33900313eb54d0a7f5318421db7">gridWidth</a>, <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a3067e647412a923d7743258c89eabe75">ClassDef::isVisibleInHierarchy</a>, <a href="#a0f408150b4d9388a2eb169d2216c33df">m\_diagram</a>, <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>, <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m\_level</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.
 
 Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a> and <a href="/web-doxygen/docs/api/classes/treediagram/#ab648d038ab3cd0dc8ca7aa632dfcab7b">TreeDiagram::TreeDiagram</a>.
 </div>
@@ -608,7 +616,8 @@ Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -617,7 +626,7 @@ Referenced by <a href="#a8c301e781bb14b1a23c00974d2050496">insertClass</a> and <
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -645,7 +654,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -654,7 +664,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 </div>
 
 
-Reference <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m&#95;level</a>.
+Reference <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m\_level</a>.
 </div>
 </div>
 
@@ -682,7 +692,8 @@ Reference <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m&#95;level</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -691,7 +702,7 @@ Reference <a href="#ae7d273d5c0bb289738072dc4e4bffe61">m&#95;level</a>.
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -719,7 +730,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -728,7 +740,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -756,7 +768,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -765,7 +778,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 </div>
 
 
-Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
+Reference <a href="#a3e2233999b2726198204c55106feb8af">m\_items</a>.
 </div>
 </div>
 
@@ -775,7 +788,7 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 
 ## Private Member Attributes
 
-### m&#95;diagram {#a0f408150b4d9388a2eb169d2216c33df}
+### m\_diagram {#a0f408150b4d9388a2eb169d2216c33df}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -794,7 +807,8 @@ Reference <a href="#a3e2233999b2726198204c55106feb8af">m&#95;items</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -807,7 +821,7 @@ Referenced by <a href="#a582a842c520400a016f12213246c39b5">DiagramRow</a> and <a
 </div>
 </div>
 
-### m&#95;items {#a3e2233999b2726198204c55106feb8af}
+### m\_items {#a3e2233999b2726198204c55106feb8af}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -826,7 +840,8 @@ Referenced by <a href="#a582a842c520400a016f12213246c39b5">DiagramRow</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -839,7 +854,7 @@ Referenced by <a href="#a8488330f275e6f40ea01f5c647c0c565">begin</a>, <a href="#
 </div>
 </div>
 
-### m&#95;level {#ae7d273d5c0bb289738072dc4e4bffe61}
+### m\_level {#ae7d273d5c0bb289738072dc4e4bffe61}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -858,7 +873,8 @@ Referenced by <a href="#a8488330f275e6f40ea01f5c647c0c565">begin</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -875,7 +891,7 @@ Referenced by <a href="#a582a842c520400a016f12213246c39b5">DiagramRow</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a></li>

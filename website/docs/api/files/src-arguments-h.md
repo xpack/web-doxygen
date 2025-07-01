@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This class contains the information about the argument of a function or template. <a href="/web-doxygen/docs/api/structs/argument/#details">More...</a></p>
+This class contains the information about the argument of a function or template. <a href="/web-doxygen/docs/api/structs/argument/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This class represents an function or template argument list. <a href="/web-doxygen/docs/api/classes/argumentlist/#details">More...</a></p>
+This class represents an function or template argument list. <a href="/web-doxygen/docs/api/classes/argumentlist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -161,6 +162,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -168,24 +170,24 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">None<a id="a4f78d801ad01da94c75f928280228884a6adf97f83acf6453d4a6a4b1070f3754"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">LValue<a id="a4f78d801ad01da94c75f928280228884a74accfde3d3f8e8a27c326eba229d16c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">RValue<a id="a4f78d801ad01da94c75f928280228884ac756c8b5e0e5217b000321397a40be7e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
 
 <div class="doxyProgramListing">
 

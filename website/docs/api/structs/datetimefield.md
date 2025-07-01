@@ -84,7 +84,7 @@ struct DateTimeField { ... }
 </table>
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ struct DateTimeField { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -141,7 +142,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -173,7 +175,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -205,7 +208,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -222,7 +226,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#ad9d60769e8
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a></li>

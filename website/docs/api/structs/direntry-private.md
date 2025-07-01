@@ -45,7 +45,7 @@ struct DirEntry::Private { ... }
 </table>
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -70,7 +70,8 @@ struct DirEntry::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -85,7 +86,7 @@ struct DirEntry::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a></li>

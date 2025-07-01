@@ -56,7 +56,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This class stores information about an inheritance relation. <a href="/web-doxygen/docs/api/structs/baseinfo/#details">More...</a></p>
+This class stores information about an inheritance relation. <a href="/web-doxygen/docs/api/structs/baseinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="/web-doxygen/docs/api/structs/taginfo/#details">More...</a></p>
+This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="/web-doxygen/docs/api/structs/taginfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -84,7 +84,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Represents an unstructured piece of information, about an entity found in the sources. <a href="/web-doxygen/docs/api/classes/entry/#details">More...</a></p>
+Represents an unstructured piece of information, about an entity found in the sources. <a href="/web-doxygen/docs/api/classes/entry/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -181,7 +181,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
+Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -198,7 +199,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### COMMAND&#95;OVERRIDES {#a9b7a858993a3764387f7a9d7a398e39c}
+### COMMAND\_OVERRIDES {#a9b7a858993a3764387f7a9d7a398e39c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -217,26 +218,27 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, callGraph            ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, callerGraph          ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, referencedByRelation ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, referencesRelation   ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, inlineSource         ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, includeGraph         ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, includedByGraph      ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, directoryGraph       ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, collaborationGraph   ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, groupGraph           ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(bool,          bool, 1, enumValues           ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE&#95;ENTRY</a>(CLASS&#95;GRAPH&#95;t, int,  3, inheritanceGraph     )
+<div class="doxyVerbatim">  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, callGraph            ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, callerGraph          ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, referencedByRelation ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, referencesRelation   ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, inlineSource         ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, includeGraph         ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, includedByGraph      ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, directoryGraph       ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, collaborationGraph   ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, groupGraph           ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, enumValues           ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(CLASS\_GRAPH\_t, int,  3, inheritanceGraph     )
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -259,7 +261,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### OVERRIDE&#95;ENTRY {#a39e0f3964269b8ff50bc8c841e2dd073}
+### OVERRIDE\_ENTRY {#a39e0f3964269b8ff50bc8c841e2dd073}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -278,16 +280,17 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    store&#95;type m&#95;##name          : bits;       \
-    bool m&#95;##name##ExplicitlySet : 1;
+<div class="doxyVerbatim">    store\_type m\_##name          : bits;       \
+    bool m\_##name##ExplicitlySet : 1;
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -300,7 +303,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### OVERRIDE&#95;ENTRY {#a39e0f3964269b8ff50bc8c841e2dd073}
+### OVERRIDE\_ENTRY {#a39e0f3964269b8ff50bc8c841e2dd073}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -319,23 +322,24 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    void override&#95;##name(type value) {                         \
-      m&#95;##name = to&#95;store&#95;type(value);                         \
-      m&#95;##name##ExplicitlySet = true;                          \
-      /&#42; printf("overrule&#95;%s(%d) isSet=%d\n",#name,value,m&#95;##name##ExplicitlySet); &#42;/ \
+<div class="doxyVerbatim">    void override\_##name(type value) {                         \
+      m\_##name = to\_store\_type(value);                         \
+      m\_##name##ExplicitlySet = true;                          \
+      /\* printf("overrule\_%s(%d) isSet=%d\n",#name,value,m\_##name##ExplicitlySet); \*/ \
     }                                                          \
-    void apply&#95;##name(std::function&lt;void(type)&gt; func) const {  \
-      /&#42; printf("apply&#95;%s(%d) isSet=%d\n",#name,m&#95;##name,m&#95;##name##ExplicitlySet); &#42;/ \
-      if (m&#95;##name##ExplicitlySet) func(from&#95;store&#95;type(m&#95;##name)); \
+    void apply\_##name(std::function&lt;void(type)&gt; func) const {  \
+      /\* printf("apply\_%s(%d) isSet=%d\n",#name,m\_##name,m\_##name##ExplicitlySet); \*/ \
+      if (m\_##name##ExplicitlySet) func(from\_store\_type(m\_##name)); \
     }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 

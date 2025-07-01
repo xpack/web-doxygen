@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ClassDef` Class Reference
 
-<p>A abstract class representing of a compound symbol. <a href="#details">More...</a></p>
+A abstract class representing of a compound symbol. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
+The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The various compound types. <a href="#ae70cf86d35fe954a94c566fbcfc87939">More...</a></p>
+The various compound types. <a href="#ae70cf86d35fe954a94c566fbcfc87939">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -152,7 +152,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES. <a href="#a6b24aeece30ae83930ed2a3ca0621fec">More...</a></p>
+Returns TRUE if this is a local class definition, see EXTRACT\_LOCAL\_CLASSES. <a href="#a6b24aeece30ae83930ed2a3ca0621fec">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -166,7 +166,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the classes nested into this class <a href="#aeb64dc8f57c5d07f1b1d55bc560a7004">More...</a></p>
+returns the classes nested into this class <a href="#aeb64dc8f57c5d07f1b1d55bc560a7004">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -180,7 +180,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns TRUE if this class has a non-empty detailed description <a href="#a1fd0e2c039c6d81ffa25579184568e87">More...</a></p>
+returns TRUE if this class has a non-empty detailed description <a href="#a1fd0e2c039c6d81ffa25579184568e87">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -194,7 +194,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the file name to use for the collaboration graph <a href="#aabe7312465f1dfe18360ed5effbf7c32">More...</a></p>
+returns the file name to use for the collaboration graph <a href="#aabe7312465f1dfe18360ed5effbf7c32">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -208,7 +208,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the file name to use for the inheritance graph <a href="#a4feb0d6c2afb9ab04ba7faec2becf27e">More...</a></p>
+returns the file name to use for the inheritance graph <a href="#a4feb0d6c2afb9ab04ba7faec2becf27e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -222,7 +222,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the type of compound this is, i.e. <a href="#ae8ba915e00984129bcbbaa4efff48b00">More...</a></p>
+Returns the type of compound this is, i.e. <a href="#ae8ba915e00984129bcbbaa4efff48b00">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -236,7 +236,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the type of compound as a string. <a href="#a239fe977638806153345cd2411c28062">More...</a></p>
+Returns the type of compound as a string. <a href="#a239fe977638806153345cd2411c28062">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -250,7 +250,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the list of base classes from which this class directly inherits. <a href="#a38001a11a297629e363c0db5b1968ab3">More...</a></p>
+Returns the list of base classes from which this class directly inherits. <a href="#a38001a11a297629e363c0db5b1968ab3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -264,7 +264,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Update the list of base classes to the one passed. <a href="#a053f323d6b837a81cd86a82ce3c4d4a4">More...</a></p>
+Update the list of base classes to the one passed. <a href="#a053f323d6b837a81cd86a82ce3c4d4a4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -278,7 +278,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the list of sub classes that directly derive from this class. <a href="#afdeec11149bf831c4c6dd297f7c4e34d">More...</a></p>
+Returns the list of sub classes that directly derive from this class. <a href="#afdeec11149bf831c4c6dd297f7c4e34d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -292,7 +292,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Update the list of sub classes to the one passed. <a href="#a6916d56bb83637aa0be3054cb0f46ac1">More...</a></p>
+Update the list of sub classes to the one passed. <a href="#a6916d56bb83637aa0be3054cb0f46ac1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -306,7 +306,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a dictionary of all members. <a href="#ac8f58a78e8196768f3ddd17e645cf7f9">More...</a></p>
+Returns a dictionary of all members. <a href="#ac8f58a78e8196768f3ddd17e645cf7f9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -320,7 +320,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Return the protection level (Public,Protected,Private) in which this compound was found. <a href="#a759c68ae0af03a49aff1a86d383af68d">More...</a></p>
+Return the protection level (Public,Protected,Private) in which this compound was found. <a href="#a759c68ae0af03a49aff1a86d383af68d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -334,7 +334,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the class is visible in a class diagram, or class hierarchy <a href="#a3067e647412a923d7743258c89eabe75">More...</a></p>
+the class is visible in a class diagram, or class hierarchy <a href="#a3067e647412a923d7743258c89eabe75">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -348,7 +348,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>show this class in the declaration section of its parent? <a href="#a1a79f778ae2201c52ee19c048763d4fa">More...</a></p>
+show this class in the declaration section of its parent? <a href="#a1a79f778ae2201c52ee19c048763d4fa">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -362,7 +362,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the template arguments of this class. <a href="#a201b8f24043f9b7c7cc59d55282f6d47">More...</a></p>
+Returns the template arguments of this class. <a href="#a201b8f24043f9b7c7cc59d55282f6d47">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -376,7 +376,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the namespace this compound is in, or 0 if it has a global scope. <a href="#aed4a0864e51e5a3ac616f6c8e10f56c6">More...</a></p>
+Returns the namespace this compound is in, or 0 if it has a global scope. <a href="#aed4a0864e51e5a3ac616f6c8e10f56c6">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -390,7 +390,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the C++20 module in which this compound's definition can be found. <a href="#a109769b1e6eb23eb36e23530e667703e">More...</a></p>
+Returns the C++20 module in which this compound's definition can be found. <a href="#a109769b1e6eb23eb36e23530e667703e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -404,7 +404,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the member with the given name. <a href="#a3bec35936216530bf2385a8dfd2ab0e5">More...</a></p>
+Returns the member with the given name. <a href="#a3bec35936216530bf2385a8dfd2ab0e5">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -418,7 +418,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE iff <em>bcd</em> is a direct or indirect base class of this class. <a href="#a3e118df515565a29662b41396ee66579">More...</a></p>
+Returns TRUE iff <em>bcd</em> is a direct or indirect base class of this class. <a href="#a3e118df515565a29662b41396ee66579">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -432,7 +432,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE iff <em>bcd</em> is a direct or indirect sub class of this class. <a href="#a9a4c36f29d33a44a6b7460e89a7cd741">More...</a></p>
+Returns TRUE iff <em>bcd</em> is a direct or indirect sub class of this class. <a href="#a9a4c36f29d33a44a6b7460e89a7cd741">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -446,7 +446,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns TRUE iff <em>md</em> is a member of this class or of the the public/protected members of a base class <a href="#aa4f8aa899e9bf12dacd3442c9647bac4">More...</a></p>
+returns TRUE iff <em>md</em> is a member of this class or of the the public/protected members of a base class <a href="#aa4f8aa899e9bf12dacd3442c9647bac4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -460,7 +460,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a sorted dictionary with all template instances found for this template class. <a href="#a3ceb3e484b62599117b5eb424c10fd10">More...</a></p>
+Returns a sorted dictionary with all template instances found for this template class. <a href="#a3ceb3e484b62599117b5eb424c10fd10">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -474,7 +474,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the template master of which this class is an instance. <a href="#ae587759f556ea0d641b92a30e923a7c9">More...</a></p>
+Returns the template master of which this class is an instance. <a href="#ae587759f556ea0d641b92a30e923a7c9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -488,7 +488,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is a template. <a href="#a30f19d5b8fb17b204b9e41d19b2ca49f">More...</a></p>
+Returns TRUE if this class is a template. <a href="#a30f19d5b8fb17b204b9e41d19b2ca49f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -567,7 +567,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the template parameter lists that form the template declaration of this class. <a href="#a43e4fb6ebed35075ecee567872abbe20">More...</a></p>
+Returns the template parameter lists that form the template declaration of this class. <a href="#a43e4fb6ebed35075ecee567872abbe20">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -594,7 +594,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if there is at least one pure virtual member in this class. <a href="#a12dd6a6b0ac63233a82327a8b2d2d9f2">More...</a></p>
+Returns TRUE if there is at least one pure virtual member in this class. <a href="#a12dd6a6b0ac63233a82327a8b2d2d9f2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -608,7 +608,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is implemented in Objective-C. <a href="#a4d9613dc45d98c8cd04a6fcf6a4f21ee">More...</a></p>
+Returns TRUE if this class is implemented in Objective-C. <a href="#a4d9613dc45d98c8cd04a6fcf6a4f21ee">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -622,7 +622,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is implemented in Fortran. <a href="#a25f184cac0ea4de2d27b0c0957ab9b77">More...</a></p>
+Returns TRUE if this class is implemented in Fortran. <a href="#a25f184cac0ea4de2d27b0c0957ab9b77">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -636,7 +636,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is implemented in C#. <a href="#a8bfbc9a9cc5af4db69a0b5a796a28d38">More...</a></p>
+Returns TRUE if this class is implemented in C#. <a href="#a8bfbc9a9cc5af4db69a0b5a796a28d38">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -650,7 +650,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is marked as final. <a href="#a18c81095d49e7a4e05820d9928deaa45">More...</a></p>
+Returns TRUE if this class is marked as final. <a href="#a18c81095d49e7a4e05820d9928deaa45">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -664,7 +664,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is marked as sealed. <a href="#a3bcc0025ce9b44d8617da2abaf0eb978">More...</a></p>
+Returns TRUE if this class is marked as sealed. <a href="#a3bcc0025ce9b44d8617da2abaf0eb978">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -678,7 +678,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class is marked as published. <a href="#ab61c051bbda755836c90d7be3d63e4f2">More...</a></p>
+Returns TRUE if this class is marked as published. <a href="#ab61c051bbda755836c90d7be3d63e4f2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -692,7 +692,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class represents an Objective-C 2.0 extension (nameless category) <a href="#a8a066b13127c13f73ae916af7d883ea1">More...</a></p>
+Returns TRUE if this class represents an Objective-C 2.0 extension (nameless category) <a href="#a8a066b13127c13f73ae916af7d883ea1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -706,7 +706,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class represents a forward declaration of a template class. <a href="#a8c23670661fa0360c44d3352b16135b4">More...</a></p>
+Returns TRUE if this class represents a forward declaration of a template class. <a href="#a8c23670661fa0360c44d3352b16135b4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -720,7 +720,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if this class represents an interface. <a href="#aebcf69f2e74678dc5e62f1b528c9b902">More...</a></p>
+Returns TRUE if this class represents an interface. <a href="#aebcf69f2e74678dc5e62f1b528c9b902">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -734,7 +734,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the class of which this is a category (Objective-C only) <a href="#a81969b4626cb26cd6061f6c54d051827">More...</a></p>
+Returns the class of which this is a category (Objective-C only) <a href="#a81969b4626cb26cd6061f6c54d051827">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -748,7 +748,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the name of the class including outer classes, but not including namespaces. <a href="#a2bdad1ebef918dac2ae32233c26ef723">More...</a></p>
+Returns the name of the class including outer classes, but not including namespaces. <a href="#a2bdad1ebef918dac2ae32233c26ef723">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -762,7 +762,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the members in the list identified by <em>lt</em>. <a href="#a7d2f9d08207ecf5b227c11f8b4ea6d9f">More...</a></p>
+Returns the members in the list identified by <em>lt</em>. <a href="#a7d2f9d08207ecf5b227c11f8b4ea6d9f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -776,7 +776,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the list containing the list of members sorted per type. <a href="#a283e841b3eb34d0ba2e0e106a4e3ad59">More...</a></p>
+Returns the list containing the list of members sorted per type. <a href="#a283e841b3eb34d0ba2e0e106a4e3ad59">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -790,7 +790,7 @@ class ClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the member groups defined for this class. <a href="#add2c3b56273ce664bbaeb0ce1c8f420c">More...</a></p>
+Returns the member groups defined for this class. <a href="#add2c3b56273ce664bbaeb0ce1c8f420c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1269,12 +1269,12 @@ class ClassDef { ... }
 
 ## Description {#details}
 
-<p>A abstract class representing of a compound symbol.</p>
+A abstract class representing of a compound symbol.
 
 
-<p>A compound can be a class, struct, union, interface, service, singleton, or exception.</p>
+A compound can be a class, struct, union, interface, service, singleton, or exception.
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -1297,7 +1297,8 @@ class ClassDef { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>The various compound types.</p>
+
+The various compound types.
 
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
@@ -1306,54 +1307,54 @@ class ClassDef { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Class<a id="ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Struct<a id="ae70cf86d35fe954a94c566fbcfc87939adbed80de6b389027e03afb5abb06f2c9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Union<a id="ae70cf86d35fe954a94c566fbcfc87939a07fb8df6b10c0140665c0421b6f64c09"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Interface<a id="ae70cf86d35fe954a94c566fbcfc87939a6ff6e3b1bbf7e59a752826880e148528"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Protocol<a id="ae70cf86d35fe954a94c566fbcfc87939a16feb88dead0850cea552a51ad9d26b5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Category<a id="ae70cf86d35fe954a94c566fbcfc87939a937d0378cd8fb4b49efe215cc6c00469"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Exception<a id="ae70cf86d35fe954a94c566fbcfc87939ad14369c9a6f5e3977c0e02714a4beba8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Service<a id="ae70cf86d35fe954a94c566fbcfc87939aaf2c9d4d2eaa6e6a614d7bd164a29c0e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Singleton<a id="ae70cf86d35fe954a94c566fbcfc87939a34f6a5dd42307d62a5fe3038b245a667"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1398,7 +1399,8 @@ class ClassDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a83b0c4ffd68fcb029528f950303a1ca0">ClassDefAliasImpl::addGroupedInheritedMembers</a> and <a href="/web-doxygen/docs/api/classes/memberlist/#a202ad1f62e6c27cf1dd83b6355fad73b">MemberList::writeDeclarations</a>.
 </div>
@@ -1421,9 +1423,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a83b0c4f
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the list of base classes from which this class directly inherits.</p>
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the list of base classes from which this class directly inherits.
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc7055ce4b5c3004ce550ed">VhdlDocGen::addBaseClass</a>, <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a45107701951da66c41e13c127fc1e6e6">DotGfxHierarchyTable::addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#acc3618423ef6577a41a35c61be91a330">ClassDefAliasImpl::baseClasses</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#af0c88e52d4d7424c0840a23a522dc330">classHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ad1c7d957765b81dbe423423b2f5e5b48">classInheritedProtectionLevel</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0d52d8428bbcdd06b6975">ClassDefImpl::hideDerivedVariablesInPython</a>, <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a649670159a00e0a1c323df1b40bf01e6">minClassDistance</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a15f807d04ca6a15d183d7c05396bae30">trimBaseClassScope</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a0f56a60d5ebb164be2467e27c8975642">writeClassTreeToOutput</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#af2995da196faa8940cca40cfc158b9aa">writeObjCMethodCall</a>.
 </div>
@@ -1446,11 +1449,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the class of which this is a category (Objective-C only)</p>
 
-<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the class of which this is a category (Objective-C only)
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9fc4cfd40097fc38d509676f1f060fad">MemberDefImpl::&#95;writeCategoryRelation</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aada67d5160e3ae9c3f0dedadf267d894">ClassDefAliasImpl::categoryOf</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ad1c7d957765b81dbe423423b2f5e5b48">classInheritedProtectionLevel</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a649670159a00e0a1c323df1b40bf01e6">minClassDistance</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#af2995da196faa8940cca40cfc158b9aa">writeObjCMethodCall</a>.
+Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9fc4cfd40097fc38d509676f1f060fad">MemberDefImpl::\_writeCategoryRelation</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aada67d5160e3ae9c3f0dedadf267d894">ClassDefAliasImpl::categoryOf</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ad1c7d957765b81dbe423423b2f5e5b48">classInheritedProtectionLevel</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a649670159a00e0a1c323df1b40bf01e6">minClassDistance</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#af2995da196faa8940cca40cfc158b9aa">writeObjCMethodCall</a>.
 </div>
 </div>
 
@@ -1471,9 +1475,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9fc4cfd4009
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the name of the class including outer classes, but not including namespaces.</p>
 
-<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the name of the class including outer classes, but not including namespaces.
+
+Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a9eb13d241236d480b0d37a8c9a918a09">ClassDefAliasImpl::className</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a9e5659d6cb4369b41809c279d006b44c">VhdlDocGen::findAllArchitectures</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2c4458b0e27e9b97db254d082d1487d2">VhdlDocGen::getClassName</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a5893e87386908aa95d70f866f340b8a8">makeDisplayName</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad4c47fcf278c5cb6b23e82b584413ee8">DefinitionImpl::navigationPathAsString</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a38dfbb5daa66a820f49167beecae6e90">FileDefImpl::sortMemberLists</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a2a3b6387c4b99adde50e0751493d4990">GroupDefImpl::sortMemberLists</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a16de9b0536cf33e6b6380cf55ecb3ca5">ModuleDefImpl::sortMemberLists</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#ade0ababe591c242aa32049874d07e298">NamespaceDefImpl::sortMemberLists</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a67f47b8dc11d967ee47e9bda86fff7e0">VhdlDocGen::writeInlineClassLink</a>.
 </div>
@@ -1496,9 +1501,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a9eb13d2
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the file name to use for the collaboration graph</p>
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+returns the file name to use for the collaboration graph
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ab1ea1a5681a32c3199ce2e4cd5bfc443">ClassDefAliasImpl::collaborationGraphFileName</a> and <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a53601818c690d945d05a971b506bb5df">DotClassGraph::DotClassGraph</a>.
 </div>
@@ -1521,14 +1527,15 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ab1ea1a5
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the type of compound this is, i.e.</p>
+
+Returns the type of compound this is, i.e.
 
 
-<p>class/struct/union/..</p>
+class/struct/union/..
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad2dcf0394d47fc2228362b4cd0d6109e">MemberDefImpl::&#95;writeReimplements</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afb157ec5dd9aa56ca80abcf1fd5099f7">buildInterfaceAndServiceList</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a7db9cd15a920c0bfc3b396a6a1fa1584">compoundIcon</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ab4defbdd48f1c76760c3cdbaefb26982">ClassDefAliasImpl::compoundType</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536d31e211957c9151fdbac2">createTagLessInstance</a>, <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#adfe5e615942afd900cff9f219424d5a5">generateLink</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a4aec37ad5da49941a8993835db185ab8">FileDefImpl::insertClass</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a37dc5ed59ff43edea5cae22046984986">NamespaceDefImpl::insertClass</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a5893e87386908aa95d70f866f340b8a8">makeDisplayName</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad2dcf0394d47fc2228362b4cd0d6109e">MemberDefImpl::\_writeReimplements</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afb157ec5dd9aa56ca80abcf1fd5099f7">buildInterfaceAndServiceList</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a7db9cd15a920c0bfc3b396a6a1fa1584">compoundIcon</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ab4defbdd48f1c76760c3cdbaefb26982">ClassDefAliasImpl::compoundType</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536d31e211957c9151fdbac2">createTagLessInstance</a>, <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#adfe5e615942afd900cff9f219424d5a5">generateLink</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a4aec37ad5da49941a8993835db185ab8">FileDefImpl::insertClass</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a37dc5ed59ff43edea5cae22046984986">NamespaceDefImpl::insertClass</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a5893e87386908aa95d70f866f340b8a8">makeDisplayName</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>.
 </div>
 </div>
 
@@ -1549,9 +1556,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad2dcf0394d4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the type of compound as a string.</p>
 
-<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the type of compound as a string.
+
+Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a998350d1371352749b27cbe3e955f9c5">ClassDefAliasImpl::compoundTypeString</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac8f6bb104126c1406d2d6e5ad368822c">SearchIndex::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a1d51f3aad1177695f1c4a6c1340bfa0b">MemberDefImpl::warnIfUndocumented</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a02dbcdb9b0f5e4fc26ff2e2700f6aa4f">MemberDefImpl::writeDocumentation</a>.
 </div>
@@ -1576,7 +1584,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a74c2a1be234252613efc34fee89e3bac">ClassDefAliasImpl::containsOverload</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a>.
 </div>
@@ -1601,7 +1610,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a74c2a1b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8635f06556c6af82953ab2e0797db8a6">ClassDefImpl::countInheritedDecMembers</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a0a1f62fe6c0c1994a7e054e57b393719">ClassDefAliasImpl::countMemberDeclarations</a>.
 </div>
@@ -1626,7 +1636,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8635f06556c6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8038034311942e74e24735bd87c3601f">ClassDefAliasImpl::countMembersIncludingGrouped</a>.
 </div>
@@ -1651,7 +1662,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8038034
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Reference <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
 
@@ -1678,7 +1690,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ac95ed07819450425cc542c6fe110fc65">ClassDefAliasImpl::generatedFromFiles</a>.
 </div>
@@ -1701,9 +1714,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ac95ed07
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the classes nested into this class</p>
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+returns the classes nested into this class
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000520327a795c8c39f2cd8a">addClassAndNestedClasses</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a97d3881f19cc6d4afb3d7a7376ec222b">ClassDefImpl::addMembersToTemplateInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a90bc9ccd867058973acec037b08218a6">findTagLessClasses</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad6d03ddc7d64482fe61594f39760eec6">ClassDefAliasImpl::getClasses</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a39bb7d9a1e431158cb3a423215f044bb">processTagLessClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>.
 </div>
@@ -1728,7 +1742,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a46cadea07d5df790e78b20f7f3385c17">ClassDefAliasImpl::getExamples</a>.
 </div>
@@ -1751,12 +1766,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a46cadea
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the namespace this compound is in, or 0 if it has a global scope.</p>
+
+Returns the namespace this compound is in, or 0 if it has a global scope.
 
 
-<p>Returns the file in which this compound's definition can be found. Should not return 0 (but it might be a good idea to check anyway).</p>
+Returns the file in which this compound's definition can be found. Should not return 0 (but it might be a good idea to check anyway).
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27eef617922af2a5d7baafffcae">addInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536d31e211957c9151fdbac2">createTagLessInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905bf9bd629622f65075b558">findClassRelation</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8e0a72feb96a836fa1650fe1b9f1e39a">findClassWithinClassContext</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a67d97db3c717b89b9a6211ae48e9273b">findModuleDef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e1597947419c621de298acad">findUsedClassesForClass</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3345ad9e2ab3a9d1b524391ae5f6c545">generateClassOrGlobalLink</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a858094677f40ed5783d6fa0e478d1436">ClassDefAliasImpl::getFileDef</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a60ffd0b23680e5318865a367b0d26871">SymbolResolver::Private::isAccessibleFrom</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6f19768de5264715ae39c70e66c20997">writeTemplateList</a>.
 </div>
@@ -1781,7 +1797,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aa5cc8426c3d589ef6b9f8f515381c1a8">ClassDefAliasImpl::getInstanceOutputFileBase</a>.
 </div>
@@ -1804,9 +1821,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aa5cc842
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the member with the given name.</p>
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the member with the given name.
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#aab0947e93a77169efff48326518717ab">SymbolResolver::Private::followPath</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa723e85238b66b5916c25989013e52b8">generateClassMemberLink</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#a080345cfde4ece732f42ded5413ea957">generateClassOrGlobalLink</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ae517db2634ad080c8525e2372e357846">ClassDefAliasImpl::getMemberByName</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#ab3604b365f2d78c31db8a2fae321b6a8">setCallContextForVar</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#af2995da196faa8940cca40cfc158b9aa">writeObjCMethodCall</a>.
 </div>
@@ -1829,9 +1847,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the member groups defined for this class.</p>
 
-<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the member groups defined for this class.
+
+Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a7bf05103ee29cfb5044803f807b4ffc3">ClassDefAliasImpl::getMemberGroups</a>.
 </div>
@@ -1854,9 +1873,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the members in the list identified by <em>lt</em>.</p>
 
-<p>Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the members in the list identified by <em>lt</em>.
+
+Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536d31e211957c9151fdbac2">createTagLessInstance</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a00216e37afbb1841a9631a80379b7f0a">VhdlDocGen::findAllPackages</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a765683cbd1cf5a8e7374b64a9ac37d98">VhdlDocGen::findFunction</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a358ec24d6f67dee4fb2f983181a314fe">VhdlDocGen::findMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aad904b7993ef051b6141cb1726547c2b">ClassDefAliasImpl::getMemberList</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a39bb7d9a1e431158cb3a423215f044bb">processTagLessClasses</a>.
 </div>
@@ -1881,7 +1901,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad4d18463536
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8757c279d4e5c9045031aee25c803a8e">ClassDefAliasImpl::getMemberListFileName</a>.
 </div>
@@ -1904,9 +1925,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8757c27
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the list containing the list of members sorted per type.</p>
 
-<p>Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the list containing the list of members sorted per type.
+
+Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aaba9f5d25cf840f83a761fac5366004d">ClassDefAliasImpl::getMemberLists</a>.
 </div>
@@ -1929,9 +1951,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the C++20 module in which this compound's definition can be found.</p>
 
-<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the C++20 module in which this compound's definition can be found.
+
+Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a1a32242add36cd5333c0bf797891a656">ClassDefAliasImpl::getModuleDef</a>.
 </div>
@@ -1956,7 +1979,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a1a32242
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a2925368285d630431e824f40245df057">ClassDefAliasImpl::getQualifiers</a>.
 </div>
@@ -1981,7 +2005,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aba326b765f7af4f942eda8ed49db9063">ClassDefAliasImpl::getTemplateBaseClassNames</a>.
 </div>
@@ -2004,12 +2029,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0ee
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a sorted dictionary with all template instances found for this template class.</p>
+
+Returns a sorted dictionary with all template instances found for this template class.
 
 
-<p>Returns 0 if not a template or no instances.</p>
+Returns 0 if not a template or no instances.
 
-<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a96c36f33834fe7c00c5cc237e2a84f15">ClassDefAliasImpl::getTemplateInstances</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a566364d58b27f9c2324d9caeda697818">hasNonReferenceSuperClassRec</a>.
 </div>
@@ -2032,12 +2058,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the template parameter lists that form the template declaration of this class.</p>
+
+Returns the template parameter lists that form the template declaration of this class.
 
 
-<p><a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".</p>
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a85e4b2162a44896395d809a098420c2d">ClassDefAliasImpl::getTemplateParameterLists</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a02dbcdb9b0f5e4fc26ff2e2700f6aa4f">MemberDefImpl::writeDocumentation</a>.
 </div>
@@ -2060,9 +2087,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns TRUE if this class has a non-empty detailed description</p>
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+returns TRUE if this class has a non-empty detailed description
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a17cd90b59ffb3350b65ee8ea591c00bf">ClassDefAliasImpl::hasDetailedDescription</a>.
 </div>
@@ -2087,7 +2115,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a17cd90b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ae099a548e89bc8fe025a23956302c941">ClassDefAliasImpl::hasExamples</a>.
 </div>
@@ -2112,7 +2141,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ae099a54
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a87dbe574a9382a77997d537e765a91dc">ClassDefAliasImpl::hasNonReferenceSuperClass</a>.
 </div>
@@ -2137,7 +2167,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a87dbe57
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a5d42a0caefc7e005ea3c631060e99b67">ClassDefAliasImpl::includeInfo</a>.
 </div>
@@ -2160,9 +2191,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the file name to use for the inheritance graph</p>
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+returns the file name to use for the inheritance graph
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a53601818c690d945d05a971b506bb5df">DotClassGraph::DotClassGraph</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a92ae76c1dfc81b0c710c81ef51f26b49">ClassDefAliasImpl::inheritanceGraphFileName</a>.
 </div>
@@ -2185,9 +2217,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a53601818c69
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if there is at least one pure virtual member in this class.</p>
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if there is at least one pure virtual member in this class.
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#adaae961f8756744ea5dda669438bb72e">ClassDefAliasImpl::isAbstract</a>.
 </div>
@@ -2210,9 +2243,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665b
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns TRUE iff <em>md</em> is a member of this class or of the the public/protected members of a base class</p>
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+returns TRUE iff <em>md</em> is a member of this class or of the the public/protected members of a base class
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a645b16eec442e33bc9e1ec74d905ae7e">ClassDefAliasImpl::isAccessibleMember</a>.
 </div>
@@ -2235,12 +2269,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a645b16e
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE iff <em>bcd</em> is a direct or indirect base class of this class.</p>
+
+Returns TRUE iff <em>bcd</em> is a direct or indirect base class of this class.
 
 
-<p>This function will recursively traverse all branches of the inheritance tree.</p>
+This function will recursively traverse all branches of the inheritance tree.
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27eef617922af2a5d7baafffcae">addInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905bf9bd629622f65075b558">findClassRelation</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#a767fe9c8dd14640cc99a6f1c9e0981c7">findMemberLink</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a7f39d12e122ea5b3b193bbcebf0d4ffa">ClassDefAliasImpl::isBaseClass</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad65dc2d081e8048a924cd1402e4399ef">ClassDefImpl::isBaseClass</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a738d45232dc0fca703f9e9042acae9c0">MemberDefImpl::isReimplementedBy</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ac7d0f125a2bffca08e8c52644bf8c6f2">VhdlDocGen::isSubClass</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a>.
 </div>
@@ -2263,9 +2298,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab534a27e
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is implemented in C#.</p>
 
-<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is implemented in C#.
+
+Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a79e5f3bb598a5c4e7d7da910b94346a7">ClassDefAliasImpl::isCSharp</a>.
 </div>
@@ -2290,7 +2326,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a79e5f3b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000520327a795c8c39f2cd8a">addClassAndNestedClasses</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a7c79bfd6caa7a9f75b579efc5e6c8d21">ClassDefAliasImpl::isEmbeddedInOuterScope</a>.
 </div>
@@ -2313,9 +2350,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class represents an Objective-C 2.0 extension (nameless category)</p>
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class represents an Objective-C 2.0 extension (nameless category)
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad58aee30483201711f9c22c4a7a76f37">ClassDefAliasImpl::isExtension</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>.
 </div>
@@ -2338,9 +2376,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad58aee3
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is marked as final.</p>
 
-<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is marked as final.
+
+Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a3b5f214b1d0ca22e9cca64ceff86fad8">ClassDefAliasImpl::isFinal</a>.
 </div>
@@ -2363,9 +2402,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665b
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is implemented in Fortran.</p>
 
-<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is implemented in Fortran.
+
+Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a00c035549072771ff77d41853d1dcb85">ClassDefAliasImpl::isFortran</a>.
 </div>
@@ -2388,9 +2428,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a00c0355
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class represents a forward declaration of a template class.</p>
 
-<p>Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class represents a forward declaration of a template class.
+
+Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a57c5f72005a5274806e9c313008fe20c">ClassDefAliasImpl::isForwardDeclared</a>.
 </div>
@@ -2415,7 +2456,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000520327a795c8c39f2cd8a">addClassAndNestedClasses</a>, <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae88578ec6e295f">Index::addClassMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a3983c632458a22f0a08586f8cecd5a3f">ClassDefAliasImpl::isImplicitTemplateInstance</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>.
 </div>
@@ -2438,9 +2480,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class represents an interface.</p>
 
-<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class represents an interface.
+
+Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad8ef9734df70fb412b8448263a6710cc">ClassDefAliasImpl::isInterface</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a02de81220c8c130bc7c8f56dc5ecf55d">ClassDefImpl::writeIncludeFilesForSlice</a>.
 </div>
@@ -2465,7 +2508,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad8ef973
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8f5e61e688959db751fdd0f4c348bff0">ClassDefAliasImpl::isJavaEnum</a>, <a href="/web-doxygen/docs/api/classes/classdefmutable/#ad3f331c1d12e6f5256e749173835b2b8">ClassDefMutable::sortAllMembersList</a> and <a href="/web-doxygen/docs/api/classes/memberlist/#a8cab5da1323054e47ede48e03a1420a2">MemberList::writeSimpleDocumentation</a>.
 </div>
@@ -2488,9 +2532,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8f5e61e
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES.</p>
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this is a local class definition, see EXTRACT\_LOCAL\_CLASSES.
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aa0182439370e6edec85940f146165a6c">ClassDefAliasImpl::isLocal</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>.
 </div>
@@ -2513,9 +2558,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aa018243
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is implemented in Objective-C.</p>
 
-<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is implemented in Objective-C.
+
+Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#afe264a9e05a22242d446830b72b203da">MemberDefImpl::displayDefinition</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af999602a0c50fba3fc8e8e9a6099117b">ClassDefAliasImpl::isObjectiveC</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a02dbcdb9b0f5e4fc26ff2e2700f6aa4f">MemberDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a2e17a6acd90199653e458efae6018927">ClassDefImpl::writeMemberList</a>.
 </div>
@@ -2538,9 +2584,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#afe264a9e05a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is marked as published.</p>
 
-<p>Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is marked as published.
+
+Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a33f513d25096ffbdd609f8a8b8d90eaa">ClassDefAliasImpl::isPublished</a>.
 </div>
@@ -2563,9 +2610,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a33f513d
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is marked as sealed.</p>
 
-<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is marked as sealed.
+
+Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a845e9d5013f50f4cc3b993f9c25e19bc">ClassDefAliasImpl::isSealed</a>.
 </div>
@@ -2590,7 +2638,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ab3b02c051abc4e2dc28d7abb654cf1e9">MemberDefImpl::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a08141c981655c1db838d76cd0044df0c">MemberDefImpl::isDetailedSectionVisible</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a009dcf17da2c27f28a96b4853d86a1b2">ClassDefAliasImpl::isSimple</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>.
 </div>
@@ -2615,7 +2664,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ab3b02c051ab
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af586f33895a2216917c713a592650c93">ClassDefAliasImpl::isSliceLocal</a>.
 </div>
@@ -2640,7 +2690,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af586f33
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af8842bc054a73e6f2afde250689769c5">ClassDefAliasImpl::isSmartPointer</a>.
 </div>
@@ -2663,9 +2714,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af8842bc
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE iff <em>bcd</em> is a direct or indirect sub class of this class.</p>
 
-<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE iff <em>bcd</em> is a direct or indirect sub class of this class.
+
+Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905bf9bd629622f65075b558">findClassRelation</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a0f71e5d60cca54183d1065a41c1a0f44">ClassDefAliasImpl::isSubClass</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a00883ff38c8750298ceb59e13823e52b">ClassDefImpl::isSubClass</a>.
 </div>
@@ -2688,9 +2740,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if this class is a template.</p>
 
-<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns TRUE if this class is a template.
+
+Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d23658541704d3493a7a881583d55">flushCachedTemplateRelations</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714c6e35d4ddc62777790">getCanonicalTypeForIdentifier</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af13b5351fc7fd510363e990fa879f98f">ClassDefAliasImpl::isTemplate</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>.
 </div>
@@ -2715,7 +2768,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a40f0f9c9cb6b6b7392ae6e695fc74671">SymbolResolver::Private::getResolvedSymbol</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#aef9c4245c6f445e282a59005f1f6ca5a">SymbolResolver::Private::getResolvedType</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a4ad1e6b4087d769162b741416eb71aad">ClassDefAliasImpl::isTemplateArgument</a>.
 </div>
@@ -2740,7 +2794,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a40
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714c6e35d4ddc62777790">getCanonicalTypeForIdentifier</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#af649a11e97e72bb215cbf6b63bc6dec8">ClassDefAliasImpl::isUsedOnly</a>.
 </div>
@@ -2763,9 +2818,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the class is visible in a class diagram, or class hierarchy</p>
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+the class is visible in a class diagram, or class hierarchy
+
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a45107701951da66c41e13c127fc1e6e6">DotGfxHierarchyTable::addHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa17b12d6a1e62b6d01659a5c9857aa4e">classHasVisibleRoot</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#aba6e058bd7da92eb4d1035ab15c51cf6">ClassDefImpl::countInheritedByNodes</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a944f11401da9c071a468c2462842aad7">ClassDefImpl::countInheritsNodes</a>, <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a2dec55de26c5156f759c5e74f541a3c9">ClassDefAliasImpl::isVisibleInHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a0f56a60d5ebb164be2467e27c8975642">writeClassTreeToOutput</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a24a546c83a0d35d0f034b822def5e2d7">ClassDefImpl::writeInheritanceGraph</a>.
 </div>
@@ -2788,12 +2844,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a4510
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a dictionary of all members.</p>
+
+Returns a dictionary of all members.
 
 
-<p>This includes any inherited members. Members are sorted alphabetically.</p>
+This includes any inherited members. Members are sorted alphabetically.
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a81142c12bb2ef7638500997115bf2f43">PerlModGenerator::addListOfAllMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a97d3881f19cc6d4afb3d7a7376ec222b">ClassDefImpl::addMembersToTemplateInstance</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab6c1ebf5d50811e57eee6f8d2e201744">computeClassRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e1597947419c621de298acad">findUsedClassesForClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7c714f2eedf0d52d8428bbcdd06b6975">ClassDefImpl::hideDerivedVariablesInPython</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a352f59ecd49f57e3672483e74a3f28fb">ClassDefAliasImpl::memberNameInfoLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a443122a21e609582f590173accd789a1">ClassDefImpl::mergeCategory</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a9945c9dd42aff903b779e932452a1765">ClassDefImpl::mergeMembersFromBaseClasses</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a361dd0c822c454f8b1fe78d762c9d872">writeListOfAllMembers</a>.
 </div>
@@ -2818,7 +2875,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a81142c12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53f449c9f3ad06cead61f7a">findUsingDeclImports</a>.
 </div>
@@ -2841,9 +2899,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a1db2f74ea53
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Return the protection level (Public,Protected,Private) in which this compound was found.</p>
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Return the protection level (Public,Protected,Private) in which this compound was found.
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000520327a795c8c39f2cd8a">addClassAndNestedClasses</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab6898e9270508ce95ad8ebb5ecbedaa6">VhdlDocGen::findMember</a>, <a href="/web-doxygen/docs/api/files/src/vhdlcode-l/#a0cf2ae6bf35f920987bb1804a5fed8b7">generateMemLink</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2c4458b0e27e9b97db254d082d1487d2">VhdlDocGen::getClassName</a>, <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ab51377e0618f4b5bc839c21db9339571">getSpecifierTypeFromClass</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a4ddceeda3319a2ba878acc54cca4e70e">ClassDefImpl::insertSubClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a7961a65064ffd08298daa974dbf22f62">ClassDefAliasImpl::protection</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805a9ccfb2edd9e6c39717">writeClassTree</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a0f56a60d5ebb164be2467e27c8975642">writeClassTreeToOutput</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a67f47b8dc11d967ee47e9bda86fff7e0">VhdlDocGen::writeInlineClassLink</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a99c857205029d5e52c0a7c26f18ef3ed">VhdlDocGen::writeVHDLDeclaration</a>.
 </div>
@@ -2868,7 +2927,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a83afd139000
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad736f00784a47fe1c1bf6317f9a1b51b">addMethodToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84e986afdbc14dcba2bcf3c">addVariableToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602ab473a38ae5ae27e66611">findMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab2ea86daea5714c6e35d4ddc62777790">getCanonicalTypeForIdentifier</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a5893e87386908aa95d70f866f340b8a8">makeDisplayName</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>.
 </div>
@@ -2893,7 +2953,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a01f7627552da826d1fc811a1cb7745be">ClassDefAliasImpl::requiresClause</a>.
 </div>
@@ -2916,9 +2977,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the list of sub classes that directly derive from this class.</p>
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the list of sub classes that directly derive from this class.
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a45107701951da66c41e13c127fc1e6e6">DotGfxHierarchyTable::addHierarchy</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#af0c88e52d4d7424c0840a23a522dc330">classHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a3dbc9c08f8cf61bdd6a98fce028ae320">generateDEFForClass</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a44b30742275d27dcfe5eb9ea286af80f">PerlModGenerator::generatePerlModForClass</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a566364d58b27f9c2324d9caeda697818">hasNonReferenceSuperClassRec</a>, <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ac7d0f125a2bffca08e8c52644bf8c6f2">VhdlDocGen::isSubClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8da844453583bd41555356e618e421d3">ClassDefAliasImpl::subClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a0f56a60d5ebb164be2467e27c8975642">writeClassTreeToOutput</a>.
 </div>
@@ -2943,7 +3005,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a4510
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a751ea04eced6b1babc036079c65442b3">ClassDefAliasImpl::subGrouping</a>.
 </div>
@@ -2968,7 +3031,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a751ea04
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad2fdbc08bbbbc42580f6cc5dcedd6bef">ClassDefAliasImpl::tagLessReference</a>.
 </div>
@@ -2991,9 +3055,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad2fdbc0
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the template arguments of this class.</p>
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Returns the template arguments of this class.
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a97d3881f19cc6d4afb3d7a7376ec222b">ClassDefImpl::addMembersToTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/classdefmutable/#ad59851d3155ba565dfe74bbb919435cc">ClassDefMutable::addMembersToTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/classdefmutable/#a8839c9270bdf7c9779b0bcf221608f0f">ClassDefMutable::addMemberToTemplateInstance</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a5375ce03d260026390f88a202e99fe33">addTemplateList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae13abaf328534f92b57bb6af8208f31d">findBaseClassesForClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f26028922a120817dd5292aad1bcef4">findTemplateInstanceRelation</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a595b7d13e1597947419c621de298acad">findUsedClassesForClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aa2b4c58062de6e3075936abc6c29dd7e">getTemplateArgumentsFromName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1dc6b9f0a9cc58498da6f8d4ffe120c1">insertTemplateSpecifierInScope</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a28c7c96ebabd6ec7cf5c81f01288d1e3">resolveTemplateInstanceInType</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ab40d758b9f5159a2d26d0b59efe7e36d">searchTemplateSpecs</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a77a2605db1e0eb2e8de6af646aa7e3fa">ClassDefAliasImpl::templateArguments</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6f19768de5264715ae39c70e66c20997">writeTemplateList</a>.
 </div>
@@ -3016,12 +3081,13 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the template master of which this class is an instance.</p>
+
+Returns the template master of which this class is an instance.
 
 
-<p>Returns 0 if not applicable.</p>
+Returns 0 if not applicable.
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad65dc2d081e8048a924cd1402e4399ef">ClassDefImpl::isBaseClass</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ac7d0f125a2bffca08e8c52644bf8c6f2">VhdlDocGen::isSubClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a015321aa6ad5077eaefabeced13bfd4e">makeTemplateInstanceRelation</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aec00fde6dc30bb24809fee577bb09815">ClassDefAliasImpl::templateMaster</a>.
 </div>
@@ -3046,7 +3112,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ad805eac8641d4d75315d8385315cd117">ClassDefAliasImpl::templateTypeConstraints</a>.
 </div>
@@ -3071,7 +3138,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a358d46451cf46a373a32d0c5658b0936">ClassDefAliasImpl::title</a> and <a href="#ac598c1ecb31cdb19524cc60cfe312667">writeMemberDeclarations</a>.
 </div>
@@ -3096,7 +3164,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a5850425ae3d9bfdb3892661066d8bd9f">ClassDefAliasImpl::typeConstraints</a>.
 </div>
@@ -3119,9 +3188,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a5850425
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Update the list of base classes to the one passed.</p>
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Update the list of base classes to the one passed.
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc7055ce4b5c3004ce550ed">VhdlDocGen::addBaseClass</a>.
 </div>
@@ -3144,9 +3214,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Update the list of sub classes to the one passed.</p>
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+Update the list of sub classes to the one passed.
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 </div>
 </div>
 
@@ -3169,7 +3240,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4892ca19efc705
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a16cff2ab73c4abbd38d29b5a12e8021c">ClassDefAliasImpl::usedByImplementationClasses</a>.
 </div>
@@ -3194,7 +3266,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a39a5532e4d59a5a5adcad9e5d7ec4cab">ClassDefAliasImpl::usedFiles</a>.
 </div>
@@ -3219,7 +3292,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a39a5532
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a257058fa8508a33ca9dbbfc8715838e4">ClassDefAliasImpl::usedImplementationClasses</a>.
 </div>
@@ -3242,9 +3316,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>show this class in the declaration section of its parent?</p>
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+show this class in the declaration section of its parent?
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ae4d8df5b0e45883b18308263d215200f">ClassDefAliasImpl::visibleInParentsDeclList</a>.
 </div>
@@ -3269,7 +3344,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#ae4d8df5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a6effa63252fa897e5521fd8034bb19a9">ClassDefAliasImpl::writeDeclaration</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3ce80dae66a91da51b4a44ad1d5f3440">MemberDefImpl::writeDeclaration</a>.
 </div>
@@ -3294,7 +3370,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a6effa63
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#abcfb957d1b34d6e323a5ae8f8f7c0da3">ClassDefAliasImpl::writeDeclarationLink</a>.
 </div>
@@ -3319,7 +3396,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#abcfb957
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e238a458b7a64ef221973a4">generateNamespaceClassDocs</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a236a08389de317adcab69a7ab6e9a37a">ClassDefAliasImpl::writeDocumentation</a>.
 </div>
@@ -3344,7 +3422,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e238a458b7a64ef221973a4">generateNamespaceClassDocs</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#aa63ae9765c16beef2b4a889b0f5d321b">ClassDefAliasImpl::writeDocumentationForInnerClasses</a>.
 </div>
@@ -3369,7 +3448,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8c919b56012472db7a02ccb01316ccab">ClassDefAliasImpl::writeInlineDocumentation</a>.
 </div>
@@ -3394,7 +3474,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a8c919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#a6bba5f5f3ba3a36e97d8d7106001480d">MemberListType::Invalid</a> and <a href="#afb51998523ff484408b2a96fd4f3fced">title</a>.
 
@@ -3421,7 +3502,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a7fb5141ea887
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e238a458b7a64ef221973a4">generateNamespaceClassDocs</a> and <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#afcedf72f74d9a02cd4e29852c1e07ebe">ClassDefAliasImpl::writeMemberList</a>.
 </div>
@@ -3446,7 +3528,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a672214abd88e36416d36b390728fc0f4">ClassDefAliasImpl::writeMemberPages</a>.
 </div>
@@ -3471,7 +3554,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a672214a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a190101033114f81cf21225e28525d833">ClassDefAliasImpl::writePageNavigation</a>.
 </div>
@@ -3496,7 +3580,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a1901010
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a70e4e875c4a4b14689d58f1114ead623">ClassDefAliasImpl::writeQuickMemberLinks</a>.
 </div>
@@ -3521,7 +3606,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a70e4e87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a2bcc1c98274b691e8709551d753b0a18">ClassDefAliasImpl::writeSummaryLinks</a>.
 </div>
@@ -3546,7 +3632,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a2bcc1c9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
+Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a076783e77d8c5731d465d196336416fb">ClassDefAliasImpl::writeTagFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acbd9db076ae71bddeb6c5e9b27dd23da">writeTagFile</a>.
 </div>
@@ -3556,7 +3643,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefaliasimpl/#a076783e
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a></li>

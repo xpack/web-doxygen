@@ -26,7 +26,7 @@ class ClangParser::Private { ... }
 </div>
 
 
-<p>Definition at line 991 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+Definition at line 991 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.
 
 <hr/>
 

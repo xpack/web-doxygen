@@ -58,13 +58,13 @@ struct XMLParser::Private { ... }
 </table>
 
 
-<p>Definition at line 430 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+Definition at line 430 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Attributes
 
-### xmlYY&#95;extra {#a89c4b14e3b667523951440a834bfc605}
+### xmlYY\_extra {#a89c4b14e3b667523951440a834bfc605}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -83,7 +83,8 @@ struct XMLParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct XMLParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 432 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
+Definition at line 432 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct XMLParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a></li>

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-<p>The namespaces used by this project are:</p>
+The namespaces used by this project are:
 
 <table class="doxyTreeTable">
 

@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Properties are used to format the directories in the graph distinctively. <a href="/web-doxygen/docs/api/structs/dotdirproperty/#details">More...</a></p>
+Properties are used to format the directories in the graph distinctively. <a href="/web-doxygen/docs/api/structs/dotdirproperty/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="/web-doxygen/docs/api/classes/dotdirpropertybuilder/#details">More...</a></p>
+Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="/web-doxygen/docs/api/classes/dotdirpropertybuilder/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -97,7 +97,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Elements consist of (1) directory relation and (2) whether it is pointing only to inherited dependees. <a href="#a0540771f72e56700a0d30f72580d0065">More...</a></p>
+Elements consist of (1) directory relation and (2) whether it is pointing only to inherited dependees. <a href="#a0540771f72e56700a0d30f72580d0065">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -117,7 +117,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a DOT color name according to the directory depth. <a href="#a683792f7f7df231861acd54ff905211d">More...</a></p>
+Returns a DOT color name according to the directory depth. <a href="#a683792f7f7df231861acd54ff905211d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -131,7 +131,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a DOT color name according to the directory properties. <a href="#aed9febe225f49a478f1ac4ab8c92786d">More...</a></p>
+Returns a DOT color name according to the directory properties. <a href="#aed9febe225f49a478f1ac4ab8c92786d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -145,7 +145,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns a DOT node style according to the directory properties. <a href="#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">More...</a></p>
+Returns a DOT node style according to the directory properties. <a href="#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -172,7 +172,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Puts DOT code for drawing directory to stream and adds it to the list. <a href="#a840611db0f9ff308b7167b3fd3e0c4d2">More...</a></p>
+Puts DOT code for drawing directory to stream and adds it to the list. <a href="#a840611db0f9ff308b7167b3fd3e0c4d2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -186,7 +186,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Checks, if the directory is a the maximum drawn directory level. <a href="#a20837cde372c359b1ce5070096d472e0">More...</a></p>
+Checks, if the directory is a the maximum drawn directory level. <a href="#a20837cde372c359b1ce5070096d472e0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -200,7 +200,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Writes DOT code for opening a cluster subgraph to stream. <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">More...</a></p>
+Writes DOT code for opening a cluster subgraph to stream. <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -227,7 +227,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Assembles a list of the directory relations and whether or not they result from "inheritance". <a href="#a4cae8568157c4b4b1c9a96af855d2b85">More...</a></p>
+Assembles a list of the directory relations and whether or not they result from "inheritance". <a href="#a4cae8568157c4b4b1c9a96af855d2b85">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -241,7 +241,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Recursively draws directory tree. <a href="#aa598dce9105a7992d33b10a15beb70d5">More...</a></p>
+Recursively draws directory tree. <a href="#aa598dce9105a7992d33b10a15beb70d5">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -255,7 +255,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Write DOT code for directory dependency graph. <a href="#ac4e7090b3ce2c42151afd6b83298096f">More...</a></p>
+Write DOT code for directory dependency graph. <a href="#ac4e7090b3ce2c42151afd6b83298096f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -288,7 +288,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -316,9 +317,10 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Elements consist of (1) directory relation and (2) whether it is pointing only to inherited dependees.</p>
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Elements consist of (1) directory relation and (2) whether it is pointing only to inherited dependees.
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -357,7 +359,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Assembles a list of the directory relations and whether or not they result from "inheritance".</p>
+
+Assembles a list of the directory relations and whether or not they result from "inheritance".
 
 
 <dl class="doxyParamsList">
@@ -366,21 +369,21 @@ toc_max_heading_level: 4
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">dependencies</td>
-<td class="doxyParamItemDescription"><p>Array to add the dependencies to.</p></td>
+<td class="doxyParamItemDescription">Array to add the dependencies to.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">srcDir</td>
-<td class="doxyParamItemDescription"><p>is the source of the dependency.</p></td>
+<td class="doxyParamItemDescription">is the source of the dependency.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isLeaf</td>
-<td class="doxyParamItemDescription"><p>true, if no children are drawn for this directory.</p></td>
+<td class="doxyParamItemDescription">true, if no children are drawn for this directory.</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -410,7 +413,7 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
 </div>
 
-### common&#95;attributes() {#a120714f9fe392105dac20e1759dcb1d6}
+### common\_attributes() {#a120714f9fe392105dac20e1759dcb1d6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -434,7 +437,8 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -481,7 +485,8 @@ Referenced by <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -519,12 +524,13 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Writes DOT code for opening a cluster subgraph to stream.</p>
+
+Writes DOT code for opening a cluster subgraph to stream.
 
 
-<p>Ancestor clusters directly get a label. Other clusters get a plain text node with a label instead. This is because the plain text node can be used to draw dependency relationships.</p>
+Ancestor clusters directly get a label. Other clusters get a plain text node with a label instead. This is because the plain text node can be used to draw dependency relationships.
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -556,7 +562,7 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
 
 
-References <a href="#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="#a683792f7f7df231861acd54ff905211d">getDirectoryBackgroundColor</a>, <a href="#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#aa198c67f6d58fdae57c8502913ed35d7">DirDef::shortName</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#a120714f9fe392105dac20e1759dcb1d6">common\_attributes</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="#a683792f7f7df231861acd54ff905211d">getDirectoryBackgroundColor</a>, <a href="#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#aa198c67f6d58fdae57c8502913ed35d7">DirDef::shortName</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a> and <a href="#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a>.
 </div>
@@ -584,7 +590,8 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a> and <a h
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Puts DOT code for drawing directory to stream and adds it to the list.</p>
+
+Puts DOT code for drawing directory to stream and adds it to the list.
 
 
 <dl class="doxyParamsList">
@@ -593,29 +600,29 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a> and <a h
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] t</td>
-<td class="doxyParamItemDescription"><p>stream to which the DOT code is written to</p></td>
+<td class="doxyParamItemDescription">stream to which the DOT code is written to</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] directory</td>
-<td class="doxyParamItemDescription"><p>will be mapped to a node in DOT code</p></td>
+<td class="doxyParamItemDescription">will be mapped to a node in DOT code</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] property</td>
-<td class="doxyParamItemDescription"><p>are evaluated for formatting</p></td>
+<td class="doxyParamItemDescription">are evaluated for formatting</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] directoriesInGraph</td>
-<td class="doxyParamItemDescription"><p>lists the directories which have been written to the output stream</p></td>
+<td class="doxyParamItemDescription">lists the directories which have been written to the output stream</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] startLevel</td>
-<td class="doxyParamItemDescription"><p>current level to calculate relative distances from to determine the background color</p></td>
+<td class="doxyParamItemDescription">current level to calculate relative distances from to determine the background color</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -634,7 +641,7 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a> and <a h
 </div>
 
 
-References <a href="#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="#a683792f7f7df231861acd54ff905211d">getDirectoryBackgroundColor</a>, <a href="#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#aa198c67f6d58fdae57c8502913ed35d7">DirDef::shortName</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="#a120714f9fe392105dac20e1759dcb1d6">common\_attributes</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="#a683792f7f7df231861acd54ff905211d">getDirectoryBackgroundColor</a>, <a href="#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#aa198c67f6d58fdae57c8502913ed35d7">DirDef::shortName</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
@@ -662,9 +669,10 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Recursively draws directory tree.</p>
 
-<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Recursively draws directory tree.
+
+Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -739,9 +747,10 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a DOT color name according to the directory depth.</p>
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Returns a DOT color name according to the directory depth.
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -781,7 +790,7 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a1748a7403991604b7f600589b77f9937">hex</a> and <a href="/web-doxygen/docs/api/classes/coloredimage/#aa28cffecb75cf52b6b457178851704c5">ColoredImage::hsl2rgb</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a1748a7403991604b7f600589b77f9937">hex</a> and <a href="/web-doxygen/docs/api/classes/coloredimage/#aa28cffecb75cf52b6b457178851704c5">ColoredImage::hsl2rgb</a>.
 
 Referenced by <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a> and <a href="#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>.
 </div>
@@ -809,9 +818,10 @@ Referenced by <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a DOT color name according to the directory properties.</p>
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Returns a DOT color name according to the directory properties.
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -866,9 +876,10 @@ Referenced by <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns a DOT node style according to the directory properties.</p>
 
-<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Returns a DOT node style according to the directory properties.
+
+Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -895,7 +906,7 @@ Referenced by <a href="#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a
 
 References <a href="/web-doxygen/docs/api/structs/dotdirproperty/#afa37640375733ea38413a589b3f90718">DotDirProperty::isIncomplete</a>, <a href="/web-doxygen/docs/api/structs/dotdirproperty/#ac8ed0c0d9a9e5638b80ba4d96b1f7b7b">DotDirProperty::isOriginal</a>, <a href="/web-doxygen/docs/api/structs/dotdirproperty/#a725a202c71456e1caf086cdd20a9baf9">DotDirProperty::isOrphaned</a> and <a href="/web-doxygen/docs/api/structs/dotdirproperty/#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">DotDirProperty::isTruncated</a>.
 
-Referenced by <a href="#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes</a>.
+Referenced by <a href="#a120714f9fe392105dac20e1759dcb1d6">common\_attributes</a>.
 </div>
 </div>
 
@@ -921,9 +932,10 @@ Referenced by <a href="#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Checks, if the directory is a the maximum drawn directory level.</p>
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Checks, if the directory is a the maximum drawn directory level.
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -935,7 +947,7 @@ Referenced by <a href="#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a> and <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="/web-doxygen/docs/api/classes/dirdef/#a033ad6b8c0287ed15da29dadca48eb6f">DirDef::level</a>.
 
 Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
@@ -958,12 +970,13 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Write DOT code for directory dependency graph.</p>
+
+Write DOT code for directory dependency graph.
 
 
-<p>Code is generated for a directory. Successors (sub-directories) of this directory are recursively drawn. Recursion is limited by <span class="doxyComputerOutput">DIR_GRAPH_MAX_DEPTH</span>. The dependencies of those directories are drawn.</p>
+Code is generated for a directory. Successors (sub-directories) of this directory are recursively drawn. Recursion is limited by <span class="doxyComputerOutput">DIR\_GRAPH\_MAX\_DEPTH</span>. The dependencies of those directories are drawn.
 
-<p>If a dependee is not part of directory tree above, then the dependency is drawn to the first parent of the dependee, whose parent is an ancestor (sub-directory) of the original directory.</p>
+If a dependee is not part of directory tree above, then the dependency is drawn to the first parent of the dependee, whose parent is an ancestor (sub-directory) of the original directory.
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -971,21 +984,21 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">t</td>
-<td class="doxyParamItemDescription"><p>stream where the DOT code is written to</p></td>
+<td class="doxyParamItemDescription">stream where the DOT code is written to</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">dd</td>
-<td class="doxyParamItemDescription"><p>directory for which the graph is generated for</p></td>
+<td class="doxyParamItemDescription">directory for which the graph is generated for</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">linkRelations</td>
-<td class="doxyParamItemDescription"><p>if true, hyperlinks to the list of file dependencies are added</p></td>
+<td class="doxyParamItemDescription">if true, hyperlinks to the list of file dependencies are added</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 

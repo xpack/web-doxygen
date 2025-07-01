@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -84,7 +84,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Minimal string class with std::string like behavior that fulfills the JavaCC string requirements. <a href="/web-doxygen/docs/api/classes/vhdlstring/#details">More...</a></p>
+Minimal string class with std::string like behavior that fulfills the JavaCC string requirements. <a href="/web-doxygen/docs/api/classes/vhdlstring/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -141,7 +141,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 

@@ -20,13 +20,13 @@ toc_max_heading_level: 4
 
 
 
-<p>Doxygen has built-in support to generate inheritance diagrams for C++ classes.</p>
+Doxygen has built-in support to generate inheritance diagrams for C++ classes.
 
-<p>Doxygen can use the "dot" tool from graphviz to generate more advanced diagrams and graphs. Graphviz is an open-source, cross-platform graph drawing toolkit and can be found at <a href="https://www.graphviz.org/">https://www.graphviz.org/</a></p>
+Doxygen can use the "dot" tool from graphviz to generate more advanced diagrams and graphs. Graphviz is an open-source, cross-platform graph drawing toolkit and can be found at <a href="https://www.graphviz.org/">https://www.graphviz.org/</a>
 
-<p>If you have the "dot" tool in the path, you can set <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE_DOT</a> to <span class="doxyComputerOutput">YES</span> in the configuration file to let Doxygen use it.</p>
+If you have the "dot" tool in the path, you can set <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> to <span class="doxyComputerOutput">YES</span> in the configuration file to let Doxygen use it.
 
-<p>Doxygen uses the "dot" tool to generate the following graphs:</p>
+Doxygen uses the "dot" tool to generate the following graphs:
 
 <ul class="doxyList ">
 <li>A graphical representation of the class hierarchy will be drawn, along with the textual one. Currently this feature is supported for HTML only.
@@ -39,18 +39,18 @@ toc_max_heading_level: 4
 
 <ul class="doxyList ">
 <li>the inheritance relations with base classes.</li>
-<li>the usage relations with other structs and classes (e.g. class <span class="doxyComputerOutput">A</span> has a member variable <span class="doxyComputerOutput">m_a</span> of type class <span class="doxyComputerOutput">B</span>, then <span class="doxyComputerOutput">A</span> has an arrow to <span class="doxyComputerOutput">B</span> with <span class="doxyComputerOutput">m_a</span> as label).</li>
+<li>the usage relations with other structs and classes (e.g. class <span class="doxyComputerOutput">A</span> has a member variable <span class="doxyComputerOutput">m\_a</span> of type class <span class="doxyComputerOutput">B</span>, then <span class="doxyComputerOutput">A</span> has an arrow to <span class="doxyComputerOutput">B</span> with <span class="doxyComputerOutput">m\_a</span> as label).</li>
 </ul></li>
-<li>if <a href="/web-doxygen/docs/pages/config/#cfg_call_graph">CALL_GRAPH</a> is set to YES, a graphical call graph is drawn for each function showing the functions that the function directly or indirectly calls (see also section <a href="/web-doxygen/docs/pages/commands/#cmdcallgraph">\callgraph</a> and section <a href="/web-doxygen/docs/pages/commands/#cmdhidecallgraph">\hidecallgraph</a>).</li>
-<li>if <a href="/web-doxygen/docs/pages/config/#cfg_caller_graph">CALLER_GRAPH</a> is set to YES, a graphical caller graph is drawn for each function showing the functions that the function is directly or indirectly called by (see also section <a href="/web-doxygen/docs/pages/commands/#cmdcallergraph">\callergraph</a> and section <a href="/web-doxygen/docs/pages/commands/#cmdhidecallergraph">\hidecallergraph</a>).</li>
-<li>If <a href="/web-doxygen/docs/pages/config/#cfg_directory_graph">DIRECTORY_GRAPH</a> is set to <span class="doxyComputerOutput">YES</span>, Doxygen will generate graphs that show the directory dependencies for every directory. The graph will show directories as boxes. Subdirectories are shown nested into the box of its parent directory. The depth of the graph is configured through <a href="/web-doxygen/docs/pages/config/#cfg_dir_graph_max_depth">DIR_GRAPH_MAX_DEPTH</a>. Include dependencies between the directories are shown as arrows.</li>
+<li>if <a href="/web-doxygen/docs/pages/config/#cfg_call_graph">CALL\_GRAPH</a> is set to YES, a graphical call graph is drawn for each function showing the functions that the function directly or indirectly calls (see also section <a href="/web-doxygen/docs/pages/commands/#cmdcallgraph">\callgraph</a> and section <a href="/web-doxygen/docs/pages/commands/#cmdhidecallgraph">\hidecallgraph</a>).</li>
+<li>if <a href="/web-doxygen/docs/pages/config/#cfg_caller_graph">CALLER\_GRAPH</a> is set to YES, a graphical caller graph is drawn for each function showing the functions that the function is directly or indirectly called by (see also section <a href="/web-doxygen/docs/pages/commands/#cmdcallergraph">\callergraph</a> and section <a href="/web-doxygen/docs/pages/commands/#cmdhidecallergraph">\hidecallergraph</a>).</li>
+<li>If <a href="/web-doxygen/docs/pages/config/#cfg_directory_graph">DIRECTORY\_GRAPH</a> is set to <span class="doxyComputerOutput">YES</span>, Doxygen will generate graphs that show the directory dependencies for every directory. The graph will show directories as boxes. Subdirectories are shown nested into the box of its parent directory. The depth of the graph is configured through <a href="/web-doxygen/docs/pages/config/#cfg_dir_graph_max_depth">DIR\_GRAPH\_MAX\_DEPTH</a>. Include dependencies between the directories are shown as arrows.</li>
 </ul>
 
-<p>Using a <a href="/web-doxygen/docs/pages/customize">layout file</a> you can determine which of the graphs are actually shown.</p>
+Using a <a href="/web-doxygen/docs/pages/customize">layout file</a> you can determine which of the graphs are actually shown.
 
-<p>The options <a href="/web-doxygen/docs/pages/config/#cfg_dot_graph_max_nodes">DOT_GRAPH_MAX_NODES</a> and <a href="/web-doxygen/docs/pages/config/#cfg_max_dot_graph_depth">MAX_DOT_GRAPH_DEPTH</a> can be used to limit the size of the various graphs.</p>
+The options <a href="/web-doxygen/docs/pages/config/#cfg_dot_graph_max_nodes">DOT\_GRAPH\_MAX\_NODES</a> and <a href="/web-doxygen/docs/pages/config/#cfg_max_dot_graph_depth">MAX\_DOT\_GRAPH\_DEPTH</a> can be used to limit the size of the various graphs.
 
-<p>The elements in the class diagrams in HTML and RTF have the following meaning:</p>
+The elements in the class diagrams in HTML and RTF have the following meaning:
 
 <ul class="doxyList ">
 <li>A <b>yellow</b> box indicates a class. A box can have a little marker in the lower right corner to indicate that the class contains base classes that are hidden. For the class diagrams the maximum tree width is currently 8 elements. If a tree is wider some nodes will be hidden. If the box is filled with a dashed pattern the inheritance relation is virtual.</li>
@@ -61,7 +61,7 @@ toc_max_heading_level: 4
 <li>A <b>dotted dark green</b> arrow indicates private inheritance.</li>
 </ul>
 
-<p>The elements in the class diagram in <code>{\LaTeX}</code> have the following meaning:</p>
+The elements in the class diagram in <code>{\LaTeX}</code> have the following meaning:
 
 <ul class="doxyList ">
 <li>A <b>white</b> box indicates a class. A <b>marker</b> in the lower right corner of the box indicates that the class has base classes that are hidden. If the box has a <b>dashed</b> border this indicates virtual inheritance.</li>
@@ -70,7 +70,7 @@ toc_max_heading_level: 4
 <li>A <b>dotted</b> arrow indicates private inheritance.</li>
 </ul>
 
-<p>The elements in the graphs generated by the dot tool have the following meaning:</p>
+The elements in the graphs generated by the dot tool have the following meaning:
 
 <ul class="doxyList ">
 <li>A <b>white</b> box indicates a class or struct or file.</li>
@@ -80,14 +80,14 @@ toc_max_heading_level: 4
 <li>A <b>dark blue</b> arrow indicates an include relation (for the include dependency graph) or public inheritance (for the other graphs).</li>
 <li>A <b>dark green</b> arrow indicates protected inheritance.</li>
 <li>A <b>dark red</b> arrow indicates private inheritance.</li>
-<li>A <b>purple dashed</b> arrow indicated a "usage" relation, the edge of the arrow is labeled with the variable(s) responsible for the relation. Class <span class="doxyComputerOutput">A</span> uses class <span class="doxyComputerOutput">B</span>, if class <span class="doxyComputerOutput">A</span> has a member variable <span class="doxyComputerOutput">m</span> of type C, where B is a subtype of C (e.g. <span class="doxyComputerOutput">C</span> could be <span class="doxyComputerOutput">B</span>, <span class="doxyComputerOutput">B*</span>, <span class="doxyComputerOutput">T&lt;B&gt;*</span>).</li>
+<li>A <b>purple dashed</b> arrow indicated a "usage" relation, the edge of the arrow is labeled with the variable(s) responsible for the relation. Class <span class="doxyComputerOutput">A</span> uses class <span class="doxyComputerOutput">B</span>, if class <span class="doxyComputerOutput">A</span> has a member variable <span class="doxyComputerOutput">m</span> of type C, where B is a subtype of C (e.g. <span class="doxyComputerOutput">C</span> could be <span class="doxyComputerOutput">B</span>, <span class="doxyComputerOutput">B\*</span>, <span class="doxyComputerOutput">T&lt;B&gt;\*</span>).</li>
 </ul>
 
-<p>The elements in the directory dependency graphs have the following meaning:</p>
+The elements in the directory dependency graphs have the following meaning:
 
 <ul class="doxyList ">
 <li>A box with a <b>bold</b> border indicates the directory that the directory dependency graph has been generated for.</li>
-<li>A box with a <b>red solid</b> border indicates a directory whose subdirectories are not shown in the graph ("truncated"). To configure the depth of subdirectories that are shown in the graph see <a href="/web-doxygen/docs/pages/config/#cfg_dir_graph_max_depth">DIR_GRAPH_MAX_DEPTH</a>.</li>
+<li>A box with a <b>red solid</b> border indicates a directory whose subdirectories are not shown in the graph ("truncated"). To configure the depth of subdirectories that are shown in the graph see <a href="/web-doxygen/docs/pages/config/#cfg_dir_graph_max_depth">DIR\_GRAPH\_MAX\_DEPTH</a>.</li>
 <li>A box with a <b>red dashed</b> border indicates a truncated directory whose parent directories are not shown in the graph either.</li>
 <li>A box with a <b>dashed</b> border other than red indicates that not all but at least one subdirectory are shown.</li>
 <li>A box with a <b>light gray</b> border indicates a directory with both of the following two attributes:
@@ -100,9 +100,9 @@ toc_max_heading_level: 4
 <li>An <b>arrow</b> between two boxes indicates an include dependency between two directories. The include dependency exists if a file in a directory includes a file of another directory. If a directory that is involved in an include dependency is not shown in the graph, the arrow is attached to the first parent directory that is shown. This parent directory is shown as truncated (see above).</li>
 </ul>
 
-<p>Here are a couple of header files that together show the various diagrams that Doxygen can generate:</p>
+Here are a couple of header files that together show the various diagrams that Doxygen can generate:
 
-<p><span class="doxyComputerOutput">diagrams_a.h</span></p>
+<span class="doxyComputerOutput">diagrams\_a.h</span>
 
 <div class="doxyProgramListing">
 
@@ -114,7 +114,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p><span class="doxyComputerOutput">diagrams_b.h</span></p>
+<span class="doxyComputerOutput">diagrams\_b.h</span>
 
 <div class="doxyProgramListing">
 
@@ -127,7 +127,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p><span class="doxyComputerOutput">diagrams_c.h</span></p>
+<span class="doxyComputerOutput">diagrams\_c.h</span>
 
 <div class="doxyProgramListing">
 
@@ -141,7 +141,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p><span class="doxyComputerOutput">diagrams_d.h</span></p>
+<span class="doxyComputerOutput">diagrams\_d.h</span>
 
 <div class="doxyProgramListing">
 
@@ -156,7 +156,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p><span class="doxyComputerOutput">diagrams_e.h</span></p>
+<span class="doxyComputerOutput">diagrams\_e.h</span>
 
 <div class="doxyProgramListing">
 
@@ -173,7 +173,7 @@ Click <a href="pathname:///examples/diagrams/html/annotated.html">here</a>
 for the corresponding HTML documentation that is generated by Doxygen.
 
 
-<p>Note <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT_ALL</a> <span class="doxyComputerOutput">=</span> <span class="doxyComputerOutput">YES</span> is used to generate the diagrams.</p>
+Note <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> <span class="doxyComputerOutput">=</span> <span class="doxyComputerOutput">YES</span> is used to generate the diagrams.
  
 Go to the <a href="/docs/pages/preprocessing/">next</a> section or return to the
 <a href="/docs/">index</a>.

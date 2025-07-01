@@ -148,7 +148,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -174,7 +175,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 
 ## Variables
 
-### g&#95;tooltipsFileMutex {#a2ad76ff3dd21154ebd52f74298f7c4fe}
+### g\_tooltipsFileMutex {#a2ad76ff3dd21154ebd52f74298f7c4fe}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -198,7 +199,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -211,7 +213,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 </div>
 </div>
 
-### g&#95;tooltipsTipMutex {#a8a3ee38616df2e8b83a710e63f559f75}
+### g\_tooltipsTipMutex {#a8a3ee38616df2e8b83a710e63f559f75}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -235,7 +237,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -248,7 +251,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 </div>
 </div>
 
-### g&#95;tooltipsWrittenPerFile {#a9b6cb3bf98d1845d47e6adb5872161af}
+### g\_tooltipsWrittenPerFile {#a9b6cb3bf98d1845d47e6adb5872161af}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -272,7 +275,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 

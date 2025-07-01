@@ -36,7 +36,7 @@ class FileList { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; const FileDef &#42; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; const FileDef * &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class FileList { ... }
 </table>
 
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <hr/>
 

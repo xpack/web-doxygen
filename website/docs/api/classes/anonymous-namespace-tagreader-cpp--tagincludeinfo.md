@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagIncludeInfo` Class Reference
 
-<p>Container for include info that can be read from a tagfile. <a href="#details">More...</a></p>
+Container for include info that can be read from a tagfile. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -124,9 +124,9 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 
 ## Description {#details}
 
-<p>Container for include info that can be read from a tagfile.</p>
+Container for include info that can be read from a tagfile.
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -151,7 +151,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -181,7 +182,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -211,7 +213,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -241,7 +244,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -271,7 +275,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -301,7 +306,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -331,7 +337,8 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -346,7 +353,7 @@ class anonymous_namespace{tagreader.cpp}::TagIncludeInfo { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

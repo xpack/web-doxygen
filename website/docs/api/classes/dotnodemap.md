@@ -36,7 +36,7 @@ class DotNodeMap { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::map&lt; std::string, DotNode &#42; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::map&lt; std::string, DotNode * &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class DotNodeMap { ... }
 </table>
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <hr/>
 

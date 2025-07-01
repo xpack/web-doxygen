@@ -64,7 +64,7 @@ struct CommentCtx { ... }
 </table>
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ struct CommentCtx { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -133,7 +134,8 @@ Reference <a href="#aa806b54f9e0d1c31a51106ef2fa4389f">lineNr</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -150,7 +152,7 @@ Referenced by <a href="#a6fafdb4c8671ecd020f5d5aba7091388">CommentCtx</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a></li>

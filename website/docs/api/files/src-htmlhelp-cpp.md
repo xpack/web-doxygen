@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a></p>
+Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM\_INDEX\_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a field in the HTML help index. <a href="/web-doxygen/docs/api/structs/indexfield/#details">More...</a></p>
+Class representing a field in the HTML help index. <a href="/web-doxygen/docs/api/structs/indexfield/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#details">More...</a></p>
+A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -161,7 +161,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -225,7 +226,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 

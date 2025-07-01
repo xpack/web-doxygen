@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocNodeAST` Class Reference
 
-<p>Class representing the abstract syntax tree of a documentation block. <a href="#details">More...</a></p>
+Class representing the abstract syntax tree of a documentation block. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocNodeAST { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>opaque representation of the abstract syntax tree (AST) <a href="/web-doxygen/docs/api/classes/idocnodeast/#details">More...</a></p>
+opaque representation of the abstract syntax tree (AST) <a href="/web-doxygen/docs/api/classes/idocnodeast/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -111,9 +111,9 @@ class DocNodeAST { ... }
 
 ## Description {#details}
 
-<p>Class representing the abstract syntax tree of a documentation block.</p>
+Class representing the abstract syntax tree of a documentation block.
 
-<p>Definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -144,7 +144,8 @@ class DocNodeAST { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1471 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1471 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -191,7 +192,8 @@ Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -244,7 +246,8 @@ Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -261,7 +264,7 @@ Referenced by <a href="#ab573e4a616c8cf4677d233c90c65f79a">DocNodeAST</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a></li>

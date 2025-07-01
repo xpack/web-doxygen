@@ -139,7 +139,7 @@ class vhdl::parser::TokenManagerErrorHandler { ... }
 </table>
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxySectionDef">
 
@@ -163,7 +163,8 @@ class vhdl::parser::TokenManagerErrorHandler { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -184,7 +185,7 @@ Referenced by <a href="#a27aa05445202b2d20d5cd95983d8fd86">lexicalError</a>, <a 
 
 ## Public Destructor
 
-### ~TokenManagerErrorHandler() {#a0afc3cb894583ee40c53a3a5c54495dc}
+### \~TokenManagerErrorHandler() {#a0afc3cb894583ee40c53a3a5c54495dc}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -209,7 +210,8 @@ Referenced by <a href="#a27aa05445202b2d20d5cd95983d8fd86">lexicalError</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -251,7 +253,8 @@ Referenced by <a href="#a27aa05445202b2d20d5cd95983d8fd86">lexicalError</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -292,7 +295,8 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -313,7 +317,7 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 
 ## Protected Member Attributes
 
-### error&#95;count {#a6d2fbf9bff5de1775a78dc4872ccdca5}
+### error\_count {#a6d2fbf9bff5de1775a78dc4872ccdca5}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -337,7 +341,8 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -352,7 +357,7 @@ Reference <a href="#aff28441094086f5cbf8ee8f34a8bc9a4">VhdlParserTokenManager</a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/errorhandler-h">ErrorHandler.h</a></li>

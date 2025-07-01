@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlHelpRecoder` Class Reference
 
-<p>Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="#details">More...</a></p>
+Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM\_INDEX\_ENCODING. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -114,7 +114,7 @@ class HtmlHelpRecoder { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">void *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a> = reinterpret&#95;cast&lt;void&#42;&gt;(-1)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a> = reinterpret\_cast&lt;void\*&gt;(-1)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -127,7 +127,7 @@ class HtmlHelpRecoder { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">void *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13f3059889c68cfe83674828ab529168">m_fromUtf8</a> = <a href="#a6a2a996575156ef3090e22a336bb6058">m&#95;iconv&#95;null</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13f3059889c68cfe83674828ab529168">m_fromUtf8</a> = <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -142,9 +142,9 @@ class HtmlHelpRecoder { ... }
 
 ## Description {#details}
 
-<p>Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING.</p>
+Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM\_INDEX\_ENCODING.
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -174,7 +174,8 @@ class HtmlHelpRecoder { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -191,7 +192,7 @@ class HtmlHelpRecoder { ... }
 
 ## Public Destructor
 
-### ~HtmlHelpRecoder() {#a70452af4e4bc1ae32830545090d28a18}
+### \~HtmlHelpRecoder() {#a70452af4e4bc1ae32830545090d28a18}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -215,7 +216,8 @@ class HtmlHelpRecoder { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -258,7 +260,8 @@ Reference <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -274,9 +277,9 @@ Reference <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>.
 </div>
 
 
-References <a href="#a13f3059889c68cfe83674828ab529168">m&#95;fromUtf8</a>, <a href="#a6a2a996575156ef3090e22a336bb6058">m&#95;iconv&#95;null</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable&#95;iconv&#95;close</a>.
+References <a href="#a13f3059889c68cfe83674828ab529168">m\_fromUtf8</a>, <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable\_iconv\_close</a>.
 
-Referenced by <a href="#a70452af4e4bc1ae32830545090d28a18">~HtmlHelpRecoder</a>.
+Referenced by <a href="#a70452af4e4bc1ae32830545090d28a18">\~HtmlHelpRecoder</a>.
 </div>
 </div>
 
@@ -304,7 +307,8 @@ Referenced by <a href="#a70452af4e4bc1ae32830545090d28a18">~HtmlHelpRecoder</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -322,7 +326,7 @@ Referenced by <a href="#a70452af4e4bc1ae32830545090d28a18">~HtmlHelpRecoder</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#aaf8015f456496f1510c8e8643f959376">initialize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a13f3059889c68cfe83674828ab529168">m&#95;fromUtf8</a>, <a href="#a6a2a996575156ef3090e22a336bb6058">m&#95;iconv&#95;null</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable&#95;iconv&#95;open</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#aaf8015f456496f1510c8e8643f959376">initialize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a13f3059889c68cfe83674828ab529168">m\_fromUtf8</a>, <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable\_iconv\_open</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 
 Referenced by <a href="#aaf8015f456496f1510c8e8643f959376">initialize</a>.
 </div>
@@ -352,7 +356,8 @@ Referenced by <a href="#aaf8015f456496f1510c8e8643f959376">initialize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -381,7 +386,7 @@ Referenced by <a href="#aaf8015f456496f1510c8e8643f959376">initialize</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13f3059889c68cfe83674828ab529168">m&#95;fromUtf8</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable&#95;iconv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a747c587f5fee7b891e52909aa309323e">QCString::resize</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13f3059889c68cfe83674828ab529168">m\_fromUtf8</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable\_iconv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a747c587f5fee7b891e52909aa309323e">QCString::resize</a>.
 </div>
 </div>
 
@@ -391,7 +396,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 
 ## Private Member Attributes
 
-### m&#95;fromUtf8 {#a13f3059889c68cfe83674828ab529168}
+### m\_fromUtf8 {#a13f3059889c68cfe83674828ab529168}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -400,7 +405,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">void* HtmlHelpRecoder::m_fromUtf8 = <a href="#a6a2a996575156ef3090e22a336bb6058">m&#95;iconv&#95;null</a></td>
+<td class="doxyMemberName">void* HtmlHelpRecoder::m_fromUtf8 = <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a></td>
 </tr>
 </table>
 </td>
@@ -410,7 +415,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -423,7 +429,7 @@ Referenced by <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>, <a href
 </div>
 </div>
 
-### m&#95;iconv&#95;null {#a6a2a996575156ef3090e22a336bb6058}
+### m\_iconv\_null {#a6a2a996575156ef3090e22a336bb6058}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -432,7 +438,7 @@ Referenced by <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>, <a href
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">void* HtmlHelpRecoder::m_iconv_null = reinterpret&#95;cast&lt;void&#42;&gt;(-1)</td>
+<td class="doxyMemberName">void* HtmlHelpRecoder::m_iconv_null = reinterpret\_cast&lt;void\*&gt;(-1)</td>
 </tr>
 </table>
 </td>
@@ -442,7 +448,8 @@ Referenced by <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -459,7 +466,7 @@ Referenced by <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a> and <a h
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a></li>

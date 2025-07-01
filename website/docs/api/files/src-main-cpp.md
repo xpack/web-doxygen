@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `main.cpp` File Reference
 
-<p>main entry point for doxygen <a href="#details">More...</a></p>
+main entry point for doxygen <a href="#details">More...</a>
 
 ## Included Headers
 
@@ -45,10 +45,10 @@ toc_max_heading_level: 4
 
 ## Description {#details}
 
-<p>main entry point for doxygen</p>
+main entry point for doxygen
 
 
-<p>This file contains <a href="#a3c04138a5bfe5d72780bb7e82a18e627">main()</a></p>
+This file contains <a href="#a3c04138a5bfe5d72780bb7e82a18e627">main()</a>
 
 <div class="doxySectionDef">
 
@@ -74,9 +74,10 @@ toc_max_heading_level: 4
 
 
 
-<p>Default main. The idea of separating this from the rest of doxygen, is to make it possible to write your own main, with a different <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput()</a> function for instance.</p>
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.</p>
+Default main. The idea of separating this from the rest of doxygen, is to make it possible to write your own main, with a different <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput()</a> function for instance.
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.
 
 <div class="doxyProgramListing">
 

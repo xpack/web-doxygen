@@ -58,7 +58,7 @@ struct CodeFragmentManager::Private { ... }
 </table>
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct CodeFragmentManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct CodeFragmentManager::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct CodeFragmentManager::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a></li>

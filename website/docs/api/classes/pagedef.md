@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `PageDef` Class Reference
 
-<p>A model of a page symbol. <a href="#details">More...</a></p>
+A model of a page symbol. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class PageDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
+The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -376,9 +376,9 @@ class PageDef { ... }
 
 ## Description {#details}
 
-<p>A model of a page symbol.</p>
+A model of a page symbol.
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -403,7 +403,8 @@ class PageDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 References <a href="#a30ee606c499f8b58ed709177dad09e66">addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/pagedef-h/#a1f0e44cb84821fd7a6a7d29452e92ccc">createPageDef</a> and <a href="/web-doxygen/docs/api/files/src/pagedef-h/#a7697e578ee832ee5d8e992bf6dc93617">toPageDef</a>.
 
@@ -430,7 +431,8 @@ Referenced by <a href="#a30ee606c499f8b58ed709177dad09e66">addSectionsToIndex</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a07b4363a361ba2b1b7d6f1086321bbae">documentedPage</a>.
 
@@ -457,7 +459,8 @@ Referenced by <a href="#a07b4363a361ba2b1b7d6f1086321bbae">documentedPage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#afe8c39a619822e75d75f55d307e6bc0f">findSectionsInDocumentation</a>.
 
@@ -484,7 +487,8 @@ Referenced by <a href="#afe8c39a619822e75d75f55d307e6bc0f">findSectionsInDocumen
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#acd024899a0d21128490483d8cce009a1">getGroupDef</a>.
 
@@ -511,7 +515,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aeb4c1aeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#aea0c5607cb5b7a29a7367ed3f3163869">getPageScope</a>.
 
@@ -538,7 +543,8 @@ Referenced by <a href="#aea0c5607cb5b7a29a7367ed3f3163869">getPageScope</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a6d750d1618399ff76e2fbc0d4b74e62f">getSubPages</a>.
 
@@ -565,7 +571,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aeb4c1aeb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a20b9af0d989719499a9cfd7dd97c5c00">hasParentPage</a>.
 
@@ -592,7 +599,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a791d128993e7ac73b3b67ad1d664c1bd">hasSubPages</a>.
 
@@ -619,7 +627,8 @@ Referenced by <a href="#a791d128993e7ac73b3b67ad1d664c1bd">hasSubPages</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a73c07c74e91e201e5c9dc6f60528f229">hasTitle</a>.
 
@@ -646,7 +655,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a99bf5500ce136d76ba45e8fc3d5e819f">localToc</a>.
 
@@ -673,7 +683,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 References <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="#a77bc8d4f9d20290d6f05c0a141803adf">setFileName</a>.
 
@@ -700,7 +711,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a44d28af7a71932dfc6d0161acc6ded6e">setLocalToc</a>.
 
@@ -727,7 +739,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a118dacc3a4f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a5bb360dae3ef60e6148658d24a17db03">setNestingLevel</a>.
 
@@ -754,7 +767,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a68
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#ac80c3bc365a1ba6946e2ac578197db53">setPageScope</a>.
 
@@ -781,7 +795,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6757f2bac4a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a8f0a903703155767c3889a101bb13399">setShowLineNo</a>.
 
@@ -808,7 +823,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 References <a href="#a415078f57106a154fe06e4f092d359a3">setTitle</a> and <a href="#aae487f3fd3ce36b104cb6b82e287cfaa">title</a>.
 
@@ -835,7 +851,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a9ea77de5c1a05e87f7fb1dbbf19a12a6">showLineNo</a>.
 
@@ -862,7 +879,8 @@ Referenced by <a href="#a9ea77de5c1a05e87f7fb1dbbf19a12a6">showLineNo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#aae487f3fd3ce36b104cb6b82e287cfaa">title</a>.
 
@@ -889,7 +907,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a3bbe17086a0cf7521c5be92f12cc8137">visibleInIndex</a>.
 
@@ -916,7 +935,8 @@ Referenced by <a href="#a3bbe17086a0cf7521c5be92f12cc8137">visibleInIndex</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#aaec60dff82973c827eb5576dd7e4fb14">writeDocumentation</a>.
 
@@ -943,7 +963,8 @@ Referenced by <a href="#aaec60dff82973c827eb5576dd7e4fb14">writeDocumentation</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#a1bf844b8abcb60858d5efea8b4d625ce">writePageDocumentation</a>.
 
@@ -970,7 +991,8 @@ Referenced by <a href="#a1bf844b8abcb60858d5efea8b4d625ce">writePageDocumentatio
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>.
 
 Reference <a href="#ad5eabcc6b5b1726e85548fc6d9b3880e">writeTagFile</a>.
 
@@ -982,7 +1004,7 @@ Referenced by <a href="#ad5eabcc6b5b1726e85548fc6d9b3880e">writeTagFile</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a></li>

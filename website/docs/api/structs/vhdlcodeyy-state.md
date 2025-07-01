@@ -192,7 +192,7 @@ struct vhdlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the code fragment as text <a href="#ab5899665db936da6deceac3fb0d5ceb0">More...</a></p>
+the code fragment as text <a href="#ab5899665db936da6deceac3fb0d5ceb0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -206,7 +206,7 @@ struct vhdlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>read offset during parsing <a href="#aa08ea76c8ffa3e165185d4398add5510">More...</a></p>
+read offset during parsing <a href="#aa08ea76c8ffa3e165185d4398add5510">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -233,7 +233,7 @@ struct vhdlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>number of line in the code fragment <a href="#aea28bbabc305cdcc047a50818599e5c0">More...</a></p>
+number of line in the code fragment <a href="#aea28bbabc305cdcc047a50818599e5c0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -247,7 +247,7 @@ struct vhdlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>current line number <a href="#a133a7b315ff5cc2f03523f813e5cbab3">More...</a></p>
+current line number <a href="#a133a7b315ff5cc2f03523f813e5cbab3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -491,7 +491,7 @@ struct vhdlcodeYY_state { ... }
 </table>
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -516,7 +516,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -546,7 +547,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -576,7 +578,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -606,7 +609,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -636,7 +640,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -666,7 +671,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -696,7 +702,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -726,7 +733,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -756,7 +764,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -786,7 +795,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -816,7 +826,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -846,7 +857,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -876,7 +888,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -906,7 +919,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -936,7 +950,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -964,9 +979,10 @@ struct vhdlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>number of line in the code fragment</p>
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+number of line in the code fragment
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -994,9 +1010,10 @@ struct vhdlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>read offset during parsing</p>
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+read offset during parsing
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1024,9 +1041,10 @@ struct vhdlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the code fragment as text</p>
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+the code fragment as text
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1056,7 +1074,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1086,7 +1105,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1116,7 +1136,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1146,7 +1167,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1176,7 +1198,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1206,7 +1229,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1236,7 +1260,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1266,7 +1291,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1296,7 +1322,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1326,7 +1353,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1356,7 +1384,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1386,7 +1415,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1416,7 +1446,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1446,7 +1477,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1476,7 +1508,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1506,7 +1539,8 @@ struct vhdlcodeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1534,9 +1568,10 @@ struct vhdlcodeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>current line number</p>
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+current line number
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1551,7 +1586,7 @@ struct vhdlcodeYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a></li>

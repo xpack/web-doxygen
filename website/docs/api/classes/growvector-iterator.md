@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Iterator` Class Template Reference
 
-<p>bidirectional iterator <a href="#details">More...</a></p>
+bidirectional iterator <a href="#details">More...</a>
 
 ## Declaration
 
@@ -318,15 +318,15 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 
 ## Description {#details}
 
-<p>bidirectional iterator</p>
+bidirectional iterator
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Typedefs
 
-### difference&#95;type {#a303b2faf2e9f7000a612dbabeb68fd1a}
+### difference\_type {#a303b2faf2e9f7000a612dbabeb68fd1a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -346,7 +346,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -357,7 +358,7 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 </div>
 </div>
 
-### iterator&#95;category {#a15a2504df24138f9ef0c760ad8a5610e}
+### iterator\_category {#a15a2504df24138f9ef0c760ad8a5610e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -377,7 +378,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -408,7 +410,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -439,7 +442,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -450,7 +454,7 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 </div>
 </div>
 
-### value&#95;type {#a7a88c99cdbf752deb008f7c408521aea}
+### value\_type {#a7a88c99cdbf752deb008f7c408521aea}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -470,7 +474,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -510,7 +515,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -544,7 +550,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -586,7 +593,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -628,7 +636,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -664,7 +673,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -700,7 +710,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -711,7 +722,7 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 </div>
 </div>
 
-### operator&#42;() {#a8a0efb945ff9c2e86dac803a11911706}
+### operator\*() {#a8a0efb945ff9c2e86dac803a11911706}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -736,7 +747,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -772,7 +784,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -808,7 +821,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -825,7 +839,7 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 
 ## Private Member Attributes
 
-### m&#95;pos {#a4fd14ed7a676ff310d34bc1360f04419}
+### m\_pos {#a4fd14ed7a676ff310d34bc1360f04419}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -845,7 +859,8 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -858,7 +873,7 @@ Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;
 </div>
 </div>
 
-### m&#95;vec {#a8b69ce24c4135c1155b61a1e3be45327}
+### m\_vec {#a8b69ce24c4135c1155b61a1e3be45327}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -878,7 +893,8 @@ Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -893,7 +909,7 @@ Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a></li>

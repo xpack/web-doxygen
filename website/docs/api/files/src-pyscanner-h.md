@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Python Language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#details">More...</a></p>
+Python Language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

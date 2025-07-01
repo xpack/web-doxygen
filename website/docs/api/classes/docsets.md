@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocSets` Class Reference
 
-<p>A class that generates docset files. <a href="#details">More...</a></p>
+A class that generates docset files. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocSets { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
+Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -251,12 +251,12 @@ class DocSets { ... }
 
 ## Description {#details}
 
-<p>A class that generates docset files.</p>
+A class that generates docset files.
 
 
-<p>These files can be used to create context help for use within Apple's Xcode 3.0 development environment</p>
+These files can be used to create context help for use within Apple's Xcode 3.0 development environment
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
 
 <div class="doxySectionDef">
 
@@ -281,7 +281,8 @@ class DocSets { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -292,7 +293,7 @@ class DocSets { ... }
 
 Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 
-Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">~DocSets</a>.
+Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">\~DocSets</a>.
 </div>
 </div>
 
@@ -302,7 +303,7 @@ Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">~DocSets</a>.
 
 ## Public Destructor
 
-### ~DocSets() {#aa825df57a02ee969cb4ff64890aeb94f}
+### \~DocSets() {#aa825df57a02ee969cb4ff64890aeb94f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -321,7 +322,8 @@ Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">~DocSets</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
 
 Reference <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>.
 </div>
@@ -357,7 +359,8 @@ Reference <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -441,7 +444,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -476,7 +480,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -514,7 +519,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -743,7 +749,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -778,7 +785,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -824,7 +832,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -878,7 +887,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -920,7 +930,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1061,7 +1072,7 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 </div>
 </div>
 
@@ -1090,7 +1101,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
+Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1173,7 +1185,8 @@ Referenced by <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1190,7 +1203,7 @@ Referenced by <a href="#a2fae83e2222326bc3e70dc7f3ada05d5">addContentsItem</a>, 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a></li>

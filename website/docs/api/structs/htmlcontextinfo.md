@@ -77,7 +77,7 @@ struct HtmlContextInfo { ... }
 </table>
 
 
-<p>Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ struct HtmlContextInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +146,8 @@ References <a href="#a464bcdefddac0c82f9a0afeec032b950">context</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +179,8 @@ Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
+Definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +197,7 @@ Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a></li>

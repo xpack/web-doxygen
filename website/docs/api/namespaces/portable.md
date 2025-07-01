@@ -257,7 +257,7 @@ namespace Portable { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Correct a possible wrong PATH variable. <a href="#a08216fc437af3c55e1b7ac51430744f9">More...</a></p>
+Correct a possible wrong PATH variable. <a href="#a08216fc437af3c55e1b7ac51430744f9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -381,7 +381,8 @@ namespace Portable { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -427,7 +428,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f78880
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 478 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 478 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -464,12 +466,13 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Correct a possible wrong PATH variable.</p>
+
+Correct a possible wrong PATH variable.
 
 
-<p>This routine was inspired by the cause for bug 766059 was that in the Windows path there were forward slashes.</p>
+This routine was inspired by the cause for bug 766059 was that in the Windows path there were forward slashes.
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -529,7 +532,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -568,7 +572,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352f
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -603,7 +608,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaacf2b4ef
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -644,7 +650,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -696,7 +703,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ec
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -731,7 +739,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ec
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc&#95;env</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#afcf1a493801a3f065ef9ca18e7c4f6c6">substEnvVarsInString</a>.
 </div>
@@ -756,7 +764,8 @@ Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -793,7 +802,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 454 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 454 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -849,7 +859,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 514 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 514 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -895,7 +906,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6232960902
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -939,7 +951,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6acafb836a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -982,7 +995,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1021,7 +1035,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1060,7 +1075,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1099,7 +1115,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1142,7 +1159,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1183,7 +1201,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1207,7 +1226,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable&#95;iconv</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable&#95;iconv&#95;close</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable&#95;iconv&#95;open</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable\_iconv</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable\_iconv\_close</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable\_iconv\_open</a>.
 
 Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href="#ab30a636186b72a67d57e9f7f1e917e99">system</a>.
 </div>
@@ -1232,7 +1251,8 @@ Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1254,7 +1274,7 @@ Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc&#95;env</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a>.
 </div>
@@ -1279,7 +1299,8 @@ Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1329,7 +1350,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1350,7 +1372,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable&#95;memmem</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable\_memmem</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0e894782b9509baa541931151">Markdown::Private::addStrEscapeUtf8Nbsp</a>.
 </div>
@@ -1375,7 +1397,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1543,7 +1566,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0
 
 References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da8dbe64e9ab683833c1ea7252649058a3">Debug::ExtCmd</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a724f5508f1314342da28cc51b867431b">recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a7848f4e846cafbec9e8a6ecca50d4fb2">FlowChart::createSVG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#af50f1fc37531bed71dba97fcf1ea5dd9">do&#95;mscgen&#95;generate</a>, <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a7848f4e846cafbec9e8a6ecca50d4fb2">FlowChart::createSVG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#af50f1fc37531bed71dba97fcf1ea5dd9">do\_mscgen\_generate</a>, <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.
 </div>
 </div>
 
@@ -1566,7 +1589,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f3
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 561 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 561 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1607,7 +1631,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1634,7 +1659,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc&#95;env</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.
 </div>
@@ -1644,7 +1669,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following files:</p>
+The documentation for this namespace was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a></li>

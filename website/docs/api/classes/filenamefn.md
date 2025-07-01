@@ -41,7 +41,7 @@ class FileNameFn { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>used as hash function <a href="#a66c2a1871d0033e87ef374c8204a54ce">More...</a></p>
+used as hash function <a href="#a66c2a1871d0033e87ef374c8204a54ce">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ class FileNameFn { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>used as equal operator <a href="#a63b6f6b9369310cfcdc4255df8f2022b">More...</a></p>
+used as equal operator <a href="#a63b6f6b9369310cfcdc4255df8f2022b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -87,9 +87,9 @@ class FileNameFn { ... }
 
 
 
-<p>Custom combined key compare and hash functor that uses a lower case string in case CASE_SENSE_NAMES is set to NO.</p>
+Custom combined key compare and hash functor that uses a lower case string in case CASE\_SENSE\_NAMES is set to NO.
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
 
 <div class="doxySectionDef">
 
@@ -118,9 +118,10 @@ class FileNameFn { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>used as hash function</p>
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+used as hash function
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,9 +159,10 @@ Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>used as equal operator</p>
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+used as equal operator
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -206,7 +208,8 @@ Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -233,7 +236,7 @@ Referenced by <a href="#a66c2a1871d0033e87ef374c8204a54ce">operator()</a> and <a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a></li>

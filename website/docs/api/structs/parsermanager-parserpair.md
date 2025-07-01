@@ -90,7 +90,7 @@ struct ParserManager::ParserPair { ... }
 </table>
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
 <div class="doxySectionDef">
 
@@ -120,7 +120,8 @@ struct ParserManager::ParserPair { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -161,7 +162,8 @@ References <a href="#a249f575b6476cdf5464fbd3004e93c1a">codeParserFactory</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -193,7 +195,8 @@ Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -225,7 +228,8 @@ Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
+Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -242,7 +246,7 @@ Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a></li>

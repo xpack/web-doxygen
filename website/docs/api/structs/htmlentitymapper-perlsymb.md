@@ -63,7 +63,7 @@ struct HtmlEntityMapper::PerlSymb { ... }
 </table>
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxySectionDef">
 
@@ -88,7 +88,8 @@ struct HtmlEntityMapper::PerlSymb { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -120,7 +121,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -137,7 +139,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a></li>

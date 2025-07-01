@@ -168,7 +168,7 @@ struct AnnotatedIndexContext { ... }
 </table>
 
 
-<p>Definition at line 2524 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+Definition at line 2524 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -198,7 +198,8 @@ struct AnnotatedIndexContext { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2526 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2526 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -246,7 +247,8 @@ References <a href="#a4aa429407a79c42a1b24ed344c1cd452">compoundType</a>, <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2544 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2544 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -278,7 +280,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2541 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2541 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -310,7 +313,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2545 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2545 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -342,7 +346,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2546 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2546 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -374,7 +379,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2543 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2543 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -406,7 +412,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2542 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2542 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -438,7 +445,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2540 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2540 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -470,7 +478,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2538 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2538 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -502,7 +511,8 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2539 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 2539 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -519,7 +529,7 @@ Referenced by <a href="#a1a744ceb0232225a44561c905f61dd2c">AnnotatedIndexContext
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a></li>

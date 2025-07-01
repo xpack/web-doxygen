@@ -58,7 +58,7 @@ struct LexOutlineParser::Private { ... }
 </table>
 
 
-<p>Definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+Definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct LexOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct LexOutlineParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct LexOutlineParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `VhdlString` Class Reference
 
-<p>Minimal string class with std::string like behavior that fulfills the JavaCC string requirements. <a href="#details">More...</a></p>
+Minimal string class with std::string like behavior that fulfills the JavaCC string requirements. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -393,9 +393,9 @@ class VhdlString { ... }
 
 ## Description {#details}
 
-<p>Minimal string class with std::string like behavior that fulfills the JavaCC string requirements.</p>
+Minimal string class with std::string like behavior that fulfills the JavaCC string requirements.
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxySectionDef">
 
@@ -425,7 +425,8 @@ class VhdlString { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -467,7 +468,8 @@ Referenced by <a href="#a8ee025fed34552a66fbf54a8913ec7b6">append</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -482,7 +484,7 @@ Referenced by <a href="#a8ee025fed34552a66fbf54a8913ec7b6">append</a>, <a href="
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 </div>
 </div>
 
@@ -510,7 +512,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -524,7 +527,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -552,7 +555,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -567,7 +571,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a hre
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a> and <a href="#a4b2f992a1dc39ae0786ad0a193cc9707">size</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a> and <a href="#a4b2f992a1dc39ae0786ad0a193cc9707">size</a>.
 </div>
 </div>
 
@@ -577,7 +581,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 
 ## Public Destructor
 
-### ~VhdlString() {#a1e13bd31dbfa44d0607fb9383e413fbb}
+### \~VhdlString() {#a1e13bd31dbfa44d0607fb9383e413fbb}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -601,7 +605,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -613,7 +618,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 </div>
 
 
-Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -623,7 +628,7 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 
 ## Public Operators
 
-### operator&#91;&#93;() {#a367768a3dda595c59aa63ac16f68ac9c}
+### operator\[\]() {#a367768a3dda595c59aa63ac16f68ac9c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -647,7 +652,8 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -656,11 +662,11 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 </div>
 
 
-Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
-### operator&#91;&#93;() {#a82a66eba004a2f6be1d3fadb8c4d6098}
+### operator\[\]() {#a82a66eba004a2f6be1d3fadb8c4d6098}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -684,7 +690,8 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -693,7 +700,7 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 </div>
 
 
-Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -721,7 +728,8 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -758,7 +766,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -795,7 +804,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -832,7 +842,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -869,7 +880,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -889,7 +901,7 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 </div>
 </div>
 
@@ -923,7 +935,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -943,7 +956,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>, <a href="#a4b2f992a1dc39ae0786ad0a193cc9707">size</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>, <a href="#a4b2f992a1dc39ae0786ad0a193cc9707">size</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 
 Referenced by <a href="#a8ee025fed34552a66fbf54a8913ec7b6">append</a>, <a href="#ae57f5f8bd57f7697d50d129b08e310e2">append</a>, <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h/#a9c94336ea01c70fb077989a9fac37307">operator+</a>, <a href="#a659e399322549ea7fba70bdb338a0855">operator+</a>, <a href="#a8823d06700e5db3a0efec2bb1e00b61a">operator+=</a>, <a href="#a2dded5383aa21d3c1ed37ca6619dbf21">operator+=</a> and <a href="#a477840f6e98f22f912520dc5cb3b77c7">operator+=</a>.
 </div>
@@ -973,7 +986,8 @@ Referenced by <a href="#a8ee025fed34552a66fbf54a8913ec7b6">append</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1013,7 +1027,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1025,11 +1040,11 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="
 </div>
 
 
-References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
+References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 </div>
 </div>
 
-### c&#95;str() {#a7fc21a1bc98e67f6739bf5520f40e5c6}
+### c\_str() {#a7fc21a1bc98e67f6739bf5520f40e5c6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1053,7 +1068,8 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#a4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1062,7 +1078,7 @@ References <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#a4
 </div>
 
 
-Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -1090,7 +1106,8 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1099,7 +1116,7 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 </div>
 
 
-References <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+References <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -1127,7 +1144,8 @@ References <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1143,7 +1161,7 @@ References <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a> and <a href="#a
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -1171,7 +1189,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1180,7 +1199,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a hre
 </div>
 
 
-Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 </div>
 </div>
 
@@ -1208,7 +1227,8 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1217,7 +1237,7 @@ Reference <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
 </div>
 
 
-Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>.
+Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>.
 </div>
 </div>
 
@@ -1245,7 +1265,8 @@ Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1254,7 +1275,7 @@ Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>.
 </div>
 
 
-Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>.
+Reference <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>.
 
 Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a href="#ab0fb86df3d26cfde46f9822599a53269">VhdlString</a>.
 </div>
@@ -1284,7 +1305,8 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1296,7 +1318,7 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a> and <a hre
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a>, <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 </div>
 </div>
 
@@ -1330,7 +1352,8 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1339,7 +1362,7 @@ References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a>, <a href="
 </div>
 
 
-References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m&#95;len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m&#95;str</a>.
+References <a href="#a41e5c902ccf2ef80b229644d16ec8aa9">m\_len</a> and <a href="#af805f3e01abaf627912be4a982e8b1ab">m\_str</a>.
 
 Referenced by <a href="#a5deab91a4101cbd3fe7a08970b673697">clear</a> and <a href="#ad1747afcb0d13f711688ab21ae32fe9e">VhdlString</a>.
 </div>
@@ -1351,7 +1374,7 @@ Referenced by <a href="#a5deab91a4101cbd3fe7a08970b673697">clear</a> and <a href
 
 ## Private Member Attributes
 
-### m&#95;len {#a41e5c902ccf2ef80b229644d16ec8aa9}
+### m\_len {#a41e5c902ccf2ef80b229644d16ec8aa9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1370,7 +1393,8 @@ Referenced by <a href="#a5deab91a4101cbd3fe7a08970b673697">clear</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1383,7 +1407,7 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="
 </div>
 </div>
 
-### m&#95;str {#af805f3e01abaf627912be4a982e8b1ab}
+### m\_str {#af805f3e01abaf627912be4a982e8b1ab}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1402,7 +1426,8 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1436,7 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="
 </div>
 
 
-Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#ae57f5f8bd57f7697d50d129b08e310e2">append</a>, <a href="#a7fc21a1bc98e67f6739bf5520f40e5c6">c&#95;str</a>, <a href="#a5deab91a4101cbd3fe7a08970b673697">clear</a>, <a href="#ae74bb84c2809baf748cf273204aabd20">copy</a>, <a href="#a9adab5bfd895699f39b84696bee7da78">data</a>, <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a>, <a href="#a24b56e898a3ce01327cbe1b60c5382ca">operator=</a>, <a href="#a367768a3dda595c59aa63ac16f68ac9c">operator&#91;&#93;</a>, <a href="#a82a66eba004a2f6be1d3fadb8c4d6098">operator&#91;&#93;</a>, <a href="#ab19c70bd559db2d839ad189dba7d4308">substr</a>, <a href="#ac1475e34a382d8691a23ac4e1d25e379">VhdlString</a>, <a href="#ab0fb86df3d26cfde46f9822599a53269">VhdlString</a>, <a href="#a8fe423bc361c8030dc9f6ba110d87141">VhdlString</a> and <a href="#a1e13bd31dbfa44d0607fb9383e413fbb">~VhdlString</a>.
+Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="#ae57f5f8bd57f7697d50d129b08e310e2">append</a>, <a href="#a7fc21a1bc98e67f6739bf5520f40e5c6">c\_str</a>, <a href="#a5deab91a4101cbd3fe7a08970b673697">clear</a>, <a href="#ae74bb84c2809baf748cf273204aabd20">copy</a>, <a href="#a9adab5bfd895699f39b84696bee7da78">data</a>, <a href="#aefd2a815dc508a12c9352da3b575ce8f">init</a>, <a href="#a24b56e898a3ce01327cbe1b60c5382ca">operator=</a>, <a href="#a367768a3dda595c59aa63ac16f68ac9c">operator\[\]</a>, <a href="#a82a66eba004a2f6be1d3fadb8c4d6098">operator\[\]</a>, <a href="#ab19c70bd559db2d839ad189dba7d4308">substr</a>, <a href="#ac1475e34a382d8691a23ac4e1d25e379">VhdlString</a>, <a href="#ab0fb86df3d26cfde46f9822599a53269">VhdlString</a>, <a href="#a8fe423bc361c8030dc9f6ba110d87141">VhdlString</a> and <a href="#a1e13bd31dbfa44d0607fb9383e413fbb">\~VhdlString</a>.
 </div>
 </div>
 
@@ -1419,7 +1444,7 @@ Referenced by <a href="#a77e327ce7f5382381cae4fca59b85d71">append</a>, <a href="
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a></li>

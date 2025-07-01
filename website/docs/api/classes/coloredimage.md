@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ColoredImage` Class Reference
 
-<p>Class representing a bitmap image colored based on hue/sat/gamma settings. <a href="#details">More...</a></p>
+Class representing a bitmap image colored based on hue/sat/gamma settings. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -127,9 +127,9 @@ class ColoredImage { ... }
 
 ## Description {#details}
 
-<p>Class representing a bitmap image colored based on hue/sat/gamma settings.</p>
+Class representing a bitmap image colored based on hue/sat/gamma settings.
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.
 
 <div class="doxySectionDef">
 
@@ -154,7 +154,8 @@ class ColoredImage { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 432 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -189,7 +190,7 @@ class ColoredImage { ... }
 
 References <a href="#aa28cffecb75cf52b6b457178851704c5">hsl2rgb</a> and <a href="#ac2cba7e2fb5d732880c34fd62fdbdf8a">p</a>.
 
-Referenced by <a href="#a15d68911020c041ae76934d6e9bf4806">~ColoredImage</a>.
+Referenced by <a href="#a15d68911020c041ae76934d6e9bf4806">\~ColoredImage</a>.
 </div>
 </div>
 
@@ -199,7 +200,7 @@ Referenced by <a href="#a15d68911020c041ae76934d6e9bf4806">~ColoredImage</a>.
 
 ## Public Destructor
 
-### ~ColoredImage() {#a15d68911020c041ae76934d6e9bf4806}
+### \~ColoredImage() {#a15d68911020c041ae76934d6e9bf4806}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -218,7 +219,8 @@ Referenced by <a href="#a15d68911020c041ae76934d6e9bf4806">~ColoredImage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.
 
 Reference <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a>.
 </div>
@@ -249,7 +251,8 @@ Reference <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -302,7 +305,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -345,7 +349,8 @@ Referenced by <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/image-h">image.h</a>, definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -416,7 +421,7 @@ Referenced by <a href="#ab3906bc1e14d1e528b1ab1db940905a1">ColoredImage</a>, <a 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a></li>

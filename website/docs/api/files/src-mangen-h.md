@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for Man page code fragments. <a href="/web-doxygen/docs/api/classes/mancodegenerator/#details">More...</a></p>
+Generator for Man page code fragments. <a href="/web-doxygen/docs/api/classes/mancodegenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -49,7 +49,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Generator for Man page output. <a href="/web-doxygen/docs/api/classes/mangenerator/#details">More...</a></p>
+Generator for Man page output. <a href="/web-doxygen/docs/api/classes/mangenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

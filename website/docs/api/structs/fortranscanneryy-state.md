@@ -101,7 +101,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Input string for prepass of line cont. '&amp;'. <a href="#a419c359a616d196e499eb66fc252b892">More...</a></p>
+Input string for prepass of line cont. '&amp;'. <a href="#a419c359a616d196e499eb66fc252b892">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -115,7 +115,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5161a4">More...</a></p>
+Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5161a4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -345,7 +345,7 @@ struct fortranscannerYY_state { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6">ScanVar</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aeaa8dddac310c1fa50093e5de835cae8">vtype</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V&#95;IGNORE</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aeaa8dddac310c1fa50093e5de835cae8">vtype</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V\_IGNORE</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -592,7 +592,7 @@ struct fortranscannerYY_state { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9d">InterfaceType</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7d546816859a7dbd07ace4457a4a1521">ifType</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF&#95;NONE</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7d546816859a7dbd07ace4457a4a1521">ifType</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF\_NONE</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -649,7 +649,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Accumulated modifiers of current statement, eg variable declaration. <a href="#a8253dba2876cdbafcd3c392b3f4e64e8">More...</a></p>
+Accumulated modifiers of current statement, eg variable declaration. <a href="#a8253dba2876cdbafcd3c392b3f4e64e8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -663,7 +663,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Holds program scope-&gt;symbol name-&gt;symbol modifiers. <a href="#a1b0675f5b1906df12b15359acf46fe3d">More...</a></p>
+Holds program scope-&gt;symbol name-&gt;symbol modifiers. <a href="#a1b0675f5b1906df12b15359acf46fe3d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -703,7 +703,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>counter for the number of main programs in this file <a href="#ae604d4642c3ae343ac91644cd0a48ac7">More...</a></p>
+counter for the number of main programs in this file <a href="#ae604d4642c3ae343ac91644cd0a48ac7">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -726,7 +726,7 @@ struct fortranscannerYY_state { ... }
 </table>
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxySectionDef">
 
@@ -751,7 +751,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -781,7 +782,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -811,7 +813,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -841,7 +844,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -871,7 +875,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -901,7 +906,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -931,7 +937,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -961,7 +968,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -991,7 +999,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1021,7 +1030,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1032,7 +1042,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### current&#95;root {#a6cb14acdcd5c929308f056a3e75c8473}
+### current\_root {#a6cb14acdcd5c929308f056a3e75c8473}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1051,7 +1061,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1079,9 +1090,10 @@ struct fortranscannerYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Accumulated modifiers of current statement, eg variable declaration.</p>
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Accumulated modifiers of current statement, eg variable declaration.
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1111,7 +1123,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1141,7 +1154,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1171,7 +1185,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1201,7 +1216,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1231,7 +1247,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1261,7 +1278,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1291,7 +1309,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1302,7 +1321,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### file&#95;root {#af0a0120456c66b2c48981d3655023c9f}
+### file\_root {#af0a0120456c66b2c48981d3655023c9f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1321,7 +1340,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1351,7 +1371,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1381,7 +1402,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1433,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1422,7 +1445,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### global&#95;root {#a957465382117292b3b772306b35bd2dc}
+### global\_root {#a957465382117292b3b772306b35bd2dc}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1441,7 +1464,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1452,7 +1476,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### global&#95;scope {#ad768ac26bfe32224c97bbf4803a28064}
+### global\_scope {#ad768ac26bfe32224c97bbf4803a28064}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1471,7 +1495,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1491,7 +1516,7 @@ struct fortranscannerYY_state { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">InterfaceType fortranscannerYY_state::ifType = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF&#95;NONE</a></td>
+<td class="doxyMemberName">InterfaceType fortranscannerYY_state::ifType = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF\_NONE</a></td>
 </tr>
 </table>
 </td>
@@ -1501,7 +1526,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1531,7 +1557,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1561,7 +1588,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1591,7 +1619,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1621,7 +1650,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1651,7 +1681,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1681,7 +1712,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1711,7 +1743,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1741,7 +1774,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1771,7 +1805,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1799,9 +1834,10 @@ struct fortranscannerYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Input string for prepass of line cont. '&amp;'.</p>
 
-<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Input string for prepass of line cont. '&amp;'.
+
+Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1829,9 +1865,10 @@ struct fortranscannerYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Input string after command separator ';'.</p>
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Input string after command separator ';'.
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1861,7 +1898,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1872,7 +1910,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### last&#95;entry {#ada1a9588da2934c3c7440170fb961ada}
+### last\_entry {#ada1a9588da2934c3c7440170fb961ada}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1891,7 +1929,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1902,7 +1941,7 @@ struct fortranscannerYY_state { ... }
 </div>
 </div>
 
-### last&#95;enum {#a6a77b287290c21688f9df8f0d7160c87}
+### last\_enum {#a6a77b287290c21688f9df8f0d7160c87}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1921,7 +1960,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1951,7 +1991,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1981,7 +2022,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2009,9 +2051,10 @@ struct fortranscannerYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>counter for the number of main programs in this file</p>
 
-<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+counter for the number of main programs in this file
+
+Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2039,9 +2082,10 @@ struct fortranscannerYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Holds program scope-&gt;symbol name-&gt;symbol modifiers.</p>
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+Holds program scope-&gt;symbol name-&gt;symbol modifiers.
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2071,7 +2115,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2101,7 +2146,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2131,7 +2177,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2161,7 +2208,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2191,7 +2239,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2221,7 +2270,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2251,7 +2301,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2281,7 +2332,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2301,7 +2353,7 @@ struct fortranscannerYY_state { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">ScanVar fortranscannerYY_state::vtype = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V&#95;IGNORE</a></td>
+<td class="doxyMemberName">ScanVar fortranscannerYY_state::vtype = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V\_IGNORE</a></td>
 </tr>
 </table>
 </td>
@@ -2311,7 +2363,8 @@ struct fortranscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2326,7 +2379,7 @@ struct fortranscannerYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a></li>

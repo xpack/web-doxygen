@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Representation of a group collaboration graph. <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#details">More...</a></p>
+Representation of a group collaboration graph. <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -116,7 +116,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
 
 <div class="doxyProgramListing">
 

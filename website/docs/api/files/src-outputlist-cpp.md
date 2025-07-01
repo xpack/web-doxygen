@@ -55,13 +55,13 @@ toc_max_heading_level: 4
 
 
 
-<p>This class represents a list of output generators that work in "parallel". The class only knows about the abstract base class OutputGenerators. All output is produced by calling a method of this class, which forwards the call to all output generators.</p>
+This class represents a list of output generators that work in "parallel". The class only knows about the abstract base class OutputGenerators. All output is produced by calling a method of this class, which forwards the call to all output generators.
 
 <div class="doxySectionDef">
 
 ## Variables
 
-### g&#95;outId {#af6d0e999d586b2601df53817d960fbd2}
+### g\_outId {#af6d0e999d586b2601df53817d960fbd2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -85,7 +85,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/outputlist-cpp">outputlist.cpp</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/outputlist-cpp">outputlist.cpp</a>.
 
 <div class="doxyProgramListing">
 

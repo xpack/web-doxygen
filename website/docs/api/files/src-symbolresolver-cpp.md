@@ -45,7 +45,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper class representing the stack of items considered while resolving the scope. <a href="/web-doxygen/docs/api/classes/accessstack/#details">More...</a></p>
+Helper class representing the stack of items considered while resolving the scope. <a href="/web-doxygen/docs/api/classes/accessstack/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -59,7 +59,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Element in the stack. <a href="/web-doxygen/docs/api/structs/accessstack/accesselem/#details">More...</a></p>
+Element in the stack. <a href="/web-doxygen/docs/api/structs/accessstack/accesselem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -272,7 +272,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -302,7 +303,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -332,7 +334,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -373,7 +376,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -399,7 +403,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 
 ## Variables
 
-### g&#95;cacheMutex {#abf10ed4dca35ec7b624c1aa7cd018327}
+### g\_cacheMutex {#abf10ed4dca35ec7b624c1aa7cd018327}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -423,7 +427,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -436,7 +441,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 </div>
 </div>
 
-### g&#95;cacheTypedefMutex {#a1a8971085fc5238a1829570b5ca71aab}
+### g\_cacheTypedefMutex {#a1a8971085fc5238a1829570b5ca71aab}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -460,7 +465,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -473,7 +479,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a55
 </div>
 </div>
 
-### g&#95;substMap {#aafc36311877f21f5997fccbb4c2a78d9}
+### g\_substMap {#aafc36311877f21f5997fccbb4c2a78d9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -497,7 +503,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a55
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -510,7 +517,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 </div>
 </div>
 
-### g&#95;substMapMutex {#a6514a0d5a7c5cf86b13034f038a87a77}
+### g\_substMapMutex {#a6514a0d5a7c5cf86b13034f038a87a77}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -534,7 +541,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -553,7 +561,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 
 ## Macro Definitions
 
-### AUTO&#95;TRACE {#a210042a14f3a393be09c743c219126ae}
+### AUTO\_TRACE {#a210042a14f3a393be09c743c219126ae}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -572,7 +580,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -583,7 +592,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 </div>
 </div>
 
-### AUTO&#95;TRACE&#95;ADD {#a05be586784f268b947ad777aa316c4e6}
+### AUTO\_TRACE\_ADD {#a05be586784f268b947ad777aa316c4e6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -602,7 +611,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -613,7 +623,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 </div>
 </div>
 
-### AUTO&#95;TRACE&#95;EXIT {#a81912d2a3d12aab7a9e546e5299e2e09}
+### AUTO\_TRACE\_EXIT {#a81912d2a3d12aab7a9e546e5299e2e09}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -632,7 +642,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
 
 <div class="doxyProgramListing">
 

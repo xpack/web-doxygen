@@ -72,7 +72,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Clang parser object for a single translation unit, which consists of a source file and the directly or indirectly included headers. <a href="/web-doxygen/docs/api/classes/clangtuparser/#details">More...</a></p>
+Clang parser object for a single translation unit, which consists of a source file and the directly or indirectly included headers. <a href="/web-doxygen/docs/api/classes/clangtuparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -86,7 +86,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Wrapper for to let libclang assisted parsing. <a href="/web-doxygen/docs/api/classes/clangparser/#details">More...</a></p>
+Wrapper for to let libclang assisted parsing. <a href="/web-doxygen/docs/api/classes/clangparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

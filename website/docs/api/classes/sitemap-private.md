@@ -58,7 +58,7 @@ class Sitemap::Private { ... }
 </table>
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ class Sitemap::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ class Sitemap::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ class Sitemap::Private { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a></li>

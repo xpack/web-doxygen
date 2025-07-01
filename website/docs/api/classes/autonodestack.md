@@ -101,7 +101,7 @@ class AutoNodeStack { ... }
 </table>
 
 
-<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxySectionDef">
 
@@ -131,7 +131,8 @@ class AutoNodeStack { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -141,7 +142,7 @@ class AutoNodeStack { ... }
 </div>
 
 
-References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a href="#a36908098e146343a72a946a270f5980a">m&#95;parser</a>.
+References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m\_parser</a>.
 </div>
 </div>
 
@@ -151,7 +152,7 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 
 ## Public Destructor
 
-### ~AutoNodeStack() {#a7a9a492c39c16b054ab81d12ea3e73ac}
+### \~AutoNodeStack() {#a7a9a492c39c16b054ab81d12ea3e73ac}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -175,7 +176,8 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -196,7 +198,7 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 </div>
 
 
-References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a href="#a36908098e146343a72a946a270f5980a">m&#95;parser</a>.
+References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m\_parser</a>.
 </div>
 </div>
 
@@ -206,7 +208,7 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 
 ## Private Member Attributes
 
-### m&#95;node {#a452992566701eb2e0fcb67ca0e38e890}
+### m\_node {#a452992566701eb2e0fcb67ca0e38e890}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -225,7 +227,8 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -234,11 +237,11 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m&#95;node</a> and <a hr
 </div>
 
 
-Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">~AutoNodeStack</a>.
+Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">\~AutoNodeStack</a>.
 </div>
 </div>
 
-### m&#95;parser {#a36908098e146343a72a946a270f5980a}
+### m\_parser {#a36908098e146343a72a946a270f5980a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -257,7 +260,8 @@ Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -266,7 +270,7 @@ Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and
 </div>
 
 
-Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">~AutoNodeStack</a>.
+Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">\~AutoNodeStack</a>.
 </div>
 </div>
 
@@ -274,7 +278,7 @@ Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a></li>

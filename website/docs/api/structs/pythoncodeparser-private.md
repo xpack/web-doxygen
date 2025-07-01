@@ -58,7 +58,7 @@ struct PythonCodeParser::Private { ... }
 </table>
 
 
-<p>Definition at line 1494 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+Definition at line 1494 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct PythonCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1497 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1497 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct PythonCodeParser::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1496 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
+Definition at line 1496 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct PythonCodeParser::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a></li>

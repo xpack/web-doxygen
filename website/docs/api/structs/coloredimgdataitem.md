@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ColoredImgDataItem` Struct Reference
 
-<p>Data associated with a HSV colored image. <a href="#details">More...</a></p>
+Data associated with a HSV colored image. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -103,9 +103,9 @@ struct ColoredImgDataItem { ... }
 
 ## Description {#details}
 
-<p>Data associated with a HSV colored image.</p>
+Data associated with a HSV colored image.
 
-<p>Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxySectionDef">
 
@@ -130,7 +130,8 @@ struct ColoredImgDataItem { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -162,7 +163,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 420 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 420 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +196,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -226,7 +229,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -258,7 +262,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 418 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 418 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -275,7 +280,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/util-h">util.h</a></li>

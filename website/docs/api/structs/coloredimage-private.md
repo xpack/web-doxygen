@@ -84,7 +84,7 @@ struct ColoredImage::Private { ... }
 </table>
 
 
-<p>Definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+Definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ struct ColoredImage::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ struct ColoredImage::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 429 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 429 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ struct ColoredImage::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,8 @@ struct ColoredImage::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 426 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
+Definition at line 426 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +218,7 @@ struct ColoredImage::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a></li>

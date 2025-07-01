@@ -75,7 +75,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 2953 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 2953 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -88,7 +89,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a> and <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#af6bb93beb1eac9b861832d368ffad291">PerlModGenerator::generate</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a> and <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#af6bb93beb1eac9b861832d368ffad291">PerlModGenerator::generate</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
 </div>
@@ -113,7 +114,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 20 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 1414 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
+Declaration at line 20 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-h">perlmodgen.h</a>, definition at line 1414 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
 
 <div class="doxyProgramListing">
 

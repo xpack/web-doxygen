@@ -91,7 +91,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Represents the call context. <a href="/web-doxygen/docs/api/classes/callcontext/#details">More...</a></p>
+Represents the call context. <a href="/web-doxygen/docs/api/classes/callcontext/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

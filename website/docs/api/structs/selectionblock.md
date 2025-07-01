@@ -63,7 +63,7 @@ struct SelectionBlock { ... }
 </table>
 
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxySectionDef">
 
@@ -88,7 +88,8 @@ struct SelectionBlock { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -118,7 +119,8 @@ struct SelectionBlock { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -133,7 +135,7 @@ struct SelectionBlock { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/util-h">util.h</a></li>

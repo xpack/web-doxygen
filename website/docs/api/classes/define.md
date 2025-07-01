@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Define` Class Reference
 
-<p>A class representing a macro definition. <a href="#details">More...</a></p>
+A class representing a macro definition. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -207,9 +207,9 @@ class Define { ... }
 
 ## Description {#details}
 
-<p>A class representing a macro definition.</p>
+A class representing a macro definition.
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxySectionDef">
 
@@ -234,7 +234,8 @@ class Define { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -266,7 +267,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -298,7 +300,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -330,7 +333,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -362,7 +366,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -394,7 +399,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -426,7 +432,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -458,7 +465,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -490,7 +498,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -522,7 +531,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -554,7 +564,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -586,7 +597,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -618,7 +630,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a37deceebb857c5178
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -635,7 +648,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/define-h">define.h</a></li>

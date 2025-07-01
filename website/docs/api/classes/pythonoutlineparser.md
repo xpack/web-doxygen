@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `PythonOutlineParser` Class Reference
 
-<p>Python Language parser using state-based lexical scanning. <a href="#details">More...</a></p>
+Python Language parser using state-based lexical scanning. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class PythonOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a></p>
+Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -99,7 +99,7 @@ class PythonOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a5a3b64521d1851e39a58043826b11a95">More...</a></p>
+Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a5a3b64521d1851e39a58043826b11a95">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,7 @@ class PythonOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a10ad0ad24a8f0fd0e8cb537c63c6254f">More...</a></p>
+Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a10ad0ad24a8f0fd0e8cb537c63c6254f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,7 +127,7 @@ class PythonOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Callback function called by the comment block scanner. <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">More...</a></p>
+Callback function called by the comment block scanner. <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -157,12 +157,12 @@ class PythonOutlineParser { ... }
 
 ## Description {#details}
 
-<p>Python Language parser using state-based lexical scanning.</p>
+Python Language parser using state-based lexical scanning.
 
 
-<p>This is the Python language parser for doxygen.</p>
+This is the Python language parser for doxygen.
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.</p>
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.
 
 <div class="doxySectionDef">
 
@@ -187,7 +187,8 @@ class PythonOutlineParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2343 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
+Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2343 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -202,7 +203,7 @@ class PythonOutlineParser { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da6b1a5b26169c22256dfd5a35fc519d4c">Debug::Lex&#95;pyscanner</a>, <a href="#a5bdb60eb490e5775ef03811344532e98">p</a> and <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a>.
+References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da6b1a5b26169c22256dfd5a35fc519d4c">Debug::Lex\_pyscanner</a>, <a href="#a5bdb60eb490e5775ef03811344532e98">p</a> and <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a>.
 
 Referenced by <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a>.
 </div>
@@ -214,7 +215,7 @@ Referenced by <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</
 
 ## Public Destructor
 
-### ~PythonOutlineParser() {#aabcb09d0e641c2c5d3661069aeea286c}
+### \~PythonOutlineParser() {#aabcb09d0e641c2c5d3661069aeea286c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -233,7 +234,8 @@ Referenced by <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2351 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
+Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2351 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -277,18 +279,19 @@ Reference <a href="#a5bdb60eb490e5775ef03811344532e98">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.</p>
+
+Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></p>
+<a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2371 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2371 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -326,7 +329,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.</p>
+
+Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.
 
 
 <dl class="doxyParamsList">
@@ -335,25 +339,25 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription"><p>The full name of the file.</p></td>
+<td class="doxyParamItemDescription">The full name of the file.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileBuf</td>
-<td class="doxyParamItemDescription"><p>The contents of the file (zero terminated).</p></td>
+<td class="doxyParamItemDescription">The contents of the file (zero terminated).</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] root</td>
-<td class="doxyParamItemDescription"><p>The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</p></td>
+<td class="doxyParamItemDescription">The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> \*nodes representing the information extracted from the file.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] clangParser</td>
-<td class="doxyParamItemDescription"><p>The clang translation unit parser object or nullptr if disabled.</p></td>
+<td class="doxyParamItemDescription">The clang translation unit parser object or nullptr if disabled.</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2357 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2357 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -374,7 +378,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da6b1a5b26169c22256dfd5a35fc519d4c">Debug::Lex&#95;pyscanner</a>, <a href="#a5bdb60eb490e5775ef03811344532e98">p</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da6b1a5b26169c22256dfd5a35fc519d4c">Debug::Lex\_pyscanner</a>, <a href="#a5bdb60eb490e5775ef03811344532e98">p</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
 </div>
 </div>
 
@@ -400,12 +404,13 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Callback function called by the comment block scanner.</p>
+
+Callback function called by the comment block scanner.
 
 
-<p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
+It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.
 
-<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2376 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>, definition at line 2376 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -448,7 +453,8 @@ Referenced by <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">parsePrototype</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -457,7 +463,7 @@ Referenced by <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">parsePrototype</a>.
 </div>
 
 
-Referenced by <a href="#a5a3b64521d1851e39a58043826b11a95">parseInput</a>, <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">parsePrototype</a>, <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a> and <a href="#aabcb09d0e641c2c5d3661069aeea286c">~PythonOutlineParser</a>.
+Referenced by <a href="#a5a3b64521d1851e39a58043826b11a95">parseInput</a>, <a href="#aacc082bbcc64e3b3fe83a1f7ce66804b">parsePrototype</a>, <a href="#a8a5a1f367924785b005bd7e010e98614">PythonOutlineParser</a> and <a href="#aabcb09d0e641c2c5d3661069aeea286c">\~PythonOutlineParser</a>.
 </div>
 </div>
 
@@ -465,7 +471,7 @@ Referenced by <a href="#a5a3b64521d1851e39a58043826b11a95">parseInput</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pyscanner-h">pyscanner.h</a></li>

@@ -82,13 +82,13 @@ class ReaderStream { ... }
 </table>
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Destructor
 
-### ~ReaderStream() {#a06afa0f82703cea5c3dbeadf1762f8fa}
+### \~ReaderStream() {#a06afa0f82703cea5c3dbeadf1762f8fa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -113,7 +113,8 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -155,7 +156,8 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -191,7 +193,8 @@ class ReaderStream { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -200,7 +203,7 @@ class ReaderStream { ... }
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#a401fffd20e03e2993f9588187b65afc3">JAVACC&#95;CHAR&#95;TYPE</a>.
+Reference <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#a401fffd20e03e2993f9588187b65afc3">JAVACC\_CHAR\_TYPE</a>.
 </div>
 </div>
 
@@ -208,7 +211,7 @@ Reference <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h/#a401fffd20e0
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a></li>

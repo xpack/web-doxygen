@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a string buffer optimized for growing. <a href="/web-doxygen/docs/api/classes/growbuf/#details">More...</a></p>
+Class representing a string buffer optimized for growing. <a href="/web-doxygen/docs/api/classes/growbuf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -53,7 +53,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>&nbsp;&nbsp;&nbsp;1024&#42;4</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>&nbsp;&nbsp;&nbsp;1024\*4</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -71,7 +71,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### GROW&#95;AMOUNT {#a8b0dc2f8685a41830347ff1e73629fb3}
+### GROW\_AMOUNT {#a8b0dc2f8685a41830347ff1e73629fb3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -80,7 +80,7 @@ toc_max_heading_level: 4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define GROW_AMOUNT&nbsp;&nbsp;&nbsp;1024&#42;4</td>
+<td class="doxyMemberName">#define GROW_AMOUNT&nbsp;&nbsp;&nbsp;1024\*4</td>
 </tr>
 </table>
 </td>
@@ -90,7 +90,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
+Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
 
 <div class="doxyProgramListing">
 

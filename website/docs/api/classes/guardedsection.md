@@ -205,7 +205,7 @@ class GuardedSection { ... }
 </table>
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxySectionDef">
 
@@ -235,7 +235,8 @@ class GuardedSection { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -245,7 +246,7 @@ class GuardedSection { ... }
 </div>
 
 
-References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m&#95;parentVisible</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.
+References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m\_parentVisible</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.
 </div>
 </div>
 
@@ -279,7 +280,8 @@ References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m&#95;parentVisible</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -288,7 +290,7 @@ References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m&#95;parentVisible</a> 
 </div>
 
 
-Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
+Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
 </div>
 </div>
 
@@ -316,7 +318,8 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -325,7 +328,7 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
 </div>
 
 
-Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
+Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
 </div>
 </div>
 
@@ -353,7 +356,8 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -362,7 +366,7 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
 </div>
 
 
-Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
+Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
 </div>
 </div>
 
@@ -390,7 +394,8 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -399,7 +404,7 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
 </div>
 
 
-Reference <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m&#95;parentVisible</a>.
+Reference <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m\_parentVisible</a>.
 
 Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.
 </div>
@@ -429,7 +434,8 @@ Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -438,7 +444,7 @@ Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.
 </div>
 
 
-Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
+Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
 </div>
 </div>
 
@@ -466,7 +472,8 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -475,7 +482,7 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m&#95;hasElse</a>.
 </div>
 
 
-Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
+Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
 </div>
 </div>
 
@@ -503,7 +510,8 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -512,7 +520,7 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m&#95;enabled</a>.
 </div>
 
 
-Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
+Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
 </div>
 </div>
 
@@ -522,7 +530,7 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
 
 ## Private Member Attributes
 
-### m&#95;enabled {#abb9324304f499a8ece258d3a58aa2f64}
+### m\_enabled {#abb9324304f499a8ece258d3a58aa2f64}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -541,7 +549,8 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m&#95;enabledFound</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -554,7 +563,7 @@ Referenced by <a href="#a56cd1d1f58762dde6e4a3264bc1c63ea">isEnabled</a> and <a 
 </div>
 </div>
 
-### m&#95;enabledFound {#abf34b6c8097f597da843e1181de7910d}
+### m\_enabledFound {#abf34b6c8097f597da843e1181de7910d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -573,7 +582,8 @@ Referenced by <a href="#a56cd1d1f58762dde6e4a3264bc1c63ea">isEnabled</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -586,7 +596,7 @@ Referenced by <a href="#a390dda3478ad528e66b0a0874b48bff8">isEnabledFound</a> an
 </div>
 </div>
 
-### m&#95;hasElse {#abe5b312c34b9b57ed1c1b11f88c0017f}
+### m\_hasElse {#abe5b312c34b9b57ed1c1b11f88c0017f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -605,7 +615,8 @@ Referenced by <a href="#a390dda3478ad528e66b0a0874b48bff8">isEnabledFound</a> an
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -618,7 +629,7 @@ Referenced by <a href="#a3cee7469ec9aa864087fec1915b6fb72">hasElse</a> and <a hr
 </div>
 </div>
 
-### m&#95;parentVisible {#a6fdfb98ba49202daae7e14af2fb45ffd}
+### m\_parentVisible {#a6fdfb98ba49202daae7e14af2fb45ffd}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -637,7 +648,8 @@ Referenced by <a href="#a3cee7469ec9aa864087fec1915b6fb72">hasElse</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -654,7 +666,7 @@ Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a> an
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a></li>

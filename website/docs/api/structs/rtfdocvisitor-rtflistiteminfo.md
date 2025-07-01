@@ -84,7 +84,7 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 </table>
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
 
 <div class="doxySectionDef">
 
@@ -109,7 +109,8 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -139,7 +140,8 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -199,7 +202,8 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +218,7 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a></li>

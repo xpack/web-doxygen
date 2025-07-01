@@ -36,7 +36,7 @@ class DotNodeDeque { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::deque&lt; DotNode &#42; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::deque&lt; DotNode * &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class DotNodeDeque { ... }
 </table>
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <hr/>
 

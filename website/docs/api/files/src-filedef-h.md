@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing the data associated with a #include statement. <a href="/web-doxygen/docs/api/structs/includeinfo/#details">More...</a></p>
+Class representing the data associated with a #include statement. <a href="/web-doxygen/docs/api/structs/includeinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -66,7 +66,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A model of a file symbol. <a href="/web-doxygen/docs/api/classes/filedef/#details">More...</a></p>
+A model of a file symbol. <a href="/web-doxygen/docs/api/classes/filedef/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -363,7 +363,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -403,6 +404,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -410,44 +412,44 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IncludeSystem<a id="a52a98ac8d3b93b98e9371611d4b9dcb8ab0ead0aebf84f57889aab39d528f34b4"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0001)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0001)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IncludeLocal<a id="a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0002)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0002)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ImportSystemObjC<a id="a52a98ac8d3b93b98e9371611d4b9dcb8a850b5d27cd4e40d0405c4b7a0d76ab94"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0004)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0004)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ImportLocalObjC<a id="a52a98ac8d3b93b98e9371611d4b9dcb8aaf0b778b0e0af69011f06c8734fdb891"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0008)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0008)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ImportSystem<a id="a52a98ac8d3b93b98e9371611d4b9dcb8ac597d64b5224025af7bef1aad3172845"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0010)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0010)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ImportLocal<a id="a52a98ac8d3b93b98e9371611d4b9dcb8a2dbc22c9108714bfd4417e558b7b82e2"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0020)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0020)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ImportModule<a id="a52a98ac8d3b93b98e9371611d4b9dcb8a57522338dd8bf2361634a923a2b71b81"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0x0040)</p></td>
+<td class="doxyEnumItemDescription"> (= 0x0040)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -498,7 +500,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +537,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -570,7 +574,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -606,7 +611,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1925 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1925 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -618,7 +624,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp&#95;sort</a>.
+References <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp\_sort</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#ada60e602f7b5c873829b42ae6638a389">DirDefImpl::sort</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a>.
 </div>
@@ -643,7 +649,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#ada60e602f7b5c8
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 212 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 212 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -655,7 +662,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#ada60e602f7b5c8
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a1abe1e85619493e4e99240d290c3bdd2">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af32530eae2ce36e648a925f28f1ca781">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a41c844f5b9078d32e11a14b45b6f5c2d">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a611ec420e06726e8061f4fe83c3f8a6f">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac219ce4773970158e118d1d3b57ebd78">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ad43c4d8ba9857b32e92ca529152e4958">FileDef::overrideIncludedByGraph</a>, <a href="/web-doxygen/docs/api/classes/ccodeparser/#a106ea78aa6382f5b06dbd2563d5b99e4">CCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab7216957ad8abace8578d47edd8b578d">FortranCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/lexcodeparser/#a907e618c99ef07aa00fc0604062e3929">LexCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/pythoncodeparser/#a7f8b5638c6d0424a1de9bc6905041ab2">PythonCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#ad4cfac05d7a0c2354cdb90992b1e0248">SQLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/vhdlcodeparser/#a49ff704e68bb7562a054bd1c7f8bba09">VHDLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/xmlcodeparser/#a1e7283cd50a9220c8381cbdf953702ca">XMLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab1c5d97fd966b1d6996e5c4ce21c88b1">readDir</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adfb0efa72e3e5ed08b1881ccd8332e5e">readFileOrDirectory</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a256c275d3b654245e85d7c04e8f417b9">writeGraphInfo</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a1abe1e85619493e4e99240d290c3bdd2">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af32530eae2ce36e648a925f28f1ca781">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a41c844f5b9078d32e11a14b45b6f5c2d">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a611ec420e06726e8061f4fe83c3f8a6f">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac219ce4773970158e118d1d3b57ebd78">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ad43c4d8ba9857b32e92ca529152e4958">FileDef::overrideIncludedByGraph</a>, <a href="/web-doxygen/docs/api/classes/ccodeparser/#a106ea78aa6382f5b06dbd2563d5b99e4">CCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab7216957ad8abace8578d47edd8b578d">FortranCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/lexcodeparser/#a907e618c99ef07aa00fc0604062e3929">LexCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/pythoncodeparser/#a7f8b5638c6d0424a1de9bc6905041ab2">PythonCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/sqlcodeparser/#ad4cfac05d7a0c2354cdb90992b1e0248">SQLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/vhdlcodeparser/#a49ff704e68bb7562a054bd1c7f8bba09">VHDLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/xmlcodeparser/#a1e7283cd50a9220c8381cbdf953702ca">XMLCodeParser::parseCode</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab1c5d97fd966b1d6996e5c4ce21c88b1">readDir</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adfb0efa72e3e5ed08b1881ccd8332e5e">readFileOrDirectory</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a256c275d3b654245e85d7c04e8f417b9">writeGraphInfo</a>.
 </div>
 </div>
 
@@ -678,7 +685,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -728,7 +736,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -748,7 +757,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490
 </div>
 
 
-References <a href="#a52a98ac8d3b93b98e9371611d4b9dcb8a57522338dd8bf2361634a923a2b71b81">ImportModule</a> and <a href="#abdab8bf385a3fe5d1f569c32428c2863">IncludeKind&#95;LocalMask</a>.
+References <a href="#a52a98ac8d3b93b98e9371611d4b9dcb8a57522338dd8bf2361634a923a2b71b81">ImportModule</a> and <a href="#abdab8bf385a3fe5d1f569c32428c2863">IncludeKind\_LocalMask</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490ed9d0cce2344fc25bc96">ClassDefImpl::writeIncludeFiles</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a13b863cddb2d53345fcc53835249bad9">ConceptDefImpl::writeIncludeFiles</a> and <a href="/web-doxygen/docs/api/classes/filedefimpl/#a7274693641d802ed217bdc46b91db227">FileDefImpl::writeIncludeFiles</a>.
 </div>
@@ -773,7 +782,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -797,7 +807,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490
 </div>
 
 
-References <a href="#a5eeca59091b422e472c7ccbe7abb337c">IncludeKind&#95;ImportMask</a> and <a href="#a0f83257cf012e77790524a29bd32c037">IncludeKind&#95;ObjCMask</a>.
+References <a href="#a5eeca59091b422e472c7ccbe7abb337c">IncludeKind\_ImportMask</a> and <a href="#a0f83257cf012e77790524a29bd32c037">IncludeKind\_ObjCMask</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490ed9d0cce2344fc25bc96">ClassDefImpl::writeIncludeFiles</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#a13b863cddb2d53345fcc53835249bad9">ConceptDefImpl::writeIncludeFiles</a> and <a href="/web-doxygen/docs/api/classes/filedefimpl/#a7274693641d802ed217bdc46b91db227">FileDefImpl::writeIncludeFiles</a>.
 </div>
@@ -822,7 +832,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acb75f1220490
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1932 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 217 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1932 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -865,7 +876,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1945 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.</p>
+
+Declaration at line 218 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>, definition at line 1945 of file <a href="/web-doxygen/docs/api/files/src/filedef-cpp">filedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -893,7 +905,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 
 ## Variables
 
-### IncludeKind&#95;ImportMask {#a5eeca59091b422e472c7ccbe7abb337c}
+### IncludeKind\_ImportMask {#a5eeca59091b422e472c7ccbe7abb337c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -917,6 +929,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -926,7 +939,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf859
 </dd>
 </dl>
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -939,7 +952,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 </div>
 </div>
 
-### IncludeKind&#95;LocalMask {#abdab8bf385a3fe5d1f569c32428c2863}
+### IncludeKind\_LocalMask {#abdab8bf385a3fe5d1f569c32428c2863}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -963,7 +976,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -976,7 +990,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 </div>
 </div>
 
-### IncludeKind&#95;ObjCMask {#a0f83257cf012e77790524a29bd32c037}
+### IncludeKind\_ObjCMask {#a0f83257cf012e77790524a29bd32c037}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1000,7 +1014,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae7139b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1013,7 +1028,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a29b4da46501
 </div>
 </div>
 
-### IncludeKind&#95;SystemMask {#aaa33e018d950b5a3ce71969b727fbc66}
+### IncludeKind\_SystemMask {#aaa33e018d950b5a3ce71969b727fbc66}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1037,7 +1052,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a29b4da46501
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
 
 <div class="doxyProgramListing">
 

@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class that manages the tooltips for a source file. <a href="/web-doxygen/docs/api/classes/tooltipmanager/#details">More...</a></p>
+Class that manages the tooltips for a source file. <a href="/web-doxygen/docs/api/classes/tooltipmanager/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

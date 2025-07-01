@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Example` Struct Reference
 
-<p>Data associated with an example. <a href="#details">More...</a></p>
+Data associated with an example. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -96,9 +96,9 @@ struct Example { ... }
 
 ## Description {#details}
 
-<p>Data associated with an example.</p>
+Data associated with an example.
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxySectionDef">
 
@@ -128,7 +128,8 @@ struct Example { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -166,7 +167,8 @@ References <a href="#ad77c6c2bbf3a3cd277ee24df5a3d6190">anchor</a>, <a href="#a5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -198,7 +200,8 @@ Referenced by <a href="#a542f2504157d756b0d41c0711dc9bc4c">Example</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
+Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -230,7 +233,8 @@ Referenced by <a href="#a542f2504157d756b0d41c0711dc9bc4c">Example</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -247,7 +251,7 @@ Referenced by <a href="#a542f2504157d756b0d41c0711dc9bc4c">Example</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/example-h">example.h</a></li>

@@ -58,7 +58,7 @@ struct ManDocVisitor::ManListItemInfo { ... }
 </table>
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct ManDocVisitor::ManListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct ManDocVisitor::ManListItemInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct ManDocVisitor::ManListItemInfo { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a></li>

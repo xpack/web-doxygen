@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
+A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,6 +121,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -128,29 +129,29 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Html<a id="a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">LaTeX<a id="a8680135da08a5ef57cebe20060912dcca5766dea037e9097ac6869424b65fe7b6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Rtf<a id="a8680135da08a5ef57cebe20060912dccaca9a0e8f64d43d81dd7b0225ea1b19c5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">DocBook<a id="a8680135da08a5ef57cebe20060912dcca4a82b0a4711aab28baf901194012e32c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -184,6 +185,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -191,19 +193,19 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BITMAP<a id="ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EPS<a id="ac60ef98d62b78366a17c9f1bda96523fac2c027d8c62500300145c3043546d4c6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -237,6 +239,7 @@ toc_max_heading_level: 4
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -244,34 +247,34 @@ toc_max_heading_level: 4
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Dependency<a id="a0c7c85309652245e03563b127f451f72a90a95d6639a7bbbeff7f36a7ec8f3b10"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Inheritance<a id="a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Collaboration<a id="a0c7c85309652245e03563b127f451f72a337e8f4aa741ef97ec3ed8fd7b1accb7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Hierarchy<a id="a0c7c85309652245e03563b127f451f72a0748856bca50f42e2abd5b36ca083bae"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">CallGraph<a id="a0c7c85309652245e03563b127f451f72a9d0f6d0fe9c95c9cb09769b9879db1ff"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
 
 <div class="doxyProgramListing">
 

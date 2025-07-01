@@ -41,7 +41,7 @@ class TranslatorAdapter_1_11_0 { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a></p>
+Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -102,7 +102,7 @@ class TranslatorAdapter_1_11_0 { ... }
 </table>
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxySectionDef">
 
@@ -133,7 +133,8 @@ class TranslatorAdapter_1_11_0 { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -173,17 +174,18 @@ Reference <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a75fd1d1
 
 
 
-<p>This method is used to generate a warning message to signal the user that the translation of his/her language of choice needs updating. It must be implemented by the translator adapter class (pure virtual).</p>
+
+This method is used to generate a warning message to signal the user that the translation of his/her language of choice needs updating. It must be implemented by the translator adapter class (pure virtual).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a></p>
+<a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a>
 </dd>
 </dl>
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.</p>
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -201,7 +203,7 @@ References <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/translator-adapter-h">translator_adapter.h</a></li>

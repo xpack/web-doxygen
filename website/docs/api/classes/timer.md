@@ -77,7 +77,7 @@ class Timer { ... }
 </table>
 
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ class Timer { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -122,7 +123,7 @@ class Timer { ... }
 </div>
 
 
-Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
+Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
 </div>
 </div>
 
@@ -150,7 +151,8 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -162,7 +164,7 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
 </div>
 
 
-Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
+Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
 </div>
 </div>
 
@@ -172,7 +174,7 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
 
 ## Private Member Attributes
 
-### m&#95;startTime {#a4d1bd480e339ce43c46e0ccbad7fe0b6}
+### m\_startTime {#a4d1bd480e339ce43c46e0ccbad7fe0b6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -191,7 +193,8 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m&#95;startTime</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -208,7 +211,7 @@ Referenced by <a href="#a9b89127c8224e7fb787da4f11ef8d364">elapsedTimeS</a> and 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a></li>

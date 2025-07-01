@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlAttribList` Class Reference
 
-<p>Class representing a list of HTML attributes. <a href="#details">More...</a></p>
+Class representing a list of HTML attributes. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -78,9 +78,9 @@ class HtmlAttribList { ... }
 
 ## Description {#details}
 
-<p>Class representing a list of HTML attributes.</p>
+Class representing a list of HTML attributes.
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxySectionDef">
 
@@ -110,7 +110,8 @@ class HtmlAttribList { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -161,7 +162,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -213,7 +215,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af2c6ce6322
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a></li>

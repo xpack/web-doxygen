@@ -20,36 +20,36 @@ toc_max_heading_level: 4
 
 
 
-<p>Most documentation systems have special ‘see also` sections where links to other pieces of documentation can be inserted. Although Doxygen also has a command to start such a section (See section <a href="/web-doxygen/docs/pages/commands/#cmdsa">\sa</a>), it does allow you to put these kind of links anywhere in the documentation. For <code>{\LaTeX}</code> documentation a reference to the page number is written instead of a link. Furthermore, the index at the end of the document can be used to quickly find the documentation of a member, class, namespace or file. For man pages no reference information is generated.</p>
+Most documentation systems have special ‘see also` sections where links to other pieces of documentation can be inserted. Although Doxygen also has a command to start such a section (See section <a href="/web-doxygen/docs/pages/commands/#cmdsa">\sa</a>), it does allow you to put these kind of links anywhere in the documentation. For <code>{\LaTeX}</code> documentation a reference to the page number is written instead of a link. Furthermore, the index at the end of the document can be used to quickly find the documentation of a member, class, namespace or file. For man pages no reference information is generated.
 
-<p>The next sections show how to generate links to the various documented entities in a source file.</p>
+The next sections show how to generate links to the various documented entities in a source file.
 
 ## Links to web pages and mail addresses {#linkurl}
 
 
-<p>Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<span class="doxyComputerOutput">a</span>' tag:</p>
+Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<span class="doxyComputerOutput">a</span>' tag:
 
 
 <pre><code>&lt;a href="linkURL"&gt;link text&lt;/a&gt;
 </code></pre>
 
 
-<p>which will be automatically translated to other output formats by Doxygen.</p>
+which will be automatically translated to other output formats by Doxygen.
 
 ## Links to classes {#linkclass}
 
 
-<p>All words in the documentation that correspond to a documented class and contain at least one non-lower case character will automatically be replaced by a link to the page containing the documentation of the class. If you want to prevent that a word that corresponds to a documented class is replaced by a link you should put a % in front of the word. To link to an all lower case symbol, use <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a>.</p>
+All words in the documentation that correspond to a documented class and contain at least one non-lower case character will automatically be replaced by a link to the page containing the documentation of the class. If you want to prevent that a word that corresponds to a documented class is replaced by a link you should put a % in front of the word. To link to an all lower case symbol, use <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a>.
 
 ## Links to files {#linkfile}
 
 
-<p>All words that contain a dot (<span class="doxyComputerOutput">.</span>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.</p>
+All words that contain a dot (<span class="doxyComputerOutput">.</span>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.
 
 ## Links to functions {#linkfunc}
 
 
-<p>Links to functions are created if one of the following patterns is encountered:</p>
+Links to functions are created if one of the following patterns is encountered:
 
 <ol class="doxyList" type="1">
 <li><span class="doxyComputerOutput">&lt;functionName&gt;"("&lt;argument-list&gt;")"</span></li>
@@ -61,12 +61,12 @@ toc_max_heading_level: 4
 <li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;</span></li>
 </ol>
 
-<p>where n&gt;0.</p>
+where n&gt;0.
 
 <dl class="doxySectionUser">
 <dt>Note 1: </dt>
 <dd>
-<p>Function arguments should be specified with correct types, i.e. 'fun(const std::string&amp;,bool)' or '()' to match any prototype.</p>
+Function arguments should be specified with correct types, i.e. 'fun(const std::string&amp;,bool)' or '()' to match any prototype.
 </dd>
 </dl>
 
@@ -74,7 +74,7 @@ toc_max_heading_level: 4
 <dl class="doxySectionUser">
 <dt>Note 2:</dt>
 <dd>
-<p>Member function modifiers (like 'const' and 'volatile') are required to identify the target, i.e. 'func(int) const' and 'func(int)' target different member functions.</p>
+Member function modifiers (like 'const' and 'volatile') are required to identify the target, i.e. 'func(int) const' and 'func(int)' target different member functions.
 </dd>
 </dl>
 
@@ -82,7 +82,7 @@ toc_max_heading_level: 4
 <dl class="doxySectionUser">
 <dt>Note 3: </dt>
 <dd>
-<p>For Javadoc compatibility a # may be used instead of a :: in the patterns above.</p>
+For Javadoc compatibility a # may be used instead of a :: in the patterns above.
 </dd>
 </dl>
 
@@ -90,16 +90,16 @@ toc_max_heading_level: 4
 <dl class="doxySectionUser">
 <dt>Note 4:</dt>
 <dd>
-<p>In the documentation of a class containing a member foo, a reference to a global variable is made using "::foo", whereas #foo will link to the member.</p>
+In the documentation of a class containing a member foo, a reference to a global variable is made using "::foo", whereas #foo will link to the member.
 </dd>
 </dl>
 
 
-<p>For non overloaded members the argument list may be omitted.</p>
+For non overloaded members the argument list may be omitted.
 
-<p>If a function is overloaded and no matching argument list is specified (i.e. pattern 2 or 6 is used), a link will be created to the documentation of one of the overloaded members.</p>
+If a function is overloaded and no matching argument list is specified (i.e. pattern 2 or 6 is used), a link will be created to the documentation of one of the overloaded members.
 
-<p>For member functions the class scope (as used in patterns 4 to 7) may be omitted, if:</p>
+For member functions the class scope (as used in patterns 4 to 7) may be omitted, if:
 
 <ol class="doxyList" type="1">
 <li>The pattern points to a documented member that belongs to the same class as the documentation block that contains the pattern.</li>
@@ -109,7 +109,7 @@ toc_max_heading_level: 4
 ## Links to other members {#linkother}
 
 
-<p>All of these entities can be linked to in the same way as described in the previous section. For sake of clarity it is advised to only use patterns 3 and 7 in this case.</p>
+All of these entities can be linked to in the same way as described in the previous section. For sake of clarity it is advised to only use patterns 3 and 7 in this case.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -228,14 +228,14 @@ toc_max_heading_level: 4
 ## typedefs {#resolving}
 
 
-<p>Typedefs that involve classes, structs and unions, like</p>
+Typedefs that involve classes, structs and unions, like
 
 
 <pre><code>typedef struct StructName TypeName
 </code></pre>
 
 
-<p>create an alias for StructName, so links will be generated to StructName, when either StructName itself or TypeName is encountered.</p>
+create an alias for StructName, so links will be generated to StructName, when either StructName itself or TypeName is encountered.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>

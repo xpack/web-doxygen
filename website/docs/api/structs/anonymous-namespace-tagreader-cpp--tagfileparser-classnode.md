@@ -90,7 +90,7 @@ struct anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode { ... }
 </table>
 
 
-<p>Definition at line 1005 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 1005 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -120,7 +120,8 @@ struct anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1007 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1007 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,7 +159,8 @@ Reference <a href="#a72183189bbcc12d213e16076a19ba02c">name</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -167,7 +169,7 @@ Reference <a href="#a72183189bbcc12d213e16076a19ba02c">name</a>.
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
 </div>
 </div>
 
@@ -190,7 +192,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1008 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1008 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -222,7 +225,8 @@ Referenced by <a href="#aadd9729de53674ee8515c631e5e85b64">ClassNode</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1009 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 1009 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -231,7 +235,7 @@ Referenced by <a href="#aadd9729de53674ee8515c631e5e85b64">ClassNode</a>.
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
 </div>
 </div>
 
@@ -239,7 +243,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

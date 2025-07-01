@@ -233,7 +233,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1174 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 1174 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -279,7 +280,8 @@ Referenced by <a href="#aa069e7d7edbf62f915d7635c7ab5f66e">listIsNested</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -336,7 +338,8 @@ Referenced by <a href="#ab7f123603afcea6abded6e73da61055c">visitPreStart</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1183 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 1183 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -388,7 +391,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a4bfb163f5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -434,7 +438,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -482,7 +487,8 @@ Referenced by <a href="#a809219d7701732d9db2bbfef99c3e86b">makeBaseName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -539,7 +545,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aad8000cb1
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -623,7 +630,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aad8000cb1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab17d77238a46be34e30fc71ed51db35a">insertDimension</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab17d77238a46be34e30fc71ed51db35a">insertDimension</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a28b453c4eabdf03f5d1b690a307d9c4e">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad59ea834b25f5117addb171ba0ec6259">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac9c8677143c5ae39bcfedcdac6b518a4">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a608907da6a8263ac7cff6caae01673c9">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a3a2acf19e70d566ecbaec05b214a437d">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a71b99c9086e5c3e82c7947cd9f256eb9">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ae2f1f49b8496f09377c4e7de91e2f3d6">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#afe30a1c1a560e4a85206dc7623a17dc4">LatexDocVisitor::startDiaFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa197e546b10f737e78020b97fdf23cb9">LatexDocVisitor::startDotFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aeef2a244f24ea46106204e063fae5273">LatexDocVisitor::startMscFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a168f142f518c0734df4301ca492859d1">LatexDocVisitor::writeDiaFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ada18505ac90bb92f4ce279d503dba853">LatexDocVisitor::writeMscFile</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a92275d99afc832afc51d7e0deec3afe6">LatexDocVisitor::writePlantUMLFile</a>.
 </div>
@@ -635,7 +642,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a28b453c4e
 
 ## Variables
 
-### g&#95;maxLevels {#a53a87b38bd8834f0f9cecd70b3ee0d94}
+### g\_maxLevels {#a53a87b38bd8834f0f9cecd70b3ee0d94}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -659,7 +666,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a28b453c4e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -672,7 +680,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 </div>
 </div>
 
-### g&#95;paragraphLabel {#abb6979412384989613be283a79b1ee88}
+### g\_paragraphLabel {#abb6979412384989613be283a79b1ee88}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -696,7 +704,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -709,7 +718,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 </div>
 </div>
 
-### g&#95;secLabels {#a8f1351e365ccc81f1dac1de997eef866}
+### g\_secLabels {#a8f1351e365ccc81f1dac1de997eef866}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -733,6 +742,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
@@ -749,7 +759,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 </dd>
 </dl>
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -770,7 +780,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 </div>
 </div>
 
-### g&#95;subparagraphLabel {#a530bc6aacffcda759e811ae5db0bed16}
+### g\_subparagraphLabel {#a530bc6aacffcda759e811ae5db0bed16}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -794,7 +804,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ad07ff64f8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-cpp">latexdocvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 

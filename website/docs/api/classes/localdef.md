@@ -85,9 +85,9 @@ class LocalDef { ... }
 
 
 
-<p>Class representing a local class definition found while generating syntax highlighted code.</p>
+Class representing a local class definition found while generating syntax highlighted code.
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxySectionDef">
 
@@ -117,7 +117,8 @@ class LocalDef { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -126,7 +127,7 @@ class LocalDef { ... }
 </div>
 
 
-Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m&#95;baseClasses</a>.
+Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m\_baseClasses</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#abc8184d316956569fe02279fba78ab92">generateFunctionLink</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#abc8184d316956569fe02279fba78ab92">generateFunctionLink</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a908c99ff67d83138ed1f871dab4d4c12">generateMemberLink</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a>.
 </div>
@@ -156,7 +157,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#abc8184d316956569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -165,7 +167,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#abc8184d316956569
 </div>
 
 
-Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m&#95;baseClasses</a>.
+Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m\_baseClasses</a>.
 </div>
 </div>
 
@@ -175,7 +177,7 @@ Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m&#95;baseClasses</a>.
 
 ## Private Member Attributes
 
-### m&#95;baseClasses {#ad0a3d2cea02e93b7ccce552b0cc5380f}
+### m\_baseClasses {#ad0a3d2cea02e93b7ccce552b0cc5380f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -194,7 +196,8 @@ Reference <a href="#ad0a3d2cea02e93b7ccce552b0cc5380f">m&#95;baseClasses</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -211,7 +214,7 @@ Referenced by <a href="#a4ed8113c3b0036e4cdd6f2e9b06bd03d">baseClasses</a> and <
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a></li>

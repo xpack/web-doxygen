@@ -41,7 +41,7 @@ class ClassLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -51,7 +51,7 @@ class ClassLinkedMap { ... }
 </table>
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>.</p>
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>.
 
 <hr/>
 

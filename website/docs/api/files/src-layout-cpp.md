@@ -320,7 +320,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -360,7 +361,8 @@ Referenced by <a href="#a69491156cedaf02dc6443e685d158087">compileOptions</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -400,7 +402,8 @@ References <a href="#ab0be32e17659ff359e79e3c10244b5ed">compileOptions</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -442,7 +445,8 @@ References <a href="#ab0be32e17659ff359e79e3c10244b5ed">compileOptions</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -485,7 +489,8 @@ References <a href="#ab0be32e17659ff359e79e3c10244b5ed">compileOptions</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -529,7 +534,8 @@ References <a href="#ab0be32e17659ff359e79e3c10244b5ed">compileOptions</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -574,7 +580,8 @@ References <a href="#ab0be32e17659ff359e79e3c10244b5ed">compileOptions</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -641,7 +648,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutparser/#a80ec53b42b99
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -699,7 +707,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/layoutdocentrymemberdecl/#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1540 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1540 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -750,7 +759,8 @@ Referenced by <a href="#a66c1416c41069e3b0d1952a2f05bc05d">findNavEntryRec</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1638 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1638 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -840,7 +850,7 @@ Referenced by <a href="#a66c1416c41069e3b0d1952a2f05bc05d">findNavEntryRec</a> a
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/message-h/#ae67293b4e15438bb5812e59146f0750d">warn&#95;layout</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/message-h/#ae67293b4e15438bb5812e59146f0750d">warn\_layout</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a93105c3e85cce37f624edb1bfae60a52">LayoutDocManager::mergeDocEntries</a>.
 </div>
@@ -870,7 +880,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a93105c3e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1555 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1555 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -980,7 +991,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a15e0ccdf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1820 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1820 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1061,7 +1073,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aaa876b66
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1805 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1805 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1108,7 +1121,8 @@ Referenced by <a href="#ad2711841592974bc20e2390475c4c45d">printLayout</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1732 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
+Definition at line 1732 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
 
 <div class="doxyProgramListing">
 

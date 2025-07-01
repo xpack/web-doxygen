@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlHelp` Class Reference
 
-<p>A class that generated the HTML Help specific files. <a href="#details">More...</a></p>
+A class that generated the HTML Help specific files. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class HtmlHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
+Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -315,12 +315,12 @@ class HtmlHelp { ... }
 
 ## Description {#details}
 
-<p>A class that generated the HTML Help specific files.</p>
+A class that generated the HTML Help specific files.
 
 
-<p>These files can be used with the Microsoft HTML Help workshop to generate compressed HTML files (.chm).</p>
+These files can be used with the Microsoft HTML Help workshop to generate compressed HTML files (.chm).
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxySectionDef">
 
@@ -344,6 +344,7 @@ class HtmlHelp { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -351,212 +352,212 @@ class HtmlHelp { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOK_CLOSED<a id="a7fa2b031d786cb7a678e88809c2566caaec1852e9e27b296742d6c36b9c416920"></a></td>
-<td class="doxyEnumItemDescription"><p> (=1)</p></td>
+<td class="doxyEnumItemDescription"> (=1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOK_OPEN<a id="a7fa2b031d786cb7a678e88809c2566caa7e86e3494127343bd99ad946cfa13d21"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOK_CLOSED_NEW<a id="a7fa2b031d786cb7a678e88809c2566caacd0e3ae0fbebc09bd3bbebbd4815472a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOK_OPEN_NEW<a id="a7fa2b031d786cb7a678e88809c2566caac6c5ce4a499ef91164b43958c919123f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">FOLDER_CLOSED<a id="a7fa2b031d786cb7a678e88809c2566caa08208a8aca7a51f8f5b9dc1b695619c1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">FOLDER_OPEN<a id="a7fa2b031d786cb7a678e88809c2566caa3aea4a6d39d36dd2447e2da611623730"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">FOLDER_CLOSED_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa6a05e4f90f1ce01c7f60264faab7796f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">FOLDER_OPEN_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa613f98c3ad2d1f8af8acd1fd544102b4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">QUERY<a id="a7fa2b031d786cb7a678e88809c2566caa825238cc73c9011836072b7159cd063c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">QUERY_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa576707aa2b0d1f23020bf3556240b5ae"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TEXT<a id="a7fa2b031d786cb7a678e88809c2566caa3e9b105181d342b365fe4bdee8acf84b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TEXT_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa5bd4c350ef03738d931784b2e06f7747"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">WEB_DOC<a id="a7fa2b031d786cb7a678e88809c2566caaf3542090c73d8ec35a6ac8331fa77e01"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">WEB_DOC_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa01dc344f0d03316ac6123da212b00acd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">WEB_LINK<a id="a7fa2b031d786cb7a678e88809c2566caa5013131ed24fc1a223d1721782c9ef65"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">WEB_LINK_NEW<a id="a7fa2b031d786cb7a678e88809c2566caacbd5cd83209e54f39785b855faad6c6b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INFO<a id="a7fa2b031d786cb7a678e88809c2566caae6f2e13e6d941648dcb8fa0b33de494b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INFO_NEW<a id="a7fa2b031d786cb7a678e88809c2566caafecd3e50bd62c15ab1d4d048b5e280c9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">LINK<a id="a7fa2b031d786cb7a678e88809c2566caa81f15f9b760ab6bb2a67c759a072be14"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">LINK_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa5b3c47ac921af0a746c3f24b04956abf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOKLET<a id="a7fa2b031d786cb7a678e88809c2566caac317b4d5947561ac628f05ae7cbf692c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">BOOKLET_NEW<a id="a7fa2b031d786cb7a678e88809c2566caab73467539bbfd3401ac0f0a4cc852972"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EMAIL<a id="a7fa2b031d786cb7a678e88809c2566caa62ff82964869830f742e4d55dcc5874d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EMAIL_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa0c5093469414d14509f38856230a6dfa"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EMAIL2<a id="a7fa2b031d786cb7a678e88809c2566caaf1c0f7d8a8932af2157386c8de57f1c6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EMAIL2_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa9a29099af4c48e62e289c348e2344483"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IMAGE<a id="a7fa2b031d786cb7a678e88809c2566caa650460790b63d21545a3a650e198127d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IMAGE_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa3b39f2db693a2ea1bead2fd1db0876d8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">AUDIO<a id="a7fa2b031d786cb7a678e88809c2566caa45377d49ec2e3fba7e6f51077620d737"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">AUDIO_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa4bf7a99aee350a08999b1ff157e4cc38"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">MUSIC<a id="a7fa2b031d786cb7a678e88809c2566caa761720c8f58915a5614f8ee8e87fd73b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">MUSIC_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa33344e49811ddf6461d0d002de73d1fe"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">VIDEO<a id="a7fa2b031d786cb7a678e88809c2566caa19ce2f379767fa5636d99b1624424e27"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">VIDEO_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa6ae16142e9a1bbfb6cf4e0057f88cb84"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INDEX<a id="a7fa2b031d786cb7a678e88809c2566caa7c362e1795a9644efa179ceab270fe61"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">INDEX_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa5ba12150f715f11b11ba5c0c01afc292"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IDEA<a id="a7fa2b031d786cb7a678e88809c2566caacd187fb03abe97b1f1c79c32cfbb9db6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">IDEA_NEW<a id="a7fa2b031d786cb7a678e88809c2566caadc361e2afcf234f19692cdd976b35614"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOTE<a id="a7fa2b031d786cb7a678e88809c2566caa8b971585ba93d8009a46a7e0303fefab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOTE_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa36c71b6fceea68ae4d0508af9c5b8fa9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TOOL<a id="a7fa2b031d786cb7a678e88809c2566caaa549ff1567ca21b11ff5a098b4c2aecc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">TOOL_NEW<a id="a7fa2b031d786cb7a678e88809c2566caa2a48c9704da887c47191bd7ea2d195b4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
@@ -564,9 +565,9 @@ class HtmlHelp { ... }
 </dl>
 
 
-<p>used in imageNumber param of HTMLHelp::addContentsItem() function to specify document icon in tree view. Writes &lt;param name="ImageNumber" value="xx"&gt; in .HHC file.</p>
+used in imageNumber param of HTMLHelp::addContentsItem() function to specify document icon in tree view. Writes &lt;param name="ImageNumber" value="xx"&gt; in .HHC file.
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -625,9 +626,10 @@ class HtmlHelp { ... }
 
 
 
-<p>Constructs an html object. The object has to be <a href="#acf6cb7c477c71f2031b5831f979991d5">initialized</a> before it can be used.</p>
 
-<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Constructs an html object. The object has to be <a href="#acf6cb7c477c71f2031b5831f979991d5">initialized</a> before it can be used.
+
+Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -638,7 +640,7 @@ class HtmlHelp { ... }
 
 Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
-Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">~HtmlHelp</a>.
+Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">\~HtmlHelp</a>.
 </div>
 </div>
 
@@ -648,7 +650,7 @@ Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">~HtmlHelp</a>.
 
 ## Public Destructor
 
-### ~HtmlHelp() {#a53ff23898ba7e49de5ce6dba03675f82}
+### \~HtmlHelp() {#a53ff23898ba7e49de5ce6dba03675f82}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -667,7 +669,8 @@ Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">~HtmlHelp</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 </div>
@@ -704,7 +707,8 @@ Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 
 
 
-<p>Add an list item to the contents file.</p>
+
+Add an list item to the contents file.
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -712,45 +716,45 @@ Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isDir</td>
-<td class="doxyParamItemDescription"><p>boolean indicating if this is a dir or file entry</p></td>
+<td class="doxyParamItemDescription">boolean indicating if this is a dir or file entry</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription"><p>the name of the item.</p></td>
+<td class="doxyParamItemDescription">the name of the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">ref</td>
-<td class="doxyParamItemDescription"><p>the URL of to the item.</p></td>
+<td class="doxyParamItemDescription">the URL of to the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">file</td>
-<td class="doxyParamItemDescription"><p>the file in which the item is defined.</p></td>
+<td class="doxyParamItemDescription">the file in which the item is defined.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">anchor</td>
-<td class="doxyParamItemDescription"><p>the anchor of the item.</p></td>
+<td class="doxyParamItemDescription">the anchor of the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">separateIndex</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">addToNavIndex</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">def</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">nameAsHtml</td>
-<td class="doxyParamItemDescription"><p>name parameter in HTML format</p></td>
+<td class="doxyParamItemDescription">name parameter in HTML format</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -812,7 +816,7 @@ Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caaec1852e9e27b296742d6c36b9c416920">BOOK&#95;CLOSED</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caa3e9b105181d342b365fe4bdee8acf84b">TEXT</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caaec1852e9e27b296742d6c36b9c416920">BOOK\_CLOSED</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caa3e9b105181d342b365fe4bdee8acf84b">TEXT</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -840,7 +844,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -880,7 +885,8 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -920,7 +926,8 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -975,7 +982,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1016,17 +1024,18 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 
 
 
-<p>Decrease the level of the contents hierarchy. This will end the unnumber HTML list.</p>
+
+Decrease the level of the contents hierarchy. This will end the unnumber HTML list.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a></p>
+<a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1069,17 +1078,18 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-<p>Finalizes the HTML help. This will finish and close the htmlhelp contents file and the htmlhelp index file.</p>
+
+Finalizes the HTML help. This will finish and close the htmlhelp contents file and the htmlhelp index file.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a></p>
+<a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1136,17 +1146,18 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-<p>Increase the level of the contents hierarchy. This will start a new unnumbered HTML list in contents file.</p>
+
+Increase the level of the contents hierarchy. This will start a new unnumbered HTML list in contents file.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a></p>
+<a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1189,17 +1200,18 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-<p>This will create a contents file (index.hhc) and a index file (index.hhk) and write the header of those files. It also creates a project file (index.hhp)</p>
+
+This will create a contents file (index.hhc) and a index file (index.hhk) and write the header of those files. It also creates a project file (index.hhp)
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a></p>
+<a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1242,7 +1254,7 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="#af2b3923cd07004204fb0c542100b28e8">hhcFileName</a>, <a href="#a110521fd634c3c63e47cfe47e210a848">hhkFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#af2b3923cd07004204fb0c542100b28e8">hhcFileName</a>, <a href="#a110521fd634c3c63e47cfe47e210a848">hhkFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 </div>
 </div>
 
@@ -1271,7 +1283,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 </div>
 </div>
 
@@ -1300,7 +1313,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1343,7 +1357,8 @@ Referenced by <a href="#a1503b3b4d76049d44a45452d44722d86">addContentsItem</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1380,7 +1395,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1417,7 +1433,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1434,7 +1451,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a></li>

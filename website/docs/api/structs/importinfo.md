@@ -140,7 +140,7 @@ struct ImportInfo { ... }
 </table>
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -170,7 +170,8 @@ struct ImportInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -214,7 +215,8 @@ References <a href="#a03b1652e254f536111cc35d6c2f10db7">exported</a>, <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -260,7 +262,8 @@ References <a href="#af9da15e4f30bc8a5239d6a3eb459cc21">importName</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -292,7 +295,8 @@ Referenced by <a href="#a8c3fa2e4c44c24ee1343373876f28cd2">ImportInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -324,7 +328,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a8399ce3a312
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -356,7 +361,8 @@ Referenced by <a href="#a8c3fa2e4c44c24ee1343373876f28cd2">ImportInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -388,7 +394,8 @@ Referenced by <a href="#a8c3fa2e4c44c24ee1343373876f28cd2">ImportInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -405,7 +412,7 @@ Referenced by <a href="#a8c3fa2e4c44c24ee1343373876f28cd2">ImportInfo</a> and <a
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a></li>

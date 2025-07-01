@@ -58,7 +58,7 @@ struct Preprocessor::Private { ... }
 </table>
 
 
-<p>Definition at line 3987 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+Definition at line 3987 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct Preprocessor::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 3990 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 3990 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct Preprocessor::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 3989 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
+Definition at line 3989 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct Preprocessor::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a></li>

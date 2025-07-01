@@ -154,7 +154,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(buf,max&#95;size,yyscanner);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(buf,max\_size,yyscanner);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -204,7 +204,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -240,7 +241,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -275,7 +277,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 </div>
 </div>
 
@@ -298,7 +301,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -384,7 +388,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -411,7 +416,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### LEX&#95;NO&#95;INPUT&#95;FILENAME {#adbe0797eba7c28545d6937f8f6bf1cf8}
+### LEX\_NO\_INPUT\_FILENAME {#adbe0797eba7c28545d6937f8f6bf1cf8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -430,7 +435,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -441,7 +447,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -450,7 +456,7 @@ toc_max_heading_level: 4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(buf,max&#95;size,yyscanner);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(buf,max\_size,yyscanner);</td>
 </tr>
 </table>
 </td>
@@ -460,7 +466,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -471,7 +478,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -490,7 +497,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -501,7 +509,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -520,7 +528,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
 
 <div class="doxyProgramListing">
 

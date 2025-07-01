@@ -41,7 +41,7 @@ class RefListManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
+Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -108,7 +108,7 @@ class RefListManager { ... }
 </table>
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxySectionDef">
 
@@ -138,9 +138,10 @@ class RefListManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
 
-Referenced by <a href="#af5e22af9b85b97f2d5f53770bc44bc70">instance</a> and <a href="#a0bee9003aa411ecd922787d88b94ffae">~RefListManager</a>.
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
+
+Referenced by <a href="#af5e22af9b85b97f2d5f53770bc44bc70">instance</a> and <a href="#a0bee9003aa411ecd922787d88b94ffae">\~RefListManager</a>.
 </div>
 </div>
 
@@ -150,7 +151,7 @@ Referenced by <a href="#af5e22af9b85b97f2d5f53770bc44bc70">instance</a> and <a h
 
 ## Private Destructor
 
-### ~RefListManager() {#a0bee9003aa411ecd922787d88b94ffae}
+### \~RefListManager() {#a0bee9003aa411ecd922787d88b94ffae}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -174,7 +175,8 @@ Referenced by <a href="#af5e22af9b85b97f2d5f53770bc44bc70">instance</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 Reference <a href="#ad92e3f3eada0374ccfe5687397babcec">RefListManager</a>.
 </div>
@@ -211,7 +213,8 @@ Reference <a href="#ad92e3f3eada0374ccfe5687397babcec">RefListManager</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -234,7 +237,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a></li>

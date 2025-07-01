@@ -67,6 +67,7 @@ namespace ModuleMemberHighlight { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -74,44 +75,44 @@ namespace ModuleMemberHighlight { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">All<a id="ad9dbe63064ec2d350612e68216a18d12ac42c0d575d3dc42c53935916d9a23866"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Functions<a id="ad9dbe63064ec2d350612e68216a18d12a8b515055e6091c5954d67e42309c33d2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Variables<a id="ad9dbe63064ec2d350612e68216a18d12a41bc55ae426fc418c6fb7189d7b2f67e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Typedefs<a id="ad9dbe63064ec2d350612e68216a18d12afdaf0271b54849b06fb42792c1d8660c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Enums<a id="ad9dbe63064ec2d350612e68216a18d12af7d95aa83835ec0e82a51ba997dde106"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">EnumValues<a id="ad9dbe63064ec2d350612e68216a18d12a9af17a0ccbd1454a93a60c25fe6004a1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Total<a id="ad9dbe63064ec2d350612e68216a18d12afec38abf1984915daae20127a4169b3c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.</p>
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -134,7 +135,7 @@ namespace ModuleMemberHighlight { ... }
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/index-h">index.h</a></li>

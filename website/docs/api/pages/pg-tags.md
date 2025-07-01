@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-<p>The following table gives an overview of the doxygen configuration settings and the version in which they were introduced or became obsolete.</p>
+The following table gives an overview of the doxygen configuration settings and the version in which they were introduced or became obsolete.
 
 <dl class="doxyVariableList">
 <dt>New in 1.0.0</dt>

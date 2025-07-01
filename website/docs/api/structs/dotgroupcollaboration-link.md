@@ -77,7 +77,7 @@ struct DotGroupCollaboration::Link { ... }
 </table>
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ struct DotGroupCollaboration::Link { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +146,8 @@ References <a href="#aaea36ab56bf3845f2f60805a434b3262">label</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +179,8 @@ Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +197,7 @@ Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a></li>

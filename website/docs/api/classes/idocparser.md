@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IDocParser` Class Reference
 
-<p>opaque parser interface <a href="#details">More...</a></p>
+opaque parser interface <a href="#details">More...</a>
 
 ## Declaration
 
@@ -51,9 +51,9 @@ class IDocParser { ... }
 
 ## Description {#details}
 
-<p>opaque parser interface</p>
+opaque parser interface
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.</p>
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/docparser-h">docparser.h</a>.
 
 <hr/>
 

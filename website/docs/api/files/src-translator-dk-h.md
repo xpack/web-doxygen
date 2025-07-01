@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `translator_dk.h` File Reference
 
-<p>Danish translation. <a href="#details">More...</a></p>
+Danish translation. <a href="#details">More...</a>
 
 ## Classes Index
 
@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 
 ## Description {#details}
 
-<p>Danish translation.</p>
+Danish translation.
 
 <hr/>
 

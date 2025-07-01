@@ -127,7 +127,7 @@ struct vhdl::parser::JJCalls { ... }
 </table>
 
 
-<p>Definition at line 12 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+Definition at line 12 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxySectionDef">
 
@@ -157,7 +157,8 @@ struct vhdl::parser::JJCalls { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 18 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 18 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -176,7 +177,7 @@ References <a href="#a952889761822083d0eb8175cc62e6b7f">arg</a>, <a href="#a0994
 
 ## Public Destructor
 
-### ~JJCalls() {#a953e9b05e336c11f8e2435b3ea506bc1}
+### \~JJCalls() {#a953e9b05e336c11f8e2435b3ea506bc1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -200,7 +201,8 @@ References <a href="#a952889761822083d0eb8175cc62e6b7f">arg</a>, <a href="#a0994
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -238,7 +240,8 @@ Reference <a href="#a6b6a95b77fab1e71ce05bd43da1b8f67">next</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 14 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 14 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -270,7 +273,8 @@ Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -302,7 +306,8 @@ Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 13 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 13 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -334,7 +339,8 @@ Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 15 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 15 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,7 +349,7 @@ Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a>.
 </div>
 
 
-Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a> and <a href="#a953e9b05e336c11f8e2435b3ea506bc1">~JJCalls</a>.
+Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a> and <a href="#a953e9b05e336c11f8e2435b3ea506bc1">\~JJCalls</a>.
 </div>
 </div>
 
@@ -351,7 +357,7 @@ Referenced by <a href="#aaaa2b2b81198a1e2a706a91baa09712c">JJCalls</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a></li>

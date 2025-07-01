@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Mappers` Namespace Reference
 
-<p>Namespace for the doxygen and HTML command mappers. <a href="#details">More...</a></p>
+Namespace for the doxygen and HTML command mappers. <a href="#details">More...</a>
 
 ## Definition
 
@@ -31,7 +31,7 @@ namespace Mappers { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const <a href="/web-doxygen/docs/api/classes/mapper">Mapper</a>&lt; <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a21e038f5b8958e203d28bc4f18472352">CommandType</a> &gt; *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aca1c1147352a87e1d896e0c4cf70b8c9">cmdMapper</a> = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#aa088b30c3ac7640e4c8cfb125e4bd6e6">g&#95;cmdMapper</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aca1c1147352a87e1d896e0c4cf70b8c9">cmdMapper</a> = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#aa088b30c3ac7640e4c8cfb125e4bd6e6">g\_cmdMapper</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -44,7 +44,7 @@ namespace Mappers { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const <a href="/web-doxygen/docs/api/classes/mapper">Mapper</a>&lt; <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273">HtmlTagType</a> &gt; *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8390ce8e78c02d974d515d560a551958">htmlTagMapper</a> = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#ad0bcba33ac06a2623c8bdaca5b36a7b2">g&#95;htmlTagMapper</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8390ce8e78c02d974d515d560a551958">htmlTagMapper</a> = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#ad0bcba33ac06a2623c8bdaca5b36a7b2">g\_htmlTagMapper</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -59,7 +59,7 @@ namespace Mappers { ... }
 
 ## Description {#details}
 
-<p>Namespace for the doxygen and HTML command mappers.</p>
+Namespace for the doxygen and HTML command mappers.
 
 <div class="doxySectionDef">
 
@@ -74,7 +74,7 @@ namespace Mappers { ... }
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const Mapper&lt; CommandType &gt; * Mappers::cmdMapper = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#aa088b30c3ac7640e4c8cfb125e4bd6e6">g&#95;cmdMapper</a></td>
+<td class="doxyMemberName">const Mapper&lt; CommandType &gt; * Mappers::cmdMapper = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#aa088b30c3ac7640e4c8cfb125e4bd6e6">g\_cmdMapper</a></td>
 </tr>
 </table>
 </td>
@@ -84,7 +84,8 @@ namespace Mappers { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -106,7 +107,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const Mapper&lt; HtmlTagType &gt; * Mappers::htmlTagMapper = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#ad0bcba33ac06a2623c8bdaca5b36a7b2">g&#95;htmlTagMapper</a></td>
+<td class="doxyMemberName">const Mapper&lt; HtmlTagType &gt; * Mappers::htmlTagMapper = &amp;<a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp/#ad0bcba33ac06a2623c8bdaca5b36a7b2">g\_htmlTagMapper</a></td>
 </tr>
 </table>
 </td>
@@ -116,7 +117,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
+Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -133,7 +135,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1da
 
 <hr/>
 
-<p>The documentation for this namespace was generated from the following file:</p>
+The documentation for this namespace was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a></li>

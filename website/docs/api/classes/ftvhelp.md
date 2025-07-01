@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FTVHelp` Class Reference
 
-<p>A class that generates a dynamic tree view side panel. <a href="#details">More...</a></p>
+A class that generates a dynamic tree view side panel. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class FTVHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
+Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -271,9 +271,9 @@ class FTVHelp { ... }
 
 ## Description {#details}
 
-<p>A class that generates a dynamic tree view side panel.</p>
+A class that generates a dynamic tree view side panel.
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxySectionDef">
 
@@ -299,9 +299,10 @@ class FTVHelp { ... }
 
 
 
-<p>Constructs an ftv help object. The object has to be <a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialized</a> before it can be used.</p>
 
-<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Constructs an ftv help object. The object has to be <a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialized</a> before it can be used.
+
+Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -312,7 +313,7 @@ class FTVHelp { ... }
 
 Reference <a href="#a0f7e9c1135f7c3aaceef6f3371aaecbb">p</a>.
 
-Referenced by <a href="#aacb475096471a3b51feb4b247a41e27c">~FTVHelp</a>.
+Referenced by <a href="#aacb475096471a3b51feb4b247a41e27c">\~FTVHelp</a>.
 </div>
 </div>
 
@@ -322,7 +323,7 @@ Referenced by <a href="#aacb475096471a3b51feb4b247a41e27c">~FTVHelp</a>.
 
 ## Public Destructor
 
-### ~FTVHelp() {#aacb475096471a3b51feb4b247a41e27c}
+### \~FTVHelp() {#aacb475096471a3b51feb4b247a41e27c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -341,7 +342,8 @@ Referenced by <a href="#aacb475096471a3b51feb4b247a41e27c">~FTVHelp</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 Reference <a href="#a7e7d72cccba33233dd89c6280b9ca101">FTVHelp</a>.
 </div>
@@ -378,7 +380,8 @@ Reference <a href="#a7e7d72cccba33233dd89c6280b9ca101">FTVHelp</a>.
 
 
 
-<p>Add a list item to the contents file.</p>
+
+Add a list item to the contents file.
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -386,45 +389,45 @@ Reference <a href="#a7e7d72cccba33233dd89c6280b9ca101">FTVHelp</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isDir</td>
-<td class="doxyParamItemDescription"><p>TRUE if the item is a directory, FALSE if it is a text</p></td>
+<td class="doxyParamItemDescription">TRUE if the item is a directory, FALSE if it is a text</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription"><p>the name of the item.</p></td>
+<td class="doxyParamItemDescription">the name of the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">nameAsHtml</td>
-<td class="doxyParamItemDescription"><p>the name of the item in HTML format.</p></td>
+<td class="doxyParamItemDescription">the name of the item in HTML format.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">ref</td>
-<td class="doxyParamItemDescription"><p>the URL of to the item.</p></td>
+<td class="doxyParamItemDescription">the URL of to the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">file</td>
-<td class="doxyParamItemDescription"><p>the file containing the definition of the item</p></td>
+<td class="doxyParamItemDescription">the file containing the definition of the item</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">anchor</td>
-<td class="doxyParamItemDescription"><p>the anchor within the file.</p></td>
+<td class="doxyParamItemDescription">the anchor within the file.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">separateIndex</td>
-<td class="doxyParamItemDescription"><p>put the entries in a separate index file</p></td>
+<td class="doxyParamItemDescription">put the entries in a separate index file</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">addToNavIndex</td>
-<td class="doxyParamItemDescription"><p>add this entry to the quick navigation index</p></td>
+<td class="doxyParamItemDescription">add this entry to the quick navigation index</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">def</td>
-<td class="doxyParamItemDescription"><p><a href="/web-doxygen/docs/api/classes/definition">Definition</a> corresponding to this entry</p></td>
+<td class="doxyParamItemDescription"><a href="/web-doxygen/docs/api/classes/definition">Definition</a> corresponding to this entry</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -492,7 +495,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -528,7 +532,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -564,7 +569,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -600,7 +606,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -636,17 +643,18 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 
 
 
-<p>Decrease the level of the contents hierarchy. This will end the current sublist.</p>
+
+Decrease the level of the contents hierarchy. This will end the current sublist.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a86381415dd788cb4a1a0feac8d5316d8">incContentsDepth()</a></p>
+<a href="#a86381415dd788cb4a1a0feac8d5316d8">incContentsDepth()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -705,17 +713,18 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 
 
 
-<p>Finalizes the FTV help. This will finish and close the contents file (index.js).</p>
+
+Finalizes the FTV help. This will finish and close the contents file (index.js).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialize()</a></p>
+<a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -750,7 +759,8 @@ Reference <a href="#a0fe4b6eab80d4602256ee5edd59b78df">generateTreeView</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 934 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 934 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -787,7 +797,8 @@ Referenced by <a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 873 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 873 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -854,7 +865,7 @@ Referenced by <a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config&#95;getInt</a>, <a href="#a0f7e9c1135f7c3aaceef6f3371aaecbb">p</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="#a0f7e9c1135f7c3aaceef6f3371aaecbb">p</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a84317d2528b42fa86569b03c749c4d67">writeAnnotatedIndexGeneric</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac39a58bd916b4935b01c455139e5b7ad">writeConceptIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad5e4237f97bd24dd695fe17757fd4894">writeHierarchicalExceptionIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad9ecde0657aa507c6867661b32867227">writeHierarchicalIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a54644bd1b33abadc0dde902ffb1a3823">writeHierarchicalInterfaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac799d77dfd71217b69bd642a39f5b0bb">writeModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4dc24ace0cd7831ca5accf9c98fb8812">writeNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4358eda73696cdd5f09ea53b317f4eee">writePageIndex</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a63db498aa23f4f344c482162bf88a93b">writeTopicIndex</a>.
 </div>
@@ -879,7 +890,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a84317d2528b42
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
+Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -894,7 +906,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a84317d2528b42
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a0f7e9c1135f7c3aaceef6f3371aaecbb">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a0f7e9c1135f7c3aaceef6f3371aaecbb">p</a>.
 
 Referenced by <a href="#a0fe4b6eab80d4602256ee5edd59b78df">generateTreeView</a>.
 </div>
@@ -925,17 +937,18 @@ Referenced by <a href="#a0fe4b6eab80d4602256ee5edd59b78df">generateTreeView</a>.
 
 
 
-<p>Increase the level of the contents hierarchy. This will start a new sublist in contents file.</p>
+
+Increase the level of the contents hierarchy. This will start a new sublist in contents file.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a5949816300bc9d6a104dfd8305aa4e6f">decContentsDepth()</a></p>
+<a href="#a5949816300bc9d6a104dfd8305aa4e6f">decContentsDepth()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -980,17 +993,18 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 
 
 
-<p>This will create a folder tree view table of contents file (tree.js).</p>
+
+This will create a folder tree view table of contents file (tree.js).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize()</a></p>
+<a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>, definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1028,7 +1042,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a648559aac6805
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1045,7 +1060,7 @@ Referenced by <a href="#a8840ba8f98a6049dbe14bf1c9a236b54">addContentsItem</a>, 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a></li>

@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>constant expression parser used for the C preprocessor <a href="/web-doxygen/docs/api/classes/constexpressionparser/#details">More...</a></p>
+constant expression parser used for the C preprocessor <a href="/web-doxygen/docs/api/classes/constexpressionparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

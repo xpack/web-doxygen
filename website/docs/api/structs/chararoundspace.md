@@ -64,7 +64,7 @@ struct CharAroundSpace { ... }
 </table>
 
 
-<p>Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ struct CharAroundSpace { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
+Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,7 +159,8 @@ References <a href="#a9f874e448a5fc7480da8958bc6b90c20">charMap</a> and <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
+Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -175,7 +177,7 @@ Referenced by <a href="#a87993e7a5f9850b46ea77092fe036468">CharAroundSpace</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a></li>

@@ -15,7 +15,7 @@ keywords:
 
 <div class="doxyPage">
 
-<p>The classes, structs, union interfaces and their members, variables, types used by this project are:</p>
+The classes, structs, union interfaces and their members, variables, types used by this project are:
 
 ## -  -
 

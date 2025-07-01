@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TooltipManager` Class Reference
 
-<p>Class that manages the tooltips for a source file. <a href="#details">More...</a></p>
+Class that manages the tooltips for a source file. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ class TooltipManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>add a tooltip for a given symbol definition <a href="#a83c5141d20cfce3f391f36e0d9ace3d6">More...</a></p>
+add a tooltip for a given symbol definition <a href="#a83c5141d20cfce3f391f36e0d9ace3d6">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ class TooltipManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>write the list of all collected tooltip to the given outputs <a href="#a9fabdb64f4fd1b5a5fded9d7dac90c3b">More...</a></p>
+write the list of all collected tooltip to the given outputs <a href="#a9fabdb64f4fd1b5a5fded9d7dac90c3b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -123,9 +123,9 @@ class TooltipManager { ... }
 
 ## Description {#details}
 
-<p>Class that manages the tooltips for a source file.</p>
+Class that manages the tooltips for a source file.
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>.
 
 <div class="doxySectionDef">
 
@@ -150,7 +150,8 @@ class TooltipManager { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -171,7 +172,7 @@ Reference <a href="#aa404b10145666b6973b91a7731e67217">p</a>.
 
 ## Public Destructor
 
-### ~TooltipManager() {#a25e5789b8fb515cb4a295f2645061509}
+### \~TooltipManager() {#a25e5789b8fb515cb4a295f2645061509}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -190,7 +191,8 @@ Reference <a href="#aa404b10145666b6973b91a7731e67217">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
+Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -226,9 +228,10 @@ Reference <a href="#aa404b10145666b6973b91a7731e67217">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>add a tooltip for a given symbol definition</p>
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+add a tooltip for a given symbol definition
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -268,7 +271,7 @@ Reference <a href="#aa404b10145666b6973b91a7731e67217">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a618f6f860ec6268437b3e44d313d1f87">escapeId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aa404b10145666b6973b91a7731e67217">p</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>.
+References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a618f6f860ec6268437b3e44d313d1f87">escapeId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aa404b10145666b6973b91a7731e67217">p</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>.
 </div>
 </div>
 
@@ -289,9 +292,10 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>write the list of all collected tooltip to the given outputs</p>
 
-<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+write the list of all collected tooltip to the given outputs
+
+Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>, definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -364,7 +368,7 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a2827af934ddee422d0f8711c9889f5e8">DocLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a3a271e40098bce60ea2d71f452be7fa6">SourceLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1003f3dd9b61ac1d8e115600f8ffaa06">MemberDef::declaration</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a17c887dc311b8da42681dc4e9803692d">SourceLinkInfo::file</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a2ad76ff3dd21154ebd52f74298f7c4fe">g&#95;tooltipsFileMutex</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a8a3ee38616df2e8b83a710e63f559f75">g&#95;tooltipsTipMutex</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a9b6cb3bf98d1845d47e6adb5872161af">g&#95;tooltipsWrittenPerFile</a>, <a href="/web-doxygen/docs/api/classes/outputcodelist/#a6fdb262f6dcf3dc188a8c91814e9cba4">OutputCodeList::id</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#abff71a239d4a657ea1543c0426b5726c">SourceLinkInfo::line</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a92c73ddcfa2201e6b0029f4b4e64458b">DocLinkInfo::name</a>, <a href="#aa404b10145666b6973b91a7731e67217">p</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#abe4bbcd9b1709f58b0b29a9020c42e42">DocLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a7607f6298e3e16dd3ef26d2f823bbb9c">DocLinkInfo::url</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#af1fd0f6d7c9418bf922d33d591d7f196">SourceLinkInfo::url</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a81f3db752795807f3c67e25f6fdcb081">OutputCodeList::writeTooltip</a>.
+References <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a2827af934ddee422d0f8711c9889f5e8">DocLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a3a271e40098bce60ea2d71f452be7fa6">SourceLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1003f3dd9b61ac1d8e115600f8ffaa06">MemberDef::declaration</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a17c887dc311b8da42681dc4e9803692d">SourceLinkInfo::file</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a2ad76ff3dd21154ebd52f74298f7c4fe">g\_tooltipsFileMutex</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a8a3ee38616df2e8b83a710e63f559f75">g\_tooltipsTipMutex</a>, <a href="/web-doxygen/docs/api/files/src/tooltip-cpp/#a9b6cb3bf98d1845d47e6adb5872161af">g\_tooltipsWrittenPerFile</a>, <a href="/web-doxygen/docs/api/classes/outputcodelist/#a6fdb262f6dcf3dc188a8c91814e9cba4">OutputCodeList::id</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#abff71a239d4a657ea1543c0426b5726c">SourceLinkInfo::line</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a92c73ddcfa2201e6b0029f4b4e64458b">DocLinkInfo::name</a>, <a href="#aa404b10145666b6973b91a7731e67217">p</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#abe4bbcd9b1709f58b0b29a9020c42e42">DocLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a7607f6298e3e16dd3ef26d2f823bbb9c">DocLinkInfo::url</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#af1fd0f6d7c9418bf922d33d591d7f196">SourceLinkInfo::url</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a81f3db752795807f3c67e25f6fdcb081">OutputCodeList::writeTooltip</a>.
 </div>
 </div>
 
@@ -393,7 +397,8 @@ References <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a2827af934ddee422
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/tooltip-h">tooltip.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -410,7 +415,7 @@ Referenced by <a href="#a83c5141d20cfce3f391f36e0d9ace3d6">addTooltip</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CondParser` Class Reference
 
-<p>Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="#details">More...</a></p>
+Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -92,7 +92,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="#af254c02cc742b034cf62a9846b7b9749">More...</a></p>
+Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="#af254c02cc742b034cf62a9846b7b9749">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -112,7 +112,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Get next token in the current string expr. <a href="#a767f34907250fdaaeaae44c37d82c3de">More...</a></p>
+Get next token in the current string expr. <a href="#a767f34907250fdaaeaae44c37d82c3de">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -126,7 +126,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>conditional operators AND and OR <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">More...</a></p>
+conditional operators AND and OR <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -140,7 +140,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>NOT. <a href="#a42e0e9ce1665b6be5de97c16c26d353c">More...</a></p>
+NOT. <a href="#a42e0e9ce1665b6be5de97c16c26d353c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -154,7 +154,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>parenthesized expression or variable <a href="#af63a661f43a32b9343e6b222661bf206">More...</a></p>
+parenthesized expression or variable <a href="#af63a661f43a32b9343e6b222661bf206">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -181,7 +181,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>evaluate an operator for given values <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">More...</a></p>
+evaluate an operator for given values <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -195,7 +195,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>evaluate a variable <a href="#a6eacc43d99d9d65ba89361b9846b0c6f">More...</a></p>
+evaluate a variable <a href="#a6eacc43d99d9d65ba89361b9846b0c6f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -209,7 +209,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the id of the given operator returns -1 if the operator is not recognized <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">More...</a></p>
+returns the id of the given operator returns -1 if the operator is not recognized <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -229,7 +229,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>error state <a href="#a448f211b15963afd7fc97413c135d021">More...</a></p>
+error state <a href="#a448f211b15963afd7fc97413c135d021">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -243,7 +243,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>holds the expression <a href="#ab5f8516736be27414bab7ff62030c4b2">More...</a></p>
+holds the expression <a href="#ab5f8516736be27414bab7ff62030c4b2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -257,7 +257,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>points to a character in expr <a href="#ad6be9806676e4c982291efc8a43e3c50">More...</a></p>
+points to a character in expr <a href="#ad6be9806676e4c982291efc8a43e3c50">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -271,7 +271,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>holds the token <a href="#a34b7c2efbc206f720c384413f2630790">More...</a></p>
+holds the token <a href="#a34b7c2efbc206f720c384413f2630790">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -285,7 +285,7 @@ class CondParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>type of the token <a href="#a5bcf72a37dcd8bff1730267da0587697">More...</a></p>
+type of the token <a href="#a5bcf72a37dcd8bff1730267da0587697">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -296,24 +296,24 @@ class CondParser { ... }
 
 ## Description {#details}
 
-<p>Copyright (C) 1997-2015 by Dimitri van Heesch.</p>
+Copyright (C) 1997-2015 by Dimitri van Heesch.
 
 
-<p>Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty. See the GNU General Public License for more details.</p>
+Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty. See the GNU General Public License for more details.
 
-<p>Documents produced by <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a> are derivative works derived from the input used in their production; they are not affected by this license.</p>
+Documents produced by <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a> are derivative works derived from the input used in their production; they are not affected by this license.
 
-<p>C++ Expression parser for ENABLED_SECTIONS in <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a></p>
+C++ Expression parser for ENABLED\_SECTIONS in <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a>
 
-<p>Features used: Operators: &amp;&amp; AND operator || OR operator ! NOT operator</p>
+Features used: Operators: &amp;&amp; AND operator || OR operator ! NOT operator
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxySectionDef">
 
 ## Enumerations
 
-### OPERATOR&#95;ID {#a5aa74df7a6a3bdd9a8f5eecc10efa66c}
+### OPERATOR\_ID {#a5aa74df7a6a3bdd9a8f5eecc10efa66c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -331,6 +331,7 @@ class CondParser { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -338,29 +339,29 @@ class CondParser { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNKNOWN_OP<a id="a5aa74df7a6a3bdd9a8f5eecc10efa66cac8110a4c12bb2f7863a1f21a7cc5e322"></a></td>
-<td class="doxyEnumItemDescription"><p> (= -1)</p></td>
+<td class="doxyEnumItemDescription"> (= -1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">AND<a id="a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 1)</p></td>
+<td class="doxyEnumItemDescription"> (= 1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">OR<a id="a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOT<a id="a5aa74df7a6a3bdd9a8f5eecc10efa66ca3dd545603f097982a39111714ebd3cd3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -394,6 +395,7 @@ class CondParser { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -401,29 +403,29 @@ class CondParser { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">NOTHING<a id="a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891"></a></td>
-<td class="doxyEnumItemDescription"><p> (= -1)</p></td>
+<td class="doxyEnumItemDescription"> (= -1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">DELIMITER<a id="a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">VARIABLE<a id="a49fd9c96ce822ecb68d8ab4489bb484baa23d749d95982f9481de025aeb453bb2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">UNKNOWN<a id="a49fd9c96ce822ecb68d8ab4489bb484ba2f8004dacf1ef246d3fc618e428716d9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -469,7 +471,8 @@ class CondParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -478,7 +481,7 @@ class CondParser { ... }
 </div>
 
 
-References <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m&#95;tokenType</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>.
+References <a href="#ad6be9806676e4c982291efc8a43e3c50">m\_e</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m\_tokenType</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>.
 </div>
 </div>
 
@@ -505,16 +508,17 @@ References <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Copyright (C) 1997-2015 by Dimitri van Heesch.</p>
+
+Copyright (C) 1997-2015 by Dimitri van Heesch.
 
 
-<p>Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty. See the GNU General Public License for more details.</p>
+Permission to use, copy, modify, and distribute this software and its documentation under the terms of the GNU General Public License is hereby granted. No representations are made about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty. See the GNU General Public License for more details.
 
-<p>Documents produced by <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a> are derivative works derived from the input used in their production; they are not affected by this license.</p>
+Documents produced by <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a> are derivative works derived from the input used in their production; they are not affected by this license.
 
-<p>C++ Expression parser for ENABLED_SECTIONS in <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a></p>
+C++ Expression parser for ENABLED\_SECTIONS in <a href="/web-doxygen/docs/api/classes/doxygen">Doxygen</a>
 
-<p>Features used: Operators: &amp;&amp; AND operator || OR operator ! NOT operator parses and evaluates the given expression.</p>
+Features used: Operators: &amp;&amp; AND operator || OR operator ! NOT operator parses and evaluates the given expression.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
@@ -527,7 +531,7 @@ References <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a
 </dl>
 
 
-<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -561,7 +565,7 @@ References <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a
 </div>
 
 
-References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a448f211b15963afd7fc97413c135d021">m&#95;err</a>, <a href="#ab5f8516736be27414bab7ff62030c4b2">m&#95;expr</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m&#95;tokenType</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>, <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ad6be9806676e4c982291efc8a43e3c50">m\_e</a>, <a href="#a448f211b15963afd7fc97413c135d021">m\_err</a>, <a href="#ab5f8516736be27414bab7ff62030c4b2">m\_expr</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m\_tokenType</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>, <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a048c00592e372edb8bd1cd16389b57a9">handleGuard</a>, <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a0ec58197ab496c7ea5a9be5edb5d6073">startCondSection</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a0ec58197ab496c7ea5a9be5edb5d6073">startCondSection</a>.
 </div>
@@ -590,9 +594,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a048c00592
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>evaluate an operator for given values</p>
 
-<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+evaluate an operator for given values
+
+Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -612,7 +617,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a048c00592
 </div>
 
 
-References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a448f211b15963afd7fc97413c135d021">m&#95;err</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>.
+References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a448f211b15963afd7fc97413c135d021">m\_err</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>.
 
 Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </div>
@@ -635,9 +640,10 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>evaluate a variable</p>
 
-<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+evaluate a variable
+
+Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -650,7 +656,7 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config&#95;getList</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 
 Referenced by <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
 </div>
@@ -673,9 +679,10 @@ Referenced by <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the id of the given operator returns -1 if the operator is not recognized</p>
 
-<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+returns the id of the given operator returns -1 if the operator is not recognized
+
+Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -694,7 +701,7 @@ Referenced by <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
 </div>
 
 
-References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca3dd545603f097982a39111714ebd3cd3">NOT</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66cac8110a4c12bb2f7863a1f21a7cc5e322">UNKNOWN&#95;OP</a>.
+References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca3dd545603f097982a39111714ebd3cd3">NOT</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66cac8110a4c12bb2f7863a1f21a7cc5e322">UNKNOWN\_OP</a>.
 
 Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
 </div>
@@ -717,12 +724,13 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Get next token in the current string expr.</p>
+
+Get next token in the current string expr.
 
 
-<p>Uses the data in m_expr pointed to by m_e to produce m_tokenType and m_token, set m_err in case of an error</p>
+Uses the data in m\_expr pointed to by m\_e to produce m\_tokenType and m\_token, set m\_err in case of an error
 
-<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -790,7 +798,7 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <
 </div>
 
 
-References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#ae0c69620b1ff6e7ceafd3461ccf2d142">isAlpha</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#a729d53d4881f206bfd8de6b4ebf99787">isAlphaNumSpec</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#a51b274f2d0a9dc8d6a7896a7b1960bf7">isDelimiter</a>, <a href="#ad6be9806676e4c982291efc8a43e3c50">m&#95;e</a>, <a href="#a448f211b15963afd7fc97413c135d021">m&#95;err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m&#95;tokenType</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484ba2f8004dacf1ef246d3fc618e428716d9">UNKNOWN</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484baa23d749d95982f9481de025aeb453bb2">VARIABLE</a>.
+References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#ae0c69620b1ff6e7ceafd3461ccf2d142">isAlpha</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#a729d53d4881f206bfd8de6b4ebf99787">isAlphaNumSpec</a>, <a href="/web-doxygen/docs/api/files/src/condparser-cpp/#a51b274f2d0a9dc8d6a7896a7b1960bf7">isDelimiter</a>, <a href="#ad6be9806676e4c982291efc8a43e3c50">m\_e</a>, <a href="#a448f211b15963afd7fc97413c135d021">m\_err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m\_tokenType</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484babcaf3be350d7a11e470f9d7cef66e891">NOTHING</a>, <a href="#a49fd9c96ce822ecb68d8ab4489bb484ba2f8004dacf1ef246d3fc618e428716d9">UNKNOWN</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484baa23d749d95982f9481de025aeb453bb2">VARIABLE</a>.
 
 Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a>, <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>, <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>, <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a> and <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
 </div>
@@ -813,9 +821,10 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a>, <a href="#
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>conditional operators AND and OR</p>
 
-<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+conditional operators AND and OR
+
+Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -837,7 +846,7 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a>, <a href="#
 </div>
 
 
-References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">evalOperator</a>, <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">getOperatorId</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
+References <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66caa6deda36f663e46ae740b13fbf4e79f4">AND</a>, <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">evalOperator</a>, <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">getOperatorId</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca1876531ccdd04cb91a5c786dc77198ce">OR</a> and <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
 
 Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a> and <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
 </div>
@@ -860,9 +869,10 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>NOT.</p>
 
-<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+NOT.
+
+Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -883,7 +893,7 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a> and <a href
 </div>
 
 
-References <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">getOperatorId</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca3dd545603f097982a39111714ebd3cd3">NOT</a> and <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
+References <a href="#af8a4c0a1dc2325a61a6555c4d48f8869">getOperatorId</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5aa74df7a6a3bdd9a8f5eecc10efa66ca3dd545603f097982a39111714ebd3cd3">NOT</a> and <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
 
 Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </div>
@@ -906,9 +916,10 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>parenthesized expression or variable</p>
 
-<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+parenthesized expression or variable
+
+Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -938,7 +949,7 @@ Referenced by <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a>.
 </div>
 
 
-References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a448f211b15963afd7fc97413c135d021">m&#95;err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m&#95;tokenType</a>, <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
+References <a href="#a49fd9c96ce822ecb68d8ab4489bb484bab8fea9f3274addd57d0b8ebfd1bd907e">DELIMITER</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a448f211b15963afd7fc97413c135d021">m\_err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m\_tokenType</a>, <a href="#a6fb4d64e51915d819ab6bbcdc40a387b">parseLevel1</a> and <a href="#ae984d41f533dbf4306ddbffe725e272e">parseVar</a>.
 
 Referenced by <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
 </div>
@@ -963,7 +974,8 @@ Referenced by <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+
+Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>, definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -998,7 +1010,7 @@ Referenced by <a href="#a42e0e9ce1665b6be5de97c16c26d353c">parseLevel2</a>.
 </div>
 
 
-References <a href="#a6eacc43d99d9d65ba89361b9846b0c6f">evalVariable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a448f211b15963afd7fc97413c135d021">m&#95;err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m&#95;token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m&#95;tokenType</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484baa23d749d95982f9481de025aeb453bb2">VARIABLE</a>.
+References <a href="#a6eacc43d99d9d65ba89361b9846b0c6f">evalVariable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href="#a448f211b15963afd7fc97413c135d021">m\_err</a>, <a href="#a34b7c2efbc206f720c384413f2630790">m\_token</a>, <a href="#a5bcf72a37dcd8bff1730267da0587697">m\_tokenType</a> and <a href="#a49fd9c96ce822ecb68d8ab4489bb484baa23d749d95982f9481de025aeb453bb2">VARIABLE</a>.
 
 Referenced by <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
 </div>
@@ -1010,7 +1022,7 @@ Referenced by <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
 
 ## Private Member Attributes
 
-### m&#95;e {#ad6be9806676e4c982291efc8a43e3c50}
+### m\_e {#ad6be9806676e4c982291efc8a43e3c50}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1027,9 +1039,10 @@ Referenced by <a href="#af63a661f43a32b9343e6b222661bf206">parseLevel3</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>points to a character in expr</p>
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+points to a character in expr
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1042,7 +1055,7 @@ Referenced by <a href="#a28282ad4ee865a4601722ae5c4f7ea97">CondParser</a>, <a hr
 </div>
 </div>
 
-### m&#95;err {#a448f211b15963afd7fc97413c135d021}
+### m\_err {#a448f211b15963afd7fc97413c135d021}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1059,9 +1072,10 @@ Referenced by <a href="#a28282ad4ee865a4601722ae5c4f7ea97">CondParser</a>, <a hr
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>error state</p>
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+error state
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1074,7 +1088,7 @@ Referenced by <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">evalOperator</a>, <a 
 </div>
 </div>
 
-### m&#95;expr {#ab5f8516736be27414bab7ff62030c4b2}
+### m\_expr {#ab5f8516736be27414bab7ff62030c4b2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1091,9 +1105,10 @@ Referenced by <a href="#ad4fcf0ce5b9644fb6ff130cf7e335730">evalOperator</a>, <a 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>holds the expression</p>
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+holds the expression
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1106,7 +1121,7 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a>.
 </div>
 </div>
 
-### m&#95;token {#a34b7c2efbc206f720c384413f2630790}
+### m\_token {#a34b7c2efbc206f720c384413f2630790}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1123,9 +1138,10 @@ Referenced by <a href="#af254c02cc742b034cf62a9846b7b9749">parse</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>holds the token</p>
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+holds the token
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1138,7 +1154,7 @@ Referenced by <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href
 </div>
 </div>
 
-### m&#95;tokenType {#a5bcf72a37dcd8bff1730267da0587697}
+### m\_tokenType {#a5bcf72a37dcd8bff1730267da0587697}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1155,9 +1171,10 @@ Referenced by <a href="#a767f34907250fdaaeaae44c37d82c3de">getToken</a>, <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>type of the token</p>
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.</p>
+type of the token
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/condparser-h">condparser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1174,7 +1191,7 @@ Referenced by <a href="#a28282ad4ee865a4601722ae5c4f7ea97">CondParser</a>, <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a></li>

@@ -20,17 +20,17 @@ toc_max_heading_level: 4
 
 
 
-<p>Doxygen supports two ways to put tables in the documentation.</p>
+Doxygen supports two ways to put tables in the documentation.
 
-<p>The easiest is to use the Markdown format as shown in <a href="/web-doxygen/docs/pages/markdown/#markdown_extra">Markdown Extensions</a> section <a href="/web-doxygen/docs/pages/markdown/#md_tables">Tables</a>.</p>
+The easiest is to use the Markdown format as shown in <a href="/web-doxygen/docs/pages/markdown/#markdown_extra">Markdown Extensions</a> section <a href="/web-doxygen/docs/pages/markdown/#md_tables">Tables</a>.
 
-<p>Although this format is easy to use and read, it is also rather limited. It supports only a simple grid of cells, while each cell is a single line of plain text.</p>
+Although this format is easy to use and read, it is also rather limited. It supports only a simple grid of cells, while each cell is a single line of plain text.
 
-<p>For more complex tables the HTML syntax can be used. Doxygen will process such tables and translate them to the various output formats (at least for the formats that do support tables such as HTML and <code>{\LaTeX}</code>).</p>
+For more complex tables the HTML syntax can be used. Doxygen will process such tables and translate them to the various output formats (at least for the formats that do support tables such as HTML and <code>{\LaTeX}</code>).
 
-<p>Note a table should at least contain 1 row (<span class="doxyComputerOutput">&lt;tr&gt;</span>) and in case a <span class="doxyComputerOutput">&lt;caption&gt;</span> is used the <span class="doxyComputerOutput">&lt;caption&gt;</span> should precede the first row.</p>
+Note a table should at least contain 1 row (<span class="doxyComputerOutput">&lt;tr&gt;</span>) and in case a <span class="doxyComputerOutput">&lt;caption&gt;</span> is used the <span class="doxyComputerOutput">&lt;caption&gt;</span> should precede the first row.
 
-<p>Here is an example of a complex table:</p>
+Here is an example of a complex table:
 
 
 <pre><code>&lt;table&gt;
@@ -57,11 +57,11 @@ toc_max_heading_level: 4
 </code></pre>
 
 
-<p>It has a caption, table heading, various row and column spans, a nested table as one of the cells, and a item list in another cell.</p>
+It has a caption, table heading, various row and column spans, a nested table as one of the cells, and a item list in another cell.
 
-<p>Note that the end tags (like <span class="doxyComputerOutput">&lt;/td&gt;</span>) are left out in the example above. This is allowed, and in the HTML output Doxygen will add the end tags again.</p>
+Note that the end tags (like <span class="doxyComputerOutput">&lt;/td&gt;</span>) are left out in the example above. This is allowed, and in the HTML output Doxygen will add the end tags again.
 
-<p>The output will look as follows:</p>
+The output will look as follows:
 
 <table class="doxyTable">
 <caption id="tables_1multi_row">Complex table</caption>
@@ -121,7 +121,7 @@ toc_max_heading_level: 4
 </tr>
 </table>
 
-<p>One can refer to the caption of the table using <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a> using the caption's id as the label.</p>
+One can refer to the caption of the table using <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a> using the caption's id as the label.
  
 Go to the <a href="/docs/pages/diagrams/">next</a> section or return to the
  <a href="/docs/">index</a>.

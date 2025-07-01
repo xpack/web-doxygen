@@ -133,7 +133,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the code fragment as text <a href="#a98d559227d3997932f482cd32815ac6f">More...</a></p>
+the code fragment as text <a href="#a98d559227d3997932f482cd32815ac6f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -147,7 +147,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>read offset during parsing <a href="#abc494e931744747f1a9af70ce9a646b6">More...</a></p>
+read offset during parsing <a href="#abc494e931744747f1a9af70ce9a646b6">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -187,7 +187,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>number of line in the code fragment <a href="#ae0fa88f20cb79b9a1c87825e36617a27">More...</a></p>
+number of line in the code fragment <a href="#ae0fa88f20cb79b9a1c87825e36617a27">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -201,7 +201,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>current line number <a href="#ac610a765b75eae27ee09129d395be2f3">More...</a></p>
+current line number <a href="#ac610a765b75eae27ee09129d395be2f3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -228,7 +228,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8">More...</a></p>
+for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -359,7 +359,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>1 if bracket starts a scope, <a href="#a581583ddfc8f0b8ce6a7292c79953d1f">More...</a></p>
+1 if bracket starts a scope, <a href="#a581583ddfc8f0b8ce6a7292c79953d1f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1097,7 +1097,7 @@ struct codeYY_state { ... }
 </table>
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxySectionDef">
 
@@ -1122,7 +1122,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1158,7 +1159,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1188,7 +1190,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1218,7 +1221,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1248,7 +1252,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1278,7 +1283,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1308,7 +1314,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1338,7 +1345,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1368,7 +1376,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1398,7 +1407,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1428,7 +1438,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1458,7 +1469,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1488,7 +1500,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1518,7 +1531,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1548,7 +1562,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1578,7 +1593,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1608,7 +1624,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1638,7 +1655,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1668,7 +1686,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1698,7 +1717,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1728,7 +1748,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1758,7 +1779,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1788,7 +1810,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1818,7 +1841,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1848,7 +1872,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1878,7 +1903,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1908,7 +1934,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1938,7 +1965,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1968,7 +1996,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1998,7 +2027,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2028,7 +2058,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2058,7 +2089,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2088,7 +2120,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2118,7 +2151,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2148,7 +2182,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2176,9 +2211,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>number of line in the code fragment</p>
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+number of line in the code fragment
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2206,9 +2242,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>read offset during parsing</p>
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+read offset during parsing
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2236,9 +2273,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the code fragment as text</p>
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+the code fragment as text
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2268,7 +2306,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2298,7 +2337,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2328,7 +2368,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2358,7 +2399,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2388,7 +2430,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2418,7 +2461,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2448,7 +2492,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2478,7 +2523,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2508,7 +2554,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2538,7 +2585,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2568,7 +2616,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2598,7 +2647,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2628,7 +2678,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2658,7 +2709,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2688,7 +2740,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2718,7 +2771,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2748,7 +2802,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2778,7 +2833,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2808,7 +2864,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2838,7 +2895,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2868,7 +2926,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2898,7 +2957,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2928,7 +2988,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2958,7 +3019,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -2988,7 +3050,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3018,7 +3081,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3048,7 +3112,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3078,7 +3143,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3106,9 +3172,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>1 if bracket starts a scope,</p>
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+1 if bracket starts a scope,
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3138,7 +3205,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3168,7 +3236,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3198,7 +3267,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3226,9 +3296,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>for CSharp files scoped namespace {</p>
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+for CSharp files scoped namespace {
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3258,7 +3329,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3288,7 +3360,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3318,7 +3391,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3348,7 +3422,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3378,7 +3453,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3408,7 +3484,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3438,7 +3515,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3468,7 +3546,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3498,7 +3577,8 @@ struct codeYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3526,9 +3606,10 @@ struct codeYY_state { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>current line number</p>
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+current line number
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -3543,7 +3624,7 @@ struct codeYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/code-l">code.l</a></li>

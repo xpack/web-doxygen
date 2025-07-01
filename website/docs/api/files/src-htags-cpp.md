@@ -70,7 +70,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;inputDir {#a53bce1924b5270f5df59deec61520d3e}
+### g\_inputDir {#a53bce1924b5270f5df59deec61520d3e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -94,7 +94,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -107,7 +108,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308ce
 </div>
 </div>
 
-### g&#95;symbolMap {#a110e1111d13ddd15b3f7f436edbc33b1}
+### g\_symbolMap {#a110e1111d13ddd15b3f7f436edbc33b1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -131,7 +132,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308ce
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.
 
 <div class="doxyProgramListing">
 

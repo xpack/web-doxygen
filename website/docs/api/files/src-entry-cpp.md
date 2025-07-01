@@ -56,7 +56,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;num {#a7cc1e387f18d81fa00fb03dec5861d5f}
+### g\_num {#a7cc1e387f18d81fa00fb03dec5861d5f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -80,7 +80,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -89,7 +90,7 @@ toc_max_heading_level: 4
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/entry/#a8283ac849b1f02ff82ca2ff28253db98">Entry::Entry</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a> and <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry::~Entry</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/entry/#a8283ac849b1f02ff82ca2ff28253db98">Entry::Entry</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a> and <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry::\~Entry</a>.
 </div>
 </div>
 

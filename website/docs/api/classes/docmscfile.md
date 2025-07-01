@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocMscFile` Class Reference
 
-<p>Node representing a msc file. <a href="#details">More...</a></p>
+Node representing a msc file. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -89,9 +89,9 @@ class DocMscFile { ... }
 
 ## Description {#details}
 
-<p>Node representing a msc file.</p>
+Node representing a msc file.
 
-<p>Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -116,7 +116,8 @@ class DocMscFile { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 724 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
+Declaration at line 724 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -159,7 +160,8 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae2d576fe1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 726 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1135 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
+Declaration at line 726 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1135 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -197,7 +199,7 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae2d576fe1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/doccompoundnode/#aca6bc953ffff9a8773c2b4b0a866442c">DocCompoundNode::children</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a21e038f5b8958e203d28bc4f18472352a63398f483e84697f0cf23c0f152d0756">CMD&#95;MSCFILE</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae2d576fe18bfd94d99f8fb94aec969bf">DocDiagramFileBase::context</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415c0c2028d863288599">DocParser::defaultHandleTitleAndSize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a7803b98b056d6e21a7466729671af103">Doxygen::mscFileNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a8ce036068cb5eae464960a34ba3152af">DocDiagramFileBase::p</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70d0b468521b0304252fb659f3b15e24">showFileDefMatches</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn&#95;doc&#95;error</a>.
+References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/doccompoundnode/#aca6bc953ffff9a8773c2b4b0a866442c">DocCompoundNode::children</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a21e038f5b8958e203d28bc4f18472352a63398f483e84697f0cf23c0f152d0756">CMD\_MSCFILE</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae2d576fe18bfd94d99f8fb94aec969bf">DocDiagramFileBase::context</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415c0c2028d863288599">DocParser::defaultHandleTitleAndSize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a7803b98b056d6e21a7466729671af103">Doxygen::mscFileNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a8ce036068cb5eae464960a34ba3152af">DocDiagramFileBase::p</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70d0b468521b0304252fb659f3b15e24">showFileDefMatches</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn\_doc\_error</a>.
 </div>
 </div>
 
@@ -205,7 +207,7 @@ References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b396
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a></li>

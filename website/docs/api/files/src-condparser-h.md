@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="/web-doxygen/docs/api/classes/condparser/#details">More...</a></p>
+Copyright (C) 1997-2015 by Dimitri van Heesch. <a href="/web-doxygen/docs/api/classes/condparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

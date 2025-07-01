@@ -396,7 +396,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2546 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2546 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -440,7 +441,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 736 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 736 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -475,7 +477,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7b984704d9d6ad6819140f993d6bce4e">checkExtension</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config&#95;getList</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-h/#a6243d84ee6552fd5282db11d491c2e18">LATEX&#95;STYLE&#95;EXTENSION</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7b984704d9d6ad6819140f993d6bce4e">checkExtension</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-h/#a6243d84ee6552fd5282db11d491c2e18">LATEX\_STYLE\_EXTENSION</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>.
 
 Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
 </div>
@@ -500,7 +502,8 @@ Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywor
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2388 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2388 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -665,13 +668,13 @@ Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywor
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docparser-p-h/#a2515a32b6dfcda676ef65dd34fad5abf">insideTable</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a401769ae867a274591c49695c3a819f0">HtmlEntityMapper::latex</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#af0c3a82ead9d9f041131d3bf6ebf9f35">HtmlEntityMapper::name2sym</a>, <a href="#aabea2ded9f00d6bbeb03680918e66c02">processEntity</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym&#95;Unknown</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docparser-p-h/#a2515a32b6dfcda676ef65dd34fad5abf">insideTable</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a401769ae867a274591c49695c3a819f0">HtmlEntityMapper::latex</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#af0c3a82ead9d9f041131d3bf6ebf9f35">HtmlEntityMapper::name2sym</a>, <a href="#aabea2ded9f00d6bbeb03680918e66c02">processEntity</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym\_Unknown</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexcodegenerator/#ace27d46d07e19112fc6ee3411915c8ea">LatexCodeGenerator::codify</a>, <a href="#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a4c9d7e8efc817dc5bc5a851500171308">LatexGenerator::docify</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a99fd1bd50877a6c36721da21a2a2eb1e">LatexDocVisitor::filter</a>, <a href="#ad32126ac958c2ac22491a47f6957935c">latexEscapeIndexChars</a>, <a href="#afd297d2d96747033593750c401bfe95e">latexEscapeLabelName</a> and <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
 </div>
 </div>
 
-### latex&#95;batchmode() {#a2c5ac0c5ff17ed2c7c433703a0c66fda}
+### latex\_batchmode() {#a2c5ac0c5ff17ed2c7c433703a0c66fda}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -695,7 +698,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexcodegenerator/#ace27d4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -716,7 +720,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexcodegenerator/#ace27d4
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config&#95;getEnum</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>.
 
 Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
 </div>
@@ -741,7 +745,8 @@ Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywor
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2598 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2598 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -819,7 +824,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab85e90fb1c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2553 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2553 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -896,7 +902,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#ab85e90fb1c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2644 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2644 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -956,7 +963,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a1f3960465e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2672 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2672 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1023,7 +1031,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a39ce90cc4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1048,7 +1057,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a39ce90cc4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
 
 Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
 </div>
@@ -1078,7 +1087,8 @@ Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywor
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1405 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 1405 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1110,7 +1120,7 @@ Referenced by <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywor
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
 </div>
 </div>
 
@@ -1138,7 +1148,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1186,7 +1197,8 @@ Referenced by <a href="#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 796 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 796 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1309,7 +1321,7 @@ Referenced by <a href="#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config&#95;getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a251399cde30dd4c356bbd5634c6eb472">Config&#95;getEnumAsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="#a94fbb614f459de73cf139b286f1f1ce1">extraLatexStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a2c5ac0c5ff17ed2c7c433703a0c66fda">latex&#95;batchmode</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>, <a href="#a8558c4e1c4ee2cd647166fb761401033">latexMarkerInfo</a>, <a href="#a539e2c5c670b530000917c0492e07850">makeIndex</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3f2329035cfde039380d267efff68c76">removeEmptyLines</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c85e13964c82e9aa4cef183a767651e">substituteKeywords</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="#ace2411e2a91d0794515d7319a05a96e4">writeExtraLatexPackages</a> and <a href="#afb096be4b2c37adc54becb763cc99470">writeLatexSpecialFormulaChars</a>.
+References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a251399cde30dd4c356bbd5634c6eb472">Config\_getEnumAsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="#a94fbb614f459de73cf139b286f1f1ce1">extraLatexStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a2c5ac0c5ff17ed2c7c433703a0c66fda">latex\_batchmode</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>, <a href="#a8558c4e1c4ee2cd647166fb761401033">latexMarkerInfo</a>, <a href="#a539e2c5c670b530000917c0492e07850">makeIndex</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3f2329035cfde039380d267efff68c76">removeEmptyLines</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c85e13964c82e9aa4cef183a767651e">substituteKeywords</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="#ace2411e2a91d0794515d7319a05a96e4">writeExtraLatexPackages</a> and <a href="#afb096be4b2c37adc54becb763cc99470">writeLatexSpecialFormulaChars</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b5dce6e2762d5915e554118">LatexGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a> and <a href="/web-doxygen/docs/api/classes/latexgenerator/#a0de19d805d84ae14aff81334a010c9a1">LatexGenerator::startIndexSection</a>.
 </div>
@@ -1339,7 +1351,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1374,7 +1387,8 @@ References <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cf
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2327 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2327 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1399,7 +1413,7 @@ References <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cf
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config&#95;getList</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbcf6279d70d38ee11b35ea55">FormulaManager::createLatexFile</a> and <a href="#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
 </div>
@@ -1429,7 +1443,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1572,7 +1587,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>.
 </div>
@@ -1597,7 +1612,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2345 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 2345 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1675,7 +1691,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 500 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 500 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1812,7 +1829,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade88ab31021df991b8f2b6b31e9c24e4">CitationManager::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>.
 </div>
@@ -1824,7 +1841,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 
 ## Variables
 
-### g&#95;footer {#a6ef18a9e8d540c96bde81562abb60e42}
+### g\_footer {#a6ef18a9e8d540c96bde81562abb60e42}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1848,7 +1865,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1859,7 +1877,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 </div>
 </div>
 
-### g&#95;footer&#95;file {#a932663422cdebc372564c94056bf0a7e}
+### g\_footer\_file {#a932663422cdebc372564c94056bf0a7e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1883,7 +1901,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1894,7 +1913,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 </div>
 </div>
 
-### g&#95;header {#a3498eed8e2e90303039a4e2245c319d3}
+### g\_header {#a3498eed8e2e90303039a4e2245c319d3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1918,7 +1937,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1929,7 +1949,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 </div>
 </div>
 
-### g&#95;header&#95;file {#a357af50f3d94adbe34df93d23e5bdd44}
+### g\_header\_file {#a357af50f3d94adbe34df93d23e5bdd44}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1953,7 +1973,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1988,7 +2009,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2026,6 +2048,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
@@ -2034,19 +2057,19 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
                        if (lresult &lt; (i + bytes + 1))               \
                        {                                            \
                          lresult += 512;                            \
-                         result = static&#95;cast&lt;char &#42;&gt;(realloc(result, lresult)); \
+                         result = static\_cast&lt;char \*&gt;(realloc(result, lresult)); \
                        }                                            \
-                       for (int j=0; j&lt;bytes &amp;&amp; &#42;p; j++)            \
+                       for (int j=0; j&lt;bytes &amp;&amp; \*p; j++)            \
                        {                                            \
-                         result&#91;i++&#93;=&#42;p++;                          \
+                         result\[i++\]=\*p++;                          \
                        }                                            \
-                       m&#95;col++;                                     \
+                       m\_col++;                                     \
                      } while(0)
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/latexcodegenerator/#ace27d46d07e19112fc6ee3411915c8ea">LatexCodeGenerator::codify</a>.
 </div>

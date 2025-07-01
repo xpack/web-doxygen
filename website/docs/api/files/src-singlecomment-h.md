@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string. <a href="#afa8b573ab4211ba39d821652cc1085e2">More...</a></p>
+Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string. <a href="#afa8b573ab4211ba39d821652cc1085e2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -66,9 +66,10 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string.</p>
 
-<p>Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-h">singlecomment.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
+Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string.
+
+Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-h">singlecomment.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.
 
 <div class="doxyProgramListing">
 

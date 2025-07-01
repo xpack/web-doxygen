@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SearchIndexInfo` Struct Reference
 
-<p>Table entry to allow filtering the search results per category. <a href="#details">More...</a></p>
+Table entry to allow filtering the search results per category. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -96,9 +96,9 @@ struct SearchIndexInfo { ... }
 
 ## Description {#details}
 
-<p>Table entry to allow filtering the search results per category.</p>
+Table entry to allow filtering the search results per category.
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxySectionDef">
 
@@ -123,7 +123,8 @@ struct SearchIndexInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
+Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -166,7 +167,8 @@ References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -196,7 +198,8 @@ References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -226,7 +229,8 @@ References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -243,7 +247,7 @@ Referenced by <a href="#a52b5729b3bc658fa7fa77497e95213fd">add</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following files:</p>
+The documentation for this struct was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a></li>

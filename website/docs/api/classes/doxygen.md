@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Doxygen` Class Reference
 
-<p>This class serves as a namespace for global variables used by doxygen. <a href="#details">More...</a></p>
+This class serves as a namespace for global variables used by doxygen. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -662,12 +662,12 @@ class Doxygen { ... }
 
 ## Description {#details}
 
-<p>This class serves as a namespace for global variables used by doxygen.</p>
+This class serves as a namespace for global variables used by doxygen.
 
 
-<p>All fields in this class are public and static, so they can be used directly.</p>
+All fields in this class are public and static, so they can be used directly.
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -697,7 +697,8 @@ class Doxygen { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -734,7 +735,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#ada294ec0d3d5d40d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -771,7 +773,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -808,7 +811,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -845,7 +849,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -882,7 +887,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -919,7 +925,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/code-l/#a4e0a7985a36e2f35
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -956,7 +963,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -993,7 +1001,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1030,7 +1039,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#aeb63b0db3ac9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1067,7 +1077,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1104,7 +1115,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad0c3ffb33c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1141,7 +1153,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1178,7 +1191,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1215,7 +1229,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a882f8946181
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1252,7 +1267,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1289,7 +1305,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#acf167fe4ef97
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1326,7 +1343,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1363,7 +1381,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1400,7 +1419,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1437,7 +1457,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa48018d80bff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1474,7 +1495,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1511,7 +1533,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1548,7 +1571,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1585,7 +1609,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a5f5e5eea90b42
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1622,7 +1647,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1631,7 +1657,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232db6c9889f7f473a5cf3d3">addIncludeFile</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#afbafb9f58aa69f3ea191211d77ffccae">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::addIncludes</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81a52fbfc822a4e4b41cc7e">addListReferences</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4219b5e9c9b107b0b5380459e032a142">addMembersToMemberGroup</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb4e5ea7ab8257b599dc267">addToIndices</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aefbbb766c678a158e56f49d59a20d8cd">checkMarkdownMainfile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aeaa1f39cbbca14be0b6afe4528da6cf7">combineUsingRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4130a395a6948c0202fc85ac018a6236">computeMemberReferences</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a761d3a60c665909ccfb9c3eb5dc61973">countFiles</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a777a8d72bf18dc4c572fb70528ec18b2">countMembers</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5f7021c47224d92c76642ad8501d5eb6">distributeMemberGroupDocumentation</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a9a5dbcad360a1ad2a8f9403ae344d638">DocbookGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b5dce6e2762d5915e554118">LatexGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b364222f7f357406e62">DocParser::findDocsForMemberOrCompound</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a73f07a781803790c09a7a63b7b2b1d2d">findIncludedUsingDirectives</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad0183e79b7d98cfc8d0fd1b32efa27d5">findSectionsInDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a39444ed87f324cf10eca40dca31c8bf9">generateDEF</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab57dc156537618baf0946481157bb2ab">generateDiskNames</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a57a6bc5421d2bc55208fa100ee7d4a0b">generateFileDocs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a54cbf7f6b07bc8fe4ce7295e534c844f">generateFileRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4c5977a4e048326d58cabd7d348463ea">PerlModGenerator::generatePerlModOutput</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#af69cff788100ddb682f88658018d3969">parseFilesMultiThreading</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae28f1a48382c964843997257b8d171f9">parseFilesSingleThreading</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7aac89ee42416993ce59da">ModuleManager::resolveImports</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a9a5ccba7154d90c27699bad5517f8b18">ModuleManager::resolvePartitions</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6ed566c33a63fcd30d53c4">searchInputFiles</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a3cd40076f3904d6c6ea657b00df39cc6">setFileName</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a510e0aa934874b28d777e3e1d1c13341">sortMemberLists</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a0de19d805d84ae14aff81334a010c9a1">LatexGenerator::startIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#aa8e7acc156d5f99e61cc895d8f8ea54b">writeDirHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acbd9db076ae71bddeb6c5e9b27dd23da">writeTagFile</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232db6c9889f7f473a5cf3d3">addIncludeFile</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#afbafb9f58aa69f3ea191211d77ffccae">anonymous\_namespace{tagreader.cpp}::TagFileParser::addIncludes</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81a52fbfc822a4e4b41cc7e">addListReferences</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4219b5e9c9b107b0b5380459e032a142">addMembersToMemberGroup</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb4e5ea7ab8257b599dc267">addToIndices</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aefbbb766c678a158e56f49d59a20d8cd">checkMarkdownMainfile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aeaa1f39cbbca14be0b6afe4528da6cf7">combineUsingRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4130a395a6948c0202fc85ac018a6236">computeMemberReferences</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a761d3a60c665909ccfb9c3eb5dc61973">countFiles</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a777a8d72bf18dc4c572fb70528ec18b2">countMembers</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5f7021c47224d92c76642ad8501d5eb6">distributeMemberGroupDocumentation</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a9a5dbcad360a1ad2a8f9403ae344d638">DocbookGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a33cad27a2b5dce6e2762d5915e554118">LatexGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b364222f7f357406e62">DocParser::findDocsForMemberOrCompound</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a73f07a781803790c09a7a63b7b2b1d2d">findIncludedUsingDirectives</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad0183e79b7d98cfc8d0fd1b32efa27d5">findSectionsInDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a39444ed87f324cf10eca40dca31c8bf9">generateDEF</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab57dc156537618baf0946481157bb2ab">generateDiskNames</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a57a6bc5421d2bc55208fa100ee7d4a0b">generateFileDocs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a54cbf7f6b07bc8fe4ce7295e534c844f">generateFileRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a4c5977a4e048326d58cabd7d348463ea">PerlModGenerator::generatePerlModOutput</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#af69cff788100ddb682f88658018d3969">parseFilesMultiThreading</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae28f1a48382c964843997257b8d171f9">parseFilesSingleThreading</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4ec82e2c6d7aac89ee42416993ce59da">ModuleManager::resolveImports</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a9a5ccba7154d90c27699bad5517f8b18">ModuleManager::resolvePartitions</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6ed566c33a63fcd30d53c4">searchInputFiles</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a3cd40076f3904d6c6ea657b00df39cc6">setFileName</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a510e0aa934874b28d777e3e1d1c13341">sortMemberLists</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a0de19d805d84ae14aff81334a010c9a1">LatexGenerator::startIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#aa8e7acc156d5f99e61cc895d8f8ea54b">writeDirHierarchy</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acbd9db076ae71bddeb6c5e9b27dd23da">writeTagFile</a>.
 </div>
 </div>
 
@@ -1659,7 +1685,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1696,7 +1723,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1733,7 +1761,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afb0da87d7d3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1770,7 +1799,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a68
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1807,7 +1837,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1844,7 +1875,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a636b9cfb60b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1881,7 +1913,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1918,7 +1951,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1955,7 +1989,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1992,7 +2027,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2001,7 +2037,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a855be67fd81
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e278284bc82564b4515fb600608">MemberDefImpl::&#95;writeMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b4a037c36ac329185ff">VhdlDocGen::createFlowChart</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3eb9720ae877e5d2ae987bce9c91f6a2">generateExampleDocs</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad7fe83480a1c139afa09ab1183da5ca5">getParserForFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/markdownoutlineparser/#ac673a30488ede0451a6a28601ece560f">MarkdownOutlineParser::parsePrototype</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3931b4604b8a76ac26b7380a585ef543">FileDefImpl::parseSource</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae4f8196aff5be2c0b8046c45e3830fab">updateLanguageMapping</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6bab634f62d558e8d56cb84dee170cd2">DefinitionImpl::writeInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd9865b477141ab58dcb20">VhdlDocGen::writeSource</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac584b41f75fc411a218e9e684fd491d5">FileDefImpl::writeSourceBody</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e278284bc82564b4515fb600608">MemberDefImpl::\_writeMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a2de08afddfa24b4a037c36ac329185ff">VhdlDocGen::createFlowChart</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3eb9720ae877e5d2ae987bce9c91f6a2">generateExampleDocs</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad7fe83480a1c139afa09ab1183da5ca5">getParserForFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/markdownoutlineparser/#ac673a30488ede0451a6a28601ece560f">MarkdownOutlineParser::parsePrototype</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3931b4604b8a76ac26b7380a585ef543">FileDefImpl::parseSource</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae4f8196aff5be2c0b8046c45e3830fab">updateLanguageMapping</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6bab634f62d558e8d56cb84dee170cd2">DefinitionImpl::writeInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a1c145b8082cd9865b477141ab58dcb20">VhdlDocGen::writeSource</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac584b41f75fc411a218e9e684fd491d5">FileDefImpl::writeSourceBody</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a6d391007591f277cd73420b77403666d">writeXMLCodeBlock</a>.
 </div>
 </div>
 
@@ -2029,7 +2065,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#aa9637e27828
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2066,7 +2103,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aa8e0c506f71
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2103,7 +2141,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2140,7 +2179,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2177,7 +2217,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2214,7 +2255,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adfcc4c0f77f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2251,7 +2293,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a76c1ddee2e90
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2288,7 +2331,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2325,7 +2369,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2362,7 +2407,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2399,7 +2445,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7389d7a8c7a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2436,7 +2483,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d2365854
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2453,7 +2501,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acf309728fac
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a></li>

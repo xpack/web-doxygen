@@ -36,7 +36,7 @@ class MemberLists { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; std::unique&#95;ptr&lt; MemberList &gt; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; std::unique_ptr&lt; MemberList &gt; &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -102,7 +102,7 @@ class MemberLists { ... }
 </table>
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
 
 <div class="doxySectionDef">
 
@@ -132,7 +132,8 @@ class MemberLists { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
 </div>
 </div>
 
@@ -142,7 +143,7 @@ class MemberLists { ... }
 
 ## Public Destructor
 
-### ~MemberLists() {#a7034c598946e3b8c2fd9617a431e5e0d}
+### \~MemberLists() {#a7034c598946e3b8c2fd9617a431e5e0d}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -166,7 +167,8 @@ class MemberLists { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
 </div>
 </div>
 
@@ -200,7 +202,8 @@ class MemberLists { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -225,7 +228,7 @@ References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e6
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a></li>

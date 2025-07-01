@@ -62,7 +62,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-h">sqlite3gen.h</a>, definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
+Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-h">sqlite3gen.h</a>, definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
 
 <div class="doxyProgramListing">
 

@@ -41,7 +41,7 @@ class CCodeParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for code parsers. <a href="/web-doxygen/docs/api/classes/codeparserinterface/#details">More...</a></p>
+Abstract interface for code parsers. <a href="/web-doxygen/docs/api/classes/codeparserinterface/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -99,7 +99,7 @@ class CCodeParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Parses a source file or fragment with the goal to produce highlighted and cross-referenced output. <a href="#a106ea78aa6382f5b06dbd2563d5b99e4">More...</a></p>
+Parses a source file or fragment with the goal to produce highlighted and cross-referenced output. <a href="#a106ea78aa6382f5b06dbd2563d5b99e4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,7 @@ class CCodeParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Resets the state of the code parser. <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">More...</a></p>
+Resets the state of the code parser. <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -168,7 +168,7 @@ class CCodeParser { ... }
 </table>
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>.</p>
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>.
 
 <div class="doxySectionDef">
 
@@ -193,7 +193,8 @@ class CCodeParser { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4066 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4066 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -209,7 +210,7 @@ class CCodeParser { ... }
 </div>
 
 
-References <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da65c59a01c514027443cf0634e69c7712">Debug::Lex&#95;code</a>, <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a> and <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">resetCodeParserState</a>.
+References <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da65c59a01c514027443cf0634e69c7712">Debug::Lex\_code</a>, <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a> and <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">resetCodeParserState</a>.
 
 Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>.
 </div>
@@ -221,7 +222,7 @@ Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>.
 
 ## Public Destructor
 
-### ~CCodeParser() {#a997869f7ed19a9e8871fcaea7518adc9}
+### \~CCodeParser() {#a997869f7ed19a9e8871fcaea7518adc9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -240,7 +241,8 @@ Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4075 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4075 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -281,7 +283,8 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4098 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4098 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -320,7 +323,8 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Parses a source file or fragment with the goal to produce highlighted and cross-referenced output.</p>
+
+Parses a source file or fragment with the goal to produce highlighted and cross-referenced output.
 
 
 <dl class="doxyParamsList">
@@ -329,69 +333,69 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] codeOutList</td>
-<td class="doxyParamItemDescription"><p>interface for writing the result.</p></td>
+<td class="doxyParamItemDescription">interface for writing the result.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] scopeName</td>
-<td class="doxyParamItemDescription"><p>Name of scope to which the code belongs.</p></td>
+<td class="doxyParamItemDescription">Name of scope to which the code belongs.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] input</td>
-<td class="doxyParamItemDescription"><p>Actual code in the form of a string</p></td>
+<td class="doxyParamItemDescription">Actual code in the form of a string</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] lang</td>
-<td class="doxyParamItemDescription"><p>The programming language of the code fragment.</p></td>
+<td class="doxyParamItemDescription">The programming language of the code fragment.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] stripCodeComments</td>
-<td class="doxyParamItemDescription"><p>signals whether or not for the code block the doxygen comments should be stripped.</p></td>
+<td class="doxyParamItemDescription">signals whether or not for the code block the doxygen comments should be stripped.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] isExampleBlock</td>
-<td class="doxyParamItemDescription"><p>TRUE iff the code is part of an example.</p></td>
+<td class="doxyParamItemDescription">TRUE iff the code is part of an example.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] exampleName</td>
-<td class="doxyParamItemDescription"><p>Name of the example.</p></td>
+<td class="doxyParamItemDescription">Name of the example.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileDef</td>
-<td class="doxyParamItemDescription"><p>File definition to which the code is associated.</p></td>
+<td class="doxyParamItemDescription">File definition to which the code is associated.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] startLine</td>
-<td class="doxyParamItemDescription"><p>Starting line in case of a code fragment.</p></td>
+<td class="doxyParamItemDescription">Starting line in case of a code fragment.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] endLine</td>
-<td class="doxyParamItemDescription"><p>Ending line of the code fragment.</p></td>
+<td class="doxyParamItemDescription">Ending line of the code fragment.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] inlineFragment</td>
-<td class="doxyParamItemDescription"><p>Code fragment that is to be shown inline as part of the documentation.</p></td>
+<td class="doxyParamItemDescription">Code fragment that is to be shown inline as part of the documentation.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] memberDef</td>
-<td class="doxyParamItemDescription"><p>Member definition to which the code is associated (non null in case of an inline fragment for a member).</p></td>
+<td class="doxyParamItemDescription">Member definition to which the code is associated (non null in case of an inline fragment for a member).</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] showLineNumbers</td>
-<td class="doxyParamItemDescription"><p>if set to TRUE and also fileDef is not 0, line numbers will be added to the source fragment</p></td>
+<td class="doxyParamItemDescription">if set to TRUE and also fileDef is not 0, line numbers will be added to the source fragment</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] searchCtx</td>
-<td class="doxyParamItemDescription"><p>context under which search data has to be stored.</p></td>
+<td class="doxyParamItemDescription">context under which search data has to be stored.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] collectXRefs</td>
-<td class="doxyParamItemDescription"><p>collect cross-reference relations.</p></td>
+<td class="doxyParamItemDescription">collect cross-reference relations.</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -510,7 +514,7 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8e04495ad97c6aab7960cc989e3f8c67">convertNameToFile</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a635b111e9953d65f6353bf0d7eb9fb1f">countLines</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a93e1226e2ce3405e358aebe045c2d691">FileDef::fileName</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac29daa4ae4a11022a30d2deb6934624c">getResolvedNamespace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da65c59a01c514027443cf0634e69c7712">Debug::Lex&#95;code</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#add91dbbc9b0c632da7f20c52ca03e6c8">setParameterList</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>, <a href="/web-doxygen/docs/api/classes/outputcodelist/#aebb587648d0dbbfec75c7b7ffc6873ba">OutputCodeList::stripCodeComments</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8e04495ad97c6aab7960cc989e3f8c67">convertNameToFile</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a635b111e9953d65f6353bf0d7eb9fb1f">countLines</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a93e1226e2ce3405e358aebe045c2d691">FileDef::fileName</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac29daa4ae4a11022a30d2deb6934624c">getResolvedNamespace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da65c59a01c514027443cf0634e69c7712">Debug::Lex\_code</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#add91dbbc9b0c632da7f20c52ca03e6c8">setParameterList</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>, <a href="/web-doxygen/docs/api/classes/outputcodelist/#aebb587648d0dbbfec75c7b7ffc6873ba">OutputCodeList::stripCodeComments</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -536,20 +540,21 @@ References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b396
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Resets the state of the code parser.</p>
+
+Resets the state of the code parser.
 
 
-<p>Since multiple code fragments can together form a single example, an explicit function is used to reset the code parser state.</p>
+Since multiple code fragments can together form a single example, an explicit function is used to reset the code parser state.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a106ea78aa6382f5b06dbd2563d5b99e4">parseCode()</a></p>
+<a href="#a106ea78aa6382f5b06dbd2563d5b99e4">parseCode()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4080 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4080 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -568,7 +573,7 @@ References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b396
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG&#95;CTX</a> and <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a> and <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 
 Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>.
 </div>
@@ -593,7 +598,8 @@ Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4092 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
+Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>, definition at line 4092 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -635,7 +641,8 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/code-h">code.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -644,7 +651,7 @@ Reference <a href="#aa55de188022eb9630b9b3f5a54bb3628">p</a>.
 </div>
 
 
-Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>, <a href="#af6a8bc3a1f0f692975cc1fbde99fbbce">insideCodeLine</a>, <a href="#a106ea78aa6382f5b06dbd2563d5b99e4">parseCode</a>, <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">resetCodeParserState</a>, <a href="#a93aa7a5adf58ca0282b3d19f4cdb07b4">setInsideCodeLine</a> and <a href="#a997869f7ed19a9e8871fcaea7518adc9">~CCodeParser</a>.
+Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>, <a href="#af6a8bc3a1f0f692975cc1fbde99fbbce">insideCodeLine</a>, <a href="#a106ea78aa6382f5b06dbd2563d5b99e4">parseCode</a>, <a href="#a2518a33cb478dee30fe9eeb62a51f3ae">resetCodeParserState</a>, <a href="#a93aa7a5adf58ca0282b3d19f4cdb07b4">setInsideCodeLine</a> and <a href="#a997869f7ed19a9e8871fcaea7518adc9">\~CCodeParser</a>.
 </div>
 </div>
 
@@ -652,7 +659,7 @@ Referenced by <a href="#a53fde266eef5df6e4c65286e04fd739c">CCodeParser</a>, <a h
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/code-h">code.h</a></li>

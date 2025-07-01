@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `LayoutDocEntry` Struct Reference
 
-<p>Base class representing a piece of a documentation page. <a href="#details">More...</a></p>
+Base class representing a piece of a documentation page. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ struct LayoutDocEntry { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Represents of a member declaration list with configurable title and subtitle. <a href="/web-doxygen/docs/api/structs/layoutdocentrymemberdecl/#details">More...</a></p>
+Represents of a member declaration list with configurable title and subtitle. <a href="/web-doxygen/docs/api/structs/layoutdocentrymemberdecl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ struct LayoutDocEntry { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Represents of a member definition list with configurable title. <a href="/web-doxygen/docs/api/structs/layoutdocentrymemberdef/#details">More...</a></p>
+Represents of a member definition list with configurable title. <a href="/web-doxygen/docs/api/structs/layoutdocentrymemberdef/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ struct LayoutDocEntry { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Represents of a piece of a documentation page without configurable parts. <a href="/web-doxygen/docs/api/structs/layoutdocentrysimple/#details">More...</a></p>
+Represents of a piece of a documentation page without configurable parts. <a href="/web-doxygen/docs/api/structs/layoutdocentrysimple/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -157,9 +157,9 @@ struct LayoutDocEntry { ... }
 
 ## Description {#details}
 
-<p>Base class representing a piece of a documentation page.</p>
+Base class representing a piece of a documentation page.
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 
 <div class="doxySectionDef">
 
@@ -183,6 +183,7 @@ struct LayoutDocEntry { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -190,14 +191,14 @@ struct LayoutDocEntry { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">ENTRY_SPECIFICATIONS<a id="a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc95187fc898e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -242,7 +243,8 @@ struct LayoutDocEntry { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -260,7 +262,7 @@ struct LayoutDocEntry { ... }
 </div>
 
 
-References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc95187fc898e">ENTRY&#95;SPECIFICATIONS</a> and <a href="#a26ca17b3f0f887a7901cee4fb81dace2">kind</a>.
+References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc95187fc898e">ENTRY\_SPECIFICATIONS</a> and <a href="#a26ca17b3f0f887a7901cee4fb81dace2">kind</a>.
 </div>
 </div>
 
@@ -283,7 +285,8 @@ References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc9518
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 </div>
 </div>
 
@@ -306,7 +309,8 @@ References <a href="#a89dcbe762ed7e7f7790d8c034cf8ea01a8b09933f91f6a30fe1dbc9518
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 
 Referenced by <a href="#a0a0e7f433c5939509c1b0738740ae618">entryToString</a>.
 </div>
@@ -331,7 +335,8 @@ Referenced by <a href="#a0a0e7f433c5939509c1b0738740ae618">entryToString</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
 </div>
 </div>
 
@@ -339,7 +344,7 @@ Referenced by <a href="#a0a0e7f433c5939509c1b0738740ae618">entryToString</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `formatter` Struct Template Reference
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> <a href="#details">More...</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> <a href="#details">More...</a>
 
 ## Declaration
 
@@ -70,9 +70,9 @@ struct fmt::formatter&lt;EntryType&gt; { ... }
 
 ## Description {#details}
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a>
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxySectionDef">
 
@@ -102,7 +102,8 @@ struct fmt::formatter&lt;EntryType&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,7 @@ struct fmt::formatter&lt;EntryType&gt; { ... }
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/entrytype/#a79fde91d4bd9fbc05e2238b983b8dc18">EntryType::to&#95;string</a>.
+Reference <a href="/web-doxygen/docs/api/classes/entrytype/#a79fde91d4bd9fbc05e2238b983b8dc18">EntryType::to\_string</a>.
 </div>
 </div>
 
@@ -121,7 +122,7 @@ Reference <a href="/web-doxygen/docs/api/classes/entrytype/#a79fde91d4bd9fbc05e2
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/message-h">message.h</a></li>

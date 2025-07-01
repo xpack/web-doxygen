@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>class that provide information about a section. <a href="/web-doxygen/docs/api/classes/sectioninfo/#details">More...</a></p>
+class that provide information about a section. <a href="/web-doxygen/docs/api/classes/sectioninfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -66,7 +66,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>class that represents a list of constant references to sections. <a href="/web-doxygen/docs/api/classes/sectionrefs/#details">More...</a></p>
+class that represents a list of constant references to sections. <a href="/web-doxygen/docs/api/classes/sectionrefs/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -80,7 +80,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>singleton class that owns the list of all sections <a href="/web-doxygen/docs/api/classes/sectionmanager/#details">More...</a></p>
+singleton class that owns the list of all sections <a href="/web-doxygen/docs/api/classes/sectionmanager/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

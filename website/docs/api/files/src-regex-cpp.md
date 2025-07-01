@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a></p>
+Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -60,7 +60,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a></p>
+Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/private/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/private/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -139,7 +139,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -150,7 +151,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### ENABLE&#95;DEBUG {#a432138093c53d7580af9ec5c5dca387f}
+### ENABLE\_DEBUG {#a432138093c53d7580af9ec5c5dca387f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -169,7 +170,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
+Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 

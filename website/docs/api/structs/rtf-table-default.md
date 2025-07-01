@@ -89,7 +89,7 @@ struct Rtf_Table_Default { ... }
 </table>
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
 
 <div class="doxySectionDef">
 
@@ -114,7 +114,8 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -144,7 +145,8 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -174,7 +176,8 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -204,7 +207,8 @@ struct Rtf_Table_Default { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -219,7 +223,7 @@ struct Rtf_Table_Default { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a></li>

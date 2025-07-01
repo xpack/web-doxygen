@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Private` Class Reference
 
-<p><a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object. <a href="#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -468,9 +468,9 @@ class DefinitionImpl::Private { ... }
 
 ## Description {#details}
 
-<p><a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object.</p>
+<a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object.
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -495,7 +495,8 @@ class DefinitionImpl::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -553,7 +554,8 @@ References <a href="#a658c09d0325bde82e4dfb66ed986cfb2">body</a>, <a href="#a45e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -599,7 +601,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -631,7 +634,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -663,7 +667,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -693,7 +698,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -723,7 +729,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -753,7 +760,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -785,7 +793,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -817,7 +826,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -847,7 +857,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -877,7 +888,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -907,7 +919,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -939,7 +952,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -969,7 +983,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1001,7 +1016,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1031,7 +1047,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1063,7 +1080,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1095,7 +1113,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1125,7 +1144,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1157,7 +1177,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1189,7 +1210,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1219,7 +1241,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1251,7 +1274,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1281,7 +1305,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1311,7 +1336,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1341,7 +1367,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1371,7 +1398,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1401,7 +1429,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1431,7 +1460,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1463,7 +1493,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1495,7 +1526,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1525,7 +1557,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1540,7 +1573,7 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a></li>

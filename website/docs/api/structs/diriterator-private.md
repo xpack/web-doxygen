@@ -103,7 +103,7 @@ struct DirIterator::Private { ... }
 </table>
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -133,7 +133,8 @@ struct DirIterator::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -170,7 +171,8 @@ Reference <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -208,7 +210,8 @@ References <a href="#a8dbc8a1f55136e5a84afea93639c85df">ec</a> and <a href="#acc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -238,7 +241,8 @@ References <a href="#a8dbc8a1f55136e5a84afea93639c85df">ec</a> and <a href="#acc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -270,7 +274,8 @@ Referenced by <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -287,7 +292,7 @@ Referenced by <a href="#a2265a6b94a21b384f8c9734ce1098542">Private</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a></li>

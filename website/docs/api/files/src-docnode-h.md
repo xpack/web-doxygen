@@ -69,7 +69,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
+Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -96,7 +96,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/doccompoundnode/#details">More...</a></p>
+Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/doccompoundnode/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -110,7 +110,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a word. <a href="/web-doxygen/docs/api/classes/docword/#details">More...</a></p>
+Node representing a word. <a href="/web-doxygen/docs/api/classes/docword/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -124,7 +124,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a word that can be linked to something. <a href="/web-doxygen/docs/api/classes/doclinkedword/#details">More...</a></p>
+Node representing a word that can be linked to something. <a href="/web-doxygen/docs/api/classes/doclinkedword/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -138,7 +138,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a URL (or email address) <a href="/web-doxygen/docs/api/classes/docurl/#details">More...</a></p>
+Node representing a URL (or email address) <a href="/web-doxygen/docs/api/classes/docurl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -152,7 +152,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a line break. <a href="/web-doxygen/docs/api/classes/doclinebreak/#details">More...</a></p>
+Node representing a line break. <a href="/web-doxygen/docs/api/classes/doclinebreak/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -166,7 +166,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a horizontal ruler. <a href="/web-doxygen/docs/api/classes/dochorruler/#details">More...</a></p>
+Node representing a horizontal ruler. <a href="/web-doxygen/docs/api/classes/dochorruler/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -180,7 +180,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an anchor. <a href="/web-doxygen/docs/api/classes/docanchor/#details">More...</a></p>
+Node representing an anchor. <a href="/web-doxygen/docs/api/classes/docanchor/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -194,7 +194,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a citation of some bibliographic reference. <a href="/web-doxygen/docs/api/classes/doccite/#details">More...</a></p>
+Node representing a citation of some bibliographic reference. <a href="/web-doxygen/docs/api/classes/doccite/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -208,7 +208,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a style change. <a href="/web-doxygen/docs/api/classes/docstylechange/#details">More...</a></p>
+Node representing a style change. <a href="/web-doxygen/docs/api/classes/docstylechange/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -222,7 +222,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a special symbol. <a href="/web-doxygen/docs/api/classes/docsymbol/#details">More...</a></p>
+Node representing a special symbol. <a href="/web-doxygen/docs/api/classes/docsymbol/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -236,7 +236,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an emoji. <a href="/web-doxygen/docs/api/classes/docemoji/#details">More...</a></p>
+Node representing an emoji. <a href="/web-doxygen/docs/api/classes/docemoji/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -250,7 +250,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing some amount of white space. <a href="/web-doxygen/docs/api/classes/docwhitespace/#details">More...</a></p>
+Node representing some amount of white space. <a href="/web-doxygen/docs/api/classes/docwhitespace/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -264,7 +264,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a separator. <a href="/web-doxygen/docs/api/classes/docseparator/#details">More...</a></p>
+Node representing a separator. <a href="/web-doxygen/docs/api/classes/docseparator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -278,7 +278,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a verbatim, unparsed text fragment. <a href="/web-doxygen/docs/api/classes/docverbatim/#details">More...</a></p>
+Node representing a verbatim, unparsed text fragment. <a href="/web-doxygen/docs/api/classes/docverbatim/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -305,7 +305,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an included text block from file. <a href="/web-doxygen/docs/api/classes/docinclude/#details">More...</a></p>
+Node representing an included text block from file. <a href="/web-doxygen/docs/api/classes/docinclude/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -319,7 +319,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a include/dontinclude operator block. <a href="/web-doxygen/docs/api/classes/docincoperator/#details">More...</a></p>
+Node representing a include/dontinclude operator block. <a href="/web-doxygen/docs/api/classes/docincoperator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -333,7 +333,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an item of a cross-referenced list. <a href="/web-doxygen/docs/api/classes/docformula/#details">More...</a></p>
+Node representing an item of a cross-referenced list. <a href="/web-doxygen/docs/api/classes/docformula/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -347,7 +347,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an entry in the index. <a href="/web-doxygen/docs/api/classes/docindexentry/#details">More...</a></p>
+Node representing an entry in the index. <a href="/web-doxygen/docs/api/classes/docindexentry/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -361,7 +361,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an auto List. <a href="/web-doxygen/docs/api/classes/docautolist/#details">More...</a></p>
+Node representing an auto List. <a href="/web-doxygen/docs/api/classes/docautolist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -375,7 +375,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an item of a auto list. <a href="/web-doxygen/docs/api/classes/docautolistitem/#details">More...</a></p>
+Node representing an item of a auto list. <a href="/web-doxygen/docs/api/classes/docautolistitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -389,7 +389,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a simple section title. <a href="/web-doxygen/docs/api/classes/doctitle/#details">More...</a></p>
+Node representing a simple section title. <a href="/web-doxygen/docs/api/classes/doctitle/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -403,7 +403,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an item of a cross-referenced list. <a href="/web-doxygen/docs/api/classes/docxrefitem/#details">More...</a></p>
+Node representing an item of a cross-referenced list. <a href="/web-doxygen/docs/api/classes/docxrefitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -417,7 +417,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an image. <a href="/web-doxygen/docs/api/classes/docimage/#details">More...</a></p>
+Node representing an image. <a href="/web-doxygen/docs/api/classes/docimage/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -470,7 +470,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a dot file. <a href="/web-doxygen/docs/api/classes/docdotfile/#details">More...</a></p>
+Node representing a dot file. <a href="/web-doxygen/docs/api/classes/docdotfile/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -484,7 +484,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a msc file. <a href="/web-doxygen/docs/api/classes/docmscfile/#details">More...</a></p>
+Node representing a msc file. <a href="/web-doxygen/docs/api/classes/docmscfile/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -498,7 +498,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a dia file. <a href="/web-doxygen/docs/api/classes/docdiafile/#details">More...</a></p>
+Node representing a dia file. <a href="/web-doxygen/docs/api/classes/docdiafile/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -512,7 +512,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a uml file. <a href="/web-doxygen/docs/api/classes/docplantumlfile/#details">More...</a></p>
+Node representing a uml file. <a href="/web-doxygen/docs/api/classes/docplantumlfile/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -526,7 +526,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a VHDL flow chart. <a href="/web-doxygen/docs/api/classes/docvhdlflow/#details">More...</a></p>
+Node representing a VHDL flow chart. <a href="/web-doxygen/docs/api/classes/docvhdlflow/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -540,7 +540,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a link to some item. <a href="/web-doxygen/docs/api/classes/doclink/#details">More...</a></p>
+Node representing a link to some item. <a href="/web-doxygen/docs/api/classes/doclink/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -554,7 +554,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a reference to some item. <a href="/web-doxygen/docs/api/classes/docref/#details">More...</a></p>
+Node representing a reference to some item. <a href="/web-doxygen/docs/api/classes/docref/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -568,7 +568,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an internal reference to some item. <a href="/web-doxygen/docs/api/classes/docinternalref/#details">More...</a></p>
+Node representing an internal reference to some item. <a href="/web-doxygen/docs/api/classes/docinternalref/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -582,7 +582,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a Hypertext reference. <a href="/web-doxygen/docs/api/classes/dochref/#details">More...</a></p>
+Node representing a Hypertext reference. <a href="/web-doxygen/docs/api/classes/dochref/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -596,7 +596,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node Html summary. <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#details">More...</a></p>
+Node Html summary. <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -610,7 +610,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node Html details. <a href="/web-doxygen/docs/api/classes/dochtmldetails/#details">More...</a></p>
+Node Html details. <a href="/web-doxygen/docs/api/classes/dochtmldetails/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -624,7 +624,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node Html heading. <a href="/web-doxygen/docs/api/classes/dochtmlheader/#details">More...</a></p>
+Node Html heading. <a href="/web-doxygen/docs/api/classes/dochtmlheader/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -638,7 +638,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a Html description item. <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#details">More...</a></p>
+Node representing a Html description item. <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -652,7 +652,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a Html description list. <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#details">More...</a></p>
+Node representing a Html description list. <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -666,7 +666,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a normal section. <a href="/web-doxygen/docs/api/classes/docsection/#details">More...</a></p>
+Node representing a normal section. <a href="/web-doxygen/docs/api/classes/docsection/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -680,7 +680,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a reference to a section. <a href="/web-doxygen/docs/api/classes/docsecrefitem/#details">More...</a></p>
+Node representing a reference to a section. <a href="/web-doxygen/docs/api/classes/docsecrefitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -694,7 +694,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a list of section references. <a href="/web-doxygen/docs/api/classes/docsecreflist/#details">More...</a></p>
+Node representing a list of section references. <a href="/web-doxygen/docs/api/classes/docsecreflist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -708,7 +708,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an internal section of documentation. <a href="/web-doxygen/docs/api/classes/docinternal/#details">More...</a></p>
+Node representing an internal section of documentation. <a href="/web-doxygen/docs/api/classes/docinternal/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -722,7 +722,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an block of paragraphs. <a href="/web-doxygen/docs/api/classes/docparblock/#details">More...</a></p>
+Node representing an block of paragraphs. <a href="/web-doxygen/docs/api/classes/docparblock/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -736,7 +736,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a simple list. <a href="/web-doxygen/docs/api/classes/docsimplelist/#details">More...</a></p>
+Node representing a simple list. <a href="/web-doxygen/docs/api/classes/docsimplelist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -750,7 +750,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a Html list. <a href="/web-doxygen/docs/api/classes/dochtmllist/#details">More...</a></p>
+Node representing a Html list. <a href="/web-doxygen/docs/api/classes/dochtmllist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -764,7 +764,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a simple section. <a href="/web-doxygen/docs/api/classes/docsimplesect/#details">More...</a></p>
+Node representing a simple section. <a href="/web-doxygen/docs/api/classes/docsimplesect/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -778,7 +778,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a separator between two simple sections of the same type. <a href="/web-doxygen/docs/api/classes/docsimplesectsep/#details">More...</a></p>
+Node representing a separator between two simple sections of the same type. <a href="/web-doxygen/docs/api/classes/docsimplesectsep/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -792,7 +792,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a parameter section. <a href="/web-doxygen/docs/api/classes/docparamsect/#details">More...</a></p>
+Node representing a parameter section. <a href="/web-doxygen/docs/api/classes/docparamsect/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -806,7 +806,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a paragraph in the documentation tree. <a href="/web-doxygen/docs/api/classes/docpara/#details">More...</a></p>
+Node representing a paragraph in the documentation tree. <a href="/web-doxygen/docs/api/classes/docpara/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -820,7 +820,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a parameter list. <a href="/web-doxygen/docs/api/classes/docparamlist/#details">More...</a></p>
+Node representing a parameter list. <a href="/web-doxygen/docs/api/classes/docparamlist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -834,7 +834,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a simple list item. <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#details">More...</a></p>
+Node representing a simple list item. <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -848,7 +848,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML list item. <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#details">More...</a></p>
+Node representing a HTML list item. <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -862,7 +862,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML description data. <a href="/web-doxygen/docs/api/classes/dochtmldescdata/#details">More...</a></p>
+Node representing a HTML description data. <a href="/web-doxygen/docs/api/classes/dochtmldescdata/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -876,7 +876,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML table cell. <a href="/web-doxygen/docs/api/classes/dochtmlcell/#details">More...</a></p>
+Node representing a HTML table cell. <a href="/web-doxygen/docs/api/classes/dochtmlcell/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -890,7 +890,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML table caption. <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#details">More...</a></p>
+Node representing a HTML table caption. <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -904,7 +904,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML table row. <a href="/web-doxygen/docs/api/classes/dochtmlrow/#details">More...</a></p>
+Node representing a HTML table row. <a href="/web-doxygen/docs/api/classes/dochtmlrow/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -918,7 +918,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing a HTML table. <a href="/web-doxygen/docs/api/classes/dochtmltable/#details">More...</a></p>
+Node representing a HTML table. <a href="/web-doxygen/docs/api/classes/dochtmltable/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -932,7 +932,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Node representing an HTML blockquote. <a href="/web-doxygen/docs/api/classes/dochtmlblockquote/#details">More...</a></p>
+Node representing an HTML blockquote. <a href="/web-doxygen/docs/api/classes/dochtmlblockquote/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -946,7 +946,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Root node of a text fragment. <a href="/web-doxygen/docs/api/classes/doctext/#details">More...</a></p>
+Root node of a text fragment. <a href="/web-doxygen/docs/api/classes/doctext/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -960,7 +960,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Root node of documentation tree. <a href="/web-doxygen/docs/api/classes/docroot/#details">More...</a></p>
+Root node of documentation tree. <a href="/web-doxygen/docs/api/classes/docroot/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -995,7 +995,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children">has&#95;method&#95;children&lt;T, typename&gt;</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children">has_method_children&lt;T, typename&gt;</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1008,7 +1008,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has&#95;method&#95;children&lt;T, std::void&#95;t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">has_method_children&lt;T, std::void_t&lt; decltype(std::declval&lt; T &gt;().children())&gt;&gt;</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1026,7 +1026,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing the abstract syntax tree of a documentation block. <a href="/web-doxygen/docs/api/classes/docnodeast/#details">More...</a></p>
+Class representing the abstract syntax tree of a documentation block. <a href="/web-doxygen/docs/api/classes/docnodeast/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1819,7 +1819,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the parent node of a given node <em>n</em> or nullptr if the node has no parent. <a href="#aa08872da61afee56859056e5a0612633">More...</a></p>
+returns the parent node of a given node <em>n</em> or nullptr if the node has no parent. <a href="#aa08872da61afee56859056e5a0612633">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1833,7 +1833,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns the parent node of a given node <em>n</em> or nullptr if the node has no parent. <a href="#ab4feec38265e781de0502142e696763a">More...</a></p>
+returns the parent node of a given node <em>n</em> or nullptr if the node has no parent. <a href="#ab4feec38265e781de0502142e696763a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1850,7 +1850,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>returns true iff <em>v</em> holds one of types passed as template parameters <a href="#a1c1632e37b281677f09baa3acce082cf">More...</a></p>
+returns true iff <em>v</em> holds one of types passed as template parameters <a href="#a1c1632e37b281677f09baa3acce082cf">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1998,7 +1998,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(x)&nbsp;&nbsp;&nbsp;constexpr const char &#42;<a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>(const x &amp;/&#42; n &#42;/) { return #x; }</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(x)&nbsp;&nbsp;&nbsp;constexpr const char \*<a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>(const x &amp;/\* n \*/) { return #x; }</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -2128,7 +2128,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2145,7 +2146,7 @@ toc_max_heading_level: 4
 
 ## Functions
 
-### call&#95;method&#95;children() {#a757dcb2ad9a839e761e6808f8cb51a04}
+### call\_method\_children() {#a757dcb2ad9a839e761e6808f8cb51a04}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2169,7 +2170,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1385 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1385 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2211,7 +2213,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a71dd66dcbef
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1495 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1495 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2253,7 +2256,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmldetails/#a12b425f8cc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2262,7 +2266,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmldetails/#a12b425f8cc
 </div>
 
 
-Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
+Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC\_NODES</a>.
 
 Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 </div>
@@ -2292,7 +2296,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2327,7 +2332,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2362,7 +2368,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2397,7 +2404,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2432,7 +2440,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2467,7 +2476,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2502,7 +2512,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2537,7 +2548,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2572,7 +2584,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2607,7 +2620,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2642,7 +2656,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2677,7 +2692,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2712,7 +2728,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2747,7 +2764,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2782,7 +2800,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2817,7 +2836,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2852,7 +2872,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2887,7 +2908,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2922,7 +2944,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2957,7 +2980,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2992,7 +3016,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3027,7 +3052,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3062,7 +3088,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3097,7 +3124,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3132,7 +3160,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3167,7 +3196,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3202,7 +3232,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3237,7 +3268,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3272,7 +3304,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3307,7 +3340,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3342,7 +3376,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3377,7 +3412,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3412,7 +3448,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3447,7 +3484,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3482,7 +3520,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3517,7 +3556,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3552,7 +3592,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3587,7 +3628,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3622,7 +3664,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3657,7 +3700,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3692,7 +3736,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3727,7 +3772,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3762,7 +3808,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3797,7 +3844,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3832,7 +3880,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3867,7 +3916,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3902,7 +3952,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3937,7 +3988,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3972,7 +4024,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4007,7 +4060,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4042,7 +4096,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4077,7 +4132,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4112,7 +4168,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4147,7 +4204,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4182,7 +4240,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4217,7 +4276,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4252,7 +4312,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4287,7 +4348,8 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1419 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1419 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4300,7 +4362,7 @@ Referenced by <a href="#ae06df9ac205468d82301870dbe23905c">dumpDocNodeList</a>.
 </div>
 
 
-Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
+Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC\_NODES</a>.
 </div>
 </div>
 
@@ -4328,7 +4390,8 @@ Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1451 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1451 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4374,7 +4437,8 @@ References <a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1427 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1427 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4405,11 +4469,11 @@ References <a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>, <a href
 </div>
 
 
-Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
+Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC\_NODES</a>.
 </div>
 </div>
 
-### holds&#95;one&#95;of&#95;alternatives() {#a1c1632e37b281677f09baa3acce082cf}
+### holds\_one\_of\_alternatives() {#a1c1632e37b281677f09baa3acce082cf}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4432,9 +4496,10 @@ Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns true iff <em>v</em> holds one of types passed as template parameters</p>
 
-<p>Definition at line 1366 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+returns true iff <em>v</em> holds one of types passed as template parameters
+
+Definition at line 1366 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4446,7 +4511,7 @@ Reference <a href="#a9a1f232ee7a2138f67140f80ce7c6628">DOC&#95;NODES</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/structs/details/impl/#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds&#95;one&#95;of&#95;alternatives</a>.
+Reference <a href="/web-doxygen/docs/api/structs/details/impl/#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds\_one\_of\_alternatives</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a0f227199a40c25549528bd2f6a721483">determineIfNeedsTag</a>, <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a64abc1e2247e925f2abbdd81045b8e08">getParagraphContext</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa2c5d961b9ad326122481acacc033172">LatexDocVisitor::isTableNested</a>, <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a86acf8b4839daaae86b0a90ca98767b8">mustBeOutsideParagraph</a> and <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>.
 </div>
@@ -4474,9 +4539,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a0f22
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the parent node of a given node <em>n</em> or nullptr if the node has no parent.</p>
 
-<p>Definition at line 1330 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+returns the parent node of a given node <em>n</em> or nullptr if the node has no parent.
+
+Definition at line 1330 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4514,9 +4580,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>returns the parent node of a given node <em>n</em> or nullptr if the node has no parent.</p>
 
-<p>Definition at line 1336 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+returns the parent node of a given node <em>n</em> or nullptr if the node has no parent.
+
+Definition at line 1336 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4555,7 +4622,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4585,7 +4653,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4605,7 +4674,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define DN(x)&nbsp;&nbsp;&nbsp;constexpr const char &#42;<a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>(const x &amp;/&#42; n &#42;/) { return #x; }</td>
+<td class="doxyMemberName">#define DN(x)&nbsp;&nbsp;&nbsp;constexpr const char \*<a href="#ae6d1fdb00451a93f990d0f6206157910">docNodeName</a>(const x &amp;/\* n \*/) { return #x; }</td>
 </tr>
 </table>
 </td>
@@ -4615,37 +4684,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
 
-<div class="doxyProgramListing">
-
-<div class="doxyCodeLine"><span class="doxyLineNumber"><a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">58</a></span><span class="doxyLineContent"><span class="doxyHighlightPreprocessor">#define DN(x) class x;</span></span></div>
-
-</div>
-
-</div>
-</div>
-
-### DN {#a6de37e0933d92bb91fcdc1b70ef32e2b}
-
-<div class="doxyMemberItem">
-<div class="doxyMemberProto">
-<table class="doxyMemberLabels">
-<tr class="doxyMemberLabels">
-<td class="doxyMemberLabelsLeft">
-<table class="doxyMemberName">
-<tr>
-<td class="doxyMemberName">#define DN(x)&nbsp;&nbsp;&nbsp;#x</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-</div>
-<div class="doxyMemberDoc">
-
-
-<p>Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4675,7 +4715,39 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+
+<div class="doxyProgramListing">
+
+<div class="doxyCodeLine"><span class="doxyLineNumber"><a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">58</a></span><span class="doxyLineContent"><span class="doxyHighlightPreprocessor">#define DN(x) class x;</span></span></div>
+
+</div>
+
+</div>
+</div>
+
+### DN {#a6de37e0933d92bb91fcdc1b70ef32e2b}
+
+<div class="doxyMemberItem">
+<div class="doxyMemberProto">
+<table class="doxyMemberLabels">
+<tr class="doxyMemberLabels">
+<td class="doxyMemberLabelsLeft">
+<table class="doxyMemberName">
+<tr>
+<td class="doxyMemberName">#define DN(x)&nbsp;&nbsp;&nbsp;#x</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div class="doxyMemberDoc">
+
+
+
+Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4705,7 +4777,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4716,7 +4789,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4735,7 +4808,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4746,7 +4820,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4765,7 +4839,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4776,7 +4851,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4795,7 +4870,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4806,7 +4882,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4825,7 +4901,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1418 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1418 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4836,7 +4913,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4855,7 +4932,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4866,7 +4944,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DN&#95;SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
+### DN\_SEP {#aac3b8854dead0ba7c6a9e83d49b7d945}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4885,7 +4963,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1436 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 1436 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4896,7 +4975,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 </div>
 </div>
 
-### DOC&#95;NODES {#a9a1f232ee7a2138f67140f80ce7c6628}
+### DOC\_NODES {#a9a1f232ee7a2138f67140f80ce7c6628}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -4915,26 +4994,27 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">/&#42;  0 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docword">DocWord</a>)           <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclinkedword">DocLinkedWord</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docurl">DocURL</a>)            <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclinebreak">DocLineBreak</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochorruler">DocHorRuler</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42;  5 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docanchor">DocAnchor</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doccite">DocCite</a>)          <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docstylechange">DocStyleChange</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsymbol">DocSymbol</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docemoji">DocEmoji</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 10 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docwhitespace">DocWhiteSpace</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docseparator">DocSeparator</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docverbatim">DocVerbatim</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinclude">DocInclude</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docincoperator">DocIncOperator</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 15 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docformula">DocFormula</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docindexentry">DocIndexEntry</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docautolist">DocAutoList</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docautolistitem">DocAutoListItem</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doctitle">DocTitle</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 20 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docxrefitem">DocXRefItem</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docimage">DocImage</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docdotfile">DocDotFile</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docmscfile">DocMscFile</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docdiafile">DocDiaFile</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 25 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docvhdlflow">DocVhdlFlow</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclink">DocLink</a>)          <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docref">DocRef</a>)            <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinternalref">DocInternalRef</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochref">DocHRef</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 30 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlheader">DocHtmlHeader</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldesctitle">DocHtmlDescTitle</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldesclist">DocHtmlDescList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsection">DocSection</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsecrefitem">DocSecRefItem</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 35 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsecreflist">DocSecRefList</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinternal">DocInternal</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparblock">DocParBlock</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplelist">DocSimpleList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmllist">DocHtmlList</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 40 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplesect">DocSimpleSect</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplesectsep">DocSimpleSectSep</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparamsect">DocParamSect</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docpara">DocPara</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparamlist">DocParamList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 45 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplelistitem">DocSimpleListItem</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmllistitem">DocHtmlListItem</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldescdata">DocHtmlDescData</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlcell">DocHtmlCell</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlcaption">DocHtmlCaption</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 50 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlrow">DocHtmlRow</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmltable">DocHtmlTable</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlblockquote">DocHtmlBlockQuote</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doctext">DocText</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docroot">DocRoot</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a>   \
-/&#42; 55 &#42;/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldetails">DocHtmlDetails</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlsummary">DocHtmlSummary</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN&#95;SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docplantumlfile">DocPlantUmlFile</a>)                                                                      \
+<div class="doxyVerbatim">/\*  0 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docword">DocWord</a>)           <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclinkedword">DocLinkedWord</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docurl">DocURL</a>)            <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclinebreak">DocLineBreak</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochorruler">DocHorRuler</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\*  5 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docanchor">DocAnchor</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doccite">DocCite</a>)          <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docstylechange">DocStyleChange</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsymbol">DocSymbol</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docemoji">DocEmoji</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 10 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docwhitespace">DocWhiteSpace</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docseparator">DocSeparator</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docverbatim">DocVerbatim</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinclude">DocInclude</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docincoperator">DocIncOperator</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 15 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docformula">DocFormula</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docindexentry">DocIndexEntry</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docautolist">DocAutoList</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docautolistitem">DocAutoListItem</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doctitle">DocTitle</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 20 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docxrefitem">DocXRefItem</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docimage">DocImage</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docdotfile">DocDotFile</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docmscfile">DocMscFile</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docdiafile">DocDiaFile</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 25 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docvhdlflow">DocVhdlFlow</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doclink">DocLink</a>)          <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docref">DocRef</a>)            <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinternalref">DocInternalRef</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochref">DocHRef</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 30 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlheader">DocHtmlHeader</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldesctitle">DocHtmlDescTitle</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldesclist">DocHtmlDescList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsection">DocSection</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsecrefitem">DocSecRefItem</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 35 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsecreflist">DocSecRefList</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docinternal">DocInternal</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparblock">DocParBlock</a>)       <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplelist">DocSimpleList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmllist">DocHtmlList</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 40 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplesect">DocSimpleSect</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplesectsep">DocSimpleSectSep</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparamsect">DocParamSect</a>)      <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docpara">DocPara</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docparamlist">DocParamList</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 45 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docsimplelistitem">DocSimpleListItem</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmllistitem">DocHtmlListItem</a>)  <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldescdata">DocHtmlDescData</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlcell">DocHtmlCell</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlcaption">DocHtmlCaption</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 50 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlrow">DocHtmlRow</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmltable">DocHtmlTable</a>)     <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlblockquote">DocHtmlBlockQuote</a>) <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/doctext">DocText</a>)         <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docroot">DocRoot</a>)        <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a>   \
+/\* 55 \*/  <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmldetails">DocHtmlDetails</a>)    <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/dochtmlsummary">DocHtmlSummary</a>)   <a href="#aac3b8854dead0ba7c6a9e83d49b7d945">DN\_SEP</a> <a href="#a6de37e0933d92bb91fcdc1b70ef32e2b">DN</a>(<a href="/web-doxygen/docs/api/classes/docplantumlfile">DocPlantUmlFile</a>)                                                                      \
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 

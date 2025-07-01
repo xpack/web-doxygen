@@ -91,7 +91,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g&#95;emojiEntities</a>)/sizeof(&#42;<a href="#a8b86138452dd158fe6335f581a491596">g&#95;emojiEntities</a>)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)/sizeof(\*<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -104,7 +104,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a> = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g&#95;emojiCompatibilityEntities</a>)/sizeof(&#42;<a href="#a872534923eff1e9e95b0816e9f2a30b7">g&#95;emojiCompatibilityEntities</a>)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a> = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)/sizeof(\*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -122,7 +122,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### g&#95;emojiCompatibilityEntities {#a872534923eff1e9e95b0816e9f2a30b7}
+### g\_emojiCompatibilityEntities {#a872534923eff1e9e95b0816e9f2a30b7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -146,27 +146,28 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">=
 {
-  {":blonde&#95;man:",                            ":blond&#95;haired&#95;man:"},
-  {":person&#95;frowning:",                       ":frowning&#95;person:"},
-  {":person&#95;with&#95;blond&#95;hair:",                ":blond&#95;haired&#95;person:"},
-  {":person&#95;with&#95;pouting&#95;face:",              ":pouting&#95;face:"},
+  {":blonde\_man:",                            ":blond\_haired\_man:"},
+  {":person\_frowning:",                       ":frowning\_person:"},
+  {":person\_with\_blond\_hair:",                ":blond\_haired\_person:"},
+  {":person\_with\_pouting\_face:",              ":pouting\_face:"},
 }
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 1953 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+Definition at line 1953 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
 </div>
 </div>
 
-### g&#95;emojiEntities {#a8b86138452dd158fe6335f581a491596}
+### g\_emojiEntities {#a8b86138452dd158fe6335f581a491596}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -190,13 +191,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1941 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
+Definition at line 1941 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a1b6d7e3d1f82adf44c46fdd82d11b2f8">EmojiEntityMapper::unicode</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
 </div>
 </div>
 
-### g&#95;numEmojiCompatibilityEntities {#a6296d06ea0d5be85d060dac04b76d4f7}
+### g\_numEmojiCompatibilityEntities {#a6296d06ea0d5be85d060dac04b76d4f7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -205,7 +207,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t g_numEmojiCompatibilityEntities = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g&#95;emojiCompatibilityEntities</a>)/sizeof(&#42;<a href="#a872534923eff1e9e95b0816e9f2a30b7">g&#95;emojiCompatibilityEntities</a>)</td>
+<td class="doxyMemberName">const size_t g_numEmojiCompatibilityEntities = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)/sizeof(\*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)</td>
 </tr>
 </table>
 </td>
@@ -220,7 +222,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
+Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -233,7 +236,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 </div>
 </div>
 
-### g&#95;numEmojiEntities {#ad516913e9bf2ae76d996ab575a437b97}
+### g\_numEmojiEntities {#ad516913e9bf2ae76d996ab575a437b97}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -242,7 +245,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t g_numEmojiEntities = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g&#95;emojiEntities</a>)/sizeof(&#42;<a href="#a8b86138452dd158fe6335f581a491596">g&#95;emojiEntities</a>)</td>
+<td class="doxyMemberName">const size_t g_numEmojiEntities = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)/sizeof(\*<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)</td>
 </tr>
 </table>
 </td>
@@ -257,7 +260,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1955 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
+Definition at line 1955 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
 
 <div class="doxyProgramListing">
 

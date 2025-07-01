@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Class representing all files with a certain base name. <a href="/web-doxygen/docs/api/classes/filename/#details">More...</a></p>
+Class representing all files with a certain base name. <a href="/web-doxygen/docs/api/classes/filename/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -66,7 +66,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects. <a href="/web-doxygen/docs/api/classes/filenamelinkedmap/#details">More...</a></p>
+Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects. <a href="/web-doxygen/docs/api/classes/filenamelinkedmap/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

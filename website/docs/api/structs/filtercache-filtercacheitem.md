@@ -58,7 +58,7 @@ struct FilterCache::FilterCacheItem { ... }
 </table>
 
 
-<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct FilterCache::FilterCacheItem { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -115,7 +116,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
+Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -132,7 +134,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f3
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a></li>

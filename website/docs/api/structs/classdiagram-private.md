@@ -77,7 +77,7 @@ struct ClassDiagram::Private { ... }
 </table>
 
 
-<p>Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -107,7 +107,8 @@ struct ClassDiagram::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +146,8 @@ References <a href="#af0ce06942397a9d84a8f8a9273a3081a">base</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1042 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 1042 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +179,8 @@ Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
+Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +197,7 @@ Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a></li>

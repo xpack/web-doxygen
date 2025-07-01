@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlEntityMapper` Class Reference
 
-<p>Singleton helper class to map html entities to other formats. <a href="#details">More...</a></p>
+Singleton helper class to map html entities to other formats. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -111,7 +111,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Give code of the requested HTML entity name. <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">More...</a></p>
+Give code of the requested HTML entity name. <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -125,7 +125,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the UTF8 code of the HTML entity. <a href="#ad8a01097bbc33683b24dc0ddd198f958">More...</a></p>
+Access routine to the UTF8 code of the HTML entity. <a href="#ad8a01097bbc33683b24dc0ddd198f958">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -139,7 +139,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the html code of the HTML entity. <a href="#aea40dae4575be9010f2ea950206a6f57">More...</a></p>
+Access routine to the html code of the HTML entity. <a href="#aea40dae4575be9010f2ea950206a6f57">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -153,7 +153,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the XML code of the HTML entity. <a href="#a6359802a6779aa5f0245357d974c3bd1">More...</a></p>
+Access routine to the XML code of the HTML entity. <a href="#a6359802a6779aa5f0245357d974c3bd1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -167,7 +167,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the docbook code of the HTML entity. <a href="#acfca10f028c7820564bbd80728898a79">More...</a></p>
+Access routine to the docbook code of the HTML entity. <a href="#acfca10f028c7820564bbd80728898a79">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -181,7 +181,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the LaTeX code of the HTML entity. <a href="#a401769ae867a274591c49695c3a819f0">More...</a></p>
+Access routine to the LaTeX code of the HTML entity. <a href="#a401769ae867a274591c49695c3a819f0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -195,7 +195,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the man code of the HTML entity. <a href="#ae69bb690ab38e84854b912b68e71cf79">More...</a></p>
+Access routine to the man code of the HTML entity. <a href="#ae69bb690ab38e84854b912b68e71cf79">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -209,7 +209,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the RTF code of the HTML entity. <a href="#a9e02cf0591dcb069b71e93f3e827a36c">More...</a></p>
+Access routine to the RTF code of the HTML entity. <a href="#a9e02cf0591dcb069b71e93f3e827a36c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -223,7 +223,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Access routine to the perl struct with the perl code of the HTML entity. <a href="#a56d4e0e2e83a943ea25985c0792f71b0">More...</a></p>
+Access routine to the perl struct with the perl code of the HTML entity. <a href="#a56d4e0e2e83a943ea25985c0792f71b0">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -256,7 +256,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Routine to check if the entries of the html_entities are numbered correctly. <a href="#ac80b42ee1d05037eed6e1c88bc844ece">More...</a></p>
+Routine to check if the entries of the html\_entities are numbered correctly. <a href="#ac80b42ee1d05037eed6e1c88bc844ece">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -295,7 +295,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Returns the one and only instance of the HTML entity mapper. <a href="#a9170301bb5ed20abd90f396a53e3e1f7">More...</a></p>
+Returns the one and only instance of the HTML entity mapper. <a href="#a9170301bb5ed20abd90f396a53e3e1f7">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -325,9 +325,9 @@ class HtmlEntityMapper { ... }
 
 ## Description {#details}
 
-<p>Singleton helper class to map html entities to other formats.</p>
+Singleton helper class to map html entities to other formats.
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxySectionDef">
 
@@ -351,6 +351,7 @@ class HtmlEntityMapper { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -358,69 +359,69 @@ class HtmlEntityMapper { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_unknown<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489"></a></td>
-<td class="doxyEnumItemDescription"><p> (= 0)</p></td>
+<td class="doxyEnumItemDescription"> (= 0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_string<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a24b7e499fed26aa3b8bcb1ebe3f66baa"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_char<a id="a4911b3c9af98290f7ee0696fc2c8a6a3ad04402fe2918b7724f6516397fa0d1a3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_symbol<a id="a4911b3c9af98290f7ee0696fc2c8a6a3ac53b4e827b1f114aa86816a09ad0957f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_umlaut<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a0a746987126a0652f79f06fadae9cffd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_acute<a id="a4911b3c9af98290f7ee0696fc2c8a6a3afedd610e97f6262280751ca949693d82"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_grave<a id="a4911b3c9af98290f7ee0696fc2c8a6a3aab7eb5ca6b0f7f32246afe98f093c77c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_circ<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a20f5cf2207ec7f589aa4549967177903"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_slash<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a506894a243e06e65383f6b5bb9035944"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_tilde<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a1f7beea596e018c2e12fcd34bb923214"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_cedilla<a id="a4911b3c9af98290f7ee0696fc2c8a6a3a2559915a1e26ef534de86d474925e6ed"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Perl_ring<a id="a4911b3c9af98290f7ee0696fc2c8a6a3af7748fc167a6ee4dbf84a122ee9d40a3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -452,6 +453,7 @@ class HtmlEntityMapper { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -459,1374 +461,1374 @@ class HtmlEntityMapper { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Unknown<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f"></a></td>
-<td class="doxyEnumItemDescription"><p> (= -1)</p></td>
+<td class="doxyEnumItemDescription"> (= -1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_nbsp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadbf07f59ac6dd9b95d62f8ef9774df54"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_iexcl<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa68c10a4622a7cbb71f2ec823da85b5b5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_cent<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa93724454fe23441fce7cf021f5f5c541"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_pound<a id="a5fa49b07f0b74254ab5bd5b18474d7dfafe7250dea3cd2297c57f7e04d38ab6fe"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_curren<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6807b262b87437bbbe9362cfa48725a1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_yen<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa009456a9fdac8fdc842094eca794fb5f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_brvbar<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaedc86f6537b72e15f91e60bab75deabd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sect<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1c180347c8be4c00c38af3592b3cf026"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_uml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa463a4f287863938d7be46ffa56e86d1e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_copy<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3227545d490d9698132a2ece32d7740e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ordf<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9b54c6eecb1d5af3019891b2106e47a4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_laquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa155821304bb2f964f603caa8c9c2dfb1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_not<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac882d6b7f69cfe3b8ce25848a3e42d5b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_shy<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa810f3a162d144a42a122053e976f0171"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_reg<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5557d19c8d1c1ff6ff78448fdd747913"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_macr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1e5e9df75acb9275703afa0a982068ab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_deg<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae868c47d7f176c2eb97d386d47c4c2f2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_plusmn<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2973fd0cd9422dd855e8b23f39ac3b27"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sup2<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa51c2f07be2ba378eb14297632be7e652"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sup3<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa74285286592e8b53f0d3cb44f85c16d2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_acute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf8840ed4bcdcf8306c3c4237835dc97b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_micro<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac69361995d9ea410cb8a952325172f79"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_para<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa77fbafccce0153cc408ea0f3ec2da222"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_middot<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac4a38c60d178277f1c1ae81bba90a54c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_cedil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa275c92c919d9d5468d35818b2ae466db"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sup1<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0f526bfc6f3b54978faa228792d76350"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ordm<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa79f18ab70256445f9f5fe44f9db7368b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_raquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf24ddc3c4aa78bec7dc42b770dec614b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_frac14<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa64d2cffb62023619ac7bbbcb51dda2c8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_frac12<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab1b913b9900383f804c6d97ca40a2a24"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_frac34<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadbb621a01db93ede733ebd125ddb37b6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_iquest<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa591d734c54de37a25a7c03fd9687bc90"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Agrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa9a810d6db4ef8d688671e0a4bc01de9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Aacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3e183f9aecd05984816a60b95d41ba76"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Acirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaede6fd42339cc67835bbee7eee3b31fa"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Atilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0600309b5954f6748f57a1aa3ec0e82f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Auml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfada8bcd5fcf322c1704ab42118b1cd847"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Aring<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3a20868abd7a7969c9a2c6513a69f204"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_AElig<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa324b2f6ff54dd4a14a97bd942b3b3bcc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ccedil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa35c5946f2c1d6dc703d6464da000fc32"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Egrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4c472c4e703c715f39f475af051182fd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Eacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0c3658ee1d3c4dd33c33caf3df8c3be6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ecirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0e4f1d72e590600d993c6b4e42150b5b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Euml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa11865b3ca833cf00f2017e09bd10e65d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Igrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2056cf4b994e7015f77383b08cf24de3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Iacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa825073ca49b848bfacc3708d31bac6cc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Icirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac20aed748e18b7b71cfbcb6a5fcdbbbb"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Iuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0cdb2ffcbc3f6a74db6506f053cb9100"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ETH<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab6ae3557d2aa1e37a35d3a470320d594"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ntilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9ad2ce8547fae73d54eb70c966bb147e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ograve<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5a1ac942329934819bb5ae48d782c558"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Oacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac436d3438120291f612b9ef50ba5aae4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ocirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4b3a87f2c2f3cbc00103d0d98ab06c11"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Otilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad2b6fe95d945fb8b2064f43142856387"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ouml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa156440cff15651158bfaf1dd111f2942"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_times<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa61237017e187b678fa480a84ff591956"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Oslash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa711ab2071c62f4953b4fc0289f28e5b7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ugrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa43fab0cd9235a333e997990afa292618"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Uacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf487b7c0d8abb346bd0d50c2bad176b7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Ucirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8c53981bbdb1da8a288e73fc391dc5b6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Uuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa849f2a219ee9a7a925563cc7d2159b14"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Yacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8f1820ef603124c96fc3654659e64a70"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_THORN<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadcc5a9da0e555e8c4dac43c6d52fa7bd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_szlig<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa292caf990628d45d1be2f5a3a361e7a5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_agrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa89d97482bc5df3abaf1ea1ba3d1c96e6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_aacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0b4f3db772bbf3e039c9dfabfd5aafab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_acirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5ae64d10b95a40572e204b5ff021eb65"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_atilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6d23164ec47e48284c6e2b9aa64a63fc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_auml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa554b611760b104b3ccd9dcca34aead21"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_aring<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae8b4856ddf339c085bedcf21ce61f20f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_aelig<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab7dc51cca013d2b7d18f9b3826f1742e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ccedil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7504107ed0bc16ae8a230ca2c9b44cf5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_egrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad215374e498a0a4339f59a416edd2a37"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_eacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae2d1c8419348efc6e4530ee7af5ff69a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ecirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab91711a318d02c61d67517e9a0d00f55"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_euml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa50363c4474aa5d25991d28b8e50d6a99"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_igrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0e274be2346215c36a178a91870b51bd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_iacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfacfa2fa96efe98b328a335766692d2296"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_icirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfada87f1b70189d73eb6498a8399ab2020"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_iuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf69993250771108255caaeb2830e029f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_eth<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1f5bf3646eb303c58adca39a486b7320"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ntilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3ae84d85a5f94cb2bbd300884c239488"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ograve<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab9b92cf0f7cb42f2190cb4a319e4495b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_oacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1f74677f3aaa5c8910a473fddb3fdf8e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ocirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1ca36cd81b81b1f02c6a2d47c065bd16"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_otilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaee8782944ec589c3b8b913b3325c217e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ouml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa66e263fa7c024b96d0f3491e8acfe963"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_divide<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa65b166d2d0ae34a8b1252b3853139289"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_oslash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2b885abb31b7b0459ddb415fb9754926"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ugrave<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa75280ed708bf239ddc8e0a67ff3f0a6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_uacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac4db254edb75fdadf767868750b5ee37"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ucirc<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaff139457b3b4378ba69787a58e3b45bb"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_uuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf6e620340fc0878faf670d1ddce612f4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_yacute<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae09edef94df903d9a63b7e6c1dc85f0e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_thorn<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa49c164125b66b031ab44db48bf0adaa2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_yuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa81a0dccf20bbb8841f163e742451d96f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_fnof<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac3fc8e96593f05f23d3bec33d44d0b70"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Alpha<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa966dee97d75a4adcb98d5e5497507bd4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Beta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaff3cfcd343bdcd1e26ba28f97cabe64d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Gamma<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadd13ab482b6adc6b1fb7fae299b92e34"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Delta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa444bcc62b8ff41f8fc79ea40568f1e2b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Epsilon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa339f0da21be0685dcc067983707529be"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Zeta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad75184b4f30cfca8c430dd319585e2ae"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Eta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae1a3ca12f104f84feca455a98beb9b5e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Theta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa44490d950ba26526c960048fb8ef5372"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Iota<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac35b52d062cdc8466e73c794bd83868a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Kappa<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa207540c85e21dd3eca4a1ebdd8b69987"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Lambda<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa822da5b8d36798acac10dbb507b60b5f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Mu<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8a5342be0613e8e638b8bb622ff5f814"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Nu<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4dc3801719cf9f2c91e190dea960a71e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Xi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab2c479beb0b3dfcc5159648484f7d1d6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Omicron<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa17cfffa6581fb4819982e1ac9b2125e8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Pi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa0245937c6e3c698b79de0eca1965339"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Rho<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6e67dab089f6ab8494ef43a7005948a7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Sigma<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa901abfc56df0a23313b7fe4a582a138a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Tau<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4d469c91cf171349c3113b9460a6d432"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Upsilon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa13c0ea2505ca7294e51b568e9de6cd38"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Phi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9d2b3ff7b819673105e1a3f28637e878"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Chi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa211e96a3ca0d84f0a8575dfcd0113ec5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Psi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4024836b44f7905a9fcb879728490054"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Omega<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa575989ed18c6034e3fb1730268ea4e8e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_alpha<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0b9796c7d51e75570aec57b0d047308b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_beta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9b6f572ee040aff6c9f1eddbb618a4e9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_gamma<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8d18b842431f9ade0db252afceea42f2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_delta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa60b0c548b4cb69085cd34bf7fc85d5bc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_epsilon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5bd77e261e5e41851a259a81ac71f825"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_zeta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7f6aba1e6b6585492d9f5c121e6f8813"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_eta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf87f82d5f3d49f677ce5ea9935ea2eb5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_theta<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa43c0a2f166dad141aa6961e4291ddb4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_iota<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2202cd8c26b6784f77ca2a1bbe57be17"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_kappa<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa98df412747b5016a43f6e5aaab0cd7dd"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lambda<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3b668e2ec7c18a865f23213e23ff5058"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_mu<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa327b8d93126328584e24cafeb6afedb5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_nu<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa653d16d8aded548ce2368ec38bd5464c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_xi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa32bbf322de44ac230353874bb9a637c2"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_omicron<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac93fd93b9bae622f71ea929c6a032c8a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_pi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa040c17a176783933e11dbf9e78a5cf87"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rho<a id="a5fa49b07f0b74254ab5bd5b18474d7dfacaf2eb737f05b453dc820fad46b01bee"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sigmaf<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf7d0a4e4c95a6ee9275d55baa9caa9a6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sigma<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa800a9b2c96f6c8eab3b3a3f43545762e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_tau<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaaceb857ae751c2120c1131b05c4ca8d7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_upsilon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaaec3a78aa385aad722309296ce365ad9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_phi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7fecfd3d34bfd4bd018beb666451a7eb"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_chi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4ec8762e59bc43531e25361498d85225"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_psi<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8fda794d3ae515fd7d683e631b5bea84"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_omega<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa879514ab10612b7642eca4a0f8234e8c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_thetasym<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac11e62bbb41602e46b3a542418206391"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_upsih<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae5490d1cd72bd96eb7d1ffd800e069b7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_piv<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6bb55b21bbdf4d07acb4f64e8e6bfc18"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_bull<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7b07c51331df710bf1bf7b5337ca1bde"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_hellip<a id="a5fa49b07f0b74254ab5bd5b18474d7dfabe3a4b370f16ef5514037ffd5dba2835"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_prime<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2ea15fb91c2c2b5578d80994a4511257"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Prime<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa48caa9cf561b8cfc77fb7810a49a168d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_oline<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf426fa3135b6fad19db2b716b62914c1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_frasl<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6519990364bb3edd6f296b713f220a4d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_weierp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab9924b00ba145fb5916b3b4bec71f61e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_image<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadf51691d90d44f2cd6c833afb8339e76"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_real<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad448b50ef60db950fbe018021db1f35e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_trade<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae6f0e647dc49fcc889011dac86c052b5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_alefsym<a id="a5fa49b07f0b74254ab5bd5b18474d7dfafa5c64b20099593c23b5eb86722e50a8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_larr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa15eb8d91e7f9f6bb3115d9d36b63e9c8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_uarr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa27679887d8552ba2443448b70452a674"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rarr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab64775696bd13f3653c77cb53a511338"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_darr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa4218a9be4ed7d9c4dabcdd01e9f9697"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_harr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaec6474ed2f1adc1c86d32994fdf13f9d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_crarr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5affdeb4661ed0ccbe626fe39b9a10ca"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lArr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa59c1ed810e91513796fecaa70d9a6fd4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_uArr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2f20e2c97aabdaae64d73e3b5ab91c2b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rArr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0c8862282fb6abb488defffe8a4dafdc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_dArr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9d4a51bbd4fb89d8c93fe75fd696ec65"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_hArr<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa97171b2668d86651791e68942278f2aa"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_forall<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0ea679ef6102eccd87b0d487026be0c8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_part<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3fd8bb1700d69e06086a793ea19e7474"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_exist<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7dd89f60a0b6de48df4906118f8cb83c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_empty<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8202dba10ccfc617bfaa856d1b68ff64"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_nabla<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad2227e0e8a356ce6ef77afc4fdee3961"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_isin<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa2eb68558ff6d50b97f6e62aaaf0c68c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_notin<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf0cc7dca7d5f329dfc96a74e92259f0c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ni<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac3d32aef8085d4db31ffb84a5e1b0c04"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_prod<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac932e5465e6fecc72831de1fab948eb0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sum<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa97da911d143378cc551c3d489a9aea5a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_minus<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab4c8d41134ec3b4dc23e8cd7a8cb3db5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lowast<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa72d1df2ddc7f3990a0058b3c06efc16c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_radic<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa30980dc124faca3253d926299ae3b13e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_prop<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa5beb281fe13f737ba4b5ef85167beac"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_infin<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaeffa824142b94a508152d8cdcf0cad53"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ang<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa976377247b761cad16c26ce5563e6ace"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_and<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa187cb51b1abd38001f63a82bc0d9d06a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_or<a id="a5fa49b07f0b74254ab5bd5b18474d7dfad0a693dee518d5a780d2a71faabce2b7"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_cap<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2e51571c817c48f8b90cff37508d82bb"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_cup<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac0cdf2126620ea894127a3f13ae82995"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_int<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1be79f9625518325774fb737d0202868"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_there4<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2ccf2b8b954edaa18610f6fe77cf2dd6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sim<a id="a5fa49b07f0b74254ab5bd5b18474d7dfabedd44d547ab1003cc07417b72d9405c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_cong<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae147b3b00a8e8ed80961b44a19eef305"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_asymp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa48619657b4f901af490d740e4f847514"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ne<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa260dbbda2487f061098bc3036a49ab13"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_equiv<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa4f86f09ab5b6ef88a1268a6a0a08be3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_le<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3ce525ff1dda1f956b36d8ce20f76984"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ge<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa3088fb5a0aa494b86602711dec45a3c9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sub<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa97e2ad2429cf2ce6f78ac57386d815a5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sup<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa58e1d46efeab7255e3e815634b69247e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_nsub<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1d9b3c318d86aa45f52e6107399e0c3c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sube<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac0f924a87e3d5f13a8da362f6a3c01c1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_supe<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa61ba58cd49027191bba21035d98f2be9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_oplus<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab929e40d2fc8321508a510ca17d19b9c"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_otimes<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa026b4ca9e57c89bc2ba936f76638b22d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_perp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa61534a7b5bf090ed79d69685733865df"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sdot<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa098ce1aca1e207f187b56dc5d3557925"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lceil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9b8510c7258472dea0d2993d9df7c154"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rceil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf42b331eba72529aea9dd8e5c4964a44"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lfloor<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf036272bb3b1024a75e1ac40a34cdacc"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rfloor<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa774628950a61460f3eb9122746d5ca11"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lang<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6a3b1b377f5db77f65351e544f356a74"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rang<a id="a5fa49b07f0b74254ab5bd5b18474d7dfabbcd866426cb76edd844f8cd2378b1af"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_loz<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa76552aaf14d91aa32b85ea853fd7174e"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_spades<a id="a5fa49b07f0b74254ab5bd5b18474d7dfafeaf52bda33baf477c4a56f97fc508e8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_clubs<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa900b126939925585720ba8d2584989c0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_hearts<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa5933a1de741b579420604c979fe89b3b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_diams<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa48860fbcc2edbe1a34605494265c83af"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_quot<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0da7644128d35fb8c641b144a43d34d1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_amp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac9d9895b648ff978ae94a11f9769fa07"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lt<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa59d844f331ab9ef2ea09969bd1fe49c3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_gt<a id="a5fa49b07f0b74254ab5bd5b18474d7dfab130e51b5fae965ad89d2ad2aec5fd55"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_OElig<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4fd79fe0a88e6225a6b8c3b5e7edbbac"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_oelig<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac0883defdd457fc3dc87dba19693fe7a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Scaron<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa92a76f5b39acc180c5d1d97118f3d3e8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_scaron<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaacf8b703bda409c8c9a599326ac043ab"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Yuml<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa948ef789ad88c5a32fbe5cb453e8f930"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_circ<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1bca23a76f1cfcdab0a84a5eba5f7ae8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_tilde<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8ce686ba7e0ad16b0971f4151b45a6a6"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ensp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa568a5b8cb4a9ea661c9d93f6b64cb1b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_emsp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa6a242d90de91e2f5603b9b445c0c2305"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_thinsp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa55e0e0c0fab34c744def93316ee04bcf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_zwnj<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa9a9e7c91cabe621bbf93fd2e537e62bf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_zwj<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa35ac591ee824276ce27812ef9f45aef1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lrm<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa005c3f8cc9b939256fc3439fcc442fda"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rlm<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa236af46b263d42c50c41fdaea2b48371"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ndash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfacd0a3112ce91c54e19fcf8d9ea6bcb4a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_mdash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaecc5d1f433c30fe90106c8066d345a34"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lsquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae9ce1423dfae39a221c4df5f3056f872"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rsquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae13a5745a902e5d1cbb2289bc5c8bca5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_sbquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae5711de44363c5e639538bc257ab6920"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_ldquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2c87ad26fe550a1d72d67d37702efb11"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rdquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfadc8875237c61592838eb3add21fd79bf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_bdquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaa5a7988f0ded24760549a3f45913ffa5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_dagger<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaff655367505855f3cdf2768be2cc2d89"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Dagger<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac68c43bd2e002a1f995272fbcacd8870"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_permil<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8fb32019048d2e6edda7206024094c58"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_lsaquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa4fc591d593859e3c85e0c8dcb017ee09"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_rsaquo<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa0cfe0a6fee085b925fe6a74c9c1e3f86"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_euro<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa2990128b698fa3bca4b57c795701316a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_tm<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa319d09480eab712a1382b506cfdb8265"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_apos<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7c965001eaf24f767fd6459378117aa3"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_BSlash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaea255b976fa03c5130fa92fd22ec6e3b"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_At<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa7cc15e3151231a2120a68b108d2807a5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Less<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa1a8b38abfbed7b9cb11b7228b43c4cd0"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Greater<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa735e88daf2b0be93495e85e89e06de44"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Amp<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae7bb3cd758b8df439d9bcbe7ac787f4d"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Dollar<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa648856a842f6bdcd5b8486a79d306e0f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Hash<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaaafb21b517e5aea3ffe901907c8f3355"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_DoubleColon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8efb751ac50c34d457c8fc827ef55eb9"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Percent<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Pipe<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaaf204a8bef3862d9ddddf384b74a62b1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Quot<a id="a5fa49b07f0b74254ab5bd5b18474d7dfacc4e69acbf92aa382154f7e1451eeb10"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Minus<a id="a5fa49b07f0b74254ab5bd5b18474d7dfaf8a3a429e59ffa27cad6c8ee0c528975"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Plus<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae04596de435bc484c107b0133d881e42"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Dot<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa175b5cee6a647c949fb0cf94074ff0d4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Colon<a id="a5fa49b07f0b74254ab5bd5b18474d7dfa31c6bdded6df8a6f268e3dfb79c224cf"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Equal<a id="a5fa49b07f0b74254ab5bd5b18474d7dfae41d37f6c5803503a6a12ab12885c6b8"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Exclam<a id="a5fa49b07f0b74254ab5bd5b18474d7dfac8eb924022c2cca673aa35e558bc27f4"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Sym_Quest<a id="a5fa49b07f0b74254ab5bd5b18474d7dfacb93f1ef109f35c95ef77aa399c99ec1"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1923,7 +1925,8 @@ class HtmlEntityMapper { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
+Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1939,7 +1942,7 @@ class HtmlEntityMapper { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>, <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m&#95;name2sym</a> and <a href="#ac80b42ee1d05037eed6e1c88bc844ece">validate</a>.
+References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>, <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m\_name2sym</a> and <a href="#ac80b42ee1d05037eed6e1c88bc844ece">validate</a>.
 
 Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 </div>
@@ -1951,7 +1954,7 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 
 ## Private Destructor
 
-### ~HtmlEntityMapper() {#a2fb3bfaff647723db532f2dec86d446e}
+### \~HtmlEntityMapper() {#a2fb3bfaff647723db532f2dec86d446e}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1970,7 +1973,8 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
+Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2006,7 +2010,8 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the docbook code of the HTML entity.</p>
+
+Access routine to the docbook code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2015,7 +2020,7 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2024,12 +2029,12 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the docbook code of the HTML entity, in case the docbook code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the docbook code of the HTML entity, in case the docbook code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2041,7 +2046,7 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4fe2669a2bdb78dd0c964af909">DocbookDocVisitor::operator()</a>.
 </div>
@@ -2064,7 +2069,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the html code of the HTML entity.</p>
+
+Access routine to the html code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2073,11 +2079,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useInPrintf</td>
-<td class="doxyParamItemDescription"><p>If TRUE the result will be escaped such that it can be used in a printf string pattern</p></td>
+<td class="doxyParamItemDescription">If TRUE the result will be escaped such that it can be used in a printf string pattern</td>
 </tr>
 </table>
 </dd>
@@ -2086,12 +2092,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the html representation of the HTML entity, in case the html code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the html representation of the HTML entity, in case the html code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2110,7 +2116,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym&#95;Percent</a>.
+References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym\_Percent</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03ae4a8e306dd6e1e98fcd99">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a3af6b81e834fce376849077c0fa6b565">TextDocVisitor::operator()</a>.
 </div>
@@ -2133,7 +2139,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the LaTeX code of the HTML entity.</p>
+
+Access routine to the LaTeX code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2142,7 +2149,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2151,12 +2158,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the LaTeX code of the HTML entity, in case the LaTeX code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the LaTeX code of the HTML entity, in case the LaTeX code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2168,7 +2175,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#abfe122c272f139d98332b7630945da0f">LatexDocVisitor::operator()</a>.
 </div>
@@ -2191,7 +2198,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the man code of the HTML entity.</p>
+
+Access routine to the man code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2200,7 +2208,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2209,12 +2217,12 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the man of the HTML entity, in case the man code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the man of the HTML entity, in case the man code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2226,7 +2234,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345e8311efd7d18827dbe43b">ManDocVisitor::operator()</a>.
 </div>
@@ -2249,7 +2257,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Give code of the requested HTML entity name.</p>
+
+Give code of the requested HTML entity name.
 
 
 <dl class="doxyParamsList">
@@ -2258,7 +2267,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symName</td>
-<td class="doxyParamItemDescription"><p>HTML entity name without <span class="doxyComputerOutput">&amp;</span> and <span class="doxyComputerOutput"></span>;</p></td>
+<td class="doxyParamItemDescription">HTML entity name without <span class="doxyComputerOutput">&amp;</span> and <span class="doxyComputerOutput"></span>;</td>
 </tr>
 </table>
 </dd>
@@ -2267,12 +2276,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the code for the requested HTML entity name, in case the requested HTML item does not exist <span class="doxyComputerOutput">HtmlEntityMapper::Sym_unknown</span> is returned.</p>
+the code for the requested HTML entity name, in case the requested HTML item does not exist <span class="doxyComputerOutput">HtmlEntityMapper::Sym_unknown</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2285,7 +2294,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345
 </div>
 
 
-References <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m&#95;name2sym</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">Sym&#95;Unknown</a>.
+References <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m\_name2sym</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">Sym\_Unknown</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#ad2d60acd5c92da5e2bc0dab925e5c2fa">DocSymbol::decodeSymbol</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>.
 </div>
@@ -2308,7 +2317,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the perl struct with the perl code of the HTML entity.</p>
+
+Access routine to the perl struct with the perl code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2317,7 +2327,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2326,12 +2336,12 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <span class="doxyComputerOutput">symb</span> field and in the <span class="doxyComputerOutput"><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></span> in the <span class="doxyComputerOutput">type</span> field.</p>
+the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <span class="doxyComputerOutput">symb</span> field and in the <span class="doxyComputerOutput"><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></span> in the <span class="doxyComputerOutput">type</span> field.
 </dd>
 </dl>
 
 
-<p>Declaration at line 110 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 110 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2343,7 +2353,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.
 </div>
@@ -2366,7 +2376,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the RTF code of the HTML entity.</p>
+
+Access routine to the RTF code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2375,7 +2386,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2384,12 +2395,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the RTF of the HTML entity, in case the RTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the RTF of the HTML entity, in case the RTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2401,7 +2412,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499bf0458dc938ff66c4724e7">RTFDocVisitor::operator()</a>.
 </div>
@@ -2424,7 +2435,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499b
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the UTF8 code of the HTML entity.</p>
+
+Access routine to the UTF8 code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2433,11 +2445,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499b
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useInPrintf</td>
-<td class="doxyParamItemDescription"><p>If TRUE the result will be escaped such that it can be used in a printf string pattern</p></td>
+<td class="doxyParamItemDescription">If TRUE the result will be escaped such that it can be used in a printf string pattern</td>
 </tr>
 </table>
 </dd>
@@ -2446,12 +2458,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499b
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the UTF8 code of the HTML entity, in case the UTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the UTF8 code of the HTML entity, in case the UTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2470,7 +2482,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499b
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym&#95;Percent</a>.
+References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym\_Percent</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c4825791e03c8103b1ffd167c22">PrintDocVisitor::operator()</a>.
 </div>
@@ -2495,7 +2507,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c482
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
+Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2515,7 +2528,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c482
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>.
 </div>
@@ -2538,7 +2551,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Access routine to the XML code of the HTML entity.</p>
+
+Access routine to the XML code of the HTML entity.
 
 
 <dl class="doxyParamsList">
@@ -2547,7 +2561,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
+<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
 </tr>
 </table>
 </dd>
@@ -2556,12 +2570,12 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>the XML code of the HTML entity, in case the XML code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p>
+the XML code of the HTML entity, in case the XML code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
 </dd>
 </dl>
 
 
-<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2573,7 +2587,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f17b5a95a12d047ed0f4d08">XmlDocVisitor::operator()</a>.
 </div>
@@ -2602,12 +2616,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f1
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Routine to check if the entries of the html_entities are numbered correctly.</p>
+
+Routine to check if the entries of the html\_entities are numbered correctly.
 
 
-<p>in case of a mismatch a warning message is given.</p>
+in case of a mismatch a warning message is given.
 
-<p>Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2627,7 +2642,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g&#95;htmlEntities</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn&#95;uncond</a>.
+References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn\_uncond</a>.
 
 Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
 </div>
@@ -2639,7 +2654,7 @@ Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
 
 ## Private Member Attributes
 
-### m&#95;name2sym {#a95b999cb7f3b3416a6442d4ad4e5deed}
+### m\_name2sym {#a95b999cb7f3b3416a6442d4ad4e5deed}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2658,7 +2673,8 @@ Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2699,9 +2715,10 @@ Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a> 
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Returns the one and only instance of the HTML entity mapper.</p>
 
-<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+Returns the one and only instance of the HTML entity mapper.
+
+Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2726,7 +2743,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 
 ## Private Static Attributes
 
-### s&#95;instance {#afc7e4a21bf45782d679c588b72189e7b}
+### s\_instance {#afc7e4a21bf45782d679c588b72189e7b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2750,7 +2767,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -2765,7 +2783,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a></li>

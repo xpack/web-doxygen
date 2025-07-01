@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Attributes of an edge of a dot graph. <a href="/web-doxygen/docs/api/classes/edgeinfo/#details">More...</a></p>
+Attributes of an edge of a dot graph. <a href="/web-doxygen/docs/api/classes/edgeinfo/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -54,7 +54,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A node in a dot graph. <a href="/web-doxygen/docs/api/classes/dotnode/#details">More...</a></p>
+A node in a dot graph. <a href="/web-doxygen/docs/api/classes/dotnode/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -164,7 +164,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -194,7 +195,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -230,7 +232,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>, definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -257,7 +260,7 @@ toc_max_heading_level: 4
 
 References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9fe392105dac20e1759dcb1d6">common&#95;attributes</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#a3f65f51eefb97cf188587b56115d973a">DotNode::writeBox</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9fe392105dac20e1759dcb1d6">common\_attributes</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#a3f65f51eefb97cf188587b56115d973a">DotNode::writeBox</a>.
 </div>
 </div>
 

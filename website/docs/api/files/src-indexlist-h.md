@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
+Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -54,7 +54,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A list of index interfaces. <a href="/web-doxygen/docs/api/classes/indexlist/#details">More...</a></p>
+A list of index interfaces. <a href="/web-doxygen/docs/api/classes/indexlist/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocImage` Class Reference
 
-<p>Node representing an image. <a href="#details">More...</a></p>
+Node representing an image. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocImage { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/doccompoundnode/#details">More...</a></p>
+Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/doccompoundnode/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -258,9 +258,9 @@ class DocImage { ... }
 
 ## Description {#details}
 
-<p>Node representing an image.</p>
+Node representing an image.
 
-<p>Definition at line 641 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 641 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -284,6 +284,7 @@ class DocImage { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -291,34 +292,34 @@ class DocImage { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Html<a id="aaa49d1dad195745ff9d470c5335be93ea11831c0ddc505e031751197b1bab0623"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Latex<a id="aaa49d1dad195745ff9d470c5335be93eaa40720221c0f30f373e9b3a9ec9711e5"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Rtf<a id="aaa49d1dad195745ff9d470c5335be93eaf742255bd9dc963b18e768c2b7fb7d70"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">DocBook<a id="aaa49d1dad195745ff9d470c5335be93ea725d162f5603b60f365bad17013c5d5a"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Xml<a id="aaa49d1dad195745ff9d470c5335be93ead2e9647950376dfa87071aa9913b703f"></a></td>
-<td class="doxyEnumItemDescription"><p></p></td>
+<td class="doxyEnumItemDescription"></td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -354,7 +355,8 @@ class DocImage { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 645 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1281 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
+Declaration at line 645 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1281 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -401,7 +403,8 @@ References <a href="#a05ea2b5c8166be879cc96e30fa487fb7">attribs</a>, <a href="/w
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -440,7 +443,8 @@ Referenced by <a href="#a888ccf3ed611278566a04614fc48f12a">DocImage</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -479,7 +483,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#aab82ef4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -518,7 +523,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#aab82ef4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -552,7 +558,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a86ac
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 655 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1287 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
+Declaration at line 655 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1287 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -598,7 +605,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -632,7 +640,8 @@ Referenced by <a href="#a888ccf3ed611278566a04614fc48f12a">DocImage</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 657 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1296 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
+Declaration at line 657 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 1296 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -644,7 +653,7 @@ Referenced by <a href="#a888ccf3ed611278566a04614fc48f12a">DocImage</a>, <a href
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doccompoundnode/#aca6bc953ffff9a8773c2b4b0a866442c">DocCompoundNode::children</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a21e038f5b8958e203d28bc4f18472352a50ef1a2484f87e0e789063b64718f9c6">CMD&#95;IMAGE</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415c0c2028d863288599">DocParser::defaultHandleTitleAndSize</a>, <a href="#ac6667b30be9bbd1e5428a743b4f850ec">p</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>.
+References <a href="/web-doxygen/docs/api/classes/doccompoundnode/#aca6bc953ffff9a8773c2b4b0a866442c">DocCompoundNode::children</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a21e038f5b8958e203d28bc4f18472352a50ef1a2484f87e0e789063b64718f9c6">CMD\_IMAGE</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ae88d59b299df415c0c2028d863288599">DocParser::defaultHandleTitleAndSize</a>, <a href="#ac6667b30be9bbd1e5428a743b4f850ec">p</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>.
 </div>
 </div>
 
@@ -672,7 +681,8 @@ References <a href="/web-doxygen/docs/api/classes/doccompoundnode/#aca6bc953ffff
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 652 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 652 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -711,7 +721,8 @@ Referenced by <a href="#a888ccf3ed611278566a04614fc48f12a">DocImage</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -750,7 +761,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmldocvisitor-cpp/#a021d
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -789,7 +801,8 @@ Referenced by <a href="#a888ccf3ed611278566a04614fc48f12a">DocImage</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 650 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 650 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -829,7 +842,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#aab82ef4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
+Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -846,7 +860,7 @@ Referenced by <a href="#a05ea2b5c8166be879cc96e30fa487fb7">attribs</a>, <a href=
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a></li>

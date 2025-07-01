@@ -94,7 +94,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -106,7 +107,7 @@ toc_max_heading_level: 4
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#aabfebc02acd057d5239011aef3275a64">g&#95;aliasInfoMap</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#aabfebc02acd057d5239011aef3275a64">g\_aliasInfoMap</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>.
 </div>
@@ -131,7 +132,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -162,7 +164,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#ad1fa14f7ebd8d6adedcac12a2fb83ae1">addValidAliasToMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config&#95;getList</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#af47739c31cd60617e53ac5a363514817">escapeAlias</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a436ad51276d8a9373fa734742a56fb4f">expandAlias</a> and <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#aabfebc02acd057d5239011aef3275a64">g&#95;aliasInfoMap</a>.
+References <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#ad1fa14f7ebd8d6adedcac12a2fb83ae1">addValidAliasToMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#af47739c31cd60617e53ac5a363514817">escapeAlias</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a436ad51276d8a9373fa734742a56fb4f">expandAlias</a> and <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#aabfebc02acd057d5239011aef3275a64">g\_aliasInfoMap</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>.
 </div>
@@ -187,7 +189,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a162
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
+Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/aliases-h">aliases.h</a>, definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
 
 <div class="doxyProgramListing">
 

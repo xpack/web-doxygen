@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Add stub entries for the most used classes in the standard template library. <a href="#a9e8cfe5b2cd5bf238c936a13169f7e76">More...</a></p>
+Add stub entries for the most used classes in the standard template library. <a href="#a9e8cfe5b2cd5bf238c936a13169f7e76">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -66,7 +66,8 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Add stub entries for the most used classes in the standard template library.</p>
+
+Add stub entries for the most used classes in the standard template library.
 
 
 <dl class="doxyParamsList">
@@ -75,13 +76,13 @@ toc_max_heading_level: 4
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">root</td>
-<td class="doxyParamItemDescription"><p>Root of the entry tree to add the entries to.</p></td>
+<td class="doxyParamItemDescription">Root of the entry tree to add the entries to.</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-h">stlsupport.h</a>, definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.</p>
+Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-h">stlsupport.h</a>, definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp">stlsupport.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -96,7 +97,7 @@ toc_max_heading_level: 4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a95efd6a7d367cd542aa4949c0e5bcdff">addSTLClasses</a> and <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>.
+References <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a95efd6a7d367cd542aa4949c0e5bcdff">addSTLClasses</a> and <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
 </div>

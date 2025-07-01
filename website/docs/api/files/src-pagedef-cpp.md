@@ -123,7 +123,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -158,7 +159,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
+Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -201,7 +203,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a68
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
+Definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
 
 <div class="doxyProgramListing">
 

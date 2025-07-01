@@ -58,7 +58,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>factory function to create a parser <a href="#a7a169cbf0edeed85c90868675799b875">More...</a></p>
+factory function to create a parser <a href="#a7a169cbf0edeed85c90868675799b875">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -264,9 +264,10 @@ toc_max_heading_level: 4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>factory function to create a parser</p>
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+factory function to create a parser
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -301,7 +302,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 2163 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 2163 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -347,9 +349,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b08
 
 
 
-<p>Searches for section and anchor commands in the input Sections found will be added to the <a href="/web-doxygen/docs/api/classes/sectionmanager">SectionManager</a>.</p>
 
-<p>Definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+Searches for section and anchor commands in the input Sections found will be added to the <a href="/web-doxygen/docs/api/classes/sectionmanager">SectionManager</a>.
+
+Definition at line 2176 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -394,7 +397,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8c79cd46ab87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1678 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 1678 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -470,7 +474,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a8c79cd46ab87
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal&#95;at</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a>.
 </div>
@@ -500,7 +504,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1755 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 1755 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -518,7 +523,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 </div>
 
 
-References <a href="#ae818631ff5b78ea72bf803ddaf39e987">CHECK&#95;FOR&#95;COMMAND</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ae818631ff5b78ea72bf803ddaf39e987">CHECK\_FOR\_COMMAND</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a>.
 </div>
@@ -548,7 +553,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1766 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 1766 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -579,7 +585,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 </div>
 
 
-Reference <a href="#ae818631ff5b78ea72bf803ddaf39e987">CHECK&#95;FOR&#95;COMMAND</a>.
+Reference <a href="#ae818631ff5b78ea72bf803ddaf39e987">CHECK\_FOR\_COMMAND</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a>.
 </div>
@@ -609,7 +615,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1790 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 1790 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -660,7 +667,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 
 
 
-<p>Main entry point for the comment block parser.</p>
+
+Main entry point for the comment block parser.
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -668,55 +676,55 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">parserIntf</td>
-<td class="doxyParamItemDescription"><p>The parser object created via <a href="/web-doxygen/docs/api/files/src/docparser-h/#a7a169cbf0edeed85c90868675799b875">createDocParser()</a></p></td>
+<td class="doxyParamItemDescription">The parser object created via <a href="/web-doxygen/docs/api/files/src/docparser-h/#a7a169cbf0edeed85c90868675799b875">createDocParser()</a></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">fileName</td>
-<td class="doxyParamItemDescription"><p>File in which the documentation block is found (or the name of the example file in case isExample is TRUE).</p></td>
+<td class="doxyParamItemDescription">File in which the documentation block is found (or the name of the example file in case isExample is TRUE).</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">startLine</td>
-<td class="doxyParamItemDescription"><p>Line at which the documentation block is found.</p></td>
+<td class="doxyParamItemDescription">Line at which the documentation block is found.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">ctx</td>
-<td class="doxyParamItemDescription"><p>Class or namespace to which this block belongs.</p></td>
+<td class="doxyParamItemDescription">Class or namespace to which this block belongs.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">md</td>
-<td class="doxyParamItemDescription"><p>Member definition to which the documentation belongs. Can be 0.</p></td>
+<td class="doxyParamItemDescription">Member definition to which the documentation belongs. Can be 0.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">input</td>
-<td class="doxyParamItemDescription"><p>String representation of the documentation block.</p></td>
+<td class="doxyParamItemDescription">String representation of the documentation block.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">indexWords</td>
-<td class="doxyParamItemDescription"><p>Indicates whether or not words should be put in the search index.</p></td>
+<td class="doxyParamItemDescription">Indicates whether or not words should be put in the search index.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isExample</td>
-<td class="doxyParamItemDescription"><p>TRUE if the documentation belongs to an example.</p></td>
+<td class="doxyParamItemDescription">TRUE if the documentation belongs to an example.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">exampleName</td>
-<td class="doxyParamItemDescription"><p>Base name of the example file (0 if isExample is FALSE).</p></td>
+<td class="doxyParamItemDescription">Base name of the example file (0 if isExample is FALSE).</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">singleLine</td>
-<td class="doxyParamItemDescription"><p>Output should be presented on a single line, so without starting a new paragraph at the end.</p></td>
+<td class="doxyParamItemDescription">Output should be presented on a single line, so without starting a new paragraph at the end.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">linkFromIndex</td>
-<td class="doxyParamItemDescription"><p>TRUE if the documentation is generated from an index page. In this case context is not used to determine the relative path when making a link.</p></td>
+<td class="doxyParamItemDescription">TRUE if the documentation is generated from an index page. In this case context is not used to determine the relative path when making a link.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">markdownSupport</td>
-<td class="doxyParamItemDescription"><p>TRUE if the input needs to take markdown markup into account.</p></td>
+<td class="doxyParamItemDescription">TRUE if the input needs to take markdown markup into account.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">autolinkSupport</td>
-<td class="doxyParamItemDescription"><p>TRUE if the input need to perform auto linking of words</p></td>
+<td class="doxyParamItemDescription">TRUE if the input need to perform auto linking of words</td>
 </tr>
 </table>
 </dd>
@@ -725,12 +733,12 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f2
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-<p>An object representing the abstract syntax tree. Ownership of the pointer is handed over to the caller.</p>
+An object representing the abstract syntax tree. Ownership of the pointer is handed over to the caller.
 </dd>
 </dl>
 
 
-<p>Definition at line 1922 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+Definition at line 1922 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -894,9 +902,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 
 
 
-<p>Main entry point for parsing simple text fragments. These fragments are limited to words, whitespace and symbols.</p>
 
-<p>Definition at line 2105 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+Main entry point for parsing simple text fragments. These fragments are limited to words, whitespace and symbols.
+
+Definition at line 2105 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -961,7 +970,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/docparsercontext/#a87c34f5f92f5f414033ccaa71701a879">DocParserContext::autolinkSupport</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a440e2d11196fe51c4b5bc991345d866d">DocParserContext::context</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a688f0551d40b6f51fb0daaa76631502b">DocParserContext::exampleName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a2b4c522f7f52850b1956b1b1504c4f1b">DocParserContext::fileName</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a084f5a404c6d0e3af240a514a40ea028">DocParserContext::includeFileLength</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ad7292216a7f27bb942f5e2a29d661526">DocParserContext::includeFileOffset</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a741637628985f24ccf69b051638804ca">DocParserContext::includeFileText</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a27ef42f7f738e8eef6801d5f701b4b8f">DocTokenizer::init</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8e520e4b1b8b7a5e76c91b618fea071e">DocParserContext::initialStyleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9e9561c7ec0edba0d50cdcb482942bea">DocParserContext::inSeeBlock</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a88cb2bde6d7f9ded45c9d33f33b65bb3">DocParserContext::insideHtmlLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa499773e2ac0458b4f616b07386e5685">DocParserContext::isExample</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9fc77f516caaacac57c0ddc2ef5850a3">DocParserContext::lang</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ac471382981c9338c82ac73b036d7a3ff">DocParserContext::markdownSupport</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae353d958ff093eac18151351deaebf42">DocParserContext::memberDef</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c4b8ce9d77e0e425ea3191235ec27a">DocParserContext::nodeStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c9e8118731d26df0aaf5da3795fd4f">DocParserContext::paramsFound</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da92b8cea26e6d5e2a5d3d04b63686bb2b">Debug::PrintTree</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a603ea82abcc694bf2aeb91d85378aa0d">DocParserContext::relPath</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#aeaf8532d281e202aaf58eb8daa3e5742">DocTokenizer::resetToken</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a0040f57941740a96566faa6d223d5bcb">DocParserContext::retvalsFound</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa2bfd37ddbdec7e8751e6585cc53beb8">DocParserContext::searchUrl</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a2ffd450e14852a41762e405e33efed7d">DocTokenizer::setLineNr</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a00b654ab5913a22f3c0add04642776ff">DocParserContext::styleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a> and <a href="/web-doxygen/docs/api/structs/docparsercontext/#a5b98ca02af34e324862e5b5b8bbfb207">DocParserContext::xmlComment</a>.
+References <a href="/web-doxygen/docs/api/structs/docparsercontext/#a87c34f5f92f5f414033ccaa71701a879">DocParserContext::autolinkSupport</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a440e2d11196fe51c4b5bc991345d866d">DocParserContext::context</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a688f0551d40b6f51fb0daaa76631502b">DocParserContext::exampleName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a2b4c522f7f52850b1956b1b1504c4f1b">DocParserContext::fileName</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a084f5a404c6d0e3af240a514a40ea028">DocParserContext::includeFileLength</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ad7292216a7f27bb942f5e2a29d661526">DocParserContext::includeFileOffset</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a741637628985f24ccf69b051638804ca">DocParserContext::includeFileText</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a27ef42f7f738e8eef6801d5f701b4b8f">DocTokenizer::init</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8e520e4b1b8b7a5e76c91b618fea071e">DocParserContext::initialStyleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9e9561c7ec0edba0d50cdcb482942bea">DocParserContext::inSeeBlock</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a88cb2bde6d7f9ded45c9d33f33b65bb3">DocParserContext::insideHtmlLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa499773e2ac0458b4f616b07386e5685">DocParserContext::isExample</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9fc77f516caaacac57c0ddc2ef5850a3">DocParserContext::lang</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ac471382981c9338c82ac73b036d7a3ff">DocParserContext::markdownSupport</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae353d958ff093eac18151351deaebf42">DocParserContext::memberDef</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c4b8ce9d77e0e425ea3191235ec27a">DocParserContext::nodeStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c9e8118731d26df0aaf5da3795fd4f">DocParserContext::paramsFound</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da92b8cea26e6d5e2a5d3d04b63686bb2b">Debug::PrintTree</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a603ea82abcc694bf2aeb91d85378aa0d">DocParserContext::relPath</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#aeaf8532d281e202aaf58eb8daa3e5742">DocTokenizer::resetToken</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a0040f57941740a96566faa6d223d5bcb">DocParserContext::retvalsFound</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa2bfd37ddbdec7e8751e6585cc53beb8">DocParserContext::searchUrl</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a2ffd450e14852a41762e405e33efed7d">DocTokenizer::setLineNr</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a00b654ab5913a22f3c0add04642776ff">DocParserContext::styleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a> and <a href="/web-doxygen/docs/api/structs/docparsercontext/#a5b98ca02af34e324862e5b5b8bbfb207">DocParserContext::xmlComment</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/outputlist/#adfdcf2ba925f05be8beb8cf43deb168a">OutputList::parseText</a>.
 </div>
@@ -987,9 +996,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-<p>Main entry point for parsing titles. These allow limited markup commands</p>
 
-<p>Definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+Main entry point for parsing titles. These allow limited markup commands
+
+Definition at line 2053 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1048,7 +1058,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/docparsercontext/#a87c34f5f92f5f414033ccaa71701a879">DocParserContext::autolinkSupport</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a440e2d11196fe51c4b5bc991345d866d">DocParserContext::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a688f0551d40b6f51fb0daaa76631502b">DocParserContext::exampleName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a2b4c522f7f52850b1956b1b1504c4f1b">DocParserContext::fileName</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a084f5a404c6d0e3af240a514a40ea028">DocParserContext::includeFileLength</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ad7292216a7f27bb942f5e2a29d661526">DocParserContext::includeFileOffset</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a741637628985f24ccf69b051638804ca">DocParserContext::includeFileText</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8e520e4b1b8b7a5e76c91b618fea071e">DocParserContext::initialStyleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9e9561c7ec0edba0d50cdcb482942bea">DocParserContext::inSeeBlock</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a88cb2bde6d7f9ded45c9d33f33b65bb3">DocParserContext::insideHtmlLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa499773e2ac0458b4f616b07386e5685">DocParserContext::isExample</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9fc77f516caaacac57c0ddc2ef5850a3">DocParserContext::lang</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ac471382981c9338c82ac73b036d7a3ff">DocParserContext::markdownSupport</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae353d958ff093eac18151351deaebf42">DocParserContext::memberDef</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c4b8ce9d77e0e425ea3191235ec27a">DocParserContext::nodeStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c9e8118731d26df0aaf5da3795fd4f">DocParserContext::paramsFound</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da92b8cea26e6d5e2a5d3d04b63686bb2b">Debug::PrintTree</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a603ea82abcc694bf2aeb91d85378aa0d">DocParserContext::relPath</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#aeaf8532d281e202aaf58eb8daa3e5742">DocTokenizer::resetToken</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a0040f57941740a96566faa6d223d5bcb">DocParserContext::retvalsFound</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa2bfd37ddbdec7e8751e6585cc53beb8">DocParserContext::searchUrl</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a00b654ab5913a22f3c0add04642776ff">DocParserContext::styleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a> and <a href="/web-doxygen/docs/api/structs/docparsercontext/#a5b98ca02af34e324862e5b5b8bbfb207">DocParserContext::xmlComment</a>.
+References <a href="/web-doxygen/docs/api/structs/docparsercontext/#a87c34f5f92f5f414033ccaa71701a879">DocParserContext::autolinkSupport</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a440e2d11196fe51c4b5bc991345d866d">DocParserContext::context</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a688f0551d40b6f51fb0daaa76631502b">DocParserContext::exampleName</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a2b4c522f7f52850b1956b1b1504c4f1b">DocParserContext::fileName</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a084f5a404c6d0e3af240a514a40ea028">DocParserContext::includeFileLength</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ad7292216a7f27bb942f5e2a29d661526">DocParserContext::includeFileOffset</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a741637628985f24ccf69b051638804ca">DocParserContext::includeFileText</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8e520e4b1b8b7a5e76c91b618fea071e">DocParserContext::initialStyleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9e9561c7ec0edba0d50cdcb482942bea">DocParserContext::inSeeBlock</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a88cb2bde6d7f9ded45c9d33f33b65bb3">DocParserContext::insideHtmlLink</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa499773e2ac0458b4f616b07386e5685">DocParserContext::isExample</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a9fc77f516caaacac57c0ddc2ef5850a3">DocParserContext::lang</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ac471382981c9338c82ac73b036d7a3ff">DocParserContext::markdownSupport</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae353d958ff093eac18151351deaebf42">DocParserContext::memberDef</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c4b8ce9d77e0e425ea3191235ec27a">DocParserContext::nodeStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a60c9e8118731d26df0aaf5da3795fd4f">DocParserContext::paramsFound</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da92b8cea26e6d5e2a5d3d04b63686bb2b">Debug::PrintTree</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a603ea82abcc694bf2aeb91d85378aa0d">DocParserContext::relPath</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#aeaf8532d281e202aaf58eb8daa3e5742">DocTokenizer::resetToken</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a0040f57941740a96566faa6d223d5bcb">DocParserContext::retvalsFound</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#aa2bfd37ddbdec7e8751e6585cc53beb8">DocParserContext::searchUrl</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a00b654ab5913a22f3c0add04642776ff">DocParserContext::styleStack</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a> and <a href="/web-doxygen/docs/api/structs/docparsercontext/#a5b98ca02af34e324862e5b5b8bbfb207">DocParserContext::xmlComment</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>.
 </div>
@@ -1060,7 +1070,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 
 ## Macro Definitions
 
-### AUTO&#95;TRACE {#a210042a14f3a393be09c743c219126ae}
+### AUTO\_TRACE {#a210042a14f3a393be09c743c219126ae}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1079,7 +1089,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1090,7 +1101,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 </div>
 </div>
 
-### AUTO&#95;TRACE&#95;ADD {#a05be586784f268b947ad777aa316c4e6}
+### AUTO\_TRACE\_ADD {#a05be586784f268b947ad777aa316c4e6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1109,7 +1120,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1120,7 +1132,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 </div>
 </div>
 
-### AUTO&#95;TRACE&#95;EXIT {#a81912d2a3d12aab7a9e546e5299e2e09}
+### AUTO\_TRACE\_EXIT {#a81912d2a3d12aab7a9e546e5299e2e09}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1139,7 +1151,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -1150,7 +1163,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 </div>
 </div>
 
-### CHECK&#95;FOR&#95;COMMAND {#ae818631ff5b78ea72bf803ddaf39e987}
+### CHECK\_FOR\_COMMAND {#ae818631ff5b78ea72bf803ddaf39e987}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1169,16 +1182,17 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b08
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">   do if ((i+sizeof(str)&lt;len) &amp;&amp; <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal&#95;at</a>(data+i+1,str)) \
+<div class="doxyVerbatim">   do if ((i+sizeof(str)&lt;len) &amp;&amp; <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data+i+1,str)) \
    { j=i+sizeof(str); action; } while(0)
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 1751 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.</p>
+Definition at line 1751 of file <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a>.
 
 <div class="doxyProgramListing">
 

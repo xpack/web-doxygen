@@ -208,7 +208,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -271,7 +272,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -303,13 +305,13 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07
 </div>
 
 
-References <a href="#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a> and <a href="#a4f8bf02818b7f772ff25cdc2791a5f3a">proc&#95;env</a>.
+References <a href="#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a> and <a href="#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a>.
 </div>
 </div>
 
-### portable&#95;memmem() {#a9ecb00561bffb0bffa3cce647d399c6f}
+### portable\_memmem() {#a9ecb00561bffb0bffa3cce647d399c6f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -333,7 +335,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -399,7 +402,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
 </div>
@@ -429,7 +433,8 @@ Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -442,7 +447,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 </div>
 </div>
 
-### proc&#95;env {#a4f8bf02818b7f772ff25cdc2791a5f3a}
+### proc\_env {#a4f8bf02818b7f772ff25cdc2791a5f3a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -466,7 +471,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 

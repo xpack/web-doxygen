@@ -36,7 +36,7 @@ class MemberGroupList { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">class</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; std::unique&#95;ptr&lt; MemberGroup &gt; &gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top">std::vector&lt; std::unique_ptr&lt; MemberGroup &gt; &gt;</td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
 <td class="doxyMemberIndexSeparator" colspan="2"></td>
@@ -45,7 +45,7 @@ class MemberGroupList { ... }
 </table>
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <hr/>
 

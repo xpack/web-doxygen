@@ -16,7 +16,7 @@ keywords:
 
 <div class="doxyPage">
 
-<p>The files & folders that contributed content to this site are:</p>
+The files & folders that contributed content to this site are:
 
 <table class="doxyTreeTable">
 

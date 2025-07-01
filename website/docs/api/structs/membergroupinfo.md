@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `MemberGroupInfo` Struct Reference
 
-<p>Data collected for a member group. <a href="#details">More...</a></p>
+Data collected for a member group. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -135,9 +135,9 @@ struct MemberGroupInfo { ... }
 
 ## Description {#details}
 
-<p>Data collected for a member group.</p>
+Data collected for a member group.
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxySectionDef">
 
@@ -162,7 +162,8 @@ struct MemberGroupInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
+Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -174,7 +175,7 @@ struct MemberGroupInfo { ... }
 </div>
 
 
-Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
+Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m\_sli</a>.
 </div>
 </div>
 
@@ -203,7 +204,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -233,7 +235,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -263,7 +266,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -293,7 +297,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -323,7 +328,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m&#95;sli</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -336,7 +342,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 </div>
 </div>
 
-### m&#95;sli {#a1b5b7c6bb2bec975d22aea0a17ddb193}
+### m\_sli {#a1b5b7c6bb2bec975d22aea0a17ddb193}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -355,7 +361,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
+Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -372,7 +379,7 @@ Referenced by <a href="#ad29533ce08fd08e8998b941a2a79f066">setRefItems</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following files:</p>
+The documentation for this struct was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a></li>

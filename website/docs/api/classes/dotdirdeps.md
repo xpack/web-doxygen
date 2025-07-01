@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotDirDeps` Class Reference
 
-<p>Representation of an directory dependency graph. <a href="#details">More...</a></p>
+Representation of an directory dependency graph. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotDirDeps { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
+A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -212,9 +212,9 @@ class DotDirDeps { ... }
 
 ## Description {#details}
 
-<p>Representation of an directory dependency graph.</p>
+Representation of an directory dependency graph.
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.</p>
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.
 
 <div class="doxySectionDef">
 
@@ -239,7 +239,8 @@ class DotDirDeps { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 403 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 403 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -250,7 +251,7 @@ class DotDirDeps { ... }
 </div>
 
 
-Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
+Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m\_dir</a>.
 </div>
 </div>
 
@@ -260,7 +261,7 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 
 ## Public Destructor
 
-### ~DotDirDeps() {#a743a58333611c96705056fa43a7ba7e4}
+### \~DotDirDeps() {#a743a58333611c96705056fa43a7ba7e4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -279,7 +280,8 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -317,7 +319,8 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -329,7 +332,7 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 </div>
 
 
-Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
+Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m\_dir</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aaeb27386c274dd8189167e1a12fe8f1d">DirDefImpl::writeDirectoryGraph</a>.
 </div>
@@ -354,7 +357,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aaeb27386c274dd
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -370,7 +374,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aaeb27386c274dd
 </div>
 
 
-References <a href="#aac8ca045e8157f5558202923bda3e5e1">m&#95;linkRelations</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a2967bd18d9a60e4f6738eb0b6e3698ec">DotGraph::m&#95;urlOnly</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
+References <a href="#aac8ca045e8157f5558202923bda3e5e1">m\_linkRelations</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a2967bd18d9a60e4f6738eb0b6e3698ec">DotGraph::m\_urlOnly</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#aa80d2614901e7d7624514fa077cee77c">DocbookGenerator::endDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a603fd2d86e322ea4018747febe523edf">HtmlGenerator::endDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a1551a0ac802e77a366331dfc4fd90cc4">LatexGenerator::endDirDepGraph</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a1cd78a44f9072b2d24765b07fbd4f01f">RTFGenerator::endDirDepGraph</a>.
 </div>
@@ -407,7 +411,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#aa80d2614
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -425,7 +430,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#aa80d2614
 </div>
 
 
-References <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>, <a href="#aac8ca045e8157f5558202923bda3e5e1">m&#95;linkRelations</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m&#95;theGraph</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
+References <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m\_dir</a>, <a href="#aac8ca045e8157f5558202923bda3e5e1">m\_linkRelations</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m\_theGraph</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
 </div>
 </div>
 
@@ -454,7 +459,8 @@ References <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -467,7 +473,7 @@ References <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>, <a href="
 </div>
 
 
-Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
+Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m\_dir</a>.
 </div>
 </div>
 
@@ -496,7 +502,8 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 433 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 433 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -508,7 +515,7 @@ Reference <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a> and <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m&#95;dir</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a> and <a href="#a94c8ab72cb438e81f801c496cdc2c56c">m\_dir</a>.
 </div>
 </div>
 
@@ -537,7 +544,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>, definition at line 428 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -549,7 +557,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ab85aa68cac9a9551d8076146f358355e">DotGraph::m&#95;baseName</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ab85aa68cac9a9551d8076146f358355e">DotGraph::m\_baseName</a>.
 </div>
 </div>
 
@@ -559,7 +567,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 
 ## Private Member Attributes
 
-### m&#95;dir {#a94c8ab72cb438e81f801c496cdc2c56c}
+### m\_dir {#a94c8ab72cb438e81f801c496cdc2c56c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -578,7 +586,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -591,7 +600,7 @@ Referenced by <a href="#a8cb59745acc5f950c7fb14f28f4bfded">computeTheGraph</a>, 
 </div>
 </div>
 
-### m&#95;linkRelations {#aac8ca045e8157f5558202923bda3e5e1}
+### m\_linkRelations {#aac8ca045e8157f5558202923bda3e5e1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -610,7 +619,8 @@ Referenced by <a href="#a8cb59745acc5f950c7fb14f28f4bfded">computeTheGraph</a>, 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -627,7 +637,7 @@ Referenced by <a href="#a8cb59745acc5f950c7fb14f28f4bfded">computeTheGraph</a> a
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a></li>

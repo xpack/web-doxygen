@@ -133,7 +133,7 @@ class vhdl::parser::VhdlErrorHandler { ... }
 </table>
 
 
-<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxySectionDef">
 
@@ -163,7 +163,8 @@ class vhdl::parser::VhdlErrorHandler { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
+Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -172,7 +173,7 @@ class vhdl::parser::VhdlErrorHandler { ... }
 </div>
 
 
-Reference <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>.
+Reference <a href="#a7f762940359a017a9f7a903f4a66f6f4">m\_fileName</a>.
 </div>
 </div>
 
@@ -207,7 +208,8 @@ Reference <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -221,7 +223,7 @@ Reference <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error&#95;count</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error\_count</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m\_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 </div>
 </div>
 
@@ -250,7 +252,8 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -264,7 +267,7 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb35f8a5ecab251ddcd4b5909">vhdl::parser::Token::beginLine</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error&#95;count</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a48cc7b3f8164956fd940b2d53b792043">vhdl::parser::Token::image</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb35f8a5ecab251ddcd4b5909">vhdl::parser::Token::beginLine</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error\_count</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a48cc7b3f8164956fd940b2d53b792043">vhdl::parser::Token::image</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m\_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 </div>
 </div>
 
@@ -293,7 +296,8 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -307,7 +311,7 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb35f8a5ecab251ddcd4b5909">vhdl::parser::Token::beginLine</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error&#95;count</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a48cc7b3f8164956fd940b2d53b792043">vhdl::parser::Token::image</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m&#95;fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb35f8a5ecab251ddcd4b5909">vhdl::parser::Token::beginLine</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#ada8cb3fd4fa2dead863dc00edc1b9587">vhdl::parser::ErrorHandler::error\_count</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a48cc7b3f8164956fd940b2d53b792043">vhdl::parser::Token::image</a>, <a href="#a7f762940359a017a9f7a903f4a66f6f4">m\_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/errorhandler/#a8bbb7acf78e67f3b3706943bf268ceed">vhdl::parser::ErrorHandler::VhdlParser</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
 </div>
 </div>
 
@@ -317,7 +321,7 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb3
 
 ## Private Member Attributes
 
-### m&#95;fileName {#a7f762940359a017a9f7a903f4a66f6f4}
+### m\_fileName {#a7f762940359a017a9f7a903f4a66f6f4}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -336,7 +340,8 @@ References <a href="/web-doxygen/docs/api/classes/vhdl/parser/token/#a7fdeaf5cb3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -353,7 +358,7 @@ Referenced by <a href="#a5561c37f9abb893684f5537ad72f04cf">handleOtherError</a>,
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a></li>

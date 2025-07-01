@@ -41,7 +41,7 @@ class FortranOutlineParserFixed { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a></p>
+Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ class FortranOutlineParserFixed { ... }
 </table>
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.</p>
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.
 
 <div class="doxySectionDef">
 
@@ -100,7 +100,8 @@ class FortranOutlineParserFixed { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -117,7 +118,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#ad3f2a8c13ceee9c0aa
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a></li>

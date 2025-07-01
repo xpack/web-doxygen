@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ParseException` Class Reference
 
-<p>This exception is thrown when parse errors are encountered. <a href="#details">More...</a></p>
+This exception is thrown when parse errors are encountered. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This constructor is used by the method "generateParseException" in the generated parser. <a href="#a251f016d7ba95ffb185e46047c5360e8">More...</a></p>
+This constructor is used by the method "generateParseException" in the generated parser. <a href="#a251f016d7ba95ffb185e46047c5360e8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The following constructors are for use by you for whatever purpose you can think of. <a href="#aa8dbc5d8f42a4cc3375d7d21340dc95e">More...</a></p>
+The following constructors are for use by you for whatever purpose you can think of. <a href="#aa8dbc5d8f42a4cc3375d7d21340dc95e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Constructor with message. <a href="#a1b393421747680d5de70a6932110d9da">More...</a></p>
+Constructor with message. <a href="#a1b393421747680d5de70a6932110d9da">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>It uses "currentToken" and "expectedTokenSequences" to generate a parse error message and returns it. <a href="#aa12ecc8cb7ffc35c8f8dc85b98bf37ef">More...</a></p>
+It uses "currentToken" and "expectedTokenSequences" to generate a parse error message and returns it. <a href="#aa12ecc8cb7ffc35c8f8dc85b98bf37ef">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -103,7 +103,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Used to convert raw characters to their escaped version when these raw version cannot be used as part of an ASCII string literal. <a href="#a2b857653fcb33df53b87503a48616a70">More...</a></p>
+Used to convert raw characters to their escaped version when these raw version cannot be used as part of an ASCII string literal. <a href="#a2b857653fcb33df53b87503a48616a70">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -123,7 +123,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This is the last token that has been consumed successfully. <a href="#aadd2253ddf7f1c87444d51fc22efd9fe">More...</a></p>
+This is the last token that has been consumed successfully. <a href="#aadd2253ddf7f1c87444d51fc22efd9fe">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -137,7 +137,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Each entry in this array is an array of integers. <a href="#a28848a83d7553352654dd5ccb7ed40ef">More...</a></p>
+Each entry in this array is an array of integers. <a href="#a28848a83d7553352654dd5ccb7ed40ef">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -151,7 +151,7 @@ class vhdl::parser::ParseException { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This is a reference to the "tokenImage" array of the generated parser within which the parse error occurred. <a href="#af1bf4ce3b2d3dc5d984ee5ec2956ae51">More...</a></p>
+This is a reference to the "tokenImage" array of the generated parser within which the parse error occurred. <a href="#af1bf4ce3b2d3dc5d984ee5ec2956ae51">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -162,14 +162,14 @@ class vhdl::parser::ParseException { ... }
 
 ## Description {#details}
 
-<p>This exception is thrown when parse errors are encountered.</p>
+This exception is thrown when parse errors are encountered.
 
 
-<p>You can explicitly create objects of this exception type by calling the method generateParseException in the generated parser.</p>
+You can explicitly create objects of this exception type by calling the method generateParseException in the generated parser.
 
-<p>You can modify this class to customize your error reporting mechanisms so long as you retain the fields.</p>
+You can modify this class to customize your error reporting mechanisms so long as you retain the fields.
 
-<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 <div class="doxySectionDef">
 
@@ -192,12 +192,13 @@ class vhdl::parser::ParseException { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>This constructor is used by the method "generateParseException" in the generated parser.</p>
+
+This constructor is used by the method "generateParseException" in the generated parser.
 
 
-<p>Calling this constructor generates a new object of this type with the fields "currentToken", "expectedTokenSequences", and "tokenImage" set.</p>
+Calling this constructor generates a new object of this type with the fields "currentToken", "expectedTokenSequences", and "tokenImage" set.
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 </div>
 </div>
 
@@ -218,12 +219,13 @@ class vhdl::parser::ParseException { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>The following constructors are for use by you for whatever purpose you can think of.</p>
+
+The following constructors are for use by you for whatever purpose you can think of.
 
 
-<p>Constructing the exception in this manner makes the exception behave in the normal way - i.e., as documented in the class "Throwable". The fields "errorToken", "expectedTokenSequences", and "tokenImage" do not contain relevant information. The JavaCC generated code does not use these constructors.</p>
+Constructing the exception in this manner makes the exception behave in the normal way - i.e., as documented in the class "Throwable". The fields "errorToken", "expectedTokenSequences", and "tokenImage" do not contain relevant information. The JavaCC generated code does not use these constructors.
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 </div>
 </div>
 
@@ -244,9 +246,10 @@ class vhdl::parser::ParseException { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Constructor with message.</p>
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Constructor with message.
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 </div>
 </div>
 
@@ -256,7 +259,7 @@ class vhdl::parser::ParseException { ... }
 
 ## Private Member Functions
 
-### add&#95;escapes() {#a2b857653fcb33df53b87503a48616a70}
+### add\_escapes() {#a2b857653fcb33df53b87503a48616a70}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -273,9 +276,10 @@ class vhdl::parser::ParseException { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Used to convert raw characters to their escaped version when these raw version cannot be used as part of an ASCII string literal.</p>
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Used to convert raw characters to their escaped version when these raw version cannot be used as part of an ASCII string literal.
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 </div>
 </div>
 
@@ -296,12 +300,13 @@ class vhdl::parser::ParseException { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>It uses "currentToken" and "expectedTokenSequences" to generate a parse error message and returns it.</p>
+
+It uses "currentToken" and "expectedTokenSequences" to generate a parse error message and returns it.
 
 
-<p>If this object has been created due to a parse error, and you do not catch it (it gets thrown from the parser) the correct error message gets displayed.</p>
+If this object has been created due to a parse error, and you do not catch it (it gets thrown from the parser) the correct error message gets displayed.
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 References <a href="#aadd2253ddf7f1c87444d51fc22efd9fe">currentToken</a>, <a href="#a28848a83d7553352654dd5ccb7ed40ef">expectedTokenSequences</a> and <a href="#af1bf4ce3b2d3dc5d984ee5ec2956ae51">tokenImage</a>.
 </div>
@@ -330,12 +335,13 @@ References <a href="#aadd2253ddf7f1c87444d51fc22efd9fe">currentToken</a>, <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>This is the last token that has been consumed successfully.</p>
+
+This is the last token that has been consumed successfully.
 
 
-<p>If this object has been created due to a parse error, the token following this token will (therefore) be the first error token.</p>
+If this object has been created due to a parse error, the token following this token will (therefore) be the first error token.
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -365,12 +371,13 @@ Referenced by <a href="#aa12ecc8cb7ffc35c8f8dc85b98bf37ef">initialise</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Each entry in this array is an array of integers.</p>
+
+Each entry in this array is an array of integers.
 
 
-<p>Each array of integers represents a sequence of tokens (by their ordinal values) that is expected at this point of the parse.</p>
+Each array of integers represents a sequence of tokens (by their ordinal values) that is expected at this point of the parse.
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -400,12 +407,13 @@ Referenced by <a href="#aa12ecc8cb7ffc35c8f8dc85b98bf37ef">initialise</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>This is a reference to the "tokenImage" array of the generated parser within which the parse error occurred.</p>
+
+This is a reference to the "tokenImage" array of the generated parser within which the parse error occurred.
 
 
-<p>This array is defined in the generated ...Constants class.</p>
+This array is defined in the generated ...Constants class.
 
-<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+Definition at line 70 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -422,7 +430,7 @@ Referenced by <a href="#aa12ecc8cb7ffc35c8f8dc85b98bf37ef">initialise</a>.
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a></li>

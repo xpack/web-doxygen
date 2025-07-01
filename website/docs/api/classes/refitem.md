@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `RefItem` Class Reference
 
-<p>This struct represents an item in the list of references. <a href="#details">More...</a></p>
+This struct represents an item in the list of references. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -300,7 +300,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>unique identifier for this item within its list <a href="#afa2f40e3e931c9b3136e03b1e8a92202">More...</a></p>
+unique identifier for this item within its list <a href="#afa2f40e3e931c9b3136e03b1e8a92202">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -314,7 +314,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>list owning this item <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">More...</a></p>
+list owning this item <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -328,7 +328,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>text of the item. <a href="#a89f735c173e5281ad439417397c8487a">More...</a></p>
+text of the item. <a href="#a89f735c173e5281ad439417397c8487a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -342,7 +342,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>anchor in the list <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">More...</a></p>
+anchor in the list <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -356,7 +356,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>type prefix for the name <a href="#a825c5f5a223f203b2c5972e1c43e5e26">More...</a></p>
+type prefix for the name <a href="#a825c5f5a223f203b2c5972e1c43e5e26">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -370,7 +370,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>name of the entity containing the reference <a href="#a5d03c75b1cd816986d316b2ff595ae5f">More...</a></p>
+name of the entity containing the reference <a href="#a5d03c75b1cd816986d316b2ff595ae5f">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -384,7 +384,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>display name of the entity <a href="#aa59ea16bec07d69208a326fa7b6732a8">More...</a></p>
+display name of the entity <a href="#aa59ea16bec07d69208a326fa7b6732a8">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -398,7 +398,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>optional arguments for the entity (if function) <a href="#a73864e573032be6863f88669b06235c2">More...</a></p>
+optional arguments for the entity (if function) <a href="#a73864e573032be6863f88669b06235c2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -412,7 +412,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>group id used to combine item under a single header <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">More...</a></p>
+group id used to combine item under a single header <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -426,7 +426,7 @@ class RefItem { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>scope to use for references. <a href="#ac73e9e4747f2b616e5dd54b5917500f3">More...</a></p>
+scope to use for references. <a href="#ac73e9e4747f2b616e5dd54b5917500f3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -437,9 +437,9 @@ class RefItem { ... }
 
 ## Description {#details}
 
-<p>This struct represents an item in the list of references.</p>
+This struct represents an item in the list of references.
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxySectionDef">
 
@@ -469,7 +469,8 @@ class RefItem { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -478,7 +479,7 @@ class RefItem { ... }
 </div>
 
 
-References <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a>, <a href="#abcf82c7972e72835111d28844f6c6485">list</a>, <a href="#afa2f40e3e931c9b3136e03b1e8a92202">m&#95;id</a> and <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">m&#95;list</a>.
+References <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a>, <a href="#abcf82c7972e72835111d28844f6c6485">list</a>, <a href="#afa2f40e3e931c9b3136e03b1e8a92202">m\_id</a> and <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">m\_list</a>.
 </div>
 </div>
 
@@ -512,7 +513,8 @@ References <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a>, <a href="#abcf82
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -521,7 +523,7 @@ References <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a>, <a href="#abcf82
 </div>
 
 
-Reference <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">m&#95;anchor</a>.
+Reference <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">m\_anchor</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docxrefitem/#acfb3aacf4b559a4b9fb4fb5b2dc960bc">DocXRefItem::parse</a> and <a href="#a60178e2fe10f0590a5b91107a1a0f007">setAnchor</a>.
 </div>
@@ -551,7 +553,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docxrefitem/#acfb3aacf4b559
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -560,7 +563,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docxrefitem/#acfb3aacf4b559
 </div>
 
 
-Reference <a href="#a73864e573032be6863f88669b06235c2">m&#95;args</a>.
+Reference <a href="#a73864e573032be6863f88669b06235c2">m\_args</a>.
 
 Referenced by <a href="#a68d70a4bd0bef8a8aba28a18815466c4">setArgs</a>.
 </div>
@@ -590,7 +593,8 @@ Referenced by <a href="#a68d70a4bd0bef8a8aba28a18815466c4">setArgs</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -599,7 +603,7 @@ Referenced by <a href="#a68d70a4bd0bef8a8aba28a18815466c4">setArgs</a>.
 </div>
 
 
-Reference <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">m&#95;group</a>.
+Reference <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">m\_group</a>.
 
 Referenced by <a href="#ac2c9f5179e16bea85db5da90e56104dc">setGroup</a>.
 </div>
@@ -629,7 +633,8 @@ Referenced by <a href="#ac2c9f5179e16bea85db5da90e56104dc">setGroup</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -638,9 +643,9 @@ Referenced by <a href="#ac2c9f5179e16bea85db5da90e56104dc">setGroup</a>.
 </div>
 
 
-Reference <a href="#afa2f40e3e931c9b3136e03b1e8a92202">m&#95;id</a>.
+Reference <a href="#afa2f40e3e931c9b3136e03b1e8a92202">m\_id</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3b46c0d7f00310d3836f058">DefinitionImpl::&#95;getXRefListId</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a> and <a href="#a3929c7c30822dc3a1a545ab4595c6047">RefItem</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3b46c0d7f00310d3836f058">DefinitionImpl::\_getXRefListId</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a> and <a href="#a3929c7c30822dc3a1a545ab4595c6047">RefItem</a>.
 </div>
 </div>
 
@@ -668,7 +673,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -677,9 +683,9 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3
 </div>
 
 
-Reference <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">m&#95;list</a>.
+Reference <a href="#a6f2d6632ffca70234c9ef20ce4a88cc2">m\_list</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3b46c0d7f00310d3836f058">DefinitionImpl::&#95;getXRefListId</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a> and <a href="#a3929c7c30822dc3a1a545ab4595c6047">RefItem</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3b46c0d7f00310d3836f058">DefinitionImpl::\_getXRefListId</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a> and <a href="#a3929c7c30822dc3a1a545ab4595c6047">RefItem</a>.
 </div>
 </div>
 
@@ -707,7 +713,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -716,7 +723,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a8106ebd1a3
 </div>
 
 
-Reference <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m&#95;name</a>.
+Reference <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m\_name</a>.
 
 Referenced by <a href="#ad8a23b89b4213f13edaf36345063e130">setName</a>.
 </div>
@@ -746,7 +753,8 @@ Referenced by <a href="#ad8a23b89b4213f13edaf36345063e130">setName</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -755,7 +763,7 @@ Referenced by <a href="#ad8a23b89b4213f13edaf36345063e130">setName</a>.
 </div>
 
 
-Reference <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m&#95;prefix</a>.
+Reference <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m\_prefix</a>.
 
 Referenced by <a href="#ac71e4307e75adf2bb40be9b57461b6a0">setPrefix</a>.
 </div>
@@ -785,7 +793,8 @@ Referenced by <a href="#ac71e4307e75adf2bb40be9b57461b6a0">setPrefix</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -794,7 +803,7 @@ Referenced by <a href="#ac71e4307e75adf2bb40be9b57461b6a0">setPrefix</a>.
 </div>
 
 
-Reference <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m&#95;scope</a>.
+Reference <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m\_scope</a>.
 
 Referenced by <a href="#af30053df6be62518caf94976f6e72c1d">setScope</a>.
 </div>
@@ -824,7 +833,8 @@ Referenced by <a href="#af30053df6be62518caf94976f6e72c1d">setScope</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -833,7 +843,7 @@ Referenced by <a href="#af30053df6be62518caf94976f6e72c1d">setScope</a>.
 </div>
 
 
-References <a href="#aebd4bb49f4b3c355fa866a6e5b409d1b">anchor</a> and <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">m&#95;anchor</a>.
+References <a href="#aebd4bb49f4b3c355fa866a6e5b409d1b">anchor</a> and <a href="#a95ff15b9d62d1fde2e4cebb6a87e7b9f">m\_anchor</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>.
 </div>
@@ -863,7 +873,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -872,7 +883,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 </div>
 
 
-References <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href="#a73864e573032be6863f88669b06235c2">m&#95;args</a>.
+References <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href="#a73864e573032be6863f88669b06235c2">m\_args</a>.
 </div>
 </div>
 
@@ -900,7 +911,8 @@ References <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -909,7 +921,7 @@ References <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href="#a
 </div>
 
 
-References <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">m&#95;group</a>.
+References <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href="#adf7a2187f52d9cc4c0c4678eab8d3469">m\_group</a>.
 </div>
 </div>
 
@@ -937,7 +949,8 @@ References <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -946,7 +959,7 @@ References <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href="#
 </div>
 
 
-References <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m&#95;name</a> and <a href="#a988648330a031567066bc656b3d661f1">name</a>.
+References <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m\_name</a> and <a href="#a988648330a031567066bc656b3d661f1">name</a>.
 </div>
 </div>
 
@@ -974,7 +987,8 @@ References <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m&#95;name</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -983,7 +997,7 @@ References <a href="#a5d03c75b1cd816986d316b2ff595ae5f">m&#95;name</a> and <a hr
 </div>
 
 
-References <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m&#95;prefix</a> and <a href="#aa28e33e8173d77184ce643ec8b017177">prefix</a>.
+References <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m\_prefix</a> and <a href="#aa28e33e8173d77184ce643ec8b017177">prefix</a>.
 </div>
 </div>
 
@@ -1011,7 +1025,8 @@ References <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m&#95;prefix</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1020,7 +1035,7 @@ References <a href="#a825c5f5a223f203b2c5972e1c43e5e26">m&#95;prefix</a> and <a 
 </div>
 
 
-References <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m&#95;scope</a> and <a href="#a3eb6c2753a859c29bfe8b79bc201e38e">scope</a>.
+References <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m\_scope</a> and <a href="#a3eb6c2753a859c29bfe8b79bc201e38e">scope</a>.
 </div>
 </div>
 
@@ -1048,7 +1063,8 @@ References <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m&#95;scope</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1057,7 +1073,7 @@ References <a href="#ac73e9e4747f2b616e5dd54b5917500f3">m&#95;scope</a> and <a h
 </div>
 
 
-References <a href="#a89f735c173e5281ad439417397c8487a">m&#95;text</a> and <a href="#a20865373032bdaf2f3f7b79212b308fd">text</a>.
+References <a href="#a89f735c173e5281ad439417397c8487a">m\_text</a> and <a href="#a20865373032bdaf2f3f7b79212b308fd">text</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>.
 </div>
@@ -1087,7 +1103,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1096,7 +1113,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 </div>
 
 
-References <a href="#aa59ea16bec07d69208a326fa7b6732a8">m&#95;title</a> and <a href="#ae7c2f68012f0c1aee19f23f14238ec83">title</a>.
+References <a href="#aa59ea16bec07d69208a326fa7b6732a8">m\_title</a> and <a href="#ae7c2f68012f0c1aee19f23f14238ec83">title</a>.
 </div>
 </div>
 
@@ -1124,7 +1141,8 @@ References <a href="#aa59ea16bec07d69208a326fa7b6732a8">m&#95;title</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1133,7 +1151,7 @@ References <a href="#aa59ea16bec07d69208a326fa7b6732a8">m&#95;title</a> and <a h
 </div>
 
 
-Reference <a href="#a89f735c173e5281ad439417397c8487a">m&#95;text</a>.
+Reference <a href="#a89f735c173e5281ad439417397c8487a">m\_text</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#acfb3aacf4b559a4b9fb4fb5b2dc960bc">DocXRefItem::parse</a> and <a href="#a8da6aab7aa568741bd2a83d8a9c34827">setText</a>.
 </div>
@@ -1163,7 +1181,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1172,7 +1191,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786
 </div>
 
 
-Reference <a href="#aa59ea16bec07d69208a326fa7b6732a8">m&#95;title</a>.
+Reference <a href="#aa59ea16bec07d69208a326fa7b6732a8">m\_title</a>.
 
 Referenced by <a href="#a4b0259b3ed7d88f73d298a113ed2127b">setTitle</a>.
 </div>
@@ -1184,7 +1203,7 @@ Referenced by <a href="#a4b0259b3ed7d88f73d298a113ed2127b">setTitle</a>.
 
 ## Private Member Attributes
 
-### m&#95;anchor {#a95ff15b9d62d1fde2e4cebb6a87e7b9f}
+### m\_anchor {#a95ff15b9d62d1fde2e4cebb6a87e7b9f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1201,9 +1220,10 @@ Referenced by <a href="#a4b0259b3ed7d88f73d298a113ed2127b">setTitle</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>anchor in the list</p>
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+anchor in the list
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1216,7 +1236,7 @@ Referenced by <a href="#aebd4bb49f4b3c355fa866a6e5b409d1b">anchor</a> and <a hre
 </div>
 </div>
 
-### m&#95;args {#a73864e573032be6863f88669b06235c2}
+### m\_args {#a73864e573032be6863f88669b06235c2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1233,9 +1253,10 @@ Referenced by <a href="#aebd4bb49f4b3c355fa866a6e5b409d1b">anchor</a> and <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>optional arguments for the entity (if function)</p>
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+optional arguments for the entity (if function)
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1248,7 +1269,7 @@ Referenced by <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href=
 </div>
 </div>
 
-### m&#95;group {#adf7a2187f52d9cc4c0c4678eab8d3469}
+### m\_group {#adf7a2187f52d9cc4c0c4678eab8d3469}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1265,9 +1286,10 @@ Referenced by <a href="#a5b5b786fbe55438b80f48ecde39bbaf1">args</a> and <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>group id used to combine item under a single header</p>
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+group id used to combine item under a single header
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1280,7 +1302,7 @@ Referenced by <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href
 </div>
 </div>
 
-### m&#95;id {#afa2f40e3e931c9b3136e03b1e8a92202}
+### m\_id {#afa2f40e3e931c9b3136e03b1e8a92202}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1297,9 +1319,10 @@ Referenced by <a href="#a04b6ff7edd68961dfad38c6528623984">group</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>unique identifier for this item within its list</p>
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+unique identifier for this item within its list
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1312,7 +1335,7 @@ Referenced by <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a> and <a href="#
 </div>
 </div>
 
-### m&#95;list {#a6f2d6632ffca70234c9ef20ce4a88cc2}
+### m\_list {#a6f2d6632ffca70234c9ef20ce4a88cc2}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1329,9 +1352,10 @@ Referenced by <a href="#a5e44936ef1e0a7a5ad3100fe176fe0de">id</a> and <a href="#
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>list owning this item</p>
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+list owning this item
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1344,7 +1368,7 @@ Referenced by <a href="#abcf82c7972e72835111d28844f6c6485">list</a> and <a href=
 </div>
 </div>
 
-### m&#95;name {#a5d03c75b1cd816986d316b2ff595ae5f}
+### m\_name {#a5d03c75b1cd816986d316b2ff595ae5f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1361,9 +1385,10 @@ Referenced by <a href="#abcf82c7972e72835111d28844f6c6485">list</a> and <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>name of the entity containing the reference</p>
 
-<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+name of the entity containing the reference
+
+Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1376,7 +1401,7 @@ Referenced by <a href="#a988648330a031567066bc656b3d661f1">name</a> and <a href=
 </div>
 </div>
 
-### m&#95;prefix {#a825c5f5a223f203b2c5972e1c43e5e26}
+### m\_prefix {#a825c5f5a223f203b2c5972e1c43e5e26}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1393,9 +1418,10 @@ Referenced by <a href="#a988648330a031567066bc656b3d661f1">name</a> and <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>type prefix for the name</p>
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+type prefix for the name
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1434,7 @@ Referenced by <a href="#aa28e33e8173d77184ce643ec8b017177">prefix</a> and <a hre
 </div>
 </div>
 
-### m&#95;scope {#ac73e9e4747f2b616e5dd54b5917500f3}
+### m\_scope {#ac73e9e4747f2b616e5dd54b5917500f3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1425,9 +1451,10 @@ Referenced by <a href="#aa28e33e8173d77184ce643ec8b017177">prefix</a> and <a hre
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>scope to use for references.</p>
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+scope to use for references.
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1440,7 +1467,7 @@ Referenced by <a href="#a3eb6c2753a859c29bfe8b79bc201e38e">scope</a> and <a href
 </div>
 </div>
 
-### m&#95;text {#a89f735c173e5281ad439417397c8487a}
+### m\_text {#a89f735c173e5281ad439417397c8487a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1457,9 +1484,10 @@ Referenced by <a href="#a3eb6c2753a859c29bfe8b79bc201e38e">scope</a> and <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>text of the item.</p>
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+text of the item.
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1472,7 +1500,7 @@ Referenced by <a href="#a8da6aab7aa568741bd2a83d8a9c34827">setText</a> and <a hr
 </div>
 </div>
 
-### m&#95;title {#aa59ea16bec07d69208a326fa7b6732a8}
+### m\_title {#aa59ea16bec07d69208a326fa7b6732a8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1489,9 +1517,10 @@ Referenced by <a href="#a8da6aab7aa568741bd2a83d8a9c34827">setText</a> and <a hr
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>display name of the entity</p>
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.</p>
+display name of the entity
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1508,7 +1537,7 @@ Referenced by <a href="#a4b0259b3ed7d88f73d298a113ed2127b">setTitle</a> and <a h
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a></li>

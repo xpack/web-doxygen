@@ -245,7 +245,7 @@ struct vhdl::parser::VhdlParser::SharedState { ... }
 </table>
 
 
-<p>Definition at line 11174 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+Definition at line 11174 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxySectionDef">
 
@@ -270,7 +270,8 @@ struct vhdl::parser::VhdlParser::SharedState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11181 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11181 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -300,7 +301,8 @@ struct vhdl::parser::VhdlParser::SharedState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11184 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11184 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -330,7 +332,8 @@ struct vhdl::parser::VhdlParser::SharedState { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11180 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11180 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,7 +346,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 </div>
 </div>
 
-### current&#95;root {#a1943eaf985ae6ae0a3316b65f2810ac1}
+### current\_root {#a1943eaf985ae6ae0a3316b65f2810ac1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -362,7 +365,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11176 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11176 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -394,7 +398,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11182 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11182 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -424,7 +429,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11189 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11189 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -437,7 +443,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f
 </div>
 </div>
 
-### generic&#95;sec {#afbb5e953c66b487e7455e9c89fde0398}
+### generic\_sec {#afbb5e953c66b487e7455e9c89fde0398}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -456,7 +462,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11191 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11191 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -486,7 +493,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11185 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11185 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -499,7 +507,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 </div>
 </div>
 
-### interf&#95;sec {#a4e5f659c61c3fcb81cde348ad841f316}
+### interf\_sec {#a4e5f659c61c3fcb81cde348ad841f316}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -518,7 +526,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11190 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11190 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -548,7 +557,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11186 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11186 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -578,7 +588,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11179 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11179 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -610,7 +621,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11178 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11178 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -642,7 +654,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11183 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11183 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -653,7 +666,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 </div>
 </div>
 
-### param&#95;sec {#a6603dae57b0613b5d703220ea1154e6c}
+### param\_sec {#a6603dae57b0613b5d703220ea1154e6c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -672,7 +685,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11187 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11187 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -685,7 +699,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 </div>
 </div>
 
-### parse&#95;sec {#a4f099ecf9b3c15a81b472b8aa7500f81}
+### parse\_sec {#a4f099ecf9b3c15a81b472b8aa7500f81}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -704,7 +718,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11188 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11188 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -736,7 +751,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 11177 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
+Definition at line 11177 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -753,7 +769,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a></li>

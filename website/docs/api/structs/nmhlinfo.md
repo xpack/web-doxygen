@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `NmhlInfo` Struct Reference
 
-<p>Helper class representing a namespace member in the navigation menu. <a href="#details">More...</a></p>
+Helper class representing a namespace member in the navigation menu. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -78,9 +78,9 @@ struct NmhlInfo { ... }
 
 ## Description {#details}
 
-<p>Helper class representing a namespace member in the navigation menu.</p>
+Helper class representing a namespace member in the navigation menu.
 
-<p>Definition at line 3445 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+Definition at line 3445 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -110,7 +110,8 @@ struct NmhlInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 3447 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 3447 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -148,7 +149,8 @@ References <a href="#a065740eda2e359636dff74500e473095">fname</a> and <a href="#
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 3448 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 3448 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -180,7 +182,8 @@ Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 3449 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
+Definition at line 3449 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -197,7 +200,7 @@ Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a></li>

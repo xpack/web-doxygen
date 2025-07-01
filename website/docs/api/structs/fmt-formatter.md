@@ -32,7 +32,7 @@ struct fmt::formatter&lt;T&gt; { ... }
 </div>
 
 
-<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <hr/>
 

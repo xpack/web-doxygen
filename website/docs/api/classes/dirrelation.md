@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DirRelation` Class Reference
 
-<p>A usage relation between two directories. <a href="#details">More...</a></p>
+A usage relation between two directories. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -154,9 +154,9 @@ class DirRelation { ... }
 
 ## Description {#details}
 
-<p>A usage relation between two directories.</p>
+A usage relation between two directories.
 
-<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -186,7 +186,8 @@ class DirRelation { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -196,7 +197,7 @@ class DirRelation { ... }
 </div>
 
 
-References <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>, <a href="#a470369422b9a291d75c8ea3cdf48fc5f">m&#95;name</a> and <a href="#a0f8d40ddf8119bf256e3c12b33685093">m&#95;src</a>.
+References <a href="#a3e4e275033d30b182a7b88338f11fb77">m\_dst</a>, <a href="#a470369422b9a291d75c8ea3cdf48fc5f">m\_name</a> and <a href="#a0f8d40ddf8119bf256e3c12b33685093">m\_src</a>.
 </div>
 </div>
 
@@ -230,7 +231,8 @@ References <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -239,7 +241,7 @@ References <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>, <a href="
 </div>
 
 
-Reference <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>.
+Reference <a href="#a3e4e275033d30b182a7b88338f11fb77">m\_dst</a>.
 </div>
 </div>
 
@@ -267,7 +269,8 @@ Reference <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -276,7 +279,7 @@ Reference <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>.
 </div>
 
 
-Reference <a href="#a470369422b9a291d75c8ea3cdf48fc5f">m&#95;name</a>.
+Reference <a href="#a470369422b9a291d75c8ea3cdf48fc5f">m\_name</a>.
 
 Referenced by <a href="#a5fa861050993dafb351589f2f1c05326">writeDocumentation</a>.
 </div>
@@ -306,7 +309,8 @@ Referenced by <a href="#a5fa861050993dafb351589f2f1c05326">writeDocumentation</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -315,7 +319,7 @@ Referenced by <a href="#a5fa861050993dafb351589f2f1c05326">writeDocumentation</a
 </div>
 
 
-Reference <a href="#a0f8d40ddf8119bf256e3c12b33685093">m&#95;src</a>.
+Reference <a href="#a0f8d40ddf8119bf256e3c12b33685093">m\_src</a>.
 </div>
 </div>
 
@@ -338,7 +342,8 @@ Reference <a href="#a0f8d40ddf8119bf256e3c12b33685093">m&#95;src</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 942 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+
+Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 942 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -398,7 +403,7 @@ Reference <a href="#a0f8d40ddf8119bf256e3c12b33685093">m&#95;src</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO&#95;TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a91f9afddff1974d7805c3d022b754ddf">OutputList::disableAllBut</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a317bae5a753eac709cf776b2ec2fb732">OutputList::endContents</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac1850678fe273e83bcda397bc2f1b6ec">endFileWithNavPath</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#ab1da800b31634af3c518bfa8c0b8323b">OutputList::endQuickIndices</a>, <a href="#a73890fdede27fd42215794b10b76b05a">getOutputFileBase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="#a3e4e275033d30b182a7b88338f11fb77">m&#95;dst</a>, <a href="#a0f8d40ddf8119bf256e3c12b33685093">m&#95;src</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a6adf97f83acf6453d4a6a4b1070f3754">None</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#adfdcf2ba925f05be8beb8cf43deb168a">OutputList::parseText</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a94eb1af2ea07425ef1faa539d24adcf8">OutputList::popGeneratorState</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a885957a64f7d87aefb663c4ec903188f">OutputList::pushGeneratorState</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#ac891ad4a7081e1ab9d42a637596111db">OutputList::startContents</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a8183f7413c2945be8d3a2ca7ee4f237f">startFile</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a50a5ca2a633e8e9e98f1fdb284b96186">writePartialFilePath</a> and <a href="/web-doxygen/docs/api/classes/outputlist/#a07cac8a8981da35314f77d8f3edb7f76">OutputList::writeString</a>.
+References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a91f9afddff1974d7805c3d022b754ddf">OutputList::disableAllBut</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a317bae5a753eac709cf776b2ec2fb732">OutputList::endContents</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac1850678fe273e83bcda397bc2f1b6ec">endFileWithNavPath</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#ab1da800b31634af3c518bfa8c0b8323b">OutputList::endQuickIndices</a>, <a href="#a73890fdede27fd42215794b10b76b05a">getOutputFileBase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="#a3e4e275033d30b182a7b88338f11fb77">m\_dst</a>, <a href="#a0f8d40ddf8119bf256e3c12b33685093">m\_src</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a6adf97f83acf6453d4a6a4b1070f3754">None</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#adfdcf2ba925f05be8beb8cf43deb168a">OutputList::parseText</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a94eb1af2ea07425ef1faa539d24adcf8">OutputList::popGeneratorState</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a885957a64f7d87aefb663c4ec903188f">OutputList::pushGeneratorState</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#ac891ad4a7081e1ab9d42a637596111db">OutputList::startContents</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a8183f7413c2945be8d3a2ca7ee4f237f">startFile</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a50a5ca2a633e8e9e98f1fdb284b96186">writePartialFilePath</a> and <a href="/web-doxygen/docs/api/classes/outputlist/#a07cac8a8981da35314f77d8f3edb7f76">OutputList::writeString</a>.
 </div>
 </div>
 
@@ -408,7 +413,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 ## Private Member Attributes
 
-### m&#95;dst {#a3e4e275033d30b182a7b88338f11fb77}
+### m\_dst {#a3e4e275033d30b182a7b88338f11fb77}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -427,7 +432,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -440,7 +446,7 @@ Referenced by <a href="#a2fc1b42862174170fcb18d6b997b7fcf">destination</a>, <a h
 </div>
 </div>
 
-### m&#95;name {#a470369422b9a291d75c8ea3cdf48fc5f}
+### m\_name {#a470369422b9a291d75c8ea3cdf48fc5f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -459,7 +465,8 @@ Referenced by <a href="#a2fc1b42862174170fcb18d6b997b7fcf">destination</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -472,7 +479,7 @@ Referenced by <a href="#af7ea0932aa290846b11b631dbdde6f65">DirRelation</a> and <
 </div>
 </div>
 
-### m&#95;src {#a0f8d40ddf8119bf256e3c12b33685093}
+### m\_src {#a0f8d40ddf8119bf256e3c12b33685093}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -491,7 +498,8 @@ Referenced by <a href="#af7ea0932aa290846b11b631dbdde6f65">DirRelation</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -508,7 +516,7 @@ Referenced by <a href="#af7ea0932aa290846b11b631dbdde6f65">DirRelation</a>, <a h
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a></li>

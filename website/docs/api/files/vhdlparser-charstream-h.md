@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -68,7 +68,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>This class describes a character stream that maintains line and column number positions of the characters. <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#details">More...</a></p>
+This class describes a character stream that maintains line and column number positions of the characters. <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -101,7 +101,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### INITIAL&#95;BUFFER&#95;SIZE {#a1d51567e0f6916e91f5bd3719d56cce6}
+### INITIAL\_BUFFER\_SIZE {#a1d51567e0f6916e91f5bd3719d56cce6}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -120,7 +120,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+
+Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.
 
 <div class="doxyProgramListing">
 

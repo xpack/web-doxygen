@@ -41,7 +41,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/defargsyy-state">defargsYY&#95;state</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/defargsyy-state">defargsYY_state</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -215,7 +215,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -310,9 +310,9 @@ toc_max_heading_level: 4
 
 
 
-<p>This scanner is used to convert a string into a list of function or template arguments. Each parsed argument results in a <a href="/web-doxygen/docs/api/structs/argument">Argument</a> struct, that is put into an <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> in declaration order. Comment blocks for arguments can also be included in the string. The argument string does not contain new-lines (except inside any comment blocks). An <a href="/web-doxygen/docs/api/structs/argument">Argument</a> consists of the string fields: type,name,default value, and documentation The <a href="/web-doxygen/docs/api/structs/argument">Argument</a> list as a whole can be pure, constant or volatile.</p>
+This scanner is used to convert a string into a list of function or template arguments. Each parsed argument results in a <a href="/web-doxygen/docs/api/structs/argument">Argument</a> struct, that is put into an <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> in declaration order. Comment blocks for arguments can also be included in the string. The argument string does not contain new-lines (except inside any comment blocks). An <a href="/web-doxygen/docs/api/structs/argument">Argument</a> consists of the string fields: type,name,default value, and documentation The <a href="/web-doxygen/docs/api/structs/argument">Argument</a> list as a whole can be pure, constant or volatile.
 
-<p>Examples of input strings are:</p>
+Examples of input strings are:
 
 
 <pre><code>*    "(int a,int b) const"
@@ -323,13 +323,13 @@ toc_max_heading_level: 4
 </code></pre>
 
 
-<p>Note: It is not always possible to distinguish between the name and type of an argument. In case of doubt the name is added to the type, and the matchArgumentList in <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a> is be used to further determine the correct separation.</p>
+Note: It is not always possible to distinguish between the name and type of an argument. In case of doubt the name is added to the type, and the matchArgumentList in <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a> is be used to further determine the correct separation.
 
 <div class="doxySectionDef">
 
 ## Typedefs
 
-### yyscan&#95;t {#a9484188abbc459dafcbd4c96425fa70b}
+### yyscan\_t {#a9484188abbc459dafcbd4c96425fa70b}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -348,7 +348,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -390,7 +391,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -425,7 +427,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 802 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 802 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -465,7 +468,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 </div>
 </div>
 
@@ -489,7 +493,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-<p>Converts an argument string into an <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a>.</p>
+
+Converts an argument string into an <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a>.
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -497,21 +502,21 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] lang</td>
-<td class="doxyParamItemDescription"><p>language of the current argument list</p></td>
+<td class="doxyParamItemDescription">language of the current argument list</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] argsString</td>
-<td class="doxyParamItemDescription"><p>the list of Arguments.</p></td>
+<td class="doxyParamItemDescription">the list of Arguments.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] extraTypeChars</td>
-<td class="doxyParamItemDescription"><p>point to string to which trailing characters for complex types are written to</p></td>
+<td class="doxyParamItemDescription">point to string to which trailing characters for complex types are written to</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 814 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+Definition at line 814 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -545,9 +550,9 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da2dbbd7c420176dca999210d256d1e223">Debug::Lex&#95;defargs</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da2dbbd7c420176dca999210d256d1e223">Debug::Lex\_defargs</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a1f7c3408ea1bf71c19a8e593763d88f7">ClassDefImpl::addMemberToTemplateInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afb0da87d7d3ab2047204073d584974ad">buildDefineList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa5dd16fd497d034a55fdca37a3c17804">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::buildMemberList</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa266ab08127667eabf8093a23e37ff9a">findMembersWithSpecificName</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f26028922a120817dd5292aad1bcef4">findTemplateInstanceRelation</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a40f0f9c9cb6b6b7392ae6e695fc74671">SymbolResolver::Private::getResolvedSymbol</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2dd347b6be51aa404a4e6bc679736606">MemberDefImpl::init</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#af3eab25ba334db0ed299983b354a89cb">ClassDefImpl::insertTemplateInstance</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a52cc252e59332d38e224e11bd019f632">matchCanonicalTypes</a>.
+Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a1f7c3408ea1bf71c19a8e593763d88f7">ClassDefImpl::addMemberToTemplateInstance</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afb0da87d7d3ab2047204073d584974ad">buildDefineList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa5dd16fd497d034a55fdca37a3c17804">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildMemberList</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aa266ab08127667eabf8093a23e37ff9a">findMembersWithSpecificName</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f26028922a120817dd5292aad1bcef4">findTemplateInstanceRelation</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a40f0f9c9cb6b6b7392ae6e695fc74671">SymbolResolver::Private::getResolvedSymbol</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2dd347b6be51aa404a4e6bc679736606">MemberDefImpl::init</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#af3eab25ba334db0ed299983b354a89cb">ClassDefImpl::insertTemplateInstance</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a52cc252e59332d38e224e11bd019f632">matchCanonicalTypes</a>.
 </div>
 </div>
 
@@ -570,7 +575,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1070,7 +1076,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1097,7 +1104,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 ## Macro Definitions
 
-### LEX&#95;NO&#95;INPUT&#95;FILENAME {#adbe0797eba7c28545d6937f8f6bf1cf8}
+### LEX\_NO\_INPUT\_FILENAME {#adbe0797eba7c28545d6937f8f6bf1cf8}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1116,7 +1123,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1127,7 +1135,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 </div>
 </div>
 
-### MAX&#95;HASH&#95;VALUE {#adcb5e53d22730cfbca1e27236cd11aff}
+### MAX\_HASH\_VALUE {#adcb5e53d22730cfbca1e27236cd11aff}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1146,7 +1154,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1159,7 +1168,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### MAX&#95;WORD&#95;LENGTH {#aec7b4994021c554c1761ea31d016b680}
+### MAX\_WORD\_LENGTH {#aec7b4994021c554c1761ea31d016b680}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1178,7 +1187,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1189,7 +1199,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### MIN&#95;HASH&#95;VALUE {#a18a21935276b7118f4116df1ee70e3c9}
+### MIN\_HASH\_VALUE {#a18a21935276b7118f4116df1ee70e3c9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1208,7 +1218,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1219,7 +1230,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### MIN&#95;WORD&#95;LENGTH {#a7073af2fa16b860b734ab4554eacf3c3}
+### MIN\_WORD\_LENGTH {#a7073af2fa16b860b734ab4554eacf3c3}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1238,7 +1249,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1251,7 +1263,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### TOTAL&#95;KEYWORDS {#a120c1ed986c6271250e689887e765840}
+### TOTAL\_KEYWORDS {#a120c1ed986c6271250e689887e765840}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1270,7 +1282,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1281,7 +1294,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### YY&#95;INPUT {#aacfdca45fa4beb8b06172525a53c424a}
+### YY\_INPUT {#aacfdca45fa4beb8b06172525a53c424a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1290,7 +1303,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max&#95;size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
 </tr>
 </table>
 </td>
@@ -1300,7 +1313,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1311,7 +1325,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### YY&#95;NO&#95;INPUT {#a85523a0c7d95c059d251b4e9829947aa}
+### YY\_NO\_INPUT {#a85523a0c7d95c059d251b4e9829947aa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1330,7 +1344,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1341,7 +1356,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### YY&#95;NO&#95;UNISTD&#95;H {#ae78ac56cd1f29572e967ed7636952d15}
+### YY\_NO\_UNISTD\_H {#ae78ac56cd1f29572e967ed7636952d15}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1360,7 +1375,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1371,7 +1387,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 </div>
 </div>
 
-### YY&#95;TYPEDEF&#95;YY&#95;SCANNER&#95;T {#a5d5508008cac8fb66fca3baa4e9b6584}
+### YY\_TYPEDEF\_YY\_SCANNER\_T {#a5d5508008cac8fb66fca3baa4e9b6584}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1390,7 +1406,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/keywordhash/#ad9e74a09c57e4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
 
 <div class="doxyProgramListing">
 

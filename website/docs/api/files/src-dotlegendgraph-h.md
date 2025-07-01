@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Representation of a legend explaining the meaning of boxes, arrows, and colors. <a href="/web-doxygen/docs/api/classes/dotlegendgraph/#details">More...</a></p>
+Representation of a legend explaining the meaning of boxes, arrows, and colors. <a href="/web-doxygen/docs/api/classes/dotlegendgraph/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

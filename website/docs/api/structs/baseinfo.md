@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `BaseInfo` Struct Reference
 
-<p>This class stores information about an inheritance relation. <a href="#details">More...</a></p>
+This class stores information about an inheritance relation. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ struct BaseInfo { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>the name of the base class <a href="#ae8bba327d477830b4664f9d03b05c97b">More...</a></p>
+the name of the base class <a href="#ae8bba327d477830b4664f9d03b05c97b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ struct BaseInfo { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>inheritance type <a href="#aaf46efd63ca2b598a79324042bac83f3">More...</a></p>
+inheritance type <a href="#aaf46efd63ca2b598a79324042bac83f3">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,7 +88,7 @@ struct BaseInfo { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>virtualness <a href="#ab32fa6c3344b6608768043f6ee5a8e6b">More...</a></p>
+virtualness <a href="#ab32fa6c3344b6608768043f6ee5a8e6b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -99,9 +99,9 @@ struct BaseInfo { ... }
 
 ## Description {#details}
 
-<p>This class stores information about an inheritance relation.</p>
+This class stores information about an inheritance relation.
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxySectionDef">
 
@@ -132,9 +132,10 @@ struct BaseInfo { ... }
 
 
 
-<p>Creates an object representing an inheritance relation</p>
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+Creates an object representing an inheritance relation
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -171,9 +172,10 @@ References <a href="#ae8bba327d477830b4664f9d03b05c97b">name</a>, <a href="#aaf4
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>the name of the base class</p>
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+the name of the base class
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -182,7 +184,7 @@ References <a href="#ae8bba327d477830b4664f9d03b05c97b">name</a>, <a href="#aaf4
 </div>
 
 
-Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#abc809fca2014e90fe0aee477a1964ed7">computePageRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aafd3846f78cc76b992152366c99f7d74">anonymous&#95;namespace{tagreader.cpp}::TagFileParser::dump</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae13abaf328534f92b57bb6af8208f31d">findBaseClassesForClass</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905bf9bd629622f65075b558">findClassRelation</a>.
+Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#abc809fca2014e90fe0aee477a1964ed7">computePageRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aafd3846f78cc76b992152366c99f7d74">anonymous\_namespace{tagreader.cpp}::TagFileParser::dump</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae13abaf328534f92b57bb6af8208f31d">findBaseClassesForClass</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2855c4f3905bf9bd629622f65075b558">findClassRelation</a>.
 </div>
 </div>
 
@@ -203,9 +205,10 @@ Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a>, <a href
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>inheritance type</p>
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+inheritance type
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -235,9 +238,10 @@ Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a> and <a h
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>virtualness</p>
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+virtualness
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -254,7 +258,7 @@ Referenced by <a href="#ab2e40125106e491f74d910970db6a277">BaseInfo</a> and <a h
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a></li>

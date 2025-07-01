@@ -69,7 +69,7 @@ class FortranCodeParserFixed { ... }
 </table>
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -99,7 +99,8 @@ class FortranCodeParserFixed { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -116,7 +117,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#ad3f2a8c13ceee9c0aa
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a></li>

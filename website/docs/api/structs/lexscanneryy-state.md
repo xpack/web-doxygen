@@ -370,13 +370,13 @@ struct lexscannerYY_state { ... }
 </table>
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxySectionDef">
 
 ## Public Member Attributes
 
-### bison&#95;bridge {#aea8eaebe92b99863656e8e8f9e495130}
+### bison\_bridge {#aea8eaebe92b99863656e8e8f9e495130}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -395,7 +395,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -406,7 +407,7 @@ struct lexscannerYY_state { ... }
 </div>
 </div>
 
-### bison&#95;locations {#a854eb96013edc2299521f2b4ad8b7dce}
+### bison\_locations {#a854eb96013edc2299521f2b4ad8b7dce}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -425,7 +426,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -455,7 +457,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -485,7 +488,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -515,7 +519,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -545,7 +550,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -575,7 +581,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -586,7 +593,7 @@ struct lexscannerYY_state { ... }
 </div>
 </div>
 
-### current&#95;root {#ab008d23a2a71fa3669ef3af26ac4b52c}
+### current\_root {#ab008d23a2a71fa3669ef3af26ac4b52c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -605,7 +612,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -635,7 +643,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -665,7 +674,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -695,7 +705,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -725,7 +736,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -755,7 +767,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -785,7 +798,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -815,7 +829,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -845,7 +860,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -875,7 +891,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -905,7 +922,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -935,7 +953,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -965,7 +984,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -995,7 +1015,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1025,7 +1046,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1055,7 +1077,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1085,7 +1108,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1115,7 +1139,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1145,7 +1170,8 @@ struct lexscannerYY_state { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
+Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -1160,7 +1186,7 @@ struct lexscannerYY_state { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a></li>

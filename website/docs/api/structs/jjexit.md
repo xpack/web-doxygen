@@ -96,7 +96,7 @@ struct JJExit&lt;T&gt; { ... }
 </table>
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxySectionDef">
 
@@ -127,7 +127,8 @@ struct JJExit&lt;T&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -146,7 +147,7 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 
 ## Public Destructor
 
-### ~JJExit() {#a43eb7df1aae863a4d9b7e3507e9316ea}
+### \~JJExit() {#a43eb7df1aae863a4d9b7e3507e9316ea}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -171,7 +172,8 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -210,7 +212,8 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -219,7 +222,7 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 </div>
 
 
-Referenced by <a href="#ae0986466f47a26349be4635bb4c68e89">JJExit&lt; T &gt;::JJExit</a> and <a href="#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt; T &gt;::~JJExit</a>.
+Referenced by <a href="#ae0986466f47a26349be4635bb4c68e89">JJExit&lt; T &gt;::JJExit</a> and <a href="#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt; T &gt;::\~JJExit</a>.
 </div>
 </div>
 
@@ -227,7 +230,7 @@ Referenced by <a href="#ae0986466f47a26349be4635bb4c68e89">JJExit&lt; T &gt;::JJ
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a></li>

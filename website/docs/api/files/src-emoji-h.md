@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Singleton helper class to map emoji entities to other formats. <a href="/web-doxygen/docs/api/classes/emojientitymapper/#details">More...</a></p>
+Singleton helper class to map emoji entities to other formats. <a href="/web-doxygen/docs/api/classes/emojientitymapper/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

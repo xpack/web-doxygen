@@ -82,13 +82,13 @@ struct SIData_Word { ... }
 </table>
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxySectionDef">
 
 ## Public Constructors
 
-### SIData&#95;Word() {#a1c35b150169139351dae0a697415fdbd}
+### SIData\_Word() {#a1c35b150169139351dae0a697415fdbd}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -112,7 +112,8 @@ struct SIData_Word { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -151,7 +152,8 @@ References <a href="#ad7139ab71767d51a15af2099230fd5f6">hiPrio</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -160,7 +162,7 @@ References <a href="#ad7139ab71767d51a15af2099230fd5f6">hiPrio</a> and <a href="
 </div>
 
 
-Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData&#95;Word</a>.
+Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData\_Word</a>.
 </div>
 </div>
 
@@ -183,7 +185,8 @@ Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData&#95;Word</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -192,7 +195,7 @@ Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData&#95;Word</a>.
 </div>
 
 
-Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData&#95;Word</a>.
+Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData\_Word</a>.
 </div>
 </div>
 
@@ -200,7 +203,7 @@ Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData&#95;Word</a>.
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a></li>

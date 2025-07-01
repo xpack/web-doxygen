@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `formatter` Struct Template Reference
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41">MemberType</a> <a href="#details">More...</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41">MemberType</a> <a href="#details">More...</a>
 
 ## Declaration
 
@@ -70,9 +70,9 @@ struct fmt::formatter&lt;MemberType&gt; { ... }
 
 ## Description {#details}
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41">MemberType</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41">MemberType</a>
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxySectionDef">
 
@@ -102,7 +102,8 @@ struct fmt::formatter&lt;MemberType&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -141,7 +142,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de61
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/message-h">message.h</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `EclipseHelp` Class Reference
 
-<p>Generator for Eclipse help files. <a href="#details">More...</a></p>
+Generator for Eclipse help files. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
+Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -99,7 +99,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Initialize the Eclipse generator. <a href="#aefada9c9b474d36ef9b771e2361c8dc1">More...</a></p>
+Initialize the Eclipse generator. <a href="#aefada9c9b474d36ef9b771e2361c8dc1">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Finish generation of the Eclipse specific help files. <a href="#a6a8532316d47986f371459e6b09b9d71">More...</a></p>
+Finish generation of the Eclipse specific help files. <a href="#a6a8532316d47986f371459e6b09b9d71">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,7 +127,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Increase the level of content hierarchy. <a href="#a84c091576dab518ca0301144b96cc826">More...</a></p>
+Increase the level of content hierarchy. <a href="#a84c091576dab518ca0301144b96cc826">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -141,7 +141,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Decrease the level of content hierarchy. <a href="#a20d28e23b12cd60a358e7a07fd713262">More...</a></p>
+Decrease the level of content hierarchy. <a href="#a20d28e23b12cd60a358e7a07fd713262">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -155,7 +155,7 @@ class EclipseHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Add an item to the content. <a href="#a9ea6d0cffe6ede5208e4d4079f54ea5e">More...</a></p>
+Add an item to the content. <a href="#a9ea6d0cffe6ede5208e4d4079f54ea5e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -237,12 +237,12 @@ class EclipseHelp { ... }
 
 ## Description {#details}
 
-<p>Generator for Eclipse help files.</p>
+Generator for Eclipse help files.
 
 
-<p>This class generates the Eclipse specific help files. These files can be used to generate a help plugin readable by the Eclipse IDE.</p>
+This class generates the Eclipse specific help files. These files can be used to generate a help plugin readable by the Eclipse IDE.
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.
 
 <div class="doxySectionDef">
 
@@ -267,7 +267,8 @@ class EclipseHelp { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
+Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -278,7 +279,7 @@ class EclipseHelp { ... }
 
 Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 
-Referenced by <a href="#a09fa77b331a5f5bc951428aecd9f34cc">~EclipseHelp</a>.
+Referenced by <a href="#a09fa77b331a5f5bc951428aecd9f34cc">\~EclipseHelp</a>.
 </div>
 </div>
 
@@ -288,7 +289,7 @@ Referenced by <a href="#a09fa77b331a5f5bc951428aecd9f34cc">~EclipseHelp</a>.
 
 ## Public Destructor
 
-### ~EclipseHelp() {#a09fa77b331a5f5bc951428aecd9f34cc}
+### \~EclipseHelp() {#a09fa77b331a5f5bc951428aecd9f34cc}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -312,7 +313,8 @@ Referenced by <a href="#a09fa77b331a5f5bc951428aecd9f34cc">~EclipseHelp</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.
 
 Reference <a href="#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a>.
 </div>
@@ -346,7 +348,8 @@ Reference <a href="#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Add an item to the content.</p>
+
+Add an item to the content.
 
 
 <dl class="doxyParamsList">
@@ -355,45 +358,45 @@ Reference <a href="#a4f1bd0f9c58507da2b24c9491200bf8a">EclipseHelp</a>.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isDir</td>
-<td class="doxyParamItemDescription"><p>Flag whether the argument <em>file</em> is a directory or a file entry</p></td>
+<td class="doxyParamItemDescription">Flag whether the argument <em>file</em> is a directory or a file entry</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription"><p>Name of the item</p></td>
+<td class="doxyParamItemDescription">Name of the item</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">ref</td>
-<td class="doxyParamItemDescription"><p>URL of the item</p></td>
+<td class="doxyParamItemDescription">URL of the item</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">file</td>
-<td class="doxyParamItemDescription"><p>Name of a file which the item is defined in (without extension)</p></td>
+<td class="doxyParamItemDescription">Name of a file which the item is defined in (without extension)</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">anchor</td>
-<td class="doxyParamItemDescription"><p>Name of an anchor of the item.</p></td>
+<td class="doxyParamItemDescription">Name of an anchor of the item.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">separateIndex</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">addToNavIndex</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">def</td>
-<td class="doxyParamItemDescription"><p>not used.</p></td>
+<td class="doxyParamItemDescription">not used.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">nameAsHtml</td>
-<td class="doxyParamItemDescription"><p>name parameter in HTML format</p></td>
+<td class="doxyParamItemDescription">name parameter in HTML format</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -479,7 +482,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
+Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -516,7 +520,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
+Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -553,7 +558,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
+Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -594,7 +600,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
+Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -629,12 +636,13 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Decrease the level of content hierarchy.</p>
+
+Decrease the level of content hierarchy.
 
 
-<p>It closes currently opened topic tag.</p>
+It closes currently opened topic tag.
 
-<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -681,20 +689,21 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Finish generation of the Eclipse specific help files.</p>
+
+Finish generation of the Eclipse specific help files.
 
 
-<p>This method writes footers of the files and closes them.</p>
+This method writes footers of the files and closes them.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#aefada9c9b474d36ef9b771e2361c8dc1">initialize()</a></p>
+<a href="#aefada9c9b474d36ef9b771e2361c8dc1">initialize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -726,7 +735,7 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </div>
 </div>
 
@@ -752,9 +761,10 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Increase the level of content hierarchy.</p>
 
-<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+Increase the level of content hierarchy.
+
+Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -793,20 +803,21 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Initialize the Eclipse generator.</p>
+
+Initialize the Eclipse generator.
 
 
-<p>This method opens the XML TOC file and writes headers of the files.</p>
+This method opens the XML TOC file and writes headers of the files.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
 <dd>
-<p><a href="#a6a8532316d47986f371459e6b09b9d71">finalize()</a></p>
+<a href="#a6a8532316d47986f371459e6b09b9d71">finalize()</a>
 </dd>
 </dl>
 
 
-<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>, definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -835,7 +846,7 @@ Reference <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a475869f8e9deea13237bde7b0df5fb97">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 </div>
 </div>
 
@@ -864,7 +875,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-h">eclipsehelp.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -881,7 +893,7 @@ Referenced by <a href="#a9ea6d0cffe6ede5208e4d4079f54ea5e">addContentsItem</a>, 
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a></li>

@@ -58,7 +58,7 @@ struct DocTokenizer::Private { ... }
 </table>
 
 
-<p>Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxySectionDef">
 
@@ -83,7 +83,8 @@ struct DocTokenizer::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ struct DocTokenizer::Private { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
+Definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,7 @@ struct DocTokenizer::Private { ... }
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a></li>

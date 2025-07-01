@@ -51,7 +51,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Singleton that manages plantuml relation actions. <a href="/web-doxygen/docs/api/classes/plantumlmanager/#details">More...</a></p>
+Singleton that manages plantuml relation actions. <a href="/web-doxygen/docs/api/classes/plantumlmanager/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -97,7 +97,7 @@ toc_max_heading_level: 4
 
 ## Macro Definitions
 
-### DIVIDE&#95;COUNT {#a50e02956bf6166d05d803ed4627cc7fa}
+### DIVIDE\_COUNT {#a50e02956bf6166d05d803ed4627cc7fa}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -116,7 +116,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
+Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -127,7 +128,7 @@ toc_max_heading_level: 4
 </div>
 </div>
 
-### MIN&#95;PLANTUML&#95;COUNT {#a3d5795b8e080f4ce56ea0df22a0bb929}
+### MIN\_PLANTUML\_COUNT {#a3d5795b8e080f4ce56ea0df22a0bb929}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -146,7 +147,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
+Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
 
 <div class="doxyProgramListing">
 

@@ -191,7 +191,8 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -247,7 +248,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab7fced0
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -295,7 +297,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab9411b5e1c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,7 +346,8 @@ Referenced by <a href="#a809219d7701732d9db2bbfef99c3e86b">makeBaseName</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -376,7 +380,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a9ecd666
 
 ## Macro Definitions
 
-### DB&#95;VIS&#95;C {#a7cb6b1e61aa0556ab096f11e04418b99}
+### DB\_VIS\_C {#a7cb6b1e61aa0556ab096f11e04418b99}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -395,7 +399,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a9ecd666
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -408,7 +413,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 </div>
 </div>
 
-### DB&#95;VIS&#95;C1 {#af12ed68841c0b4918c498797ef0d9312}
+### DB\_VIS\_C1 {#af12ed68841c0b4918c498797ef0d9312}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -427,7 +432,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -438,7 +444,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 </div>
 </div>
 
-### DB&#95;VIS&#95;C2 {#ac625b8993c09e0adefac75dd2be11f80}
+### DB\_VIS\_C2 {#ac625b8993c09e0adefac75dd2be11f80}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -457,7 +463,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -468,7 +475,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 </div>
 </div>
 
-### DB&#95;VIS&#95;C2a {#a836d3f613efc3b01def439656e51e428}
+### DB\_VIS\_C2a {#a836d3f613efc3b01def439656e51e428}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -487,7 +494,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ace8d7fe
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp">docbookvisitor.cpp</a>.
 
 <div class="doxyProgramListing">
 

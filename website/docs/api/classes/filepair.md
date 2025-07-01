@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FilePair` Class Reference
 
-<p>Class representing a pair of <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> objects. <a href="#details">More...</a></p>
+Class representing a pair of <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> objects. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -134,9 +134,9 @@ class FilePair { ... }
 
 ## Description {#details}
 
-<p>Class representing a pair of <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> objects.</p>
+Class representing a pair of <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> objects.
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxySectionDef">
 
@@ -166,7 +166,8 @@ class FilePair { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -175,7 +176,7 @@ class FilePair { ... }
 </div>
 
 
-References <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a> and <a href="#aff9884b21679ba26c75742fc1555461c">m&#95;src</a>.
+References <a href="#a121d8d0af26f7774efd42c1f79f4258a">m\_dst</a> and <a href="#aff9884b21679ba26c75742fc1555461c">m\_src</a>.
 </div>
 </div>
 
@@ -209,7 +210,8 @@ References <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a> and <a hre
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -218,7 +220,7 @@ References <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a> and <a hre
 </div>
 
 
-Reference <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a>.
+Reference <a href="#a121d8d0af26f7774efd42c1f79f4258a">m\_dst</a>.
 </div>
 </div>
 
@@ -246,7 +248,8 @@ Reference <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -255,7 +258,7 @@ Reference <a href="#a121d8d0af26f7774efd42c1f79f4258a">m&#95;dst</a>.
 </div>
 
 
-Reference <a href="#aff9884b21679ba26c75742fc1555461c">m&#95;src</a>.
+Reference <a href="#aff9884b21679ba26c75742fc1555461c">m\_src</a>.
 </div>
 </div>
 
@@ -265,7 +268,7 @@ Reference <a href="#aff9884b21679ba26c75742fc1555461c">m&#95;src</a>.
 
 ## Private Member Attributes
 
-### m&#95;dst {#a121d8d0af26f7774efd42c1f79f4258a}
+### m\_dst {#a121d8d0af26f7774efd42c1f79f4258a}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -284,7 +287,8 @@ Reference <a href="#aff9884b21679ba26c75742fc1555461c">m&#95;src</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -297,7 +301,7 @@ Referenced by <a href="#a41e11ef0ac20ee3aaf35ef88292fdbcf">destination</a> and <
 </div>
 </div>
 
-### m&#95;src {#aff9884b21679ba26c75742fc1555461c}
+### m\_src {#aff9884b21679ba26c75742fc1555461c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -316,7 +320,8 @@ Referenced by <a href="#a41e11ef0ac20ee3aaf35ef88292fdbcf">destination</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -359,7 +364,8 @@ Referenced by <a href="#a4672b1147b73bf5ba7d80623305301a5">FilePair</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 906 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.</p>
+
+Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>, definition at line 906 of file <a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -381,7 +387,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/useddir/#a9944cb27f5ddd2a96
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dirdef-cpp">dirdef.cpp</a></li>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagEnumValueInfo` Class Reference
 
-<p>Container for enum values that are scoped within an enum. <a href="#details">More...</a></p>
+Container for enum values that are scoped within an enum. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -85,9 +85,9 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 
 ## Description {#details}
 
-<p>Container for enum values that are scoped within an enum.</p>
+Container for enum values that are scoped within an enum.
 
-<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -112,7 +112,8 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -142,7 +143,8 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -172,7 +174,8 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -202,7 +205,8 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
+Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -217,7 +221,7 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a></li>

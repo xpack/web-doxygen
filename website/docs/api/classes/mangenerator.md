@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ManGenerator` Class Reference
 
-<p>Generator for Man page output. <a href="#details">More...</a></p>
+Generator for Man page output. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ManGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Base class for shared implementation for all output generators. <a href="/web-doxygen/docs/api/classes/outputgenerator/#details">More...</a></p>
+Base class for shared implementation for all output generators. <a href="/web-doxygen/docs/api/classes/outputgenerator/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ class ManGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Abstract interface for output generators. <a href="/web-doxygen/docs/api/classes/outputgenintf/#details">More...</a></p>
+Abstract interface for output generators. <a href="/web-doxygen/docs/api/classes/outputgenintf/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2812,9 +2812,9 @@ class ManGenerator { ... }
 
 ## Description {#details}
 
-<p>Generator for Man page output.</p>
+Generator for Man page output.
 
-<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxySectionDef">
 
@@ -2839,7 +2839,8 @@ class ManGenerator { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2853,7 +2854,7 @@ class ManGenerator { ... }
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m&#95;codeList</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="#a1fa72926874fc25ba5e1f460c7570281">m\_codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m\_codeList</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
 
 Referenced by <a href="#ad5d7852c208c4c26f344ff3c512a0f87">ManGenerator</a>, <a href="#ad1d7f98f3af60fc6f6db4defc8da0e15">ManGenerator</a>, <a href="#a9075fbe7449b641e8166a2f8d3cf908f">operator=</a> and <a href="#a973bf062e1fb426c0542363f547ed7ac">operator=</a>.
 </div>
@@ -2878,7 +2879,8 @@ Referenced by <a href="#ad5d7852c208c4c26f344ff3c512a0f87">ManGenerator</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -2898,7 +2900,7 @@ Referenced by <a href="#ad5d7852c208c4c26f344ff3c512a0f87">ManGenerator</a>, <a 
 </div>
 
 
-References <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m&#95;codeList</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m&#95;dir</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m&#95;inHeader</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m&#95;upperCase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a627661c621eab1b7b298abc47d1a250d">Man</a>, <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
+References <a href="#a1fa72926874fc25ba5e1f460c7570281">m\_codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m\_codeList</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m\_dir</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m\_inHeader</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m\_upperCase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a627661c621eab1b7b298abc47d1a250d">Man</a>, <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6f6f6c92438ea4e7553e317d5bb17660">OutputGenerator::OutputGenerator</a>.
 </div>
 </div>
 
@@ -2926,7 +2928,8 @@ References <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 </div>
@@ -2938,7 +2941,7 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 
 ## Public Destructor
 
-### ~ManGenerator() {#ab6edf1539db9429fdb029a94074a5271}
+### \~ManGenerator() {#ab6edf1539db9429fdb029a94074a5271}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -2957,7 +2960,8 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 </div>
 </div>
 
@@ -2986,7 +2990,8 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3011,7 +3016,7 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 </div>
 
 
-References <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m&#95;codeList</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m&#95;dir</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m&#95;inHeader</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m&#95;upperCase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a627661c621eab1b7b298abc47d1a250d">Man</a> and <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
+References <a href="#a1fa72926874fc25ba5e1f460c7570281">m\_codeGen</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m\_codeList</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaaa814308a1fd901771b9b6e4a176d58">OutputGenerator::m\_dir</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m\_inHeader</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m\_upperCase</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a627661c621eab1b7b298abc47d1a250d">Man</a> and <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 </div>
 </div>
 
@@ -3039,7 +3044,8 @@ References <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 </div>
@@ -3075,7 +3081,8 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3087,7 +3094,7 @@ Reference <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a> and <a href="#a1fa72926874fc25ba5e1f460c7570281">m&#95;codeGen</a>.
+References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a> and <a href="#a1fa72926874fc25ba5e1f460c7570281">m\_codeGen</a>.
 </div>
 </div>
 
@@ -3116,7 +3123,8 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3151,7 +3159,8 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 178 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 178 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3188,7 +3197,8 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3202,7 +3212,7 @@ References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe4
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c7b1d7bb7c0d7ef9">clearSubDirs</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c7b1d7bb7c0d7ef9">clearSubDirs</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
 </div>
 </div>
 
@@ -3225,7 +3235,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 </div>
 </div>
 
@@ -3254,7 +3265,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3289,7 +3301,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3320,7 +3333,7 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a706b1f8eeae91066c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</a>, <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>, <a href="#a6b323886b28fc9f4ba5a87981a2b1430">startExamples</a>, <a href="#a6659f5e934d6346e49dcc2d4cfd28770">startMemberDocSimple</a>, <a href="#acce11e2e8aa742d13381b680acf2d3de">startParameterDefVal</a>, <a href="#a876ea7d92a37ae70acd2d7750007cf1a">writeObjectLink</a> and <a href="#adc70a81105d029829d5508e0dd667a0d">writeString</a>.
 </div>
@@ -3350,7 +3363,8 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 149 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 614 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 149 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 614 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3365,7 +3379,7 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a>.
 </div>
 </div>
 
@@ -3394,7 +3408,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3403,7 +3418,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</a>, <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>, <a href="#a6b323886b28fc9f4ba5a87981a2b1430">startExamples</a> and <a href="#a876ea7d92a37ae70acd2d7750007cf1a">writeObjectLink</a>.
 </div>
@@ -3433,7 +3448,8 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3442,7 +3458,7 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>.
 </div>
@@ -3473,7 +3489,8 @@ Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3509,7 +3526,8 @@ Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3545,7 +3563,8 @@ Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3580,7 +3599,8 @@ Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 155 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3592,7 +3612,7 @@ Referenced by <a href="#a1ae2417223238fdee04b04adb53d974c">endDescTableTitle</a>
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3620,7 +3640,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 268 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 816 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 268 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 816 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3632,7 +3653,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -3660,7 +3681,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 269 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 821 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 269 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 821 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3697,7 +3719,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 264 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 264 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3711,7 +3734,7 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 </div>
 
 
-References <a href="#afc4656a772b508e915c40cd1a2bff488">endEmphasis</a>, <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#afc4656a772b508e915c40cd1a2bff488">endEmphasis</a>, <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -3739,7 +3762,8 @@ References <a href="#afc4656a772b508e915c40cd1a2bff488">endEmphasis</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 266 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 266 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3780,7 +3804,8 @@ Reference <a href="#afc4656a772b508e915c40cd1a2bff488">endEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3815,7 +3840,8 @@ Reference <a href="#afc4656a772b508e915c40cd1a2bff488">endEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 196 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3854,7 +3880,8 @@ Referenced by <a href="#a4bb2452964c2c66c9f0d7b8ed7ae8d82">endDescTable</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 220 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -3895,7 +3922,8 @@ Reference <a href="#a719e2ecc49d2665e1660f3ec73411c24">endDescForItem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3931,7 +3959,8 @@ Reference <a href="#a719e2ecc49d2665e1660f3ec73411c24">endDescForItem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -3967,7 +3996,8 @@ Reference <a href="#a719e2ecc49d2665e1660f3ec73411c24">endDescForItem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4003,7 +4033,8 @@ Reference <a href="#a719e2ecc49d2665e1660f3ec73411c24">endDescForItem</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4041,7 +4072,8 @@ Reference <a href="#a580084abe1d1b6d45421e654fb8d75c1">endBoldEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4077,7 +4109,8 @@ Reference <a href="#a580084abe1d1b6d45421e654fb8d75c1">endBoldEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4113,7 +4146,8 @@ Reference <a href="#a580084abe1d1b6d45421e654fb8d75c1">endBoldEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4149,7 +4183,8 @@ Reference <a href="#a580084abe1d1b6d45421e654fb8d75c1">endBoldEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4158,7 +4193,7 @@ Reference <a href="#a580084abe1d1b6d45421e654fb8d75c1">endBoldEmphasis</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a> and <a href="#aae5abaf11ab76bd92342ec0eba98a784">endConstraintType</a>.
 </div>
@@ -4188,7 +4223,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 194 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 194 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4225,7 +4261,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4238,7 +4275,7 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 </div>
 
 
-References <a href="#a7fb2c58e4e4d9867222e86f9bf16a398">endPlainFile</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#a7fb2c58e4e4d9867222e86f9bf16a398">endPlainFile</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4267,7 +4304,8 @@ References <a href="#a7fb2c58e4e4d9867222e86f9bf16a398">endPlainFile</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4302,7 +4340,8 @@ References <a href="#a7fb2c58e4e4d9867222e86f9bf16a398">endPlainFile</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 129 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 129 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 438 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4317,7 +4356,7 @@ References <a href="#a7fb2c58e4e4d9867222e86f9bf16a398">endPlainFile</a> and <a 
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m&#95;upperCase</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m\_upperCase</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 </div>
@@ -4347,7 +4386,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 133 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 913 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 133 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 913 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4385,7 +4425,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4421,7 +4462,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4456,7 +4498,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4494,7 +4537,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4530,7 +4574,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4568,7 +4613,8 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4604,7 +4650,8 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4640,7 +4687,8 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4675,7 +4723,8 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 147 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 147 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4688,7 +4737,7 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4716,7 +4765,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 278 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 278 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4731,7 +4781,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -4759,7 +4809,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 276 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 882 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 276 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 882 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4771,7 +4822,7 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4799,7 +4850,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 274 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 872 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 274 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 872 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4811,7 +4863,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -4840,7 +4892,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4877,7 +4930,8 @@ Reference <a href="#a0242c97cf62889e69e74196b9567e7d0">newParagraph</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 141 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 141 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4916,7 +4970,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 282 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 282 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -4954,7 +5009,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -4990,7 +5046,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5026,7 +5083,8 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5035,7 +5093,7 @@ Referenced by <a href="#aee2419a901ca3a75d64ae56cf387e139">endConstraintParam</a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5063,7 +5121,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 175 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 175 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 567 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5075,7 +5134,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5104,7 +5163,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5140,7 +5200,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5176,7 +5237,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5211,7 +5273,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 272 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 272 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5226,7 +5289,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -5254,7 +5317,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 162 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 162 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5267,7 +5331,7 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5295,7 +5359,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 160 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 160 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5307,7 +5372,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5335,7 +5400,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 158 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 158 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5348,7 +5414,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -5376,7 +5442,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 135 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 452 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 135 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 452 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5390,7 +5457,7 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 </div>
@@ -5420,7 +5487,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 151 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 630 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 151 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 630 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5432,7 +5500,7 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5460,7 +5528,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 145 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 145 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5475,7 +5544,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5504,7 +5573,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5540,7 +5610,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5576,7 +5647,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5612,7 +5684,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5648,7 +5721,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5683,7 +5757,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 107 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5721,7 +5796,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5758,7 +5834,8 @@ Reference <a href="#ac9bf05f716351613ceac2c0aae060d6e">endTypewriter</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 255 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 932 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 255 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 932 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5773,7 +5850,7 @@ Reference <a href="#ac9bf05f716351613ceac2c0aae060d6e">endTypewriter</a>.
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5802,7 +5879,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5838,7 +5916,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5873,7 +5952,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 251 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -5885,7 +5965,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -5914,7 +5994,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5954,7 +6035,8 @@ Referenced by <a href="#af8c1acdb6f13aa0da8aaa75ca7f6e562">endFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -5990,7 +6072,8 @@ Referenced by <a href="#af8c1acdb6f13aa0da8aaa75ca7f6e562">endFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6025,7 +6108,8 @@ Referenced by <a href="#af8c1acdb6f13aa0da8aaa75ca7f6e562">endFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 198 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 198 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6057,7 +6141,7 @@ Referenced by <a href="#af8c1acdb6f13aa0da8aaa75ca7f6e562">endFile</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="#a2a48c9be94459c565ab007f5e342d6f9">endGroupHeader</a>, <a href="#a639d4d7694e38d646c7b4042f314ca92">endMemberHeader</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m&#95;inHeader</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a840604fef79fdbb4e2d3e44f6fb25be1">SectionType::Page</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#a0941e72b1525cd45228ac657e21e594a">type</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="#a2a48c9be94459c565ab007f5e342d6f9">endGroupHeader</a>, <a href="#a639d4d7694e38d646c7b4042f314ca92">endMemberHeader</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m\_inHeader</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a840604fef79fdbb4e2d3e44f6fb25be1">SectionType::Page</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#a0941e72b1525cd45228ac657e21e594a">type</a>.
 </div>
 </div>
 
@@ -6086,7 +6170,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6122,7 +6207,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6158,7 +6244,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6193,7 +6280,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6231,7 +6319,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config&#95;getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad3269d7d65675a5e83889f4a98f5610b">getExtension</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m&#95;inHeader</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad3269d7d65675a5e83889f4a98f5610b">getExtension</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m\_inHeader</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -6260,7 +6348,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6296,7 +6385,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6305,7 +6395,7 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a>.
 </div>
@@ -6336,7 +6426,8 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6372,7 +6463,8 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6408,7 +6500,8 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6444,7 +6537,8 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6480,7 +6574,8 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6489,7 +6584,7 @@ Referenced by <a href="#abe3913bb91956dd8d15710960e8e3215">endParameterDefVal</a
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6512,7 +6607,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6530,7 +6626,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a8e94645d33848bb65c750af23e3e2942">endIndexList</a> and <a href="#ab62a944808fe33d1a668d22dcf30e9a2">endItemList</a>.
 </div>
@@ -6560,7 +6656,8 @@ Referenced by <a href="#a8e94645d33848bb65c750af23e3e2942">endIndexList</a> and 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 148 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 606 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 148 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 606 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6575,7 +6672,7 @@ Referenced by <a href="#a8e94645d33848bb65c750af23e3e2942">endIndexList</a> and 
 </div>
 
 
-References <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -6604,7 +6701,8 @@ References <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6613,7 +6711,7 @@ References <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> 
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</a>, <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>, <a href="#a6b323886b28fc9f4ba5a87981a2b1430">startExamples</a> and <a href="#a876ea7d92a37ae70acd2d7750007cf1a">writeObjectLink</a>.
 </div>
@@ -6643,7 +6741,8 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6652,7 +6751,7 @@ Referenced by <a href="#a9b07469696e5391928602edc03e16664">startConstraintList</
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</a>.
 </div>
@@ -6683,7 +6782,8 @@ Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6719,7 +6819,8 @@ Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6755,7 +6856,8 @@ Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -6790,7 +6892,8 @@ Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 154 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6805,7 +6908,7 @@ Referenced by <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -6833,7 +6936,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 267 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 812 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 267 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 812 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6870,7 +6974,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 262 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 262 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6891,7 +6996,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -6919,7 +7024,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 263 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 263 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -6960,7 +7066,8 @@ References <a href="#a1176919950e3fe3324720d45ce10f3f2">startEmphasis</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 265 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 802 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 265 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 802 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7001,7 +7108,8 @@ Reference <a href="#a1176919950e3fe3324720d45ce10f3f2">startEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7036,7 +7144,8 @@ Reference <a href="#a1176919950e3fe3324720d45ce10f3f2">startEmphasis</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 195 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7053,7 +7162,7 @@ Reference <a href="#a1176919950e3fe3324720d45ce10f3f2">startEmphasis</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>.
 </div>
@@ -7083,7 +7192,8 @@ Referenced by <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 219 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7105,7 +7215,7 @@ Referenced by <a href="#abcf93751a8901a09472a39ed04f0c49a">startDescTable</a>.
 </div>
 
 
-References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a>, <a href="#adf073ca7959a1f7c004bf8c4a79ca151">startDescForItem</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a>, <a href="#adf073ca7959a1f7c004bf8c4a79ca151">startDescForItem</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7134,7 +7244,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7143,7 +7254,7 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7172,7 +7283,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7208,7 +7320,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7244,7 +7357,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7282,7 +7396,8 @@ References <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7318,7 +7433,8 @@ References <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7353,7 +7469,8 @@ References <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 176 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 176 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7392,7 +7509,7 @@ References <a href="#a79f833c6ae444fd95721a9b176b8e3ba">endItemListItem</a>, <a 
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed7500f4ab36fbdce70db0">buildFileName</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config&#95;getBool</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>.
+References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed7500f4ab36fbdce70db0">buildFileName</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a595e39d22e92ac09d24706829b532b00">OutputGenerator::dir</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#ae347a53e8ee0d9c43c0590134c8e965d">OutputGenerator::fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>.
 </div>
 </div>
 
@@ -7421,7 +7538,8 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed750
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7430,7 +7548,7 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed750
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam</a> and <a href="#ad34785ad8bb76f576bb69d0ded159e60">startConstraintType</a>.
 </div>
@@ -7460,7 +7578,8 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 193 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 193 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7481,7 +7600,7 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 </div>
 
 
-References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa12df6c60b2975f5b105d2c43450f986">endBold</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#a0e4f8662709e4ca7e43e86d1bf4073fd">startBold</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7509,7 +7628,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7522,7 +7642,7 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed7500f4ab36fbdce70db0">buildFileName</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#af4a81052d3aebc9be76c60c871ad9333">startPlainFile</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed7500f4ab36fbdce70db0">buildFileName</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#af4a81052d3aebc9be76c60c871ad9333">startPlainFile</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -7551,7 +7671,8 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed750
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7586,7 +7707,8 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed750
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 128 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 128 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7601,7 +7723,7 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#af6acf966d7ed750
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m&#95;upperCase</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="#af38ab03549c3ed19ec3ae0508bb857cc">m\_upperCase</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 </div>
@@ -7632,7 +7754,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7668,7 +7791,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7704,7 +7828,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7739,7 +7864,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7777,7 +7903,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7813,7 +7940,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7849,7 +7977,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7885,7 +8014,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7921,7 +8051,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -7956,7 +8087,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 146 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 826 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 146 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 826 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -7972,7 +8104,7 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8000,7 +8132,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 277 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 277 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8037,7 +8170,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 275 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 275 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8049,7 +8183,7 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8077,7 +8211,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 273 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 273 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8115,7 +8250,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8150,7 +8286,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 140 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 140 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8166,7 +8303,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 
 Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam</a> and <a href="#a613ed71387191c761e030a32ba635634">startDescTableTitle</a>.
 </div>
@@ -8196,7 +8333,8 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 280 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 899 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 280 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 899 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8234,7 +8372,8 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8270,7 +8409,8 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8306,7 +8446,8 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8315,7 +8456,7 @@ Referenced by <a href="#a6e4b79de711fda67df12e3d775e039a9">startConstraintParam<
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8343,7 +8484,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 174 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 523 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 174 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 523 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8358,7 +8500,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8387,7 +8529,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8423,7 +8566,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8459,7 +8603,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8494,7 +8639,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 271 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 271 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8520,7 +8666,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -8548,7 +8694,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#ab
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 161 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8560,7 +8707,7 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#ab
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8588,7 +8735,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 159 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 159 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8625,7 +8773,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 157 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8637,7 +8786,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8665,7 +8814,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 134 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 446 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 134 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 446 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8678,7 +8828,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 </div>
@@ -8708,7 +8858,8 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 150 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 150 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8722,7 +8873,7 @@ Referenced by <a href="#a4a1ddd2756e83bdc8f6c22c9d46dc01a">startSection</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8750,7 +8901,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 144 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 144 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8765,7 +8917,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m&#95;insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#ad0fab05664c35ad10db6438c68b510e7">m\_insideTabbing</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -8794,7 +8946,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8830,7 +8983,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8866,7 +9020,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8902,7 +9057,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8938,7 +9094,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -8973,7 +9130,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 106 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -8991,7 +9149,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -9020,7 +9178,8 @@ References <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9058,7 +9217,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9093,7 +9253,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a> and <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 258 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 927 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 258 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 927 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9105,7 +9266,7 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a> and <a href="
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9134,7 +9295,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9170,7 +9332,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9206,7 +9369,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9246,7 +9410,8 @@ Referenced by <a href="#aa7bb1a49097ab94f2d73f0fe02f4c5ad">startFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9282,7 +9447,8 @@ Referenced by <a href="#aa7bb1a49097ab94f2d73f0fe02f4c5ad">startFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9317,7 +9483,8 @@ Referenced by <a href="#aa7bb1a49097ab94f2d73f0fe02f4c5ad">startFile</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 197 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 197 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9342,7 +9509,7 @@ Referenced by <a href="#aa7bb1a49097ab94f2d73f0fe02f4c5ad">startFile</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m&#95;inHeader</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a840604fef79fdbb4e2d3e44f6fb25be1">SectionType::Page</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="#a49116184047a4d02f25e75788bc539c8">startGroupHeader</a>, <a href="#a61849dd66750168b48e4e4e2db422818">startMemberHeader</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a> and <a href="#a0941e72b1525cd45228ac657e21e594a">type</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="#a8b98e6c09488de4299044987afb6001c">m\_inHeader</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a840604fef79fdbb4e2d3e44f6fb25be1">SectionType::Page</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="#a49116184047a4d02f25e75788bc539c8">startGroupHeader</a>, <a href="#a61849dd66750168b48e4e4e2db422818">startMemberHeader</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a> and <a href="#a0941e72b1525cd45228ac657e21e594a">type</a>.
 </div>
 </div>
 
@@ -9371,7 +9538,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9407,7 +9575,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9443,7 +9612,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9479,7 +9649,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9515,7 +9686,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9551,7 +9723,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9560,7 +9733,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 
 Referenced by <a href="#acce11e2e8aa742d13381b680acf2d3de">startParameterDefVal</a>.
 </div>
@@ -9591,7 +9764,8 @@ Referenced by <a href="#acce11e2e8aa742d13381b680acf2d3de">startParameterDefVal<
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9631,7 +9805,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9666,7 +9841,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a> and <a
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 173 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 173 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9687,7 +9863,7 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a> and <a
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m&#95;col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a69eb7ce0210b98f4040331fe46702935">m\_col</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9715,7 +9891,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9734,7 +9911,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m&#95;codeList</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/classes/docnodeast/#a77e351cc54c344eac97ef21709f44305">DocNodeAST::root</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="#a3e1a5077bc2488fcad84bf8314d613fd">m\_codeList</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/classes/docnodeast/#a77e351cc54c344eac97ef21709f44305">DocNodeAST::root</a>.
 </div>
 </div>
 
@@ -9763,7 +9940,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9799,7 +9977,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9834,7 +10013,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 191 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 917 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 191 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 917 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9851,7 +10031,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad370f3cfa0f4a46e2afd73bd50de864b">docifyToString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad370f3cfa0f4a46e2afd73bd50de864b">docifyToString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a311635f4bd437fd28ab5fe0f0309f15d">objectLinkToString</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
 </div>
 </div>
 
@@ -9879,7 +10059,8 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad370f3cfa0f4a46
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 281 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 281 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -9892,7 +10073,7 @@ References <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#ad370f3cfa0f4a46
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -9921,7 +10102,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9957,7 +10139,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -9993,7 +10176,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10029,7 +10213,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10038,7 +10223,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10066,7 +10251,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 122 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 122 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10108,7 +10294,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10144,7 +10331,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10180,7 +10368,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10216,7 +10405,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10252,7 +10442,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10288,7 +10479,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10323,7 +10515,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 181 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 181 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10361,7 +10554,8 @@ References <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="#aa
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 406 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 406 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10402,7 +10596,8 @@ Reference <a href="#af41254fa358458e4e1a018477f5107da">docify</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10438,7 +10633,8 @@ Reference <a href="#af41254fa358458e4e1a018477f5107da">docify</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10473,7 +10669,8 @@ Reference <a href="#af41254fa358458e4e1a018477f5107da">docify</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 202 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10488,7 +10685,7 @@ Reference <a href="#af41254fa358458e4e1a018477f5107da">docify</a>.
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
 </div>
 </div>
 
@@ -10517,7 +10714,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 294 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 294 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10529,7 +10727,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10552,7 +10750,8 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 293 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 497 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 293 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 497 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10567,7 +10766,7 @@ Reference <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m&#95;firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m&#95;paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m&#95;t</a>.
+References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ab4e8ed9a340d928ce303d3815a796548">m\_firstCol</a>, <a href="#a5993316bd73c426770b1e2bb7e7c2c9c">m\_paragraph</a> and <a href="/web-doxygen/docs/api/classes/outputgenerator/#aceba8f7a334d2e60297dcc727959796c">OutputGenerator::m\_t</a>.
 </div>
 </div>
 
@@ -10577,7 +10776,7 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 ## Private Member Attributes
 
-### m&#95;codeGen {#a1fa72926874fc25ba5e1f460c7570281}
+### m\_codeGen {#a1fa72926874fc25ba5e1f460c7570281}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10596,7 +10795,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10609,7 +10809,7 @@ Referenced by <a href="#a21756c4404bc9061c6d5691ced263a08">addCodeGen</a>, <a hr
 </div>
 </div>
 
-### m&#95;codeList {#a3e1a5077bc2488fcad84bf8314d613fd}
+### m\_codeList {#a3e1a5077bc2488fcad84bf8314d613fd}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10628,7 +10828,8 @@ Referenced by <a href="#a21756c4404bc9061c6d5691ced263a08">addCodeGen</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 302 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10641,7 +10842,7 @@ Referenced by <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>, <a 
 </div>
 </div>
 
-### m&#95;col {#a69eb7ce0210b98f4040331fe46702935}
+### m\_col {#a69eb7ce0210b98f4040331fe46702935}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10660,7 +10861,8 @@ Referenced by <a href="#ad234c57631aa6f20632d21fbcc300a4c">ManGenerator</a>, <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10673,7 +10875,7 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 </div>
 </div>
 
-### m&#95;firstCol {#ab4e8ed9a340d928ce303d3815a796548}
+### m\_firstCol {#ab4e8ed9a340d928ce303d3815a796548}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10692,7 +10894,8 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10705,7 +10908,7 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 </div>
 </div>
 
-### m&#95;inHeader {#a8b98e6c09488de4299044987afb6001c}
+### m\_inHeader {#a8b98e6c09488de4299044987afb6001c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10724,7 +10927,8 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10737,7 +10941,7 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>, <a hr
 </div>
 </div>
 
-### m&#95;insideTabbing {#ad0fab05664c35ad10db6438c68b510e7}
+### m\_insideTabbing {#ad0fab05664c35ad10db6438c68b510e7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10756,7 +10960,8 @@ Referenced by <a href="#a2c3eae0a840500bf1a1713cb0c56efd7">endSection</a>, <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10769,7 +10974,7 @@ Referenced by <a href="#a26bdd6b18877aaf31661173ee959b9a7">endAnonTypeScope</a>,
 </div>
 </div>
 
-### m&#95;paragraph {#a5993316bd73c426770b1e2bb7e7c2c9c}
+### m\_paragraph {#a5993316bd73c426770b1e2bb7e7c2c9c}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10788,7 +10993,8 @@ Referenced by <a href="#a26bdd6b18877aaf31661173ee959b9a7">endAnonTypeScope</a>,
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10801,7 +11007,7 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 </div>
 </div>
 
-### m&#95;upperCase {#af38ab03549c3ed19ec3ae0508bb857cc}
+### m\_upperCase {#af38ab03549c3ed19ec3ae0508bb857cc}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -10820,7 +11026,8 @@ Referenced by <a href="#af41254fa358458e4e1a018477f5107da">docify</a>, <a href="
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.</p>
+
+Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -10863,7 +11070,8 @@ Referenced by <a href="#a2a48c9be94459c565ab007f5e342d6f9">endGroupHeader</a>, <
 <div class="doxyMemberDoc">
 
 
-<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.</p>
+
+Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mangen-h">mangen.h</a>, definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -10887,7 +11095,7 @@ Referenced by <a href="#a2a48c9be94459c565ab007f5e342d6f9">endGroupHeader</a>, <
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config&#95;getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a77685956f8517f3a6e062e66925fc93c">createSubDirs</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a77685956f8517f3a6e062e66925fc93c">createSubDirs</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/mangen-cpp/#a5ea636b28660e85fc0dc3b8d9b6daf2c">getSubdir</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
 </div>
@@ -10897,7 +11105,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 <hr/>
 
-<p>The documentation for this class was generated from the following files:</p>
+The documentation for this class was generated from the following files:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/mangen-cpp">mangen.cpp</a></li>

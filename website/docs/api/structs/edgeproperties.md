@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `EdgeProperties` Struct Reference
 
-<p>Helper struct holding the properties of a edge in a dot graph. <a href="#details">More...</a></p>
+Helper struct holding the properties of a edge in a dot graph. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -72,9 +72,9 @@ struct EdgeProperties { ... }
 
 ## Description {#details}
 
-<p>Helper struct holding the properties of a edge in a dot graph.</p>
+Helper struct holding the properties of a edge in a dot graph.
 
-<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -99,7 +99,8 @@ struct EdgeProperties { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -131,7 +132,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -163,7 +165,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -180,7 +183,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a></li>

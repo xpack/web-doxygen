@@ -109,7 +109,7 @@ struct OutputCodeList::OutputCodeElem { ... }
 </table>
 
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxySectionDef">
 
@@ -140,7 +140,8 @@ struct OutputCodeList::OutputCodeElem { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -179,7 +180,8 @@ Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -226,7 +228,8 @@ References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -272,7 +275,8 @@ References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#a
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -304,7 +308,8 @@ Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
+Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -321,7 +326,7 @@ Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a>, <a hre
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a></li>

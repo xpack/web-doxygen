@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `EdgeInfo` Class Reference
 
-<p>Attributes of an edge of a dot graph. <a href="#details">More...</a></p>
+Attributes of an edge of a dot graph. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -244,9 +244,9 @@ class EdgeInfo { ... }
 
 ## Description {#details}
 
-<p>Attributes of an edge of a dot graph.</p>
+Attributes of an edge of a dot graph.
 
-<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxySectionDef">
 
@@ -270,6 +270,7 @@ class EdgeInfo { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -277,44 +278,44 @@ class EdgeInfo { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Blue<a id="afd9f10f4693123d11e52bb1127f23228ad86037d0f4029916bab272b972da808e"></a></td>
-<td class="doxyEnumItemDescription"><p> (=0)</p></td>
+<td class="doxyEnumItemDescription"> (=0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Green<a id="afd9f10f4693123d11e52bb1127f23228a4a29d1be23ca8384e036227c0d375949"></a></td>
-<td class="doxyEnumItemDescription"><p> (=1)</p></td>
+<td class="doxyEnumItemDescription"> (=1)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Red<a id="afd9f10f4693123d11e52bb1127f23228ac4f6ba2f7702235368f07ff81f6b0c74"></a></td>
-<td class="doxyEnumItemDescription"><p> (=2)</p></td>
+<td class="doxyEnumItemDescription"> (=2)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Purple<a id="afd9f10f4693123d11e52bb1127f23228a4f78453f5006dccb5ecea6bd6ae41a98"></a></td>
-<td class="doxyEnumItemDescription"><p> (=3)</p></td>
+<td class="doxyEnumItemDescription"> (=3)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Grey<a id="afd9f10f4693123d11e52bb1127f23228aa5653e1b61f6d5bf0b762fa8887aaec6"></a></td>
-<td class="doxyEnumItemDescription"><p> (=4)</p></td>
+<td class="doxyEnumItemDescription"> (=4)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Orange<a id="afd9f10f4693123d11e52bb1127f23228a5dd85875507d2ff6d9aa5ae31ac0ae02"></a></td>
-<td class="doxyEnumItemDescription"><p> (=5)</p></td>
+<td class="doxyEnumItemDescription"> (=5)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Orange2<a id="afd9f10f4693123d11e52bb1127f23228a546d073d42055e46bd7922bb551ca3d3"></a></td>
-<td class="doxyEnumItemDescription"><p> (=6)</p></td>
+<td class="doxyEnumItemDescription"> (=6)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -343,6 +344,7 @@ class EdgeInfo { ... }
 </div>
 <div class="doxyMemberDoc">
 
+
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
 <dd>
@@ -350,19 +352,19 @@ class EdgeInfo { ... }
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Solid<a id="a4fe2d2921d0f51d84da1bf48b3b4f2c5a26f6a09cd44415e9be80ccabf5195989"></a></td>
-<td class="doxyEnumItemDescription"><p> (=0)</p></td>
+<td class="doxyEnumItemDescription"> (=0)</td>
 </tr>
 
 <tr class="doxyEnumItem">
 <td class="doxyEnumItemName">Dashed<a id="a4fe2d2921d0f51d84da1bf48b3b4f2c5a96c6ed866d802acef7582691e8230b63"></a></td>
-<td class="doxyEnumItemDescription"><p> (=1)</p></td>
+<td class="doxyEnumItemDescription"> (=1)</td>
 </tr>
 
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -403,7 +405,8 @@ class EdgeInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -413,7 +416,7 @@ class EdgeInfo { ... }
 </div>
 
 
-References <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a>, <a href="#a67f74484abac64da6f84291550232430">m&#95;color</a>, <a href="#a1074753351376c3d894e3a1777a643d1">m&#95;labColor</a>, <a href="#ab735a4292f619dc43efb887bc4b42119">m&#95;label</a>, <a href="#a9cd01dc1ff370a261f5850a1fa5812f9">m&#95;style</a>, <a href="#a0f0c4b78066f2ed4ed4e453ad8fdf428">m&#95;url</a>, <a href="#a534c4e3b34bb87d6077fc1cb398dd121">style</a> and <a href="#a38c4ef0172263c5a568eaef9ca213c7f">url</a>.
+References <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a>, <a href="#a67f74484abac64da6f84291550232430">m\_color</a>, <a href="#a1074753351376c3d894e3a1777a643d1">m\_labColor</a>, <a href="#ab735a4292f619dc43efb887bc4b42119">m\_label</a>, <a href="#a9cd01dc1ff370a261f5850a1fa5812f9">m\_style</a>, <a href="#a0f0c4b78066f2ed4ed4e453ad8fdf428">m\_url</a>, <a href="#a534c4e3b34bb87d6077fc1cb398dd121">style</a> and <a href="#a38c4ef0172263c5a568eaef9ca213c7f">url</a>.
 </div>
 </div>
 
@@ -447,7 +450,8 @@ References <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a>, <a href="#a67
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -456,7 +460,7 @@ References <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a>, <a href="#a67
 </div>
 
 
-Reference <a href="#a67f74484abac64da6f84291550232430">m&#95;color</a>.
+Reference <a href="#a67f74484abac64da6f84291550232430">m\_color</a>.
 
 Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
 </div>
@@ -486,7 +490,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -495,7 +500,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 </div>
 
 
-Reference <a href="#ab735a4292f619dc43efb887bc4b42119">m&#95;label</a>.
+Reference <a href="#ab735a4292f619dc43efb887bc4b42119">m\_label</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
 </div>
@@ -525,7 +530,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -534,7 +540,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </div>
 
 
-Reference <a href="#a1074753351376c3d894e3a1777a643d1">m&#95;labColor</a>.
+Reference <a href="#a1074753351376c3d894e3a1777a643d1">m\_labColor</a>.
 </div>
 </div>
 
@@ -562,7 +568,8 @@ Reference <a href="#a1074753351376c3d894e3a1777a643d1">m&#95;labColor</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -571,7 +578,7 @@ Reference <a href="#a1074753351376c3d894e3a1777a643d1">m&#95;labColor</a>.
 </div>
 
 
-Reference <a href="#a9cd01dc1ff370a261f5850a1fa5812f9">m&#95;style</a>.
+Reference <a href="#a9cd01dc1ff370a261f5850a1fa5812f9">m\_style</a>.
 
 Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
 </div>
@@ -601,7 +608,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -610,7 +618,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 </div>
 
 
-Reference <a href="#a0f0c4b78066f2ed4ed4e453ad8fdf428">m&#95;url</a>.
+Reference <a href="#a0f0c4b78066f2ed4ed4e453ad8fdf428">m\_url</a>.
 
 Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a>.
 </div>
@@ -622,7 +630,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a>.
 
 ## Private Member Attributes
 
-### m&#95;color {#a67f74484abac64da6f84291550232430}
+### m\_color {#a67f74484abac64da6f84291550232430}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -641,7 +649,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -654,7 +663,7 @@ Referenced by <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a> and <a href
 </div>
 </div>
 
-### m&#95;labColor {#a1074753351376c3d894e3a1777a643d1}
+### m\_labColor {#a1074753351376c3d894e3a1777a643d1}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -673,7 +682,8 @@ Referenced by <a href="#a9aa86c737a1f46a55567ee172b5a07c9">color</a> and <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -686,7 +696,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 </div>
 </div>
 
-### m&#95;label {#ab735a4292f619dc43efb887bc4b42119}
+### m\_label {#ab735a4292f619dc43efb887bc4b42119}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -705,7 +715,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -718,7 +729,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 </div>
 </div>
 
-### m&#95;style {#a9cd01dc1ff370a261f5850a1fa5812f9}
+### m\_style {#a9cd01dc1ff370a261f5850a1fa5812f9}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -737,7 +748,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -750,7 +762,7 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 </div>
 </div>
 
-### m&#95;url {#a0f0c4b78066f2ed4ed4e453ad8fdf428}
+### m\_url {#a0f0c4b78066f2ed4ed4e453ad8fdf428}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -769,7 +781,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -814,7 +827,8 @@ Referenced by <a href="#adfa2c8dd78e6e72e6555a27240220bb9">EdgeInfo</a> and <a h
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -843,7 +857,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a4510
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a></li>

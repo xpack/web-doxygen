@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocInfo` Struct Reference
 
-<p>Data associated with a detailed description. <a href="#details">More...</a></p>
+Data associated with a detailed description. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -77,9 +77,9 @@ struct DocInfo { ... }
 
 ## Description {#details}
 
-<p>Data associated with a detailed description.</p>
+Data associated with a detailed description.
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
 
 <div class="doxySectionDef">
 
@@ -104,7 +104,8 @@ struct DocInfo { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,7 @@ struct DocInfo { ... }
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::&#95;setInbodyDocumentation</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::\_setInbodyDocumentation</a>.
 </div>
 </div>
 
@@ -136,7 +137,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -145,7 +147,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::&#95;setInbodyDocumentation</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::\_setInbodyDocumentation</a>.
 </div>
 </div>
 
@@ -168,7 +170,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +180,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::&#95;setInbodyDocumentation</a>.
+Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845b99154c286dd6e50f0f934">DefinitionImpl::\_setInbodyDocumentation</a>.
 </div>
 </div>
 
@@ -185,7 +188,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a560d9d3845
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a></li>

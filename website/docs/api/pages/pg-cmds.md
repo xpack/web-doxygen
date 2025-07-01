@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-<p>The following table gives an overview of the doxygen special commands and the version in which they were introduced.</p>
+The following table gives an overview of the doxygen special commands and the version in which they were introduced.
 
 <dl class="doxyVariableList">
 <dt>New in 1.0.0</dt>

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `formatter` Struct Template Reference
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a> <a href="#details">More...</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a> <a href="#details">More...</a>
 
 ## Declaration
 
@@ -70,9 +70,9 @@ struct fmt::formatter&lt;MethodTypes&gt; { ... }
 
 ## Description {#details}
 
-<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a></p>
+adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a>
 
-<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxySectionDef">
 
@@ -102,7 +102,8 @@ struct fmt::formatter&lt;MethodTypes&gt; { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+
+Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,7 @@ struct fmt::formatter&lt;MethodTypes&gt; { ... }
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a77df23cf91cf59df5e7edf9f887daa7c">to&#95;string</a>.
+Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a77df23cf91cf59df5e7edf9f887daa7c">to\_string</a>.
 </div>
 </div>
 
@@ -121,7 +122,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a77df23cf91cf59df5e7
 
 <hr/>
 
-<p>The documentation for this struct was generated from the following file:</p>
+The documentation for this struct was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/message-h">message.h</a></li>

@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-<p>The following output formats are <em>directly</em> supported by Doxygen:</p>
+The following output formats are <em>directly</em> supported by Doxygen:
 
 <dl class="doxyVariableList">
 <dt><b>HTML</b></dt>
@@ -38,7 +38,7 @@ Note that the RTF output probably only looks nice with Microsoft's Word. If you 
 <dd>Generated if <a href="/web-doxygen/docs/pages/config/#cfg_generate_docbook">GENERATE_DOCBOOK</a> is set to <span class="doxyComputerOutput">YES</span> in the configuration file.</dd>
 </dl>
 
-<p>The following output formats are <em>indirectly</em> supported by Doxygen:</p>
+The following output formats are <em>indirectly</em> supported by Doxygen:
 
 <dl class="doxyVariableList">
 <dt><b>Compiled HTML Help</b> (a.k.a. Windows 98 help)</dt>

@@ -64,7 +64,7 @@ class AutoTimeKeeper { ... }
 </table>
 
 
-<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -94,7 +94,8 @@ class AutoTimeKeeper { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,7 @@ References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b3
 
 ## Public Destructor
 
-### ~AutoTimeKeeper() {#a27439f74d48591cc5813ad2bb06915ff}
+### \~AutoTimeKeeper() {#a27439f74d48591cc5813ad2bb06915ff}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -137,7 +138,8 @@ References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b3
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
+Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -154,7 +156,7 @@ References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b3
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a></li>

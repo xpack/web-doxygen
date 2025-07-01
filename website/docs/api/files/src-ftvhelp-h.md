@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a></p>
+A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -72,7 +72,7 @@ toc_max_heading_level: 4
 
 ## Variables
 
-### JAVASCRIPT&#95;LICENSE&#95;TEXT {#a8a39a1a82ce3ac026350d5ab014d9393}
+### JAVASCRIPT\_LICENSE\_TEXT {#a8a39a1a82ce3ac026350d5ab014d9393}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -96,10 +96,11 @@ toc_max_heading_level: 4
 <div class="doxyMemberDoc">
 
 
+
 <dl class="doxySectionUser">
 <dt>Initialiser</dt>
 <dd>
-<div class="doxyVerbatim">= R"LIC(/&#42;
+<div class="doxyVerbatim">= R"LIC(/\*
  @licstart  The following is the entire license notice for the JavaScript code in this file.
 
  The MIT License (MIT)
@@ -122,13 +123,13 @@ toc_max_heading_level: 4
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE <a href="/web-doxygen/docs/api/files/src/types-h/#abfcc3de81e21aaab7b108c10eec8cc91a7dc33953b23388ad93a4db20e33d26e4">USE</a> OR OTHER DEALINGS IN THE SOFTWARE.
 
  @licend  The above is the entire license notice for the JavaScript code in this file
-&#42;/
+\*/
 )LIC"
 </div>
 </dd>
 </dl>
 
-<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Formula` Class Reference
 
-<p>Class representing a LaTeX formula as found in the documentation. <a href="#details">More...</a></p>
+Class representing a LaTeX formula as found in the documentation. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -309,9 +309,9 @@ class Formula { ... }
 
 ## Description {#details}
 
-<p>Class representing a LaTeX formula as found in the documentation.</p>
+Class representing a LaTeX formula as found in the documentation.
 
-<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxySectionDef">
 
@@ -335,7 +335,8 @@ class Formula { ... }
 </div>
 <div class="doxyMemberDoc">
 
-<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -380,7 +381,8 @@ Referenced by <a href="#a8494520054d602bb889a7b19cc8370c2">FormulaManager</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -390,7 +392,7 @@ Referenced by <a href="#a8494520054d602bb889a7b19cc8370c2">FormulaManager</a>.
 </div>
 
 
-References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a>, <a href="#ae4b7648ae0124da8456fa2c8e51991ba">id</a>, <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m&#95;height</a>, <a href="#aee1b107c1fc9d1cda129a4fdaeb51599">m&#95;id</a>, <a href="#a8b7dae9941bb5b07be04e125a14f87d7">m&#95;text</a>, <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m&#95;width</a>, <a href="#a67b9ebbbe7e4814eb09bbf734af69b0e">text</a> and <a href="#a1f38794899d8caf59d120276512e864d">width</a>.
+References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a>, <a href="#ae4b7648ae0124da8456fa2c8e51991ba">id</a>, <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m\_height</a>, <a href="#aee1b107c1fc9d1cda129a4fdaeb51599">m\_id</a>, <a href="#a8b7dae9941bb5b07be04e125a14f87d7">m\_text</a>, <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m\_width</a>, <a href="#a67b9ebbbe7e4814eb09bbf734af69b0e">text</a> and <a href="#a1f38794899d8caf59d120276512e864d">width</a>.
 </div>
 </div>
 
@@ -424,7 +426,8 @@ References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a>, <a href="#ae
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -433,7 +436,7 @@ References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a>, <a href="#ae
 </div>
 
 
-Reference <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m&#95;height</a>.
+Reference <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m\_height</a>.
 
 Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a> and <a href="#aa98f77319800a11b67fc2be1a2b5f0d4">setHeight</a>.
 </div>
@@ -463,7 +466,8 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -472,7 +476,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 </div>
 
 
-Reference <a href="#aee1b107c1fc9d1cda129a4fdaeb51599">m&#95;id</a>.
+Reference <a href="#aee1b107c1fc9d1cda129a4fdaeb51599">m\_id</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a263c84263295a94dd1593d39f2c435f5">FormulaManager::addFormula</a>, <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>.
 </div>
@@ -502,7 +506,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a263c842632
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -511,7 +516,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a263c842632
 </div>
 
 
-References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m&#95;forceRegen</a>.
+References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m\_cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m\_forceRegen</a>.
 </div>
 </div>
 
@@ -539,7 +544,8 @@ References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -548,7 +554,7 @@ References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a 
 </div>
 
 
-References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m&#95;forceRegen</a>.
+References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m\_cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m\_forceRegen</a>.
 </div>
 </div>
 
@@ -576,7 +582,8 @@ References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a 
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -585,7 +592,7 @@ References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a 
 </div>
 
 
-References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a> and <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m&#95;height</a>.
+References <a href="#ac0abb726ca60cb51e0012b9586f69791">height</a> and <a href="#a5a473c0de6e73ea2bf822a5144a9995f">m\_height</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>.
 </div>
@@ -615,7 +622,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd255
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -624,7 +632,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd255
 </div>
 
 
-References <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m&#95;width</a> and <a href="#a1f38794899d8caf59d120276512e864d">width</a>.
+References <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m\_width</a> and <a href="#a1f38794899d8caf59d120276512e864d">width</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>.
 </div>
@@ -654,7 +662,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd255
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -663,7 +672,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a6234dcdd255
 </div>
 
 
-Reference <a href="#a8b7dae9941bb5b07be04e125a14f87d7">m&#95;text</a>.
+Reference <a href="#a8b7dae9941bb5b07be04e125a14f87d7">m\_text</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c93681ddf0a9bc2e961053">DocFormula::DocFormula</a>, <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>.
 </div>
@@ -693,7 +702,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c936
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -702,7 +712,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c936
 </div>
 
 
-Reference <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m&#95;width</a>.
+Reference <a href="#a6bfaf07db374ddf6f9423165a35c36f7">m\_width</a>.
 
 Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a> and <a href="#ad6f4bcbc9d72789367acac83a3ea6846">setWidth</a>.
 </div>
@@ -738,7 +748,8 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -747,7 +758,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 </div>
 
 
-References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m&#95;cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m&#95;forceRegen</a>.
+References <a href="#a12f5a9a485f504407be65bf3e61c40ba">m\_cached</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m\_forceRegen</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>.
 </div>
@@ -777,7 +788,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -786,7 +798,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b
 </div>
 
 
-References <a href="#a80ab454f62fab3dff4b34a2bad3ee324">m&#95;cachedDark</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m&#95;forceRegen</a>.
+References <a href="#a80ab454f62fab3dff4b34a2bad3ee324">m\_cachedDark</a> and <a href="#ae3cf6866682636c9467c6eeb019e4a34">m\_forceRegen</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>.
 </div>
@@ -798,7 +810,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b
 
 ## Private Member Attributes
 
-### m&#95;cached {#a12f5a9a485f504407be65bf3e61c40ba}
+### m\_cached {#a12f5a9a485f504407be65bf3e61c40ba}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -817,7 +829,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -830,7 +843,7 @@ Referenced by <a href="#a29acaf4643091fae3b24e901fdb986b1">isCached</a>, <a href
 </div>
 </div>
 
-### m&#95;cachedDark {#a80ab454f62fab3dff4b34a2bad3ee324}
+### m\_cachedDark {#a80ab454f62fab3dff4b34a2bad3ee324}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -849,7 +862,8 @@ Referenced by <a href="#a29acaf4643091fae3b24e901fdb986b1">isCached</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -862,7 +876,7 @@ Referenced by <a href="#a3a025efe9a3c4850b11efd9f5905213e">setCachedDark</a>.
 </div>
 </div>
 
-### m&#95;forceRegen {#ae3cf6866682636c9467c6eeb019e4a34}
+### m\_forceRegen {#ae3cf6866682636c9467c6eeb019e4a34}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -881,7 +895,8 @@ Referenced by <a href="#a3a025efe9a3c4850b11efd9f5905213e">setCachedDark</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -894,7 +909,7 @@ Referenced by <a href="#a29acaf4643091fae3b24e901fdb986b1">isCached</a>, <a href
 </div>
 </div>
 
-### m&#95;height {#a5a473c0de6e73ea2bf822a5144a9995f}
+### m\_height {#a5a473c0de6e73ea2bf822a5144a9995f}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -913,7 +928,8 @@ Referenced by <a href="#a29acaf4643091fae3b24e901fdb986b1">isCached</a>, <a href
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -926,7 +942,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 </div>
 </div>
 
-### m&#95;id {#aee1b107c1fc9d1cda129a4fdaeb51599}
+### m\_id {#aee1b107c1fc9d1cda129a4fdaeb51599}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -945,7 +961,8 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -958,7 +975,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a hr
 </div>
 </div>
 
-### m&#95;text {#a8b7dae9941bb5b07be04e125a14f87d7}
+### m\_text {#a8b7dae9941bb5b07be04e125a14f87d7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -977,7 +994,8 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -990,7 +1008,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a hr
 </div>
 </div>
 
-### m&#95;width {#a6bfaf07db374ddf6f9423165a35c36f7}
+### m\_width {#a6bfaf07db374ddf6f9423165a35c36f7}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -1009,7 +1027,8 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
 
 <div class="doxyProgramListing">
 
@@ -1026,7 +1045,7 @@ Referenced by <a href="#ad20b5439e61af41ffa7d5f815a67244c">Formula</a>, <a href=
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a></li>

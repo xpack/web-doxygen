@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotDirPropertyBuilder` Class Reference
 
-<p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="#details">More...</a></p>
+Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -136,9 +136,9 @@ class DotDirPropertyBuilder { ... }
 
 ## Description {#details}
 
-<p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct.</p>
+Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct.
 
-<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -168,7 +168,8 @@ class DotDirPropertyBuilder { ... }
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -177,7 +178,7 @@ class DotDirPropertyBuilder { ... }
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 </div>
 </div>
 
@@ -211,7 +212,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -220,7 +222,7 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 </div>
 </div>
 
@@ -248,7 +250,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -257,7 +260,7 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 </div>
@@ -287,7 +290,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -296,7 +300,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 </div>
 </div>
 
@@ -324,7 +328,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -333,7 +338,7 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 </div>
 </div>
 
@@ -361,7 +366,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -370,7 +376,7 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
+Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 </div>
 </div>
 
@@ -380,7 +386,7 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 
 ## Private Member Attributes
 
-### m&#95;property {#a235fcd01f99eb75bd47657676ed78142}
+### m\_property {#a235fcd01f99eb75bd47657676ed78142}
 
 <div class="doxyMemberItem">
 <div class="doxyMemberProto">
@@ -399,7 +405,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m&#95;property</a>.
 <div class="doxyMemberDoc">
 
 
-<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
+Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -416,7 +423,7 @@ Referenced by <a href="#a9a95fade9d6e8f2865abac71e84229d3">makeIncomplete</a>, <
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a></li>

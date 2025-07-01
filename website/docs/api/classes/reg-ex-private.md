@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Private` Class Reference
 
-<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="#details">More...</a></p>
+<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="#details">More...</a>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Creates the private part. <a href="#aa3f746ba480aec926ff3b83fdebb197a">More...</a></p>
+Creates the private part. <a href="#aa3f746ba480aec926ff3b83fdebb197a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -56,7 +56,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching. <a href="#a5ae763e5ab5231eae1133e68093c49be">More...</a></p>
+Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching. <a href="#a5ae763e5ab5231eae1133e68093c49be">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Internal matching routine. <a href="#acb10ddb380fa79ce0a346360feffce11">More...</a></p>
+Internal matching routine. <a href="#acb10ddb380fa79ce0a346360feffce11">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>Flag indicating the expression was successfully compiled. <a href="#a3d43ef3d3304bc786d75340eac860780">More...</a></p>
+Flag indicating the expression was successfully compiled. <a href="#a3d43ef3d3304bc786d75340eac860780">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,7 +104,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The token stream representing the compiled regular expression. <a href="#afd98016e2bda56b81308bdc907569ead">More...</a></p>
+The token stream representing the compiled regular expression. <a href="#afd98016e2bda56b81308bdc907569ead">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -118,7 +118,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<p>The pattern string as passed by the user. <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">More...</a></p>
+The pattern string as passed by the user. <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -129,9 +129,9 @@ class reg::Ex::Private { ... }
 
 ## Description {#details}
 
-<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression.</p>
+<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression.
 
-<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxySectionDef">
 
@@ -159,9 +159,10 @@ class reg::Ex::Private { ... }
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Creates the private part.</p>
 
-<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Creates the private part.
+
+Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -200,9 +201,10 @@ References <a href="#afd98016e2bda56b81308bdc907569ead">data</a> and <a href="#a
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching.</p>
 
-<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching.
+
+Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -441,7 +443,8 @@ References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7f
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Internal matching routine.</p>
+
+Internal matching routine.
 
 
 <dl class="doxyParamsList">
@@ -450,33 +453,33 @@ References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7f
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tokenPos</td>
-<td class="doxyParamItemDescription"><p>Offset into the token stream.</p></td>
+<td class="doxyParamItemDescription">Offset into the token stream.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tokenLen</td>
-<td class="doxyParamItemDescription"><p>The length of the token stream.</p></td>
+<td class="doxyParamItemDescription">The length of the token stream.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">str</td>
-<td class="doxyParamItemDescription"><p>The input string to match against.</p></td>
+<td class="doxyParamItemDescription">The input string to match against.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">match</td>
-<td class="doxyParamItemDescription"><p>The object used to store the matching results.</p></td>
+<td class="doxyParamItemDescription">The object used to store the matching results.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">pos</td>
-<td class="doxyParamItemDescription"><p>The position in the input string to start with matching</p></td>
+<td class="doxyParamItemDescription">The position in the input string to start with matching</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">level</td>
-<td class="doxyParamItemDescription"><p>Recursion level (used for debugging)</p></td>
+<td class="doxyParamItemDescription">Recursion level (used for debugging)</td>
 </tr>
 </table>
 </dd>
 </dl>
 
-<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -713,9 +716,10 @@ Referenced by <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>The token stream representing the compiled regular expression.</p>
 
-<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+The token stream representing the compiled regular expression.
+
+Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -745,9 +749,10 @@ Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>, <a href=
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>Flag indicating the expression was successfully compiled.</p>
 
-<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+Flag indicating the expression was successfully compiled.
+
+Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -777,9 +782,10 @@ Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>.
 </table>
 </div>
 <div class="doxyMemberDoc">
-<p>The pattern string as passed by the user.</p>
 
-<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+The pattern string as passed by the user.
+
+Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 
 <div class="doxyProgramListing">
 
@@ -796,7 +802,7 @@ Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a> and <a hr
 
 <hr/>
 
-<p>The documentation for this class was generated from the following file:</p>
+The documentation for this class was generated from the following file:
 
 <ul>
 <li><a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a></li>
