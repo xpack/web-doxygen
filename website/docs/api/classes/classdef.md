@@ -152,7 +152,7 @@ The various compound types. <a href="#ae70cf86d35fe954a94c566fbcfc87939">More...
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if this is a local class definition, see EXTRACT\_LOCAL\_CLASSES. <a href="#a6b24aeece30ae83930ed2a3ca0621fec">More...</a>
+Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES. <a href="#a6b24aeece30ae83930ed2a3ca0621fec">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2062,7 +2062,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 Returns the template parameter lists that form the template declaration of this class.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: <code>template&lt;class T&gt; class TC {} = 0;</code> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
 Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 

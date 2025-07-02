@@ -286,7 +286,7 @@ Handle result description as defined after the declaration of the parameter. <a 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-adds yyextra-&gt;current entry to yyextra-&gt;current\_root and creates new yyextra-&gt;current <a href="#a1f86638786429418e4c584f9b98ec3d4">More...</a>
+adds yyextra-&gt;current entry to yyextra-&gt;current_root and creates new yyextra-&gt;current <a href="#a1f86638786429418e4c584f9b98ec3d4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

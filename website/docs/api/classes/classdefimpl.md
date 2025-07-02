@@ -191,7 +191,7 @@ class ClassDefImpl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if this is a local class definition, see EXTRACT\_LOCAL\_CLASSES. <a href="#a5c0699ff5a5e0473e4ff993d145cc31e">More...</a>
+Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES. <a href="#a5c0699ff5a5e0473e4ff993d145cc31e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -5795,7 +5795,7 @@ Referenced by <a href="#ae4f02bc658b7c03423fb568c7410f23d">internalInsertMember<
 Returns the template parameter lists that form the template declaration of this class.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: <code>template&lt;class T&gt; class TC {} = 0;</code> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
 Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/classdef-cpp">classdef.cpp</a>.
 
@@ -6074,7 +6074,7 @@ Reference <a href="#a8ae8d03e41df846ef9255f4ff3f27634">m\_typeInheritanceGraph</
 
 
 
-Returns <code>TRUE</code> iff this class or a class inheriting from this class is <em>not</em> defined in an external tag file.
+Returns <span class="doxyComputerOutput">TRUE</span> iff this class or a class inheriting from this class is <em>not</em> defined in an external tag file.
 
 Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/classdef-cpp">classdef.cpp</a>.
 

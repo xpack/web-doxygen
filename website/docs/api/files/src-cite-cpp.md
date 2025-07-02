@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-class that provide information about the p\[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a>
+class that provide information about the p[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

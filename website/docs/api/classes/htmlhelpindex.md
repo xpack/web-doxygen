@@ -381,7 +381,7 @@ Reference <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m\_map</a>.
 
 Writes the sorted list of index items into a html like list.
 
-An list of calls with <code>name = level1,level2</code> as follows:
+An list of calls with <span class="doxyComputerOutput">name = level1,level2</span> as follows:
 
 
 <pre><code>  a1,b1

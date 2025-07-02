@@ -277,7 +277,7 @@ The following subsections provide a list of all commands that are recognized by 
 
 Defines a group just like <a href="#cmddefgroup">\\defgroup</a>, but in contrast to that command using the same &lt;name&gt; more than once will not result in a warning, but rather one group with a merged documentation and the first title found in any of the commands.
 
-The title is optional, so this command can also be used to add a number of entities to an existing group using <code>@{</code> and <code>@}</code> like this:
+The title is optional, so this command can also be used to add a number of entities to an existing group using <span class="doxyComputerOutput">@{</span> and <span class="doxyComputerOutput">@}</span> like this:
 
 
 <pre><code>  /*! \addtogroup mygrp
@@ -313,7 +313,7 @@ The title is optional, so this command can also be used to add a number of entit
 ## \\callgraph {#cmdcallgraph}
 
 
-When this command is put in a comment block of a function or method and <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <code>YES</code>, then Doxygen will generate a call graph for that function (provided the implementation of the function or method calls other documented functions). The call graph will be generated regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_call_graph">CALL\_GRAPH</a>.
+When this command is put in a comment block of a function or method and <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <span class="doxyComputerOutput">YES</span>, then Doxygen will generate a call graph for that function (provided the implementation of the function or method calls other documented functions). The call graph will be generated regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_call_graph">CALL\_GRAPH</a>.
 
 :::info
 The completeness (and correctness) of the call graph depends on the Doxygen code parser which is not perfect.
@@ -351,7 +351,7 @@ The completeness (and correctness) of the call graph depends on the Doxygen code
 ## \\callergraph {#cmdcallergraph}
 
 
-When this command is put in a comment block of a function or method and <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <code>YES</code>, then Doxygen will generate a caller graph for that function (provided the implementation of the function or method is called by other documented functions). The caller graph will be generated regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_caller_graph">CALLER\_GRAPH</a>.
+When this command is put in a comment block of a function or method and <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <span class="doxyComputerOutput">YES</span>, then Doxygen will generate a caller graph for that function (provided the implementation of the function or method is called by other documented functions). The caller graph will be generated regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_caller_graph">CALLER\_GRAPH</a>.
 
 :::info
 The completeness (and correctness) of the caller graph depends on the Doxygen code parser which is not perfect.
@@ -605,7 +605,7 @@ When this command is put in a comment block of a class then Doxygen will not gen
 ## \\inheritancegraph\['{option}'\] {#cmdinheritancegraph}
 
 
-When this command is put in a comment block of a class then Doxygen will generate an inheritance graph for that class conforming the <code>option</code>. The inheritance graph will be generated, conforming the <code>option</code>, regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_class_graph">CLASS\_GRAPH</a>. The possible values of <code>option</code> are the same values as can be used with <a href="/web-doxygen/docs/pages/config/#cfg_class_graph">CLASS\_GRAPH</a>. In case no <code>option</code> is specified the value <code>YES</code> is assumed.
+When this command is put in a comment block of a class then Doxygen will generate an inheritance graph for that class conforming the <span class="doxyComputerOutput">option</span>. The inheritance graph will be generated, conforming the <span class="doxyComputerOutput">option</span>, regardless of the value of <a href="/web-doxygen/docs/pages/config/#cfg_class_graph">CLASS\_GRAPH</a>. The possible values of <span class="doxyComputerOutput">option</span> are the same values as can be used with <a href="/web-doxygen/docs/pages/config/#cfg_class_graph">CLASS\_GRAPH</a>. In case no <span class="doxyComputerOutput">option</span> is specified the value <span class="doxyComputerOutput">YES</span> is assumed.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -691,7 +691,7 @@ When this command is put in a comment block of an enum then doxygen will not sho
 
 With this command it is possible to add custom qualifier labels to members and classes. These labels will be shown in the output in the same way as the automatically generated labels such as "static", "inline", and "final".
 
-For instance to indicate that a function is only meant for testing purposes one could add <code>\\qualifier test</code>
+For instance to indicate that a function is only meant for testing purposes one could add <span class="doxyComputerOutput">\\qualifier test</span>
 
 <hr/>
 
@@ -754,7 +754,7 @@ Indicates that a comment block contains documentation for a C++20 concept with n
 ## \\def &lt;name&gt; {#cmddef}
 
 
-Indicates that a comment block contains documentation for a <code>#define</code> macro.
+Indicates that a comment block contains documentation for a <span class="doxyComputerOutput">#define</span> macro.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -820,7 +820,7 @@ Indicates that a comment block contains documentation for a directory. The "path
 ## \\enum &lt;name&gt; {#cmdenum}
 
 
-Indicates that a comment block contains documentation for an enumeration, with name &lt;name&gt;. If the enum is a member of a class and the documentation block is located outside the class definition, the scope of the class should be specified as well. If a comment block is located directly in front of an enum declaration, the <code>\\enum</code> comment may be omitted.
+Indicates that a comment block contains documentation for an enumeration, with name &lt;name&gt;. If the enum is a member of a class and the documentation block is located outside the class definition, the scope of the class should be specified as well. If a comment block is located directly in front of an enum declaration, the <span class="doxyComputerOutput">\\enum</span> comment may be omitted.
 
 <dl class="doxySectionUser">
 <dt>Note:</dt>
@@ -872,7 +872,7 @@ Indicates that a comment block contains documentation for an enumeration, with n
 ## \\example\['{lineno}'\] &lt;file-name&gt; {#cmdexample}
 
 
-Indicates that a comment block contains documentation for a source code example. The name of the source file is &lt;file-name&gt;. The contents of this file will be included in the documentation, just after the documentation contained in the comment block. You can add option <code>{lineno}</code> to enable line numbers for the example if desired. All examples are placed in a list. The source code is scanned for documented members and classes. If any are found, the names are cross-referenced with the documentation. Source files or directories can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
+Indicates that a comment block contains documentation for a source code example. The name of the source file is &lt;file-name&gt;. The contents of this file will be included in the documentation, just after the documentation contained in the comment block. You can add option <span class="doxyComputerOutput">{lineno}</span> to enable line numbers for the example if desired. All examples are placed in a list. The source code is scanned for documented members and classes. If any are found, the names are cross-referenced with the documentation. Source files or directories can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
 If &lt;file-name&gt; itself is not unique for the set of example files specified by the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag, you can include part of the absolute path to disambiguate it.
 
@@ -905,7 +905,7 @@ If more than one source file is needed for the example, the <a href="#cmdinclude
 </div>
 &nbsp;
 &nbsp;
-Where the example file <code>example_test.cpp</code> looks as follows:
+Where the example file <span class="doxyComputerOutput">example_test.cpp</span> looks as follows:
 &nbsp;
 <div class="doxyProgramListing">
 &nbsp;
@@ -936,7 +936,7 @@ Where the example file <code>example_test.cpp</code> looks as follows:
 ## \\endinternal {#cmdendinternal}
 
 
-This command ends a documentation fragment that was started with a <a href="#cmdinternal">\\internal</a> command. The text between <a href="#cmdinternal">\\internal</a> and <code>\\endinternal</code> will only be visible if <a href="/web-doxygen/docs/pages/config/#cfg_internal_docs">INTERNAL\_DOCS</a> is set to <code>YES</code>.
+This command ends a documentation fragment that was started with a <a href="#cmdinternal">\\internal</a> command. The text between <a href="#cmdinternal">\\internal</a> and <span class="doxyComputerOutput">\\endinternal</span> will only be visible if <a href="/web-doxygen/docs/pages/config/#cfg_internal_docs">INTERNAL\_DOCS</a> is set to <span class="doxyComputerOutput">YES</span>.
 
 <hr/>
 
@@ -946,7 +946,7 @@ This command ends a documentation fragment that was started with a <a href="#cmd
 
 This command can be used to manually indicate an inheritance relation, when the programming language does not support this concept natively (e.g. C).
 
-The file <code>manual.c</code> in the example directory shows how to use this command (see also <a href="#cmdmemberof">\\memberof</a> for the complete file).
+The file <span class="doxyComputerOutput">manual.c</span> in the example directory shows how to use this command (see also <a href="#cmdmemberof">\\memberof</a> for the complete file).
  
   Click <a href="pathname:///examples/manual/html/struct_car.html">here</a>
   for the corresponding HTML documentation that is generated by Doxygen.
@@ -964,10 +964,10 @@ The file <code>manual.c</code> in the example directory shows how to use this co
 ## \\file \[&lt;name&gt;\] {#cmdfile}
 
 
-Indicates that a comment block contains documentation for a source or header file with name &lt;name&gt;. The file name may include (part of) the path if the file-name alone is not unique. If the file name is omitted (i.e. the line after <code>\\file</code> is left blank) then the documentation block that contains the <code>\\file</code> command will belong to the file it is located in.
+Indicates that a comment block contains documentation for a source or header file with name &lt;name&gt;. The file name may include (part of) the path if the file-name alone is not unique. If the file name is omitted (i.e. the line after <span class="doxyComputerOutput">\\file</span> is left blank) then the documentation block that contains the <span class="doxyComputerOutput">\\file</span> command will belong to the file it is located in.
 
 :::tip
-The documentation of global functions, variables, typedefs, and enums will only be included in the output if the file they are in is documented as well or if <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> is set to <code>YES</code>.
+The documentation of global functions, variables, typedefs, and enums will only be included in the output if the file they are in is documented as well or if <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> is set to <span class="doxyComputerOutput">YES</span>.
 :::
 
 
@@ -996,7 +996,7 @@ The documentation of global functions, variables, typedefs, and enums will only 
 
 
 :::info
-In the above example <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> has been set to <code>YES</code> in the configuration file.
+In the above example <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> has been set to <span class="doxyComputerOutput">YES</span> in the configuration file.
 :::
 
 
@@ -1006,17 +1006,17 @@ In the above example <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobr
 ## \\fileinfo\['{'option'}'\] {#cmdfileinfo}
 
 
-Shows (part) of the file name in which this command is placed. The <code>option</code> can be <code>name</code>, <code>extension</code>, <code>filename</code>, <code>directory</code> or, <code>full</code>, with
+Shows (part) of the file name in which this command is placed. The <span class="doxyComputerOutput">option</span> can be <span class="doxyComputerOutput">name</span>, <span class="doxyComputerOutput">extension</span>, <span class="doxyComputerOutput">filename</span>, <span class="doxyComputerOutput">directory</span> or, <span class="doxyComputerOutput">full</span>, with
 
 <ul class="doxyList ">
-<li><code>name</code> the name of the file without extension</li>
-<li><code>extension</code> the extension of the file</li>
-<li><code>filename</code> the filename i.e. <code>name</code> plus <code>extension</code></li>
-<li><code>directory</code> the directory of the given file</li>
-<li><code>full</code> the full path and filename of the given file.</li>
+<li><span class="doxyComputerOutput">name</span> the name of the file without extension</li>
+<li><span class="doxyComputerOutput">extension</span> the extension of the file</li>
+<li><span class="doxyComputerOutput">filename</span> the filename i.e. <span class="doxyComputerOutput">name</span> plus <span class="doxyComputerOutput">extension</span></li>
+<li><span class="doxyComputerOutput">directory</span> the directory of the given file</li>
+<li><span class="doxyComputerOutput">full</span> the full path and filename of the given file.</li>
 </ul>
 
-In case no option is specified the <code>filename</code> is used unless <a href="/web-doxygen/docs/pages/config/#cfg_full_path_names">FULL\_PATH\_NAMES</a> is set to <code>YES</code> in which case <code>full</code> is used.
+In case no option is specified the <span class="doxyComputerOutput">filename</span> is used unless <a href="/web-doxygen/docs/pages/config/#cfg_full_path_names">FULL\_PATH\_NAMES</a> is set to <span class="doxyComputerOutput">YES</span> in which case <span class="doxyComputerOutput">full</span> is used.
 
 :::info
 the command \\fileinfo cannot be used as argument to the <a href="#cmdfile">\\file</a> command
@@ -1053,7 +1053,7 @@ Indicates that a comment block contains documentation for a function (either glo
 
 If your comment block <em>is</em> in front of the function declaration or definition this command can (and to avoid redundancy should) be omitted.
 
-A full function declaration including arguments should be specified after the <code>\\fn</code> command on a <em>single</em> line, since the argument ends at the end of the line!
+A full function declaration including arguments should be specified after the <span class="doxyComputerOutput">\\fn</span> command on a <em>single</em> line, since the argument ends at the end of the line!
 
 This command is equivalent to <a href="#cmdvar">\\var</a>, <a href="#cmdtypedef">\\typedef</a>, and <a href="#cmdproperty">\\property</a>.
 
@@ -1113,7 +1113,7 @@ Intended to be used for class, struct, or union documentation, where the documen
 
 With the &lt;header-name&gt; argument you can also specify how the include statement should look like, by adding either double quotes or sharp brackets around the name. By default sharp brackets are used if just the name is given.
 
-If a pair of double quotes is given for either the &lt;header-file&gt; or &lt;header-name&gt; argument, the current file (in which the command was found) will be used but with quotes. So for a comment block with a <code>\\headerfile</code> command inside a file <code>test.h</code>, the following three commands are equivalent:
+If a pair of double quotes is given for either the &lt;header-file&gt; or &lt;header-name&gt; argument, the current file (in which the command was found) will be used but with quotes. So for a comment block with a <span class="doxyComputerOutput">\\headerfile</span> command inside a file <span class="doxyComputerOutput">test.h</span>, the following three commands are equivalent:
 
 
 <pre><code>  \headerfile test.h "test.h"
@@ -1131,9 +1131,9 @@ To get sharp brackets you do not need to specify anything, but if you want to be
 </code></pre>
 
 
-To globally reverse the default include representation to local includes you can set <a href="/web-doxygen/docs/pages/config/#cfg_force_local_includes">FORCE\_LOCAL\_INCLUDES</a> to <code>YES</code>.
+To globally reverse the default include representation to local includes you can set <a href="/web-doxygen/docs/pages/config/#cfg_force_local_includes">FORCE\_LOCAL\_INCLUDES</a> to <span class="doxyComputerOutput">YES</span>.
 
-To disable the include information altogether set <a href="/web-doxygen/docs/pages/config/#cfg_show_headerfile">SHOW\_HEADERFILE</a> to <code>NO</code>.
+To disable the include information altogether set <a href="/web-doxygen/docs/pages/config/#cfg_show_headerfile">SHOW\_HEADERFILE</a> to <span class="doxyComputerOutput">NO</span>.
 
 <hr/>
 
@@ -1165,7 +1165,7 @@ Indicates that a comment block contains documentation for a IDL exception with n
 
 This command can be used to manually indicate an inheritance relation, when the programming language does not support this concept natively (e.g. C).
 
-The file <code>manual.c</code> in the example directory shows how to use this command (see also <a href="#cmdmemberof">\\memberof</a> for the complete file).
+The file <span class="doxyComputerOutput">manual.c</span> in the example directory shows how to use this command (see also <a href="#cmdmemberof">\\memberof</a> for the complete file).
  
   Click <a href="pathname:///examples/manual/html/struct_car.html">here</a>
   for the corresponding HTML documentation that is generated by Doxygen.
@@ -1183,7 +1183,7 @@ The file <code>manual.c</code> in the example directory shows how to use this co
 ## \\ingroup (&lt;groupname&gt; \[&lt;groupname&gt;\]\*) {#cmdingroup}
 
 
-If the <code>\\ingroup</code> command is placed in a comment block of a compound entity (like class, file or namespace), then it will be added to the group(s) identified by the <code>&lt;groupname&gt;</code>(s). In case of members (like variable, functions, typedefs and enums) the member will be added only to one group (to avoid ambiguous linking targets in case a member is not documented in the context of its class, namespace or file, but only visible as part of a group).
+If the <span class="doxyComputerOutput">\\ingroup</span> command is placed in a comment block of a compound entity (like class, file or namespace), then it will be added to the group(s) identified by the <span class="doxyComputerOutput">&lt;groupname&gt;</span>(s). In case of members (like variable, functions, typedefs and enums) the member will be added only to one group (to avoid ambiguous linking targets in case a member is not documented in the context of its class, namespace or file, but only visible as part of a group).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -1213,9 +1213,9 @@ Indicates that a comment block contains documentation for an interface with name
 
 This command starts a documentation fragment that is meant for internal use only. The fragment naturally ends at the end of the comment block. You can also force the internal section to end earlier by using the <a href="#cmdendinternal">\\endinternal</a> command.
 
-If the <code>\\internal</code> command is put inside a section (see for example <a href="#cmdsection">\\section</a>) all subsections after the command are considered to be internal as well. Only a new section at the same level will end the fragment that is considered internal.
+If the <span class="doxyComputerOutput">\\internal</span> command is put inside a section (see for example <a href="#cmdsection">\\section</a>) all subsections after the command are considered to be internal as well. Only a new section at the same level will end the fragment that is considered internal.
 
-You can use <a href="/web-doxygen/docs/pages/config/#cfg_internal_docs">INTERNAL\_DOCS</a> in the configuration file to show (<code>YES</code>) or hide (<code>NO</code>) the internal documentation.
+You can use <a href="/web-doxygen/docs/pages/config/#cfg_internal_docs">INTERNAL\_DOCS</a> in the configuration file to show (<span class="doxyComputerOutput">YES</span>) or hide (<span class="doxyComputerOutput">NO</span>) the internal documentation.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -1229,9 +1229,9 @@ You can use <a href="/web-doxygen/docs/pages/config/#cfg_internal_docs">INTERNAL
 ## \\mainpage \[(title)\] {#cmdmainpage}
 
 
-If the <code>\\mainpage</code> command is placed in a comment block the block is used to customize the index page (in HTML) or the first chapter (in <code>{\LaTeX}</code>).
+If the <span class="doxyComputerOutput">\\mainpage</span> command is placed in a comment block the block is used to customize the index page (in HTML) or the first chapter (in <code>{\LaTeX}</code>).
 
-The title argument is optional and replaces the default title that Doxygen normally generates. If you do not want any title you can specify <code>notitle</code> as the argument of <code>\\mainpage</code>.
+The title argument is optional and replaces the default title that Doxygen normally generates. If you do not want any title you can specify <span class="doxyComputerOutput">notitle</span> as the argument of <span class="doxyComputerOutput">\\mainpage</span>.
 
 Here is an example:
 
@@ -1251,7 +1251,7 @@ Here is an example:
 </code></pre>
 
 
-You can refer to the main page using: <code><a href="#cmdref">\\ref</a> index</code>.
+You can refer to the main page using: <span class="doxyComputerOutput"><a href="#cmdref">\\ref</a> index</span>.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -1271,7 +1271,7 @@ It is also possible to use this command together with <a href="#cmdpublic">\\pub
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
-<dd>The file <code>manual.c</code> in the example directory shows how to use this command:
+<dd>The file <span class="doxyComputerOutput">manual.c</span> in the example directory shows how to use this command:
 &nbsp;
 <div class="doxyProgramListing">
 &nbsp;
@@ -1392,7 +1392,7 @@ Indicates that a comment block contains documentation for a C++20 module with na
 ## \\name \[(header)\] {#cmdname}
 
 
-This command turns a comment block into a header definition of a member group. The comment block should be followed by a <code>@{</code> ... <code>@}</code> block containing the members of the group.
+This command turns a comment block into a header definition of a member group. The comment block should be followed by a <span class="doxyComputerOutput">@{</span> ... <span class="doxyComputerOutput">@}</span> block containing the members of the group.
 
 See section <a href="/web-doxygen/docs/pages/grouping/#memgroup">Member Groups</a> for an example.
 
@@ -1430,19 +1430,19 @@ This command can be used to generate the following standard text for an overload
 This is an overloaded member function, provided for convenience. It differs from the above function only in what argument(s) it accepts.
 </blockquote>
 
-If the documentation for the overloaded member function is not located in front of the function declaration or definition, the optional argument should be used to specify the correct declaration of the overloaded function. Of course when the <code>\\overload</code> command is directly in front of the overloaded member function and the optional argument is used this should also be the correct declaration of the overloaded function.
+If the documentation for the overloaded member function is not located in front of the function declaration or definition, the optional argument should be used to specify the correct declaration of the overloaded function. Of course when the <span class="doxyComputerOutput">\\overload</span> command is directly in front of the overloaded member function and the optional argument is used this should also be the correct declaration of the overloaded function.
 
 Any other documentation that is inside the documentation block will by appended after the generated message.
 
 <dl class="doxySectionUser">
 <dt>Note 1:</dt>
-<dd>You are responsible that there is indeed an earlier documented member that is overloaded by this one. To prevent that document reorders the documentation you should set <a href="/web-doxygen/docs/pages/config/#cfg_sort_member_docs">SORT_MEMBER_DOCS</a> to <code>NO</code> in this case.</dd>
+<dd>You are responsible that there is indeed an earlier documented member that is overloaded by this one. To prevent that document reorders the documentation you should set <a href="/web-doxygen/docs/pages/config/#cfg_sort_member_docs">SORT_MEMBER_DOCS</a> to <span class="doxyComputerOutput">NO</span> in this case.</dd>
 </dl>
 
 
 <dl class="doxySectionUser">
 <dt>Note 2:</dt>
-<dd>Only one <code>\overload</code> command can be present in a comment block.</dd>
+<dd>Only one <span class="doxyComputerOutput">\overload</span> command can be present in a comment block.</dd>
 </dl>
 
 
@@ -1532,7 +1532,7 @@ Indicates that a comment block contains a piece of documentation that is not dir
 
 <dl class="doxySectionUser">
 <dt>Note:</dt>
-<dd>The &lt;name&gt; argument consists of a combination of letters and number digits. If you wish to use upper case letters (e.g. <code>MYPAGE1</code>), or mixed case letters (e.g. <code>MyPage1</code>) in the &lt;name&gt; argument, you should set <a href="/web-doxygen/docs/pages/config/#cfg_case_sense_names">CASE_SENSE_NAMES</a> to <code>YES</code>. However, this is advisable only if your file system is case sensitive. Otherwise (and for better portability) you should use all lower case letters (e.g. <code>mypage1</code>) for &lt;name&gt; in all references to the page.</dd>
+<dd>The &lt;name&gt; argument consists of a combination of letters and number digits. If you wish to use upper case letters (e.g. <span class="doxyComputerOutput">MYPAGE1</span>), or mixed case letters (e.g. <span class="doxyComputerOutput">MyPage1</span>) in the &lt;name&gt; argument, you should set <a href="/web-doxygen/docs/pages/config/#cfg_case_sense_names">CASE_SENSE_NAMES</a> to <span class="doxyComputerOutput">YES</span>. However, this is advisable only if your file system is case sensitive. Otherwise (and for better portability) you should use all lower case letters (e.g. <span class="doxyComputerOutput">mypage1</span>) for &lt;name&gt; in all references to the page.</dd>
 </dl>
 
 
@@ -1819,7 +1819,7 @@ Indicates that a comment block contains documentation for a union with name &lt;
 
 Indicates that a comment block contains documentation for a variable or enum value (either global or as a member of a class). This command is equivalent to <a href="#cmdfn">\\fn</a>, <a href="#cmdproperty">\\property</a>, and <a href="#cmdtypedef">\\typedef</a>.
 
-Note that for PHP one can also specify the type of the variable. The syntax is similar as for the <code>phpDocumentor</code> but the description has to start at the next line, i.e.
+Note that for PHP one can also specify the type of the variable. The syntax is similar as for the <span class="doxyComputerOutput">phpDocumentor</span> but the description has to start at the next line, i.e.
 
 
 <pre><code>@var  datatype $varname
@@ -1873,7 +1873,7 @@ Can be used exactly like <a href="#cmdaddtogroup">\\addtogroup</a>, but has a lo
 ## \\attention { attention text } {#cmdattention}
 
 
-Starts a paragraph where a message that needs attention may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\attention</code> commands will be joined into a single paragraph. The <code>\\attention</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where a message that needs attention may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\attention</span> commands will be joined into a single paragraph. The <span class="doxyComputerOutput">\\attention</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -1881,7 +1881,7 @@ Starts a paragraph where a message that needs attention may be entered. The para
 ## \\author { list of authors } {#cmdauthor}
 
 
-Starts a paragraph where one or more author names may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\author</code> commands will be joined into a single paragraph. Each author description will start a new line. Alternatively, one <code>\\author</code> command may mention several authors. The <code>\\author</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where one or more author names may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\author</span> commands will be joined into a single paragraph. Each author description will start a new line. Alternatively, one <span class="doxyComputerOutput">\\author</span> command may mention several authors. The <span class="doxyComputerOutput">\\author</span> command ends when a blank line or some other sectioning command is encountered.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -1924,7 +1924,7 @@ Equivalent to <a href="#cmdauthor">\\author</a>.
 ## \\brief { brief description } {#cmdbrief}
 
 
-Starts a paragraph that serves as a brief description. For classes and files the brief description will be used in lists and at the start of the documentation page. For class and file members, the brief description will be placed at the declaration of the member and prepended to the detailed description. A brief description may span several lines (although it is advised to keep it brief!). A brief description ends when a blank line or another sectioning command is encountered. If multiple <code>\\brief</code> commands are present they will be joined. See section <a href="#cmdauthor">\\author</a> for an example.
+Starts a paragraph that serves as a brief description. For classes and files the brief description will be used in lists and at the start of the documentation page. For class and file members, the brief description will be placed at the declaration of the member and prepended to the detailed description. A brief description may span several lines (although it is advised to keep it brief!). A brief description ends when a blank line or another sectioning command is encountered. If multiple <span class="doxyComputerOutput">\\brief</span> commands are present they will be joined. See section <a href="#cmdauthor">\\author</a> for an example.
 
 Synonymous to <a href="#cmdshort">\\short</a>.
 
@@ -1934,11 +1934,11 @@ Synonymous to <a href="#cmdshort">\\short</a>.
 ## \\bug { bug description } {#cmdbug}
 
 
-Starts a paragraph where one or more bugs may be reported. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\bug</code> commands will be joined into a single paragraph. Each bug description will start on a new line. Alternatively, one <code>\\bug</code> command may mention several bugs. The <code>\\bug</code> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
+Starts a paragraph where one or more bugs may be reported. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\bug</span> commands will be joined into a single paragraph. Each bug description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\bug</span> command may mention several bugs. The <span class="doxyComputerOutput">\\bug</span> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
 
 The description will also add an item to a separate Bug list and the two instances of the description will be cross-referenced. Each item in the Bug list will be preceded by a header that indicates the origin of the item.
 
-The Bug list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_buglist">GENERATE\_BUGLIST</a> to <code>NO</code>.
+The Bug list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_buglist">GENERATE\_BUGLIST</a> to <span class="doxyComputerOutput">NO</span>.
 
 <hr/>
 
@@ -1948,9 +1948,9 @@ The Bug list and the corresponding entries can be disabled by setting the <a hre
 
 Starts a conditional section that ends with a corresponding <a href="#cmdendcond">\\endcond</a> command, which is typically found in another comment block. The main purpose of this pair of commands is to (conditionally) exclude part of a file from processing (in older version of Doxygen this could only be achieved using C preprocessor commands).
 
-The section between <code>\\cond</code> and <a href="#cmdendcond">\\endcond</a> can be included by adding its section label to the <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> configuration option. If the section label is omitted, the section will be excluded from processing unconditionally. The section label can be a logical expression build of section labels, round brackets, &amp;&amp; (AND), || (OR) and ! (NOT). If you use an expression you need to wrap it in round brackets, i.e <code>\\cond (!LABEL1 &amp;&amp; LABEL2)</code>.
+The section between <span class="doxyComputerOutput">\\cond</span> and <a href="#cmdendcond">\\endcond</a> can be included by adding its section label to the <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> configuration option. If the section label is omitted, the section will be excluded from processing unconditionally. The section label can be a logical expression build of section labels, round brackets, &amp;&amp; (AND), || (OR) and ! (NOT). If you use an expression you need to wrap it in round brackets, i.e <span class="doxyComputerOutput">\\cond (!LABEL1 &amp;&amp; LABEL2)</span>.
 
-For conditional sections within a comment block one should use a <a href="#cmdif">\\if</a> ... <a href="#cmdendif">\\endif</a> block. When using <code>\\cond</code> and the condition is not satisfied the current comment block is ended and everything until the matching <a href="#cmdendcond">\\endcond</a> is removed and a new command block is started there.
+For conditional sections within a comment block one should use a <a href="#cmdif">\\if</a> ... <a href="#cmdendif">\\endif</a> block. When using <span class="doxyComputerOutput">\\cond</span> and the condition is not satisfied the current comment block is ended and everything until the matching <a href="#cmdendcond">\\endcond</a> is removed and a new command block is started there.
 
 Conditional sections can be nested. In this case a nested section will only be shown if it and its containing section are included.
 
@@ -1997,7 +1997,7 @@ class Implementation : public Intf
 </code></pre>
 
 
-The output will be different depending on whether or not <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> contains <code>TEST</code>, or <code>DEV</code>
+The output will be different depending on whether or not <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> contains <span class="doxyComputerOutput">TEST</span>, or <span class="doxyComputerOutput">DEV</span>
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -2006,7 +2006,7 @@ The output will be different depending on whether or not <a href="/web-doxygen/d
 
 
 :::info
-Due to the moment of parsing the <code>\\cond</code> and <a href="#cmdendcond">\\endcond</a> commands cannot be used in <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a>.
+Due to the moment of parsing the <span class="doxyComputerOutput">\\cond</span> and <a href="#cmdendcond">\\endcond</a> commands cannot be used in <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a>.
 :::
 
 
@@ -2024,7 +2024,7 @@ Starts a paragraph where the copyright of an entity can be described. This parag
 ## \\date { date description } {#cmddate}
 
 
-Starts a paragraph where one or more dates may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\date</code> commands will be joined into a single paragraph. Each date description will start on a new line. Alternatively, one <code>\\date</code> command may mention several dates. The <code>\\date</code> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
+Starts a paragraph where one or more dates may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\date</span> commands will be joined into a single paragraph. Each date description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\date</span> command may mention several dates. The <span class="doxyComputerOutput">\\date</span> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
 
 <hr/>
 
@@ -2142,7 +2142,7 @@ Note that the &lt;format&gt; has to be between double quotes.
 In case the &lt;date\_time&gt; is specified it has to have the following representation:
 
 <ul class="doxyList ">
-<li>optional <code>date</code> where <code>date</code> is:
+<li>optional <span class="doxyComputerOutput">date</span> where <span class="doxyComputerOutput">date</span> is:
 
 <ul class="doxyList ">
 <li>4 digits for the year</li>
@@ -2151,7 +2151,7 @@ In case the &lt;date\_time&gt; is specified it has to have the following represe
 <li>a minus sign</li>
 <li>one or 2 digits for the day</li>
 </ul></li>
-<li>optional <code>time</code> where <code>time</code> is:
+<li>optional <span class="doxyComputerOutput">time</span> where <span class="doxyComputerOutput">time</span> is:
 
 <ul class="doxyList ">
 <li>whitespace</li>
@@ -2182,7 +2182,7 @@ Here is an example:
 </div>
 
 
-In case <code>OUTPUT\_LANGUAGE=english</code> this results in:
+In case <span class="doxyComputerOutput">OUTPUT\_LANGUAGE=english</span> this results in:
 
 <ul class="doxyList ">
 <li>Saturday 14-03-2015</li>
@@ -2192,7 +2192,7 @@ In case <code>OUTPUT\_LANGUAGE=english</code> this results in:
 <li>Saturday 14-03-15 03:04</li>
 </ul>
 
-In case <code>OUTPUT\_LANGUAGE=dutch</code> this results in:
+In case <span class="doxyComputerOutput">OUTPUT\_LANGUAGE=dutch</span> this results in:
 
 <ul class="doxyList ">
 <li>zaterdag 14-03-15</li>
@@ -2208,11 +2208,11 @@ In case <code>OUTPUT\_LANGUAGE=dutch</code> this results in:
 ## \\deprecated { description } {#cmddeprecated}
 
 
-Starts a paragraph indicating that this documentation block belongs to a deprecated entity. Can be used to describe alternatives, expected life span, etc. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\deprecated</code> commands will be joined into a single paragraph. Each deprecation description will start on a new line. The <code>\\deprecated</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph indicating that this documentation block belongs to a deprecated entity. Can be used to describe alternatives, expected life span, etc. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\deprecated</span> commands will be joined into a single paragraph. Each deprecation description will start on a new line. The <span class="doxyComputerOutput">\\deprecated</span> command ends when a blank line or some other sectioning command is encountered.
 
 The description will also add an item to a separate Deprecated list and the two instances of the description will be cross-referenced. Each item in the Deprecated list will be preceded by a header that indicates the origin of the item.
 
-The Deprecated list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_deprecatedlist">GENERATE\_DEPRECATEDLIST</a> to <code>NO</code>.
+The Deprecated list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_deprecatedlist">GENERATE\_DEPRECATEDLIST</a> to <span class="doxyComputerOutput">NO</span>.
 
 <hr/>
 
@@ -2220,7 +2220,7 @@ The Deprecated list and the corresponding entries can be disabled by setting the
 ## \\details { detailed description } {#cmddetails}
 
 
-Just like <a href="#cmdbrief">\\brief</a> starts a brief description, <code>\\details</code> starts the detailed description. You can also start a new paragraph (blank line) then the <code>\\details</code> command is not needed.
+Just like <a href="#cmdbrief">\\brief</a> starts a brief description, <span class="doxyComputerOutput">\\details</span> starts the detailed description. You can also start a new paragraph (blank line) then the <span class="doxyComputerOutput">\\details</span> command is not needed.
 
 <hr/>
 
@@ -2310,7 +2310,7 @@ Ends a conditional section that was started by <a href="#cmdcond">\\cond</a>.
 
 
 :::info
-Due to the moment of parsing the <code>\\endcond</code> and <a href="#cmdcond">\\cond</a> commands cannot be used in <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a>.
+Due to the moment of parsing the <span class="doxyComputerOutput">\\endcond</span> and <a href="#cmdcond">\\cond</a> commands cannot be used in <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a>.
 :::
 
 
@@ -2334,7 +2334,7 @@ Ends a conditional section that was started by <a href="#cmdif">\\if</a> or <a h
 ## \\exception &lt;exception-object&gt; { exception description } {#cmdexception}
 
 
-Starts an exception description for an exception object with name &lt;exception-object&gt;. Followed by a description of the exception. The existence of the exception object is not checked. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\exception</code> commands will be joined into a single paragraph. Each exception description will start on a new line. The <code>\\exception</code> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
+Starts an exception description for an exception object with name &lt;exception-object&gt;. Followed by a description of the exception. The existence of the exception object is not checked. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\exception</span> commands will be joined into a single paragraph. Each exception description will start on a new line. The <span class="doxyComputerOutput">\\exception</span> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
 
 <hr/>
 
@@ -2344,11 +2344,11 @@ Starts an exception description for an exception object with name &lt;exception-
 
 Starts a conditional documentation section. The section ends with a matching <a href="#cmdendif">\\endif</a> command. A conditional section is disabled by default. To enable it you must put the section-label after the <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> tag in the configuration file.
 
-The section label can be a logical expression build of section names, round brackets, &amp;&amp; (AND), || (OR) and ! (NOT). If you use an expression you need to wrap it in round brackets, i.e <code>\\if (!LABEL1 &amp;&amp; LABEL2)</code>.
+The section label can be a logical expression build of section names, round brackets, &amp;&amp; (AND), || (OR) and ! (NOT). If you use an expression you need to wrap it in round brackets, i.e <span class="doxyComputerOutput">\\if (!LABEL1 &amp;&amp; LABEL2)</span>.
 
 Conditional blocks can be nested. A nested section is only enabled if all enclosing sections are enabled as well.
 
-The <code>\\if</code> and corresponding <a href="#cmdendif">\\endif</a> have to be in the same comment block. When a conditional block needs to span more than one comment block one has to use <a href="#cmdcond">\\cond</a> ... <a href="#cmdendcond">\\endcond</a>.
+The <span class="doxyComputerOutput">\\if</span> and corresponding <a href="#cmdendif">\\endif</a> have to be in the same comment block. When a conditional block needs to span more than one comment block one has to use <a href="#cmdcond">\\cond</a> ... <a href="#cmdendcond">\\endcond</a>.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -2399,7 +2399,7 @@ Where the following aliases are defined in the configuration file:
 </code></pre>
 
 
-and <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> can be used to enable either <code>english</code> or <code>dutch</code>.
+and <a href="/web-doxygen/docs/pages/config/#cfg_enabled_sections">ENABLED\_SECTIONS</a> can be used to enable either <span class="doxyComputerOutput">english</span> or <span class="doxyComputerOutput">dutch</span>.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -2427,7 +2427,7 @@ Starts a conditional documentation section. The section ends with a matching <a 
 ## \\important { important text } {#cmdimportant}
 
 
-Starts a paragraph where a message that needs important may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\important</code> commands will be joined into a single paragraph. The <code>\\important</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where a message that needs important may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\important</span> commands will be joined into a single paragraph. The <span class="doxyComputerOutput">\\important</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2435,7 +2435,7 @@ Starts a paragraph where a message that needs important may be entered. The para
 ## \\invariant { description of invariant } {#cmdinvariant}
 
 
-Starts a paragraph where the invariant of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\invariant</code> commands will be joined into a single paragraph. Each invariant description will start on a new line. Alternatively, one <code>\\invariant</code> command may mention several invariants. The <code>\\invariant</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where the invariant of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\invariant</span> commands will be joined into a single paragraph. Each invariant description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\invariant</span> command may mention several invariants. The <span class="doxyComputerOutput">\\invariant</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2443,7 +2443,7 @@ Starts a paragraph where the invariant of an entity can be described. The paragr
 ## \\note { text } {#cmdnote}
 
 
-Starts a paragraph where a note can be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\note</code> commands will be joined into a single paragraph. Each note description will start on a new line. Alternatively, one <code>\\note</code> command may mention several notes. The <code>\\note</code> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdpar">\\par</a> for an example.
+Starts a paragraph where a note can be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\note</span> commands will be joined into a single paragraph. Each note description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\note</span> command may mention several notes. The <span class="doxyComputerOutput">\\note</span> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdpar">\\par</a> for an example.
 
 <hr/>
 
@@ -2455,7 +2455,7 @@ If a paragraph title is given this command starts a paragraph with a user define
 
 If no paragraph title is given this command will start a new paragraph. This will also work inside other paragraph commands (like <a href="#cmdparam">\\param</a> or <a href="#cmdwarning">\\warning</a>) without ending that command.
 
-The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. The <code>\\par</code> command ends when a blank line or some other sectioning command is encountered.
+The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. The <span class="doxyComputerOutput">\\par</span> command ends when a blank line or some other sectioning command is encountered.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -2499,7 +2499,7 @@ The text of the paragraph has no special internal structure. All visual enhancem
 
 Starts a parameter description for a function parameter with name &lt;parameter-name&gt;, followed by a description of the parameter. The existence of the parameter is checked and a warning is given if the documentation of this (or any other) parameter is missing or not present in the function declaration or definition.
 
-The <code>\\param</code> command has an optional attribute, &lt;dir&gt;, specifying the direction of the parameter. Possible values are "\[in\]", "\[out\]", and "\[in,out\]"; note the \[square\] brackets in this description. For the bidirecional values, directions "in" and "out" can be specified in any order, and they can either be written altogether, or separated with a comma (<code>,</code>) or a space. That means that for example values "\[outin\]" or "\[in out\]" are also valid. Note that it is also possible to put whitespace between the command and the &lt;dir&gt;. When a parameter is both input and output, \[in,out\] is used as attribute. Here is an example for the function <code>memcpy:</code>
+The <span class="doxyComputerOutput">\\param</span> command has an optional attribute, &lt;dir&gt;, specifying the direction of the parameter. Possible values are "\[in\]", "\[out\]", and "\[in,out\]"; note the \[square\] brackets in this description. For the bidirecional values, directions "in" and "out" can be specified in any order, and they can either be written altogether, or separated with a comma (<span class="doxyComputerOutput">,</span>) or a space. That means that for example values "\[outin\]" or "\[in out\]" are also valid. Note that it is also possible to put whitespace between the command and the &lt;dir&gt;. When a parameter is both input and output, \[in,out\] is used as attribute. Here is an example for the function <span class="doxyComputerOutput">memcpy:</span>
 
 <div class="doxyProgramListing">
 
@@ -2517,9 +2517,9 @@ The <code>\\param</code> command has an optional attribute, &lt;dir&gt;, specify
 
 The parameter description is a paragraph with no special internal structure. All visual enhancement commands may be used inside the paragraph.
 
-Multiple adjacent <code>\\param</code> commands will be joined into a single paragraph. Each parameter description will start on a new line. The <code>\\param</code> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
+Multiple adjacent <span class="doxyComputerOutput">\\param</span> commands will be joined into a single paragraph. Each parameter description will start on a new line. The <span class="doxyComputerOutput">\\param</span> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
 
-Note that you can also document multiple parameters with a single <code>\\param</code> command using a comma separated list. Here is an example:
+Note that you can also document multiple parameters with a single <span class="doxyComputerOutput">\\param</span> command using a comma separated list. Here is an example:
 
 <div class="doxyProgramListing">
 
@@ -2533,7 +2533,7 @@ Note that you can also document multiple parameters with a single <code>\\param<
 </div>
 
 
-Note that for PHP one can also specify the type (or types if you separate them with a pipe symbol) which are allowed for a parameter (as this is not part of the definition). The syntax is the same as for the <code>phpDocumentor</code>, i.e.
+Note that for PHP one can also specify the type (or types if you separate them with a pipe symbol) which are allowed for a parameter (as this is not part of the definition). The syntax is the same as for the <span class="doxyComputerOutput">phpDocumentor</span>, i.e.
 
 
 <pre><code>@param  datatype1|datatype2 $paramname description
@@ -2563,7 +2563,7 @@ Example:
 </code></pre>
 
 
-Note that the <code>\\parblock</code> command may also appear directly after <a href="#cmdparam">\\param</a>'s first argument.
+Note that the <span class="doxyComputerOutput">\\parblock</span> command may also appear directly after <a href="#cmdparam">\\param</a>'s first argument.
 
 <hr/>
 
@@ -2589,7 +2589,7 @@ Otherwise similar to <a href="#cmdparam">\\param</a>.
 ## \\post { description of the postcondition } {#cmdpost}
 
 
-Starts a paragraph where the postcondition of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\post</code> commands will be joined into a single paragraph. Each postcondition will start on a new line. Alternatively, one <code>\\post</code> command may mention several postconditions. The <code>\\post</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where the postcondition of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\post</span> commands will be joined into a single paragraph. Each postcondition will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\post</span> command may mention several postconditions. The <span class="doxyComputerOutput">\\post</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2597,7 +2597,7 @@ Starts a paragraph where the postcondition of an entity can be described. The pa
 ## \\pre { description of the precondition } {#cmdpre}
 
 
-Starts a paragraph where the precondition of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\pre</code> commands will be joined into a single paragraph. Each precondition will start on a new line. Alternatively, one <code>\\pre</code> command may mention several preconditions. The <code>\\pre</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where the precondition of an entity can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\pre</span> commands will be joined into a single paragraph. Each precondition will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\pre</span> command may mention several preconditions. The <span class="doxyComputerOutput">\\pre</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2605,7 +2605,7 @@ Starts a paragraph where the precondition of an entity can be described. The par
 ## \\remark { remark text } {#cmdremark}
 
 
-Starts a paragraph where one or more remarks may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\remark</code> commands will be joined into a single paragraph. Each remark will start on a new line. Alternatively, one <code>\\remark</code> command may mention several remarks. The <code>\\remark</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where one or more remarks may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\remark</span> commands will be joined into a single paragraph. Each remark will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\remark</span> command may mention several remarks. The <span class="doxyComputerOutput">\\remark</span> command ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2629,7 +2629,7 @@ Equivalent to <a href="#cmdreturn">\\return</a>.
 ## \\return { description of the return value } {#cmdreturn}
 
 
-Starts a return value description for a function. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\return</code> commands will be joined into a single paragraph. The <code>\\return</code> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
+Starts a return value description for a function. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\return</span> commands will be joined into a single paragraph. The <span class="doxyComputerOutput">\\return</span> description ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdfn">\\fn</a> for an example.
 
 <hr/>
 
@@ -2645,7 +2645,7 @@ Equivalent to <a href="#cmdreturn">\\return</a>.
 ## \\retval &lt;return value&gt; { description } {#cmdretval}
 
 
-Starts a description for a function's return value with name &lt;return value&gt;, followed by a description of the return value. The text of the paragraph that forms the description has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\retval</code> commands will be joined into a single paragraph. Each return value description will start on a new line. The <code>\\retval</code> description ends when a blank line or some other sectioning command is encountered.
+Starts a description for a function's return value with name &lt;return value&gt;, followed by a description of the return value. The text of the paragraph that forms the description has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\retval</span> commands will be joined into a single paragraph. Each return value description will start on a new line. The <span class="doxyComputerOutput">\\retval</span> description ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2653,7 +2653,7 @@ Starts a description for a function's return value with name &lt;return value&gt
 ## \\sa { references } {#cmdsa}
 
 
-Starts a paragraph where one or more cross-references to classes, functions, methods, variables, files or URL may be specified. Two names joined by either <code>::</code> or <code>#</code> are understood as referring to a class and one of its members. One of several overloaded methods or constructors may be selected by including a parenthesized list of argument types after the method name.
+Starts a paragraph where one or more cross-references to classes, functions, methods, variables, files or URL may be specified. Two names joined by either <span class="doxyComputerOutput">::</span> or <span class="doxyComputerOutput">#</span> are understood as referring to a class and one of its members. One of several overloaded methods or constructors may be selected by including a parenthesized list of argument types after the method name.
 
 Synonymous to <a href="#cmdsee">\\see</a>.
 
@@ -2685,7 +2685,7 @@ Equivalent to <a href="#cmdbrief">\\brief</a>.
 ## \\since { text } {#cmdsince}
 
 
-This command can be used to specify since when (version or time) an entity is available. The paragraph that follows <code>\\since</code> does not have any special internal structure. All visual enhancement commands may be used inside the paragraph. The <code>\\since</code> description ends when a blank line or some other sectioning command is encountered.
+This command can be used to specify since when (version or time) an entity is available. The paragraph that follows <span class="doxyComputerOutput">\\since</span> does not have any special internal structure. All visual enhancement commands may be used inside the paragraph. The <span class="doxyComputerOutput">\\since</span> description ends when a blank line or some other sectioning command is encountered.
 
 <hr/>
 
@@ -2693,11 +2693,11 @@ This command can be used to specify since when (version or time) an entity is av
 ## \\test { paragraph describing a test case } {#cmdtest}
 
 
-Starts a paragraph where one or more test cases can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\test</code> commands will be joined into a single paragraph. Each test case description will start on a new line. Alternatively, one <code>\\test</code> command may mention several test cases. The <code>\\test</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where one or more test cases can be described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\test</span> commands will be joined into a single paragraph. Each test case description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\test</span> command may mention several test cases. The <span class="doxyComputerOutput">\\test</span> command ends when a blank line or some other sectioning command is encountered.
 
 The description will also add an item to a separate Test list and the two instances of the description will be cross-referenced. Each item in the Test list will be preceded by a header that indicates the origin of the item.
 
-The Test list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_testlist">GENERATE\_TESTLIST</a> to <code>NO</code>.
+The Test list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_testlist">GENERATE\_TESTLIST</a> to <span class="doxyComputerOutput">NO</span>.
 
 <hr/>
 
@@ -2733,11 +2733,11 @@ Equivalent to <a href="#cmdthrow">\\throw</a>.
 ## \\todo { paragraph describing what is to be done } {#cmdtodo}
 
 
-Starts a paragraph where one or more todo items are described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\todo</code> commands will be joined into a single paragraph. Each todo description will start on a new line. Alternatively, one <code>\\todo</code> command may mention several todo descriptions. The <code>\\todo</code> command ends when a blank line or some other sectioning command is encountered.
+Starts a paragraph where one or more todo items are described. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\todo</span> commands will be joined into a single paragraph. Each todo description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\todo</span> command may mention several todo descriptions. The <span class="doxyComputerOutput">\\todo</span> command ends when a blank line or some other sectioning command is encountered.
 
 The description will also add an item to a separate Todo list and the two instances of the description will be cross-referenced. Each item in the Todo list will be preceded by a header that indicates the origin of the item.
 
-The Todo list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_todolist">GENERATE\_TODOLIST</a> to <code>NO</code>.
+The Todo list and the corresponding entries can be disabled by setting the <a href="/web-doxygen/docs/pages/config/#cfg_generate_todolist">GENERATE\_TODOLIST</a> to <span class="doxyComputerOutput">NO</span>.
 
 <hr/>
 
@@ -2745,7 +2745,7 @@ The Todo list and the corresponding entries can be disabled by setting the <a hr
 ## \\version { version number } {#cmdversion}
 
 
-Starts a paragraph where one or more version strings may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\version</code> commands will be joined into a single paragraph. Each version description will start on a new line. Alternatively, one <code>\\version</code> command may mention several version strings. The \\version command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
+Starts a paragraph where one or more version strings may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\version</span> commands will be joined into a single paragraph. Each version description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\version</span> command may mention several version strings. The \\version command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
 
 <hr/>
 
@@ -2753,7 +2753,7 @@ Starts a paragraph where one or more version strings may be entered. The paragra
 ## \\warning { warning message } {#cmdwarning}
 
 
-Starts a paragraph where one or more warning messages may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <code>\\warning</code> commands will be joined into a single paragraph. Each warning description will start on a new line. Alternatively, one <code>\\warning</code> command may mention several warnings. The <code>\\warning</code> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
+Starts a paragraph where one or more warning messages may be entered. The paragraph will be indented. The text of the paragraph has no special internal structure. All visual enhancement commands may be used inside the paragraph. Multiple adjacent <span class="doxyComputerOutput">\\warning</span> commands will be joined into a single paragraph. Each warning description will start on a new line. Alternatively, one <span class="doxyComputerOutput">\\warning</span> command may mention several warnings. The <span class="doxyComputerOutput">\\warning</span> command ends when a blank line or some other sectioning command is encountered. See section <a href="#cmdauthor">\\author</a> for an example.
 
 <hr/>
 
@@ -2763,23 +2763,23 @@ Starts a paragraph where one or more warning messages may be entered. The paragr
 
 This command is a generalization of commands such as <a href="#cmdtodo">\\todo</a> and <a href="#cmdbug">\\bug</a>. It can be used to create user-defined text sections which are automatically cross-referenced between the place of occurrence and a related page, which will be generated. On the related page all sections of the same type will be collected.
 
-The first argument &lt;key&gt; is an identifier uniquely representing the type of the section. The second argument is a quoted string representing the heading of the section under which text passed as the fourth argument is put. The third argument (list title) is used as the title for the related page containing all items with the same key. The second and third string argument cannot contain a newline. The keys <code>"todo"</code>, <code>"test"</code>, <code>"bug"</code> and <code>"deprecated"</code> are predefined.
+The first argument &lt;key&gt; is an identifier uniquely representing the type of the section. The second argument is a quoted string representing the heading of the section under which text passed as the fourth argument is put. The third argument (list title) is used as the title for the related page containing all items with the same key. The second and third string argument cannot contain a newline. The keys <span class="doxyComputerOutput">"todo"</span>, <span class="doxyComputerOutput">"test"</span>, <span class="doxyComputerOutput">"bug"</span> and <span class="doxyComputerOutput">"deprecated"</span> are predefined.
 
-To get an idea on how to use the <code>\\xrefitem</code> command and what its effect is, consider the todo list, which (for English output) can be seen an alias for the command
+To get an idea on how to use the <span class="doxyComputerOutput">\\xrefitem</span> command and what its effect is, consider the todo list, which (for English output) can be seen an alias for the command
 
 
 <pre><code>\xrefitem todo "Todo" "Todo List"
 </code></pre>
 
 
-Since it is very tedious and error-prone to repeat the first three parameters of the command for each section, the command is meant to be used in combination with the <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a> option in the configuration file. To define a new command <code>\\reminder</code>, for instance, one should add the following line to the configuration file:
+Since it is very tedious and error-prone to repeat the first three parameters of the command for each section, the command is meant to be used in combination with the <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a> option in the configuration file. To define a new command <span class="doxyComputerOutput">\\reminder</span>, for instance, one should add the following line to the configuration file:
 
 
 <pre><code>ALIASES += "reminder=\xrefitem reminders \"Reminder\" \"Reminders\""
 </code></pre>
 
 
-Note the use of escaped quotes for the second and third argument of the <code>\\xrefitem</code> command.
+Note the use of escaped quotes for the second and third argument of the <span class="doxyComputerOutput">\\xrefitem</span> command.
 
 In case parameter "(heading)" is the empty string no heading is generated. This can be useful when used in combination with the <a href="#cmdpage">\\page</a> command e.g.
 
@@ -2800,7 +2800,7 @@ In case parameter "(heading)" is the empty string no heading is generated. This 
 </code></pre>
 
 
-with <code>\\error</code> defined as
+with <span class="doxyComputerOutput">\\error</span> defined as
 
 
 <pre><code>ALIASES += "error=\xrefitem my_errors \"\" \"\""
@@ -2842,20 +2842,20 @@ This command places an invisible, named anchor into the documentation to which y
 ## \\cite\['{'\[option\]'}'\] &lt;label&gt; {#cmdcite}
 
 
-Adds a bibliographic reference in the text and in the list of bibliographic references. The &lt;label&gt; must be a valid BibTeX label that can be found in one of the .bib files listed in <a href="/web-doxygen/docs/pages/config/#cfg_cite_bib_files">CITE\_BIB\_FILES</a>. For the <code>{\LaTeX}</code> output the formatting of the reference in the text can be configured with <a href="/web-doxygen/docs/pages/config/#cfg_latex_bib_style">LATEX\_BIB\_STYLE</a>. For other output formats a fixed representation is used. Note that using this command requires the <code>bibtex</code> tool to be present in the search path.
+Adds a bibliographic reference in the text and in the list of bibliographic references. The &lt;label&gt; must be a valid BibTeX label that can be found in one of the .bib files listed in <a href="/web-doxygen/docs/pages/config/#cfg_cite_bib_files">CITE\_BIB\_FILES</a>. For the <code>{\LaTeX}</code> output the formatting of the reference in the text can be configured with <a href="/web-doxygen/docs/pages/config/#cfg_latex_bib_style">LATEX\_BIB\_STYLE</a>. For other output formats a fixed representation is used. Note that using this command requires the <span class="doxyComputerOutput">bibtex</span> tool to be present in the search path.
 
 There are a number of options possible:
 
 <ul class="doxyList ">
-<li><code>number</code>, <code>shortauthor</code>, <code>year</code>, these options are mutually exclusive, in case none of these is specified <code>number</code> is assumed.
+<li><span class="doxyComputerOutput">number</span>, <span class="doxyComputerOutput">shortauthor</span>, <span class="doxyComputerOutput">year</span>, these options are mutually exclusive, in case none of these is specified <span class="doxyComputerOutput">number</span> is assumed.
 
 <ul class="doxyList ">
-<li><code>number</code> create a numerical reference</li>
-<li><code>shortauthor</code> just the surname of the first author is given, and in case multiple authors are present the text "et al." is added</li>
-<li><code>year</code>, the year of publication is mentioned (when specified in the bibtex file.</li>
+<li><span class="doxyComputerOutput">number</span> create a numerical reference</li>
+<li><span class="doxyComputerOutput">shortauthor</span> just the surname of the first author is given, and in case multiple authors are present the text "et al." is added</li>
+<li><span class="doxyComputerOutput">year</span>, the year of publication is mentioned (when specified in the bibtex file.</li>
 </ul></li>
-<li><code>nopar</code>, no (square) brackets are added</li>
-<li><code>nocite</code>, no link to a citation in the bibliography is made (and the reference is not added to the bibliography based on this item)</li>
+<li><span class="doxyComputerOutput">nopar</span>, no (square) brackets are added</li>
+<li><span class="doxyComputerOutput">nocite</span>, no link to a citation in the bibliography is made (and the reference is not added to the bibliography based on this item)</li>
 </ul>
 
 <hr/>
@@ -2880,7 +2880,7 @@ This command ends a link that is started with the <a href="#cmdlink">\\link</a> 
 
 The links that are automatically generated by Doxygen always have the name of the object they point to as link-text.
 
-The <code>\\link</code> command can be used to create a link to an object (a file, class, or member) with a user specified link-text. The link command should end with an <a href="#cmdendlink">\\endlink</a> command. All text between the <code>\\link</code> and <a href="#cmdendlink">\\endlink</a> commands serves as text for a link to the &lt;link-object&gt; specified as the first argument of <code>\\link</code>.
+The <span class="doxyComputerOutput">\\link</span> command can be used to create a link to an object (a file, class, or member) with a user specified link-text. The link command should end with an <a href="#cmdendlink">\\endlink</a> command. All text between the <span class="doxyComputerOutput">\\link</span> and <a href="#cmdendlink">\\endlink</a> commands serves as text for a link to the &lt;link-object&gt; specified as the first argument of <span class="doxyComputerOutput">\\link</span>.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -2900,11 +2900,11 @@ For HTML documentation the reference command will generate a link to the section
 
 In case &lt;name&gt; has spaces (for instance if it refers a file name containing spaces) you need to add double quotes around the &lt;name&gt;, e.g. "my file.md".
 
-For <code>{\LaTeX}</code> documentation the reference command will be the same unless the <a href="/web-doxygen/docs/pages/config/#cfg_pdf_hyperlinks">PDF\_HYPERLINKS</a> option has been set to <code>NO</code>, in this case it generates the section title for sections or the text if &lt;name&gt; refers to an anchor followed by a page number.
+For <code>{\LaTeX}</code> documentation the reference command will be the same unless the <a href="/web-doxygen/docs/pages/config/#cfg_pdf_hyperlinks">PDF\_HYPERLINKS</a> option has been set to <span class="doxyComputerOutput">NO</span>, in this case it generates the section title for sections or the text if &lt;name&gt; refers to an anchor followed by a page number.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>Section <a href="#cmdpage">\page</a> for an example of the <code>\ref</code> command.</dd>
+<dd>Section <a href="#cmdpage">\page</a> for an example of the <span class="doxyComputerOutput">\ref</span> command.</dd>
 </dl>
 
 
@@ -2938,7 +2938,7 @@ End an index list started with <a href="#cmdsecreflist">\\secreflist</a>.
 ## \\subpage &lt;name&gt; \["(text)"\] {#cmdsubpage}
 
 
-This command can be used to create a hierarchy of pages. The same structure can be made using the <a href="#cmddefgroup">\\defgroup</a> and <a href="#cmdingroup">\\ingroup</a> commands, but for pages the <code>\\subpage</code> command is often more convenient. The main page (see <a href="#cmdmainpage">\\mainpage</a>) is typically the root of hierarchy.
+This command can be used to create a hierarchy of pages. The same structure can be made using the <a href="#cmddefgroup">\\defgroup</a> and <a href="#cmdingroup">\\ingroup</a> commands, but for pages the <span class="doxyComputerOutput">\\subpage</span> command is often more convenient. The main page (see <a href="#cmdmainpage">\\mainpage</a>) is typically the root of hierarchy.
 
 This command behaves similar as <a href="#cmdref">\\ref</a> in the sense that it creates a reference to a page labeled &lt;name&gt; with the optional link text as specified in the second argument.
 
@@ -2985,7 +2985,7 @@ Make sure you have first read \ref intro "the introduction".
 ## \\tableofcontents\['{'\[option\[:level\]\]\[,option\[:level\]\]\*'}'\] {#cmdtableofcontents}
 
 
-Creates a table of contents at the top of a page, listing all sections and subsections in the page. The <code>option</code> can be <code>HTML</code> or <code>LaTeX</code> or <code>XML</code> or <code>DocBook</code>. When a <code>level</code> is specified this means the maximum nesting level that is shown. The value of <code>level</code> should be in the range 1..6, values outside this range are considered to be 6. In case no <code>level</code> is specified <code>level</code> is set to 6 (show all) In case no <code>option</code>. is specified <code>\\tableofcontents</code> acts as if just the <code>option</code> <code>HTML</code> and <code>XML</code> was specified. In case of multiple <code>\\tableofcontents</code> commands in a page the <code>option</code>(s) will be used additional to the already specified <code>option</code>(s), but only the last <code>level</code> of an <code>option</code> is valid.
+Creates a table of contents at the top of a page, listing all sections and subsections in the page. The <span class="doxyComputerOutput">option</span> can be <span class="doxyComputerOutput">HTML</span> or <span class="doxyComputerOutput">LaTeX</span> or <span class="doxyComputerOutput">XML</span> or <span class="doxyComputerOutput">DocBook</span>. When a <span class="doxyComputerOutput">level</span> is specified this means the maximum nesting level that is shown. The value of <span class="doxyComputerOutput">level</span> should be in the range 1..6, values outside this range are considered to be 6. In case no <span class="doxyComputerOutput">level</span> is specified <span class="doxyComputerOutput">level</span> is set to 6 (show all) In case no <span class="doxyComputerOutput">option</span>. is specified <span class="doxyComputerOutput">\\tableofcontents</span> acts as if just the <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">HTML</span> and <span class="doxyComputerOutput">XML</span> was specified. In case of multiple <span class="doxyComputerOutput">\\tableofcontents</span> commands in a page the <span class="doxyComputerOutput">option</span>(s) will be used additional to the already specified <span class="doxyComputerOutput">option</span>(s), but only the last <span class="doxyComputerOutput">level</span> of an <span class="doxyComputerOutput">option</span> is valid.
 
 :::warning
 This command only works inside related page documentation and <em>not</em> in other documentation blocks and only has effect in the specified output!
@@ -2998,7 +2998,7 @@ This command only works inside related page documentation and <em>not</em> in ot
 ## \\section &lt;section-name&gt; (section title) {#cmdsection}
 
 
-Creates a section with name &lt;section-name&gt;. The title of the section should be specified as the second argument of the <code>\\section</code> command.
+Creates a section with name &lt;section-name&gt;. The title of the section should be specified as the second argument of the <span class="doxyComputerOutput">\\section</span> command.
 
 :::warning
 This command only works inside related page documentation and <em>not</em> in other documentation blocks!
@@ -3007,7 +3007,7 @@ This command only works inside related page documentation and <em>not</em> in ot
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>Section <a href="#cmdpage">\page</a> for an example of the <code>\section</code> command.</dd>
+<dd>Section <a href="#cmdpage">\page</a> for an example of the <span class="doxyComputerOutput">\section</span> command.</dd>
 </dl>
 
 
@@ -3017,7 +3017,7 @@ This command only works inside related page documentation and <em>not</em> in ot
 ## \\subsection &lt;subsection-name&gt; (subsection title) {#cmdsubsection}
 
 
-Creates a subsection with name &lt;subsection-name&gt;. The title of the subsection should be specified as the second argument of the <code>\\subsection</code> command.
+Creates a subsection with name &lt;subsection-name&gt;. The title of the subsection should be specified as the second argument of the <span class="doxyComputerOutput">\\subsection</span> command.
 
 :::warning
 This command only works inside a section of a related page documentation block and <em>not</em> in other documentation blocks!
@@ -3026,7 +3026,7 @@ This command only works inside a section of a related page documentation block a
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>Section <a href="#cmdpage">\page</a> for an example of the <code>\subsection</code> command.</dd>
+<dd>Section <a href="#cmdpage">\page</a> for an example of the <span class="doxyComputerOutput">\subsection</span> command.</dd>
 </dl>
 
 
@@ -3036,7 +3036,7 @@ This command only works inside a section of a related page documentation block a
 ## \\subsubsection &lt;subsubsection-name&gt; (subsubsection title) {#cmdsubsubsection}
 
 
-Creates a subsubsection with name &lt;subsubsection-name&gt;. The title of the subsubsection should be specified as the second argument of the <code>\\subsubsection</code> command.
+Creates a subsubsection with name &lt;subsubsection-name&gt;. The title of the subsubsection should be specified as the second argument of the <span class="doxyComputerOutput">\\subsubsection</span> command.
 
 :::warning
 This command only works inside a subsection of a related page documentation block and <em>not</em> in other documentation blocks!
@@ -3055,7 +3055,7 @@ This command only works inside a subsection of a related page documentation bloc
 ## \\paragraph &lt;paragraph-name&gt; (paragraph title) {#cmdparagraph}
 
 
-Creates a named paragraph with name &lt;paragraph-name&gt;. The title of the paragraph should be specified as the second argument of the <code>\\paragraph</code> command.
+Creates a named paragraph with name &lt;paragraph-name&gt;. The title of the paragraph should be specified as the second argument of the <span class="doxyComputerOutput">\\paragraph</span> command.
 
 :::warning
 This command only works inside a subsubsection of a related page documentation block and <em>not</em> in other documentation blocks!
@@ -3068,7 +3068,7 @@ This command only works inside a subsubsection of a related page documentation b
 ## \\subparagraph &lt;subparagraph-name&gt; (subparagraph title) {#cmdsubparagraph}
 
 
-Creates a named subparagraph with name &lt;subparagraph-name&gt;. The title of the subparagraph should be specified as the second argument of the <code>\\subparagraph</code> command.
+Creates a named subparagraph with name &lt;subparagraph-name&gt;. The title of the subparagraph should be specified as the second argument of the <span class="doxyComputerOutput">\\subparagraph</span> command.
 
 :::warning
 This command only works inside a paragraph of a related page documentation block and <em>not</em> in other documentation blocks!
@@ -3081,7 +3081,7 @@ This command only works inside a paragraph of a related page documentation block
 ## \\subsubparagraph &lt;subsubparagraph-name&gt; (subsubparagraph title) {#cmdsubsubparagraph}
 
 
-Creates a named subsubparagraph with name &lt;subsubparagraph-name&gt;. The title of the subsubparagraph should be specified as the second argument of the <code>\\subsubparagraph</code> command.
+Creates a named subsubparagraph with name &lt;subsubparagraph-name&gt;. The title of the subsubparagraph should be specified as the second argument of the <span class="doxyComputerOutput">\\subsubparagraph</span> command.
 
 :::warning
 This command only works inside a subparagraph of a related page documentation block and <em>not</em> in other documentation blocks!
@@ -3103,13 +3103,13 @@ This command only works inside a subparagraph of a related page documentation bl
 
 This command can be used to parse a source file without actually verbatim including it in the documentation (as the <a href="#cmdinclude">\\include</a> command does). This is useful if you want to divide the source file into smaller pieces and add documentation between the pieces. Source files or directories can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
-You can add the option <code>lineno</code> to enable line numbers for the included code if desired.
+You can add the option <span class="doxyComputerOutput">lineno</span> to enable line numbers for the included code if desired.
 
-You can add the option <code>strip</code> that will always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP\_CODE\_COMMENTS</a> setting, or add the option <code>nostrip</code> to always show the special comments.
+You can add the option <span class="doxyComputerOutput">strip</span> that will always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP\_CODE\_COMMENTS</a> setting, or add the option <span class="doxyComputerOutput">nostrip</span> to always show the special comments.
 
-The class and member declarations and definitions inside the code fragment are 'remembered' during the parsing of the comment block that contained the <code>\\dontinclude</code> command.
+The class and member declarations and definitions inside the code fragment are 'remembered' during the parsing of the comment block that contained the <span class="doxyComputerOutput">\\dontinclude</span> command.
 
-For line by line descriptions of source files, one or more lines of the example can be displayed using the <a href="#cmdline">\\line</a>, <a href="#cmdskip">\\skip</a>, <a href="#cmdskipline">\\skipline</a>, and <a href="#cmduntil">\\until</a> commands. An internal pointer is used for these commands. The <code>\\dontinclude</code> command sets the pointer to the first line of the example.
+For line by line descriptions of source files, one or more lines of the example can be displayed using the <a href="#cmdline">\\line</a>, <a href="#cmdskip">\\skip</a>, <a href="#cmdskipline">\\skipline</a>, and <a href="#cmduntil">\\until</a> commands. An internal pointer is used for these commands. The <span class="doxyComputerOutput">\\dontinclude</span> command sets the pointer to the first line of the example.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -3141,7 +3141,7 @@ For line by line descriptions of source files, one or more lines of the example 
 </div>
 &nbsp;
 &nbsp;
-Where the example file <code>include_test.cpp</code> looks as follows:
+Where the example file <span class="doxyComputerOutput">include_test.cpp</span> looks as follows:
 &nbsp;
 <div class="doxyProgramListing">
 &nbsp;
@@ -3176,9 +3176,9 @@ This command can be used to include a source file as a block of code. The comman
 
 If &lt;file-name&gt; itself is not unique for the set of example files specified by the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag, you can include part of the absolute path to disambiguate it.
 
-Using the <code>\\include</code> command is equivalent to inserting the file into the documentation block and surrounding it with <a href="#cmdcode">\\code</a> and <a href="#cmdendcode">\\endcode</a> commands.
+Using the <span class="doxyComputerOutput">\\include</span> command is equivalent to inserting the file into the documentation block and surrounding it with <a href="#cmdcode">\\code</a> and <a href="#cmdendcode">\\endcode</a> commands.
 
-The main purpose of the <code>\\include</code> command is to avoid code duplication in case of example blocks that consist of multiple source and header files.
+The main purpose of the <span class="doxyComputerOutput">\\include</span> command is to avoid code duplication in case of example blocks that consist of multiple source and header files.
 
 For a line by line description of a source files use the <a href="#cmddontinclude">\\dontinclude</a> command in combination with the <a href="#cmdline">\\line</a>, <a href="#cmdskip">\\skip</a>, <a href="#cmdskipline">\\skipline</a>, and <a href="#cmduntil">\\until</a> commands.
 
@@ -3189,32 +3189,32 @@ Doxygen's special commands do not work inside blocks of code. It is allowed to n
 :::
 
 
-The <code>option</code> can either be <code>lineno</code>, or <code>doc</code>, and additionally <code>local</code> can be specified.
+The <span class="doxyComputerOutput">option</span> can either be <span class="doxyComputerOutput">lineno</span>, or <span class="doxyComputerOutput">doc</span>, and additionally <span class="doxyComputerOutput">local</span> can be specified.
 
 <ul class="doxyList ">
-<li>The <code>option</code> <code>lineno</code> can be used to enable line numbers for the included code if desired.</li>
-<li>The <code>option</code> <code>doc</code> can be used to treat the file as documentation rather than code.</li>
-<li>The <code>option</code> <code>local</code> can be used make Doxygen interpret the code as if it was in the class or namespace in which the include command appears, rather than the global namespace.</li>
-<li>The <code>option</code> <code>strip</code> can be used to always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP_CODE_COMMENTS</a> setting, and option <code>nostrip</code> can be used to always show the special comments. These options have no effect in combination with the <code>option</code> <code>doc</code>.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">lineno</span> can be used to enable line numbers for the included code if desired.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">doc</span> can be used to treat the file as documentation rather than code.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">local</span> can be used make Doxygen interpret the code as if it was in the class or namespace in which the include command appears, rather than the global namespace.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">strip</span> can be used to always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP_CODE_COMMENTS</a> setting, and option <span class="doxyComputerOutput">nostrip</span> can be used to always show the special comments. These options have no effect in combination with the <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">doc</span>.</li>
 </ul>
 
-When using option <code>doc</code>, there is also the option <code>raise</code> that can be specified to raise all sections found in the referenced file by a certain amount. For example
+When using option <span class="doxyComputerOutput">doc</span>, there is also the option <span class="doxyComputerOutput">raise</span> that can be specified to raise all sections found in the referenced file by a certain amount. For example
 
 
 <pre><code>  \include{doc,raise=1} file.dox
 </code></pre>
 
 
-will treat any level 1 <code>\\section</code> found in <code>file.dox</code> as a level 2 <code>\\subsection</code>, and any level 2 <code>\\subsection</code> into a level 3 <code>\\subsubsection</code>, etc. Similarly, for Markdown a <code>#</code> section will be treated as a <code>##</code> section.
+will treat any level 1 <span class="doxyComputerOutput">\\section</span> found in <span class="doxyComputerOutput">file.dox</span> as a level 2 <span class="doxyComputerOutput">\\subsection</span>, and any level 2 <span class="doxyComputerOutput">\\subsection</span> into a level 3 <span class="doxyComputerOutput">\\subsubsection</span>, etc. Similarly, for Markdown a <span class="doxyComputerOutput">#</span> section will be treated as a <span class="doxyComputerOutput">##</span> section.
 
-Furthermore, there is the option <code>prefix</code> that can be used to add a prefix to each label of the included sections, so that they remain unique. For example:
+Furthermore, there is the option <span class="doxyComputerOutput">prefix</span> that can be used to add a prefix to each label of the included sections, so that they remain unique. For example:
 
 
 <pre><code>  \include{doc,prefix=fn_} file.dox
 </code></pre>
 
 
-will treat e.g. <code>\\section s1</code> found in <code>file.dox</code> as if it was specified as <code>\\section fn\_s1</code>.
+will treat e.g. <span class="doxyComputerOutput">\\section s1</span> found in <span class="doxyComputerOutput">file.dox</span> as if it was specified as <span class="doxyComputerOutput">\\section fn\_s1</span>.
 
 :::info
 The included documentation should not have comment signs in it as they will appear in the documentation as well.
@@ -3249,7 +3249,7 @@ This command is obsolete and is still supported for backward compatibility reaso
 
 This command is obsolete and is still supported for backward compatibility reasons, it works the same way as <a href="#cmdinclude">\\include{doc}</a>
 
-The <code>option</code>s are the same <code>option</code>s that can be used with the <code>\\include</code> when using there the option <code>doc</code>.
+The <span class="doxyComputerOutput">option</span>s are the same <span class="doxyComputerOutput">option</span>s that can be used with the <span class="doxyComputerOutput">\\include</span> when using there the option <span class="doxyComputerOutput">doc</span>.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -3318,16 +3318,16 @@ See section <a href="#cmddontinclude">\\dontinclude</a> for an example.
 ## \\snippet\['{'option'}'\] &lt;file-name&gt; ( block\_id ) {#cmdsnippet}
 
 
-Where the <a href="#cmdinclude">\\include</a> command can be used to include a complete file as source code, this command can be used to quote only a fragment of a source file. In case <code>this</code> is used as &lt;file-name&gt; the current file is taken as file to take the snippet from.
+Where the <a href="#cmdinclude">\\include</a> command can be used to include a complete file as source code, this command can be used to quote only a fragment of a source file. In case <span class="doxyComputerOutput">this</span> is used as &lt;file-name&gt; the current file is taken as file to take the snippet from.
 
-For example, the putting the following command in the documentation, references a snippet in file <code>example.cpp</code> residing in a subdirectory which should be pointed to by <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a>.
+For example, the putting the following command in the documentation, references a snippet in file <span class="doxyComputerOutput">example.cpp</span> residing in a subdirectory which should be pointed to by <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a>.
 
 
 <pre><code>  \snippet snippets/example.cpp Adding a resource
 </code></pre>
 
 
-The text following the file name is the unique identifier for the snippet. This is used to delimit the quoted code in the relevant snippet file as shown in the following example that corresponds to the above <code>\\snippet</code> command:
+The text following the file name is the unique identifier for the snippet. This is used to delimit the quoted code in the relevant snippet file as shown in the following example that corresponds to the above <span class="doxyComputerOutput">\\snippet</span> command:
 
 <div class="doxyProgramListing">
 
@@ -3355,33 +3355,33 @@ Note that the lines containing the block markers will not be included, so the ou
 
 Note also that the \[block\_id\] markers should appear exactly twice in the source file.
 
-The <code>option</code> can either be <code>lineno</code>, <code>trimleft</code> or <code>doc</code>, and additionally <code>local</code> can be specified.
+The <span class="doxyComputerOutput">option</span> can either be <span class="doxyComputerOutput">lineno</span>, <span class="doxyComputerOutput">trimleft</span> or <span class="doxyComputerOutput">doc</span>, and additionally <span class="doxyComputerOutput">local</span> can be specified.
 
 <ul class="doxyList ">
-<li>The <code>option</code> <code>lineno</code> can be used to enable line numbers for the included code if desired.</li>
-<li>The <code>option</code> <code>trimleft</code> can be used to remove the common spacing in front of all lines (also taking in account the setting of the <a href="/web-doxygen/docs/pages/config/#cfg_tab_size">TAB_SIZE</a> tag).</li>
-<li>The <code>option</code> <code>doc</code> can be used to treat the file as documentation rather than code.</li>
-<li>The <code>option</code> <code>local</code> can be used make Doxygen interpret the code as if it was in the class or namespace in which the include command appears, rather than the global namespace.</li>
-<li>The <code>option</code> <code>strip</code> can be used to always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP_CODE_COMMENTS</a> setting, and option <code>nostrip</code> can be used to always show the special comments. These options have no effect in combination with the <code>option</code> <code>doc</code>.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">lineno</span> can be used to enable line numbers for the included code if desired.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">trimleft</span> can be used to remove the common spacing in front of all lines (also taking in account the setting of the <a href="/web-doxygen/docs/pages/config/#cfg_tab_size">TAB_SIZE</a> tag).</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">doc</span> can be used to treat the file as documentation rather than code.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">local</span> can be used make Doxygen interpret the code as if it was in the class or namespace in which the include command appears, rather than the global namespace.</li>
+<li>The <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">strip</span> can be used to always hide any special comments from the included code, overruling the <a href="/web-doxygen/docs/pages/config/#cfg_strip_code_comments">STRIP_CODE_COMMENTS</a> setting, and option <span class="doxyComputerOutput">nostrip</span> can be used to always show the special comments. These options have no effect in combination with the <span class="doxyComputerOutput">option</span> <span class="doxyComputerOutput">doc</span>.</li>
 </ul>
 
-When using option <code>doc</code>, there is also the option <code>raise</code> that can be specified to raise all sections found in the referenced file by a certain amount. For example
+When using option <span class="doxyComputerOutput">doc</span>, there is also the option <span class="doxyComputerOutput">raise</span> that can be specified to raise all sections found in the referenced file by a certain amount. For example
 
 
 <pre><code> \snippet{doc,raise=1} file.dox XXX
 </code></pre>
 
 
-will treat any level 1 <code>\\section</code> found the snippet as a level 2 <code>\\subsection</code>, and any level 2 <code>\\subsection</code> into a level 3 <code>\\subsubsection</code>, etc. Similarly, for Markdown a <code>#</code> section will be treated as a <code>##</code> section.
+will treat any level 1 <span class="doxyComputerOutput">\\section</span> found the snippet as a level 2 <span class="doxyComputerOutput">\\subsection</span>, and any level 2 <span class="doxyComputerOutput">\\subsection</span> into a level 3 <span class="doxyComputerOutput">\\subsubsection</span>, etc. Similarly, for Markdown a <span class="doxyComputerOutput">#</span> section will be treated as a <span class="doxyComputerOutput">##</span> section.
 
-Furthermore, there is the option <code>prefix</code> that can be used to add a prefix to each label of the included sections, so that they remain unique. For example:
+Furthermore, there is the option <span class="doxyComputerOutput">prefix</span> that can be used to add a prefix to each label of the included sections, so that they remain unique. For example:
 
 
 <pre><code> \include{doc,prefix=fn_} file.dox
 </code></pre>
 
 
-will treat e.g. <code>\\section s1</code> found in <code>file.dox</code> as if it was specified as <code>\\section fn\_s1</code>.
+will treat e.g. <span class="doxyComputerOutput">\\section s1</span> found in <span class="doxyComputerOutput">file.dox</span> as if it was specified as <span class="doxyComputerOutput">\\section fn\_s1</span>.
 
 :::info
 The included documentation should not have comment signs in it as they will appear in the documentation as well.
@@ -3412,7 +3412,7 @@ This command is obsolete and is still supported for backward compatibility reaso
 
 This command is obsolete and is still supported for backward compatibility reasons, it works the same way as <a href="#cmdsnippet">\\snippet{doc}</a>
 
-The <code>option</code>s are the same <code>option</code>s that can be used with the <code>\\snippet</code> when using there the option <code>doc</code>.
+The <span class="doxyComputerOutput">option</span>s are the same <span class="doxyComputerOutput">option</span>s that can be used with the <span class="doxyComputerOutput">\\snippet</span> when using there the option <span class="doxyComputerOutput">doc</span>.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -3448,9 +3448,9 @@ Files or directories that Doxygen should look for can be specified using the <a 
 ## \\htmlinclude\['\[block\]'\] &lt;file-name&gt; {#cmdhtmlinclude}
 
 
-This command includes the contents of the file &lt;file-name&gt; as is in the HTML documentation and tagged with <code>&lt;htmlonly&gt;</code> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> commands around it.
+This command includes the contents of the file &lt;file-name&gt; as is in the HTML documentation and tagged with <span class="doxyComputerOutput">&lt;htmlonly&gt;</span> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> commands around it.
 
-Normally the contents of the file indicated by <a href="#cmdhtmlinclude">\\htmlinclude</a> is inserted as-is. When you want to insert a HTML fragment that has block scope like a table or list which should appear outside &lt;p&gt;..&lt;/p&gt;, this can lead to invalid HTML. You can use <code>\\htmlinclude\[block\]</code> to make Doxygen end the current paragraph and restart after the file is included.
+Normally the contents of the file indicated by <a href="#cmdhtmlinclude">\\htmlinclude</a> is inserted as-is. When you want to insert a HTML fragment that has block scope like a table or list which should appear outside &lt;p&gt;..&lt;/p&gt;, this can lead to invalid HTML. You can use <span class="doxyComputerOutput">\\htmlinclude\[block\]</span> to make Doxygen end the current paragraph and restart after the file is included.
 
 Files or directories that Doxygen should look for can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
@@ -3466,7 +3466,7 @@ Files or directories that Doxygen should look for can be specified using the <a 
 ## \\latexinclude &lt;file-name&gt; {#cmdlatexinclude}
 
 
-This command includes the contents of the file &lt;file-name&gt; as is in the <code>{\LaTeX}</code> documentation and tagged with <code>&lt;latexonly&gt;</code> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdlatexonly">\\latexonly</a> and <a href="#cmdendlatexonly">\\endlatexonly</a> commands around it.
+This command includes the contents of the file &lt;file-name&gt; as is in the <code>{\LaTeX}</code> documentation and tagged with <span class="doxyComputerOutput">&lt;latexonly&gt;</span> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdlatexonly">\\latexonly</a> and <a href="#cmdendlatexonly">\\endlatexonly</a> commands around it.
 
 Files or directories that Doxygen should look for can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
@@ -3482,7 +3482,7 @@ Files or directories that Doxygen should look for can be specified using the <a 
 ## \\rtfinclude &lt;file-name&gt; {#cmdrtfinclude}
 
 
-This command includes the contents of the file &lt;file-name&gt; as is in the RTF documentation and tagged with <code>&lt;rtfonly&gt;</code> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdrtfonly">\\rtfonly</a> and <a href="#cmdendrtfonly">\\endrtfonly</a> commands around it.
+This command includes the contents of the file &lt;file-name&gt; as is in the RTF documentation and tagged with <span class="doxyComputerOutput">&lt;rtfonly&gt;</span> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdrtfonly">\\rtfonly</a> and <a href="#cmdendrtfonly">\\endrtfonly</a> commands around it.
 
 Files or directories that Doxygen should look for can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
@@ -3498,7 +3498,7 @@ Files or directories that Doxygen should look for can be specified using the <a 
 ## \\maninclude &lt;file-name&gt; {#cmdmaninclude}
 
 
-This command includes the contents of the file &lt;file-name&gt; as is in the MAN documentation and tagged with <code>&lt;manonly&gt;</code> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdmanonly">\\manonly</a> and <a href="#cmdendmanonly">\\endmanonly</a> commands around it.
+This command includes the contents of the file &lt;file-name&gt; as is in the MAN documentation and tagged with <span class="doxyComputerOutput">&lt;manonly&gt;</span> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmdmanonly">\\manonly</a> and <a href="#cmdendmanonly">\\endmanonly</a> commands around it.
 
 Files or directories that Doxygen should look for can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
@@ -3514,7 +3514,7 @@ Files or directories that Doxygen should look for can be specified using the <a 
 ## \\docbookinclude &lt;file-name&gt; {#cmddocbookinclude}
 
 
-This command includes the contents of the file &lt;file-name&gt; as is in the DocBook documentation and tagged with <code>&lt;docbookonly&gt;</code> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmddocbookonly">\\docbookonly</a> and <a href="#cmdenddocbookonly">\\enddocbookonly</a> commands around it.
+This command includes the contents of the file &lt;file-name&gt; as is in the DocBook documentation and tagged with <span class="doxyComputerOutput">&lt;docbookonly&gt;</span> in the generated XML output. The command is equivalent to pasting the contents of the file in the documentation and placing <a href="#cmddocbookonly">\\docbookonly</a> and <a href="#cmdenddocbookonly">\\enddocbookonly</a> commands around it.
 
 Files or directories that Doxygen should look for can be specified using the <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a> tag of Doxygen's configuration file.
 
@@ -3575,7 +3575,7 @@ Equivalent to <a href="#cmde">\\e</a> and <a href="#cmdem">\\em</a>. To emphasiz
 ## \\arg { item-description } {#cmdarg}
 
 
-This command has one argument that continues until the first blank line or until another <code>\\arg</code> is encountered. The command can be used to generate a simple, not nested list of arguments. Each argument should start with a <code>\\arg</code> command.
+This command has one argument that continues until the first blank line or until another <span class="doxyComputerOutput">\\arg</span> is encountered. The command can be used to generate a simple, not nested list of arguments. Each argument should start with a <span class="doxyComputerOutput">\\arg</span> command.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -3596,9 +3596,9 @@ will result in the following text:
 <br/>
 &nbsp;
 <ul class="doxyList ">
-<li><code>AlignLeft</code> left alignment.</li>
-<li><code>AlignCenter</code> center alignment.</li>
-<li><code>AlignRight</code> right alignment</li>
+<li><span class="doxyComputerOutput">AlignLeft</span> left alignment.</li>
+<li><span class="doxyComputerOutput">AlignCenter</span> center alignment.</li>
+<li><span class="doxyComputerOutput">AlignRight</span> right alignment</li>
 </ul>
 &nbsp;
 <br/>
@@ -3644,7 +3644,7 @@ will result in the following text:
 <br/>
 &nbsp;
 <br/>
- ... This function returns <code>void</code> and not <code>int</code> ...
+ ... This function returns <span class="doxyComputerOutput">void</span> and not <span class="doxyComputerOutput">int</span> ...
 </dd>
 </dl>
 
@@ -3659,9 +3659,9 @@ Equivalent to <a href="#cmdp">\\p</a>. To have multiple words in typewriter font
 
 Starts a block of code. A code block is treated differently from ordinary text. It is interpreted as source code. The names of classes and members and other documented entities are automatically replaced by links to the documentation.
 
-By default the language that is assumed for syntax highlighting is based on the location where the <code>\\code</code> block was found. If this part of a Python file for instance, the syntax highlight will be done according to the Python syntax.
+By default the language that is assumed for syntax highlighting is based on the location where the <span class="doxyComputerOutput">\\code</span> block was found. If this part of a Python file for instance, the syntax highlight will be done according to the Python syntax.
 
-If it is unclear from the context which language is meant (for instance the comment is in a <code>.txt</code> or <code>.markdown</code> file) then you can also explicitly indicate the language, by putting the file extension typically that Doxygen associated with the language in curly brackets after the code block. Here is an example:
+If it is unclear from the context which language is meant (for instance the comment is in a <span class="doxyComputerOutput">.txt</span> or <span class="doxyComputerOutput">.markdown</span> file) then you can also explicitly indicate the language, by putting the file extension typically that Doxygen associated with the language in curly brackets after the code block. Here is an example:
 
 
 <pre><code>  \code{.py}
@@ -3722,9 +3722,9 @@ if the member is overloaded, you should specify the argument types explicitly (w
 
 Qualified names are only needed if the context in which the documentation block is found requires them.
 
-The <code>\\copydoc</code> command can be used recursively, but cycles in the <code>\\copydoc</code> relation will be broken and flagged as an error.
+The <span class="doxyComputerOutput">\\copydoc</span> command can be used recursively, but cycles in the <span class="doxyComputerOutput">\\copydoc</span> relation will be broken and flagged as an error.
 
-Note that <code>\\copydoc foo()</code> is roughly equivalent to doing:
+Note that <span class="doxyComputerOutput">\\copydoc foo()</span> is roughly equivalent to doing:
 
 
 <pre><code>  \brief \copybrief foo()
@@ -3756,7 +3756,7 @@ Works in a similar way as <a href="#cmdcopydoc">\\copydoc</a> but will only copy
 ## \\docbookonly {#cmddocbookonly}
 
 
-Starts a block of text that only will be verbatim included in the generated DocBook documentation and tagged with <code>&lt;docbookonly&gt;</code> in the generated XML output. The block ends with a <a href="#cmdenddocbookonly">\\enddocbookonly</a> command.
+Starts a block of text that only will be verbatim included in the generated DocBook documentation and tagged with <span class="doxyComputerOutput">&lt;docbookonly&gt;</span> in the generated XML output. The block ends with a <a href="#cmdenddocbookonly">\\enddocbookonly</a> command.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
@@ -3779,12 +3779,12 @@ The second argument is also optional and can be used to specify the width or hei
 The nodes of a graph can be made clickable by using the URL attribute. By using the command <a href="#cmdref">\\ref</a> inside the URL value you can conveniently link to an item inside Doxygen. Here is an example:
 
 :::info
-usage of this command requires that <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <code>YES</code>
+usage of this command requires that <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <span class="doxyComputerOutput">YES</span>
 :::
 
 
 :::info
-Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <code>NO</code>.
+Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <span class="doxyComputerOutput">NO</span>.
 :::
 
 
@@ -3824,7 +3824,7 @@ This command will produce an emoji character given its name.
 
 The supported names are the ones also supported by GitHub and listed here <a href="https://gist.github.com/rxaviers/7360908">https://gist.github.com/rxaviers/7360908</a>
 
-You can use the name with or without colons, i.e. <code>\\emoji smile</code> is the same as writing <code>\\emoji :smile:</code>. When an emoji is not supported the name with by places in the text with in between colons, i.e. <code>\\emoji unsupported</code> will produce <code>:unsupported:</code> in the output. Doxygen will also give a warning message.
+You can use the name with or without colons, i.e. <span class="doxyComputerOutput">\\emoji smile</span> is the same as writing <span class="doxyComputerOutput">\\emoji :smile:</span>. When an emoji is not supported the name with by places in the text with in between colons, i.e. <span class="doxyComputerOutput">\\emoji unsupported</span> will produce <span class="doxyComputerOutput">:unsupported:</span> in the output. Doxygen will also give a warning message.
 
 See also the <a href="/web-doxygen/docs/pages/emojisup">emoji support page</a> for details.
 
@@ -3841,7 +3841,7 @@ The first argument is optional and can be used to specify the caption that is di
 The second argument is also optional and can be used to specify the width or height of the image. For a description of the possibilities see the paragraph <a href="#image_sizeindicator">Size indication</a> with the <a href="#cmdimage">\\image</a> command.
 
 :::info
-The text fragment should only include the part of the message sequence chart that is within the <code>msc {...}</code> block (this is different from <a href="#cmdmscfile">\\mscfile</a>).
+The text fragment should only include the part of the message sequence chart that is within the <span class="doxyComputerOutput">msc {...}</span> block (this is different from <a href="#cmdmscfile">\\mscfile</a>).
 :::
 
 
@@ -3851,11 +3851,11 @@ mscgen is now built in into Doxygen
 
 
 :::info
-Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <code>NO</code>.
+Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <span class="doxyComputerOutput">NO</span>.
 :::
 
 
-Here is an example of the use of the <code>\\msc</code> command.
+Here is an example of the use of the <span class="doxyComputerOutput">\\msc</span> command.
 
 <div class="doxyProgramListing">
 
@@ -3907,18 +3907,18 @@ Here is an example of the use of the <code>\\msc</code> command.
 Starts a text fragment which should contain a valid description of a PlantUML diagram. See <a href="https://plantuml.com/">https://plantuml.com/</a> for examples. The text fragment ends with <a href="#cmdenduml">\\enduml</a>.
 
 :::info
-You need to install Java and the PlantUML's jar file, if you want to use this command. When using PlantUML in <code>{\LaTeX}</code> you have to download some more <code>jar</code> files, for details see the PlantUML documentation. This also is valid for the <code>&lt;engine&gt;</code>s <code>latex</code> and <code>math</code>. The location of the PlantUML file should be specified using <a href="/web-doxygen/docs/pages/config/#cfg_plantuml_jar_path">PLANTUML\_JAR\_PATH</a>. The other jar files should also reside in this directory.
+You need to install Java and the PlantUML's jar file, if you want to use this command. When using PlantUML in <code>{\LaTeX}</code> you have to download some more <span class="doxyComputerOutput">jar</span> files, for details see the PlantUML documentation. This also is valid for the <span class="doxyComputerOutput">&lt;engine&gt;</span>s <span class="doxyComputerOutput">latex</span> and <span class="doxyComputerOutput">math</span>. The location of the PlantUML file should be specified using <a href="/web-doxygen/docs/pages/config/#cfg_plantuml_jar_path">PLANTUML\_JAR\_PATH</a>. The other jar files should also reside in this directory.
 :::
 
 
 :::info
-The use of the <code>&lt;engine&gt;</code> <code>ditaa</code> is not possible in <code>{\LaTeX}</code> as PlantUML only supports the <code>png</code> format and Doxygen requires, temporary, <code>eps</code> output.
+The use of the <span class="doxyComputerOutput">&lt;engine&gt;</span> <span class="doxyComputerOutput">ditaa</span> is not possible in <code>{\LaTeX}</code> as PlantUML only supports the <span class="doxyComputerOutput">png</span> format and Doxygen requires, temporary, <span class="doxyComputerOutput">eps</span> output.
 :::
 
 
-Not all diagrams can be created with the PlantUML <code>@startuml</code> command but need another PlantUML <code>@start...</code> command. This will look like <code>@start&lt;engine&gt;</code> where currently supported are the following <code>&lt;engine&gt;</code>s: <code>uml</code>, <code>bpm</code>, <code>wire</code>, <code>dot</code>, <code>ditaa</code>, <code>salt</code>, <code>math</code>, <code>latex</code>, <code>gantt</code>, <code>mindmap</code>, <code>wbs</code>, <code>yaml</code>, <code>creole</code>, <code>json</code>, <code>flow</code>, <code>board</code>, <code>git</code>, <code>hcl</code>, <code>regex</code>, <code>ebnf</code>, <code>files</code>, <code>chen</code> and <code>chronology</code>. By default the <code>&lt;engine&gt;</code> is <code>uml</code>. The <code>&lt;engine&gt;</code> can be specified as an option. Also the file to write the resulting image to can be specified by means of an option, see the description of the first (optional) argument for details. Of course only one <code>&lt;engine&gt;</code> can be specified and also the filename can only be specified once.
+Not all diagrams can be created with the PlantUML <span class="doxyComputerOutput">@startuml</span> command but need another PlantUML <span class="doxyComputerOutput">@start...</span> command. This will look like <span class="doxyComputerOutput">@start&lt;engine&gt;</span> where currently supported are the following <span class="doxyComputerOutput">&lt;engine&gt;</span>s: <span class="doxyComputerOutput">uml</span>, <span class="doxyComputerOutput">bpm</span>, <span class="doxyComputerOutput">wire</span>, <span class="doxyComputerOutput">dot</span>, <span class="doxyComputerOutput">ditaa</span>, <span class="doxyComputerOutput">salt</span>, <span class="doxyComputerOutput">math</span>, <span class="doxyComputerOutput">latex</span>, <span class="doxyComputerOutput">gantt</span>, <span class="doxyComputerOutput">mindmap</span>, <span class="doxyComputerOutput">wbs</span>, <span class="doxyComputerOutput">yaml</span>, <span class="doxyComputerOutput">creole</span>, <span class="doxyComputerOutput">json</span>, <span class="doxyComputerOutput">flow</span>, <span class="doxyComputerOutput">board</span>, <span class="doxyComputerOutput">git</span>, <span class="doxyComputerOutput">hcl</span>, <span class="doxyComputerOutput">regex</span>, <span class="doxyComputerOutput">ebnf</span>, <span class="doxyComputerOutput">files</span>, <span class="doxyComputerOutput">chen</span> and <span class="doxyComputerOutput">chronology</span>. By default the <span class="doxyComputerOutput">&lt;engine&gt;</span> is <span class="doxyComputerOutput">uml</span>. The <span class="doxyComputerOutput">&lt;engine&gt;</span> can be specified as an option. Also the file to write the resulting image to can be specified by means of an option, see the description of the first (optional) argument for details. Of course only one <span class="doxyComputerOutput">&lt;engine&gt;</span> can be specified and also the filename can only be specified once.
 
-The first argument is optional and is for compatibility with running PlantUML as a preprocessing step before running Doxygen, you can also add the name of the image file after <code>\\startuml</code> and inside curly brackets as option, i.e.
+The first argument is optional and is for compatibility with running PlantUML as a preprocessing step before running Doxygen, you can also add the name of the image file after <span class="doxyComputerOutput">\\startuml</span> and inside curly brackets as option, i.e.
 
 
 <pre><code>  @startuml{myimage.png} "Image Caption" width=5cm
@@ -3934,7 +3934,7 @@ The second argument is optional and can be used to specify the caption that is d
 The third argument is also optional and can be used to specify the width or height of the image. For a description of the possibilities see the paragraph <a href="#image_sizeindicator">Size indication</a> with the <a href="#cmdimage">\\image</a> command.
 
 :::info
-Doxygen does not support the Plantuml commands like <code>@startjson</code>, by design, directly but the support can be accomplished, by the user, by adding to the Doxygen settings file:
+Doxygen does not support the Plantuml commands like <span class="doxyComputerOutput">@startjson</span>, by design, directly but the support can be accomplished, by the user, by adding to the Doxygen settings file:
 
 
 <pre><code>  ALIASES += startjson=@startuml{json}
@@ -3944,11 +3944,11 @@ Doxygen does not support the Plantuml commands like <code>@startjson</code>, by 
 
 
 :::info
-Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <code>NO</code>.
+Doxygen creates a temporary file that is automatically removed unless the <a href="/web-doxygen/docs/pages/config/#cfg_dot_cleanup">DOT\_CLEANUP</a> tag is set to <span class="doxyComputerOutput">NO</span>.
 :::
 
 
-Here is an example of the use of the <code>\\startuml</code> command.
+Here is an example of the use of the <span class="doxyComputerOutput">\\startuml</span> command.
 
 <div class="doxyProgramListing">
 
@@ -3998,7 +3998,7 @@ The second argument is optional and can be used to specify the caption that is d
 The third argument is also optional and can be used to specify the width or height of the image. For a description of the possibilities see the paragraph <a href="#image_sizeindicator">Size indication</a> with the <a href="#cmdimage">\\image</a> command.
 
 :::info
-usage of this command requires that <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <code>YES</code>
+usage of this command requires that <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> is set to <span class="doxyComputerOutput">YES</span>
 :::
 
 
@@ -4023,7 +4023,7 @@ The second argument is optional and can be used to specify the caption that is d
 The third argument is also optional and can be used to specify the width or height of the image. For a description of the possibilities see the paragraph <a href="#image_sizeindicator">Size indication</a> with the <a href="#cmdimage">\\image</a> command.
 
 :::info
-The text fragment should include the part message of the sequence chart as well as the starting <code>msc {</code> and ending <code>}</code> (this is different from <a href="#cmdmsc">\\msc</a>).
+The text fragment should include the part message of the sequence chart as well as the starting <span class="doxyComputerOutput">msc {</span> and ending <span class="doxyComputerOutput">}</span> (this is different from <a href="#cmdmsc">\\msc</a>).
 :::
 
 
@@ -4053,7 +4053,7 @@ The third argument is also optional and can be used to specify the width or heig
 ## \\doxyconfig &lt;config\_option&gt; {#cmddoxyconfig}
 
 
-Displays the value of the configuration option <code>&lt;config\_option&gt;</code> as used in Doxygen's configuration file that is in use when this command is processed.
+Displays the value of the configuration option <span class="doxyComputerOutput">&lt;config\_option&gt;</span> as used in Doxygen's configuration file that is in use when this command is processed.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -4356,7 +4356,7 @@ Marks the end of a long formula that is displayed centered on a separate line.
 Marks the start of a formula that is in a specific environment.
 
 :::info
-The second <code>{</code> is optional and is only to help editors (such as <code>Vim</code>) to do proper syntax highlighting by making the number of opening and closing braces the same.
+The second <span class="doxyComputerOutput">{</span> is optional and is only to help editors (such as <span class="doxyComputerOutput">Vim</span>) to do proper syntax highlighting by making the number of opening and closing braces the same.
 :::
 
 
@@ -4386,11 +4386,11 @@ Marks the end of a formula that is in a specific environment.
 ## \\htmlonly\['\[block\]'\] {#cmdhtmlonly}
 
 
-Starts a block of text that only will be verbatim included in the generated HTML documentation and tagged with <code>&lt;htmlonly&gt;</code> in the generated XML output. The block ends with a <a href="#cmdendhtmlonly">\\endhtmlonly</a> command.
+Starts a block of text that only will be verbatim included in the generated HTML documentation and tagged with <span class="doxyComputerOutput">&lt;htmlonly&gt;</span> in the generated XML output. The block ends with a <a href="#cmdendhtmlonly">\\endhtmlonly</a> command.
 
 This command can be used to include HTML code that is too complex for Doxygen (i.e. applets, java-scripts, and HTML tags that require specific attributes).
 
-Normally the contents between <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> is inserted as-is. When you want to insert a HTML fragment that has block scope like a table or list which should appear outside &lt;p&gt;..&lt;/p&gt;, this can lead to invalid HTML. You can use <code>\\htmlonly\[block\]</code> to make Doxygen end the current paragraph and restart it after <code>\\endhtmlonly</code>.
+Normally the contents between <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> is inserted as-is. When you want to insert a HTML fragment that has block scope like a table or list which should appear outside &lt;p&gt;..&lt;/p&gt;, this can lead to invalid HTML. You can use <span class="doxyComputerOutput">\\htmlonly\[block\]</span> to make Doxygen end the current paragraph and restart it after <span class="doxyComputerOutput">\\endhtmlonly</span>.
 
 :::info
 environment variables (like $(HOME) ) are resolved inside a HTML-only block.
@@ -4411,21 +4411,21 @@ environment variables (like $(HOME) ) are resolved inside a HTML-only block.
 
 Inserts an image into the documentation. This command is format specific, so if you want to insert an image for more than one format you'll have to repeat this command for each format.
 
-The first argument specifies the output format in which the image should be embedded. Currently, the following values are supported: <code>html</code>, <code>latex</code>, <code>docbook</code>, <code>rtf</code> and <code>xml</code>.
+The first argument specifies the output format in which the image should be embedded. Currently, the following values are supported: <span class="doxyComputerOutput">html</span>, <span class="doxyComputerOutput">latex</span>, <span class="doxyComputerOutput">docbook</span>, <span class="doxyComputerOutput">rtf</span> and <span class="doxyComputerOutput">xml</span>.
 
 The second argument specifies the file name of the image. Doxygen will look for files in the paths (or files) that you specified after the <a href="/web-doxygen/docs/pages/config/#cfg_image_path">IMAGE\_PATH</a> tag. If the image is found it will be copied to the correct output directory. If the image name contains spaces you'll have to put quotes ("...") around the name. You can also specify an absolute URL instead of a file name, but then Doxygen does not copy the image nor check its existence.
 
 The third argument is optional and can be used to specify the caption that is displayed below the image. This argument has to be specified on a single line and between quotes even if it does not contain any spaces. The quotes are stripped before the caption is displayed.
 
-The fourth argument is also optional and can be used to specify the width or height of the image. This can be useful for <code>{\LaTeX}</code> or DocBook output (i.e. format=<code>latex</code> or format=<code>docbook</code>). <a id="image_sizeindicator"></a>
+The fourth argument is also optional and can be used to specify the width or height of the image. This can be useful for <code>{\LaTeX}</code> or DocBook output (i.e. format=<span class="doxyComputerOutput">latex</span> or format=<span class="doxyComputerOutput">docbook</span>). <a id="image_sizeindicator"></a>
 
 <dl class="doxySectionUser">
 <dt>Size indication</dt>
-<dd>The <code>sizeindication</code> can specify the width or height to be used (or a combination). The size specifier in <code>{\LaTeX}</code> (for example <code>10cm</code> or <code>4in</code> or a symbolic width like <code>\textwidth</code>).</dd>
+<dd>The <span class="doxyComputerOutput">sizeindication</span> can specify the width or height to be used (or a combination). The size specifier in <code>{\LaTeX}</code> (for example <span class="doxyComputerOutput">10cm</span> or <span class="doxyComputerOutput">4in</span> or a symbolic width like <span class="doxyComputerOutput">\textwidth</span>).</dd>
 </dl>
 
 
-Currently only the options <code>inline</code> and <code>anchor</code> are supported. In case the option <code>inline</code> is specified the image is placed "in the line", when a caption is present it is shown in HTML as tooltip (ignored for the other formats). For the <code>anchor</code> option the syntax is: <code>anchor:&lt;anchorId&gt;</code>.
+Currently only the options <span class="doxyComputerOutput">inline</span> and <span class="doxyComputerOutput">anchor</span> are supported. In case the option <span class="doxyComputerOutput">inline</span> is specified the image is placed "in the line", when a caption is present it is shown in HTML as tooltip (ignored for the other formats). For the <span class="doxyComputerOutput">anchor</span> option the syntax is: <span class="doxyComputerOutput">anchor:&lt;anchorId&gt;</span>.
 
 Here is example of a comment block:
 
@@ -4447,7 +4447,7 @@ And this is an example of how the relevant part of the configuration file may lo
 :::warning
 The image format for HTML is limited to what your browser supports.
 <br/>
-For <code>{\LaTeX}</code>, the image format must be supported by the <code>{\LaTeX}</code> <code>\\includegraphics</code> command i.e. Encapsulated PostScript (eps), Portable network graphics (png), Joint photographic experts group (jpg / jpeg). 
+For <code>{\LaTeX}</code>, the image format must be supported by the <code>{\LaTeX}</code> <span class="doxyComputerOutput">\\includegraphics</span> command i.e. Encapsulated PostScript (eps), Portable network graphics (png), Joint photographic experts group (jpg / jpeg). 
 <br/>
 
 <br/>
@@ -4461,7 +4461,7 @@ For <code>{\LaTeX}</code>, the image format must be supported by the <code>{\LaT
 ## \\latexonly {#cmdlatexonly}
 
 
-Starts a block of text that only will be verbatim included in the generated <code>{\LaTeX}</code> documentation and tagged with <code>&lt;latexonly&gt;</code> in the generated XML output. The block ends with a <a href="#cmdendlatexonly">\\endlatexonly</a> command.
+Starts a block of text that only will be verbatim included in the generated <code>{\LaTeX}</code> documentation and tagged with <span class="doxyComputerOutput">&lt;latexonly&gt;</span> in the generated XML output. The block ends with a <a href="#cmdendlatexonly">\\endlatexonly</a> command.
 
 This command can be used to include <code>{\LaTeX}</code> code that is too complex for Doxygen (i.e. images, formulas, special characters). You can use the <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> pair to provide a proper HTML alternative.
 
@@ -4479,7 +4479,7 @@ This command can be used to include <code>{\LaTeX}</code> code that is too compl
 ## \\manonly {#cmdmanonly}
 
 
-Starts a block of text that only will be verbatim included in the generated MAN documentation and tagged with <code>&lt;manonly&gt;</code> in the generated XML output. The block ends with a <a href="#cmdendmanonly">\\endmanonly</a> command.
+Starts a block of text that only will be verbatim included in the generated MAN documentation and tagged with <span class="doxyComputerOutput">&lt;manonly&gt;</span> in the generated XML output. The block ends with a <a href="#cmdendmanonly">\\endmanonly</a> command.
 
 This command can be used to include groff code directly into MAN pages. You can use the <a href="#cmdhtmlonly">\\htmlonly</a> and <a href="#cmdendhtmlonly">\\endhtmlonly</a> and <a href="#cmdlatexonly">\\latexonly</a> and <a href="#cmdendlatexonly">\\endlatexonly</a> pairs to provide proper HTML and <code>{\LaTeX}</code> alternatives.
 
@@ -4495,7 +4495,7 @@ This command can be used to include groff code directly into MAN pages. You can 
 ## \\li { item-description } {#cmdli}
 
 
-This command has one argument that continues until the first blank line or until another <code>\\li</code> is encountered. The command can be used to generate a simple, not nested list of arguments. Each argument should start with a <code>\\li</code> command.
+This command has one argument that continues until the first blank line or until another <span class="doxyComputerOutput">\\li</span> is encountered. The command can be used to generate a simple, not nested list of arguments. Each argument should start with a <span class="doxyComputerOutput">\\li</span> command.
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
@@ -4516,9 +4516,9 @@ will result in the following text:
 <br/>
 &nbsp;
 <ul class="doxyList ">
-<li><code>AlignLeft</code> left alignment.</li>
-<li><code>AlignCenter</code> center alignment.</li>
-<li><code>AlignRight</code> right alignment</li>
+<li><span class="doxyComputerOutput">AlignLeft</span> left alignment.</li>
+<li><span class="doxyComputerOutput">AlignCenter</span> center alignment.</li>
+<li><span class="doxyComputerOutput">AlignRight</span> right alignment</li>
 </ul>
 &nbsp;
 <br/>
@@ -4541,7 +4541,7 @@ Equivalent to <a href="#cmdarg">\\arg</a>
 ## \\n {#cmdn}
 
 
-Forces a new line. Equivalent to <a href="/web-doxygen/docs/pages/htmlcmds/#htmltag_BR">&lt;br&gt;</a> and inspired by the <code>printf</code> function.
+Forces a new line. Equivalent to <a href="/web-doxygen/docs/pages/htmlcmds/#htmltag_BR">&lt;br&gt;</a> and inspired by the <span class="doxyComputerOutput">printf</span> function.
 
 <hr/>
 
@@ -4561,7 +4561,7 @@ This will result in the following text:
 <br/>
 &nbsp;
 <br/>
- ... the <code>x</code> and <code>y</code> coordinates are used to ...
+ ... the <span class="doxyComputerOutput">x</span> and <span class="doxyComputerOutput">y</span> coordinates are used to ...
 </dd>
 </dl>
 
@@ -4574,7 +4574,7 @@ Equivalent to <a href="#cmdc">\\c</a>. To have multiple words in typewriter font
 ## \\rtfonly {#cmdrtfonly}
 
 
-Starts a block of text that only will be verbatim included in the generated RTF documentation and tagged with <code>&lt;rtfonly&gt;</code> in the generated XML output. The block ends with a <a href="#cmdendrtfonly">\\endrtfonly</a> command.
+Starts a block of text that only will be verbatim included in the generated RTF documentation and tagged with <span class="doxyComputerOutput">&lt;rtfonly&gt;</span> in the generated XML output. The block ends with a <a href="#cmdendrtfonly">\\endrtfonly</a> command.
 
 This command can be used to include RTF code that is too complex for Doxygen.
 
@@ -4595,7 +4595,7 @@ This command can be used to include RTF code that is too complex for Doxygen.
 Starts a block of text that will be verbatim included in the documentation. The block should end with a <a href="#cmdendverbatim">\\endverbatim</a> command. All commands are disabled in a verbatim block.
 
 :::warning
-Make sure you include a <a href="#cmdendverbatim">\\endverbatim</a> command for each <code>\\verbatim</code> command or the parser will get confused!
+Make sure you include a <a href="#cmdendverbatim">\\endverbatim</a> command for each <span class="doxyComputerOutput">\\verbatim</span> command or the parser will get confused!
 :::
 
 
@@ -4627,7 +4627,7 @@ This command can be used to include custom XML tags.
 ## \\\\ {#cmdbackslash}
 
 
-This command writes a backslash character (<code>\\</code>) to the output. The backslash has to be escaped in some cases because Doxygen uses it to detect commands.
+This command writes a backslash character (<span class="doxyComputerOutput">\\</span>) to the output. The backslash has to be escaped in some cases because Doxygen uses it to detect commands.
 
 <hr/>
 
@@ -4635,7 +4635,7 @@ This command writes a backslash character (<code>\\</code>) to the output. The b
 ## \\@ {#cmdat}
 
 
-This command writes an at-sign (<code>@</code>) to the output. The at-sign has to be escaped in some cases because Doxygen uses it to detect Javadoc commands.
+This command writes an at-sign (<span class="doxyComputerOutput">@</span>) to the output. The at-sign has to be escaped in some cases because Doxygen uses it to detect Javadoc commands.
 
 <hr/>
 
@@ -4643,7 +4643,7 @@ This command writes an at-sign (<code>@</code>) to the output. The at-sign has t
 ## \\\~\[LanguageId\] {#cmdtilde}
 
 
-This command enables/disables a language specific filter. This can be used to put documentation for different language into one comment block and use the <a href="/web-doxygen/docs/pages/config/#cfg_output_language">OUTPUT\_LANGUAGE</a> tag to filter out only a specific language. Use <code>\\\~language\_id</code> to enable output for a specific language only and <code>\\\~</code> to enable output for all languages (this is also the default mode).
+This command enables/disables a language specific filter. This can be used to put documentation for different language into one comment block and use the <a href="/web-doxygen/docs/pages/config/#cfg_output_language">OUTPUT\_LANGUAGE</a> tag to filter out only a specific language. Use <span class="doxyComputerOutput">\\\~language\_id</span> to enable output for a specific language only and <span class="doxyComputerOutput">\\\~</span> to enable output for all languages (this is also the default mode).
 
 Example:
 
@@ -4660,7 +4660,7 @@ Example:
 ## \\&amp; {#cmdamp}
 
 
-This command writes the <code>&amp;</code> character to the output. This character has to be escaped because it has a special meaning in HTML.
+This command writes the <span class="doxyComputerOutput">&amp;</span> character to the output. This character has to be escaped because it has a special meaning in HTML.
 
 <hr/>
 
@@ -4668,7 +4668,7 @@ This command writes the <code>&amp;</code> character to the output. This charact
 ## \\$ {#cmddollar}
 
 
-This command writes the <code>$</code> character to the output. This character has to be escaped in some cases, because it is used to expand environment variables.
+This command writes the <span class="doxyComputerOutput">$</span> character to the output. This character has to be escaped in some cases, because it is used to expand environment variables.
 
 <hr/>
 
@@ -4676,7 +4676,7 @@ This command writes the <code>$</code> character to the output. This character h
 ## \\# {#cmdhash}
 
 
-This command writes the <code>#</code> character to the output. This character has to be escaped in some cases, because it is used to refer to documented entities.
+This command writes the <span class="doxyComputerOutput">#</span> character to the output. This character has to be escaped in some cases, because it is used to refer to documented entities.
 
 <hr/>
 
@@ -4684,7 +4684,7 @@ This command writes the <code>#</code> character to the output. This character h
 ## \\&lt; {#cmdlt}
 
 
-This command writes the <code>&lt;</code> character to the output. This character has to be escaped because it has a special meaning in HTML.
+This command writes the <span class="doxyComputerOutput">&lt;</span> character to the output. This character has to be escaped because it has a special meaning in HTML.
 
 <hr/>
 
@@ -4692,7 +4692,7 @@ This command writes the <code>&lt;</code> character to the output. This characte
 ## \\&gt; {#cmdgt}
 
 
-This command writes the <code>&gt;</code> character to the output. This character has to be escaped because it has a special meaning in HTML.
+This command writes the <span class="doxyComputerOutput">&gt;</span> character to the output. This character has to be escaped because it has a special meaning in HTML.
 
 <hr/>
 
@@ -4700,7 +4700,7 @@ This command writes the <code>&gt;</code> character to the output. This characte
 ## \\% {#cmdperc}
 
 
-This command writes the <code>%</code> character to the output. This character has to be escaped in some cases, because it is used to prevent auto-linking to a word that is also a documented class or struct.
+This command writes the <span class="doxyComputerOutput">%</span> character to the output. This character has to be escaped in some cases, because it is used to prevent auto-linking to a word that is also a documented class or struct.
 
 <hr/>
 
@@ -4708,7 +4708,7 @@ This command writes the <code>%</code> character to the output. This character h
 ## \\" {#cmdquot}
 
 
-This command writes the <code>"</code> character to the output. This character has to be escaped in some cases, because it is used in pairs to indicate an unformatted text fragment.
+This command writes the <span class="doxyComputerOutput">"</span> character to the output. This character has to be escaped in some cases, because it is used in pairs to indicate an unformatted text fragment.
 
 <hr/>
 
@@ -4716,7 +4716,7 @@ This command writes the <code>"</code> character to the output. This character h
 ## \\ {#cmdchardot}
 
 
-This command writes a dot (<code>.</code>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled or to prevent starting a numbered list when the dot follows a number at the start of a line.
+This command writes a dot (<span class="doxyComputerOutput">.</span>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled or to prevent starting a numbered list when the dot follows a number at the start of a line.
 
 <hr/>
 
@@ -4724,7 +4724,7 @@ This command writes a dot (<code>.</code>) to the output. This can be useful to 
 ## \\? {#cmdquest}
 
 
-This command writes a question mark (<code>?</code>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled.
+This command writes a question mark (<span class="doxyComputerOutput">?</span>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled.
 
 <hr/>
 
@@ -4732,7 +4732,7 @@ This command writes a question mark (<code>?</code>) to the output. This can be 
 ## \\! {#cmdexclam}
 
 
-This command writes a exclamation mark (<code>!</code>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled.
+This command writes a exclamation mark (<span class="doxyComputerOutput">!</span>) to the output. This can be useful to prevent ending a brief description when <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> or <a href="/web-doxygen/docs/pages/config/#cfg_qt_autobrief">QT\_AUTOBRIEF</a> is enabled.
 
 <hr/>
 
@@ -4740,7 +4740,7 @@ This command writes a exclamation mark (<code>!</code>) to the output. This can 
 ## \\= {#cmdeq}
 
 
-This command writes an equal sign (<code>=</code>) to the output. This character sequence has to be escaped in some cases, because it is used in Markdown header processing.
+This command writes an equal sign (<span class="doxyComputerOutput">=</span>) to the output. This character sequence has to be escaped in some cases, because it is used in Markdown header processing.
 
 <hr/>
 
@@ -4748,7 +4748,7 @@ This command writes an equal sign (<code>=</code>) to the output. This character
 ## \\:: {#cmddcolon}
 
 
-This command writes a double colon (<code>::</code>) to the output. This character sequence has to be escaped in some cases, because it is used to reference to documented entities.
+This command writes a double colon (<span class="doxyComputerOutput">::</span>) to the output. This character sequence has to be escaped in some cases, because it is used to reference to documented entities.
 
 <hr/>
 

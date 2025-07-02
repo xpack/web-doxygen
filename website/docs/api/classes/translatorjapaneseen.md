@@ -365,7 +365,7 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly before the <code>\\\\end{document}</code> in the LaTeX document.
+Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\\\end{document}</span> in the LaTeX document.
 
 Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
 
@@ -408,7 +408,7 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly after the <code>\\\\begin{document}</code> in the LaTeX document.
+Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\\\begin{document}</span> in the LaTeX document.
 
 Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
 
@@ -451,7 +451,7 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the LaTeX font encoding to be used. The default is set to <code>T1</code>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
+Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
 
 Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
 

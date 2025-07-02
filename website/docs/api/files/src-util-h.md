@@ -1212,7 +1212,7 @@ Return the index of the last :: in the string <em>name</em> that is still before
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns <code>TRUE</code> iff string <em>s</em> contains word <em>w</em> <a href="#adf04f9aeb9963b4f0fa0b176c6ba418a">More...</a>
+returns <span class="doxyComputerOutput">TRUE</span> iff string <em>s</em> contains word <em>w</em> <a href="#adf04f9aeb9963b4f0fa0b176c6ba418a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1280,7 +1280,7 @@ Special version of <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Routine to handle the language attribute of the <code>\\code</code> command. <a href="#a6d584858761afb81c76d1c85e19438e9">More...</a>
+Routine to handle the language attribute of the <span class="doxyComputerOutput">\code</span> command. <a href="#a6d584858761afb81c76d1c85e19438e9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1542,7 +1542,7 @@ read a file name <em>fileName</em> and optionally filter and transcode it <a hre
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes the intensity only bitmap represented by <em>data</em> as an image to directory <em>dir</em> using the colors defined by HTML\_COLORSTYLE\_\*. <a href="#af543a98b46249a2b115f47f0166e9a81">More...</a>
+Writes the intensity only bitmap represented by <em>data</em> as an image to directory <em>dir</em> using the colors defined by HTML_COLORSTYLE_*. <a href="#af543a98b46249a2b115f47f0166e9a81">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1556,7 +1556,7 @@ Writes the intensity only bitmap represented by <em>data</em> as an image to dir
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Replaces any markers of the form ##AA in input string <em>str</em> by new markers of the form #AABBCC, where #AABBCC represents a valid color, based on the intensity represented by hex number AA and the current HTML\_COLORSTYLE\_\* settings. <a href="#af10f5e35396e550af824e3029bab8dd4">More...</a>
+Replaces any markers of the form ##AA in input string <em>str</em> by new markers of the form #AABBCC, where #AABBCC represents a valid color, based on the intensity represented by hex number AA and the current HTML_COLORSTYLE_* settings. <a href="#af10f5e35396e550af824e3029bab8dd4">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2975,7 +2975,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fc
 </div>
 <div class="doxyMemberDoc">
 
-returns <code>TRUE</code> iff string <em>s</em> contains word <em>w</em>
+returns <span class="doxyComputerOutput">TRUE</span> iff string <em>s</em> contains word <em>w</em>
 
 Declaration at line 367 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5482 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -4790,7 +4790,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb
 removes occurrences of whole <em>word</em> from <em>sentence</em>, while keeps internal spaces and reducing multiple sequences of spaces.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: sentence=<code> cat+ catfish cat cat concat cat</code>, word=<code>cat</code> returns: <code>+ catfish concat</code>
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: sentence=<span class="doxyComputerOutput"> cat+ catfish cat cat concat cat</span>, word=<span class="doxyComputerOutput">cat</span> returns: <span class="doxyComputerOutput">+ catfish concat</span>
 
 Declaration at line 369 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5498 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -5627,7 +5627,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 </div>
 <div class="doxyMemberDoc">
 
-Routine to handle the language attribute of the <code>\\code</code> command.
+Routine to handle the language attribute of the <span class="doxyComputerOutput">\\code</span> command.
 
 Declaration at line 375 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5740 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -7573,11 +7573,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e2
 
 
 
-Merges two scope parts together. The parts may (partially) overlap. Example1: <code>A::B</code> and <code>B::C</code> will result in <code>A::B::C</code> 
+Merges two scope parts together. The parts may (partially) overlap. Example1: <span class="doxyComputerOutput">A::B</span> and <span class="doxyComputerOutput">B::C</span> will result in <span class="doxyComputerOutput">A::B::C</span> 
 <br/>
- Example2: <code>A</code> and <code>B</code> will be <code>A::B</code> 
+ Example2: <span class="doxyComputerOutput">A</span> and <span class="doxyComputerOutput">B</span> will be <span class="doxyComputerOutput">A::B</span> 
 <br/>
- Example3: <code>A::B</code> and B will be <code>A::B</code>
+ Example3: <span class="doxyComputerOutput">A::B</span> and B will be <span class="doxyComputerOutput">A::B</span>
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -10806,7 +10806,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 
 
 
-Strips template specifiers from scope <em>fullName</em>, except those that make up specialized classes. The switch <em>parentOnly</em> determines whether or not a template "at the end" of a scope should be considered, e.g. with <em>parentOnly</em> is <code>TRUE</code>, <code>A&lt;T&gt;::B&lt;S&gt;</code> will try to strip <code>&lt;T&gt;</code> and not <code>&lt;S&gt;</code>, while <em>parentOnly</em> is <code>FALSE</code> will strip both unless <code>A&lt;T&gt;</code> or <code>B&lt;S&gt;</code> are specialized template classes.
+Strips template specifiers from scope <em>fullName</em>, except those that make up specialized classes. The switch <em>parentOnly</em> determines whether or not a template "at the end" of a scope should be considered, e.g. with <em>parentOnly</em> is <span class="doxyComputerOutput">TRUE</span>, <span class="doxyComputerOutput">A&lt;T&gt;::B&lt;S&gt;</span> will try to strip <span class="doxyComputerOutput">&lt;T&gt;</span> and not <span class="doxyComputerOutput">&lt;S&gt;</span>, while <em>parentOnly</em> is <span class="doxyComputerOutput">FALSE</span> will strip both unless <span class="doxyComputerOutput">A&lt;T&gt;</span> or <span class="doxyComputerOutput">B&lt;S&gt;</span> are specialized template classes.
 
 Declaration at line 301 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 5030 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 

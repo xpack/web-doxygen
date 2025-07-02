@@ -69,8 +69,8 @@ The second part forms a reference manual:
 
 <ul class="doxyList ">
 <li>Section <a href="/web-doxygen/docs/pages/features">Features</a> presents an overview of what Doxygen can do.</li>
-<li>Section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> shows how to use the <code>doxygen</code> program.</li>
-<li>Section <a href="/web-doxygen/docs/pages/doxywizard-usage">Doxywizard usage</a> shows how to use the <code>doxywizard</code> program.</li>
+<li>Section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> shows how to use the <span class="doxyComputerOutput">doxygen</span> program.</li>
+<li>Section <a href="/web-doxygen/docs/pages/doxywizard-usage">Doxywizard usage</a> shows how to use the <span class="doxyComputerOutput">doxywizard</span> program.</li>
 <li>Section <a href="/web-doxygen/docs/pages/config">Configuration</a> shows how to fine-tune Doxygen, so it generates the documentation you want.</li>
 <li>Section <a href="/web-doxygen/docs/pages/commands">Special Commands</a> shows an overview of the special commands that can be used within the documentation.</li>
 <li>Section <a href="/web-doxygen/docs/pages/htmlcmds">HTML Commands</a> shows an overview of the HTML commands that can be used within the documentation.</li>

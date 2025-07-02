@@ -204,7 +204,7 @@ See section <a href="#mddox_emph_spans">Emphasis and strikethrough limits</a> fo
 ### code spans {#md_codespan}
 
 
-To indicate a span of code, you should wrap it in backticks (<code> ` </code>). Unlike code blocks, code spans appear inline in a paragraph. An example:
+To indicate a span of code, you should wrap it in backticks (<span class="doxyComputerOutput"> ` </span>). Unlike code blocks, code spans appear inline in a paragraph. An example:
 
 
 <pre><code>Use the `printf()` function.
@@ -251,7 +251,7 @@ In addition Doxygen provides a similar way to link a documented entity:
 </code></pre>
 
 
-in case the first non whitespace character of the reference is a <code>#</code> this is interpreted as a Doxygen link and replaced as a <a href="/web-doxygen/docs/pages/commands/#cmdref">@ref</a> command:
+in case the first non whitespace character of the reference is a <span class="doxyComputerOutput">#</span> this is interpreted as a Doxygen link and replaced as a <a href="/web-doxygen/docs/pages/commands/#cmdref">@ref</a> command:
 
 
 <pre><code>[The link text](#MyClass)
@@ -377,9 +377,9 @@ Note that Doxygen will also produce the links without the angle brackets.
 ### Table of Contents {#md_toc}
 
 
-Doxygen supports a special link marker <code>\[TOC\]</code> which can be placed in a page to produce a table of contents at the start of the page, listing all sections.
+Doxygen supports a special link marker <span class="doxyComputerOutput">\[TOC\]</span> which can be placed in a page to produce a table of contents at the start of the page, listing all sections.
 
-Note that using <code>\[TOC\]</code> is the same as using a <a href="/web-doxygen/docs/pages/commands/#cmdtableofcontents">\\tableofcontents</a> command.
+Note that using <span class="doxyComputerOutput">\[TOC\]</span> is the same as using a <a href="/web-doxygen/docs/pages/commands/#cmdtableofcontents">\\tableofcontents</a> command.
 
 Note that the <a href="/web-doxygen/docs/pages/config/#cfg_toc_include_headings">TOC\_INCLUDE\_HEADINGS</a> has to be set to a value &gt; 0 otherwise no table of contents is shown when using <a href="#md_headers">Markdown Headers</a>.
 
@@ -577,7 +577,7 @@ Another way to denote fenced code blocks is to use 3 or more backticks (```):
 </div>
 
 
-For the image formats <code>dot</code>, <code>msc</code> and <code>plantuml</code> the fenced block will be shown as an image provided the image format is enabled (see <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> and <a href="/web-doxygen/docs/pages/config/#cfg_plantuml_jar_path">PLANTUML\_JAR\_PATH</a>), otherwise it is shown as plain code.
+For the image formats <span class="doxyComputerOutput">dot</span>, <span class="doxyComputerOutput">msc</span> and <span class="doxyComputerOutput">plantuml</span> the fenced block will be shown as an image provided the image format is enabled (see <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> and <a href="/web-doxygen/docs/pages/config/#cfg_plantuml_jar_path">PLANTUML\_JAR\_PATH</a>), otherwise it is shown as plain code.
 
 Example:
 
@@ -670,13 +670,13 @@ Even though Doxygen tries to following the Markdown standard as closely as possi
 ### Including Markdown files as pages {#md_page_header}
 
 
-Doxygen can process files with Markdown formatting. For this to work the extension for such a file should be <code>.md</code> or <code>.markdown</code> (see <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> if your Markdown files have a different extension, and use <code>md</code> as the name of the parser). Each file is converted to a page (see the <a href="/web-doxygen/docs/pages/commands/#cmdpage">page</a> command for details). Doxygen will not create a dedicated page if the Markdown file starts with a dedicated command (a.o. <code>\\defgroup</code>, <code>\\dir</code>) to avoid creating an empty page when the file only contains directory or group documentation. A <code>README.md</code> file in a subdirectory will be treated as directory documentation, unless it is explicitly overruled by a dedicated command (a.o. <code>@page</code>, <code>@mainpage</code>) to create a new page.
+Doxygen can process files with Markdown formatting. For this to work the extension for such a file should be <span class="doxyComputerOutput">.md</span> or <span class="doxyComputerOutput">.markdown</span> (see <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> if your Markdown files have a different extension, and use <span class="doxyComputerOutput">md</span> as the name of the parser). Each file is converted to a page (see the <a href="/web-doxygen/docs/pages/commands/#cmdpage">page</a> command for details). Doxygen will not create a dedicated page if the Markdown file starts with a dedicated command (a.o. <span class="doxyComputerOutput">\\defgroup</span>, <span class="doxyComputerOutput">\\dir</span>) to avoid creating an empty page when the file only contains directory or group documentation. A <span class="doxyComputerOutput">README.md</span> file in a subdirectory will be treated as directory documentation, unless it is explicitly overruled by a dedicated command (a.o. <span class="doxyComputerOutput">@page</span>, <span class="doxyComputerOutput">@mainpage</span>) to create a new page.
 
 By default the name and title of the page are derived from the file name. If the file starts with a level 1 header however, it is used as the title of the page. If you specify a label for the header (as shown in <a href="#md_header_id">Header Id Attributes</a>) Doxygen will use that as the page name.
 
-If the label is called <code>index</code> or <code>mainpage</code> Doxygen will put the documentation on the front page (<code>index.html</code>).
+If the label is called <span class="doxyComputerOutput">index</span> or <span class="doxyComputerOutput">mainpage</span> Doxygen will put the documentation on the front page (<span class="doxyComputerOutput">index.html</span>).
 
-Here is an example of a file <code>README.md</code> that will appear as the main page when processed by Doxygen:
+Here is an example of a file <span class="doxyComputerOutput">README.md</span> that will appear as the main page when processed by Doxygen:
 
 
 <pre><code>My Main Page                         {#mainpage}
@@ -699,10 +699,10 @@ If a page has a label you can link to it using <a href="/web-doxygen/docs/pages/
 Markdown is quite strict in the way it processes block-level HTML:
 <blockquote class="doxyBlockQuote">
 
-block-level HTML elements — e.g. <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;pre&gt;</code>, <code>&lt;p&gt;</code>, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces.
+block-level HTML elements — e.g. <span class="doxyComputerOutput">&lt;div&gt;</span>, <span class="doxyComputerOutput">&lt;table&gt;</span>, <span class="doxyComputerOutput">&lt;pre&gt;</span>, <span class="doxyComputerOutput">&lt;p&gt;</span>, etc. — must be separated from surrounding content by blank lines, and the start and end tags of the block should not be indented with tabs or spaces.
 </blockquote>
 
-Doxygen does not have this requirement, and will also process Markdown formatting inside such HTML blocks. The only exception is <code>&lt;pre&gt;</code> blocks, which are passed untouched (handy for ASCII art).
+Doxygen does not have this requirement, and will also process Markdown formatting inside such HTML blocks. The only exception is <span class="doxyComputerOutput">&lt;pre&gt;</span> blocks, which are passed untouched (handy for ASCII art).
 
 Doxygen will not process Markdown formatting inside verbatim or code blocks, and in other sections that need to be processed without changes (for instance formulas or inline dot graphs).
 
@@ -755,23 +755,23 @@ Unlike standard Markdown and GitHub Flavored Markdown Doxygen will not touch int
 </code></pre>
 
 
-Furthermore, a <code>\*</code> or <code>\_</code> only starts an emphasis and a <code>\~</code> only starts a strikethrough if
+Furthermore, a <span class="doxyComputerOutput">\*</span> or <span class="doxyComputerOutput">\_</span> only starts an emphasis and a <span class="doxyComputerOutput">\~</span> only starts a strikethrough if
 
 <ul class="doxyList ">
 <li>it is followed by an alphanumerical character, and</li>
-<li>it is preceded by a space, newline, or one the following characters <code>&lt;{([,:;</code></li>
+<li>it is preceded by a space, newline, or one the following characters <span class="doxyComputerOutput">&lt;{([,:;</span></li>
 </ul>
 
 An emphasis or a strikethrough ends if
 
 <ul class="doxyList ">
 <li>it is not followed by an alphanumerical character, and</li>
-<li>it is not preceded by a space, newline, or one the following characters <code>({[&lt;=+-\@</code></li>
+<li>it is not preceded by a space, newline, or one the following characters <span class="doxyComputerOutput">({[&lt;=+-\@</span></li>
 </ul>
 
 The span of the emphasis or strikethrough is limited to a single paragraph.
 
-Lastly, note that when you want to put emphasis on a piece of text at the start of a line by means of <code>\*</code>s within a C-style Doxygen comment block (i.e. <code>/</code><code>\*\* ... \*</code><code>/</code>) that does not have leading <code>\*</code> as column "lineup", then Doxygen will see the sequence of <code>\*</code>s at the beginning of the line as "lineup" and not as emphasis. So the following will not render as bold:
+Lastly, note that when you want to put emphasis on a piece of text at the start of a line by means of <span class="doxyComputerOutput">\*</span>s within a C-style Doxygen comment block (i.e. <span class="doxyComputerOutput">/</span><span class="doxyComputerOutput">\*\* ... \*</span><span class="doxyComputerOutput">/</span>) that does not have leading <span class="doxyComputerOutput">\*</span> as column "lineup", then Doxygen will see the sequence of <span class="doxyComputerOutput">\*</span>s at the beginning of the line as "lineup" and not as emphasis. So the following will not render as bold:
 
 
 <pre><code>/**
@@ -850,7 +850,7 @@ will produce:
 <li>Item2 of list 2</li>
 </ol>
 
-Historically Doxygen has an additional way to create numbered lists by using <code>-#</code> markers:
+Historically Doxygen has an additional way to create numbered lists by using <span class="doxyComputerOutput">-#</span> markers:
 
 
 <pre><code>-# item1
@@ -858,7 +858,7 @@ Historically Doxygen has an additional way to create numbered lists by using <co
 </code></pre>
 
 
-Lists with as indicator a checked or unchecked check box are by using <code>- \[ \]</code> or <code>- \[x\]</code> or <code>- \[X\]</code> as markers:
+Lists with as indicator a checked or unchecked check box are by using <span class="doxyComputerOutput">- \[ \]</span> or <span class="doxyComputerOutput">- \[x\]</span> or <span class="doxyComputerOutput">- \[X\]</span> as markers:
 
 
 <pre><code>- [ ] unchecked
@@ -897,14 +897,14 @@ Also for links there are limits; the link text, and link title each can contain 
 ### Support for GitHub Alerts {#mddox_github_alerts}
 
 
-In the GitHub version of markdown there is the support for so called alerts, the syntax is similar to a one level block quote followed by <code>\[!&lt;alert&gt;\]</code> where <code>&lt;alert&gt;</code> can be one of <code>note</code>, <code>warning</code>, <code>tip</code>, <code>caution</code> or <code>important</code>. In Doxygen these alerts are translated into normal Doxygen commands:
+In the GitHub version of markdown there is the support for so called alerts, the syntax is similar to a one level block quote followed by <span class="doxyComputerOutput">\[!&lt;alert&gt;\]</span> where <span class="doxyComputerOutput">&lt;alert&gt;</span> can be one of <span class="doxyComputerOutput">note</span>, <span class="doxyComputerOutput">warning</span>, <span class="doxyComputerOutput">tip</span>, <span class="doxyComputerOutput">caution</span> or <span class="doxyComputerOutput">important</span>. In Doxygen these alerts are translated into normal Doxygen commands:
 
 <ul class="doxyList ">
-<li><code>&gt; [!note]</code> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdnote">\note</a></li>
-<li><code>&gt; [!warning]</code> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdwarning">\warning</a></li>
-<li><code>&gt; [!tip]</code> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdremark">\remark</a></li>
-<li><code>&gt; [!caution]</code> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdattention">\attention</a></li>
-<li><code>&gt; [!important]</code> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdimportant">\important</a></li>
+<li><span class="doxyComputerOutput">&gt; [!note]</span> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdnote">\note</a></li>
+<li><span class="doxyComputerOutput">&gt; [!warning]</span> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdwarning">\warning</a></li>
+<li><span class="doxyComputerOutput">&gt; [!tip]</span> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdremark">\remark</a></li>
+<li><span class="doxyComputerOutput">&gt; [!caution]</span> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdattention">\attention</a></li>
+<li><span class="doxyComputerOutput">&gt; [!important]</span> is translated to <a href="/web-doxygen/docs/pages/commands/#cmdimportant">\important</a></li>
 </ul>
 
 Example:
@@ -931,7 +931,7 @@ When Doxygen parses the source code it first extracts the comments blocks, then 
 
 During Markdown preprocessing no errors are produced. Anything that does not fit the Markdown syntax is simply passed on as-is. In the subsequent parsing phase this could lead to errors, which may not always be obvious as they are based on the intermediate format.
 
-To see the result after Markdown processing you can run Doxygen with the <code>-d Markdown</code> option. It will then print each comment block before and after Markdown processing.
+To see the result after Markdown processing you can run Doxygen with the <span class="doxyComputerOutput">-d Markdown</span> option. It will then print each comment block before and after Markdown processing.
  
 Go to the <a href="/docs/pages/lists/">next</a> section or return to the
  <a href="/docs/">index</a>.

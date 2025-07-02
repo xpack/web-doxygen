@@ -4338,7 +4338,7 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly before the <code>\\\\end{document}</code> in the LaTeX document.
+Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\\\end{document}</span> in the LaTeX document.
 
 Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.
 
@@ -4381,7 +4381,7 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly after the <code>\\\\begin{document}</code> in the LaTeX document.
+Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\\\begin{document}</span> in the LaTeX document.
 
 Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.
 
@@ -4424,7 +4424,7 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the LaTeX font encoding to be used. The default is set to <code>T1</code>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
+Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
 
 Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/translator-cn-h">translator_cn.h</a>.
 

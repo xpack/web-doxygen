@@ -105,7 +105,7 @@ returns true iff the indices are enabled <a href="#ab255d94f91cba673bf82de1edc37
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Add an index generator to the list, using a syntax similar to std::make\_unique&lt;T&gt;() <a href="#a4dca6a37ca55f967119e1301ed976aee">More...</a>
+Add an index generator to the list, using a syntax similar to std::make_unique&lt;T&gt;() <a href="#a4dca6a37ca55f967119e1301ed976aee">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

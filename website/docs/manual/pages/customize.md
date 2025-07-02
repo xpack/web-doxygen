@@ -50,9 +50,9 @@ By default, Doxygen will show a title area spanning the full width of the page a
 This corresponds to the following settings in the Doxyfile:
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <code>NO</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <span class="doxyComputerOutput">NO</span></li>
 </ul>
 
 <figure>
@@ -62,9 +62,9 @@ This corresponds to the following settings in the Doxyfile:
 you can make the side bar span the whole height of the page using
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <code>YES</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <span class="doxyComputerOutput">YES</span></li>
 </ul>
 
 <figure>
@@ -74,8 +74,8 @@ you can make the side bar span the whole height of the page using
 you can also replace the navigation tree by tabs on top of every HTML page, corresponding to the following settings:
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>NO</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>NO</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">NO</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">NO</span></li>
 </ul>
 
 <figure>
@@ -85,9 +85,9 @@ you can also replace the navigation tree by tabs on top of every HTML page, corr
 or even have both forms of navigation:
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>NO</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <code>NO</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">NO</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <span class="doxyComputerOutput">NO</span></li>
 </ul>
 
 <figure>
@@ -97,9 +97,9 @@ or even have both forms of navigation:
 and this also works with the side bar spanning the full height
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>NO</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <code>YES</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">NO</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_full_sidebar">FULL_SIDEBAR</a> = <span class="doxyComputerOutput">YES</span></li>
 </ul>
 
 <figure>
@@ -109,8 +109,8 @@ and this also works with the side bar spanning the full height
 if you already use an external index (i.e. have one of the following options enabled <a href="/web-doxygen/docs/pages/config/#cfg_generate_htmlhelp">GENERATE\_HTMLHELP</a>, <a href="/web-doxygen/docs/pages/config/#cfg_generate_eclipsehelp">GENERATE\_ECLIPSEHELP</a>, <a href="/web-doxygen/docs/pages/config/#cfg_generate_qhp">GENERATE\_QHP</a>, or <a href="/web-doxygen/docs/pages/config/#cfg_generate_docset">GENERATE\_DOCSET</a>) then you can also disable all indices, like so:
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <code>YES</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <code>NO</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE_INDEX</a> = <span class="doxyComputerOutput">YES</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE_TREEVIEW</a> = <span class="doxyComputerOutput">NO</span></li>
 </ul>
 
 <figure>
@@ -124,7 +124,7 @@ To make the HTML output more interactive, Doxygen provides a number of options t
 
 <ul class="doxyList ">
 <li>enabling <a href="/web-doxygen/docs/pages/config/#cfg_html_dynamic_sections">HTML_DYNAMIC_SECTIONS</a> will make Doxygen hide certain content (like graphs) in the HTML by default, and let the reader expand these sections on request.</li>
-<li>enabling <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE_DOT</a> along with <a href="/web-doxygen/docs/pages/config/#cfg_interactive_svg">INTERACTIVE_SVG</a> while setting <a href="/web-doxygen/docs/pages/config/#cfg_dot_image_format">DOT_IMAGE_FORMAT</a> to <code>svg</code>, will make Doxygen produce SVG images that will allow the user to zoom and pan (this only happens when the size of the images exceeds a certain size).</li>
+<li>enabling <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE_DOT</a> along with <a href="/web-doxygen/docs/pages/config/#cfg_interactive_svg">INTERACTIVE_SVG</a> while setting <a href="/web-doxygen/docs/pages/config/#cfg_dot_image_format">DOT_IMAGE_FORMAT</a> to <span class="doxyComputerOutput">svg</span>, will make Doxygen produce SVG images that will allow the user to zoom and pan (this only happens when the size of the images exceeds a certain size).</li>
 </ul>
 
 ### Header, Footer, and Stylesheet changes {#minor_tweaks_header_css}
@@ -150,9 +150,9 @@ This will create 3 files:
 You should edit these files and then reference them from the configuration file.
 
 <ul class="doxyList ">
-<li><a href="/web-doxygen/docs/pages/config/#cfg_html_header">HTML_HEADER</a> = <code>header.html</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_html_footer">HTML_FOOTER</a> = <code>footer.html</code></li>
-<li><a href="/web-doxygen/docs/pages/config/#cfg_html_extra_stylesheet">HTML_EXTRA_STYLESHEET</a> = <code>my_customdoxygen.css</code></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_html_header">HTML_HEADER</a> = <span class="doxyComputerOutput">header.html</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_html_footer">HTML_FOOTER</a> = <span class="doxyComputerOutput">footer.html</span></li>
+<li><a href="/web-doxygen/docs/pages/config/#cfg_html_extra_stylesheet">HTML_EXTRA_STYLESHEET</a> = <span class="doxyComputerOutput">my_customdoxygen.css</span></li>
 </ul>
 
 :::info
@@ -191,7 +191,7 @@ The default layout can be generated by Doxygen using the following command:
 </code></pre>
 
 
-optionally the name of the layout file can be specified, if omitted <code>DoxygenLayout.xml</code> will be used.
+optionally the name of the layout file can be specified, if omitted <span class="doxyComputerOutput">DoxygenLayout.xml</span> will be used.
 
 The next step is to mention the layout file in the configuration file (see also <a href="/web-doxygen/docs/pages/config/#cfg_layout_file">LAYOUT\_FILE</a>)
 
@@ -231,13 +231,13 @@ The toplevel structure of the file looks as follows:
 </code></pre>
 
 
-The root element of the XML file is <code>doxygenlayout</code>, it has an attribute named <code>version</code>, which will be used in the future to cope with changes that are not backward compatible.
+The root element of the XML file is <span class="doxyComputerOutput">doxygenlayout</span>, it has an attribute named <span class="doxyComputerOutput">version</span>, which will be used in the future to cope with changes that are not backward compatible.
 
-The first section, identified by the <code>navindex</code> element, represents the layout of the navigation tabs displayed at the top of each HTML page. At the same time it also controls the items in the navigation tree in case <a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE\_TREEVIEW</a> is enabled. Each tab is represented by a <code>tab</code> element in the XML file.
+The first section, identified by the <span class="doxyComputerOutput">navindex</span> element, represents the layout of the navigation tabs displayed at the top of each HTML page. At the same time it also controls the items in the navigation tree in case <a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE\_TREEVIEW</a> is enabled. Each tab is represented by a <span class="doxyComputerOutput">tab</span> element in the XML file.
 
-You can hide tabs by setting the <code>visible</code> attribute to <code>no</code>. You can also override the default title of a tab by specifying it as the value of the <code>title</code> attribute. If the title field is the empty string (the default) then Doxygen will fill in an appropriate language specific title.
+You can hide tabs by setting the <span class="doxyComputerOutput">visible</span> attribute to <span class="doxyComputerOutput">no</span>. You can also override the default title of a tab by specifying it as the value of the <span class="doxyComputerOutput">title</span> attribute. If the title field is the empty string (the default) then Doxygen will fill in an appropriate language specific title.
 
-You can reorder the tabs by moving the tab elements in the XML file within the <code>navindex</code> element and even change the tree structure. Do not change the value of the <code>type</code> attribute however. Only a fixed set of types are supported, each representing a link to a specific index.
+You can reorder the tabs by moving the tab elements in the XML file within the <span class="doxyComputerOutput">navindex</span> element and even change the tree structure. Do not change the value of the <span class="doxyComputerOutput">type</span> attribute however. Only a fixed set of types are supported, each representing a link to a specific index.
 
 You can also add custom tabs using a type with name "user". Here is an example that shows how to add a tab with title "Google" pointing to www.google.com:
 
@@ -277,7 +277,7 @@ You can also group tabs together in a custom group using a tab with type "usergr
 
 Groups can be nested to form a hierarchy.
 
-By default a usergroup entry in the navigation tree is a link to a landing page with the contents of the group. You can link to a different page using the <code>url</code> attribute just like you can for the <code>&lt;tab&gt;</code> element and prevent any link using <code>url="\[none\]"</code>, i.e.
+By default a usergroup entry in the navigation tree is a link to a landing page with the contents of the group. You can link to a different page using the <span class="doxyComputerOutput">url</span> attribute just like you can for the <span class="doxyComputerOutput">&lt;tab&gt;</span> element and prevent any link using <span class="doxyComputerOutput">url="\[none\]"</span>, i.e.
 
 
 <pre><code>   &lt;tab type="usergroup" title="Group without link" url="[none]"&gt;
@@ -286,16 +286,16 @@ By default a usergroup entry in the navigation tree is a link to a landing page 
 </code></pre>
 
 
-The elements after <code>navindex</code> represent the layout of the different pages generated by Doxygen:
+The elements after <span class="doxyComputerOutput">navindex</span> represent the layout of the different pages generated by Doxygen:
 
 <ul class="doxyList ">
-<li>The <code>class</code> element represents the layout of all pages generated for documented classes, structs, unions, and interfaces.</li>
-<li>The <code>namespace</code> element represents the layout of all pages generated for documented namespaces (and also Java packages).</li>
-<li>The <code>concept</code> element represents the layout of all pages generated for documented concepts.</li>
-<li>The <code>module</code> element represents the layout of all pages generated for documented C++ modules.</li>
-<li>The <code>file</code> element represents the layout of all pages generated for documented files.</li>
-<li>The <code>group</code> element represents the layout of all pages generated for documented groups (or topics).</li>
-<li>The <code>directory</code> element represents the layout of all pages generated for documented directories.</li>
+<li>The <span class="doxyComputerOutput">class</span> element represents the layout of all pages generated for documented classes, structs, unions, and interfaces.</li>
+<li>The <span class="doxyComputerOutput">namespace</span> element represents the layout of all pages generated for documented namespaces (and also Java packages).</li>
+<li>The <span class="doxyComputerOutput">concept</span> element represents the layout of all pages generated for documented concepts.</li>
+<li>The <span class="doxyComputerOutput">module</span> element represents the layout of all pages generated for documented C++ modules.</li>
+<li>The <span class="doxyComputerOutput">file</span> element represents the layout of all pages generated for documented files.</li>
+<li>The <span class="doxyComputerOutput">group</span> element represents the layout of all pages generated for documented groups (or topics).</li>
+<li>The <span class="doxyComputerOutput">directory</span> element represents the layout of all pages generated for documented directories.</li>
 </ul>
 
 Each XML element within one of the above page elements represents a certain piece of information. Some pieces can appear in each type of page, others are specific for a certain type of page. Doxygen will list the pieces in the order in which they appear in the XML file.
@@ -303,77 +303,77 @@ Each XML element within one of the above page elements represents a certain piec
 The following generic elements are possible for each page:
 
 <dl class="doxyVariableList">
-<dt><code>briefdescription</code></dt>
+<dt><span class="doxyComputerOutput">briefdescription</span></dt>
 <dd>Represents the brief description on a page.</dd>
-<dt><code>detaileddescription</code></dt>
+<dt><span class="doxyComputerOutput">detaileddescription</span></dt>
 <dd>Represents the detailed description on a page.</dd>
 </dl>
 
-The following generic element is possible for each page except the <code>directory</code> page:
+The following generic element is possible for each page except the <span class="doxyComputerOutput">directory</span> page:
 
 <dl class="doxyVariableList">
-<dt><code>authorsection</code></dt>
-<dd>Represents the author section of a page (only used for man pages). This is a separate section for man pages with a text like: <code>Generated automatically by Doxygen for My Project from the source code.</code> This should not be misinterpreted with the Doxygen commands <a href="/web-doxygen/docs/pages/commands/#cmdauthor">\author</a> or <a href="/web-doxygen/docs/pages/commands/#cmdauthors">\authors</a> that generate an author paragraph inside a detailed description.</dd>
+<dt><span class="doxyComputerOutput">authorsection</span></dt>
+<dd>Represents the author section of a page (only used for man pages). This is a separate section for man pages with a text like: <span class="doxyComputerOutput">Generated automatically by Doxygen for My Project from the source code.</span> This should not be misinterpreted with the Doxygen commands <a href="/web-doxygen/docs/pages/commands/#cmdauthor">\author</a> or <a href="/web-doxygen/docs/pages/commands/#cmdauthors">\authors</a> that generate an author paragraph inside a detailed description.</dd>
 </dl>
 
-The following generic element is possible for each page except the <code>concept</code> page:
+The following generic element is possible for each page except the <span class="doxyComputerOutput">concept</span> page:
 
 <dl class="doxyVariableList">
-<dt><code>memberdecl</code></dt>
+<dt><span class="doxyComputerOutput">memberdecl</span></dt>
 <dd>Represents the quick overview of members on a page (member declarations). This elements has child elements per type of member list. The possible child elements are not listed in detail in the document, but the name of the element should be a good indication of the type of members that the element represents.</dd>
 </dl>
 
-The following generic element is possible for each page except the <code>concept</code> and <code>module</code> page:
+The following generic element is possible for each page except the <span class="doxyComputerOutput">concept</span> and <span class="doxyComputerOutput">module</span> page:
 
 <dl class="doxyVariableList">
-<dt><code>memberdef</code></dt>
-<dd>Represents the detailed member list on a page (member definition). Like the <code>memberdecl</code> element, also this element has a number of possible child elements.</dd>
+<dt><span class="doxyComputerOutput">memberdef</span></dt>
+<dd>Represents the detailed member list on a page (member definition). Like the <span class="doxyComputerOutput">memberdecl</span> element, also this element has a number of possible child elements.</dd>
 </dl>
 
-The <code>class</code> page has the following specific elements:
+The <span class="doxyComputerOutput">class</span> page has the following specific elements:
 
 <dl class="doxyVariableList">
-<dt><code>includes</code></dt>
+<dt><span class="doxyComputerOutput">includes</span></dt>
 <dd>Represents the include file needed to obtain the definition for this class.</dd>
-<dt><code>inheritancegraph</code></dt>
+<dt><span class="doxyComputerOutput">inheritancegraph</span></dt>
 <dd>Represents the inheritance relations for a class. Note that the <a href="/web-doxygen/docs/pages/config/#cfg_class_graph">CLASS_GRAPH</a> option determines if the inheritance relation is a list of base and derived classes or a graph.</dd>
-<dt><code>collaborationgraph</code></dt>
+<dt><span class="doxyComputerOutput">collaborationgraph</span></dt>
 <dd>Represents the collaboration graph for a class.</dd>
-<dt><code>allmemberslink</code></dt>
+<dt><span class="doxyComputerOutput">allmemberslink</span></dt>
 <dd>Represents the link to the list of all members for a class.</dd>
-<dt><code>usedfiles</code></dt>
+<dt><span class="doxyComputerOutput">usedfiles</span></dt>
 <dd>Represents the list of files from which documentation for the class was extracted.</dd>
 </dl>
 
-The <code>concept</code> page has the following specific elements:
+The <span class="doxyComputerOutput">concept</span> page has the following specific elements:
 
 <dl class="doxyVariableList">
-<dt><code>includes</code></dt>
+<dt><span class="doxyComputerOutput">includes</span></dt>
 <dd>Represents the include file needed to obtain the definition for this class.</dd>
-<dt><code>definition</code></dt>
+<dt><span class="doxyComputerOutput">definition</span></dt>
 <dd>Represents the definition of the concept</dd>
 </dl>
 
-The <code>file</code> page has the following specific elements:
+The <span class="doxyComputerOutput">file</span> page has the following specific elements:
 
 <dl class="doxyVariableList">
-<dt><code>includes</code></dt>
+<dt><span class="doxyComputerOutput">includes</span></dt>
 <dd>Represents the list of #include statements contained in this file.</dd>
-<dt><code>includegraph</code></dt>
+<dt><span class="doxyComputerOutput">includegraph</span></dt>
 <dd>Represents the include dependency graph for the file.</dd>
-<dt><code>includedbygraph</code></dt>
+<dt><span class="doxyComputerOutput">includedbygraph</span></dt>
 <dd>Represents the included by dependency graph for the file.</dd>
-<dt><code>sourcelink</code></dt>
+<dt><span class="doxyComputerOutput">sourcelink</span></dt>
 <dd>Represents the link to the source code of this file.</dd>
 </dl>
 
-The <code>module</code> page has a specific <code>exportedmodules</code> element which represents the modules that are exported from this module.
+The <span class="doxyComputerOutput">module</span> page has a specific <span class="doxyComputerOutput">exportedmodules</span> element which represents the modules that are exported from this module.
 
-The <code>group</code> page has a specific <code>groupgraph</code> element which represents the graph showing the dependencies between groups.
+The <span class="doxyComputerOutput">group</span> page has a specific <span class="doxyComputerOutput">groupgraph</span> element which represents the graph showing the dependencies between groups.
 
-Similarly, the <code>directory</code> page has a specific <code>directorygraph</code> element which represents the graph showing the dependencies between the directories based on the #include relations of the files inside the directories.
+Similarly, the <span class="doxyComputerOutput">directory</span> page has a specific <span class="doxyComputerOutput">directorygraph</span> element which represents the graph showing the dependencies between the directories based on the #include relations of the files inside the directories.
 
-Some elements have a <code>visible</code> attribute which can be used to hide the fragment from the generated output, by setting the attribute's value to <code>no</code>. You can also use the value of a configuration option to determine the visibility, by using its name prefixed with a dollar sign, e.g.
+Some elements have a <span class="doxyComputerOutput">visible</span> attribute which can be used to hide the fragment from the generated output, by setting the attribute's value to <span class="doxyComputerOutput">no</span>. You can also use the value of a configuration option to determine the visibility, by using its name prefixed with a dollar sign, e.g.
 
 
 <pre><code>  ...
@@ -382,22 +382,22 @@ Some elements have a <code>visible</code> attribute which can be used to hide th
 </code></pre>
 
 
-This was mainly added for backward compatibility. Note that the <code>visible</code> attribute is just a hint for Doxygen. If no relevant information is available for a certain piece it is omitted even if it is set to <code>yes</code> (i.e. no empty sections are generated).
+This was mainly added for backward compatibility. Note that the <span class="doxyComputerOutput">visible</span> attribute is just a hint for Doxygen. If no relevant information is available for a certain piece it is omitted even if it is set to <span class="doxyComputerOutput">yes</span> (i.e. no empty sections are generated).
 <br/>
- Not all elements have a <code>visible</code> attribute shown in the layout file, though this attribute can be used anyway (the default is <code>visible="yes"</code>).
+ Not all elements have a <span class="doxyComputerOutput">visible</span> attribute shown in the layout file, though this attribute can be used anyway (the default is <span class="doxyComputerOutput">visible="yes"</span>).
 
-Some elements have a <code>title</code> attribute. This attribute can be used to customize the title Doxygen will use as a header for the piece.
+Some elements have a <span class="doxyComputerOutput">title</span> attribute. This attribute can be used to customize the title Doxygen will use as a header for the piece.
 
 Note that as of doxygen version 1.13.1 and layout version 2.0, Doxygen will insert defaults for elements that are missing in the user defined layout file. This allows for the introduction of new elements, without having to update the user defined layout files to make them appear. For older Doxygen or layout versions, missing elements are treated as being invisible.
 
 ## Using the XML output {#xmlgenerator}
 
 
-If the above two methods still do not provide enough flexibility, you can also use the XML output produced by Doxygen as a basis to generate the output you like. To do this set <a href="/web-doxygen/docs/pages/config/#cfg_generate_xml">GENERATE\_XML</a> to <code>YES</code>.
+If the above two methods still do not provide enough flexibility, you can also use the XML output produced by Doxygen as a basis to generate the output you like. To do this set <a href="/web-doxygen/docs/pages/config/#cfg_generate_xml">GENERATE\_XML</a> to <span class="doxyComputerOutput">YES</span>.
 
-The XML output consists of an index file named <code>index.xml</code> which lists all items extracted by Doxygen with references to the other XML files for details. The structure of the index is described by a schema file <code>index.xsd</code>. All other XML files are described by the schema file named <code>compound.xsd</code>. If you prefer one big XML file you can combine the index and the other files using the XSLT file <code>combine.xslt</code>.
+The XML output consists of an index file named <span class="doxyComputerOutput">index.xml</span> which lists all items extracted by Doxygen with references to the other XML files for details. The structure of the index is described by a schema file <span class="doxyComputerOutput">index.xsd</span>. All other XML files are described by the schema file named <span class="doxyComputerOutput">compound.xsd</span>. If you prefer one big XML file you can combine the index and the other files using the XSLT file <span class="doxyComputerOutput">combine.xslt</span>.
 
-You can use any XML parser to parse the files or use the one that can be found in the <code>addon/doxmlparser</code> directory of Doxygen's source distribution. Look at <code>addon/doxmlparser/doxmlparser/index.py</code> and <code>addon/doxmlparser/doxmlparser/compound.py</code> for the interface of the parser (it is generated by <a href="https://www.davekuhlman.org/generateDS.html">generatedDS</a> and follows the XML schema files <code>index.xsd</code> and <code>compound.xsd</code> found in <code>templates/xml</code>). Look in <code>addon/doxmlparser/examples</code> for examples.
+You can use any XML parser to parse the files or use the one that can be found in the <span class="doxyComputerOutput">addon/doxmlparser</span> directory of Doxygen's source distribution. Look at <span class="doxyComputerOutput">addon/doxmlparser/doxmlparser/index.py</span> and <span class="doxyComputerOutput">addon/doxmlparser/doxmlparser/compound.py</span> for the interface of the parser (it is generated by <a href="https://www.davekuhlman.org/generateDS.html">generatedDS</a> and follows the XML schema files <span class="doxyComputerOutput">index.xsd</span> and <span class="doxyComputerOutput">compound.xsd</span> found in <span class="doxyComputerOutput">templates/xml</span>). Look in <span class="doxyComputerOutput">addon/doxmlparser/examples</span> for examples.
 
 The advantage of using the doxmlparser is that it allows you to only read the index file into memory and then only those XML files that you implicitly load via navigating through the index. As a result this works even for very large projects where reading all XML files as one big DOM tree would not fit into memory.
 

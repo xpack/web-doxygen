@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM\_INDEX\_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a>
+Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

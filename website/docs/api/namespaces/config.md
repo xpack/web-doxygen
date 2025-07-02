@@ -1003,7 +1003,7 @@ Post processed the parsed data. Replaces raw string values by the actual values.
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">compareMode</td>
-<td class="doxyParamItemDescription">signals if we in Doxyfile compare (<code>-x</code> or <code>-x_noenv</code>) mode are or not. Influences setting of the default value and replacement of environment variables and CMake type replacement variables.</td>
+<td class="doxyParamItemDescription">signals if we in Doxyfile compare (<span class="doxyComputerOutput">-x</span> or <span class="doxyComputerOutput">-x_noenv</span>) mode are or not. Influences setting of the default value and replacement of environment variables and CMake type replacement variables.</td>
 </tr>
 </table>
 </dd>
@@ -1197,7 +1197,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c7
 
 
 
-Writes a template configuration to stream <em>t</em>. If <em>shortList</em> is <code>TRUE</code> the description of each configuration option will be omitted.
+Writes a template configuration to stream <em>t</em>. If <em>shortList</em> is <span class="doxyComputerOutput">TRUE</span> the description of each configuration option will be omitted.
 
 Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/config-h">config.h</a>, definition at line 2343 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 

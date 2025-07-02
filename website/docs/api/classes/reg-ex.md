@@ -147,7 +147,7 @@ Check if a given string matches this regular expression. <a href="#a45dcd4878848
 Class representing a regular expression.
 
 
-It has a similar API as <code>std::regex</code>, but is much faster (and also somewhat more limited).
+It has a similar API as <span class="doxyComputerOutput">std::regex</span>, but is much faster (and also somewhat more limited).
 
 Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
@@ -245,48 +245,48 @@ Two modes of matching are supported: RegEx and Wildcard
 The following special characters are supported in <a href="#a8c11e4a47acf40a6747e2709961acdf9aaa3c0312d71dacb7f28dd70f21d32ac0">Mode::RegEx</a> mode.
 
 <ul class="doxyList ">
-<li><code>c</code> matches character <code>c</code></li>
-<li><code>.</code> matches any character</li>
-<li><code>^</code> matches the start of the input</li>
-<li><code>$</code> matches the end of the input</li>
-<li><code>\&lt;</code> matches the start of a word</li>
-<li><code>\&gt;</code> matches the end of a word</li>
-<li><code>[]</code> matches a set of characters</li>
-<li><code>x*</code> matches a sequence of zero or more <code>x</code>'s</li>
-<li><code>x+</code> matches a sequence of one or more <code>x</code>'s</li>
-<li><code>x?</code> matches an optional <code>x</code></li>
-<li><code>(</code> matches the start of a capture range</li>
-<li><code>)</code> matches the ends a capture range</li>
-<li><code>\c</code> to escape a special character, such as <code>+</code>, <code>[</code>, <code>*</code>, <code>(</code>, etc.</li>
-<li><code>\t</code> matches a tab character</li>
-<li><code>\n</code> matches a newline character</li>
-<li><code>\r</code> matches a return character</li>
-<li><code>\s</code> matches any whitespace as defined by <code>std::isspace()</code></li>
-<li><code>\d</code> matches any digit as defined by <code>std::digit()</code></li>
-<li><code>\a</code> matches any alphabetical characters, same as <code>[a-z_A-Z\x80-\xFF]</code></li>
-<li><code>\w</code> matches any alpha numerical character, same as <code>[a-z_A-Z0-9\x80-\xFF]</code></li>
-<li><code>\xHH</code> matches a hexadecimal character, e.g. <code>\xA0</code> matches character code 160.</li>
+<li><span class="doxyComputerOutput">c</span> matches character <span class="doxyComputerOutput">c</span></li>
+<li><span class="doxyComputerOutput">.</span> matches any character</li>
+<li><span class="doxyComputerOutput">^</span> matches the start of the input</li>
+<li><span class="doxyComputerOutput">$</span> matches the end of the input</li>
+<li><span class="doxyComputerOutput">\&lt;</span> matches the start of a word</li>
+<li><span class="doxyComputerOutput">\&gt;</span> matches the end of a word</li>
+<li><span class="doxyComputerOutput">[]</span> matches a set of characters</li>
+<li><span class="doxyComputerOutput">x*</span> matches a sequence of zero or more <span class="doxyComputerOutput">x</span>'s</li>
+<li><span class="doxyComputerOutput">x+</span> matches a sequence of one or more <span class="doxyComputerOutput">x</span>'s</li>
+<li><span class="doxyComputerOutput">x?</span> matches an optional <span class="doxyComputerOutput">x</span></li>
+<li><span class="doxyComputerOutput">(</span> matches the start of a capture range</li>
+<li><span class="doxyComputerOutput">)</span> matches the ends a capture range</li>
+<li><span class="doxyComputerOutput">\c</span> to escape a special character, such as <span class="doxyComputerOutput">+</span>, <span class="doxyComputerOutput">[</span>, <span class="doxyComputerOutput">*</span>, <span class="doxyComputerOutput">(</span>, etc.</li>
+<li><span class="doxyComputerOutput">\t</span> matches a tab character</li>
+<li><span class="doxyComputerOutput">\n</span> matches a newline character</li>
+<li><span class="doxyComputerOutput">\r</span> matches a return character</li>
+<li><span class="doxyComputerOutput">\s</span> matches any whitespace as defined by <span class="doxyComputerOutput">std::isspace()</span></li>
+<li><span class="doxyComputerOutput">\d</span> matches any digit as defined by <span class="doxyComputerOutput">std::digit()</span></li>
+<li><span class="doxyComputerOutput">\a</span> matches any alphabetical characters, same as <span class="doxyComputerOutput">[a-z_A-Z\x80-\xFF]</span></li>
+<li><span class="doxyComputerOutput">\w</span> matches any alpha numerical character, same as <span class="doxyComputerOutput">[a-z_A-Z0-9\x80-\xFF]</span></li>
+<li><span class="doxyComputerOutput">\xHH</span> matches a hexadecimal character, e.g. <span class="doxyComputerOutput">\xA0</span> matches character code 160.</li>
 </ul>
 
-A character range can be used to match a character that falls inside a range (or set of ranges). Within the opening <code>\[</code> and closing <code>\]</code> brackets of a character ranges the following is supported:
+A character range can be used to match a character that falls inside a range (or set of ranges). Within the opening <span class="doxyComputerOutput">\[</span> and closing <span class="doxyComputerOutput">\]</span> brackets of a character ranges the following is supported:
 
 <ul class="doxyList ">
-<li><code>^</code> if at the start of the range, a character matches if it is <em>not</em> in the range, e.g. <code>[^\d]</code> matches any character not a digit</li>
-<li><code>-</code> when placed between 2 characters it defines a range from the first character to the second. any character that falls in the range will match, e.g. [0-9] matches the digit from 0 to 9.</li>
-<li><code>\s</code>, <code>\d</code>, <code>\a</code>, and <code>\w</code> as explained above.</li>
+<li><span class="doxyComputerOutput">^</span> if at the start of the range, a character matches if it is <em>not</em> in the range, e.g. <span class="doxyComputerOutput">[^\d]</span> matches any character not a digit</li>
+<li><span class="doxyComputerOutput">-</span> when placed between 2 characters it defines a range from the first character to the second. any character that falls in the range will match, e.g. [0-9] matches the digit from 0 to 9.</li>
+<li><span class="doxyComputerOutput">\s</span>, <span class="doxyComputerOutput">\d</span>, <span class="doxyComputerOutput">\a</span>, and <span class="doxyComputerOutput">\w</span> as explained above.</li>
 </ul>
 
 :::info
-that special characters <code>.</code>, <code>\*</code>, <code>?</code>, <code>$</code>, <code>+</code>, <code>\[</code> do not have a special meaning in a character range. <code>^</code> only has a special meaning as the first character.
+that special characters <span class="doxyComputerOutput">.</span>, <span class="doxyComputerOutput">\*</span>, <span class="doxyComputerOutput">?</span>, <span class="doxyComputerOutput">$</span>, <span class="doxyComputerOutput">+</span>, <span class="doxyComputerOutput">\[</span> do not have a special meaning in a character range. <span class="doxyComputerOutput">^</span> only has a special meaning as the first character.
 :::
 
 
 :::info
-that capture ranges cannot be nested, and <code>\*</code>, <code>+</code>, and <code>?</code> do not work on capture ranges. e.g. <code>(abd)?</code> is not valid. If multiple capture ranges are specified then some character has to be in between them, e.g. this does not work <code>(.\*)(a.\*)</code>, but this does <code>(.\*)a(.\*)</code>.
+that capture ranges cannot be nested, and <span class="doxyComputerOutput">\*</span>, <span class="doxyComputerOutput">+</span>, and <span class="doxyComputerOutput">?</span> do not work on capture ranges. e.g. <span class="doxyComputerOutput">(abd)?</span> is not valid. If multiple capture ranges are specified then some character has to be in between them, e.g. this does not work <span class="doxyComputerOutput">(.\*)(a.\*)</span>, but this does <span class="doxyComputerOutput">(.\*)a(.\*)</span>.
 :::
 
 
-In Wildcard mode <code>\*</code> is used to match any sequence of zero or more characters. The character <code>?</code> can be used to match an optional character. Character ranges are also supported, but other characters like <code>$</code> and <code>+</code> are just treated as literal characters.
+In Wildcard mode <span class="doxyComputerOutput">\*</span> is used to match any sequence of zero or more characters. The character <span class="doxyComputerOutput">?</span> can be used to match an optional character. Character ranges are also supported, but other characters like <span class="doxyComputerOutput">$</span> and <span class="doxyComputerOutput">+</span> are just treated as literal characters.
 
 Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
 

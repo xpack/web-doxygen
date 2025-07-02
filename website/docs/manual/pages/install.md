@@ -28,9 +28,9 @@ First go to the <a href="https://www.doxygen.org/download.html">download</a> pag
 If you downloaded the source distribution, you need at least the following to build the executable:
 
 <ul class="doxyList ">
-<li>The <a href="ftp://prep.ai.mit.edu/pub/gnu/">GNU</a> tools <code>flex</code>, <code>bison</code>, <code>libiconv</code> and <code>GNU make</code></li>
-<li>You need <code>python</code> (version 2.7 or higher, see <a href="https://www.python.org">https://www.python.org</a>).</li>
-<li>In order to generate a <code>Makefile</code> for your platform, you need <a href="https://cmake.org/">cmake</a> version 3.14 or later.</li>
+<li>The <a href="ftp://prep.ai.mit.edu/pub/gnu/">GNU</a> tools <span class="doxyComputerOutput">flex</span>, <span class="doxyComputerOutput">bison</span>, <span class="doxyComputerOutput">libiconv</span> and <span class="doxyComputerOutput">GNU make</span></li>
+<li>You need <span class="doxyComputerOutput">python</span> (version 2.7 or higher, see <a href="https://www.python.org">https://www.python.org</a>).</li>
+<li>In order to generate a <span class="doxyComputerOutput">Makefile</span> for your platform, you need <a href="https://cmake.org/">cmake</a> version 3.14 or later.</li>
 </ul>
 
 To take full advantage of Doxygen's features the following additional tools should be installed.
@@ -39,7 +39,7 @@ To take full advantage of Doxygen's features the following additional tools shou
 <li>Qt Software's GUI toolkit <a href="https://doc.qt.io/">Qt</a>  version 5.14 or higher (including Qt 6). This is needed to build the GUI front-end Doxywizard.</li>
 <li>A <code>{\LaTeX}</code> distribution: for instance <a href="https://tug.org/interest.html#free">TeX Live</a> This is needed for generating <code>{\LaTeX}</code>, Postscript, and PDF output.</li>
 <li><a href="https://www.graphviz.org/">the Graph visualization toolkit version 2.38 or higher</a> Needed for the include dependency graphs, the graphical inheritance graphs, and the collaboration graphs. If you compile graphviz yourself, make sure you do include freetype support (which requires the freetype library and header files), otherwise the graphs will not render proper text labels.</li>
-<li>For formulas in the HTML output (when MathJax is not used) or in case you do not wish to use <code>pdflatex</code>, the ghostscript interpreter is needed. You can find it at <a href="https://www.ghostscript.com/">www.ghostscript.com</a>.</li>
+<li>For formulas in the HTML output (when MathJax is not used) or in case you do not wish to use <span class="doxyComputerOutput">pdflatex</span>, the ghostscript interpreter is needed. You can find it at <a href="https://www.ghostscript.com/">www.ghostscript.com</a>.</li>
 </ul>
 
 For testing at least these additional dependencies should be available:
@@ -75,7 +75,7 @@ cd build
 <pre><code>cmake -G "Unix Makefiles" ..
 </code></pre>
 
-<code>cmake</code> tries to determine the platform you use, and will look for the requires tools. It will report if something is missing.
+<span class="doxyComputerOutput">cmake</span> tries to determine the platform you use, and will look for the requires tools. It will report if something is missing.
 
 If you have Qt-5.14 or higher installed and want to build the GUI front-end, you should enable it as follows:
 
@@ -96,7 +96,7 @@ For an overview of other configuration options use
 <pre><code>make
 </code></pre>
 
-The program should compile without problems and the binaries (<code>doxygen</code> and optionally <code>doxywizard</code>) should be available in the bin directory within the build directory.
+The program should compile without problems and the binaries (<span class="doxyComputerOutput">doxygen</span> and optionally <span class="doxyComputerOutput">doxywizard</span>) should be available in the bin directory within the build directory.
 
 </li>
 <li>Optional: Generate the user manual.
@@ -108,7 +108,7 @@ make docs
 
 To let Doxygen generate the HTML and PDF documentation.
 
-The HTML directory within the build directory will now contain the html documentation (just point a HTML browser to the file <code>index.html</code> in the html directory).
+The HTML directory within the build directory will now contain the html documentation (just point a HTML browser to the file <span class="doxyComputerOutput">index.html</span> in the html directory).
 
 </li>
 <li>Optional: static linking
@@ -141,14 +141,14 @@ and then build Doxygen with these options:
 ## Installing the binaries on UNIX {#install_bin_unix}
 
 
-After the compilation of the source code do a <code>make install</code> to install Doxygen. If you downloaded the binary distribution for Linux, type:
+After the compilation of the source code do a <span class="doxyComputerOutput">make install</span> to install Doxygen. If you downloaded the binary distribution for Linux, type:
 
 
 <pre><code>make install
 </code></pre>
 
 
-Binaries are installed into the directory <code>/usr/local/bin</code>, man pages in <code>/usr/local/man/man1</code> and documentation in <code>/usr/local/doc/doxygen</code> To change this just edit the Makefile.
+Binaries are installed into the directory <span class="doxyComputerOutput">/usr/local/bin</span>, man pages in <span class="doxyComputerOutput">/usr/local/man/man1</span> and documentation in <span class="doxyComputerOutput">/usr/local/doc/doxygen</span> To change this just edit the Makefile.
 
 :::info
 You need the GNU install tool for this to work (it is part of the coreutils package). Other install tools may put the binaries in the wrong directory!
@@ -166,9 +166,9 @@ At the moment only the community version of Visual Studio 2019 is tested, but ot
 
 Alternatively, you can compile Doxygen <a href="#install_src_unix">the UNIX way</a> using <a href="https://en.wikipedia.org/wiki/Cygwin">Cygwin</a> or <a href="https://www.mingw-w64.org/">MinGW</a>.
 
-The next step is to install modern versions of <code>bison</code> and <code>flex</code> (see <a href="https://sourceforge.net/projects/winflexbison/">https://sourceforge.net/projects/winflexbison/</a>. After installation and adding them to your <code>path</code> rename <code>win\_flex.exe</code> to <code>flex.exe</code> and <code>win\_bison.exe</code> to <code>bison.exe</code>)  Furthermore you have to install <code>python</code> (version 2.7 or higher, see <a href="https://www.python.org">https://www.python.org</a>). These packages are needed during the compilation process.
+The next step is to install modern versions of <span class="doxyComputerOutput">bison</span> and <span class="doxyComputerOutput">flex</span> (see <a href="https://sourceforge.net/projects/winflexbison/">https://sourceforge.net/projects/winflexbison/</a>. After installation and adding them to your <span class="doxyComputerOutput">path</span> rename <span class="doxyComputerOutput">win\_flex.exe</span> to <span class="doxyComputerOutput">flex.exe</span> and <span class="doxyComputerOutput">win\_bison.exe</span> to <span class="doxyComputerOutput">bison.exe</span>)  Furthermore you have to install <span class="doxyComputerOutput">python</span> (version 2.7 or higher, see <a href="https://www.python.org">https://www.python.org</a>). These packages are needed during the compilation process.
 
-Download Doxygen's source tarball and put it somewhere (e.g. use <code>c:\\tools</code>)
+Download Doxygen's source tarball and put it somewhere (e.g. use <span class="doxyComputerOutput">c:\\tools</span>)
 
 Now start a visual studio native command shell (for either x86 or x64) and type
 
@@ -178,11 +178,11 @@ tar zxvf doxygen-x.y.z.src.tar.gz
 </code></pre>
 
 
-to unpack the sources (you can obtain <code>tar</code> from e.g. <a href="https://gnuwin32.sourceforge.net/packages.html">https://gnuwin32.sourceforge.net/packages.html</a>). Alternatively you can use an unpack program, like 7-Zip (see <a href="https://www.7-zip.org/">https://www.7-zip.org/</a>) or use the built-in unpack feature of modern Windows systems).
+to unpack the sources (you can obtain <span class="doxyComputerOutput">tar</span> from e.g. <a href="https://gnuwin32.sourceforge.net/packages.html">https://gnuwin32.sourceforge.net/packages.html</a>). Alternatively you can use an unpack program, like 7-Zip (see <a href="https://www.7-zip.org/">https://www.7-zip.org/</a>) or use the built-in unpack feature of modern Windows systems).
 
 Now your environment is setup to generate the required project files for Doxygen.
 
-change directory to the <code>doxygen-x.y.z</code> directory, create and change to a build directory
+change directory to the <span class="doxyComputerOutput">doxygen-x.y.z</span> directory, create and change to a build directory
 
 
 <pre><code>mkdir build
@@ -212,7 +212,7 @@ Also read the next section for additional tools you may need to install to run D
 
 Doxygen comes as a self-installing archive, so installation is extremely simple. Just follow the dialogs.
 
-After installation it is recommended to also download and install GraphViz (version 2.38 or better is highly recommended). Doxygen can use the <code>dot</code> tool of the GraphViz package to render nicer diagrams, see the <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> option in the configuration file.
+After installation it is recommended to also download and install GraphViz (version 2.38 or better is highly recommended). Doxygen can use the <span class="doxyComputerOutput">dot</span> tool of the GraphViz package to render nicer diagrams, see the <a href="/web-doxygen/docs/pages/config/#cfg_have_dot">HAVE\_DOT</a> option in the configuration file.
 
 If you want to produce compressed HTML files (see <a href="/web-doxygen/docs/pages/config/#cfg_generate_htmlhelp">GENERATE\_HTMLHELP</a>) in the configuration file, then you need the Microsoft HTML help workshop. In the beginning of 2021 Microsoft took the original page, with a.o. the download links, offline the HTML help workshop was already many years in maintenance mode). You can download the HTML help workshop from the web archives at <a href="http://web.archive.org/web/20160201063255/http://download.microsoft.com/download/0/A/9/0A939EF6-E31C-430F-A3DF-DFAE7960D564/htmlhelp.exe">Installation executable</a>.
 

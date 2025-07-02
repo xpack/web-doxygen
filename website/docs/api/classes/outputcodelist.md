@@ -102,7 +102,7 @@ class OutputCodeList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Add a code generator to the list, using a syntax similar to std::make\_unique&lt;T&gt;() <a href="#a140918bf6841d5fa572a58a7a59eece9">More...</a>
+Add a code generator to the list, using a syntax similar to std::make_unique&lt;T&gt;() <a href="#a140918bf6841d5fa572a58a7a59eece9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

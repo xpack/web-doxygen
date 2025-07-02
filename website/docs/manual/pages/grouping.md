@@ -31,7 +31,7 @@ To define a group, you should put the <a href="/web-doxygen/docs/pages/commands/
 
 You can make an entity a member of a specific group by putting a <a href="/web-doxygen/docs/pages/commands/#cmdingroup">\\ingroup</a> command inside its documentation block.
 
-To avoid putting <a href="/web-doxygen/docs/pages/commands/#cmdingroup">\\ingroup</a> commands in the documentation for each member you can also group members together by the open marker <code>@{</code> before the group and the closing marker <code>@}</code> after the group. The markers can be put in the documentation of the group definition or in a separate documentation block.
+To avoid putting <a href="/web-doxygen/docs/pages/commands/#cmdingroup">\\ingroup</a> commands in the documentation for each member you can also group members together by the open marker <span class="doxyComputerOutput">@{</span> before the group and the closing marker <span class="doxyComputerOutput">@}</span> after the group. The markers can be put in the documentation of the group definition or in a separate documentation block.
 
 Groups themselves can also be nested using these grouping markers.
 
@@ -51,7 +51,7 @@ to add additional members to a group that is defined in more detail elsewhere.
 
 Note that compound entities (like classes, files and namespaces) can be put into multiple groups, but members (like variable, functions, typedefs and enums) can only be a member of one group (this restriction is in place to avoid ambiguous linking targets in case a member is not documented in the context of its class, namespace or file, but only visible as part of a group).
 
-Doxygen will put members into the group whose definition has the highest "priority": e.g. An explicit <a href="/web-doxygen/docs/pages/commands/#cmdingroup">\\ingroup</a> overrides an implicit grouping definition via <code>@{</code> <code>@}</code>. Conflicting grouping definitions with the same priority trigger a warning, unless one definition was for a member without any explicit documentation.
+Doxygen will put members into the group whose definition has the highest "priority": e.g. An explicit <a href="/web-doxygen/docs/pages/commands/#cmdingroup">\\ingroup</a> overrides an implicit grouping definition via <span class="doxyComputerOutput">@{</span> <span class="doxyComputerOutput">@}</span>. Conflicting grouping definitions with the same priority trigger a warning, unless one definition was for a member without any explicit documentation.
 
 The following example puts VarInA into group A and silently resolves the conflict for IntegerVariable by putting it into group IntVariables, because the second instance of IntegerVariable is undocumented:
 

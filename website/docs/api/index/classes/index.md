@@ -345,7 +345,7 @@ Citation-related data
 <a href="/web-doxygen/docs/api/classes/citeposition">CitePosition</a>
 </td>
 <td class="doxyTreeItemRight" align="left" valign="top">
-class that provide information about the p\[osition of a citation name
+class that provide information about the p[osition of a citation name
 </td>
 </tr>
 
@@ -3282,7 +3282,7 @@ A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a>
 <a href="/web-doxygen/docs/api/classes/htmlhelprecoder">HtmlHelpRecoder</a>
 </td>
 <td class="doxyTreeItemRight" align="left" valign="top">
-Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM\_INDEX\_ENCODING
+Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING
 </td>
 </tr>
 

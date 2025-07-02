@@ -43,7 +43,7 @@ is properly parsed as a function declaration, but
 </code></pre>
 
 
-is also seen as a function declaration with name <code>int</code>, because only the syntax is analyzed, not the semantics. If the redundant braces can be detected, as in
+is also seen as a function declaration with name <span class="doxyComputerOutput">int</span>, because only the syntax is analyzed, not the semantics. If the redundant braces can be detected, as in
 
 
 <pre><code>  int *(a[20]);
@@ -51,7 +51,7 @@ is also seen as a function declaration with name <code>int</code>, because only 
 
 
 then Doxygen will remove the braces and correctly parse the result.</li>
-<li>Not all names in code fragments that are included in the documentation are replaced by links (for instance when using <a href="/web-doxygen/docs/pages/config/#cfg_source_browser">SOURCE_BROWSER</a> = <code>YES</code>) and links to overloaded members may point to the wrong member. This also holds for the "Referenced by" list that is generated for each function.
+<li>Not all names in code fragments that are included in the documentation are replaced by links (for instance when using <a href="/web-doxygen/docs/pages/config/#cfg_source_browser">SOURCE_BROWSER</a> = <span class="doxyComputerOutput">YES</span>) and links to overloaded members may point to the wrong member. This also holds for the "Referenced by" list that is generated for each function.
 
 For a part this is because the code parser isn't smart enough at the moment. I'll try to improve this in the future. But even with these improvements not everything can be properly linked to the corresponding documentation, because of possible ambiguities or lack of information about the context in which the code fragment is found.</li>
 <li>It is not possible to insert a non-member function f in a class A using the <a href="/web-doxygen/docs/pages/commands/#cmdrelates">\relates</a> or <a href="/web-doxygen/docs/pages/commands/#cmdrelatesalso">\relatesalso</a> command, if class A already has a member with name f and the same argument list.</li>
@@ -73,16 +73,16 @@ If you are trying Doxygen let me know what you think of it (do you miss certain 
 
 Bugs are tracked in GitHub's <a href="https://github.com/doxygen/doxygen/issues">issue tracker</a>. Before submitting a <a href="https://github.com/doxygen/doxygen/issues/new">new bug</a>, first <a href="https://github.com/doxygen/doxygen/issues">search</a> through the database if the same bug has already been submitted by others. If you believe you have found a new bug, please <a href="https://github.com/doxygen/doxygen/issues/new">report it</a>.
 
-If you are unsure whether or not something is a bug, please ask help first (subscription is required) on the <a href="https://sourceforge.net/p/doxygen/mailman/">users mailing list</a> or at <a href="https://stackoverflow.com/questions/tagged/doxygen">Stack Overflow</a> using the <code>doxygen</code> label.
+If you are unsure whether or not something is a bug, please ask help first (subscription is required) on the <a href="https://sourceforge.net/p/doxygen/mailman/">users mailing list</a> or at <a href="https://stackoverflow.com/questions/tagged/doxygen">Stack Overflow</a> using the <span class="doxyComputerOutput">doxygen</span> label.
 
 If you send only a (vague) description of a bug, you are usually not very helpful and it will cost me much more time to figure out what you mean. In the worst-case your bug report may even be completely ignored by me, so always try to include the following information in your bug report:
 
 <ul class="doxyList ">
-<li>The version of Doxygen you are using (for instance 1.5.3, use <code>doxygen --version</code> if you are not sure or <code>doxygen --Version</code> for a bit more information).</li>
+<li>The version of Doxygen you are using (for instance 1.5.3, use <span class="doxyComputerOutput">doxygen --version</span> if you are not sure or <span class="doxyComputerOutput">doxygen --Version</span> for a bit more information).</li>
 <li>The name and version number of your operating system (for instance Ubuntu Linux 18.04 LTS)</li>
-<li>It is usually a good idea to send along the configuration file as well, but please use Doxygen with the <code>-s</code> flag while generating it to keep it small (use <code>doxygen -s -u [configName]</code> to strip the comments from an existing configuration file. Better even to use the <code>-x</code> or the <code>-x_noenv</code> flag on the used <code>[configName]</code> to get the differences between the used settings and the Doxygen default settings, so <code>doxygen -x [configName]</code>).</li>
+<li>It is usually a good idea to send along the configuration file as well, but please use Doxygen with the <span class="doxyComputerOutput">-s</span> flag while generating it to keep it small (use <span class="doxyComputerOutput">doxygen -s -u [configName]</span> to strip the comments from an existing configuration file. Better even to use the <span class="doxyComputerOutput">-x</span> or the <span class="doxyComputerOutput">-x_noenv</span> flag on the used <span class="doxyComputerOutput">[configName]</span> to get the differences between the used settings and the Doxygen default settings, so <span class="doxyComputerOutput">doxygen -x [configName]</span>).</li>
 <li>The easiest (and often the only) way for me to fix bugs is if you can attach a small example demonstrating the problem you have to the bug report, so I can reproduce it on my machine. Please make sure the example is valid source code (could potentially compile) and that the problem is really captured by the example (I often get examples that do not trigger the actual bug!). If you intend to send more than one file please zip or tar the files together into a single file for easier processing. Note that when reporting a new bug you'll get a chance to attach a file to it only <em>after</em> submitting the initial bug description.</li>
-<li>Before submitting, consider also running Doxygen with some debugging flags, run <code>doxygen -d</code> for all flags. The option <code>preprocessor</code> might give you hints on how Doxygen is understanding your input files.</li>
+<li>Before submitting, consider also running Doxygen with some debugging flags, run <span class="doxyComputerOutput">doxygen -d</span> for all flags. The option <span class="doxyComputerOutput">preprocessor</span> might give you hints on how Doxygen is understanding your input files.</li>
 </ul>
 
 You can (and are encouraged to) add a patch for a <a href="https://github.com/doxygen/doxygen/issues">reported bug</a>. If you do so, please use "issue #NUMBER TITLE" as a title in the <a href="https://github.com/doxygen/doxygen/compare">pull request form</a>, where "NUMBER" and "TITLE" refer to the associated issue on GitHub.

@@ -20,9 +20,9 @@ toc_max_heading_level: 4
 
 
 
-The executable <code>doxygen</code> is the main program that parses the sources and generates the documentation. See section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for more detailed usage information.
+The executable <span class="doxyComputerOutput">doxygen</span> is the main program that parses the sources and generates the documentation. See section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for more detailed usage information.
 
-Optionally, the executable <code>doxywizard</code> can be used, which is a <a href="/web-doxygen/docs/pages/doxywizard-usage">graphical front-end</a> for editing the configuration file that is used by Doxygen and for running Doxygen in a graphical environment. For macOS Doxywizard will be started by clicking on the Doxygen application icon.
+Optionally, the executable <span class="doxyComputerOutput">doxywizard</span> can be used, which is a <a href="/web-doxygen/docs/pages/doxywizard-usage">graphical front-end</a> for editing the configuration file that is used by Doxygen and for running Doxygen in a graphical environment. For macOS Doxywizard will be started by clicking on the Doxygen application icon.
 
 The following figure shows the relation between the tools and the flow of information between them (it looks complex but that's only because it tries to be complete):
 
@@ -41,20 +41,20 @@ First, assure that your programming/hardware description language has a reasonab
 
 Doxygen uses a configuration file to determine all of its settings. Each project should get its own configuration file. A project can consist of a single source file, but can also be an entire source tree that is recursively scanned.
 
-To simplify the creation of a configuration file, Doxygen can create a template configuration file for you. To do this call <code>doxygen</code> from the command line with the <code>-g</code> option:
+To simplify the creation of a configuration file, Doxygen can create a template configuration file for you. To do this call <span class="doxyComputerOutput">doxygen</span> from the command line with the <span class="doxyComputerOutput">-g</span> option:
 
 
 <pre><code>doxygen -g &lt;config-file&gt;
 </code></pre>
 
 
-where &lt;config-file&gt; is the name of the configuration file. If you omit the file name, a file named <code>Doxyfile</code> will be created. If a file with the name &lt;config-file&gt; already exists, Doxygen will rename it to &lt;config-file&gt;.bak before generating the configuration template. If you use <code>-</code> (i.e. the minus sign) as the file name then Doxygen will try to read the configuration file from standard input (<code>stdin</code>), which can be useful for scripting.
+where &lt;config-file&gt; is the name of the configuration file. If you omit the file name, a file named <span class="doxyComputerOutput">Doxyfile</span> will be created. If a file with the name &lt;config-file&gt; already exists, Doxygen will rename it to &lt;config-file&gt;.bak before generating the configuration template. If you use <span class="doxyComputerOutput">-</span> (i.e. the minus sign) as the file name then Doxygen will try to read the configuration file from standard input (<span class="doxyComputerOutput">stdin</span>), which can be useful for scripting.
 
 The configuration file has a format that is similar to that of a (simple) Makefile. It consists of a number of assignments (tags) of the form:
 
-<code>TAGNAME = VALUE</code> or 
+<span class="doxyComputerOutput">TAGNAME = VALUE</span> or 
 <br/>
- <code>TAGNAME = VALUE1 VALUE2 ... </code>
+ <span class="doxyComputerOutput">TAGNAME = VALUE1 VALUE2 ... </span>
 <br/>
 
 You can probably leave the values of most tags in a generated template configuration file to their default value. See section <a href="/web-doxygen/docs/pages/config">Configuration</a> for more details about the configuration file.
@@ -63,7 +63,7 @@ If you do not wish to edit the configuration file with a text editor, you should
 
 For a small project consisting of a few C and/or C++ source and header files, you can leave <a href="/web-doxygen/docs/pages/config/#cfg_input">INPUT</a> tag empty and Doxygen will search for sources in the current directory.
 
-If you have a larger project consisting of a source directory or tree you should assign the root directory or directories to the <a href="/web-doxygen/docs/pages/config/#cfg_input">INPUT</a> tag, and add one or more file patterns to the <a href="/web-doxygen/docs/pages/config/#cfg_file_patterns">FILE\_PATTERNS</a> tag (for instance <code>\*.cpp \*.h</code>). Only files that match one of the patterns will be parsed (if the patterns are omitted a list of typical patterns is used for the types of files Doxygen supports). For recursive parsing of a source tree you must set the <a href="/web-doxygen/docs/pages/config/#cfg_recursive">RECURSIVE</a> tag to <code>YES</code>. To further fine-tune the list of files that is parsed the <a href="/web-doxygen/docs/pages/config/#cfg_exclude">EXCLUDE</a> and <a href="/web-doxygen/docs/pages/config/#cfg_exclude_patterns">EXCLUDE\_PATTERNS</a> tags can be used. To omit all <code>test</code> directories from a source tree for instance, one could use:
+If you have a larger project consisting of a source directory or tree you should assign the root directory or directories to the <a href="/web-doxygen/docs/pages/config/#cfg_input">INPUT</a> tag, and add one or more file patterns to the <a href="/web-doxygen/docs/pages/config/#cfg_file_patterns">FILE\_PATTERNS</a> tag (for instance <span class="doxyComputerOutput">\*.cpp \*.h</span>). Only files that match one of the patterns will be parsed (if the patterns are omitted a list of typical patterns is used for the types of files Doxygen supports). For recursive parsing of a source tree you must set the <a href="/web-doxygen/docs/pages/config/#cfg_recursive">RECURSIVE</a> tag to <span class="doxyComputerOutput">YES</span>. To further fine-tune the list of files that is parsed the <a href="/web-doxygen/docs/pages/config/#cfg_exclude">EXCLUDE</a> and <a href="/web-doxygen/docs/pages/config/#cfg_exclude_patterns">EXCLUDE\_PATTERNS</a> tags can be used. To omit all <span class="doxyComputerOutput">test</span> directories from a source tree for instance, one could use:
 
 
 <pre><code>EXCLUDE_PATTERNS = */test/*
@@ -239,9 +239,9 @@ Please note that the above list might contain more items than that by default se
 
 Any extension that is not parsed can be set by adding it to <a href="/web-doxygen/docs/pages/config/#cfg_file_patterns">FILE\_PATTERNS</a> and when the appropriate <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> is set.
 
-<a id="extract_all"></a>If you start using Doxygen for an existing project (thus without any documentation that Doxygen is aware of), you can still get an idea of what the structure is and how the documented result would look like. To do so, you must set the <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> tag in the configuration file to <code>YES</code>. Then, Doxygen will pretend everything in your sources is documented. Please note that as a consequence warnings about undocumented members will not be generated as long as <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> is set to <code>YES</code>.
+<a id="extract_all"></a>If you start using Doxygen for an existing project (thus without any documentation that Doxygen is aware of), you can still get an idea of what the structure is and how the documented result would look like. To do so, you must set the <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> tag in the configuration file to <span class="doxyComputerOutput">YES</span>. Then, Doxygen will pretend everything in your sources is documented. Please note that as a consequence warnings about undocumented members will not be generated as long as <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> is set to <span class="doxyComputerOutput">YES</span>.
 
-To analyze an existing piece of software it is useful to cross-reference a (documented) entity with its definition in the source files. Doxygen will generate such cross-references if you set the <a href="/web-doxygen/docs/pages/config/#cfg_source_browser">SOURCE\_BROWSER</a> tag to <code>YES</code>. It can also include the sources directly into the documentation by setting <a href="/web-doxygen/docs/pages/config/#cfg_inline_sources">INLINE\_SOURCES</a> to <code>YES</code> (this can be handy for code reviews for instance).
+To analyze an existing piece of software it is useful to cross-reference a (documented) entity with its definition in the source files. Doxygen will generate such cross-references if you set the <a href="/web-doxygen/docs/pages/config/#cfg_source_browser">SOURCE\_BROWSER</a> tag to <span class="doxyComputerOutput">YES</span>. It can also include the sources directly into the documentation by setting <a href="/web-doxygen/docs/pages/config/#cfg_inline_sources">INLINE\_SOURCES</a> to <span class="doxyComputerOutput">YES</span> (this can be handy for code reviews for instance).
 
 ## Step 2: Running Doxygen {#step2}
 
@@ -253,29 +253,29 @@ To generate the documentation you can now enter:
 </code></pre>
 
 
-Depending on your settings Doxygen will create <code>html</code>, <code>rtf</code>, <code>latex</code>, <code>xml</code>, <code>man</code>, and/or docbook directories inside the output directory. As the names suggest these directories contain the generated documentation in HTML, RTF, <code>{\LaTeX}</code>, XML, Unix-Man page, and DocBook format.
+Depending on your settings Doxygen will create <span class="doxyComputerOutput">html</span>, <span class="doxyComputerOutput">rtf</span>, <span class="doxyComputerOutput">latex</span>, <span class="doxyComputerOutput">xml</span>, <span class="doxyComputerOutput">man</span>, and/or docbook directories inside the output directory. As the names suggest these directories contain the generated documentation in HTML, RTF, <code>{\LaTeX}</code>, XML, Unix-Man page, and DocBook format.
 
-The default output directory is the directory in which <code>doxygen</code> is started. The root directory to which the output is written can be changed using the <a href="/web-doxygen/docs/pages/config/#cfg_output_directory">OUTPUT\_DIRECTORY</a>. The format specific directory within the output directory can be selected using the <a href="/web-doxygen/docs/pages/config/#cfg_html_output">HTML\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_rtf_output">RTF\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_latex_output">LATEX\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_xml_output">XML\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_man_output">MAN\_OUTPUT</a>, and <a href="/web-doxygen/docs/pages/config/#cfg_docbook_output">DOCBOOK\_OUTPUT</a>. tags of the configuration file. If the output directory does not exist, <code>doxygen</code> will try to create it for you (but it will <em>not</em> try to create a whole path recursively, like <code>mkdir -p</code> does).
+The default output directory is the directory in which <span class="doxyComputerOutput">doxygen</span> is started. The root directory to which the output is written can be changed using the <a href="/web-doxygen/docs/pages/config/#cfg_output_directory">OUTPUT\_DIRECTORY</a>. The format specific directory within the output directory can be selected using the <a href="/web-doxygen/docs/pages/config/#cfg_html_output">HTML\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_rtf_output">RTF\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_latex_output">LATEX\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_xml_output">XML\_OUTPUT</a>, <a href="/web-doxygen/docs/pages/config/#cfg_man_output">MAN\_OUTPUT</a>, and <a href="/web-doxygen/docs/pages/config/#cfg_docbook_output">DOCBOOK\_OUTPUT</a>. tags of the configuration file. If the output directory does not exist, <span class="doxyComputerOutput">doxygen</span> will try to create it for you (but it will <em>not</em> try to create a whole path recursively, like <span class="doxyComputerOutput">mkdir -p</span> does).
 
 ### HTML output {#html_out}
 
 
-The generated HTML documentation can be viewed by pointing a HTML browser to the <code>index.html</code> file in the <code>html</code> directory. For the best results a browser that supports cascading style sheets (CSS) should be used (I'm using Mozilla Firefox, Google Chrome, Safari, and sometimes IE8, IE9, and Opera to test the generated output).
+The generated HTML documentation can be viewed by pointing a HTML browser to the <span class="doxyComputerOutput">index.html</span> file in the <span class="doxyComputerOutput">html</span> directory. For the best results a browser that supports cascading style sheets (CSS) should be used (I'm using Mozilla Firefox, Google Chrome, Safari, and sometimes IE8, IE9, and Opera to test the generated output).
 
 Some of the features the HTML section (such as <a href="/web-doxygen/docs/pages/config/#cfg_generate_treeview">GENERATE\_TREEVIEW</a> or the search engine) require a browser that supports Dynamic HTML and JavaScript enabled.
 
 ### LaTeX output {#latex_out}
 
 
-The generated <code>{\LaTeX}</code> documentation must first be compiled by a <code>{\LaTeX}</code> compiler (I use a recent teTeX distribution for Linux and macOS and MikTex for Windows). To simplify the process of compiling the generated documentation, <code>doxygen</code> writes a <code>Makefile</code> into the <code>latex</code> directory (on the Windows platform also a <code>make.bat</code> batch file is generated).
+The generated <code>{\LaTeX}</code> documentation must first be compiled by a <code>{\LaTeX}</code> compiler (I use a recent teTeX distribution for Linux and macOS and MikTex for Windows). To simplify the process of compiling the generated documentation, <span class="doxyComputerOutput">doxygen</span> writes a <span class="doxyComputerOutput">Makefile</span> into the <span class="doxyComputerOutput">latex</span> directory (on the Windows platform also a <span class="doxyComputerOutput">make.bat</span> batch file is generated).
 
-The contents and targets in the <code>Makefile</code> depend on the setting of <a href="/web-doxygen/docs/pages/config/#cfg_use_pdflatex">USE\_PDFLATEX</a>. If it is disabled (set to <code>NO</code>), then typing <code>make</code> in the <code>latex</code> directory a <code>dvi</code> file called <code>refman.dvi</code> will be generated. This file can then be viewed using <code>xdvi</code> or converted into a PostScript file <code>refman.ps</code> by typing <code>make ps</code> (this requires <code>dvips</code>).
+The contents and targets in the <span class="doxyComputerOutput">Makefile</span> depend on the setting of <a href="/web-doxygen/docs/pages/config/#cfg_use_pdflatex">USE\_PDFLATEX</a>. If it is disabled (set to <span class="doxyComputerOutput">NO</span>), then typing <span class="doxyComputerOutput">make</span> in the <span class="doxyComputerOutput">latex</span> directory a <span class="doxyComputerOutput">dvi</span> file called <span class="doxyComputerOutput">refman.dvi</span> will be generated. This file can then be viewed using <span class="doxyComputerOutput">xdvi</span> or converted into a PostScript file <span class="doxyComputerOutput">refman.ps</span> by typing <span class="doxyComputerOutput">make ps</span> (this requires <span class="doxyComputerOutput">dvips</span>).
 
-To put 2 pages on one physical page use <code>make ps\_2on1</code> instead. The resulting PostScript file can be send to a PostScript printer. If you do not have a PostScript printer, you can try to use ghostscript to convert PostScript into something your printer understands.
+To put 2 pages on one physical page use <span class="doxyComputerOutput">make ps\_2on1</span> instead. The resulting PostScript file can be send to a PostScript printer. If you do not have a PostScript printer, you can try to use ghostscript to convert PostScript into something your printer understands.
 
-Conversion to PDF is also possible if you have installed the ghostscript interpreter; just type <code>make pdf</code> (or <code>make pdf\_2on1</code>).
+Conversion to PDF is also possible if you have installed the ghostscript interpreter; just type <span class="doxyComputerOutput">make pdf</span> (or <span class="doxyComputerOutput">make pdf\_2on1</span>).
 
-To get the best results for PDF output you should set the <a href="/web-doxygen/docs/pages/config/#cfg_pdf_hyperlinks">PDF\_HYPERLINKS</a> and <a href="/web-doxygen/docs/pages/config/#cfg_use_pdflatex">USE\_PDFLATEX</a> tags to <code>YES</code>. In this case the <code>Makefile</code> will only contain a target to build <code>refman.pdf</code> directly.
+To get the best results for PDF output you should set the <a href="/web-doxygen/docs/pages/config/#cfg_pdf_hyperlinks">PDF\_HYPERLINKS</a> and <a href="/web-doxygen/docs/pages/config/#cfg_use_pdflatex">USE\_PDFLATEX</a> tags to <span class="doxyComputerOutput">YES</span>. In this case the <span class="doxyComputerOutput">Makefile</span> will only contain a target to build <span class="doxyComputerOutput">refman.pdf</span> directly.
 
 ### RTF output {#rtf_out}
 
@@ -285,18 +285,18 @@ Doxygen combines the RTF output to a single file called refman.rtf. This file is
 ### XML output {#xml_out}
 
 
-The XML output consists of a structured "dump" of the information gathered by Doxygen. Each compound (class/namespace/file/...) has its own XML file and there is also an index file called <code>index.xml</code>.
+The XML output consists of a structured "dump" of the information gathered by Doxygen. Each compound (class/namespace/file/...) has its own XML file and there is also an index file called <span class="doxyComputerOutput">index.xml</span>.
 
-A file called <code>combine.xslt</code> XSLT script is also generated and can be used to combine all XML files into a single file.
+A file called <span class="doxyComputerOutput">combine.xslt</span> XSLT script is also generated and can be used to combine all XML files into a single file.
 
-Doxygen also generates two XML schema files <code>index.xsd</code> (for the index file) and <code>compound.xsd</code> (for the compound files). This schema file describes the possible elements, their attributes and how they are structured, i.e. it the describes the grammar of the XML files and can be used for validation or to steer XSLT scripts.
+Doxygen also generates two XML schema files <span class="doxyComputerOutput">index.xsd</span> (for the index file) and <span class="doxyComputerOutput">compound.xsd</span> (for the compound files). This schema file describes the possible elements, their attributes and how they are structured, i.e. it the describes the grammar of the XML files and can be used for validation or to steer XSLT scripts.
 
-In the <code>addon/doxmlparser</code> directory you can find a parser library for reading the XML output produced by Doxygen in an incremental way (see <code>addon/doxmlparser/doxmparser/index.py</code> and <code>addon/doxmlparser/doxmlparser/compound.py</code> for the interface of the library)
+In the <span class="doxyComputerOutput">addon/doxmlparser</span> directory you can find a parser library for reading the XML output produced by Doxygen in an incremental way (see <span class="doxyComputerOutput">addon/doxmlparser/doxmparser/index.py</span> and <span class="doxyComputerOutput">addon/doxmlparser/doxmlparser/compound.py</span> for the interface of the library)
 
 ### Man page output {#man_out}
 
 
-The generated man pages can be viewed using the <code>man</code> program. You do need to make sure the man directory is in the man path (see the <code>MANPATH</code> environment variable). Note that there are some limitations to the capabilities of the man page format, so some information (like class diagrams, cross references and formulas) will be lost.
+The generated man pages can be viewed using the <span class="doxyComputerOutput">man</span> program. You do need to make sure the man directory is in the man path (see the <span class="doxyComputerOutput">MANPATH</span> environment variable). Note that there are some limitations to the capabilities of the man page format, so some information (like class diagrams, cross references and formulas) will be lost.
 
 ### DocBook output {#docbook_out}
 
@@ -308,7 +308,7 @@ Doxygen can also generate output in the <a href="https://docbook.org/">DocBook</
 
 Although documenting the sources is presented as step 3, in a new project this should of course be step 1. Here I assume you already have some code and you want Doxygen to generate a nice document describing the API and maybe the internals and some related design documentation as well.
 
-If the <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> option is set to <code>NO</code> in the configuration file (the default), then Doxygen will only generate documentation for <em>documented</em> entities. So how do you document these? For members, classes and namespaces there are basically two options:
+If the <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT\_ALL</a> option is set to <span class="doxyComputerOutput">NO</span> in the configuration file (the default), then Doxygen will only generate documentation for <em>documented</em> entities. So how do you document these? For members, classes and namespaces there are basically two options:
 
 <ol class="doxyList" type="1">
 <li>Place a <em>special</em> documentation block in front of the declaration or definition of the member, class or namespace. For file, class and namespace members it is also allowed to place the documentation directly after the member.
@@ -330,7 +330,7 @@ During parsing the following steps take place:
 <ul class="doxyList ">
 <li>Markdown formatting is replaced by corresponding HTML or special commands.</li>
 <li>The special commands inside the documentation are executed. See section <a href="/web-doxygen/docs/pages/commands">Special Commands</a> for an overview of all commands.</li>
-<li>If a line starts with some whitespace followed by one or more asterisks (<code>*</code>) and then optionally more whitespace, then all whitespace and asterisks are removed.</li>
+<li>If a line starts with some whitespace followed by one or more asterisks (<span class="doxyComputerOutput">*</span>) and then optionally more whitespace, then all whitespace and asterisks are removed.</li>
 <li>All resulting blank lines are treated as a paragraph separators. This saves you from placing new-paragraph commands yourself in order to make the generated documentation readable.</li>
 <li>Links are created for words corresponding to documented classes (unless the word is preceded by a %; then the word will not be linked and the % sign is removed).</li>
 <li>Links to members are created when certain patterns are found in the text. See section <a href="/web-doxygen/docs/pages/autolink">Automatic link generation</a> for more information on how the automatic link generation works.</li>

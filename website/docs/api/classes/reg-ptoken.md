@@ -408,11 +408,11 @@ The kind of token.
 Ranges per bit mask:
 
 <ul class="doxyList ">
-<li><code>255</code> from part of a range, except for <code>0</code> which is the End marker</li>
-<li><code>8191</code> built-in ranges</li>
-<li><code>12287</code> user defined ranges</li>
-<li><code>20479</code> special operations</li>
-<li><code>32768</code> literal character</li>
+<li><span class="doxyComputerOutput">255</span> from part of a range, except for <span class="doxyComputerOutput">0</span> which is the End marker</li>
+<li><span class="doxyComputerOutput">8191</span> built-in ranges</li>
+<li><span class="doxyComputerOutput">12287</span> user defined ranges</li>
+<li><span class="doxyComputerOutput">20479</span> special operations</li>
+<li><span class="doxyComputerOutput">32768</span> literal character</li>
 </ul>
 
 Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.

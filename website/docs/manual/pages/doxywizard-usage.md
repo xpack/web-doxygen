@@ -37,7 +37,7 @@ The user interface consists of the following sections:
 <dt><a href="#dw_menu">Menu options</a></dt>
 <dd>In the menu bar the following parts are available: <a href="#dw_menu_file">File menu</a>, <a href="#dw_menu_settings">Settings menu</a> and <a href="#dw_menu_help">Help menu</a>.</dd>
 <dt>Specify the working directory from which Doxygen will run</dt>
-<dd>Using the <code>Select...</code> button a directory can be selected. When Doxywizard is started with a configuration file or one is loaded using the open command (see: <a href="#dw_menu_file">File menu</a>) the directory of this settings file used as the working directory.</dd>
+<dd>Using the <span class="doxyComputerOutput">Select...</span> button a directory can be selected. When Doxywizard is started with a configuration file or one is loaded using the open command (see: <a href="#dw_menu_file">File menu</a>) the directory of this settings file used as the working directory.</dd>
 <dt>Configure Doxygen using the Wizard and/or Expert tab...</dt>
 <dd><dl class="doxyVariableList">
 <dt><a href="#dw_wizard">Wizard tab</a></dt>
@@ -105,7 +105,7 @@ The Output pane allows you to select what kinds of output Doxygen will produce. 
 ### Diagrams to generate {#dw_wizard_diagrams}
 
 
-Doxygen can produce a number of diagrams. Using the Diagrams pane you can select which ones to generate. For most diagrams the <code>dot</code> tool of the <a href="https://www.graphviz.org">GraphViz</a> package is needed. This needs to be installed separately.
+Doxygen can produce a number of diagrams. Using the Diagrams pane you can select which ones to generate. For most diagrams the <span class="doxyComputerOutput">dot</span> tool of the <a href="https://www.graphviz.org">GraphViz</a> package is needed. This needs to be installed separately.
 
 <figure>
   <img src="/web-doxygen/img/doxygen-manual/doxywizard_page4.png"></img>
@@ -134,7 +134,7 @@ The Expert tab is divided into a number of panes:
 The representation of the input field depends on the type of the configuration option.
 
 <ul class="doxyList ">
-<li>For each boolean option (those options that are answered with <code>YES</code> or <code>NO</code> in the configuration file) there is a check-box. A typical field looks like:
+<li>For each boolean option (those options that are answered with <span class="doxyComputerOutput">YES</span> or <span class="doxyComputerOutput">NO</span> in the configuration file) there is a check-box. A typical field looks like:
 <br/>
  
 <figure>
@@ -284,7 +284,7 @@ The run tab gives the possibility to run Doxygen with the given settings, see th
 <dt>Show configuration</dt>
 <dd>Clicking this button shows the configuration settings that are used when running Doxygen. The results will be shown in the "Output produced by Doxygen" pane in compact textual form.</dd>
 <dt>Condensed</dt>
-<dd>When checked the "Show configuration" button will only list the configuration settings that differ from the default settings (analogous to <code>doxygen -x</code>).</dd>
+<dd>When checked the "Show configuration" button will only list the configuration settings that differ from the default settings (analogous to <span class="doxyComputerOutput">doxygen -x</span>).</dd>
 <dt>Save Log ...</dt>
 <dd>Will save the information from the "Output produced by Doxygen" pane in a file as specified by the user.</dd>
 </dl>

@@ -742,7 +742,7 @@ substitute all occurrences of <em>src</em> in <em>s</em> by <em>dst</em> <a href
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-substitute all occurrences of <em>src</em> in <em>s</em> by <em>dst</em>, but skip each consecutive sequence of <em>src</em> where the number consecutive <em>src</em> matches <em>skip\_seq</em>; if <em>skip\_seq</em> is negative, skip any number of consecutive <em>src</em> <a href="#abae2b8bda3ecfa394b9c8befdd1608ce">More...</a>
+substitute all occurrences of <em>src</em> in <em>s</em> by <em>dst</em>, but skip each consecutive sequence of <em>src</em> where the number consecutive <em>src</em> matches <em>skip_seq</em>; if <em>skip_seq</em> is negative, skip any number of consecutive <em>src</em> <a href="#abae2b8bda3ecfa394b9c8befdd1608ce">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

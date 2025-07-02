@@ -510,7 +510,7 @@ initial value (for variables) <a href="#a021aa39b13484ebb8ed7663d200a171d">More.
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-include file (2 arg of \\class, must be unique) <a href="#a88c55fcdd65a52dce640136f18adccf2">More...</a>
+include file (2 arg of \class, must be unique) <a href="#a88c55fcdd65a52dce640136f18adccf2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -524,7 +524,7 @@ include file (2 arg of \\class, must be unique) <a href="#a88c55fcdd65a52dce6401
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-include name (3 arg of \\class) <a href="#a32626ce14eb253f6da64ed475419a4ac">More...</a>
+include name (3 arg of \class) <a href="#a32626ce14eb253f6da64ed475419a4ac">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1210,7 +1210,7 @@ parent node in the tree <a href="#add9f0a2163d2e5098b889de081642181">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-return the command name used to define GROUPDOC\_SEC <a href="#a31d0ff4d3bd0f73c3058cca85ec0e704">More...</a>
+return the command name used to define GROUPDOC_SEC <a href="#a31d0ff4d3bd0f73c3058cca85ec0e704">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

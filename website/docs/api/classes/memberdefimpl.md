@@ -5312,11 +5312,11 @@ Creates a new member definition.
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">p</td>
-<td class="doxyParamItemDescription">The protection context of the member, possible values are: <code>Public</code>, <code>Protected</code>, <code>Private</code>.</td>
+<td class="doxyParamItemDescription">The protection context of the member, possible values are: <span class="doxyComputerOutput">Public</span>, <span class="doxyComputerOutput">Protected</span>, <span class="doxyComputerOutput">Private</span>.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">v</td>
-<td class="doxyParamItemDescription">The degree of 'virtualness' of the member, possible values are: <code>Normal</code>, <code>Virtual</code>, <code>Pure</code>.</td>
+<td class="doxyParamItemDescription">The degree of 'virtualness' of the member, possible values are: <span class="doxyComputerOutput">Normal</span>, <span class="doxyComputerOutput">Virtual</span>, <span class="doxyComputerOutput">Pure</span>.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">s</td>

@@ -252,7 +252,7 @@ Adds a unsigned integer to the stream. <a href="#afe6fc03e6de6c855495af00f6f9b09
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a size\_t integer to the stream. <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">More...</a>
+Adds a size_t integer to the stream. <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

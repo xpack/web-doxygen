@@ -223,7 +223,7 @@ class ClassDefAliasImpl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if this is a local class definition, see EXTRACT\_LOCAL\_CLASSES. <a href="#aa0182439370e6edec85940f146165a6c">More...</a>
+Returns TRUE if this is a local class definition, see EXTRACT_LOCAL_CLASSES. <a href="#aa0182439370e6edec85940f146165a6c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2933,7 +2933,7 @@ References <a href="#ab1366e62ee0c1a0e917952eb62b3fcab">getCdAlias</a> and <a hr
 Returns the template parameter lists that form the template declaration of this class.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: <code>template&lt;class T&gt; class TC {} = 0;</code> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
 Definition at line 663 of file <a href="/web-doxygen/docs/api/files/src/classdef-cpp">classdef.cpp</a>.
 

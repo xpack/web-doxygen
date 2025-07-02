@@ -29,45 +29,45 @@ Please report any bugs or problems you find in the Perl Module backend or the Pe
 ## Usage {#using_perlmod_fmt}
 
 
-When the <a href="/web-doxygen/docs/pages/config/#cfg_generate_perlmod">GENERATE\_PERLMOD</a> tag is enabled in the <code>Doxyfile</code>, running Doxygen generates a number of files in the <code>perlmod/</code> subdirectory of your output directory. These files are the following:
+When the <a href="/web-doxygen/docs/pages/config/#cfg_generate_perlmod">GENERATE\_PERLMOD</a> tag is enabled in the <span class="doxyComputerOutput">Doxyfile</span>, running Doxygen generates a number of files in the <span class="doxyComputerOutput">perlmod/</span> subdirectory of your output directory. These files are the following:
 
 <ul class="doxyList ">
-<li><code>DoxyDocs.pm</code>: This is the Perl module that actually contains the documentation, in the Perl Module format described <a href="#doxydocs_format">below</a>.
+<li><span class="doxyComputerOutput">DoxyDocs.pm</span>: This is the Perl module that actually contains the documentation, in the Perl Module format described <a href="#doxydocs_format">below</a>.
 
 </li>
-<li><code>DoxyModel.pm</code>: This Perl module describes the structure of <code>DoxyDocs.pm</code>, independently of the actual documentation. See <a href="#doxymodel_format">below</a> for details.
+<li><span class="doxyComputerOutput">DoxyModel.pm</span>: This Perl module describes the structure of <span class="doxyComputerOutput">DoxyDocs.pm</span>, independently of the actual documentation. See <a href="#doxymodel_format">below</a> for details.
 
 </li>
-<li><code>doxyrules.make</code>: This file contains the make rules to build and clean the files that are generated from the <code>Doxyfile</code>. Also contains the paths to those files and other relevant information. This file is intended to be included by your own Makefile.
+<li><span class="doxyComputerOutput">doxyrules.make</span>: This file contains the make rules to build and clean the files that are generated from the <span class="doxyComputerOutput">Doxyfile</span>. Also contains the paths to those files and other relevant information. This file is intended to be included by your own Makefile.
 
 </li>
-<li><code>Makefile</code>: This is a simple Makefile including <code>doxyrules.make</code>.
+<li><span class="doxyComputerOutput">Makefile</span>: This is a simple Makefile including <span class="doxyComputerOutput">doxyrules.make</span>.
 
 </li>
 </ul>
 
-To make use of the documentation stored in <code>DoxyDocs.pm</code> you can use one of the default Perl Module-based generators provided by Doxygen (at the moment this includes the Perl Module-based <code>{\LaTeX}</code> generator, see <a href="#perlmod_latex">below</a>) or write your own customized generator. This should not be too hard if you have some knowledge of Perl and it's the main purpose of including the Perl Module backend in Doxygen. See <a href="#doxydocs_format">below</a> for details on how to do this.
+To make use of the documentation stored in <span class="doxyComputerOutput">DoxyDocs.pm</span> you can use one of the default Perl Module-based generators provided by Doxygen (at the moment this includes the Perl Module-based <code>{\LaTeX}</code> generator, see <a href="#perlmod_latex">below</a>) or write your own customized generator. This should not be too hard if you have some knowledge of Perl and it's the main purpose of including the Perl Module backend in Doxygen. See <a href="#doxydocs_format">below</a> for details on how to do this.
 
 ## Using the LaTeX generator {#perlmod_latex}
 
 
 The Perl Module-based <code>{\LaTeX}</code> generator is pretty experimental and incomplete at the moment, but you could find it useful nevertheless. It can generate documentation for functions, typedefs and variables within files and classes and can be customized quite a lot by redefining <code>{\TeX}</code> macros. However, there is still no documentation on how to do this.
 
-Setting the <a href="/web-doxygen/docs/pages/config/#cfg_perlmod_latex">PERLMOD\_LATEX</a> tag to <code>YES</code> in the <code>Doxyfile</code> enables the creation of some additional files in the <code>perlmod/</code> subdirectory of your output directory. These files contain the Perl scripts and <code>{\LaTeX}</code> code necessary to generate PDF and DVI output from the Perl Module output, using <code>pdflatex</code> and <code>latex</code> respectively. Rules to automate the use of these files are also added to <code>doxyrules.make</code> and the <code>Makefile</code>.
+Setting the <a href="/web-doxygen/docs/pages/config/#cfg_perlmod_latex">PERLMOD\_LATEX</a> tag to <span class="doxyComputerOutput">YES</span> in the <span class="doxyComputerOutput">Doxyfile</span> enables the creation of some additional files in the <span class="doxyComputerOutput">perlmod/</span> subdirectory of your output directory. These files contain the Perl scripts and <code>{\LaTeX}</code> code necessary to generate PDF and DVI output from the Perl Module output, using <span class="doxyComputerOutput">pdflatex</span> and <span class="doxyComputerOutput">latex</span> respectively. Rules to automate the use of these files are also added to <span class="doxyComputerOutput">doxyrules.make</span> and the <span class="doxyComputerOutput">Makefile</span>.
 
 The additional generated files are the following:
 
 <ul class="doxyList ">
-<li><code>doxylatex.pl</code>: This Perl script uses <code>DoxyDocs.pm</code> and <code>DoxyModel.pm</code> to generate <code>doxydocs.tex</code>, a <code>{\TeX}</code> file containing the documentation in a format that can be accessed by <code>{\LaTeX}</code> code. This file is not directly LaTeXable.
+<li><span class="doxyComputerOutput">doxylatex.pl</span>: This Perl script uses <span class="doxyComputerOutput">DoxyDocs.pm</span> and <span class="doxyComputerOutput">DoxyModel.pm</span> to generate <span class="doxyComputerOutput">doxydocs.tex</span>, a <code>{\TeX}</code> file containing the documentation in a format that can be accessed by <code>{\LaTeX}</code> code. This file is not directly LaTeXable.
 
 </li>
-<li><code>doxyformat.tex</code>: This file contains the <code>{\LaTeX}</code> code that transforms the documentation from doxydocs.tex into <code>{\LaTeX}</code> text suitable to be <code>{\LaTeX}</code>'ed and presented to the user.
+<li><span class="doxyComputerOutput">doxyformat.tex</span>: This file contains the <code>{\LaTeX}</code> code that transforms the documentation from doxydocs.tex into <code>{\LaTeX}</code> text suitable to be <code>{\LaTeX}</code>'ed and presented to the user.
 
 </li>
-<li><code>doxylatex-template.pl</code>: This Perl script uses <code>DoxyModel.pm</code> to generate <code>doxytemplate.tex</code>, a <code>{\TeX}</code> file defining default values for some macros. <code>doxytemplate.tex</code> is included by doxyformat.tex to avoid the need of explicitly defining some macros.
+<li><span class="doxyComputerOutput">doxylatex-template.pl</span>: This Perl script uses <span class="doxyComputerOutput">DoxyModel.pm</span> to generate <span class="doxyComputerOutput">doxytemplate.tex</span>, a <code>{\TeX}</code> file defining default values for some macros. <span class="doxyComputerOutput">doxytemplate.tex</span> is included by doxyformat.tex to avoid the need of explicitly defining some macros.
 
 </li>
-<li><code>doxylatex.tex</code>: This is a very simple <code>{\LaTeX}</code> document that loads some packages and includes <code>doxyformat.tex</code> and <code>doxydocs.tex</code>. This document is <code>{\LaTeX}</code>'ed to produce the PDF and DVI documentation by the rules added to <code>doxyrules.make</code>.
+<li><span class="doxyComputerOutput">doxylatex.tex</span>: This is a very simple <code>{\LaTeX}</code> document that loads some packages and includes <span class="doxyComputerOutput">doxyformat.tex</span> and <span class="doxyComputerOutput">doxydocs.tex</span>. This document is <code>{\LaTeX}</code>'ed to produce the PDF and DVI documentation by the rules added to <span class="doxyComputerOutput">doxyrules.make</span>.
 
 </li>
 </ul>
@@ -75,32 +75,32 @@ The additional generated files are the following:
 ### Creation of PDF and DVI output {#pm_pdf_gen}
 
 
-To try this you need to have installed <code>latex</code>, <code>pdflatex</code> and the packages used by <code>doxylatex.tex</code>.
+To try this you need to have installed <span class="doxyComputerOutput">latex</span>, <span class="doxyComputerOutput">pdflatex</span> and the packages used by <span class="doxyComputerOutput">doxylatex.tex</span>.
 
 <ol class="doxyList" type="1">
-<li>Update your <code>Doxyfile</code> to the latest version using:
+<li>Update your <span class="doxyComputerOutput">Doxyfile</span> to the latest version using:
 
 <pre><code>doxygen -u Doxyfile
 </code></pre>
 
 </li>
-<li>Set both <a href="/web-doxygen/docs/pages/config/#cfg_generate_perlmod">GENERATE_PERLMOD</a> and <a href="/web-doxygen/docs/pages/config/#cfg_perlmod_latex">PERLMOD_LATEX</a> tags to <code>YES</code> in your <code>Doxyfile</code>.
+<li>Set both <a href="/web-doxygen/docs/pages/config/#cfg_generate_perlmod">GENERATE_PERLMOD</a> and <a href="/web-doxygen/docs/pages/config/#cfg_perlmod_latex">PERLMOD_LATEX</a> tags to <span class="doxyComputerOutput">YES</span> in your <span class="doxyComputerOutput">Doxyfile</span>.
 
 </li>
-<li>Run Doxygen on your <code>Doxyfile</code>:
+<li>Run Doxygen on your <span class="doxyComputerOutput">Doxyfile</span>:
 
 <pre><code>doxygen Doxyfile
 </code></pre>
 
 </li>
-<li>A <code>perlmod/</code> subdirectory should have appeared in your output directory. Enter the <code>perlmod/</code> subdirectory and run:
+<li>A <span class="doxyComputerOutput">perlmod/</span> subdirectory should have appeared in your output directory. Enter the <span class="doxyComputerOutput">perlmod/</span> subdirectory and run:
 
 <pre><code>make pdf
 </code></pre>
 
 
 
-This should generate a <code>doxylatex.pdf</code> with the documentation in PDF format.
+This should generate a <span class="doxyComputerOutput">doxylatex.pdf</span> with the documentation in PDF format.
 
 </li>
 <li>Run:
@@ -110,7 +110,7 @@ This should generate a <code>doxylatex.pdf</code> with the documentation in PDF 
 
 
 
-This should generate a <code>doxylatex.dvi</code> with the documentation in DVI format.
+This should generate a <span class="doxyComputerOutput">doxylatex.dvi</span> with the documentation in DVI format.
 
 </li>
 </ol>
@@ -118,33 +118,33 @@ This should generate a <code>doxylatex.dvi</code> with the documentation in DVI 
 ## Documentation format {#doxydocs_format}
 
 
-The Perl Module documentation generated by Doxygen is stored in <code>DoxyDocs.pm</code>. This is a very simple Perl module that contains only two statements: an assignment to the variable <code>$doxydocs</code> and the customary <code>1;</code> statement which usually ends Perl modules. 
+The Perl Module documentation generated by Doxygen is stored in <span class="doxyComputerOutput">DoxyDocs.pm</span>. This is a very simple Perl module that contains only two statements: an assignment to the variable <span class="doxyComputerOutput">$doxydocs</span> and the customary <span class="doxyComputerOutput">1;</span> statement which usually ends Perl modules. 
 <br/>
- The documentation is stored in the variable <code>$doxydocs</code>, which can then be accessed by a Perl script using <code>DoxyDocs.pm</code>.
+ The documentation is stored in the variable <span class="doxyComputerOutput">$doxydocs</span>, which can then be accessed by a Perl script using <span class="doxyComputerOutput">DoxyDocs.pm</span>.
 
-<code>$doxydocs</code> contains a tree-like structure composed of three types of nodes: strings, hashes and lists.
+<span class="doxyComputerOutput">$doxydocs</span> contains a tree-like structure composed of three types of nodes: strings, hashes and lists.
 
 <ul class="doxyList ">
-<li><code>Strings</code>: These are normal Perl strings. They can be of any length can contain any character. Their semantics depends on their location within the tree. This type of node has no children.
+<li><span class="doxyComputerOutput">Strings</span>: These are normal Perl strings. They can be of any length can contain any character. Their semantics depends on their location within the tree. This type of node has no children.
 
 </li>
-<li><code>Hashes</code>: These are references to anonymous Perl hashes. A hash can have multiple fields, each with a different key. The value of a hash field can be a string, a hash or a list, and its semantics depends on the key of the hash field and the location of the hash within the tree. The values of the hash fields are the children of the node.
+<li><span class="doxyComputerOutput">Hashes</span>: These are references to anonymous Perl hashes. A hash can have multiple fields, each with a different key. The value of a hash field can be a string, a hash or a list, and its semantics depends on the key of the hash field and the location of the hash within the tree. The values of the hash fields are the children of the node.
 
 </li>
-<li><code>Lists</code>: These are references to anonymous Perl lists. A list has an undefined number of elements, which are the children of the node. Each element has the same type (string, hash or list) and the same semantics, depending on the location of the list within the tree.
+<li><span class="doxyComputerOutput">Lists</span>: These are references to anonymous Perl lists. A list has an undefined number of elements, which are the children of the node. Each element has the same type (string, hash or list) and the same semantics, depending on the location of the list within the tree.
 
 </li>
 </ul>
 
-As you can see, the documentation contained in <code>$doxydocs</code> does not present any special impediment to be processed by a simple Perl script. 
+As you can see, the documentation contained in <span class="doxyComputerOutput">$doxydocs</span> does not present any special impediment to be processed by a simple Perl script. 
 <br/>
 
 ## Data structure {#doxymodel_format}
 
 
-You might be interested in processing the documentation contained in <code>DoxyDocs.pm</code> without needing to take into account the semantics of each node of the documentation tree. For this purpose, Doxygen generates a <code>DoxyModel.pm</code> file which contains a data structure describing the type and children of each node in the documentation tree.
+You might be interested in processing the documentation contained in <span class="doxyComputerOutput">DoxyDocs.pm</span> without needing to take into account the semantics of each node of the documentation tree. For this purpose, Doxygen generates a <span class="doxyComputerOutput">DoxyModel.pm</span> file which contains a data structure describing the type and children of each node in the documentation tree.
 
-The rest of this section is to be written yet, but in the meantime you can look at the Perl scripts generated by Doxygen (such as <code>doxylatex.pl</code> or <code>doxytemplate-latex.pl</code>) to get an idea on how to use <code>DoxyModel.pm</code>.
+The rest of this section is to be written yet, but in the meantime you can look at the Perl scripts generated by Doxygen (such as <span class="doxyComputerOutput">doxylatex.pl</span> or <span class="doxyComputerOutput">doxytemplate-latex.pl</span>) to get an idea on how to use <span class="doxyComputerOutput">DoxyModel.pm</span>.
 
 ## Perl Module Tree Nodes {#perlmod_tree}
 

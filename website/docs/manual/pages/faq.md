@@ -47,8 +47,8 @@ You should use the <a href="/web-doxygen/docs/pages/commands/#cmdmainpage">\\mai
 Check the following:
 
 <ol class="doxyList" type="1">
-<li>Is your class / file / namespace documented? If not, it will not be extracted from the sources unless <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT_ALL</a> is set to <code>YES</code> in the configuration file.</li>
-<li>Are the members private? If so, you must set <a href="/web-doxygen/docs/pages/config/#cfg_extract_private">EXTRACT_PRIVATE</a> to <code>YES</code> to make them appear in the documentation.</li>
+<li>Is your class / file / namespace documented? If not, it will not be extracted from the sources unless <a href="/web-doxygen/docs/pages/config/#cfg_extract_all">EXTRACT_ALL</a> is set to <span class="doxyComputerOutput">YES</span> in the configuration file.</li>
+<li>Are the members private? If so, you must set <a href="/web-doxygen/docs/pages/config/#cfg_extract_private">EXTRACT_PRIVATE</a> to <span class="doxyComputerOutput">YES</span> to make them appear in the documentation.</li>
 <li>Is there a function macro in your class that does not end with a semicolon (e.g. MY_MACRO())? If so then you have to instruct Doxygen's preprocessor to remove it.
 
 This typically boils down to the following settings in the configuration file:
@@ -101,7 +101,7 @@ around the blocks that should be hidden and put:
 </code></pre>
 
 
-in the configuration file then all blocks should be skipped by Doxygen as long as <a href="/web-doxygen/docs/pages/config/#cfg_enable_preprocessing">ENABLE\_PREPROCESSING</a> is set to <code>YES</code>.
+in the configuration file then all blocks should be skipped by Doxygen as long as <a href="/web-doxygen/docs/pages/config/#cfg_enable_preprocessing">ENABLE\_PREPROCESSING</a> is set to <span class="doxyComputerOutput">YES</span>.
 
 ## How can I change what is after the #include in the class documentation? {#faq_code_inc}
 
@@ -122,7 +122,7 @@ To make Doxygen put
 <br/>
 
 <br/>
- <code> #include &lt;path/include.h&gt; </code>
+ <span class="doxyComputerOutput"> #include &lt;path/include.h&gt; </span>
 
 in the documentation of the class MyClassName regardless of the name of the actual header file in which the definition of MyClassName is contained.
 
@@ -139,7 +139,7 @@ If you want Doxygen to show that the include file should be included using quote
 ## How can I use tag files in combination with compressed HTML? {#faq_chm}
 
 
-If you want to refer from one compressed HTML file <code>a.chm</code> to another compressed HTML file called <code>b.chm</code>, the link in <code>a.chm</code> must have the following format:
+If you want to refer from one compressed HTML file <span class="doxyComputerOutput">a.chm</span> to another compressed HTML file called <span class="doxyComputerOutput">b.chm</span>, the link in <span class="doxyComputerOutput">a.chm</span> must have the following format:
 
 
 <pre><code>&lt;a href="mk:@MSITStore:b.chm::/file.html"&gt;
@@ -148,9 +148,9 @@ If you want to refer from one compressed HTML file <code>a.chm</code> to another
 
 Unfortunately this only works if both compressed HTML files are in the same directory.
 
-As a result you must rename the generated <code>index.chm</code> files for all projects into something unique and put all <code>.chm</code> files in one directory.
+As a result you must rename the generated <span class="doxyComputerOutput">index.chm</span> files for all projects into something unique and put all <span class="doxyComputerOutput">.chm</span> files in one directory.
 
-Suppose you have a project <em>a</em> referring to a project <em>b</em> using tag file <code>b.tag</code>, then you could rename the <code>index.chm</code> for project <em>a</em> into <code>a.chm</code> and the <code>index.chm</code> for project <em>b</em> into <code>b.chm</code>. In the configuration file for project <em>a</em> you write:
+Suppose you have a project <em>a</em> referring to a project <em>b</em> using tag file <span class="doxyComputerOutput">b.tag</span>, then you could rename the <span class="doxyComputerOutput">index.chm</span> for project <em>a</em> into <span class="doxyComputerOutput">a.chm</span> and the <span class="doxyComputerOutput">index.chm</span> for project <em>b</em> into <span class="doxyComputerOutput">b.chm</span>. In the configuration file for project <em>a</em> you write:
 
 
 <pre><code>TAGFILES = b.tag=mk:@MSITStore:b.chm::
@@ -160,12 +160,12 @@ Suppose you have a project <em>a</em> referring to a project <em>b</em> using ta
 ## I don't like the quick index that is put above each HTML page, what do I do? {#faq_html}
 
 
-You can disable the index by setting <a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE\_INDEX</a> to <code>YES</code>. Then you can put in your own header file by writing your own header and feed that to <a href="/web-doxygen/docs/pages/config/#cfg_html_header">HTML\_HEADER</a>.
+You can disable the index by setting <a href="/web-doxygen/docs/pages/config/#cfg_disable_index">DISABLE\_INDEX</a> to <span class="doxyComputerOutput">YES</span>. Then you can put in your own header file by writing your own header and feed that to <a href="/web-doxygen/docs/pages/config/#cfg_html_header">HTML\_HEADER</a>.
 
 ## The overall HTML output looks different, while I only wanted to use my own html header file {#faq_html_header}
 
 
-You probably forgot to include the stylesheet <code>doxygen.css</code> that Doxygen generates. You can include this by putting
+You probably forgot to include the stylesheet <span class="doxyComputerOutput">doxygen.css</span> that Doxygen generates. You can include this by putting
 
 
 <pre><code>&lt;LINK HREF="doxygen.css" REL="stylesheet" TYPE="text/css"&gt;
@@ -202,9 +202,9 @@ Put a % in front of the class name. Like this: %MyClass. Doxygen will then remov
 No, not as such; Doxygen needs to understand the structure of what it reads. If you don't mind spending some time on it, there are several options:
 
 <ul class="doxyList ">
-<li>If the grammar of X is close to C or C++, then it is probably not too hard to tweak <code>src/scanner.l</code> a bit so the language is supported. This is done for all other languages directly supported by Doxygen (i.e. Java, IDL, C#, PHP).</li>
+<li>If the grammar of X is close to C or C++, then it is probably not too hard to tweak <span class="doxyComputerOutput">src/scanner.l</span> a bit so the language is supported. This is done for all other languages directly supported by Doxygen (i.e. Java, IDL, C#, PHP).</li>
 <li>If the grammar of X is somewhat different than you can write an input filter that translates X into something similar enough to C/C++ for Doxygen to understand (this approach is taken for VB, Object Pascal, and JavaScript, see <a href="https://www.doxygen.org/helpers.html">https://www.doxygen.org/helpers.html</a>).</li>
-<li>If the grammar is completely different one could write a parser for X and write a backend that produces a similar syntax tree as is done by <code>src/scanner.l</code> (and also by <code>src/tagreader.cpp</code> while reading tag files).</li>
+<li>If the grammar is completely different one could write a parser for X and write a backend that produces a similar syntax tree as is done by <span class="doxyComputerOutput">src/scanner.l</span> (and also by <span class="doxyComputerOutput">src/tagreader.cpp</span> while reading tag files).</li>
 </ul>
 
 ## Help! I get the cryptic message "input buffer overflow, can't enlarge buffer because scanner uses REJECT" {#faq_lex}
@@ -223,7 +223,7 @@ Another way to work around this problem is to use the cmake command with the opt
 </div>
 
 
-where <code>&lt;size&gt;</code> is the new size of the input (<code>YY\_BUF\_SIZE</code>) and read (<code>YY\_READ\_BUF\_SIZE</code>) buffer. In case this option is not given the default value of 262144 (i.e. 256K) will be used.
+where <span class="doxyComputerOutput">&lt;size&gt;</span> is the new size of the input (<span class="doxyComputerOutput">YY\_BUF\_SIZE</span>) and read (<span class="doxyComputerOutput">YY\_READ\_BUF\_SIZE</span>) buffer. In case this option is not given the default value of 262144 (i.e. 256K) will be used.
 
 ## When running make in the latex directory I get "TeX capacity exceeded". Now what? {#faq_latex}
 
@@ -243,7 +243,7 @@ Please read <a href="/docs/pages/searching/">this</a> for hints on where to look
 ## Can I configure Doxygen from the command line? {#faq_cmdline}
 
 
-Not via command line options, but Doxygen can read from <code>stdin</code>, so you can pipe things through it. Here's an example how to override an option in a configuration file from the command line (assuming a UNIX like environment):
+Not via command line options, but Doxygen can read from <span class="doxyComputerOutput">stdin</span>, so you can pipe things through it. Here's an example how to override an option in a configuration file from the command line (assuming a UNIX like environment):
 
 
 <pre><code>( cat Doxyfile ; echo "PROJECT_NUMBER=1.0" ) | doxygen -
@@ -277,7 +277,7 @@ generator -&gt; gen
 </code></pre>
 
 
-At the time I was looking into <code>lex</code> and <code>yacc</code>, where a lot of things start with "yy", so the "y" slipped in and made things pronounceable (the proper pronouncement is Docs-ee-gen, so with a long "e").
+At the time I was looking into <span class="doxyComputerOutput">lex</span> and <span class="doxyComputerOutput">yacc</span>, where a lot of things start with "yy", so the "y" slipped in and made things pronounceable (the proper pronouncement is Docs-ee-gen, so with a long "e").
 
 ## What was the reason to develop Doxygen? {#faq_why}
 
@@ -287,7 +287,7 @@ I once wrote a GUI widget based on the Qt library (it is still available at <a h
 ## How to prevent interleaved output {#faq_bin}
 
 
-When redirecting all the console output of Doxygen, i.e. messages and warnings, this can be interleaved or in a non-expected order. The, technical, reason for this is that the <code>stdout</code> can be buffered. It is possible to overcome this by means of the <code>-b</code> of Doxygen, like e.g <code>doxygen -b &gt; out.txt 2&gt;&amp;1</code>. Note this might cost a little more time though.
+When redirecting all the console output of Doxygen, i.e. messages and warnings, this can be interleaved or in a non-expected order. The, technical, reason for this is that the <span class="doxyComputerOutput">stdout</span> can be buffered. It is possible to overcome this by means of the <span class="doxyComputerOutput">-b</span> of Doxygen, like e.g <span class="doxyComputerOutput">doxygen -b &gt; out.txt 2&gt;&amp;1</span>. Note this might cost a little more time though.
 
 Go to the <a href="/docs/pages/trouble/">next</a> section or return to the
  <a href="/docs/">index</a>.

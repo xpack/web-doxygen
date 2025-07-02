@@ -27,7 +27,7 @@ The next sections show how to generate links to the various documented entities 
 ## Links to web pages and mail addresses {#linkurl}
 
 
-Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<code>a</code>' tag:
+Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<span class="doxyComputerOutput">a</span>' tag:
 
 
 <pre><code>&lt;a href="linkURL"&gt;link text&lt;/a&gt;
@@ -44,7 +44,7 @@ All words in the documentation that correspond to a documented class and contain
 ## Links to files {#linkfile}
 
 
-All words that contain a dot (<code>.</code>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.
+All words that contain a dot (<span class="doxyComputerOutput">.</span>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.
 
 ## Links to functions {#linkfunc}
 
@@ -52,13 +52,13 @@ All words that contain a dot (<code>.</code>) that is not the last character in 
 Links to functions are created if one of the following patterns is encountered:
 
 <ol class="doxyList" type="1">
-<li><code>&lt;functionName&gt;"("&lt;argument-list&gt;")"</code></li>
-<li><code>&lt;functionName&gt;"()"</code></li>
-<li><code>"::"&lt;functionName&gt;</code></li>
-<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"</code></li>
-<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"&lt;modifiers&gt;</code></li>
-<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"()"</code></li>
-<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;</code></li>
+<li><span class="doxyComputerOutput">&lt;functionName&gt;"("&lt;argument-list&gt;")"</span></li>
+<li><span class="doxyComputerOutput">&lt;functionName&gt;"()"</span></li>
+<li><span class="doxyComputerOutput">"::"&lt;functionName&gt;</span></li>
+<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"</span></li>
+<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"&lt;modifiers&gt;</span></li>
+<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"()"</span></li>
+<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;</span></li>
 </ol>
 
 where n&gt;0.

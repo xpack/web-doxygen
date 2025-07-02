@@ -260,7 +260,7 @@ This field is used to access special tokens that occur prior to this token, but 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a new <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> void \*, by default. <a href="#a6d01fa6f4dff4a18568da6b789662f94">More...</a>
+Returns a new <a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> void *, by default. <a href="#a6d01fa6f4dff4a18568da6b789662f94">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

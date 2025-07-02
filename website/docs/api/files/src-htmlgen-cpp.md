@@ -102,7 +102,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Convert a set of LaTeX commands <code>\\(re)newcommand</code> to a form readable by MathJax LaTeX syntax: <a href="#a880152a6988921d6248a7640983bef9e">More...</a>
+Convert a set of LaTeX commands <span class="doxyComputerOutput">\(re)newcommand</span> to a form readable by MathJax LaTeX syntax: <a href="#a880152a6988921d6248a7640983bef9e">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -906,7 +906,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e4
 </div>
 <div class="doxyMemberDoc">
 
-Convert a set of LaTeX commands <code>\\(re)newcommand</code> to a form readable by MathJax LaTeX syntax:
+Convert a set of LaTeX commands <span class="doxyComputerOutput">\\(re)newcommand</span> to a form readable by MathJax LaTeX syntax:
 
 
 <div class="doxyProgramListing">
