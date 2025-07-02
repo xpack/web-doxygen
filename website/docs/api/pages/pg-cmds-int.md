@@ -51,9 +51,7 @@ This command is used to prevent endless recursive expansion of aliases. For an a
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.11.0
-</dd>
+<dd>doxygen version 1.11.0</dd>
 </dl>
 
 
@@ -67,9 +65,7 @@ This command has a similar syntax and function as the command <code>\\anchor</co
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.7
-</dd>
+<dd>doxygen version 1.9.7</dd>
 </dl>
 
 
@@ -85,9 +81,7 @@ Temporarily also as <code>@\_ilinebr</code> (doxygen version 1.8.14) and <code>\
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.8.19
-</dd>
+<dd>doxygen version 1.8.19</dd>
 </dl>
 
 
@@ -101,9 +95,7 @@ Internal doxygen command to reset the current filename in a documentation block 
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.5
-</dd>
+<dd>doxygen version 1.9.5</dd>
 </dl>
 
 
@@ -117,9 +109,7 @@ Internal doxygen command to reset the current line counter in a documentation bl
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.2
-</dd>
+<dd>doxygen version 1.9.2</dd>
 </dl>
 
 
@@ -133,9 +123,7 @@ This command has a similar syntax and function as the command <code>\\code</code
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.5
-</dd>
+<dd>doxygen version 1.9.5</dd>
 </dl>
 
 
@@ -149,9 +137,7 @@ Ends a block of text that was started with a <a href="#cmdicode">\\icode</a> com
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.5
-</dd>
+<dd>doxygen version 1.9.5</dd>
 </dl>
 
 
@@ -165,9 +151,7 @@ This command is to replace the Java documentation commands <code>{@literal .... 
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.3
-</dd>
+<dd>doxygen version 1.9.3</dd>
 </dl>
 
 
@@ -181,9 +165,7 @@ Ends a block of text that was started with a <a href="#cmdiliteral">\\iliteral</
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.3
-</dd>
+<dd>doxygen version 1.9.3</dd>
 </dl>
 
 
@@ -197,9 +179,7 @@ This command has a similar function as the command <code>\\verbatim</code>, but 
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.5
-</dd>
+<dd>doxygen version 1.9.5</dd>
 </dl>
 
 
@@ -213,9 +193,7 @@ Internal doxygen command to increase the section level by a given <code>amount</
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.11.0
-</dd>
+<dd>doxygen version 1.11.0</dd>
 </dl>
 
 
@@ -229,9 +207,7 @@ Internal doxygen command to suppress evaluation of whitespace to determine the i
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.12.0
-</dd>
+<dd>doxygen version 1.12.0</dd>
 </dl>
 
 
@@ -245,9 +221,7 @@ Internal doxygen command to prefix section labels references for <code>\\ref</co
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.11.0
-</dd>
+<dd>doxygen version 1.11.0</dd>
 </dl>
 
 
@@ -261,9 +235,7 @@ Ends a block of text that was started with a <a href="#cmdiskip">\\iskip</a> com
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.12.0
-</dd>
+<dd>doxygen version 1.12.0</dd>
 </dl>
 
 
@@ -277,9 +249,7 @@ Ends a block of text that was started with a <a href="#cmdiverbatim">\\iverbatim
 
 <dl class="doxySectionUser">
 <dt>Since</dt>
-<dd>
-doxygen version 1.9.5
-</dd>
+<dd>doxygen version 1.9.5</dd>
 </dl>
 
 

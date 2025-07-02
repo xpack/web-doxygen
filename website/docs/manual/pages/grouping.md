@@ -98,9 +98,8 @@ The priorities of grouping definitions are (from highest to lowest): <a href="/w
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
-<dd>
-<div class="doxyProgramListing">
-
+<dd><div class="doxyProgramListing">
+&nbsp;
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment">/** @defgroup group1 The First Group</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment"> *  This is the first group</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment"> *  @{</span></span></div>
@@ -189,7 +188,7 @@ The priorities of grouping definitions are (from highest to lowest): <a href="/w
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment">/** @} */</span><span class="doxyHighlight"> </span><span class="doxyHighlightComment">// end of group1</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span></div>
-
+&nbsp;
 </div>
 </dd>
 </dl>
@@ -232,9 +231,8 @@ If all members of a member group inside a class have the same type and protectio
 
 <dl class="doxySectionUser">
 <dt>Example:</dt>
-<dd>
-<div class="doxyProgramListing">
-
+<dd><div class="doxyProgramListing">
+&nbsp;
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment">/** A class. Details */</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightKeyword">class </span><span class="doxyHighlight">Memgrp_Test</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlight">{</span></span></div>
@@ -276,7 +274,7 @@ If all members of a member group inside a class have the same type and protectio
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightPreprocessor">#define B 2</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightKeywordType">void</span><span class="doxyHighlight"> glob_func();</span></span></div>
 <div class="doxyCodeLine"><span class="doxyNoLineNumber">&nbsp;</span><span class="doxyLineContent"><span class="doxyHighlightComment">//!@}</span></span></div>
-
+&nbsp;
 </div>
 </dd>
 </dl>

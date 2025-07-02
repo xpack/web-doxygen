@@ -697,9 +697,7 @@ This method writes footers of the files and closes them.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#aefada9c9b474d36ef9b771e2361c8dc1">initialize()</a>
-</dd>
+<dd><a href="#aefada9c9b474d36ef9b771e2361c8dc1">initialize()</a></dd>
 </dl>
 
 
@@ -811,9 +809,7 @@ This method opens the XML TOC file and writes headers of the files.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a6a8532316d47986f371459e6b09b9d71">finalize()</a>
-</dd>
+<dd><a href="#a6a8532316d47986f371459e6b09b9d71">finalize()</a></dd>
 </dl>
 
 

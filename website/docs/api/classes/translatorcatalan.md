@@ -11233,9 +11233,7 @@ Used as ansicpg for RTF fcharset
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a4f37c258f3fc29625807f0e9d51c8b61">trRTFansicp()</a> for a table of possible values.
-</dd>
+<dd><a href="#a4f37c258f3fc29625807f0e9d51c8b61">trRTFansicp()</a> for a table of possible values.</dd>
 </dl>
 
 

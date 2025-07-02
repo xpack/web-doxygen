@@ -5942,9 +5942,7 @@ Returns TRUE iff the definition is documented (which could be generated document
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="/web-doxygen/docs/api/classes/definitionmixin/#a0aaa947a6a57bf5c7698f8c854f7ebb9">hasUserDocumentation()</a>
-</dd>
+<dd><a href="/web-doxygen/docs/api/classes/definitionmixin/#a0aaa947a6a57bf5c7698f8c854f7ebb9">hasUserDocumentation()</a></dd>
 </dl>
 
 

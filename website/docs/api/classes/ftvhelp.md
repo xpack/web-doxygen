@@ -648,9 +648,7 @@ Decrease the level of the contents hierarchy. This will end the current sublist.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a86381415dd788cb4a1a0feac8d5316d8">incContentsDepth()</a>
-</dd>
+<dd><a href="#a86381415dd788cb4a1a0feac8d5316d8">incContentsDepth()</a></dd>
 </dl>
 
 
@@ -718,9 +716,7 @@ Finalizes the FTV help. This will finish and close the contents file (index.js).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialize()</a>
-</dd>
+<dd><a href="#a791c63d8c0dc72e7fedc4f17163dbfa3">initialize()</a></dd>
 </dl>
 
 
@@ -942,9 +938,7 @@ Increase the level of the contents hierarchy. This will start a new sublist in c
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a5949816300bc9d6a104dfd8305aa4e6f">decContentsDepth()</a>
-</dd>
+<dd><a href="#a5949816300bc9d6a104dfd8305aa4e6f">decContentsDepth()</a></dd>
 </dl>
 
 
@@ -998,9 +992,7 @@ This will create a folder tree view table of contents file (tree.js).
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize()</a>
-</dd>
+<dd><a href="#a595c544e98100ca8aa84aaea4ac28e9f">finalize()</a></dd>
 </dl>
 
 

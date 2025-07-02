@@ -1736,9 +1736,7 @@ Returns the attached std::ostream object.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream()</a>
-</dd>
+<dd><a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream()</a></dd>
 </dl>
 
 

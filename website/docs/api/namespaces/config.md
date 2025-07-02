@@ -939,9 +939,7 @@ Parses a configuration file with name <em>fn</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-TRUE if successful, FALSE if the file could not be opened or read.
-</dd>
+<dd>TRUE if successful, FALSE if the file could not be opened or read.</dd>
 </dl>
 
 

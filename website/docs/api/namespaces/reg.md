@@ -603,9 +603,7 @@ produces:
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e026c26f12d4e67">Ex::Ex()</a> for <a href="/web-doxygen/docs/api/namespaces/details">details</a> on the regular expression patterns.
-</dd>
+<dd><a href="/web-doxygen/docs/api/classes/reg/ex/#a54ed63c6793f8b7f2e026c26f12d4e67">Ex::Ex()</a> for <a href="/web-doxygen/docs/api/namespaces/details">details</a> on the regular expression patterns.</dd>
 </dl>
 
 

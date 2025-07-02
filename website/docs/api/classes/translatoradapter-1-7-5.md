@@ -529,9 +529,7 @@ This method is used to generate a warning message to signal the user that the tr
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a>
-</dd>
+<dd><a href="/web-doxygen/docs/api/classes/translatoradapterbase/#a71493b87a34d6e4c232e540734aba698">createUpdateNeededMessage()</a></dd>
 </dl>
 
 

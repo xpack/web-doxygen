@@ -9462,9 +9462,7 @@ Used as ansicpg for RTF fcharset
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a0d2b58167e0bae91118a059347e4923b">trRTFansicp()</a> for a table of possible values.
-</dd>
+<dd><a href="#a0d2b58167e0bae91118a059347e4923b">trRTFansicp()</a> for a table of possible values.</dd>
 </dl>
 
 

@@ -460,9 +460,7 @@ Checks if symbol <em>item</em> is accessible from within <em>scope</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
--1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.
-</dd>
+<dd>-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.</dd>
 </dl>
 
 
@@ -514,9 +512,7 @@ Check if symbol <em>item</em> is accessible from within <em>scope</em>, where it
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
--1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.
-</dd>
+<dd>-1 if <em>item</em> is not accessible or a number indicating how many scope levels up the nearest match was found.</dd>
 </dl>
 
 

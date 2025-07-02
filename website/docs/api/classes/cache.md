@@ -873,9 +873,7 @@ Finds a value in the cache given the corresponding <em>key</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-a pointer to the value or nullptr if the key is not found in the cache
-</dd>
+<dd>a pointer to the value or nullptr if the key is not found in the cache</dd>
 </dl>
 
 

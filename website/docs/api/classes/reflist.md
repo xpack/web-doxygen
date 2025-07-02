@@ -362,9 +362,7 @@ Adds a new item to the list.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-A unique id for this item.
-</dd>
+<dd>A unique id for this item.</dd>
 </dl>
 
 
@@ -468,9 +466,7 @@ Returns an item given it's id that is obtained with <a href="/web-doxygen/docs/a
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-A pointer to the todo item's structure.
-</dd>
+<dd>A pointer to the todo item's structure.</dd>
 </dl>
 
 

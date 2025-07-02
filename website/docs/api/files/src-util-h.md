@@ -4459,9 +4459,7 @@ Strip the direction part from docs and return it as a string in canonical form T
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-either "[in,out]", "[in]", or "[out]" or the empty string.
-</dd>
+<dd>either "[in,out]", "[in]", or "[out]" or the empty string.</dd>
 </dl>
 
 
@@ -5953,9 +5951,7 @@ Returns a fragment from scope <em>s</em>, starting at position <em>p</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the location of the fragment, or -1 if non is found.
-</dd>
+<dd>the location of the fragment, or -1 if non is found.</dd>
 </dl>
 
 
@@ -6735,9 +6731,7 @@ Returns the line number of the line following the line with the marker.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-routine <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a21f1fbe9d036424f63e72aad296ccfdc">extractBlock</a>
-</dd>
+<dd>routine <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a21f1fbe9d036424f63e72aad296ccfdc">extractBlock</a></dd>
 </dl>
 
 
@@ -7603,9 +7597,7 @@ Merges two scope parts together. The parts may (partially) overlap. Example1: <c
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the merged scope.
-</dd>
+<dd>the merged scope.</dd>
 </dl>
 
 
@@ -9238,9 +9230,7 @@ Returns an object to reference to given its name and context
 
 <dl class="doxySectionUser">
 <dt>Postcondition</dt>
-<dd>
-return value TRUE implies *resContext!=0 or *resMember!=0
-</dd>
+<dd>return value TRUE implies *resContext!=0 or *resMember!=0</dd>
 </dl>
 
 
@@ -10561,9 +10551,7 @@ Special version of <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-The stripped string.
-</dd>
+<dd>The stripped string.</dd>
 </dl>
 
 

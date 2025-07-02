@@ -865,9 +865,7 @@ converts the rectangles in a client site image map into a stream
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-TRUE if successful.
-</dd>
+<dd>TRUE if successful.</dd>
 </dl>
 
 

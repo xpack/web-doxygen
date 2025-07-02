@@ -635,9 +635,7 @@ Write a PlantUML compatible file.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-The name of the generated file.
-</dd>
+<dd>The name of the generated file.</dd>
 </dl>
 
 

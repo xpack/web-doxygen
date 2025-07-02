@@ -1454,9 +1454,7 @@ searches for definition of function memberName
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-<a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise
-</dd>
+<dd><a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise</dd>
 </dl>
 
 
@@ -1603,9 +1601,7 @@ searches for definition of a module (Namespace)
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-true, if module is found
-</dd>
+<dd>true, if module is found</dd>
 </dl>
 
 
@@ -1685,9 +1681,7 @@ searches for definition of a type
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-true, if type is found
-</dd>
+<dd>true, if type is found</dd>
 </dl>
 
 

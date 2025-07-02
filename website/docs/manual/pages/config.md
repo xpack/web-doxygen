@@ -452,12 +452,8 @@ The default value is: <code>NO</code>.
 <a id="cfg_javadoc_banner"></a></dd>
 <dt><code>JAVADOC_BANNER</code></dt>
 <dd>If the <code>JAVADOC_BANNER</code> tag is set to <code>YES</code> then Doxygen will interpret a line such as
-
-
 <pre><code>/***************
 </code></pre>
-
-
 as being the beginning of a Javadoc-style comment "banner". If set to <code>NO</code>, the Javadoc-style will behave just like regular comments and it will not be interpreted by Doxygen.
 The default value is: <code>NO</code>.
 <a id="cfg_qt_autobrief"></a></dd>
@@ -489,19 +485,11 @@ Minimum value: <code>1</code>, maximum value: <code>16</code>, default value: <c
 <a id="cfg_aliases"></a></dd>
 <dt><code>ALIASES</code></dt>
 <dd>This tag can be used to specify a number of aliases that act as commands in the documentation. An alias has the form:
-
-
 <pre><code> name=value
 </code></pre>
-
-
 For example adding
-
-
 <pre><code> "sideeffect=@par Side Effects:^^"
 </code></pre>
-
-
 will allow you to put the command <code>\sideeffect</code> (or <code>@sideeffect</code>) in the documentation, which will result in a user-defined paragraph with heading "Side Effects:". Note that you cannot put <a href="/web-doxygen/docs/pages/commands/#cmdn">\n</a>'s in the value part of an alias to insert newlines (in the resulting output). You can put <code>^^</code> in the value part of an alias to insert a newline as if a physical newline was in the original file. When you need a literal <code>{</code> or <code>}</code> or <code>,</code> in the value part of an alias you have to escape them by means of a backslash (<code>\</code>), this can lead to conflicts with the commands <code>\{</code> and <code>\}</code> for these it is advised to use the version <code>@{</code> and <code>@}</code> or use a double escape (<code>\\{</code> and <code>\\}</code>)
 <a id="cfg_optimize_output_for_c"></a></dd>
 <dt><code>OPTIMIZE_OUTPUT_FOR_C</code></dt>
@@ -540,12 +528,9 @@ The default value is: <code>YES</code>.
 <a id="cfg_toc_include_headings"></a></dd>
 <dt><code>TOC_INCLUDE_HEADINGS</code></dt>
 <dd>When the <code>TOC_INCLUDE_HEADINGS</code> tag is set to a non-zero value, all headings up to that level are automatically included in the table of contents, even if they do not have an id attribute.
-
 :::info
 This feature currently applies only to Markdown headings.
 :::
-
-
 Minimum value: <code>0</code>, maximum value: <code>99</code>, default value: <code>6</code>.
 This tag requires that the tag <a href="#cfg_markdown_support">MARKDOWN_SUPPORT</a> is set to <code>YES</code>. <a id="cfg_markdown_id_style"></a></dd>
 <dt><code>MARKDOWN_ID_STYLE</code></dt>
@@ -627,8 +612,6 @@ The default value is: <code>NO</code>.</dd>
 :::info
 This will also disable the warnings about undocumented members that are normally produced when <a href="#cfg_warnings">WARNINGS</a> is set to <code>YES</code>.
 :::
-
-
 The default value is: <code>NO</code>.
 <a id="cfg_extract_private"></a></dd>
 <dt><code>EXTRACT_PRIVATE</code></dt>
@@ -733,17 +716,12 @@ The default value is: <code>NO</code>.
 <a id="st"></a></dd>
 <dt><code>SORT_MEMBERS_CTORS_1ST</code></dt>
 <dd>If the <code>SORT_MEMBERS_CTORS_1ST</code> tag is set to <code>YES</code> then Doxygen will sort the (brief and detailed) documentation of class members so that constructors and destructors are listed first. If set to <code>NO</code> the constructors will appear in the respective orders defined by <a href="#cfg_sort_brief_docs">SORT_BRIEF_DOCS</a> and <a href="#cfg_sort_member_docs">SORT_MEMBER_DOCS</a>.
-
 :::info
 If <a href="#cfg_sort_brief_docs">SORT\_BRIEF\_DOCS</a> is set to <code>NO</code> this option is ignored for sorting brief member documentation.
 :::
-
-
 :::info
 If <a href="#cfg_sort_member_docs">SORT\_MEMBER\_DOCS</a> is set to <code>NO</code> this option is ignored for sorting detailed member documentation.
 :::
-
-
 The default value is: <code>NO</code>.
 <a id="cfg_sort_group_names"></a></dd>
 <dt><code>SORT_GROUP_NAMES</code></dt>
@@ -752,17 +730,12 @@ The default value is: <code>NO</code>.
 <a id="cfg_sort_by_scope_name"></a></dd>
 <dt><code>SORT_BY_SCOPE_NAME</code></dt>
 <dd>If the <code>SORT_BY_SCOPE_NAME</code> tag is set to <code>YES</code>, the class list will be sorted by fully-qualified names, including namespaces. If set to <code>NO</code>, the class list will be sorted only by class name, not including the namespace part.
-
 :::info
 This option is not very useful if <a href="#cfg_hide_scope_names">HIDE\_SCOPE\_NAMES</a> is set to <code>YES</code>.
 :::
-
-
 :::info
 This option applies only to the class list, not to the alphabetical list.
 :::
-
-
 The default value is: <code>NO</code>.
 <a id="cfg_strict_proto_matching"></a></dd>
 <dt><code>STRICT_PROTO_MATCHING</code></dt>
@@ -807,40 +780,24 @@ The default value is: <code>YES</code>.
 <dt><code>FILE_VERSION_FILTER</code></dt>
 <dd>The <code>FILE_VERSION_FILTER</code> tag can be used to specify a program or script that Doxygen should invoke to get the current version for each file (typically from the version control system). Doxygen will invoke the program by executing (via <code>popen()</code>) the command <code>command input-file</code>, where <code>command</code> is the value of the <code>FILE_VERSION_FILTER</code> tag, and <code>input-file</code> is the name of an input file provided by Doxygen. Whatever the program writes to standard output is used as the file version.
 <br/>
- 
 <br/>
  Example of using a shell script as a filter for Unix:
-
-
 <pre><code> FILE_VERSION_FILTER = "/bin/sh versionfilter.sh"
 </code></pre>
-
-
 <br/>
  Example shell script for CVS:
-
-
 <pre><code>#!/bin/sh
 cvs status $1 | sed -n 's/^[ \]*Working revision:[ \t]*\([0-9][0-9\.]*\).*/\1/p'
 </code></pre>
-
-
 <br/>
  Example shell script for Subversion:
-
-
 <pre><code>#!/bin/sh
 svn stat -v $1 | sed -n 's/^[ A-Z?\*|!]\{1,15\}/r/;s/ \{1,15\}/\/r/;s/ .*//p'
 </code></pre>
-
-
 <br/>
  Example filter for ClearCase:
-
-
 <pre><code>FILE_VERSION_FILTER = "cleartool desc -fmt \%Vn"
 </code></pre>
-
 <a id="cfg_layout_file"></a></dd>
 <dt><code>LAYOUT_FILE</code></dt>
 <dd>The <code>LAYOUT_FILE</code> tag can be used to specify a layout file which will be parsed by Doxygen. The layout file controls the global structure of the generated output files in an output format independent way. To create the layout file that represents Doxygen's defaults, run Doxygen with the <code>-l</code> option. You can optionally specify a file name after the option, if omitted <code>DoxygenLayout.xml</code> will be used as the name of the layout file. See also section <a href="/web-doxygen/docs/pages/customize/#layout">Changing the layout of pages</a> for information. 
@@ -852,23 +809,14 @@ Note that if you run Doxygen from a directory containing a file called <code>Dox
 <a id="cfg_external_tool_path"></a></dd>
 <dt><code>EXTERNAL_TOOL_PATH</code></dt>
 <dd>The <code>EXTERNAL_TOOL_PATH</code> tag can be used to extend the search path (PATH environment variable) so that external tools such as <code>latex</code> and <code>gs</code> can be found.
-
 :::info
 Directories specified with EXTERNAL\_TOOL\_PATH are added in front of the path already specified by the PATH variable, and are added in the order specified.
 :::
-
-
 :::info
 This option is particularly useful for macOS version 14 (Sonoma) and higher, when running Doxygen from Doxywizard, because in this case any user-defined changes to the PATH are ignored. A typical example on macOS is to set
-
-
 <pre><code>EXTERNAL_TOOL_PATH = /Library/TeX/texbin /usr/local/bin
 </code></pre>
-
-
 together with the standard path, the full search path used by doxygen when launching external tools will then become
-
-
 <pre><code>PATH=/Library/TeX/texbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 </code></pre>
 :::</dd>
@@ -923,30 +871,19 @@ The default value is: <code>NO</code>.
 <dd>The <code>WARN_FORMAT</code> tag determines the format of the warning messages that Doxygen can produce. The string should contain the <code>$file</code>, <code>$line</code>, and <code>$text</code> tags, which will be replaced by the file and line number from which the warning originated and the warning text. Optionally the format may contain <code>$version</code>, which will be replaced by the version of the file (if it could be obtained via <a href="#cfg_file_version_filter">FILE_VERSION_FILTER</a>)
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_warn_line_format">WARN_LINE_FORMAT</a>
-</dd>
+<dd><a href="#cfg_warn_line_format">WARN_LINE_FORMAT</a></dd>
 </dl>
-
-
 The default value is: <code>$file:$line: $text</code>.
 <a id="cfg_warn_line_format"></a></dd>
 <dt><code>WARN_LINE_FORMAT</code></dt>
 <dd>In the <code>$text</code> part of the <a href="#cfg_warn_format">WARN_FORMAT</a> command it is possible that a reference to a more specific place is given. To make it easier to jump to this place (outside of Doxygen) the user can define a custom "cut" / "paste" string.
 Example:
-
-
 <pre><code>  WARN_LINE_FORMAT = "'vi $file +$line'"
 </code></pre>
-
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_warn_format">WARN_FORMAT</a>
-</dd>
+<dd><a href="#cfg_warn_format">WARN_FORMAT</a></dd>
 </dl>
-
-
 The default value is: <code>at line $line of file $file</code>.
 <a id="cfg_warn_logfile"></a></dd>
 <dt><code>WARN_LOGFILE</code></dt>
@@ -964,31 +901,21 @@ The default value is: <code>at line $line of file $file</code>.
 :::info
 If this tag is empty the current directory is searched.
 :::
-
-
 <a id="cfg_input_encoding"></a></dd>
 <dt><code>INPUT_ENCODING</code></dt>
 <dd>This tag can be used to specify the character encoding of the source files that Doxygen parses. Internally Doxygen uses the UTF-8 encoding. Doxygen uses <code>libiconv</code> (or the <code>iconv</code> built into <code>libc</code>) for the transcoding. See <a href="https://www.gnu.org/software/libiconv/">the libiconv documentation</a> for the list of possible encodings.
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_input_file_encoding">INPUT_FILE_ENCODING</a>
-</dd>
+<dd><a href="#cfg_input_file_encoding">INPUT_FILE_ENCODING</a></dd>
 </dl>
-
-
 The default value is: <code>UTF-8</code>.
 <a id="cfg_input_file_encoding"></a></dd>
 <dt><code>INPUT_FILE_ENCODING</code></dt>
 <dd>This tag can be used to specify the character encoding of the source files that Doxygen parses. The <code>INPUT_FILE_ENCODING</code> tag can be used to specify character encoding on a per file pattern basis. Doxygen will compare the file name with each pattern and apply the encoding instead of the default <a href="#cfg_input_encoding">INPUT_ENCODING</a> if there is a match. The character encodings are a list of the form: pattern=encoding (like <code>*.php=ISO-8859-1</code>).
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_input_encoding">INPUT_ENCODING</a> for further information on supported encodings.
-</dd>
+<dd><a href="#cfg_input_encoding">INPUT_ENCODING</a> for further information on supported encodings.</dd>
 </dl>
-
-
 <a id="cfg_file_patterns"></a></dd>
 <dt><code>FILE_PATTERNS</code></dt>
 <dd>If the value of the <a href="#cfg_input">INPUT</a> tag contains directories, you can use the <code>FILE_PATTERNS</code> tag to specify one or more wildcard patterns (like <code>*.cpp</code> and <code>*.h</code>) to filter out the source-files in the directories.
@@ -1112,7 +1039,6 @@ This tag requires that the tag <a href="#cfg_source_browser">SOURCE_BROWSER</a> 
 <dd>If the <code>USE_HTAGS</code> tag is set to <code>YES</code> then the references to source code will point to the HTML generated by the <code>htags(1)</code> tool instead of Doxygen built-in source browser. The <code>htags</code> tool is part of GNU's global source tagging system (see <a href="https://www.gnu.org/software/global/global.html">https://www.gnu.org/software/global/global.html</a>). You will need version 4.8.6 or higher. 
 <br/>
  To use it do the following:
-
 <ol class="doxyList" type="1">
 <li>Install the latest version of <code>global</code></li>
 <li>Enable <a href="#cfg_source_browser">SOURCE_BROWSER</a> and <code>USE_HTAGS</code> in the configuration file</li>
@@ -1127,15 +1053,10 @@ The default value is: <code>NO</code>.
 This tag requires that the tag <a href="#cfg_source_browser">SOURCE_BROWSER</a> is set to <code>YES</code>. <a id="cfg_verbatim_headers"></a></dd>
 <dt><code>VERBATIM_HEADERS</code></dt>
 <dd>If the <code>VERBATIM_HEADERS</code> tag is set the <code>YES</code> then Doxygen will generate a verbatim copy of the header file for each class for which an include is specified. Set to <code>NO</code> to disable this.
-
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-Section <a href="/web-doxygen/docs/pages/commands/#cmdclass">\class</a>.
-</dd>
+<dd>Section <a href="/web-doxygen/docs/pages/commands/#cmdclass">\class</a>.</dd>
 </dl>
-
-
 The default value is: <code>YES</code>.
 <a id="cfg_clang_assisted_parsing"></a></dd>
 <dt><code>CLANG_ASSISTED_PARSING</code></dt>
@@ -1143,8 +1064,6 @@ The default value is: <code>YES</code>.
 :::info
 The availability of this option depends on whether or not Doxygen was generated with the <code>-Duse\_libclang=ON</code> option for CMake.
 :::
-
-
 The default value is: <code>NO</code>.
 <a id="cfg_clang_add_inc_paths"></a></dd>
 <dt><code>CLANG_ADD_INC_PATHS</code></dt>
@@ -1198,17 +1117,12 @@ This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is
 <dd>The <code>HTML_HEADER</code> tag can be used to specify a user-defined HTML header file for each generated HTML page. If the tag is left blank Doxygen will generate a standard header. 
 <br/>
  To get valid HTML the header file that includes any scripts and style sheets that Doxygen needs, which is dependent on the configuration options used (e.g. the setting <a href="#cfg_generate_treeview">GENERATE_TREEVIEW</a>). It is highly recommended to start with a default header using
-
-
 <pre><code>doxygen -w html new_header.html new_footer.html new_stylesheet.css YourConfigFile
 </code></pre>
-
-
 and then modify the file <code>new_header.html</code>.
 See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for information on how to generate the default header that Doxygen normally uses.
 :::info
 The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following markers have a special meaning inside the header and footer:
-
 <dl class="doxyVariableList">
 <dt><code>$title</code></dt>
 <dd>will be replaced with the title of the page.</dd>
@@ -1252,11 +1166,7 @@ The header is subject to change so you typically have to regenerate the default 
 <dd>will be replaced with a path as required by <a href="#cfg_generate_treeview">GENERATE_TREEVIEW</a></dd>
 </dl>
 :::
-
-
 To cope with differences in the layout of the header and footer that depend on configuration settings, the header can also contain special blocks that will be copied to the output or skipped depending on the configuration. Such blocks have the following form:
-
-
 <pre><code> &lt;!--BEGIN BLOCKNAME--&gt;
  Some context copied when condition BLOCKNAME holds
  &lt;!--END BLOCKNAME--&gt;
@@ -1264,10 +1174,7 @@ To cope with differences in the layout of the header and footer that depend on c
  Some context copied when condition BLOCKNAME does not hold
  &lt;!--END !BLOCKNAME--&gt;
 </code></pre>
-
-
 The following block names are supported:
-
 <dl class="doxyVariableList">
 <dt><code>DISABLE_INDEX</code></dt>
 <dd>Content within this block is copied to the output if the <a href="#cfg_disable_index">DISABLE_INDEX</a> option is enabled (so when the index is disabled).</dd>
@@ -1300,27 +1207,19 @@ See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</
 :::info
 It is recommended to use <a href="#cfg_html_extra_stylesheet">HTML\_EXTRA\_STYLESHEET</a> instead of this tag, as it is more robust and this tag (<code>HTML\_STYLESHEET</code>) will in the future become obsolete.
 :::
-
-
 This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is set to <code>YES</code>. <a id="cfg_html_extra_stylesheet"></a></dd>
 <dt><code>HTML_EXTRA_STYLESHEET</code></dt>
 <dd>The <code>HTML_EXTRA_STYLESHEET</code> tag can be used to specify additional user-defined cascading style sheets that are included after the standard style sheets created by Doxygen. Using this option one can overrule certain style aspects. This is preferred over using <a href="#cfg_html_stylesheet">HTML_STYLESHEET</a> since it does not replace the standard style sheet and is therefore more robust against future updates. Doxygen will copy the style sheet files to the output directory.
-
 :::info
 The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).
 :::
-
-
 :::info
 Since the styling of scrollbars can currently not be overruled in Webkit/Chromium, the styling will be left out of the default doxygen.css if one or more extra stylesheets have been specified. So if scrollbar customization is desired it has to be added explicitly. Here is an example style sheet that gives the contents area a fixed width:
-
-
 <pre><code>body {
         background-color: #CCC;
         color: black;
         margin: 0;
 }
-
 div.contents {
         margin-bottom: 10px;
         padding: 12px;
@@ -1330,22 +1229,17 @@ div.contents {
         background-color: white;
         border-radius: 8px;
 }
-
 #titlearea {
         background-color: white;
 }
-
 hr.footer {
         display: none;
 }
-
 .footer {
         background-color: #AAA;
 }
 </code></pre>
 :::
-
-
 This tag requires that the tag <a href="#cfg_generate_html">GENERATE_HTML</a> is set to <code>YES</code>. <a id="cfg_html_extra_files"></a></dd>
 <dt><code>HTML_EXTRA_FILES</code></dt>
 <dd>The <code>HTML_EXTRA_FILES</code> tag can be used to specify one or more extra images or other source files which should be copied to the HTML output directory. Note that these files will be copied to the base HTML output directory. Use the <code>$relpath^</code> marker in the <a href="#cfg_html_header">HTML_HEADER</a> and/or <a href="#cfg_html_footer">HTML_FOOTER</a> files to load these files. In the <a href="#cfg_html_stylesheet">HTML_STYLESHEET</a> file, use the file name only. Also note that the files will be copied as-is; there are no commands or markers available.
@@ -1552,7 +1446,6 @@ This tag requires that the tag <a href="#cfg_use_mathjax">USE_MATHJAX</a> is set
 <dt><code>MATHJAX_RELPATH</code></dt>
 <dd>When MathJax is enabled you need to specify the location relative to the HTML output directory using the <code>MATHJAX_RELPATH</code> option. The destination directory should contain the <code>MathJax.js</code> script. For instance, if the <code>mathjax</code> directory is located at the same level as the HTML output directory, then <code>MATHJAX_RELPATH</code> should be <code>../mathjax</code>. The default value points to the MathJax Content Delivery Network so you can quickly see the result without installing MathJax. However, it is strongly recommended to install a local copy of MathJax from <a href="https://www.mathjax.org">https://www.mathjax.org</a> before deployment.
 The default value is:
-
 <ul class="doxyList ">
 <li>in case of MathJax version 2: <a href="https://cdn.jsdelivr.net/npm/mathjax@2">https://cdn.jsdelivr.net/npm/mathjax@2</a></li>
 <li>in case of MathJax version 3: <a href="https://cdn.jsdelivr.net/npm/mathjax@3">https://cdn.jsdelivr.net/npm/mathjax@3</a></li>
@@ -1560,38 +1453,24 @@ The default value is:
 This tag requires that the tag <a href="#cfg_use_mathjax">USE_MATHJAX</a> is set to <code>YES</code>. <a id="cfg_mathjax_extensions"></a></dd>
 <dt><code>MATHJAX_EXTENSIONS</code></dt>
 <dd>The <code>MATHJAX_EXTENSIONS</code> tag can be used to specify one or more MathJax extension names that should be enabled during MathJax rendering. For example for MathJax version 2 (see <a href="https://docs.mathjax.org/en/v2.7-latest/tex.html#tex-and-latex-extensions">https://docs.mathjax.org/en/v2.7-latest/tex.html#tex-and-latex-extensions</a>):
-
-
 <pre><code>MATHJAX_EXTENSIONS     = TeX/AMSmath TeX/AMSsymbols
 </code></pre>
-
-
 For example for MathJax version 3 (see <a href="http://docs.mathjax.org/en/latest/input/tex/extensions/index.html">http://docs.mathjax.org/en/latest/input/tex/extensions/index.html</a>):
-
-
 <pre><code>MATHJAX_EXTENSIONS     = ams
 </code></pre>
-
 This tag requires that the tag <a href="#cfg_use_mathjax">USE_MATHJAX</a> is set to <code>YES</code>. <a id="cfg_mathjax_codefile"></a></dd>
 <dt><code>MATHJAX_CODEFILE</code></dt>
 <dd>The <code>MATHJAX_CODEFILE</code> tag can be used to specify a file with JavaScript pieces of code that will be used on startup of the MathJax code. See <a href="http://docs.mathjax.org/en/v2.7-latest/output.html">the MathJax site</a> for more details. As an example to disable the "Math Renderer" menu item in the "Math
  Settings" menu of MathJax:
-
-
 <pre><code>MATHJAX_CODEFILE = disableRenderer.js
 </code></pre>
-
-
 with in the file <code>disableRenderer.js</code>:
-
-
 <pre><code>  MathJax.Hub.Config({
    menuSettings: {
     showRenderer: false,
    }
   });
 </code></pre>
-
 This tag requires that the tag <a href="#cfg_use_mathjax">USE_MATHJAX</a> is set to <code>YES</code>. <a id="cfg_searchengine"></a></dd>
 <dt><code>SEARCHENGINE</code></dt>
 <dd>When the <code>SEARCHENGINE</code> tag is enabled Doxygen will generate a search box for the HTML output. The underlying search engine uses JavaScript and DHTML and should work on any modern browser. Note that when using HTML help (<a href="#cfg_generate_htmlhelp">GENERATE_HTMLHELP</a>), Qt help (<a href="#cfg_generate_qhp">GENERATE_QHP</a>), or docsets (<a href="#cfg_generate_docset">GENERATE_DOCSET</a>) there is already a search function so this one should typically be disabled. For large projects the JavaScript based search engine can be slow, then enabling <a href="#cfg_server_based_search">SERVER_BASED_SEARCH</a> may provide a better solution.
@@ -1626,11 +1505,8 @@ This tag requires that the tag <a href="#cfg_searchengine">SEARCHENGINE</a> is s
 <dt><code>EXTRA_SEARCH_MAPPINGS</code></dt>
 <dd>The <code>EXTRA_SEARCH_MAPPINGS</code> tag can be used to enable searching through Doxygen projects other than the one defined by this configuration file, but that are all added to the same external search index. Each project needs to have a unique id set via <a href="#cfg_external_search_id">EXTERNAL_SEARCH_ID</a>. The search mapping then maps the id of to a relative location where the documentation can be found.
 The format is:
-
-
 <pre><code>EXTRA_SEARCH_MAPPINGS = tagname1=loc1 tagname2=loc2 ...
 </code></pre>
-
 This tag requires that the tag <a href="#cfg_searchengine">SEARCHENGINE</a> is set to <code>YES</code>.</dd>
 </dl>
 
@@ -1658,16 +1534,10 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 :::info
 This tag is used in the <code>Makefile</code> / <code>make.bat</code>.
 :::
-
-
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_latex_makeindex_cmd">LATEX_MAKEINDEX_CMD</a> for the part in the generated output file (<code>.tex</code>).
-</dd>
+<dd><a href="#cfg_latex_makeindex_cmd">LATEX_MAKEINDEX_CMD</a> for the part in the generated output file (<code>.tex</code>).</dd>
 </dl>
-
-
 The default file is: <code>makeindex</code>.
 This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> is set to <code>YES</code>. <a id="cfg_latex_makeindex_cmd"></a></dd>
 <dt><code>LATEX_MAKEINDEX_CMD</code></dt>
@@ -1675,16 +1545,10 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 :::info
 This tag is used in the generated output file (<code>.tex</code>).
 :::
-
-
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#cfg_makeindex_cmd_name">MAKEINDEX_CMD_NAME</a> for the part in the <code>Makefile</code> / <code>make.bat</code>.
-</dd>
+<dd><a href="#cfg_makeindex_cmd_name">MAKEINDEX_CMD_NAME</a> for the part in the <code>Makefile</code> / <code>make.bat</code>.</dd>
 </dl>
-
-
 The default value is: <code>makeindex</code>.
 This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> is set to <code>YES</code>. <a id="cfg_compact_latex"></a></dd>
 <dt><code>COMPACT_LATEX</code></dt>
@@ -1699,39 +1563,26 @@ This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> 
 <dt><code>EXTRA_PACKAGES</code></dt>
 <dd>The <code>EXTRA_PACKAGES</code> tag can be used to specify one or more <code>$\mbox{\LaTeX}$</code> package names that should be included in the <code>$\mbox{\LaTeX}$</code> output. The package can be specified just by its name or with the correct syntax as to be used with the <code>$\mbox{\LaTeX}$</code> <code>\usepackage</code> command.
 To get the <code>times</code> font for instance you can specify :
-
-
 <pre><code>  EXTRA_PACKAGES=times
 or
   EXTRA_PACKAGES={times}
 </code></pre>
-
-
 To use the option <code>intlimits</code> with the <code>amsmath</code> package you can specify:
-
-
 <pre><code>   EXTRA_PACKAGES=[intlimits]{amsmath}
 </code></pre>
-
-
 If left blank no extra packages will be included.
 This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> is set to <code>YES</code>. <a id="cfg_latex_header"></a></dd>
 <dt><code>LATEX_HEADER</code></dt>
 <dd>The <code>LATEX_HEADER</code> tag can be used to specify a user-defined <code>$\mbox{\LaTeX}$</code> header for the generated <code>$\mbox{\LaTeX}$</code> document. The header should contain everything until the first chapter. If it is left blank Doxygen will generate a standard header.
 It is highly recommended to start with a default header using
-
-
 <pre><code>doxygen -w latex new_header.tex new_footer.tex new_stylesheet.sty
 </code></pre>
-
-
 and then modify the file <code>new_header.tex</code>.
 See also section <a href="/web-doxygen/docs/pages/doxygen-usage">Doxygen usage</a> for information on how to generate the default header that Doxygen normally uses.
 <br/>
 Note: Only use a user-defined header if you know what you are doing!
 :::info
 The header is subject to change so you typically have to regenerate the default header when upgrading to a newer version of Doxygen. The following commands have a special meaning inside the header (and footer):
-
 <dl class="doxyVariableList">
 <dt><code>$title</code></dt>
 <dd>will be replaced with the project name.</dd>
@@ -1791,11 +1642,7 @@ The header is subject to change so you typically have to regenerate the default 
 <dd>will be replaced by the name of the file as set in <a href="#cfg_formula_macrofile">FORMULA_MACROFILE</a>. This setting is typically used in combination with the block name <code>FORMULA_MACROFILE</code>.</dd>
 </dl>
 :::
-
-
 To cope with differences in the layout of the header and footer that depend on configuration settings, the header and footer can also contain special blocks that will be copied to the output or skipped depending on the configuration. Such blocks have the following form:
-
-
 <pre><code> %%BEGIN BLOCKNAME
  Some context copied when condition BLOCKNAME holds
  %%END BLOCKNAME
@@ -1803,10 +1650,7 @@ To cope with differences in the layout of the header and footer that depend on c
  Some context copied when condition BLOCKNAME does not hold
  %%END !BLOCKNAME
 </code></pre>
-
-
 The following block names are set based on the used settings in the configuration file:
-
 <dl class="doxyVariableList">
 <dt><code>COMPACT_LATEX</code></dt>
 <dd>Content within this block is copied to the output when the <a href="#cfg_compact_latex">COMPACT_LATEX</a> option is enabled.</dd>
@@ -1819,18 +1663,14 @@ The following block names are set based on the used settings in the configuratio
 <dt><code>TIMESTAMP</code></dt>
 <dd>Content within this block is copied to the output when the <a href="#cfg_timestamp">TIMESTAMP</a> option is enabled.</dd>
 </dl>
-
 The following block names are set based on the fact whether or not the tag has a value in the used configuration file:
-
 <dl class="doxyVariableList">
 <dt><code>LATEX_FONTENC</code></dt>
 <dd>Content within this block is copied to the output when the Doxygen latex translator function returns a value for the font encoding to be used. It is to be used in combination with the above mentioned <code>$latexfontenc</code>.</dd>
 <dt><code>FORMULA_MACROFILE</code></dt>
 <dd>Content within this block is copied to the output when the <a href="#cfg_formula_macrofile">FORMULA_MACROFILE</a> option is not empty. It is to be used in combination with the above mentioned <code>$formulamacrofile</code>.</dd>
 </dl>
-
 The following block name is set based on whether or not a feature is used in the documentation:
-
 <dl class="doxyVariableList">
 <dt><code>CITATIONS_PRESENT</code></dt>
 <dd>Content within this block is copied to the output when in the documentation citations are present and the relevant .. are present. It is to be used in combination with the above mentioned <code>$latexcitereference</code>, <code>$latexbibstyle</code> and <code>$latexbibfiles</code>.</dd>
@@ -1844,12 +1684,9 @@ Note: Only use a user-defined footer if you know what you are doing!
 This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> is set to <code>YES</code>. <a id="cfg_latex_extra_stylesheet"></a></dd>
 <dt><code>LATEX_EXTRA_STYLESHEET</code></dt>
 <dd>The <code>LATEX_EXTRA_STYLESHEET</code> tag can be used to specify additional user-defined <code>$\mbox{\LaTeX}$</code> style sheets that are included after the standard style sheets created by Doxygen. Using this option one can overrule certain style aspects. Doxygen will copy the style sheet files to the output directory.
-
 :::info
 The order of the extra style sheet files is of importance (e.g. the last style sheet in the list overrules the setting of the previous ones in the list).
 :::
-
-
 This tag requires that the tag <a href="#cfg_generate_latex">GENERATE_LATEX</a> is set to <code>YES</code>. <a id="cfg_latex_extra_files"></a></dd>
 <dt><code>LATEX_EXTRA_FILES</code></dt>
 <dd>The <code>LATEX_EXTRA_FILES</code> tag can be used to specify one or more extra images or other source files which should be copied to the <a href="#cfg_latex_output">LATEX_OUTPUT</a> output directory. Note that the files will be copied as-is; there are no commands or markers available.
@@ -2092,25 +1929,15 @@ This tag requires that the tag <a href="#cfg_enable_preprocessing">ENABLE_PREPRO
 <dt><code>TAGFILES</code></dt>
 <dd>The <code>TAGFILES</code> tag can be used to specify one or more tag files.
 For each tag file the location of the external documentation should be added. The format of a tag file without this location is as follows:
-
-
 <pre><code>  TAGFILES = file1 file2 ...
 </code></pre>
-
-
 Adding location for the tag files is done as follows:
-
-
 <pre><code>  TAGFILES = file1=loc1 "file2 = loc2" ...
 </code></pre>
-
-
 where <code>loc1</code> and <code>loc2</code> can be relative or absolute paths or URLs. See the section <a href="/web-doxygen/docs/pages/external">Linking to external documentation</a> for more information about the use of tag files.
 :::info
 Each tag file must have a unique name (where the name does <em>NOT</em> include the path). If a tag file is not located in the directory in which Doxygen is run, you must also specify the path to the tagfile here.
 :::
-
-
 <a id="cfg_generate_tagfile"></a></dd>
 <dt><code>GENERATE_TAGFILE</code></dt>
 <dd>When a file name is specified after <code>GENERATE_TAGFILE</code>, Doxygen will create a tag file that is based on the input files it reads. See section <a href="/web-doxygen/docs/pages/external">Linking to external documentation</a> for more information about the usage of tag files.
@@ -2285,12 +2112,9 @@ The default value is: <code>NO</code>.
 This tag requires that the tag <a href="#cfg_have_dot">HAVE_DOT</a> is set to <code>YES</code>. <a id="cfg_generate_legend"></a></dd>
 <dt><code>GENERATE_LEGEND</code></dt>
 <dd>If the <code>GENERATE_LEGEND</code> tag is set to <code>YES</code> Doxygen will generate a legend page explaining the meaning of the various boxes and arrows in the dot generated graphs.
-
 :::info
 This tag requires that <a href="#cfg_uml_look">UML\_LOOK</a> isn't set, i.e. the Doxygen internal graphical representation for inheritance and collaboration diagrams is used.
 :::
-
-
 The default value is: <code>YES</code>.
 This tag requires that the tag <a href="#cfg_have_dot">HAVE_DOT</a> is set to <code>YES</code>. <a id="cfg_dot_cleanup"></a></dd>
 <dt><code>DOT_CLEANUP</code></dt>

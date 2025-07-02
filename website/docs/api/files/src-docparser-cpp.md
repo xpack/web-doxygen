@@ -732,9 +732,7 @@ Main entry point for the comment block parser.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the abstract syntax tree. Ownership of the pointer is handed over to the caller.
-</dd>
+<dd>An object representing the abstract syntax tree. Ownership of the pointer is handed over to the caller.</dd>
 </dl>
 
 

@@ -324,9 +324,7 @@ Access routine to the name of the Emoji entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the name of the Emoji entity in GitHub format (i.e. :smile:)
-</dd>
+<dd>the name of the Emoji entity in GitHub format (i.e. :smile:)</dd>
 </dl>
 
 
@@ -383,9 +381,7 @@ Returns a code for the requested Emoji entity name.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the code for the requested Emoji entity name, in case the requested Emoji item does not exist <code>-1</code> is returned.
-</dd>
+<dd>the code for the requested Emoji entity name, in case the requested Emoji item does not exist <code>-1</code> is returned.</dd>
 </dl>
 
 
@@ -443,9 +439,7 @@ Access routine to the unicode sequence for the Emoji entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the unicode sequence of the Emoji entity,
-</dd>
+<dd>the unicode sequence of the Emoji entity,</dd>
 </dl>
 
 

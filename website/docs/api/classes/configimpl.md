@@ -1129,9 +1129,7 @@ Parse a configuration file with name <em>fn</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-TRUE if successful, FALSE if the file could not be opened or read.
-</dd>
+<dd>TRUE if successful, FALSE if the file could not be opened or read.</dd>
 </dl>
 
 
@@ -1181,9 +1179,7 @@ Parse a configuration data in string <em>str</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-TRUE if successful, or FALSE if the string could not be parsed.
-</dd>
+<dd>TRUE if successful, or FALSE if the string could not be parsed.</dd>
 </dl>
 
 
@@ -1330,9 +1326,7 @@ Take the user start comment and reset it internally
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-user start comment
-</dd>
+<dd>user start comment</dd>
 </dl>
 
 
@@ -1386,9 +1380,7 @@ Take the replacement string
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-the replacement string
-</dd>
+<dd>the replacement string</dd>
 </dl>
 
 
@@ -1442,9 +1434,7 @@ Take the user comment and reset it internally
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-user comment
-</dd>
+<dd>user comment</dd>
 </dl>
 
 
@@ -2633,9 +2623,7 @@ Adds a new boolean option with <em>name</em> and documentation <em>doc</em>. The
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 
@@ -2737,9 +2725,7 @@ Adds a new enumeration option with <em>name</em> and documentation <em>doc</em> 
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 
@@ -2794,9 +2780,7 @@ Starts a new configuration section with <em>name</em> and description <em>doc</e
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 
@@ -2848,9 +2832,7 @@ Adds a new integer option with <em>name</em> and documentation <em>doc</em>. The
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 
@@ -2905,9 +2887,7 @@ Adds a new string option with <em>name</em> and documentation <em>doc</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 
@@ -3008,9 +2988,7 @@ Adds a new string option with <em>name</em> and documentation <em>doc</em>.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An object representing the option.
-</dd>
+<dd>An object representing the option.</dd>
 </dl>
 
 

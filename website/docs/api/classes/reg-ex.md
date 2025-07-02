@@ -433,9 +433,7 @@ Check if a given string matches this regular expression.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-true iff a match is found. Details are stored in the match object.
-</dd>
+<dd>true iff a match is found. Details are stored in the match object.</dd>
 </dl>
 
 

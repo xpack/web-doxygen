@@ -45,16 +45,13 @@ A tag file typically only contains a relative location of the documentation from
 
 <dl class="doxySectionUser">
 <dt>Example: </dt>
-<dd>
-Suppose you have a project <code>proj</code> that uses two external projects called <code>ext1</code> and <code>ext2</code>. The directory structure looks as follows:
-</dd>
+<dd>Suppose you have a project <code>proj</code> that uses two external projects called <code>ext1</code> and <code>ext2</code>. The directory structure looks as follows:</dd>
 </dl>
 
 
 <dl class="doxySectionUser">
 <dt></dt>
-<dd>
-<pre><code>&lt;root&gt;
+<dd><pre><code>&lt;root&gt;
   +- proj
   |   +- html               HTML output directory for proj
   |   +- src                sources for proj
@@ -75,36 +72,33 @@ Suppose you have a project <code>proj</code> that uses two external projects cal
 
 <dl class="doxySectionUser">
 <dt></dt>
-<dd>
-Then the relevant parts of the configuration files look as follows:
-</dd>
+<dd>Then the relevant parts of the configuration files look as follows:</dd>
 </dl>
 
 
 <dl class="doxySectionUser">
 <dt></dt>
-<dd>
-proj.cfg:
-
-
+<dd>proj.cfg:
+&nbsp;
+&nbsp;
 <pre><code>OUTPUT_DIRECTORY  = proj
 INPUT             = proj/src
 TAGFILES          = ext1/ext1.tag=../../ext1/html \
                     ext2/ext2.tag=../../ext2/html
 </code></pre>
-
-
+&nbsp;
+&nbsp;
 ext1.cfg:
-
-
+&nbsp;
+&nbsp;
 <pre><code>OUTPUT_DIRECTORY  = ext1
 GENERATE_TAGFILE  = ext1/ext1.tag
 </code></pre>
-
-
+&nbsp;
+&nbsp;
 ext2.cfg:
-
-
+&nbsp;
+&nbsp;
 <pre><code>OUTPUT_DIRECTORY  = ext2
 GENERATE_TAGFILE  = ext2/ext2.tag
 </code></pre>

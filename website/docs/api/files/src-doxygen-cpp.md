@@ -12844,9 +12844,7 @@ See if the return type string <em>type</em> is that of a function pointer
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
--1 if this is not a function pointer variable or the index at which the closing brace of (...*name) was found.
-</dd>
+<dd>-1 if this is not a function pointer variable or the index at which the closing brace of (...*name) was found.</dd>
 </dl>
 
 

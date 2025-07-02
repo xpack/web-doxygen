@@ -3020,9 +3020,7 @@ Returns TRUE iff the definition is documented (which could be generated document
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#adb03d1aad0f7f7b77c1fe0a8ab43d282">hasUserDocumentation()</a>
-</dd>
+<dd><a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#adb03d1aad0f7f7b77c1fe0a8ab43d282">hasUserDocumentation()</a></dd>
 </dl>
 
 

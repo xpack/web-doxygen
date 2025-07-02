@@ -6143,9 +6143,7 @@ Text for the
 
 <dl class="doxySectionUser">
 <dt>Invariant</dt>
-<dd>
-command
-</dd>
+<dd>command</dd>
 </dl>
 
 
@@ -7893,9 +7891,7 @@ Text for the
 
 <dl class="doxySectionUser">
 <dt>Postcondition</dt>
-<dd>
-command
-</dd>
+<dd>command</dd>
 </dl>
 
 
@@ -7944,9 +7940,7 @@ Text for the
 
 <dl class="doxySectionUser">
 <dt>Precondition</dt>
-<dd>
-command
-</dd>
+<dd>command</dd>
 </dl>
 
 
@@ -9134,9 +9128,7 @@ Used as ansicpg for RTF fcharset
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a6d4f931c2ba63a024bb99c67e228da37">trRTFansicp()</a> for a table of possible values.
-</dd>
+<dd><a href="#a6d4f931c2ba63a024bb99c67e228da37">trRTFansicp()</a> for a table of possible values.</dd>
 </dl>
 
 

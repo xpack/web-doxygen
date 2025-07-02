@@ -321,9 +321,7 @@ Returns the filled in std::tm for a given string representing a date and/or time
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-An empty string if the spec has a supported format, or an error message if the format is invalid.
-</dd>
+<dd>An empty string if the spec has a supported format, or an error message if the format is invalid.</dd>
 </dl>
 
 

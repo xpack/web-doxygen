@@ -916,9 +916,7 @@ Full lines are returned, excluding the lines on which the markers appear.
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-routine <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a>
-</dd>
+<dd>routine <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a></dd>
 </dl>
 
 

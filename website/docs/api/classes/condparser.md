@@ -522,8 +522,7 @@ Features used: Operators: &amp;&amp; AND operator || OR operator ! NOT operator 
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-<ul class="doxyList ">
+<dd><ul class="doxyList ">
 <li>On error, an error message is returned.</li>
 <li>On success, the result of the expression is either "1" or "0".</li>
 </ul>

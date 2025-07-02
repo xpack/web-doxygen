@@ -1029,9 +1029,7 @@ Decrease the level of the contents hierarchy. This will end the unnumber HTML li
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a>
-</dd>
+<dd><a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a></dd>
 </dl>
 
 
@@ -1083,9 +1081,7 @@ Finalizes the HTML help. This will finish and close the htmlhelp contents file a
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a>
-</dd>
+<dd><a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a></dd>
 </dl>
 
 
@@ -1151,9 +1147,7 @@ Increase the level of the contents hierarchy. This will start a new unnumbered H
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a>
-</dd>
+<dd><a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a></dd>
 </dl>
 
 
@@ -1205,9 +1199,7 @@ This will create a contents file (index.hhc) and a index file (index.hhk) and wr
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a>
-</dd>
+<dd><a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a></dd>
 </dl>
 
 

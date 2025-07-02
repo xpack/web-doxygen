@@ -2187,9 +2187,7 @@ Returns TRUE iff the definition is documented (which could be generated document
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a8e40fb6177bff36be33dab825d7e8188">hasUserDocumentation()</a>
-</dd>
+<dd><a href="#a8e40fb6177bff36be33dab825d7e8188">hasUserDocumentation()</a></dd>
 </dl>
 
 

@@ -267,9 +267,7 @@ Since multiple code fragments can together form a single example, an explicit fu
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a16bbf3ac1b836ae70528f1d9ecd11e6a">parseCode()</a>
-</dd>
+<dd><a href="#a16bbf3ac1b836ae70528f1d9ecd11e6a">parseCode()</a></dd>
 </dl>
 
 

@@ -3596,9 +3596,7 @@ replaces all occurrences of @ in <em>s</em> by @
 
 <dl class="doxySectionUser">
 <dt>assumption:</dt>
-<dd>
-<em>s</em> only contains pairs of @'s
-</dd>
+<dd><em>s</em> only contains pairs of @'s</dd>
 </dl>
 
 

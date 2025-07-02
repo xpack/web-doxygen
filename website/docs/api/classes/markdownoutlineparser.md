@@ -271,9 +271,7 @@ Returns TRUE if the language identified by <em>extension</em> needs the C prepro
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a>
-</dd>
+<dd><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></dd>
 </dl>
 
 

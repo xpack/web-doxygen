@@ -1044,9 +1044,7 @@ Only one line will be inspected.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-The offset until the next line in the buffer.
-</dd>
+<dd>The offset until the next line in the buffer.</dd>
 </dl>
 
 

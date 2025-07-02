@@ -1639,9 +1639,7 @@ Ends scope in fortran program: may update subprogram arguments or module variabl
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope()</a>
-</dd>
+<dd><a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope()</a></dd>
 </dl>
 
 
@@ -3531,9 +3529,7 @@ Starts the new scope in fortran program. Consider using this function when start
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-<a href="#a5c191151631efdf0d25fc7967f6b0434">endScope()</a>
-</dd>
+<dd><a href="#a5c191151631efdf0d25fc7967f6b0434">endScope()</a></dd>
 </dl>
 
 

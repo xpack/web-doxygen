@@ -638,9 +638,7 @@ Invokes the comment block parser with the request to parse a single comment bloc
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>
-TRUE if the comment requires further processing. The parameter <em>newEntryNeeded</em> will typically be true in this case and <em>position</em> will indicate the offset inside the <em>comment</em> string where to proceed parsing. FALSE indicates no further processing is needed.
-</dd>
+<dd>TRUE if the comment requires further processing. The parameter <em>newEntryNeeded</em> will typically be true in this case and <em>position</em> will indicate the offset inside the <em>comment</em> string where to proceed parsing. FALSE indicates no further processing is needed.</dd>
 </dl>
 
 

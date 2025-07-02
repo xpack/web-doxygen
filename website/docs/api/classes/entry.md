@@ -1674,9 +1674,7 @@ Returns the list of children for this <a href="/web-doxygen/docs/api/classes/ent
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>
-addSubEntry() and <a href="#afce092d3df4c6d51599a826e662de490">removeSubEntry()</a>
-</dd>
+<dd>addSubEntry() and <a href="#afce092d3df4c6d51599a826e662de490">removeSubEntry()</a></dd>
 </dl>
 
 
