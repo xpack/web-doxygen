@@ -192,7 +192,7 @@ Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 This gets the next token from the input stream.
 
 
-A token of kind 0 (<span class="doxyComputerOutput">&lt;EOF&gt;</span>) should be returned on EOF.
+A token of kind 0 (<code>&lt;EOF&gt;</code>) should be returned on EOF.
 
 Definition at line 24 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmanager-h">TokenManager.h</a>.
 </div>

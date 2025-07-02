@@ -91,7 +91,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)/sizeof(\*<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>)/sizeof(*<a href="#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -104,7 +104,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a> = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)/sizeof(\*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a> = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>)/sizeof(*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -152,10 +152,10 @@ toc_max_heading_level: 4
 <dd>
 <div class="doxyVerbatim">=
 {
-  {":blonde\_man:",                            ":blond\_haired\_man:"},
-  {":person\_frowning:",                       ":frowning\_person:"},
-  {":person\_with\_blond\_hair:",                ":blond\_haired\_person:"},
-  {":person\_with\_pouting\_face:",              ":pouting\_face:"},
+  {":blonde_man:",                            ":blond_haired_man:"},
+  {":person_frowning:",                       ":frowning_person:"},
+  {":person_with_blond_hair:",                ":blond_haired_person:"},
+  {":person_with_pouting_face:",              ":pouting_face:"},
 }
 </div>
 </dd>
@@ -207,7 +207,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t g_numEmojiCompatibilityEntities = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)/sizeof(\*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>)</td>
+<td class="doxyMemberName">const size_t g_numEmojiCompatibilityEntities = sizeof(<a href="#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>)/sizeof(*<a href="#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>)</td>
 </tr>
 </table>
 </td>
@@ -245,7 +245,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t g_numEmojiEntities = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)/sizeof(\*<a href="#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>)</td>
+<td class="doxyMemberName">const size_t g_numEmojiEntities = sizeof(<a href="#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>)/sizeof(*<a href="#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>)</td>
 </tr>
 </table>
 </td>

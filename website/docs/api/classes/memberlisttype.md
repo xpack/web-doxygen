@@ -352,7 +352,7 @@ class MemberListType { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">int</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0ab2a1ff82532cc306b563bf0a22155d">m_type</a> = static\_cast&lt;int&gt;(<a href="#af59003ec5970dfc912aad7371ca8c60ba1e68761efde38818061e02ea18bc7197">Invalid\_</a>)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0ab2a1ff82532cc306b563bf0a22155d">m_type</a> = static_cast&lt;int&gt;(<a href="#af59003ec5970dfc912aad7371ca8c60ba1e68761efde38818061e02ea18bc7197">Invalid_</a>)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1459,7 +1459,7 @@ Referenced by <a href="#aac678c053691c4f32dc9ac2de28680ca">to\_string</a>, <a hr
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">int MemberListType::m_type = static\_cast&lt;int&gt;(<a href="#af59003ec5970dfc912aad7371ca8c60ba1e68761efde38818061e02ea18bc7197">Invalid\_</a>)</td>
+<td class="doxyMemberName">int MemberListType::m_type = static_cast&lt;int&gt;(<a href="#af59003ec5970dfc912aad7371ca8c60ba1e68761efde38818061e02ea18bc7197">Invalid_</a>)</td>
 </tr>
 </table>
 </td>

@@ -3124,7 +3124,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionrefs/#a916946003ecac
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">	if ( !(x) )\
-	fprintf(stderr,"ASSERT: \"%s\" in %s (%d)\n",#x,\_\_FILE\_\_,\_\_LINE\_\_)
+	fprintf(stderr,"ASSERT: \"%s\" in %s (%d)\n",#x,__FILE__,__LINE__)
 </div>
 </dd>
 </dl>

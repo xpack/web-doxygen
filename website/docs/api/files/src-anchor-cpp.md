@@ -56,7 +56,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">constexpr auto</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a85ba602a660bdb3bbeb43cc600de3008">prefix</a> = "autotoc\_md"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a85ba602a660bdb3bbeb43cc600de3008">prefix</a> = "autotoc_md"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -83,7 +83,7 @@ toc_max_heading_level: 4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">auto prefix = "autotoc\_md"</td>
+<td class="doxyMemberName">auto prefix = "autotoc_md"</td>
 </tr>
 </table>
 </td>

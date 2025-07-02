@@ -1777,7 +1777,7 @@ class FileDefImpl { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">bool</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5ed7abf99b961cfc33078be9036ff305">m_hasIncludeGraph</a> = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>(INCLUDE\_GRAPH)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5ed7abf99b961cfc33078be9036ff305">m_hasIncludeGraph</a> = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>(INCLUDE_GRAPH)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1790,7 +1790,7 @@ class FileDefImpl { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">bool</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aca9c37355c42a425859c2ff28a87e847">m_hasIncludedByGraph</a> = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>(INCLUDED\_BY\_GRAPH)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aca9c37355c42a425859c2ff28a87e847">m_hasIncludedByGraph</a> = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>(INCLUDED_BY_GRAPH)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -7530,7 +7530,7 @@ Referenced by <a href="#a3e6c42b51465b9d08e7e894fe3673b5b">acquireFileVersion</a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool FileDefImpl::m_hasIncludedByGraph = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>(INCLUDED\_BY\_GRAPH)</td>
+<td class="doxyMemberName">bool FileDefImpl::m_hasIncludedByGraph = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>(INCLUDED_BY_GRAPH)</td>
 </tr>
 </table>
 </td>
@@ -7563,7 +7563,7 @@ Referenced by <a href="#abc51bce920a0838fa19e2fba294bedd0">hasIncludedByGraph</a
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">bool FileDefImpl::m_hasIncludeGraph = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>(INCLUDE\_GRAPH)</td>
+<td class="doxyMemberName">bool FileDefImpl::m_hasIncludeGraph = <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>(INCLUDE_GRAPH)</td>
 </tr>
 </table>
 </td>

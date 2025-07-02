@@ -682,7 +682,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##\_,</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##_,</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -708,7 +708,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return "["+std::string(#x)+bits_to_string()+"]";</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -721,7 +721,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return label;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return label;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -734,7 +734,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return xml\_str;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return xml_str;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -747,7 +747,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_pub();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return to_pub();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -760,7 +760,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_prot();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#afb88727a08555f63ef2adef052312328">ML_TYPE</a>(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return to_prot();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -786,7 +786,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;m\_is##x = m\_is##x || other.is##x();</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;m_is##x = m_is##x || other.is##x();</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -799,7 +799,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m\_is##x == t2.m\_is##x);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m_is##x == t2.m_is##x);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -864,7 +864,7 @@ Language as given by extension. <a href="#a3904e82eff9a84f12bbca91f34bd8b1f">Mor
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8378fad7ed4c8737bf257e000165d11d">ETYPE</a>(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8378fad7ed4c8737bf257e000165d11d">ETYPE</a>(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "["+std::string(#x)+bits_to_string()+"]";</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -2546,8 +2546,8 @@ Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> make##x() { return <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a>(static\_cast&lt;int&gt;(x)|static\_cast&lt;int&gt;(bits)); } \
-    bool is##x() const { return (m\_type&amp;TypeMask)==x; }
+<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a> make##x() { return <a href="/web-doxygen/docs/api/classes/entrytype">EntryType</a>(static_cast&lt;int&gt;(x)|static_cast&lt;int&gt;(bits)); } \
+    bool is##x() const { return (m_type&amp;TypeMask)==x; }
 </div>
 </dd>
 </dl>
@@ -2574,7 +2574,7 @@ Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ETYPE(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
+<td class="doxyMemberName">#define ETYPE(x, bits)&nbsp;&nbsp;&nbsp;        case x : return "["+std::string(#x)+bits_to_string()+"]";</td>
 </tr>
 </table>
 </td>
@@ -2692,7 +2692,7 @@ Referenced by <a href="#aa296536c4d5e37f20d8dd4565a227880">to\_string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##\_,</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;      x##_,</td>
 </tr>
 </table>
 </td>
@@ -2738,8 +2738,8 @@ Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> x() { return <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a>(static\_cast&lt;int&gt;(x##\_)|static\_cast&lt;int&gt;(bits)); } \
-    bool is##x() const { return (m\_type&amp;TypeMask)==x##\_; }
+<div class="doxyVerbatim">    static <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a> x() { return <a href="/web-doxygen/docs/api/classes/memberlisttype">MemberListType</a>(static_cast&lt;int&gt;(x##_)|static_cast&lt;int&gt;(bits)); } \
+    bool is##x() const { return (m_type&amp;TypeMask)==x##_; }
 </div>
 </dd>
 </dl>
@@ -2765,7 +2765,7 @@ Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return "\["+std::string(#x)+bits\_to\_string()+"\]";</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return "["+std::string(#x)+bits_to_string()+"]";</td>
 </tr>
 </table>
 </td>
@@ -2797,7 +2797,7 @@ Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return label;</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return label;</td>
 </tr>
 </table>
 </td>
@@ -2829,7 +2829,7 @@ Definition at line 407 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return xml\_str;</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return xml_str;</td>
 </tr>
 </table>
 </td>
@@ -2861,7 +2861,7 @@ Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_pub();</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return to_pub();</td>
 </tr>
 </table>
 </td>
@@ -2893,7 +2893,7 @@ Definition at line 431 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##\_ : return to\_prot();</td>
+<td class="doxyMemberName">#define ML_TYPE(x, bits, to_pub, to_prot, label, xml_str)&nbsp;&nbsp;&nbsp;        case x##_ : return to_prot();</td>
 </tr>
 </table>
 </td>
@@ -3759,7 +3759,7 @@ Referenced by <a href="#a2da846b4975bb30a57ced1867322ecd0">to\_string</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;m\_is##x = m\_is##x || other.is##x();</td>
+<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;m_is##x = m_is##x || other.is##x();</td>
 </tr>
 </table>
 </td>
@@ -3795,7 +3795,7 @@ Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m\_is##x == t2.m\_is##x);</td>
+<td class="doxyMemberName">#define TSPEC(x)&nbsp;&nbsp;&nbsp;eq = eq &amp;&amp; (t1.m_is##x == t2.m_is##x);</td>
 </tr>
 </table>
 </td>
@@ -3845,7 +3845,7 @@ Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">      if (m\_is##x) {                                                      \
+<div class="doxyVerbatim">      if (m_is##x) {                                                      \
         if (!first) result+=",";                                          \
         result+=#x; first=false;                                          \
       }
@@ -3893,10 +3893,10 @@ Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    public:                                                               \
-      <a href="/web-doxygen/docs/api/classes/typespecifier">TypeSpecifier</a> &amp;set##x(bool b) { m\_is##x = b; return \*this; }        \
-      bool is##x() const { return m\_is##x; }                              \
+      <a href="/web-doxygen/docs/api/classes/typespecifier">TypeSpecifier</a> &amp;set##x(bool b) { m_is##x = b; return *this; }        \
+      bool is##x() const { return m_is##x; }                              \
     private:                                                              \
-      bool m\_is##x : 1;
+      bool m_is##x : 1;
 </div>
 </dd>
 </dl>
@@ -3940,20 +3940,20 @@ Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">/\*  0 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Template)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Ref)               <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Value)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>)          \
-/\*  5 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca886ef5dbd655a6c97726d7091c6b173e">Struct</a>)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843caaef12e903e606a4895a16b393bfdec8c">Union</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cab0d4998a26f5b5742ad38c4af8817e32">Exception</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca888a77f5ac0748b6c8001822417df8b6">Protocol</a>)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3adbdb3ac060038aa0e6e6c138ef9873">Category</a>)           \
-/\* 10 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(SealedClass)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(AbstractClass)   <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Enum)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cac2ba7e785c49050f48da9aacc45c2b85">Service</a>)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca6ff5f73c8b5ebd311406568c8ef50bfd">Singleton</a>)          \
-/\* 15 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ForwardDecl)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Local)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(EnumStruct)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExpr)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateGettable)    \
-/\* 20 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedGettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/commentscan-l/#abef2fa9b94f622b395476cf09af989c4a0125cf5f3ca38b312ca5d3b511c45a13">Inline</a>)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Explicit)           \
-/\* 25 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Mutable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Settable)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Gettable)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readable)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Writable)           \
-/\* 30 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Final)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Abstract)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Addable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Removable)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Raisable)           \
-/\* 35 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Override)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(New)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Sealed)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Initonly)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Optional)           \
-/\* 40 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Required)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NonAtomic)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Copy)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Retain)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Assign)             \
-/\* 45 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Strong)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Weak)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Unretained)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Alias)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExp)           \
-/\* 50 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Delete)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoExcept)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Attribute)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca5ad234cb2cde4266195252a23ca7d84e">Property</a>)           \
-/\* 55 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readonly)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Bound)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Constrained)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Transient)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeVoid)          \
-/\* 60 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeDefault)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeAmbiguous)  <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Published)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstEval)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstInit)          \
-/\* 65 \*/ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoDiscard)
+<div class="doxyVerbatim">/*  0 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Template)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/message-h/#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">Generic</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Ref)               <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Value)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>)          \
+/*  5 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca886ef5dbd655a6c97726d7091c6b173e">Struct</a>)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843caaef12e903e606a4895a16b393bfdec8c">Union</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cab0d4998a26f5b5742ad38c4af8817e32">Exception</a>)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca888a77f5ac0748b6c8001822417df8b6">Protocol</a>)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca3adbdb3ac060038aa0e6e6c138ef9873">Category</a>)           \
+/* 10 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(SealedClass)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(AbstractClass)   <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Enum)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843cac2ba7e785c49050f48da9aacc45c2b85">Service</a>)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca6ff5f73c8b5ebd311406568c8ef50bfd">Singleton</a>)          \
+/* 15 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ForwardDecl)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Local)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(EnumStruct)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExpr)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateGettable)    \
+/* 20 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedGettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(PrivateSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ProtectedSettable) <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="/web-doxygen/docs/api/files/src/commentscan-l/#abef2fa9b94f622b395476cf09af989c4a0125cf5f3ca38b312ca5d3b511c45a13">Inline</a>)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Explicit)           \
+/* 25 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Mutable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Settable)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Gettable)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readable)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Writable)           \
+/* 30 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Final)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Abstract)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Addable)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Removable)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Raisable)           \
+/* 35 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Override)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(New)             <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Sealed)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Initonly)     <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Optional)           \
+/* 40 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Required)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NonAtomic)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Copy)              <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Retain)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Assign)             \
+/* 45 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Strong)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Weak)            <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Unretained)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Alias)        <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstExp)           \
+/* 50 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Delete)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoExcept)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Attribute)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(<a href="#a55cbcb91fc25e3a2e785b8a30309843ca5ad234cb2cde4266195252a23ca7d84e">Property</a>)           \
+/* 55 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Readonly)          <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Bound)           <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Constrained)       <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Transient)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeVoid)          \
+/* 60 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeDefault)      <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(MaybeAmbiguous)  <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(Published)         <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstEval)    <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(ConstInit)          \
+/* 65 */ <a href="#a16abe06d7e1ff1ac5c77d78e24dc8b9a">TSPEC</a>(NoDiscard)
 </div>
 </dd>
 </dl>

@@ -102,7 +102,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a251399cde30dd4c356bbd5634c6eb472">Config_getEnumAsString</a>(name)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().name##\_str())</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a251399cde30dd4c356bbd5634c6eb472">Config_getEnumAsString</a>(name)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().name##_str())</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -115,7 +115,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0c40403c29e568a4fa530f4cfbbc92ca">Config_getStringAsEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(name##\_str2enum(value))</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a0c40403c29e568a4fa530f4cfbbc92ca">Config_getStringAsEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(name##_str2enum(value))</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -141,7 +141,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a168f2876d56397a94af9140753974f38">Config_updateString</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a168f2876d56397a94af9140753974f38">Config_updateString</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -154,7 +154,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a252335f9ceadbd28f4394ec14a7f2777">Config_updateBool</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a252335f9ceadbd28f4394ec14a7f2777">Config_updateBool</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -167,7 +167,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a24f565457c1536240757e5c8ebbf2e97">Config_updateInt</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a24f565457c1536240757e5c8ebbf2e97">Config_updateInt</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -180,7 +180,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8c58e5a30ece3e745e1561edd00f6c68">Config_updateEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8c58e5a30ece3e745e1561edd00f6c68">Config_updateEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -193,7 +193,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a77eefd6119ed441632a00d7d274184af">Config_updateList</a>(name, ...)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(\_\_VA\_ARGS\_\_));</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a77eefd6119ed441632a00d7d274184af">Config_updateList</a>(name, ...)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(__VA_ARGS__));</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -206,7 +206,7 @@ Public function to deal with the configuration file. <a href="/web-doxygen/docs/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6f9c44a0d76faf919b0517a9931d6817">Config_isAvailableEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().isAvailable\_##name(value))</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6f9c44a0d76faf919b0517a9931d6817">Config_isAvailableEnum</a>(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().isAvailable_##name(value))</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -299,7 +299,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a54e3a84d2
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_getEnumAsString(name)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().name##\_str())</td>
+<td class="doxyMemberName">#define Config_getEnumAsString(name)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().name##_str())</td>
 </tr>
 </table>
 </td>
@@ -434,7 +434,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_getStringAsEnum(name, value)&nbsp;&nbsp;&nbsp;(name##\_str2enum(value))</td>
+<td class="doxyMemberName">#define Config_getStringAsEnum(name, value)&nbsp;&nbsp;&nbsp;(name##_str2enum(value))</td>
 </tr>
 </table>
 </td>
@@ -465,7 +465,7 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/config-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_isAvailableEnum(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().isAvailable\_##name(value))</td>
+<td class="doxyMemberName">#define Config_isAvailableEnum(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().isAvailable_##name(value))</td>
 </tr>
 </table>
 </td>
@@ -496,7 +496,7 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/config-h"
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_updateBool(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberName">#define Config_updateBool(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 </table>
 </td>
@@ -529,7 +529,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_updateEnum(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberName">#define Config_updateEnum(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 </table>
 </td>
@@ -562,7 +562,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a16c4b1e165
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_updateInt(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberName">#define Config_updateInt(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 </table>
 </td>
@@ -595,7 +595,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_updateList(name, ...)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(\_\_VA\_ARGS\_\_));</td>
+<td class="doxyMemberName">#define Config_updateList(name, ...)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(__VA_ARGS__));</td>
 </tr>
 </table>
 </td>
@@ -628,7 +628,7 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define Config_updateString(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update\_##name(value));</td>
+<td class="doxyMemberName">#define Config_updateString(name, value)&nbsp;&nbsp;&nbsp;(ConfigValues::instance().update_##name(value));</td>
 </tr>
 </table>
 </td>

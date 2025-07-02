@@ -627,7 +627,7 @@ Write a PlantUML compatible file.
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] inlineCode</td>
-<td class="doxyParamItemDescription">the code is coming from the <span class="doxyComputerOutput">\statuml ... \enduml</span> (<span class="doxyComputerOutput">true</span>) command or from the <span class="doxyComputerOutput">\planumlfile</span> command (<span class="doxyComputerOutput">false</span>)</td>
+<td class="doxyParamItemDescription">the code is coming from the <code>\statuml ... \enduml</code> (<code>true</code>) command or from the <code>\planumlfile</code> command (<code>false</code>)</td>
 </tr>
 </table>
 </dd>

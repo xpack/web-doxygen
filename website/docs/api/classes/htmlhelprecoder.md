@@ -114,7 +114,7 @@ class HtmlHelpRecoder { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">void *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a> = reinterpret\_cast&lt;void\*&gt;(-1)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a> = reinterpret_cast&lt;void*&gt;(-1)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -127,7 +127,7 @@ class HtmlHelpRecoder { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">void *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13f3059889c68cfe83674828ab529168">m_fromUtf8</a> = <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a13f3059889c68cfe83674828ab529168">m_fromUtf8</a> = <a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -405,7 +405,7 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">void* HtmlHelpRecoder::m_fromUtf8 = <a href="#a6a2a996575156ef3090e22a336bb6058">m\_iconv\_null</a></td>
+<td class="doxyMemberName">void* HtmlHelpRecoder::m_fromUtf8 = <a href="#a6a2a996575156ef3090e22a336bb6058">m_iconv_null</a></td>
 </tr>
 </table>
 </td>
@@ -438,7 +438,7 @@ Referenced by <a href="#a1a26634d3db023f8cdbe4f19db32ceee">finalize</a>, <a href
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">void* HtmlHelpRecoder::m_iconv_null = reinterpret\_cast&lt;void\*&gt;(-1)</td>
+<td class="doxyMemberName">void* HtmlHelpRecoder::m_iconv_null = reinterpret_cast&lt;void*&gt;(-1)</td>
 </tr>
 </table>
 </td>

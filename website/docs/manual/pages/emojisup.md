@@ -20,7 +20,7 @@ toc_max_heading_level: 4
 
 
 
-The <a href="http://www.unicode.org/">Unicode consortium</a> has defined a set of <a href="https://en.wikipedia.org/wiki/Emoji">emoji</a> with the corresponding Unicode sequences. Doxygen supports the subset of emoji characters as used by GitHub (based on the list <a href="https://api.github.com/emojis">https://api.github.com/emojis</a>). An emoji is created using the <a href="/web-doxygen/docs/pages/commands/#cmdemoji">\emoji</a> command. For example <span class="doxyComputerOutput">\emoji smile</span> or <span class="doxyComputerOutput">\emoji :smile:</span> both produce <span class="doxyEmoji">&#x1f604;</span>}.
+The <a href="http://www.unicode.org/">Unicode consortium</a> has defined a set of <a href="https://en.wikipedia.org/wiki/Emoji">emoji</a> with the corresponding Unicode sequences. Doxygen supports the subset of emoji characters as used by GitHub (based on the list <a href="https://api.github.com/emojis">https://api.github.com/emojis</a>). An emoji is created using the <a href="/web-doxygen/docs/pages/commands/#cmdemoji">\\emoji</a> command. For example <code>\\emoji smile</code> or <code>\\emoji :smile:</code> both produce <span class="doxyEmoji">&#x1f604;</span>}.
 
 ## Representation {#emojirep}
 
@@ -38,15 +38,15 @@ For the different Doxygen output types there is an output defined:
 <li>Image
 
 <ul class="doxyList ">
-<li><code>{\LaTeX}</code>, in case the image can be found (see <a href="#emojiimage">Emoji image retrieval</a>) otherwise the plain emoji text (i.e. <span class="doxyComputerOutput">:&lt;text&gt;:</span>) is displayed</li>
+<li><code>{\LaTeX}</code>, in case the image can be found (see <a href="#emojiimage">Emoji image retrieval</a>) otherwise the plain emoji text (i.e. <code>:&lt;text&gt;:</code>) is displayed</li>
 </ul></li>
-<li>plain emoji text (i.e. <span class="doxyComputerOutput">:&lt;text&gt;:</span>)
+<li>plain emoji text (i.e. <code>:&lt;text&gt;:</code>)
 
 <ul class="doxyList ">
 <li>man</li>
 <li>perl</li>
 </ul></li>
-<li>For XML there is a dedicated <span class="doxyComputerOutput">&lt;emoji&gt;</span> tag with <span class="doxyComputerOutput">name</span> and <span class="doxyComputerOutput">unicode</span> attributes.</li>
+<li>For XML there is a dedicated <code>&lt;emoji&gt;</code> tag with <code>name</code> and <code>unicode</code> attributes.</li>
 </ul>
 
 ## Emoji image retrieval {#emojiimage}
@@ -131,9 +131,9 @@ In the list of images can be downloaded via the following Python script:
 </div>
 
 
-When invoking the script with the <span class="doxyComputerOutput">-d image\_dir</span> option, the images will by downloaded to the <span class="doxyComputerOutput">image\_dir</span> directory.
+When invoking the script with the <code>-d image\_dir</code> option, the images will by downloaded to the <code>image\_dir</code> directory.
 
-When invoking the script with the <span class="doxyComputerOutput">-s</span> option, no progress messages are shown while fetching the images, except for when fetching an image fails.
+When invoking the script with the <code>-s</code> option, no progress messages are shown while fetching the images, except for when fetching an image fails.
 
 By means of the Doxygen configuration parameter <a href="/web-doxygen/docs/pages/config/#cfg_latex_emoji_directory">LATEX\_EMOJI\_DIRECTORY</a> the requested directory can be selected.
 
@@ -141,7 +141,7 @@ For convenience a zip with the result of running the script can also be download
 
 For an overview of the supported emoji one can issue the command:
 <br/>
- <span class="doxyComputerOutput">doxygen -f emoji &lt;outputFileName&gt;</span>
+ <code>doxygen -f emoji &lt;outputFileName&gt;</code>
  
 Go to the <a href="/docs/pages/langhowto/">next</a> section or return to the
  <a href="/docs/">index</a>.

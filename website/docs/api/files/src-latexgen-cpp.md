@@ -2057,13 +2057,13 @@ Referenced by <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c5
                        if (lresult &lt; (i + bytes + 1))               \
                        {                                            \
                          lresult += 512;                            \
-                         result = static\_cast&lt;char \*&gt;(realloc(result, lresult)); \
+                         result = static_cast&lt;char *&gt;(realloc(result, lresult)); \
                        }                                            \
-                       for (int j=0; j&lt;bytes &amp;&amp; \*p; j++)            \
+                       for (int j=0; j&lt;bytes &amp;&amp; *p; j++)            \
                        {                                            \
-                         result\[i++\]=\*p++;                          \
+                         result[i++]=*p++;                          \
                        }                                            \
-                       m\_col++;                                     \
+                       m_col++;                                     \
                      } while(0)
 </div>
 </dd>

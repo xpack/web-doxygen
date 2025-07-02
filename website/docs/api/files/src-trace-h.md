@@ -175,7 +175,7 @@ Helper class to trace an entry statement at creation and another one at destruct
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#adeafa8266193d68981662b41121d51ac">SPELOG_ACTIVE_LEVEL</a>&nbsp;&nbsp;&nbsp;SPDLOG\_LEVEL\_INFO</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#adeafa8266193d68981662b41121d51ac">SPELOG_ACTIVE_LEVEL</a>&nbsp;&nbsp;&nbsp;SPDLOG_LEVEL_INFO</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -620,7 +620,7 @@ Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define SPELOG_ACTIVE_LEVEL&nbsp;&nbsp;&nbsp;SPDLOG\_LEVEL\_INFO</td>
+<td class="doxyMemberName">#define SPELOG_ACTIVE_LEVEL&nbsp;&nbsp;&nbsp;SPDLOG_LEVEL_INFO</td>
 </tr>
 </table>
 </td>

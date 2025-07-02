@@ -1489,7 +1489,7 @@ Referenced by <a href="#aa7948af854eb611524c208def210db01">writeTemplate</a>.
 
 
 
-Writes a template configuration to stream <em>t</em>. If <em>shortIndex</em> is <span class="doxyComputerOutput">TRUE</span> the description of each configuration option will be omitted.
+Writes a template configuration to stream <em>t</em>. If <em>shortIndex</em> is <code>TRUE</code> the description of each configuration option will be omitted.
 
 Declaration at line 512 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>, definition at line 1310 of file <a href="/web-doxygen/docs/api/files/src/configimpl-l">configimpl.l</a>.
 

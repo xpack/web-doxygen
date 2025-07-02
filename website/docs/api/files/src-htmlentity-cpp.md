@@ -72,7 +72,7 @@ Structure defining all HTML4 entities, doxygen extensions and doxygen commands r
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abf83726e81c80d306c467d65700ebe3d">SYM</a>(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym\_##s,"&amp;"#s";"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abf83726e81c80d306c467d65700ebe3d">SYM</a>(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym_##s,"&amp;"#s";"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -425,7 +425,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f0
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define SYM(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym\_##s,"&amp;"#s";"</td>
+<td class="doxyMemberName">#define SYM(s)&nbsp;&nbsp;&nbsp;HtmlEntityMapper::Sym_##s,"&amp;"#s";"</td>
 </tr>
 </table>
 </td>

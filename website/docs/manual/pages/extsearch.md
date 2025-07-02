@@ -32,7 +32,7 @@ With release 1.8.3, Doxygen provides the ability to search through HTML using an
 <li>The search engine needs to run on a web server, but clients can still browse the web pages locally.</li>
 </ul>
 
-To avoid that everyone has to start writing their own indexer and search engine, Doxygen provides an example tool for each action: <span class="doxyComputerOutput">doxyindexer</span> for indexing the data and <span class="doxyComputerOutput">doxysearch.cgi</span> for searching through the index.
+To avoid that everyone has to start writing their own indexer and search engine, Doxygen provides an example tool for each action: <code>doxyindexer</code> for indexing the data and <code>doxysearch.cgi</code> for searching through the index.
 
 The data flow is shown in the following diagram:
 
@@ -42,21 +42,21 @@ The data flow is shown in the following diagram:
 </figure>
 
 <ul class="doxyList ">
-<li><span class="doxyComputerOutput">doxygen</span> produces the raw search data</li>
-<li><span class="doxyComputerOutput">doxyindexer</span> indexes the data into a search database <span class="doxyComputerOutput">doxysearch.db</span></li>
-<li>when a user performs a search from a Doxygen generated HTML page, the CGI binary <span class="doxyComputerOutput">doxysearch.cgi</span> will be invoked.</li>
-<li>the <span class="doxyComputerOutput">doxysearch.cgi</span> tool will perform a query on the database and return the results.</li>
+<li><code>doxygen</code> produces the raw search data</li>
+<li><code>doxyindexer</code> indexes the data into a search database <code>doxysearch.db</code></li>
+<li>when a user performs a search from a Doxygen generated HTML page, the CGI binary <code>doxysearch.cgi</code> will be invoked.</li>
+<li>the <code>doxysearch.cgi</code> tool will perform a query on the database and return the results.</li>
 <li>The browser will show the search results.</li>
 </ul>
 
 ## Configuring {#extsearch_config}
 
 
-The first step is to make the search engine available via a web server. If you use <span class="doxyComputerOutput">doxysearch.cgi</span> this means making the <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface">CGI</a> binary available from the web server (i.e. be able to run it from a browser via an URL starting with http:)
+The first step is to make the search engine available via a web server. If you use <code>doxysearch.cgi</code> this means making the <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface">CGI</a> binary available from the web server (i.e. be able to run it from a browser via an URL starting with http:)
 
-How to setup a web server is outside the scope of this document, but if you for instance have Apache installed, you could simply copy the <span class="doxyComputerOutput">doxysearch.cgi</span> file from Doxygen's <span class="doxyComputerOutput">bin</span> directory to the <span class="doxyComputerOutput">cgi-bin</span> directory of the Apache web server. Read the <a href="https://httpd.apache.org/docs/2.2/howto/cgi.html">apache documentation</a> for details.
+How to setup a web server is outside the scope of this document, but if you for instance have Apache installed, you could simply copy the <code>doxysearch.cgi</code> file from Doxygen's <code>bin</code> directory to the <code>cgi-bin</code> directory of the Apache web server. Read the <a href="https://httpd.apache.org/docs/2.2/howto/cgi.html">apache documentation</a> for details.
 
-To test if <span class="doxyComputerOutput">doxysearch.cgi</span> is accessible start your web browser and point to URL to the binary and add <span class="doxyComputerOutput">?test</span> at the end
+To test if <code>doxysearch.cgi</code> is accessible start your web browser and point to URL to the binary and add <code>?test</code> at the end
 
 
 <pre><code>http://yoursite.com/path/to/cgi/doxysearch.cgi?test
@@ -72,9 +72,9 @@ You should get the following message:
 
 If you use Internet Explorer you may be prompted to download a file, which will then contain this message.
 
-Since we didn't create or install a <span class="doxyComputerOutput">doxysearch.db</span> it is OK for the test to fail for this reason. How to correct this is discussed in the next section.
+Since we didn't create or install a <code>doxysearch.db</code> it is OK for the test to fail for this reason. How to correct this is discussed in the next section.
 
-Before continuing with the next section add the above URL (without the <span class="doxyComputerOutput">?test</span> part) to the <a href="/web-doxygen/docs/pages/config/#cfg_searchengine_url">SEARCHENGINE\_URL</a> tag in Doxygen's configuration file:
+Before continuing with the next section add the above URL (without the <code>?test</code> part) to the <a href="/web-doxygen/docs/pages/config/#cfg_searchengine_url">SEARCHENGINE\_URL</a> tag in Doxygen's configuration file:
 
 
 <pre><code>SEARCHENGINE_URL = http://yoursite.com/path/to/cgi/doxysearch.cgi
@@ -93,18 +93,18 @@ EXTERNAL_SEARCH        = YES
 </code></pre>
 
 
-This will make Doxygen generate a file called <span class="doxyComputerOutput">searchdata.xml</span> in the output directory (configured with <a href="/web-doxygen/docs/pages/config/#cfg_output_directory">OUTPUT\_DIRECTORY</a>). You can change the file name (and location) with the <a href="/web-doxygen/docs/pages/config/#cfg_searchdata_file">SEARCHDATA\_FILE</a> option.
+This will make Doxygen generate a file called <code>searchdata.xml</code> in the output directory (configured with <a href="/web-doxygen/docs/pages/config/#cfg_output_directory">OUTPUT\_DIRECTORY</a>). You can change the file name (and location) with the <a href="/web-doxygen/docs/pages/config/#cfg_searchdata_file">SEARCHDATA\_FILE</a> option.
 
-The next step is to put the raw search data into an index for efficient searching. You can use <span class="doxyComputerOutput">doxyindexer</span> for this. Simply run it from the command line:
+The next step is to put the raw search data into an index for efficient searching. You can use <code>doxyindexer</code> for this. Simply run it from the command line:
 
 
 <pre><code>doxyindexer searchdata.xml
 </code></pre>
 
 
-This will create a directory called <span class="doxyComputerOutput">doxysearch.db</span> with some files in it. By default the directory will be created at the location from which <span class="doxyComputerOutput">doxyindexer</span> was started, but you can change the directory using the <span class="doxyComputerOutput">-o</span> option.
+This will create a directory called <code>doxysearch.db</code> with some files in it. By default the directory will be created at the location from which <code>doxyindexer</code> was started, but you can change the directory using the <code>-o</code> option.
 
-Copy the <span class="doxyComputerOutput">doxysearch.db</span> directory to the same directory as where the <span class="doxyComputerOutput">doxysearch.cgi</span> is located and rerun the browser test by pointing the browser to
+Copy the <code>doxysearch.db</code> directory to the same directory as where the <code>doxysearch.cgi</code> is located and rerun the browser test by pointing the browser to
 
 
 <pre><code>http://yoursite.com/path/to/cgi/doxysearch.cgi?test
@@ -132,9 +132,9 @@ To make this possible all that is needed is to combine the search data for all p
 </code></pre>
 
 
-and then copy the resulting <span class="doxyComputerOutput">doxysearch.db</span> to the directory where also <span class="doxyComputerOutput">doxysearch.cgi</span> is located.
+and then copy the resulting <code>doxysearch.db</code> to the directory where also <code>doxysearch.cgi</code> is located.
 
-The <span class="doxyComputerOutput">searchdata.xml</span> file doesn't contain any absolute paths or links, so how can the search results from multiple projects be linked back to the right documentation set? This is where the <a href="/web-doxygen/docs/pages/config/#cfg_external_search_id">EXTERNAL\_SEARCH\_ID</a> and <a href="/web-doxygen/docs/pages/config/#cfg_extra_search_mappings">EXTRA\_SEARCH\_MAPPINGS</a> options come into play.
+The <code>searchdata.xml</code> file doesn't contain any absolute paths or links, so how can the search results from multiple projects be linked back to the right documentation set? This is where the <a href="/web-doxygen/docs/pages/config/#cfg_external_search_id">EXTERNAL\_SEARCH\_ID</a> and <a href="/web-doxygen/docs/pages/config/#cfg_extra_search_mappings">EXTRA\_SEARCH\_MAPPINGS</a> options come into play.
 
 To be able to identify the different projects, one needs to set a unique ID using <a href="/web-doxygen/docs/pages/config/#cfg_external_search_id">EXTERNAL\_SEARCH\_ID</a> for each project.
 
@@ -165,12 +165,12 @@ with these settings, projects A and B can share the same search database, and th
 ## Updating the index {#extsearch_update}
 
 
-When you modify the source code, you should re-run <span class="doxyComputerOutput">doxygen</span> to get up to date documentation again. When using external searching you also need to update the search index by re-running <span class="doxyComputerOutput">doxyindexer</span>. You could wrap the call to <span class="doxyComputerOutput">doxygen</span> and <span class="doxyComputerOutput">doxyindexer</span> together in a script to make this process easier.
+When you modify the source code, you should re-run <code>doxygen</code> to get up to date documentation again. When using external searching you also need to update the search index by re-running <code>doxyindexer</code>. You could wrap the call to <code>doxygen</code> and <code>doxyindexer</code> together in a script to make this process easier.
 
 ## Programming interface {#extsearch_api}
 
 
-Previous sections have assumed you use the tools <span class="doxyComputerOutput">doxyindexer</span> and <span class="doxyComputerOutput">doxysearch.cgi</span> to do the indexing and searching, but you could also write your own index and search tools if you like.
+Previous sections have assumed you use the tools <code>doxyindexer</code> and <code>doxysearch.cgi</code> to do the indexing and searching, but you could also write your own index and search tools if you like.
 
 For this 3 interfaces are important
 
@@ -187,7 +187,7 @@ The next subsections describe these interfaces in more detail.
 
 The search data produced by Doxygen follows the <a href="https://cwiki.apache.org/confluence/display/solr/UpdateXmlMessages">Solr XML index message</a> format.
 
-The input for the indexer is an XML file, which consists of one <span class="doxyComputerOutput">&lt;add&gt;</span> tag containing multiple <span class="doxyComputerOutput">&lt;doc&gt;</span> tags, which in turn contain multiple <span class="doxyComputerOutput">&lt;field&gt;</span> tags.
+The input for the indexer is an XML file, which consists of one <code>&lt;add&gt;</code> tag containing multiple <code>&lt;doc&gt;</code> tags, which in turn contain multiple <code>&lt;field&gt;</code> tags.
 
 Here is an example of one doc node, which contains the search data and meta data for one method:
 
@@ -239,7 +239,7 @@ The following fields are passed:
 <li><em>cb</em>: the name of the callback function, used for JSON with padding, see the next section.</li>
 </ul>
 
-From the complete list of search results, the range <span class="doxyComputerOutput">\[n\*p - n\*(p+1)-1\]</span> should be returned.
+From the complete list of search results, the range <code>\[n\*p - n\*(p+1)-1\]</code> should be returned.
 
 Here is an example of how a query looks like.
 
@@ -248,7 +248,7 @@ Here is an example of how a query looks like.
 </code></pre>
 
 
-It represents a query for the word 'list' (<span class="doxyComputerOutput">q=list</span>) requesting 20 search results (<span class="doxyComputerOutput">n=20</span>), starting with the result number 20 (<span class="doxyComputerOutput">p=1</span>) and using callback 'dummy' (<span class="doxyComputerOutput">cb=dummy</span>):
+It represents a query for the word 'list' (<code>q=list</code>) requesting 20 search results (<code>n=20</code>), starting with the result number 20 (<code>p=1</code>) and using callback 'dummy' (<code>cb=dummy</code>):
 
 :::info
 The values are <a href="https://en.wikipedia.org/wiki/Percent-encoding">URL encoded</a> so they have to be decoded before they can be used.
@@ -280,7 +280,7 @@ The fields have the following meaning:
 
 <ul class="doxyList ">
 <li><em>hits</em>: the total number of search results (could be more than was requested).</li>
-<li><em>first</em>: the index of first result returned: <code>$\min(n\*p,\mbox{\em hits})$</code>.</li>
+<li><em>first</em>: the index of first result returned: <code>$\min(n*p,\mbox{\em hits})$</code>.</li>
 <li><em>count</em>: the actual number of results returned: <code>$\min(n,\mbox{\em hits}-\mbox{\em first})$</code></li>
 <li><em>page</em>: the page number of the result: <code>$p$</code></li>
 <li><em>pages</em>: the total number of pages: <code>$\left\lceil\frac{\mbox{\em hits}}{n}\right\rceil$</code>.</li>
@@ -310,7 +310,7 @@ The fields for such an item have the following meaning:
 <li><em>name</em>: the name of the item, including the parameter list, as found in the fields with name "name" and "args" in the raw search data.</li>
 <li><em>tag</em>: the name of the tag file, as found in the field with name "tag" in the raw search data.</li>
 <li><em>url</em>: the name of the (relative) URL to the documentation, as found in the field with name "url" in the raw search data.</li>
-<li>"fragments": an array with 0 or more fragments of text containing words that have been search for. These words should be wrapped in <span class="doxyComputerOutput">&lt;span class="hl"&gt;</span> and <span class="doxyComputerOutput">&lt;/span&gt;</span> tags to highlight them in the output.</li>
+<li>"fragments": an array with 0 or more fragments of text containing words that have been search for. These words should be wrapped in <code>&lt;span class="hl"&gt;</code> and <code>&lt;/span&gt;</code> tags to highlight them in the output.</li>
 </ul>
 
 <hr/>

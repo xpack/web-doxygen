@@ -383,7 +383,7 @@ Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">Mo
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ae7e51116e747d3390e7a6cfc6532834c">YY_BUF_SIZE</a>&nbsp;&nbsp;&nbsp;10\*1024\*1024</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ae7e51116e747d3390e7a6cfc6532834c">YY_BUF_SIZE</a>&nbsp;&nbsp;&nbsp;10*1024*1024</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -435,7 +435,7 @@ Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">Mo
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -610,7 +610,7 @@ Converts the comments in a file.
 This function does three things:
 
 <ol class="doxyList" type="1">
-<li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE\_CPP\_IS\_BRIEF is set to NO).</li>
+<li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE_CPP_IS_BRIEF is set to NO).</li>
 <li>It replaces aliases with their definition (see ALIASES)</li>
 <li>It handles conditional sections (cond...endcond blocks)</li>
 </ol>
@@ -2987,7 +2987,7 @@ Definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/comment
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_BUF_SIZE&nbsp;&nbsp;&nbsp;10\*1024\*1024</td>
+<td class="doxyMemberName">#define YY_BUF_SIZE&nbsp;&nbsp;&nbsp;10*1024*1024</td>
 </tr>
 </table>
 </td>
@@ -3020,7 +3020,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a4e7dce846ca
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 </table>
 </td>

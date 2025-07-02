@@ -4754,7 +4754,7 @@ class MemberDefImpl { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70">Grouping::GroupPri_t</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac93c698fbc92486501de903236911d07">m_grouppri</a> = <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">Grouping::GROUPING\_AUTO\_DEF</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac93c698fbc92486501de903236911d07">m_grouppri</a> = <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">Grouping::GROUPING_AUTO_DEF</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -5312,11 +5312,11 @@ Creates a new member definition.
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">p</td>
-<td class="doxyParamItemDescription">The protection context of the member, possible values are: <span class="doxyComputerOutput">Public</span>, <span class="doxyComputerOutput">Protected</span>, <span class="doxyComputerOutput">Private</span>.</td>
+<td class="doxyParamItemDescription">The protection context of the member, possible values are: <code>Public</code>, <code>Protected</code>, <code>Private</code>.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">v</td>
-<td class="doxyParamItemDescription">The degree of 'virtualness' of the member, possible values are: <span class="doxyComputerOutput">Normal</span>, <span class="doxyComputerOutput">Virtual</span>, <span class="doxyComputerOutput">Pure</span>.</td>
+<td class="doxyParamItemDescription">The degree of 'virtualness' of the member, possible values are: <code>Normal</code>, <code>Virtual</code>, <code>Pure</code>.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">s</td>
@@ -22808,7 +22808,7 @@ Referenced by <a href="#a2ad951bc5df5d08796970a7271734b40">anchor</a>, <a href="
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">Grouping::GroupPri_t MemberDefImpl::m_grouppri = <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">Grouping::GROUPING\_AUTO\_DEF</a></td>
+<td class="doxyMemberName">Grouping::GroupPri_t MemberDefImpl::m_grouppri = <a href="/web-doxygen/docs/api/structs/grouping/#a9f0ec5ab376b083ebe3274ea79fd2d70ab767fc9fe6f874c09362fd1350738f7f">Grouping::GROUPING_AUTO_DEF</a></td>
 </tr>
 </table>
 </td>

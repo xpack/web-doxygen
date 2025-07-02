@@ -121,7 +121,7 @@ class QhpSectionTree { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/qhpsectiontree/node">Node</a> *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aaa1d4a6c4b74924ce2a000762d3ea7e7">m_current</a> = &amp;<a href="#a239c13edd441b116470818051f899257">m\_root</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aaa1d4a6c4b74924ce2a000762d3ea7e7">m_current</a> = &amp;<a href="#a239c13edd441b116470818051f899257">m_root</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -428,7 +428,7 @@ Referenced by <a href="#a9a072680707ccb788470b5463a984c38">traverse</a> and <a h
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">Node* QhpSectionTree::m_current = &amp;<a href="#a239c13edd441b116470818051f899257">m\_root</a></td>
+<td class="doxyMemberName">Node* QhpSectionTree::m_current = &amp;<a href="#a239c13edd441b116470818051f899257">m_root</a></td>
 </tr>
 </table>
 </td>

@@ -492,7 +492,7 @@ adds support for formatting <a href="/web-doxygen/docs/api/classes/memberlisttyp
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(x)&nbsp;&nbsp;&nbsp;   static\_assert(!<a href="#a6bb46239dea95b85863e5a132209f8a1">has\_newline\_at\_end</a>(x),"text: \"" x "\" should not have \\n at end");</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(x)&nbsp;&nbsp;&nbsp;   static_assert(!<a href="#a6bb46239dea95b85863e5a132209f8a1">has_newline_at_end</a>(x),"text: \"" x "\" should not have \\n at end");</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -505,7 +505,7 @@ adds support for formatting <a href="/web-doxygen/docs/api/classes/memberlisttyp
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg_newline_required</a>(x)&nbsp;&nbsp;&nbsp;   static\_assert(<a href="#a6bb46239dea95b85863e5a132209f8a1">has\_newline\_at\_end</a>(x),"text: \"" x "\" should have \\n at end");</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg_newline_required</a>(x)&nbsp;&nbsp;&nbsp;   static_assert(<a href="#a6bb46239dea95b85863e5a132209f8a1">has_newline_at_end</a>(x),"text: \"" x "\" should have \\n at end");</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -518,7 +518,7 @@ adds support for formatting <a href="/web-doxygen/docs/api/classes/memberlisttyp
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>(fmt, ...)&nbsp;&nbsp;&nbsp;  <a href="#ace632f900cabdba027c4f8034b7c31ef">msg\_fmt</a>(FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>(fmt, ...)&nbsp;&nbsp;&nbsp;  <a href="#ace632f900cabdba027c4f8034b7c31ef">msg_fmt</a>(FMT_STRING(fmt),##__VA_ARGS__)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1540,8 +1540,8 @@ Reference <a href="#a9860ed9c33a1b2d1842c66e97c2e9eba">warn\_uncond\_</a>.
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                   \
-    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg\_newline\_required</a>(fmt);              \
-    <a href="#ae3b8cd624e6c2ec6778469b7821caafd">err\_fmt</a>(FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg_newline_required</a>(fmt);              \
+    <a href="#ae3b8cd624e6c2ec6778469b7821caafd">err_fmt</a>(FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1587,8 +1587,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ad2dcf0394d4
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                   \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                             \
-    <a href="#af6932e5ae88b6ad6b25989caf7fad051">err\_full\_fmt</a>(file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                             \
+    <a href="#af6932e5ae88b6ad6b25989caf7fad051">err_full_fmt</a>(file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1619,7 +1619,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#af3ba6fc8
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define msg(fmt, ...)&nbsp;&nbsp;&nbsp;  <a href="#ace632f900cabdba027c4f8034b7c31ef">msg\_fmt</a>(FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_)</td>
+<td class="doxyMemberName">#define msg(fmt, ...)&nbsp;&nbsp;&nbsp;  <a href="#ace632f900cabdba027c4f8034b7c31ef">msg_fmt</a>(FMT_STRING(fmt),##__VA_ARGS__)</td>
 </tr>
 </table>
 </td>
@@ -1653,7 +1653,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a0410c3e0f3f
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define msg_newline_required(x)&nbsp;&nbsp;&nbsp;   static\_assert(<a href="#a6bb46239dea95b85863e5a132209f8a1">has\_newline\_at\_end</a>(x),"text: \"" x "\" should have \\n at end");</td>
+<td class="doxyMemberName">#define msg_newline_required(x)&nbsp;&nbsp;&nbsp;   static_assert(<a href="#a6bb46239dea95b85863e5a132209f8a1">has_newline_at_end</a>(x),"text: \"" x "\" should have \\n at end");</td>
 </tr>
 </table>
 </td>
@@ -1685,7 +1685,7 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/message-h
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define msg_no_newline_allowed(x)&nbsp;&nbsp;&nbsp;   static\_assert(!<a href="#a6bb46239dea95b85863e5a132209f8a1">has\_newline\_at\_end</a>(x),"text: \"" x "\" should not have \\n at end");</td>
+<td class="doxyMemberName">#define msg_no_newline_allowed(x)&nbsp;&nbsp;&nbsp;   static_assert(!<a href="#a6bb46239dea95b85863e5a132209f8a1">has_newline_at_end</a>(x),"text: \"" x "\" should not have \\n at end");</td>
 </tr>
 </table>
 </td>
@@ -1732,8 +1732,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/message-h
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                   \
-    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg\_newline\_required</a>(fmt);               \
-    <a href="#a470c151e1a1142bf01f5e9be2500d20d">term\_fmt</a>(FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg_newline_required</a>(fmt);               \
+    <a href="#a470c151e1a1142bf01f5e9be2500d20d">term_fmt</a>(FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1779,8 +1779,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                                        \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                                            \
-    <a href="#af459e756f4676a24a106e67723415920">warn\_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">WarningType::Generic</a>,file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                                            \
+    <a href="#af459e756f4676a24a106e67723415920">warn_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aea8045a0a6c688b0635e3caccc408a1446">WarningType::Generic</a>,file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1826,8 +1826,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e2
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                               \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                                             \
-    <a href="#af459e756f4676a24a106e67723415920">warn\_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeafb8427f1dd12e9cfe06017e2d46f6843">WarningType::DocError</a>,file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                                             \
+    <a href="#af459e756f4676a24a106e67723415920">warn_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeafb8427f1dd12e9cfe06017e2d46f6843">WarningType::DocError</a>,file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1873,8 +1873,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc9
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                               \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                                                  \
-    <a href="#af459e756f4676a24a106e67723415920">warn\_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aead321401b4e59fb2eb89b942818e860bb">WarningType::IncompleteDoc</a>,file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                                                  \
+    <a href="#af459e756f4676a24a106e67723415920">warn_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aead321401b4e59fb2eb89b942818e860bb">WarningType::IncompleteDoc</a>,file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1920,8 +1920,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                               \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                                             \
-    <a href="#af459e756f4676a24a106e67723415920">warn\_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeaebd9bec4d70abc789d439c1f136b0538">WarningType::Layout</a>,file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                                             \
+    <a href="#af459e756f4676a24a106e67723415920">warn_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeaebd9bec4d70abc789d439c1f136b0538">WarningType::Layout</a>,file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -1967,8 +1967,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/layoutparser/#a4bec4061de53
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                   \
-    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg\_newline\_required</a>(fmt);                      \
-    <a href="#a38008a48b77c36b6ab647ba2cc5017b9">warn\_uncond\_fmt</a>(FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#a4c919f4b1ae5eb5449e47b9ac70b88a3">msg_newline_required</a>(fmt);                      \
+    <a href="#a38008a48b77c36b6ab647ba2cc5017b9">warn_uncond_fmt</a>(FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>
@@ -2014,8 +2014,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a0410c3e0f3f
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">    do {                                       \
-    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg\_no\_newline\_allowed</a>(fmt);                                                 \
-    <a href="#af459e756f4676a24a106e67723415920">warn\_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeafcb2132b65cdd119b19be66fbc3622e2">WarningType::Undocumented</a>,file,line,FMT\_STRING(fmt),##\_\_VA\_ARGS\_\_); \
+    <a href="#af6b4e999f0a44a500949cbb87764b59a">msg_no_newline_allowed</a>(fmt);                                                 \
+    <a href="#af459e756f4676a24a106e67723415920">warn_fmt</a>(<a href="#aa278aa207bdeddc8432b560d1e1312aeafcb2132b65cdd119b19be66fbc3622e2">WarningType::Undocumented</a>,file,line,FMT_STRING(fmt),##__VA_ARGS__); \
   } while (0)
 </div>
 </dd>

@@ -168,7 +168,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7941da0682a76ffa9869d8458e166062">JAVACC_STRING_TYPE</a>&nbsp;&nbsp;&nbsp;std::basic\_string&lt;<a href="#a401fffd20e03e2993f9588187b65afc3">JAVACC\_CHAR\_TYPE</a>&gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7941da0682a76ffa9869d8458e166062">JAVACC_STRING_TYPE</a>&nbsp;&nbsp;&nbsp;std::basic_string&lt;<a href="#a401fffd20e03e2993f9588187b65afc3">JAVACC_CHAR_TYPE</a>&gt;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -181,7 +181,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac82c9f0881bc263341157153e0f2ae27">JAVACC_SIMPLE_STRING</a>&nbsp;&nbsp;&nbsp;std::basic\_string&lt;char&gt;</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ac82c9f0881bc263341157153e0f2ae27">JAVACC_SIMPLE_STRING</a>&nbsp;&nbsp;&nbsp;std::basic_string&lt;char&gt;</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -434,7 +434,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/readerstream/#abf4b09233667
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define JAVACC_SIMPLE_STRING&nbsp;&nbsp;&nbsp;std::basic\_string&lt;char&gt;</td>
+<td class="doxyMemberName">#define JAVACC_SIMPLE_STRING&nbsp;&nbsp;&nbsp;std::basic_string&lt;char&gt;</td>
 </tr>
 </table>
 </td>
@@ -465,7 +465,7 @@ Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define JAVACC_STRING_TYPE&nbsp;&nbsp;&nbsp;std::basic\_string&lt;<a href="#a401fffd20e03e2993f9588187b65afc3">JAVACC\_CHAR\_TYPE</a>&gt;</td>
+<td class="doxyMemberName">#define JAVACC_STRING_TYPE&nbsp;&nbsp;&nbsp;std::basic_string&lt;<a href="#a401fffd20e03e2993f9588187b65afc3">JAVACC_CHAR_TYPE</a>&gt;</td>
 </tr>
 </table>
 </td>

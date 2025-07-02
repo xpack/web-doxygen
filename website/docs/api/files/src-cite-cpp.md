@@ -112,7 +112,7 @@ class that provide information about the p\[osition of a citation name <a href="
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const char *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a> = "bibTmpFile\_"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a> = "bibTmpFile_"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -138,7 +138,7 @@ class that provide information about the p\[osition of a citation name <a href="
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const std::string</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a> = "CITE\_FORMULA\_"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a> = "CITE_FORMULA_"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -249,7 +249,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const char* bibTmpFile = "bibTmpFile\_"</td>
+<td class="doxyMemberName">const char* bibTmpFile = "bibTmpFile_"</td>
 </tr>
 </table>
 </td>
@@ -282,7 +282,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const std::string g_formulaMarker = "CITE\_FORMULA\_"</td>
+<td class="doxyMemberName">const std::string g_formulaMarker = "CITE_FORMULA_"</td>
 </tr>
 </table>
 </td>

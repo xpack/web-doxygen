@@ -267,7 +267,7 @@ adjust globals that depend on configuration settings. <a href="#a10458b8a16238a4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af8556c37f3acfa45992b8697930c501b">THREAD_LOCAL</a>&nbsp;&nbsp;&nbsp;thread\_local</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af8556c37f3acfa45992b8697930c501b">THREAD_LOCAL</a>&nbsp;&nbsp;&nbsp;thread_local</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -280,7 +280,7 @@ adjust globals that depend on configuration settings. <a href="#a10458b8a16238a4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5169be8a2e53cfcdfe027b9e06a63281">AtomicInt</a>&nbsp;&nbsp;&nbsp;std::atomic\_int</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5169be8a2e53cfcdfe027b9e06a63281">AtomicInt</a>&nbsp;&nbsp;&nbsp;std::atomic_int</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -2481,7 +2481,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7ed1fdd15e6
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define AtomicInt&nbsp;&nbsp;&nbsp;std::atomic\_int</td>
+<td class="doxyMemberName">#define AtomicInt&nbsp;&nbsp;&nbsp;std::atomic_int</td>
 </tr>
 </table>
 </td>
@@ -2512,7 +2512,7 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define THREAD_LOCAL&nbsp;&nbsp;&nbsp;thread\_local</td>
+<td class="doxyMemberName">#define THREAD_LOCAL&nbsp;&nbsp;&nbsp;thread_local</td>
 </tr>
 </table>
 </td>

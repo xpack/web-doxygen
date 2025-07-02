@@ -111,7 +111,7 @@ Returns the filled in std::tm for the current date and time. <a href="#aad46a931
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a>
+Returns the current date, when <code>includeTime</code> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -280,11 +280,11 @@ Returns the filled in std::tm for a given string representing a date and/or time
 
 <ul class="doxyList ">
 <li>the empty string: the current date and time is returned</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD HH:MM:SS</span>: the date and time are fully specified</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD HH:MM</span>: the date and time without seconds</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD</span>: the date without time</li>
-<li><span class="doxyComputerOutput">HH:MM:SS</span>: the time with seconds but without date</li>
-<li><span class="doxyComputerOutput">HH:MM</span>: the time without seconds and without date</li>
+<li><code>YYYY-MM-DD HH:MM:SS</code>: the date and time are fully specified</li>
+<li><code>YYYY-MM-DD HH:MM</code>: the date and time without seconds</li>
+<li><code>YYYY-MM-DD</code>: the date without time</li>
+<li><code>HH:MM:SS</code>: the time with seconds but without date</li>
+<li><code>HH:MM</code>: the time without seconds and without date</li>
 </ul></td>
 </tr>
 <tr class="doxyParamItem">
@@ -293,7 +293,7 @@ Returns the filled in std::tm for a given string representing a date and/or time
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] format</td>
-<td class="doxyParamItemDescription">The parts that have been found in spec; a bitwise or of <span class="doxyComputerOutput">SF\_Date</span>, <span class="doxyComputerOutput">SF\_Time</span> and <span class="doxyComputerOutput">SF\_Seconds</span>.</td>
+<td class="doxyParamItemDescription">The parts that have been found in spec; a bitwise or of <code>SF_Date</code>, <code>SF_Time</code> and <code>SF_Seconds</code>.</td>
 </tr>
 </table>
 </dd>
@@ -379,7 +379,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </div>
 <div class="doxyMemberDoc">
 
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided.
+Returns the current date, when <code>includeTime</code> is set also the time is provided.
 
 
 <dl class="doxyParamsList">
@@ -496,7 +496,7 @@ Return a string representation for a given std::tm value that is formatted accor
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] format</td>
-<td class="doxyParamItemDescription">the string used for format the date and time, e.g. <span class="doxyComputerOutput">Y-m-d</span></td>
+<td class="doxyParamItemDescription">the string used for format the date and time, e.g. <code>Y-m-d</code></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] dt</td>
@@ -504,7 +504,7 @@ Return a string representation for a given std::tm value that is formatted accor
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] formatUsed</td>
-<td class="doxyParamItemDescription">A bitwise OR of <span class="doxyComputerOutput">SF\_Date</span>, <span class="doxyComputerOutput">SF\_Time</span> and <span class="doxyComputerOutput">SF\_Seconds</span> representing the the types of markers found in the format string.</td>
+<td class="doxyParamItemDescription">A bitwise OR of <code>SF_Date</code>, <code>SF_Time</code> and <code>SF_Seconds</code> representing the the types of markers found in the format string.</td>
 </tr>
 </table>
 </dd>
@@ -720,13 +720,12 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">{
-  
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_year = value-1900; }, 1900,       9999,    "year"   },
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_mon  = value-1;    },    1,         12,    "month"  },
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_mday = value;      },    1,         31,    "day"    },
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_hour = value;      },    0,         23,    "hour"   },
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_min  = value;      },    0,         59,    "minute" },
-  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ \[\](std::tm &amp;tm,int value) { tm.tm\_sec  = value;      },    0,         59,    "second" }
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_year = value-1900; }, 1900,       9999,    "year"   },
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_mon  = value-1;    },    1,         12,    "month"  },
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_mday = value;      },    1,         31,    "day"    },
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_hour = value;      },    0,         23,    "hour"   },
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_min  = value;      },    0,         59,    "minute" },
+  <a href="/web-doxygen/docs/api/structs/datetimefield">DateTimeField</a>{ [](std::tm &amp;tm,int value) { tm.tm_sec  = value;      },    0,         59,    "second" }
 }
 </div>
 </dd>
@@ -782,12 +781,11 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">{
-  
-  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string\_view(R"((\d+)-(\d+)-(\d+)\s\*(\d+):(\d+):(\d+))"),  6,  0,  SF\_Date|<a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF\_Time</a>|<a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF\_Seconds</a> }, 
-  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string\_view(R"((\d+)-(\d+)-(\d+)\s\*(\d+):(\d+))"),        5,  0,  SF\_Date|<a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF\_Time</a>            }, 
-  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string\_view(R"((\d+)-(\d+)-(\d+))"),                      3,  0,  SF\_Date                    }, 
-  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string\_view(R"((\d+):(\d+):(\d+))"),                      3,  3,  SF\_Time|<a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF\_Seconds</a>         }, 
-  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string\_view(R"((\d+):(\d+))"),                            2,  3,  SF\_Time                    }  
+  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string_view(R"((\d+)-(\d+)-(\d+)\s*(\d+):(\d+):(\d+))"),  6,  0,  SF_Date|<a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF_Time</a>|<a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF_Seconds</a> }, 
+  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string_view(R"((\d+)-(\d+)-(\d+)\s*(\d+):(\d+))"),        5,  0,  SF_Date|<a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF_Time</a>            }, 
+  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string_view(R"((\d+)-(\d+)-(\d+))"),                      3,  0,  SF_Date                    }, 
+  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string_view(R"((\d+):(\d+):(\d+))"),                      3,  3,  SF_Time|<a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF_Seconds</a>         }, 
+  <a href="/web-doxygen/docs/api/structs/specformat">SpecFormat</a>{ std::string_view(R"((\d+):(\d+))"),                            2,  3,  SF_Time                    }  
 }
 </div>
 </dd>

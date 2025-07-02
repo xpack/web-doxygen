@@ -20,14 +20,14 @@ toc_max_heading_level: 4
 
 
 
-Most documentation systems have special ‘see also` sections where links to other pieces of documentation can be inserted. Although Doxygen also has a command to start such a section (See section <a href="/web-doxygen/docs/pages/commands/#cmdsa">\sa</a>), it does allow you to put these kind of links anywhere in the documentation. For <code>{\LaTeX}</code> documentation a reference to the page number is written instead of a link. Furthermore, the index at the end of the document can be used to quickly find the documentation of a member, class, namespace or file. For man pages no reference information is generated.
+Most documentation systems have special ‘see also` sections where links to other pieces of documentation can be inserted. Although Doxygen also has a command to start such a section (See section <a href="/web-doxygen/docs/pages/commands/#cmdsa">\\sa</a>), it does allow you to put these kind of links anywhere in the documentation. For <code>{\LaTeX}</code> documentation a reference to the page number is written instead of a link. Furthermore, the index at the end of the document can be used to quickly find the documentation of a member, class, namespace or file. For man pages no reference information is generated.
 
 The next sections show how to generate links to the various documented entities in a source file.
 
 ## Links to web pages and mail addresses {#linkurl}
 
 
-Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<span class="doxyComputerOutput">a</span>' tag:
+Doxygen will automatically replace any URLs and mail addresses found in the documentation by links (in HTML). To manually specify link text, use the HTML '<code>a</code>' tag:
 
 
 <pre><code>&lt;a href="linkURL"&gt;link text&lt;/a&gt;
@@ -39,12 +39,12 @@ which will be automatically translated to other output formats by Doxygen.
 ## Links to classes {#linkclass}
 
 
-All words in the documentation that correspond to a documented class and contain at least one non-lower case character will automatically be replaced by a link to the page containing the documentation of the class. If you want to prevent that a word that corresponds to a documented class is replaced by a link you should put a % in front of the word. To link to an all lower case symbol, use <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a>.
+All words in the documentation that correspond to a documented class and contain at least one non-lower case character will automatically be replaced by a link to the page containing the documentation of the class. If you want to prevent that a word that corresponds to a documented class is replaced by a link you should put a % in front of the word. To link to an all lower case symbol, use <a href="/web-doxygen/docs/pages/commands/#cmdref">\\ref</a>.
 
 ## Links to files {#linkfile}
 
 
-All words that contain a dot (<span class="doxyComputerOutput">.</span>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.
+All words that contain a dot (<code>.</code>) that is not the last character in the word are considered to be file names. If the word is indeed the name of a documented input file, a link will automatically be created to the documentation of that file.
 
 ## Links to functions {#linkfunc}
 
@@ -52,13 +52,13 @@ All words that contain a dot (<span class="doxyComputerOutput">.</span>) that is
 Links to functions are created if one of the following patterns is encountered:
 
 <ol class="doxyList" type="1">
-<li><span class="doxyComputerOutput">&lt;functionName&gt;"("&lt;argument-list&gt;")"</span></li>
-<li><span class="doxyComputerOutput">&lt;functionName&gt;"()"</span></li>
-<li><span class="doxyComputerOutput">"::"&lt;functionName&gt;</span></li>
-<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"</span></li>
-<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"&lt;modifiers&gt;</span></li>
-<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"()"</span></li>
-<li><span class="doxyComputerOutput">(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;</span></li>
+<li><code>&lt;functionName&gt;"("&lt;argument-list&gt;")"</code></li>
+<li><code>&lt;functionName&gt;"()"</code></li>
+<li><code>"::"&lt;functionName&gt;</code></li>
+<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"</code></li>
+<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"("&lt;argument-list&gt;")"&lt;modifiers&gt;</code></li>
+<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;"()"</code></li>
+<li><code>(&lt;className&gt;"::")<sup>n</sup>&lt;functionName&gt;</code></li>
 </ol>
 
 where n&gt;0.

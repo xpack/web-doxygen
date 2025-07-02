@@ -3466,7 +3466,7 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\end{document}</span> in the LaTeX document.
+Sets the commands to be inserted directly before the <code>\\\\end{document}</code> in the LaTeX document.
 
 Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -3509,7 +3509,7 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\begin{document}</span> in the LaTeX document.
+Sets the commands to be inserted directly after the <code>\\\\begin{document}</code> in the LaTeX document.
 
 Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -3552,7 +3552,7 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
+Sets the LaTeX font encoding to be used. The default is set to <code>T1</code>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
 
 Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -3840,7 +3840,7 @@ Definition at line 996 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This text is generated when the \author command is used and for the author section in man pages.
+This text is generated when the \\author command is used and for the author section in man pages.
 
 Definition at line 1285 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -3883,7 +3883,7 @@ Definition at line 1285 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-Used as a marker that is put before a \bug item
+Used as a marker that is put before a \\bug item
 
 Definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -5399,7 +5399,7 @@ Definition at line 1604 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \date command is used.
+this text is generated when the \\date command is used.
 
 Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -6906,7 +6906,7 @@ Definition at line 376 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \exception command is used.
+this text is generated when the \\exception command is used.
 
 Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -8669,7 +8669,7 @@ Definition at line 1951 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-Text for the \invariant command
+Text for the \\invariant command
 
 Definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -9585,7 +9585,7 @@ Definition at line 1649 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-This is put above each page as a link to the list of all groups of compounds or files (see the \group command).
+This is put above each page as a link to the list of all groups of compounds or files (see the \\group command).
 
 Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -10452,7 +10452,7 @@ Definition at line 921 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This text is added to the documentation when the \overload command is used for a overloaded function.
+This text is added to the documentation when the \\overload command is used for a overloaded function.
 
 Definition at line 1519 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -10964,7 +10964,7 @@ Definition at line 1898 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \param command is used.
+this text is generated when the \\param command is used.
 
 Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -11005,7 +11005,7 @@ Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Text for the \post command
+Text for the \\post command
 
 Definition at line 882 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -11048,7 +11048,7 @@ Definition at line 882 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Text for the \pre command
+Text for the \\pre command
 
 Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -12156,7 +12156,7 @@ Definition at line 992 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \return command is used.
+this text is generated when the \\return command is used.
 
 Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -12667,7 +12667,7 @@ Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \sa command is used.
+this text is generated when the \\sa command is used.
 
 Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -14027,7 +14027,7 @@ Definition at line 486 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \version command is used.
+this text is generated when the \\version command is used.
 
 Definition at line 560 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 
@@ -14068,7 +14068,7 @@ Definition at line 560 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \warning command is used.
+this text is generated when the \\warning command is used.
 
 Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/translator-jp-h">translator_jp.h</a>.
 

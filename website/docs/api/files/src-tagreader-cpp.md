@@ -465,7 +465,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7389d7a8c7a
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">     do {                                             \
-     <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>(m\_locator-&gt;fileName(),m\_locator-&gt;lineNr(),fmt,##\_\_VA\_ARGS\_\_);  \
+     <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>(m_locator-&gt;fileName(),m_locator-&gt;lineNr(),fmt,##__VA_ARGS__);  \
    } while(0)
 </div>
 </dd>

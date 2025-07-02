@@ -384,7 +384,7 @@ Returns a code for the requested Emoji entity name.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the code for the requested Emoji entity name, in case the requested Emoji item does not exist <span class="doxyComputerOutput">-1</span> is returned.
+the code for the requested Emoji entity name, in case the requested Emoji item does not exist <code>-1</code> is returned.
 </dd>
 </dl>
 

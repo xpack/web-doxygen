@@ -98,7 +98,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aea20ab8f782b45746f1e20f5d0b565e6">MAX_LATEX_GRAPH_SIZE</a>&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a> \* 72)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aea20ab8f782b45746f1e20f5d0b565e6">MAX_LATEX_GRAPH_SIZE</a>&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX_LATEX_GRAPH_INCH</a> * 72)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -397,7 +397,7 @@ Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define MAX_LATEX_GRAPH_SIZE&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a> \* 72)</td>
+<td class="doxyMemberName">#define MAX_LATEX_GRAPH_SIZE&nbsp;&nbsp;&nbsp;(<a href="#a11984900bb9b207c7496404c65c40115">MAX_LATEX_GRAPH_INCH</a> * 72)</td>
 </tr>
 </table>
 </td>

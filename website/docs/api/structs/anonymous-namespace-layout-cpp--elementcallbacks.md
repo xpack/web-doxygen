@@ -76,7 +76,7 @@ struct anonymous_namespace{layout.cpp}::ElementCallbacks { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="#a290bacf7e342d8041b3cf704a7f8df09">EndCallback</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a9235a1109f8836d4dfe7a856a98c21f4">endCb</a> = \[\](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a9235a1109f8836d4dfe7a856a98c21f4">endCb</a> = [](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -173,7 +173,7 @@ Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">EndCallback anonymous_namespace{layout.cpp}::ElementCallbacks::endCb = \[\](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
+<td class="doxyMemberName">EndCallback anonymous_namespace{layout.cpp}::ElementCallbacks::endCb = [](<a href="/web-doxygen/docs/api/classes/layoutparser">LayoutParser</a> &amp;,const std::string &amp;){}</td>
 </tr>
 </table>
 </td>

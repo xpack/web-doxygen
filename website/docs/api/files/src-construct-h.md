@@ -140,7 +140,7 @@ Macro to implement rule of 5 for an abstract base class.
     cls &amp;operator=(const cls &amp;) = delete;         \
     cls(cls &amp;&amp;) = delete;                         \
     cls &amp;operator=(cls &amp;&amp;) = delete;              \
-    virtual \~cls() = default;                     \
+    virtual ~cls() = default;                     \
 </div>
 </dd>
 </dl>
@@ -190,7 +190,7 @@ Macro to help implementing the rule of 5 for a default copyable &amp; movable cl
     cls &amp;operator=(const cls &amp;) = default;        \
     cls(cls &amp;&amp;) = default;                        \
     cls &amp;operator=(cls &amp;&amp;) = default;             \
-    virtual \~cls() = default;
+    virtual ~cls() = default;
 </div>
 </dd>
 </dl>

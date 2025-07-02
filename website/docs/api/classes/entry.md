@@ -510,7 +510,7 @@ initial value (for variables) <a href="#a021aa39b13484ebb8ed7663d200a171d">More.
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-include file (2 arg of \class, must be unique) <a href="#a88c55fcdd65a52dce640136f18adccf2">More...</a>
+include file (2 arg of \\class, must be unique) <a href="#a88c55fcdd65a52dce640136f18adccf2">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -524,7 +524,7 @@ include file (2 arg of \class, must be unique) <a href="#a88c55fcdd65a52dce64013
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-include name (3 arg of \class) <a href="#a32626ce14eb253f6da64ed475419a4ac">More...</a>
+include name (3 arg of \\class) <a href="#a32626ce14eb253f6da64ed475419a4ac">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2907,7 +2907,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a745ab96a81d
 </div>
 <div class="doxyMemberDoc">
 
-include file (2 arg of \class, must be unique)
+include file (2 arg of \\class, must be unique)
 
 Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 
@@ -2940,7 +2940,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a13a18d70232
 </div>
 <div class="doxyMemberDoc">
 
-include name (3 arg of \class)
+include name (3 arg of \\class)
 
 Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
 

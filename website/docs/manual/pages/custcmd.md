@@ -41,20 +41,20 @@ For example defining the following alias:
 </code></pre>
 
 
-will allow you to put the command <span class="doxyComputerOutput">\sideeffect</span> (or <span class="doxyComputerOutput">@sideeffect</span>) in the documentation, which will result in a user-defined paragraph with heading <b>Side Effects:</b>.
+will allow you to put the command <code>\\sideeffect</code> (or <code>@sideeffect</code>) in the documentation, which will result in a user-defined paragraph with heading <b>Side Effects:</b>.
 
-Note that you cannot put <span class="doxyComputerOutput">\n</span>'s in the value part of an alias to insert newlines (in the resulting output). You can put <span class="doxyComputerOutput">^^</span> in the value part of an alias to insert a newline as if a physical newline was in the original file.
+Note that you cannot put <code>\\n</code>'s in the value part of an alias to insert newlines (in the resulting output). You can put <code>^^</code> in the value part of an alias to insert a newline as if a physical newline was in the original file.
 
-Note when you need a literal <span class="doxyComputerOutput">{</span> or <span class="doxyComputerOutput">}</span> or <span class="doxyComputerOutput">,</span> (or non default separator) in the value part of an alias you have to escape it by means of a backslash (<span class="doxyComputerOutput">\</span>), this can lead to conflicts with the commands <span class="doxyComputerOutput">\{</span> and <span class="doxyComputerOutput">\}</span> for these it is advised to use the version <span class="doxyComputerOutput">@{</span> and <span class="doxyComputerOutput">@}</span> or use a double escape (<span class="doxyComputerOutput">\\{</span> and <span class="doxyComputerOutput">\\}</span>)
+Note when you need a literal <code>{</code> or <code>}</code> or <code>,</code> (or non default separator) in the value part of an alias you have to escape it by means of a backslash (<code>\\</code>), this can lead to conflicts with the commands <code>\\{</code> and <code>\\}</code> for these it is advised to use the version <code>@{</code> and <code>@}</code> or use a double escape (<code>\\\\{</code> and <code>\\\\}</code>)
 
 Also note that you can redefine existing special commands if you wish.
 
-Some commands, such as <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\xrefitem</a> are designed to be used in combination with aliases.
+Some commands, such as <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\\xrefitem</a> are designed to be used in combination with aliases.
 
 ## Aliases with arguments {#custcmd_complex}
 
 
-Aliases can also have one or more arguments. In the alias definition you then need to specify the number of arguments between curly braces. In the value part of the definition you can place <span class="doxyComputerOutput">\x</span> markers, where '<span class="doxyComputerOutput">x</span>' represents the argument number starting with 1.
+Aliases can also have one or more arguments. In the alias definition you then need to specify the number of arguments between curly braces. In the value part of the definition you can place <code>\\x</code> markers, where '<code>x</code>' represents the argument number starting with 1.
 
 Here is an example of an alias definition with a single argument:
 
@@ -103,7 +103,7 @@ inside the comment block and it will expand to
 
 where the command with a single argument would still work as shown before.
 
-Aliases can also be expressed in terms of other aliases, e.g. a new command <span class="doxyComputerOutput">\reminder</span> can be expressed as a <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\xrefitem</a> via an intermediate <span class="doxyComputerOutput">\xreflist</span> command as follows:
+Aliases can also be expressed in terms of other aliases, e.g. a new command <code>\\reminder</code> can be expressed as a <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\\xrefitem</a> via an intermediate <code>\\xreflist</code> command as follows:
 
 
 <pre><code>ALIASES += xreflist{3}="\xrefitem \1 \"\2\" \"\3\" "
@@ -118,7 +118,7 @@ Note that if for aliases with more than one argument a comma is used as a separa
 </code></pre>
 
 
-given the alias definition of <span class="doxyComputerOutput">\l</span> in the example above.
+given the alias definition of <code>\\l</code> in the example above.
 
 By default the separator for arguments in an alias is a comma. However, for arguments with a lot of commas, such as templates of function definitions, escaping each comma can be cumbersome. To solve this, one can specify a different separator, directly after the parameter count, for example to use a semicolon as separator one can define the command as follows:
 
@@ -168,7 +168,7 @@ Will produce:
 <li>Choose 3: 'One+Two', 'Three', and 'Four'</li>
 </ul>
 
-For the last command both definitions of <span class="doxyComputerOutput">v</span> match, but the one with 3 parameters is selected as it matches more parameters.
+For the last command both definitions of <code>v</code> match, but the one with 3 parameters is selected as it matches more parameters.
 
 ## Nesting custom command {#custcmd_nesting}
 

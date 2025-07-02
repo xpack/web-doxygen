@@ -557,16 +557,16 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 <dd>
 <div class="doxyVerbatim">=
 {
-  { "Title",        <a href="#a86de556a1278f74936d85c3ad6737305">rtf\_title</a>        },
-  { "Subject",      <a href="#ababa40e3b47889c9d6a12b2c27b1dcea">rtf\_subject</a>      },
-  { "Comments",     <a href="#ab52a06ee957fd74f7e3cc2d7237ea8b9">rtf\_comments</a>     },
-  { "Company",      <a href="#a0324698363e2cd57eab1023a6dfd3eaf">rtf\_company</a>      },
-  { "LogoFilename", <a href="#a6dadec111c906be2f9b08e2b20a203d0">rtf\_logoFilename</a> },
-  { "Author",       <a href="#aa3f13730015be2d7e9ab56c1282b4b9a">rtf\_author</a>       },
-  { "Manager",      <a href="#ab3df69814841b23f1daaf5cdf52f11ce">rtf\_manager</a>      },
-  { "DocumentType", <a href="#a171eccae8452542c0917db77076e6769">rtf\_documentType</a> },
-  { "DocumentId",   <a href="#ae5cb613ade78225b9d6487115d840fd7">rtf\_documentId</a>   },
-  { "Keywords",     <a href="#aa26f5b63acab74269d212f1559aafb5b">rtf\_keywords</a>     }
+  { "Title",        <a href="#a86de556a1278f74936d85c3ad6737305">rtf_title</a>        },
+  { "Subject",      <a href="#ababa40e3b47889c9d6a12b2c27b1dcea">rtf_subject</a>      },
+  { "Comments",     <a href="#ab52a06ee957fd74f7e3cc2d7237ea8b9">rtf_comments</a>     },
+  { "Company",      <a href="#a0324698363e2cd57eab1023a6dfd3eaf">rtf_company</a>      },
+  { "LogoFilename", <a href="#a6dadec111c906be2f9b08e2b20a203d0">rtf_logoFilename</a> },
+  { "Author",       <a href="#aa3f13730015be2d7e9ab56c1282b4b9a">rtf_author</a>       },
+  { "Manager",      <a href="#ab3df69814841b23f1daaf5cdf52f11ce">rtf_manager</a>      },
+  { "DocumentType", <a href="#a171eccae8452542c0917db77076e6769">rtf_documentType</a> },
+  { "DocumentId",   <a href="#ae5cb613ade78225b9d6487115d840fd7">rtf_documentId</a>   },
+  { "Keywords",     <a href="#aa26f5b63acab74269d212f1559aafb5b">rtf_keywords</a>     }
 }
 </div>
 </dd>
@@ -1446,7 +1446,7 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">  { "ListBullet"#lvl,                                                \
-    "\\s"#nest"\\fi-360\\li"#pos"\\widctlpar\\jclisttab\\tx"#pos"{\\\*\\pn \\pnlvlbody\\ilvl0\\ls"#lvl2"\\pnrnot0\\pndec }\\ls1\\adjustright \\fs20\\cgrid ", \
+    "\\s"#nest"\\fi-360\\li"#pos"\\widctlpar\\jclisttab\\tx"#pos"{\\*\\pn \\pnlvlbody\\ilvl0\\ls"#lvl2"\\pnrnot0\\pndec }\\ls1\\adjustright \\fs20\\cgrid ", \
     "\\sbasedon0 \\snext"#nxt" \\sautoupd <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a4ee29ca12c7d126654bd0e5275de6135">List</a> Bullet "#lvl          \
   }
 </div>
@@ -1539,7 +1539,7 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 <dd>
 <div class="doxyVerbatim">  { id, lvl,                              \
     "\\listlevel\\levelnfc23\\leveljc0\\levelstartat1\\levelfollow0{\\leveltext \\'01\\u"#chr" ?;}{\\levelnumbers;}\\f8\\dbch\\af3\\fi-360\\li"#pos, \
-    "{\\\*\\hyphen2\\hyphlead2\\hyphtrail2\\hyphmax0}\\nowidctlpar\\cf0\\hich\\af0\\langfe2052\\dbch\\af0\\afs24\\lang1081\\loch\\f0\\fs24\\lang1033{\\listtext\\pard\\plain \\hich\\af3\\dbch\\af3\\loch\\f8 \\'01\\u"#chr"\\tab}\\ilvl"#lvl"\\ls"#id" \\li0\\ri0\\lin0\\rin0\\fi-360\\tx"#pos"\\li"#pos"\\ri0\\lin"#pos"\\rin0\\fi-360\\kerning1\\hich\\af4\\dbch\\af5\\rtlch \\ltrch\\loch\\fs20" \
+    "{\\*\\hyphen2\\hyphlead2\\hyphtrail2\\hyphmax0}\\nowidctlpar\\cf0\\hich\\af0\\langfe2052\\dbch\\af0\\afs24\\lang1081\\loch\\f0\\fs24\\lang1033{\\listtext\\pard\\plain \\hich\\af3\\dbch\\af3\\loch\\f8 \\'01\\u"#chr"\\tab}\\ilvl"#lvl"\\ls"#id" \\li0\\ri0\\lin0\\rin0\\fi-360\\tx"#pos"\\li"#pos"\\ri0\\lin"#pos"\\rin0\\fi-360\\kerning1\\hich\\af4\\dbch\\af5\\rtlch \\ltrch\\loch\\fs20" \
   }
 </div>
 </dd>

@@ -249,7 +249,7 @@ Process quoted section "...", can contain one embedded newline. <a href="#a0f211
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0) <a href="#a42dc4e1d481af0574e750df55678d54d">More...</a>
+<code> ` </code> parsing a code span (assuming codespan != 0) <a href="#a42dc4e1d481af0574e750df55678d54d">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1815,7 +1815,7 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 </div>
 <div class="doxyMemberDoc">
 
-<span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0)
+<code> ` </code> parsing a code span (assuming codespan != 0)
 
 Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
 

@@ -2801,7 +2801,7 @@ Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This text is generated when the \author command is used and for the author section in man pages.
+This text is generated when the \\author command is used and for the author section in man pages.
 
 Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/translator-si-h">translator_si.h</a>.
 
@@ -2846,7 +2846,7 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a7
 
 
 
-Used as a marker that is put before a \bug item
+Used as a marker that is put before a \\bug item
 
 Definition at line 773 of file <a href="/web-doxygen/docs/api/files/src/translator-si-h">translator_si.h</a>.
 
@@ -7382,7 +7382,7 @@ Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This text is added to the documentation when the \overload command is used for a overloaded function.
+This text is added to the documentation when the \\overload command is used for a overloaded function.
 
 Definition at line 1140 of file <a href="/web-doxygen/docs/api/files/src/translator-si-h">translator_si.h</a>.
 

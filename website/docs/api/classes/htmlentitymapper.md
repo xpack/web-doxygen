@@ -2029,7 +2029,7 @@ Access routine to the docbook code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the docbook code of the HTML entity, in case the docbook code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the docbook code of the HTML entity, in case the docbook code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2092,7 +2092,7 @@ Access routine to the html code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the html representation of the HTML entity, in case the html code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the html representation of the HTML entity, in case the html code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2158,7 +2158,7 @@ Access routine to the LaTeX code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the LaTeX code of the HTML entity, in case the LaTeX code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the LaTeX code of the HTML entity, in case the LaTeX code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2217,7 +2217,7 @@ Access routine to the man code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the man of the HTML entity, in case the man code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the man of the HTML entity, in case the man code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2267,7 +2267,7 @@ Give code of the requested HTML entity name.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symName</td>
-<td class="doxyParamItemDescription">HTML entity name without <span class="doxyComputerOutput">&amp;</span> and <span class="doxyComputerOutput"></span>;</td>
+<td class="doxyParamItemDescription">HTML entity name without <code>&amp;</code> and <code></code>;</td>
 </tr>
 </table>
 </dd>
@@ -2276,7 +2276,7 @@ Give code of the requested HTML entity name.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the code for the requested HTML entity name, in case the requested HTML item does not exist <span class="doxyComputerOutput">HtmlEntityMapper::Sym_unknown</span> is returned.
+the code for the requested HTML entity name, in case the requested HTML item does not exist <code>HtmlEntityMapper::Sym_unknown</code> is returned.
 </dd>
 </dl>
 
@@ -2336,7 +2336,7 @@ Access routine to the perl struct with the perl code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <span class="doxyComputerOutput">symb</span> field and in the <span class="doxyComputerOutput"><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></span> in the <span class="doxyComputerOutput">type</span> field.
+the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <code>symb</code> field and in the <code><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></code> in the <code>type</code> field.
 </dd>
 </dl>
 
@@ -2395,7 +2395,7 @@ Access routine to the RTF code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the RTF of the HTML entity, in case the RTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the RTF of the HTML entity, in case the RTF code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2458,7 +2458,7 @@ Access routine to the UTF8 code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the UTF8 code of the HTML entity, in case the UTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the UTF8 code of the HTML entity, in case the UTF code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 
@@ -2570,7 +2570,7 @@ Access routine to the XML code of the HTML entity.
 <dl class="doxySectionUser">
 <dt>Returns</dt>
 <dd>
-the XML code of the HTML entity, in case the XML code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.
+the XML code of the HTML entity, in case the XML code is unknown <code>nullptr</code> is returned.
 </dd>
 </dl>
 

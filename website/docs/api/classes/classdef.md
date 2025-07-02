@@ -2062,7 +2062,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772
 Returns the template parameter lists that form the template declaration of this class.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <code>template&lt;class T&gt; class TC {} = 0;</code> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
 Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
 

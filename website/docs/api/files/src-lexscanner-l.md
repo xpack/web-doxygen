@@ -220,7 +220,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad9510831aec6c47ba0ce5eda02af07e5">repeatChar</a>(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c\_str()</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#ad9510831aec6c47ba0ce5eda02af07e5">repeatChar</a>(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c_str()</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -233,7 +233,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1304,7 +1304,7 @@ Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define repeatChar(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c\_str()</td>
+<td class="doxyMemberName">#define repeatChar(chr, cnt)&nbsp;&nbsp;&nbsp;std::string(cnt, chr).c_str()</td>
 </tr>
 </table>
 </td>
@@ -1335,7 +1335,7 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 </table>
 </td>

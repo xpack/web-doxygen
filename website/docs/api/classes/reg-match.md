@@ -302,7 +302,7 @@ Object representing the matching results.
 
 It consists of an array of <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> objects. The first entry of the array represents the whole match, any next elements represent each of the capture ranges.
 
-For example string <span class="doxyComputerOutput">@42</span> and expression <span class="doxyComputerOutput">@(\\d+)</span> will have two Submatches, match\[0\] will point to the input string as a whole, and match\[1\] will point to the number 42 only.
+For example string <code>@42</code> and expression <code>@(\\\\d+)</code> will have two Submatches, match\[0\] will point to the input string as a whole, and match\[1\] will point to the number 42 only.
 
 Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 

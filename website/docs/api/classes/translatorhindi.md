@@ -4303,7 +4303,7 @@ Definition at line 994 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This text is generated when the \author command is used and for the author section in man pages.
+This text is generated when the \\author command is used and for the author section in man pages.
 
 Definition at line 1284 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -4350,7 +4350,7 @@ Definition at line 1284 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-Used as a marker that is put before a \bug item
+Used as a marker that is put before a \\bug item
 
 Definition at line 1138 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -6355,7 +6355,7 @@ Definition at line 1579 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \date command is used.
+this text is generated when the \\date command is used.
 
 Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -8433,7 +8433,7 @@ Definition at line 2163 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \exception command is used.
+this text is generated when the \\exception command is used.
 
 Definition at line 606 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -10447,7 +10447,7 @@ Definition at line 1924 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-Text for the \invariant command
+Text for the \\invariant command
 
 Definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -11349,7 +11349,7 @@ Definition at line 1621 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-This is put above each page as a link to the list of all groups of compounds or files (see the \group command).
+This is put above each page as a link to the list of all groups of compounds or files (see the \\group command).
 
 Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -12288,7 +12288,7 @@ Definition at line 2194 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-This text is added to the documentation when the \overload command is used for a overloaded function.
+This text is added to the documentation when the \\overload command is used for a overloaded function.
 
 Definition at line 1495 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -12786,7 +12786,7 @@ Definition at line 1882 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \param command is used.
+this text is generated when the \\param command is used.
 
 Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -12827,7 +12827,7 @@ Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Text for the \post command
+Text for the \\post command
 
 Definition at line 906 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -12868,7 +12868,7 @@ Definition at line 906 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Text for the \pre command
+Text for the \\pre command
 
 Definition at line 902 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -13944,7 +13944,7 @@ Definition at line 991 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \return command is used.
+this text is generated when the \\return command is used.
 
 Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -14434,7 +14434,7 @@ Definition at line 1408 of file <a href="/web-doxygen/docs/api/files/src/transla
 
 
 
-this text is generated when the \sa command is used.
+this text is generated when the \\sa command is used.
 
 Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -15711,7 +15711,7 @@ Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Used as a marker that is put before a \todo item
+Used as a marker that is put before a \\todo item
 
 Definition at line 977 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -16086,7 +16086,7 @@ Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-this text is generated when the \version command is used.
+this text is generated when the \\version command is used.
 
 Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 
@@ -16250,7 +16250,7 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#abfcc3de81e21aaab7b
 
 
 
-this text is generated when the \warning command is used.
+this text is generated when the \\warning command is used.
 
 Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/translator-hi-h">translator_hi.h</a>.
 

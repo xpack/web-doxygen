@@ -236,7 +236,7 @@ Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static const <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af7b40686a6238e53c3979fb36ba18a18">crawlFileName</a> = "doxygen\_crawl"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af7b40686a6238e53c3979fb36ba18a18">crawlFileName</a> = "doxygen_crawl"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -804,7 +804,7 @@ Referenced by <a href="#a1dd9ba2dc2586e4dcd08ea7da6d93b69">addContentsItem</a>, 
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const QCString Crawlmap::crawlFileName = "doxygen\_crawl"</td>
+<td class="doxyMemberName">const QCString Crawlmap::crawlFileName = "doxygen_crawl"</td>
 </tr>
 </table>
 </td>

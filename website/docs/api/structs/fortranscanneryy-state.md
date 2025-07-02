@@ -345,7 +345,7 @@ Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6">ScanVar</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aeaa8dddac310c1fa50093e5de835cae8">vtype</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V\_IGNORE</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aeaa8dddac310c1fa50093e5de835cae8">vtype</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V_IGNORE</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -592,7 +592,7 @@ Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9d">InterfaceType</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7d546816859a7dbd07ace4457a4a1521">ifType</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF\_NONE</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a7d546816859a7dbd07ace4457a4a1521">ifType</a> = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF_NONE</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1516,7 +1516,7 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">InterfaceType fortranscannerYY_state::ifType = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF\_NONE</a></td>
+<td class="doxyMemberName">InterfaceType fortranscannerYY_state::ifType = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF_NONE</a></td>
 </tr>
 </table>
 </td>
@@ -2353,7 +2353,7 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">ScanVar fortranscannerYY_state::vtype = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V\_IGNORE</a></td>
+<td class="doxyMemberName">ScanVar fortranscannerYY_state::vtype = <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a238692c76adb8cefb158cf28754f52d6a2e626c4ec60ad2b9514c8984aa1eb3ec">V_IGNORE</a></td>
 </tr>
 </table>
 </td>

@@ -94,7 +94,7 @@ Abstract node interface with type information. <a href="/web-doxygen/docs/api/cl
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7df">HtmlEntityMapper::SymType</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a365bd9fc131cca8bb3fa7382930355de">m_symbol</a> = <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym\_Unknown</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a365bd9fc131cca8bb3fa7382930355de">m_symbol</a> = <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym_Unknown</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -236,7 +236,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">HtmlEntityMapper::SymType DocSymbol::m_symbol = <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym\_Unknown</a></td>
+<td class="doxyMemberName">HtmlEntityMapper::SymType DocSymbol::m_symbol = <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">HtmlEntityMapper::Sym_Unknown</a></td>
 </tr>
 </table>
 </td>

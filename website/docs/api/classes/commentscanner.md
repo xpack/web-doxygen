@@ -590,7 +590,7 @@ Invokes the comment block parser with the request to parse a single comment bloc
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] comment</td>
-<td class="doxyParamItemDescription">A string representing the actual comment block. Note that leading \*'s are already stripped from the comment block.</td>
+<td class="doxyParamItemDescription">A string representing the actual comment block. Note that leading *'s are already stripped from the comment block.</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>

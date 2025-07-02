@@ -398,7 +398,7 @@ Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/docco
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">uint32_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af3398a1b9e24dd68e1c75dd5a71ae081">m_rowIdx</a> = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#af3398a1b9e24dd68e1c75dd5a71ae081">m_rowIdx</a> = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -411,7 +411,7 @@ Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/docco
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">uint32_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99aa1bc3d16bead543a919d4067820dd">m_colIdx</a> = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99aa1bc3d16bead543a919d4067820dd">m_colIdx</a> = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1433,7 +1433,7 @@ Referenced by <a href="#ad42711394b311bbb450073c2206da8c8">attribs</a> and <a hr
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">uint32_t DocHtmlCell::m_colIdx = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberName">uint32_t DocHtmlCell::m_colIdx = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 </table>
 </td>
@@ -1565,7 +1565,7 @@ Referenced by <a href="#ac61b0f67d380a5ce45f5015e122bc34b">isLast</a> and <a hre
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">uint32_t DocHtmlCell::m_rowIdx = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberName">uint32_t DocHtmlCell::m_rowIdx = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 </table>
 </td>

@@ -125,7 +125,7 @@ Returns the current year as a string. <a href="#a76a75ed644eb3f75d36151f9d82f862
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a>
+Returns the current date, when <code>includeTime</code> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -300,11 +300,11 @@ Returns the filled in std::tm for a given string representing a date and/or time
 
 <ul class="doxyList ">
 <li>the empty string: the current date and time is returned</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD HH:MM:SS</span>: the date and time are fully specified</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD HH:MM</span>: the date and time without seconds</li>
-<li><span class="doxyComputerOutput">YYYY-MM-DD</span>: the date without time</li>
-<li><span class="doxyComputerOutput">HH:MM:SS</span>: the time with seconds but without date</li>
-<li><span class="doxyComputerOutput">HH:MM</span>: the time without seconds and without date</li>
+<li><code>YYYY-MM-DD HH:MM:SS</code>: the date and time are fully specified</li>
+<li><code>YYYY-MM-DD HH:MM</code>: the date and time without seconds</li>
+<li><code>YYYY-MM-DD</code>: the date without time</li>
+<li><code>HH:MM:SS</code>: the time with seconds but without date</li>
+<li><code>HH:MM</code>: the time without seconds and without date</li>
 </ul></td>
 </tr>
 <tr class="doxyParamItem">
@@ -313,7 +313,7 @@ Returns the filled in std::tm for a given string representing a date and/or time
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] format</td>
-<td class="doxyParamItemDescription">The parts that have been found in spec; a bitwise or of <span class="doxyComputerOutput">SF\_Date</span>, <span class="doxyComputerOutput">SF\_Time</span> and <span class="doxyComputerOutput">SF\_Seconds</span>.</td>
+<td class="doxyParamItemDescription">The parts that have been found in spec; a bitwise or of <code>SF_Date</code>, <code>SF_Time</code> and <code>SF_Seconds</code>.</td>
 </tr>
 </table>
 </dd>
@@ -399,7 +399,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </div>
 <div class="doxyMemberDoc">
 
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided.
+Returns the current date, when <code>includeTime</code> is set also the time is provided.
 
 
 <dl class="doxyParamsList">
@@ -467,7 +467,7 @@ Return a string representation for a given std::tm value that is formatted accor
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] format</td>
-<td class="doxyParamItemDescription">the string used for format the date and time, e.g. <span class="doxyComputerOutput">Y-m-d</span></td>
+<td class="doxyParamItemDescription">the string used for format the date and time, e.g. <code>Y-m-d</code></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] dt</td>
@@ -475,7 +475,7 @@ Return a string representation for a given std::tm value that is formatted accor
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] formatUsed</td>
-<td class="doxyParamItemDescription">A bitwise OR of <span class="doxyComputerOutput">SF\_Date</span>, <span class="doxyComputerOutput">SF\_Time</span> and <span class="doxyComputerOutput">SF\_Seconds</span> representing the the types of markers found in the format string.</td>
+<td class="doxyParamItemDescription">A bitwise OR of <code>SF_Date</code>, <code>SF_Time</code> and <code>SF_Seconds</code> representing the the types of markers found in the format string.</td>
 </tr>
 </table>
 </dd>
@@ -651,7 +651,7 @@ Used for generating warnings.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] bitNumber</td>
-<td class="doxyParamItemDescription">bit value in range \[0..SF\_NumBits) for which to return the string value.</td>
+<td class="doxyParamItemDescription">bit value in range [0..SF_NumBits) for which to return the string value.</td>
 </tr>
 </table>
 </dd>

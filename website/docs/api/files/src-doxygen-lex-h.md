@@ -70,14 +70,14 @@ toc_max_heading_level: 4
   <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> msg1 = <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>;                                               \
   msg1 += "\n    lexical analyzer: ";                                \
   msg1 += <a href="/web-doxygen/docs/api/files/src/code-l/#acb5f8818546103e3b804ab8606b52c4a">getLexerFILE</a>();                                            \
-  if (!static\_cast&lt;yyguts\_t\*&gt;(yyscanner)-&gt;yyextra\_r-&gt;fileName.isEmpty()) \
+  if (!static_cast&lt;yyguts_t*&gt;(yyscanner)-&gt;yyextra_r-&gt;fileName.isEmpty()) \
   {                                                                  \
     msg1 += " (for: ";                                               \
-    msg1 += static\_cast&lt;yyguts\_t\*&gt;(yyscanner)-&gt;yyextra\_r-&gt;fileName;  \
+    msg1 += static_cast&lt;yyguts_t*&gt;(yyscanner)-&gt;yyextra_r-&gt;fileName;  \
     msg1 += ")";                                                     \
   }                                                                  \
   msg1 += "\n";                                                      \
-  yy\_fatal\_error( <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>(msg1) , yyscanner);                         \
+  yy_fatal_error( <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>(msg1) , yyscanner);                         \
 }
 </div>
 </dd>

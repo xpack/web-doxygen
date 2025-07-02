@@ -438,7 +438,7 @@ processes string <em>s</em> and converts markdown into doxygen/html commands. <a
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const char *</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5411339961a1e433bf9b59570c97fa6a">g_doxy_nbsp</a> = "&amp;\_doxy\_nbsp;"</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a5411339961a1e433bf9b59570c97fa6a">g_doxy_nbsp</a> = "&amp;_doxy_nbsp;"</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -587,7 +587,7 @@ processes string <em>s</em> and converts markdown into doxygen/html commands. <a
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a644d79c9440b660abd83934b8304b21b">OPC</a>(x)&nbsp;&nbsp;&nbsp;if (<a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data,#x " ") || <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data,#x "\n")) return true</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a644d79c9440b660abd83934b8304b21b">OPC</a>(x)&nbsp;&nbsp;&nbsp;if (<a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>(data,#x " ") || <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>(data,#x "\n")) return true</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -2381,7 +2381,7 @@ Referenced by <a href="#a32f3ae19472e55905bc21e27835568d5">isBlockQuote</a>, <a 
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const char* g_doxy_nbsp = "&amp;\_doxy\_nbsp;"</td>
+<td class="doxyMemberName">const char* g_doxy_nbsp = "&amp;_doxy_nbsp;"</td>
 </tr>
 </table>
 </td>
@@ -2434,12 +2434,11 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">= {
-  
-  { "\[!note\]",      "\\note"      },
-  { "\[!warning\]",   "\\warning"   },
-  { "\[!tip\]",       "\\remark"    },
-  { "\[!caution\]",   "\\attention" },
-  { "\[!important\]", "\\important" }
+  { "[!note]",      "\\note"      },
+  { "[!warning]",   "\\warning"   },
+  { "[!tip]",       "\\remark"    },
+  { "[!caution]",   "\\attention" },
+  { "[!important]", "\\important" }
 }
 </div>
 </dd>
@@ -2626,8 +2625,8 @@ Referenced by <a href="#a3d4cb7f7e85f41df2eab7827e3bec33e">escapeDoubleQuotes</a
 <dd>
 <div class="doxyVerbatim">  (c=='-' || c=='+' || c=='!' || \
    c=='?' || c=='$' || c=='@' || \
-   c=='&amp;' || c=='\*' || c=='\_' || c=='%' || \
-   c=='\[' || c=='(' || c=='.' || \
+   c=='&amp;' || c=='*' || c=='_' || c=='%' || \
+   c=='[' || c=='(' || c=='.' || \
    c=='&gt;' || c==':' || c==',' || \
    c==';' || c=='\'' || c=='"' || c=='`')
 </div>
@@ -2676,7 +2675,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a9ac768dc
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  (c=='('  || c=='{' || c=='\[' || (c=='&lt;' &amp;&amp; cn!='/') || \
+<div class="doxyVerbatim">  (c=='('  || c=='{' || c=='[' || (c=='&lt;' &amp;&amp; cn!='/') || \
    c=='\\' || \
    c=='@')
 </div>
@@ -2725,7 +2724,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a5b661698
 <div class="doxyVerbatim">  ((c&gt;='a' &amp;&amp; c&lt;='z') || \
    (c&gt;='A' &amp;&amp; c&lt;='Z') || \
    (c&gt;='0' &amp;&amp; c&lt;='9') || \
-   (static\_cast&lt;unsigned char&gt;(c)&gt;=0x80))
+   (static_cast&lt;unsigned char&gt;(c)&gt;=0x80))
 </div>
 </dd>
 </dl>
@@ -2770,10 +2769,10 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a5b661698
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">   (data\[(i)\]=='&lt;' &amp;&amp; \
-   (data\[(i)+1\]=='l' || data\[(i)+1\]=='L') &amp;&amp; \
-   (data\[(i)+2\]=='i' || data\[(i)+2\]=='I') &amp;&amp; \
-   (data\[(i)+3\]=='&gt;'))
+<div class="doxyVerbatim">   (data[(i)]=='&lt;' &amp;&amp; \
+   (data[(i)+1]=='l' || data[(i)+1]=='L') &amp;&amp; \
+   (data[(i)+2]=='i' || data[(i)+2]=='I') &amp;&amp; \
+   (data[(i)+3]=='&gt;'))
 </div>
 </dd>
 </dl>
@@ -2819,7 +2818,7 @@ Referenced by <a href="#a515c2b44ec8500cdb661ff5ab86c60af">computeIndentExcludin
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">  (c=='\n' || c==' ' || c=='\'' || c=='&lt;' || \
-   c=='&gt;'  || c=='{' || c=='('  || c=='\[' || \
+   c=='&gt;'  || c=='{' || c=='('  || c=='[' || \
    c==','  || c==':' || c==';')
 </div>
 </dd>
@@ -2850,7 +2849,7 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a9ac768dc
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define OPC(x)&nbsp;&nbsp;&nbsp;if (<a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data,#x " ") || <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data,#x "\n")) return true</td>
+<td class="doxyMemberName">#define OPC(x)&nbsp;&nbsp;&nbsp;if (<a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>(data,#x " ") || <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>(data,#x "\n")) return true</td>
 </tr>
 </table>
 </td>

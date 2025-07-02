@@ -218,8 +218,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertoken
 <dd>
 <div class="doxyVerbatim">{\
    for (int x = start; x &lt;= <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>; x++) {\
-      jjstateSet\[jjnewStateCnt++\] = jjnextStates\[x\];\
-   } /\*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);\*/\
+      jjstateSet[jjnewStateCnt++] = jjnextStates[x];\
+   } /*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);*/\
 }
 </div>
 </dd>
@@ -265,10 +265,10 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 <dt>Value</dt>
 <dd>
 <div class="doxyVerbatim">{\
-   if (jjrounds\[state\] != jjround)\
+   if (jjrounds[state] != jjround)\
    {\
-      jjstateSet\[jjnewStateCnt++\] = state;\
-      jjrounds\[state\] = jjround;\
+      jjstateSet[jjnewStateCnt++] = state;\
+      jjrounds[state] = jjround;\
    }\
 }
 </div>
@@ -318,8 +318,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 <dd>
 <div class="doxyVerbatim">{\
    for (int x = start; x &lt;= <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>; x++) {\
-      <a href="#a001c4feea657cf8f87bdfa1ba634d903">jjCheckNAdd</a>(jjnextStates\[x\]);\
-   } /\*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);\*/\
+      <a href="#a001c4feea657cf8f87bdfa1ba634d903">jjCheckNAdd</a>(jjnextStates[x]);\
+   } /*while (start++ != <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>);*/\
 }
 </div>
 </dd>

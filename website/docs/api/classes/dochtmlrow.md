@@ -249,7 +249,7 @@ Base class for nodes with children. <a href="/web-doxygen/docs/api/classes/docco
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">uint32_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a11d68ba69ea55c4acb2b39ad1744a6fd">m_rowIdx</a> = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a11d68ba69ea55c4acb2b39ad1744a6fd">m_rowIdx</a> = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -930,7 +930,7 @@ Referenced by <a href="#ad696d912e61803ae0ffe3b862a92a9f1">attribs</a> and <a hr
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">uint32_t DocHtmlRow::m_rowIdx = static\_cast&lt;uint32\_t&gt;(-1)</td>
+<td class="doxyMemberName">uint32_t DocHtmlRow::m_rowIdx = static_cast&lt;uint32_t&gt;(-1)</td>
 </tr>
 </table>
 </td>

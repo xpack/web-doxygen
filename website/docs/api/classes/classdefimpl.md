@@ -3131,7 +3131,7 @@ C++20 requires clause. <a href="#a52c91be3d1a0aa872768c9708afb6ea3">More...</a>
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">CLASS_GRAPH_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8ae8d03e41df846ef9255f4ff3f27634">m_typeInheritanceGraph</a> = CLASS\_GRAPH\_t::NO</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8ae8d03e41df846ef9255f4ff3f27634">m_typeInheritanceGraph</a> = CLASS_GRAPH_t::NO</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -5795,7 +5795,7 @@ Referenced by <a href="#ae4f02bc658b7c03423fb568c7410f23d">internalInsertMember<
 Returns the template parameter lists that form the template declaration of this class.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: <span class="doxyComputerOutput">template&lt;class T&gt; class TC {} = 0;</span> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: <code>template&lt;class T&gt; class TC {} = 0;</code> will return a list with one <a href="/web-doxygen/docs/api/classes/argumentlist">ArgumentList</a> containing one argument with type="class" and name="T".
 
 Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/classdef-cpp">classdef.cpp</a>.
 
@@ -6076,7 +6076,7 @@ Reference <a href="#a8ae8d03e41df846ef9255f4ff3f27634">m\_typeInheritanceGraph</
 
 
 
-Returns <span class="doxyComputerOutput">TRUE</span> iff this class or a class inheriting from this class is <em>not</em> defined in an external tag file.
+Returns <code>TRUE</code> iff this class or a class inheriting from this class is <em>not</em> defined in an external tag file.
 
 Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/classdef-cpp">classdef.cpp</a>.
 
@@ -15891,7 +15891,7 @@ Referenced by <a href="#a7a05059f489e3c94d51aa47127ccdfed">deepCopy</a>, <a href
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">CLASS_GRAPH_t ClassDefImpl::m_typeInheritanceGraph = CLASS\_GRAPH\_t::NO</td>
+<td class="doxyMemberName">CLASS_GRAPH_t ClassDefImpl::m_typeInheritanceGraph = CLASS_GRAPH_t::NO</td>
 </tr>
 </table>
 </td>

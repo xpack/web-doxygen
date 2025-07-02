@@ -291,7 +291,7 @@ struct commentscanYY_state { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186">XRefKind</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6f3f2332768cd8c0091fb0e6be30a59f">xrefKind</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef\_Item</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a6f3f2332768cd8c0091fb0e6be30a59f">xrefKind</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef_Item</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -304,7 +304,7 @@ struct commentscanYY_state { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186">XRefKind</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a03ee1549140b104fe9f9c951909e9bf0">newXRefKind</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef\_Item</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a03ee1549140b104fe9f9c951909e9bf0">newXRefKind</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef_Item</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -317,7 +317,7 @@ struct commentscanYY_state { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top"><a href="/web-doxygen/docs/api/files/src/commentscan-l/#a83faa6554b2d8d0f095551b84f726c7f">GuardType</a></td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a71bf7acb1894756edf376234de19ff6c">guardType</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a83faa6554b2d8d0f095551b84f726c7fa516af97241cebc813e221d2cff34aee3">Guard\_If</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a71bf7acb1894756edf376234de19ff6c">guardType</a> = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a83faa6554b2d8d0f095551b84f726c7fa516af97241cebc813e221d2cff34aee3">Guard_If</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1465,7 +1465,7 @@ Definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/comments
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">GuardType commentscanYY_state::guardType = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a83faa6554b2d8d0f095551b84f726c7fa516af97241cebc813e221d2cff34aee3">Guard\_If</a></td>
+<td class="doxyMemberName">GuardType commentscanYY_state::guardType = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a83faa6554b2d8d0f095551b84f726c7fa516af97241cebc813e221d2cff34aee3">Guard_If</a></td>
 </tr>
 </table>
 </td>
@@ -2023,7 +2023,7 @@ Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/comments
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">XRefKind commentscanYY_state::newXRefKind = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef\_Item</a></td>
+<td class="doxyMemberName">XRefKind commentscanYY_state::newXRefKind = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef_Item</a></td>
 </tr>
 </table>
 </td>
@@ -2581,7 +2581,7 @@ Definition at line 491 of file <a href="/web-doxygen/docs/api/files/src/comments
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">XRefKind commentscanYY_state::xrefKind = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef\_Item</a></td>
+<td class="doxyMemberName">XRefKind commentscanYY_state::xrefKind = <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186a42ee2c25e3f8d7da014fe8ef030d62dd">XRef_Item</a></td>
 </tr>
 </table>
 </td>

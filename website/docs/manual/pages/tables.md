@@ -28,7 +28,7 @@ Although this format is easy to use and read, it is also rather limited. It supp
 
 For more complex tables the HTML syntax can be used. Doxygen will process such tables and translate them to the various output formats (at least for the formats that do support tables such as HTML and <code>{\LaTeX}</code>).
 
-Note a table should at least contain 1 row (<span class="doxyComputerOutput">&lt;tr&gt;</span>) and in case a <span class="doxyComputerOutput">&lt;caption&gt;</span> is used the <span class="doxyComputerOutput">&lt;caption&gt;</span> should precede the first row.
+Note a table should at least contain 1 row (<code>&lt;tr&gt;</code>) and in case a <code>&lt;caption&gt;</code> is used the <code>&lt;caption&gt;</code> should precede the first row.
 
 Here is an example of a complex table:
 
@@ -59,7 +59,7 @@ Here is an example of a complex table:
 
 It has a caption, table heading, various row and column spans, a nested table as one of the cells, and a item list in another cell.
 
-Note that the end tags (like <span class="doxyComputerOutput">&lt;/td&gt;</span>) are left out in the example above. This is allowed, and in the HTML output Doxygen will add the end tags again.
+Note that the end tags (like <code>&lt;/td&gt;</code>) are left out in the example above. This is allowed, and in the HTML output Doxygen will add the end tags again.
 
 The output will look as follows:
 
@@ -121,7 +121,7 @@ The output will look as follows:
 </tr>
 </table>
 
-One can refer to the caption of the table using <a href="/web-doxygen/docs/pages/commands/#cmdref">\ref</a> using the caption's id as the label.
+One can refer to the caption of the table using <a href="/web-doxygen/docs/pages/commands/#cmdref">\\ref</a> using the caption's id as the label.
  
 Go to the <a href="/docs/pages/diagrams/">next</a> section or return to the
  <a href="/docs/">index</a>.

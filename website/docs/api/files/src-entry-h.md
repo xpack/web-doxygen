@@ -222,18 +222,18 @@ Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h"
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, callGraph            ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, callerGraph          ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, referencedByRelation ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, referencesRelation   ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, inlineSource         ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, includeGraph         ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, includedByGraph      ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, directoryGraph       ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, collaborationGraph   ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, groupGraph           ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(bool,          bool, 1, enumValues           ) \
-  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE\_ENTRY</a>(CLASS\_GRAPH\_t, int,  3, inheritanceGraph     )
+<div class="doxyVerbatim">  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, callGraph            ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, callerGraph          ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, referencedByRelation ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, referencesRelation   ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, inlineSource         ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, includeGraph         ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, includedByGraph      ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, directoryGraph       ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, collaborationGraph   ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, groupGraph           ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(bool,          bool, 1, enumValues           ) \
+  <a href="#a39e0f3964269b8ff50bc8c841e2dd073">OVERRIDE_ENTRY</a>(CLASS_GRAPH_t, int,  3, inheritanceGraph     )
 </div>
 </dd>
 </dl>
@@ -284,8 +284,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    store\_type m\_##name          : bits;       \
-    bool m\_##name##ExplicitlySet : 1;
+<div class="doxyVerbatim">    store_type m_##name          : bits;       \
+    bool m_##name##ExplicitlySet : 1;
 </div>
 </dd>
 </dl>
@@ -326,14 +326,14 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">    void override\_##name(type value) {                         \
-      m\_##name = to\_store\_type(value);                         \
-      m\_##name##ExplicitlySet = true;                          \
-      /\* printf("overrule\_%s(%d) isSet=%d\n",#name,value,m\_##name##ExplicitlySet); \*/ \
+<div class="doxyVerbatim">    void override_##name(type value) {                         \
+      m_##name = to_store_type(value);                         \
+      m_##name##ExplicitlySet = true;                          \
+      /* printf("overrule_%s(%d) isSet=%d\n",#name,value,m_##name##ExplicitlySet); */ \
     }                                                          \
-    void apply\_##name(std::function&lt;void(type)&gt; func) const {  \
-      /\* printf("apply\_%s(%d) isSet=%d\n",#name,m\_##name,m\_##name##ExplicitlySet); \*/ \
-      if (m\_##name##ExplicitlySet) func(from\_store\_type(m\_##name)); \
+    void apply_##name(std::function&lt;void(type)&gt; func) const {  \
+      /* printf("apply_%s(%d) isSet=%d\n",#name,m_##name,m_##name##ExplicitlySet); */ \
+      if (m_##name##ExplicitlySet) func(from_store_type(m_##name)); \
     }
 </div>
 </dd>

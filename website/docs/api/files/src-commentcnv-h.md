@@ -104,7 +104,7 @@ The following is converted:
 This function does three things:
 
 <ol class="doxyList" type="1">
-<li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE\_CPP\_IS\_BRIEF is set to NO).</li>
+<li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE_CPP_IS_BRIEF is set to NO).</li>
 <li>It replaces aliases with their definition (see ALIASES)</li>
 <li>It handles conditional sections (cond...endcond blocks)</li>
 </ol>

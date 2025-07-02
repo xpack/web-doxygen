@@ -974,7 +974,7 @@ Referenced by <a href="#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
 Write DOT code for directory dependency graph.
 
 
-Code is generated for a directory. Successors (sub-directories) of this directory are recursively drawn. Recursion is limited by <span class="doxyComputerOutput">DIR\_GRAPH\_MAX\_DEPTH</span>. The dependencies of those directories are drawn.
+Code is generated for a directory. Successors (sub-directories) of this directory are recursively drawn. Recursion is limited by <code>DIR\_GRAPH\_MAX\_DEPTH</code>. The dependencies of those directories are drawn.
 
 If a dependee is not part of directory tree above, then the dependency is drawn to the first parent of the dependee, whose parent is an ancestor (sub-directory) of the original directory.
 

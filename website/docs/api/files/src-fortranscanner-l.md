@@ -778,7 +778,7 @@ fortran parsing states <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#aacfdca45fa4beb8b06172525a53c424a">YY_INPUT</a>(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -804,7 +804,7 @@ fortran parsing states <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID_ENTRY</a>&nbsp;&nbsp;&nbsp;((<a href="/web-doxygen/docs/api/classes/entry">Entry</a>\*)0x8)</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID_ENTRY</a>&nbsp;&nbsp;&nbsp;((<a href="/web-doxygen/docs/api/classes/entry">Entry</a>*)0x8)</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -5337,7 +5337,7 @@ Definition at line 2851 of file <a href="/web-doxygen/docs/api/files/src/fortran
 <dd>
 <div class="doxyVerbatim">=
 {
-   "", "\[in\]", "\[out\]", "\[in,out\]"
+   "", "[in]", "[out]", "[in,out]"
 }
 </div>
 </dd>
@@ -5459,7 +5459,7 @@ Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a hre
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define INVALID_ENTRY&nbsp;&nbsp;&nbsp;((<a href="/web-doxygen/docs/api/classes/entry">Entry</a>\*)0x8)</td>
+<td class="doxyMemberName">#define INVALID_ENTRY&nbsp;&nbsp;&nbsp;((<a href="/web-doxygen/docs/api/classes/entry">Entry</a>*)0x8)</td>
 </tr>
 </table>
 </td>
@@ -5492,7 +5492,7 @@ Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a> and <a h
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max\_size);</td>
+<td class="doxyMemberName">#define YY_INPUT(buf, result, max_size)&nbsp;&nbsp;&nbsp;result=<a href="/web-doxygen/docs/api/files/src/code-l/#a5edfc25f0c460f3263fdb340f7a02b03">yyread</a>(yyscanner,buf,max_size);</td>
 </tr>
 </table>
 </td>

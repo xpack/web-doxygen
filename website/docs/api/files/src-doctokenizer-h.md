@@ -138,7 +138,7 @@ Data associated with a token used by the comment block parser. <a href="/web-dox
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make\_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -252,34 +252,34 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_OK,              0x10000)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SimpleSec,       0x10001)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_ListItem,        0x10002)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Section,         0x10003)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Subsection,      0x10004)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Subsubsection,   0x10005)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Paragraph,       0x10006)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SubParagraph,    0x10007)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndList,         0x10008)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndPre,          0x10009)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_DescData,        0x1000A)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_DescTitle,       0x1000B)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndDesc,         0x1000C)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableRow,        0x1000D)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableCell,       0x1000E)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_TableHCell,      0x1000F)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTable,        0x10010)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTableCell,    0x10011)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndTableRow,     0x10012)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_Internal,        0x10013)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SwitchLang,      0x10014)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_CloseXml,        0x10015)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndBlockQuote,   0x10016)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_CopyDoc,         0x10017)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndInternal,     0x10018)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndParBlock,     0x10019)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_EndHtmlDetails,  0x1001A)  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal\_SubSubParagraph, 0x1001B)
+<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_OK,              0x10000)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_SimpleSec,       0x10001)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_ListItem,        0x10002)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_Section,         0x10003)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_Subsection,      0x10004)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_Subsubsection,   0x10005)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_Paragraph,       0x10006)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_SubParagraph,    0x10007)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndList,         0x10008)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndPre,          0x10009)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_DescData,        0x1000A)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_DescTitle,       0x1000B)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndDesc,         0x1000C)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_TableRow,        0x1000D)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_TableCell,       0x1000E)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_TableHCell,      0x1000F)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndTable,        0x10010)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndTableCell,    0x10011)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndTableRow,     0x10012)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_Internal,        0x10013)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_SwitchLang,      0x10014)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_CloseXml,        0x10015)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndBlockQuote,   0x10016)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_CopyDoc,         0x10017)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndInternal,     0x10018)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndParBlock,     0x10019)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_EndHtmlDetails,  0x1001A)  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(RetVal_SubSubParagraph, 0x1001B)
 </div>
 </dd>
 </dl>
@@ -365,7 +365,7 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define TKSPEC(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make\_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
+<td class="doxyMemberName">#define TKSPEC(x, y)&nbsp;&nbsp;&nbsp;static <a href="/web-doxygen/docs/api/classes/token">Token</a> make_##x() { return <a href="/web-doxygen/docs/api/classes/token">Token</a>(TokenRetval::x); }</td>
 </tr>
 </table>
 </td>
@@ -441,20 +441,20 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_EOF,          -1)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_NONE,          0)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_WORD,          1)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_LNKWORD,       2)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_WHITESPACE,    3)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_LISTITEM,      4)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_ENDLIST,       5)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_COMMAND\_AT,    6) /\*! Command starting with `@` \*/  \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_HTMLTAG,       7)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_SYMBOL,        8)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_NEWPARA,       9)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_RCSTAG,       10)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_URL,          11)                                   \
-  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK\_COMMAND\_BS,   12) /\*! Command starting with `\` \*/
+<div class="doxyVerbatim">  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_EOF,          -1)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_NONE,          0)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_WORD,          1)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_LNKWORD,       2)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_WHITESPACE,    3)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_LISTITEM,      4)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_ENDLIST,       5)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_COMMAND_AT,    6) /*! Command starting with `@` */  \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_HTMLTAG,       7)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_SYMBOL,        8)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_NEWPARA,       9)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_RCSTAG,       10)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_URL,          11)                                   \
+  <a href="#a089d6d3f1fdfc408ecbd116df51f58b1">TKSPEC</a>(TK_COMMAND_BS,   12) /*! Command starting with `\` */
 </div>
 </dd>
 </dl>

@@ -30,7 +30,7 @@ toc_max_heading_level: 4
 <li>Javadoc (1.1), qdoc3 (partially), and ECMA-334 (C# spec.) compatible.</li>
 <li>Comes with a GUI frontend (Doxywizard) to ease editing the options and run Doxygen. The GUI is available on Windows, Linux, and macOS.</li>
 <li>Automatically generates class and collaboration diagrams in HTML (as clickable image maps) and <code>{\LaTeX}</code> (as Encapsulated PostScript images).</li>
-<li>Uses the <span class="doxyComputerOutput">dot</span> tool of the Graphviz tool kit to generate include dependency graphs, collaboration diagrams, call graphs, directory structure graphs, and graphical class hierarchy graphs.</li>
+<li>Uses the <code>dot</code> tool of the Graphviz tool kit to generate include dependency graphs, collaboration diagrams, call graphs, directory structure graphs, and graphical class hierarchy graphs.</li>
 <li>Allows grouping of entities in topics and creating a hierarchy of topics.</li>
 <li>Flexible comment placement: Allows you to put documentation in the header file (before the declaration of an entity), source file (before the definition of an entity) or in a separate file.</li>
 <li>Generates a list of all members of a class (including any inherited members) along with their protection level.</li>

@@ -849,7 +849,7 @@ converts the rectangles in a client site image map into a stream
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">relPath</td>
-<td class="doxyParamItemDescription">the relative path to the root of the output directory (used in case CREATE\_SUBDIRS is enabled).</td>
+<td class="doxyParamItemDescription">the relative path to the root of the output directory (used in case CREATE_SUBDIRS is enabled).</td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">urlOnly</td>

@@ -46,7 +46,7 @@ As the name suggest, a brief description is a short one-liner, whereas the detai
 There are several ways to mark a comment block as a detailed description:
 
 <ol class="doxyList" type="1">
-<li>You can use the Javadoc style, which consist of a C-style comment block starting with two \*'s, like this:
+<li>You can use the Javadoc style, which consist of a C-style comment block starting with two *'s, like this:
 
 <pre><code>/**
  * ... text ...
@@ -61,7 +61,7 @@ There are several ways to mark a comment block as a detailed description:
  */
 </code></pre>
 
-In both cases the intermediate \*'s are optional, so
+In both cases the intermediate *'s are optional, so
 
 <pre><code>/*!
  ... text ...
@@ -116,7 +116,7 @@ or
  ***********************************************/
 </code></pre>
 
-as long as <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_banner">JAVADOC\_BANNER</a> is set to <span class="doxyComputerOutput">YES</span>.
+as long as <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_banner">JAVADOC_BANNER</a> is set to <code>YES</code>.
 
 <div class="doxyProgramListing">
 
@@ -190,7 +190,7 @@ Here is an example:
 </code></pre>
 
 </li>
-<li>If <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> is set to <span class="doxyComputerOutput">YES</span> in the configuration file, then using Javadoc style comment blocks will automatically start a brief description which ends at the first dot, question mark or exclamation mark followed by a space or new line. Here is an example:
+<li>If <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC_AUTOBRIEF</a> is set to <code>YES</code> in the configuration file, then using Javadoc style comment blocks will automatically start a brief description which ends at the first dot, question mark or exclamation mark followed by a space or new line. Here is an example:
 
 <pre><code>/** Brief description which ends at this dot. Details follow
  *  here.
@@ -221,7 +221,7 @@ or
 //! starts here.
 </code></pre>
 
-Note the blank line in the last example, which is required to separate the brief description from the block containing the detailed description. The <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> should also be set to <span class="doxyComputerOutput">NO</span> for this case.
+Note the blank line in the last example, which is required to separate the brief description from the block containing the detailed description. The <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC_AUTOBRIEF</a> should also be set to <code>NO</code> for this case.
 
 </li>
 </ol>
@@ -289,7 +289,7 @@ or
 </code></pre>
 
 
-For functions one can use the <a href="/web-doxygen/docs/pages/commands/#cmdparam">@param</a> command to document the parameters and then use <span class="doxyComputerOutput">\[in\]</span>, <span class="doxyComputerOutput">\[out\]</span>, <span class="doxyComputerOutput">\[in,out\]</span> to document the direction. For inline documentation this is also possible by starting with the direction attribute, e.g.
+For functions one can use the <a href="/web-doxygen/docs/pages/commands/#cmdparam">@param</a> command to document the parameters and then use <code>\[in\]</code>, <code>\[out\]</code>, <code>\[in,out\]</code> to document the direction. For inline documentation this is also possible by starting with the direction attribute, e.g.
 
 
 <pre><code>void foo(int v /**&lt; [in] docs for input parameter v. */);
@@ -329,12 +329,12 @@ Here is an example of the use of these comment blocks:
  
 
 :::warning
-These blocks can only be used to document <em>members</em> and <em>parameters</em>. They cannot be used to document files, classes, unions, structs, groups, namespaces, macros, and enums themselves. Furthermore, the structural commands mentioned in the next section (like <span class="doxyComputerOutput">\class</span>) are not allowed inside these comment blocks.
+These blocks can only be used to document <em>members</em> and <em>parameters</em>. They cannot be used to document files, classes, unions, structs, groups, namespaces, macros, and enums themselves. Furthermore, the structural commands mentioned in the next section (like <code>\\class</code>) are not allowed inside these comment blocks.
 :::
 
 
 :::warning
-Be careful using this construct as part of a macro definition, because when <a href="/web-doxygen/docs/pages/config/#cfg_macro_expansion">MACRO\_EXPANSION</a> is set to <span class="doxyComputerOutput">YES</span> at the places where the macro is applied, also the comment will be substituted and this comment is then used as documentation for the last item encountered and not for the macro definition itself!
+Be careful using this construct as part of a macro definition, because when <a href="/web-doxygen/docs/pages/config/#cfg_macro_expansion">MACRO\_EXPANSION</a> is set to <code>YES</code> at the places where the macro is applied, also the comment will be substituted and this comment is then used as documentation for the last item encountered and not for the macro definition itself!
 :::
 
 
@@ -418,7 +418,7 @@ Here is an example of a documented piece of C++ code using the Qt style:
  for the corresponding HTML documentation that is generated by Doxygen.
  
 
-The brief descriptions are included in the member overview of a class, namespace or file and are printed using a small italic font (this description can be hidden by setting <a href="/web-doxygen/docs/pages/config/#cfg_brief_member_desc">BRIEF\_MEMBER\_DESC</a> to <span class="doxyComputerOutput">NO</span> in the configuration file). By default the brief descriptions become the first sentence of the detailed descriptions (but this can be changed by setting the <a href="/web-doxygen/docs/pages/config/#cfg_repeat_brief">REPEAT\_BRIEF</a> tag to <span class="doxyComputerOutput">NO</span>). Both the brief and the detailed descriptions are optional for the Qt style.
+The brief descriptions are included in the member overview of a class, namespace or file and are printed using a small italic font (this description can be hidden by setting <a href="/web-doxygen/docs/pages/config/#cfg_brief_member_desc">BRIEF\_MEMBER\_DESC</a> to <code>NO</code> in the configuration file). By default the brief descriptions become the first sentence of the detailed descriptions (but this can be changed by setting the <a href="/web-doxygen/docs/pages/config/#cfg_repeat_brief">REPEAT\_BRIEF</a> tag to <code>NO</code>). Both the brief and the detailed descriptions are optional for the Qt style.
 
 By default a Javadoc style documentation block behaves the same way as a Qt style documentation block. This is not according the Javadoc specification however, where the first sentence of the documentation block is automatically treated as a brief description. To enable this behavior you should set <a href="/web-doxygen/docs/pages/config/#cfg_javadoc_autobrief">JAVADOC\_AUTOBRIEF</a> to YES in the configuration file. If you enable this option and want to put a dot in the middle of a sentence without ending it, you should put a backslash and a space after it. Here is an example:
 
@@ -516,7 +516,7 @@ Doxygen allows you to put your documentation blocks practically anywhere (the ex
 
 The price you pay for not putting the documentation block directly before (or after) an item is the need to put a structural command inside the documentation block, which leads to some duplication of information. So in practice you should <em>avoid</em> the use of structural commands <em>unless</em> other requirements force you to do so.
 
-Structural commands (like <a href="/web-doxygen/docs/pages/commands/#cmd_intro">all other commands</a>) start with a backslash (<span class="doxyComputerOutput">\</span>), or an at-sign (<span class="doxyComputerOutput">@</span>) if you prefer Javadoc style, followed by a command name and one or more parameters. For instance, if you want to document the class <span class="doxyComputerOutput">Test</span> in the example above, you could have also put the following documentation block somewhere in the input that is read by Doxygen:
+Structural commands (like <a href="/web-doxygen/docs/pages/commands/#cmd_intro">all other commands</a>) start with a backslash (<code>\\</code>), or an at-sign (<code>@</code>) if you prefer Javadoc style, followed by a command name and one or more parameters. For instance, if you want to document the class <code>Test</code> in the example above, you could have also put the following documentation block somewhere in the input that is read by Doxygen:
 
 
 <pre><code>/*! \class Test
@@ -527,20 +527,20 @@ Structural commands (like <a href="/web-doxygen/docs/pages/commands/#cmd_intro">
 </code></pre>
 
 
-Here the special command <span class="doxyComputerOutput">\class</span> is used to indicate that the comment block contains documentation for the class <span class="doxyComputerOutput">Test</span>. Other structural commands are:
+Here the special command <code>\\class</code> is used to indicate that the comment block contains documentation for the class <code>Test</code>. Other structural commands are:
 
 <ul class="doxyList ">
-<li><span class="doxyComputerOutput">\struct</span> to document a C-struct.</li>
-<li><span class="doxyComputerOutput">\union</span> to document a union.</li>
-<li><span class="doxyComputerOutput">\enum</span> to document an enumeration type.</li>
-<li><span class="doxyComputerOutput">\fn</span> to document a function.</li>
-<li><span class="doxyComputerOutput">\var</span> to document a variable or typedef or enum value.</li>
-<li><span class="doxyComputerOutput">\def</span> to document a #define.</li>
-<li><span class="doxyComputerOutput">\typedef</span> to document a type definition.</li>
-<li><span class="doxyComputerOutput">\file</span> to document a file.</li>
-<li><span class="doxyComputerOutput">\namespace</span> to document a namespace.</li>
-<li><span class="doxyComputerOutput">\package</span> to document a Java package.</li>
-<li><span class="doxyComputerOutput">\interface</span> to document an IDL interface.</li>
+<li><code>\struct</code> to document a C-struct.</li>
+<li><code>\union</code> to document a union.</li>
+<li><code>\enum</code> to document an enumeration type.</li>
+<li><code>\fn</code> to document a function.</li>
+<li><code>\var</code> to document a variable or typedef or enum value.</li>
+<li><code>\def</code> to document a #define.</li>
+<li><code>\typedef</code> to document a type definition.</li>
+<li><code>\file</code> to document a file.</li>
+<li><code>\namespace</code> to document a namespace.</li>
+<li><code>\package</code> to document a Java package.</li>
+<li><code>\interface</code> to document an IDL interface.</li>
 </ul>
 
 See section <a href="/web-doxygen/docs/pages/commands">Special Commands</a> for detailed information about these and many other commands.
@@ -566,7 +566,7 @@ line in this file.
 :::
 
 
-Here is an example of a C header named <span class="doxyComputerOutput">structcmd.h</span> that is documented using structural commands:
+Here is an example of a C header named <code>structcmd.h</code> that is documented using structural commands:
 
 <div class="doxyProgramListing">
 
@@ -635,11 +635,11 @@ Here is an example of a C header named <span class="doxyComputerOutput">structcm
  for the corresponding HTML documentation that is generated by Doxygen.
  
 
-Because each comment block in the example above contains a structural command, all the comment blocks could be moved to another location or input file (the source file for instance), without affecting the generated documentation. The disadvantage of this approach is that prototypes are duplicated, so all changes have to be made twice! Because of this you should first consider if this is really needed, and avoid structural commands if possible. I often receive examples that contain \fn command in comment blocks which are place in front of a function. This is clearly a case where the \fn command is redundant and will only lead to problems.
+Because each comment block in the example above contains a structural command, all the comment blocks could be moved to another location or input file (the source file for instance), without affecting the generated documentation. The disadvantage of this approach is that prototypes are duplicated, so all changes have to be made twice! Because of this you should first consider if this is really needed, and avoid structural commands if possible. I often receive examples that contain \\fn command in comment blocks which are place in front of a function. This is clearly a case where the \\fn command is redundant and will only lead to problems.
 
-When you place a comment block in a file with one of the following extensions <span class="doxyComputerOutput">.dox</span>, <span class="doxyComputerOutput">.txt</span>, <span class="doxyComputerOutput">.doc</span>, <span class="doxyComputerOutput">.md</span> or <span class="doxyComputerOutput">.markdown</span> or when the extension maps to <span class="doxyComputerOutput">md</span> by means of the <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> then Doxygen will hide this file from the file list.
+When you place a comment block in a file with one of the following extensions <code>.dox</code>, <code>.txt</code>, <code>.doc</code>, <code>.md</code> or <code>.markdown</code> or when the extension maps to <code>md</code> by means of the <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> then Doxygen will hide this file from the file list.
 
-If you have a file that Doxygen cannot parse but still would like to document it, you can show it as-is using <a href="/web-doxygen/docs/pages/commands/#cmdverbinclude">\verbinclude</a>, e.g.
+If you have a file that Doxygen cannot parse but still would like to document it, you can show it as-is using <a href="/web-doxygen/docs/pages/commands/#cmdverbinclude">\\verbinclude</a>, e.g.
 
 
 <pre><code>/*! \file myscript.sh
@@ -649,12 +649,12 @@ If you have a file that Doxygen cannot parse but still would like to document it
 </code></pre>
 
 
-Make sure that the script is explicitly listed in the <a href="/web-doxygen/docs/pages/config/#cfg_input">INPUT</a> or that <a href="/web-doxygen/docs/pages/config/#cfg_file_patterns">FILE\_PATTERNS</a> includes the <span class="doxyComputerOutput">.sh</span> extension and the script can be found in the path set via <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a>.
+Make sure that the script is explicitly listed in the <a href="/web-doxygen/docs/pages/config/#cfg_input">INPUT</a> or that <a href="/web-doxygen/docs/pages/config/#cfg_file_patterns">FILE\_PATTERNS</a> includes the <code>.sh</code> extension and the script can be found in the path set via <a href="/web-doxygen/docs/pages/config/#cfg_example_path">EXAMPLE\_PATH</a>.
 
 ### Comment blocks in Python {#pythonblocks}
 
 
-For Python there is a standard way of documenting the code using so called documentation strings (<span class="doxyComputerOutput">"""</span>). Such strings are stored in <span class="doxyComputerOutput">\_\_doc\_\_</span> and can be retrieved at runtime. Doxygen will extract such comments and assume they have to be represented in a preformatted way.
+For Python there is a standard way of documenting the code using so called documentation strings (<code>"""</code>). Such strings are stored in <code>\_\_doc\_\_</code> and can be retrieved at runtime. Doxygen will extract such comments and assume they have to be represented in a preformatted way.
 
 <div class="doxyProgramListing">
 
@@ -694,12 +694,12 @@ For Python there is a standard way of documenting the code using so called docum
  
 
 :::info
-When using <span class="doxyComputerOutput">"""</span> none of Doxygen's <a href="/web-doxygen/docs/pages/commands/#cmd_intro">special commands</a> are supported and the text is shown as verbatim text see <a href="/web-doxygen/docs/pages/commands/#cmdverbatim">\verbatim</a>. To have the Doxygen's <a href="/web-doxygen/docs/pages/commands/#cmd_intro">special commands</a> and have the text as regular documentation instead of <span class="doxyComputerOutput">"""</span> use <span class="doxyComputerOutput">"""!</span> or set <a href="/web-doxygen/docs/pages/config/#cfg_python_docstring">PYTHON\_DOCSTRING</a> to <span class="doxyComputerOutput">NO</span> in the configuration file.
+When using <code>"""</code> none of Doxygen's <a href="/web-doxygen/docs/pages/commands/#cmd_intro">special commands</a> are supported and the text is shown as verbatim text see <a href="/web-doxygen/docs/pages/commands/#cmdverbatim">\\verbatim</a>. To have the Doxygen's <a href="/web-doxygen/docs/pages/commands/#cmd_intro">special commands</a> and have the text as regular documentation instead of <code>"""</code> use <code>"""!</code> or set <a href="/web-doxygen/docs/pages/config/#cfg_python_docstring">PYTHON\_DOCSTRING</a> to <code>NO</code> in the configuration file.
 :::
 
 
 :::info
-Instead of <span class="doxyComputerOutput">"""</span> one can also use <span class="doxyComputerOutput">'''</span>.
+Instead of <code>"""</code> one can also use <code>'''</code>.
 :::
 
 
@@ -747,7 +747,7 @@ Here is the same example again but now using Doxygen style comments:
  for the corresponding HTML documentation that is generated by Doxygen.
  
 
-Since python looks more like Java than like C or C++, you should set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_output_java">OPTIMIZE\_OUTPUT\_JAVA</a> to <span class="doxyComputerOutput">YES</span> in the configuration file.
+Since python looks more like Java than like C or C++, you should set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_output_java">OPTIMIZE\_OUTPUT\_JAVA</a> to <code>YES</code> in the configuration file.
 
 ### Comment blocks in VHDL {#vhdlblocks}
 
@@ -800,18 +800,18 @@ Here is an example VHDL file with Doxygen comments:
  for the corresponding HTML documentation that is generated by Doxygen.
  
 
-As of VHDL 2008 it is also possible to use <span class="doxyComputerOutput">/</span><span class="doxyComputerOutput">\*</span> style comments.
+As of VHDL 2008 it is also possible to use <code>/</code><code>\*</code> style comments.
 <br/>
- Doxygen will handle <span class="doxyComputerOutput">/</span><span class="doxyComputerOutput">\* ... \*</span><span class="doxyComputerOutput">/</span>as plain comments and <span class="doxyComputerOutput">/</span><span class="doxyComputerOutput">\*! ... \*</span><span class="doxyComputerOutput">/</span> style comments as special comments to be parsed by Doxygen.
+ Doxygen will handle <code>/</code><code>\* ... \*</code><code>/</code>as plain comments and <code>/</code><code>\*! ... \*</code><code>/</code> style comments as special comments to be parsed by Doxygen.
 
-To get proper looking output you need to set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_output_vhdl">OPTIMIZE\_OUTPUT\_VHDL</a> to <span class="doxyComputerOutput">YES</span> in the configuration file. This will also affect a number of other settings. When they were not already set correctly Doxygen will produce a warning telling which settings where overruled.
+To get proper looking output you need to set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_output_vhdl">OPTIMIZE\_OUTPUT\_VHDL</a> to <code>YES</code> in the configuration file. This will also affect a number of other settings. When they were not already set correctly Doxygen will produce a warning telling which settings where overruled.
 
 ### Comment blocks in Fortran {#fortranblocks}
 
 
-When using Doxygen for Fortran code you should set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_for_fortran">OPTIMIZE\_FOR\_FORTRAN</a> to <span class="doxyComputerOutput">YES</span>.
+When using Doxygen for Fortran code you should set <a href="/web-doxygen/docs/pages/config/#cfg_optimize_for_fortran">OPTIMIZE\_FOR\_FORTRAN</a> to <code>YES</code>.
 
-The parser tries to guess if the source code is fixed format Fortran or free format Fortran code. This may not always be correct. If not one should use <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> to correct this. By setting <span class="doxyComputerOutput">EXTENSION\_MAPPING = f=FortranFixed f90=FortranFree</span> files with extension <span class="doxyComputerOutput">f</span> are interpreted as fixed format Fortran code and files with extension <span class="doxyComputerOutput">f90</span> are interpreted as free format Fortran code.
+The parser tries to guess if the source code is fixed format Fortran or free format Fortran code. This may not always be correct. If not one should use <a href="/web-doxygen/docs/pages/config/#cfg_extension_mapping">EXTENSION\_MAPPING</a> to correct this. By setting <code>EXTENSION\_MAPPING = f=FortranFixed f90=FortranFree</code> files with extension <code>f</code> are interpreted as fixed format Fortran code and files with extension <code>f90</code> are interpreted as free format Fortran code.
 
 For Fortran "!&gt;" or "!&lt;" starts a comment and "!!" or "!&gt;" can be used to continue an one line comment into a multi-line comment.
 

@@ -53,7 +53,7 @@ Class representing a string buffer optimized for growing. <a href="/web-doxygen/
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">#define</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>&nbsp;&nbsp;&nbsp;1024\*4</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>&nbsp;&nbsp;&nbsp;1024*4</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -80,7 +80,7 @@ Class representing a string buffer optimized for growing. <a href="/web-doxygen/
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">#define GROW_AMOUNT&nbsp;&nbsp;&nbsp;1024\*4</td>
+<td class="doxyMemberName">#define GROW_AMOUNT&nbsp;&nbsp;&nbsp;1024*4</td>
 </tr>
 </table>
 </td>

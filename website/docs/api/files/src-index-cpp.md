@@ -1565,7 +1565,7 @@ Helper class representing a module member in the navigation menu. <a href="/web-
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const int</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abc1a8a86fe8d8ec886069eac188534d7">maxItemsBeforeQuickIndex</a> = <a href="#a11cae55bd05fc02cdf480a11a307d252">MAX\_ITEMS\_BEFORE\_QUICK\_INDEX</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#abc1a8a86fe8d8ec886069eac188534d7">maxItemsBeforeQuickIndex</a> = <a href="#a11cae55bd05fc02cdf480a11a307d252">MAX_ITEMS_BEFORE_QUICK_INDEX</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -10645,7 +10645,7 @@ Referenced by <a href="#a0d8342dd518223a45f160f8b2f081c32">writeIndexHierarchyEn
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const int maxItemsBeforeQuickIndex = <a href="#a11cae55bd05fc02cdf480a11a307d252">MAX\_ITEMS\_BEFORE\_QUICK\_INDEX</a></td>
+<td class="doxyMemberName">const int maxItemsBeforeQuickIndex = <a href="#a11cae55bd05fc02cdf480a11a307d252">MAX_ITEMS_BEFORE_QUICK_INDEX</a></td>
 </tr>
 </table>
 </td>

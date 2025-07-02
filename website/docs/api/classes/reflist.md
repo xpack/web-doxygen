@@ -263,7 +263,7 @@ List of cross-referenced items.
 
 This class represents a list of items that are put at a certain point in the documentation by some special command and are collected in a list. The items cross-reference the documentation and the list.
 
-Examples are the todo list, the test list and the bug list, introduced by the \todo, \test, and \bug commands respectively.
+Examples are the todo list, the test list and the bug list, introduced by the \\todo, \\test, and \\bug commands respectively.
 
 Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/reflist-h">reflist.h</a>.
 

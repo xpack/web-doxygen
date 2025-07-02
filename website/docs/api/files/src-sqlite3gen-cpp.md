@@ -4741,7 +4741,7 @@ References <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f
 <dd>
 <div class="doxyVerbatim">={
   "SELECT EXISTS ("
-    "SELECT \* FROM compounddef WHERE rowid = :rowid"
+    "SELECT * FROM compounddef WHERE rowid = :rowid"
   ")"
   ,nullptr
 }
@@ -4855,9 +4855,9 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 <dd>
 <div class="doxyVerbatim">={
   "INSERT INTO compoundref "
-    "( base\_rowid, derived\_rowid, prot, virt ) "
+    "( base_rowid, derived_rowid, prot, virt ) "
   "VALUES "
-    "(:base\_rowid,:derived\_rowid,:prot,:virt )"
+    "(:base_rowid,:derived_rowid,:prot,:virt )"
   ,nullptr
 }
 </div>
@@ -4908,9 +4908,9 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 <dd>
 <div class="doxyVerbatim">={
   "INSERT INTO contains "
-    "( inner\_rowid, outer\_rowid )"
+    "( inner_rowid, outer_rowid )"
   "VALUES "
-    "(:inner\_rowid,:outer\_rowid )"
+    "(:inner_rowid,:outer_rowid )"
   ,nullptr
 }
 </div>
@@ -4961,9 +4961,9 @@ Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>
 <dd>
 <div class="doxyVerbatim">= {
   "INSERT INTO includes "
-    "( local, src\_id, dst\_id ) "
+    "( local, src_id, dst_id ) "
   "VALUES "
-    "(:local,:src\_id,:dst\_id )"
+    "(:local,:src_id,:dst_id )"
   ,nullptr
 }
 </div>
@@ -5013,8 +5013,8 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">= {
-  "SELECT COUNT(\*) FROM includes WHERE "
-  "local=:local AND src\_id=:src\_id AND dst\_id=:dst\_id"
+  "SELECT COUNT(*) FROM includes WHERE "
+  "local=:local AND src_id=:src_id AND dst_id=:dst_id"
   ,nullptr
 }
 </div>
@@ -5063,9 +5063,9 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 <dd>
 <div class="doxyVerbatim">={
   "INSERT INTO member "
-    "( scope\_rowid, memberdef\_rowid, prot, virt ) "
+    "( scope_rowid, memberdef_rowid, prot, virt ) "
   "VALUES "
-    "(:scope\_rowid,:memberdef\_rowid,:prot,:virt )"
+    "(:scope_rowid,:memberdef_rowid,:prot,:virt )"
   ,nullptr
 }
 </div>
@@ -5115,7 +5115,7 @@ Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a> a
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">={
-  "SELECT EXISTS (SELECT \* FROM memberdef WHERE rowid = :rowid)"
+  "SELECT EXISTS (SELECT * FROM memberdef WHERE rowid = :rowid)"
   ,nullptr
 }
 </div>
@@ -5163,8 +5163,8 @@ Referenced by <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a> a
 <dd>
 <div class="doxyVerbatim">={
   "SELECT EXISTS ("
-    "SELECT \* FROM memberdef WHERE "
-    "rowid = :rowid AND inline != 2 AND inline != :new\_inline"
+    "SELECT * FROM memberdef WHERE "
+    "rowid = :rowid AND inline != 2 AND inline != :new_inline"
   ")"
   ,nullptr
 }
@@ -5368,10 +5368,10 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 <dt>Initialiser</dt>
 <dd>
 <div class="doxyVerbatim">={
-  "INSERT INTO memberdef\_param "
-    "( memberdef\_id, param\_id)"
+  "INSERT INTO memberdef_param "
+    "( memberdef_id, param_id)"
   "VALUES "
-    "(:memberdef\_id,:param\_id)"
+    "(:memberdef_id,:param_id)"
   ,nullptr
 }
 </div>
@@ -5423,7 +5423,7 @@ Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefinePar
 <div class="doxyVerbatim">={
   "UPDATE memberdef SET "
     "inline = :inline,"
-    "file\_id = :file\_id,"
+    "file_id = :file_id,"
     "line = :line,"
     "column = :column,"
     "detaileddescription = 'Declaration: ' || :detaileddescription || 'Definition: ' || detaileddescription,"
@@ -5488,7 +5488,7 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
     "inline = :inline,"
     "bodystart = :bodystart,"
     "bodyend = :bodyend,"
-    "bodyfile\_id = :bodyfile\_id,"
+    "bodyfile_id = :bodyfile_id,"
     "detaileddescription = 'Declaration: ' || detaileddescription || 'Definition: ' || :detaileddescription,"
     "briefdescription = 'Declaration: ' || briefdescription || 'Definition: ' || :briefdescription,"
     "inbodydescription = 'Declaration: ' || inbodydescription || 'Definition: ' || :inbodydescription "
@@ -5548,9 +5548,9 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 <dd>
 <div class="doxyVerbatim">= {
   "INSERT INTO meta "
-    "( doxygen\_version, schema\_version, generated\_at, generated\_on, project\_name, project\_number, project\_brief )"
+    "( doxygen_version, schema_version, generated_at, generated_on, project_name, project_number, project_brief )"
   "VALUES "
-    "(:doxygen\_version,:schema\_version,:generated\_at,:generated\_on,:project\_name,:project\_number,:project\_brief )"
+    "(:doxygen_version,:schema_version,:generated_at,:generated_on,:project_name,:project_number,:project_brief )"
   ,nullptr
 }
 </div>
@@ -5915,9 +5915,9 @@ Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <
 <dd>
 <div class="doxyVerbatim">= {
   "INSERT INTO reimplements "
-    "( memberdef\_rowid, reimplemented\_rowid )"
+    "( memberdef_rowid, reimplemented_rowid )"
   "VALUES "
-    "(:memberdef\_rowid,:reimplemented\_rowid )"
+    "(:memberdef_rowid,:reimplemented_rowid )"
   ,nullptr
 }
 </div>
@@ -6461,9 +6461,9 @@ Referenced by <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>.
 <dd>
 <div class="doxyVerbatim">= {
   "INSERT INTO xrefs "
-    "( src\_rowid, dst\_rowid, context )"
+    "( src_rowid, dst_rowid, context )"
   "VALUES "
-    "(:src\_rowid,:dst\_rowid,:context )"
+    "(:src_rowid,:dst_rowid,:context )"
   ,nullptr
 }
 </div>

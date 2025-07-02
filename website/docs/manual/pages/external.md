@@ -46,7 +46,7 @@ A tag file typically only contains a relative location of the documentation from
 <dl class="doxySectionUser">
 <dt>Example: </dt>
 <dd>
-Suppose you have a project <span class="doxyComputerOutput">proj</span> that uses two external projects called <span class="doxyComputerOutput">ext1</span> and <span class="doxyComputerOutput">ext2</span>. The directory structure looks as follows:
+Suppose you have a project <code>proj</code> that uses two external projects called <code>ext1</code> and <code>ext2</code>. The directory structure looks as follows:
 </dd>
 </dl>
 

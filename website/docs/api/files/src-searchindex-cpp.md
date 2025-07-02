@@ -129,7 +129,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">const size_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a> = 256\*256</td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a99ffca8320d09c3e2c5ce800855f1469">numIndexEntries</a> = 256*256</td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -545,7 +545,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindex/#a3682b0b970d44
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">const size_t numIndexEntries = 256\*256</td>
+<td class="doxyMemberName">const size_t numIndexEntries = 256*256</td>
 </tr>
 </table>
 </td>

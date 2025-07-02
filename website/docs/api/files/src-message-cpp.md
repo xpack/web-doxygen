@@ -295,7 +295,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">static WARN_AS_ERROR_t</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8e1d65011b82b41029cea922b7b3c298">g_warnBehavior</a> = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN\_AS\_ERROR\_t::NO</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a8e1d65011b82b41029cea922b7b3c298">g_warnBehavior</a> = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN_AS_ERROR_t::NO</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -1213,7 +1213,7 @@ Referenced by <a href="#a3a494fadd4c48c14de490e66d80bb279">err\_</a>, <a href="#
 <td class="doxyMemberLabelsLeft">
 <table class="doxyMemberName">
 <tr>
-<td class="doxyMemberName">WARN_AS_ERROR_t g_warnBehavior = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN\_AS\_ERROR\_t::NO</a></td>
+<td class="doxyMemberName">WARN_AS_ERROR_t g_warnBehavior = <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h/#ac63cb3ba9a18f02ff6bde1a72b79b492ac2f3f489a00553e7a01d369c103c7251">WARN_AS_ERROR_t::NO</a></td>
 </tr>
 </table>
 </td>

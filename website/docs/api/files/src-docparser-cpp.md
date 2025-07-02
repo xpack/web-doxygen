@@ -1186,7 +1186,7 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser
 <dl class="doxySectionUser">
 <dt>Value</dt>
 <dd>
-<div class="doxyVerbatim">   do if ((i+sizeof(str)&lt;len) &amp;&amp; <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>(data+i+1,str)) \
+<div class="doxyVerbatim">   do if ((i+sizeof(str)&lt;len) &amp;&amp; <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>(data+i+1,str)) \
    { j=i+sizeof(str); action; } while(0)
 </div>
 </dd>

@@ -1389,7 +1389,7 @@ Returns the position in the string where a function parameter list begins, or -1
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns <span class="doxyComputerOutput">TRUE</span> iff string <em>s</em> contains word <em>w</em> <a href="#a4a4f83dcfb4d9490aaf82e597940b27c">More...</a>
+returns <code>TRUE</code> iff string <em>s</em> contains word <em>w</em> <a href="#a4a4f83dcfb4d9490aaf82e597940b27c">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1483,7 +1483,7 @@ Special version of <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Routine to handle the language attribute of the <span class="doxyComputerOutput">\code</span> command. <a href="#a6d584858761afb81c76d1c85e19438e9">More...</a>
+Routine to handle the language attribute of the <code>\\code</code> command. <a href="#a6d584858761afb81c76d1c85e19438e9">More...</a>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3401,7 +3401,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fc
 </div>
 <div class="doxyMemberDoc">
 
-returns <span class="doxyComputerOutput">TRUE</span> iff string <em>s</em> contains word <em>w</em>
+returns <code>TRUE</code> iff string <em>s</em> contains word <em>w</em>
 
 Definition at line 5482 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -5458,7 +5458,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb
 removes occurrences of whole <em>word</em> from <em>sentence</em>, while keeps internal spaces and reducing multiple sequences of spaces.
 
 
-<a href="/web-doxygen/docs/api/structs/example">Example</a>: sentence=<span class="doxyComputerOutput"> cat+ catfish cat cat concat cat</span>, word=<span class="doxyComputerOutput">cat</span> returns: <span class="doxyComputerOutput">+ catfish concat</span>
+<a href="/web-doxygen/docs/api/structs/example">Example</a>: sentence=<code> cat+ catfish cat cat concat cat</code>, word=<code>cat</code> returns: <code>+ catfish concat</code>
 
 Definition at line 5498 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -7491,7 +7491,7 @@ Referenced by <a href="#ad4426e053bb11589c58bd5c6828817e2">getFileFilter</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Routine to handle the language attribute of the <span class="doxyComputerOutput">\code</span> command.
+Routine to handle the language attribute of the <code>\\code</code> command.
 
 Definition at line 5740 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -7737,7 +7737,7 @@ Referenced by <a href="#a4ca7796c0d1fc682a180bc156f3a3514">checkIfTypedef</a>.
 
 
 
-Returns the standard string that is generated when the \overload command is used.
+Returns the standard string that is generated when the \\overload command is used.
 
 Definition at line 4603 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -7885,15 +7885,15 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4e
 
 
 
-Searches for a scope definition given its name as a string via parameter <span class="doxyComputerOutput">scope</span>.
+Searches for a scope definition given its name as a string via parameter <code>scope</code>.
 
-The parameter <span class="doxyComputerOutput">docScope</span> is a string representing the name of the scope in which the <span class="doxyComputerOutput">scope</span> string was found.
+The parameter <code>docScope</code> is a string representing the name of the scope in which the <code>scope</code> string was found.
 
-The function returns TRUE if the scope is known and documented or FALSE if it is not. If TRUE is returned exactly one of the parameter <span class="doxyComputerOutput">cd</span>, <span class="doxyComputerOutput">nd</span> will be non-zero:
+The function returns TRUE if the scope is known and documented or FALSE if it is not. If TRUE is returned exactly one of the parameter <code>cd</code>, <code>nd</code> will be non-zero:
 
 <ul class="doxyList ">
-<li>if <span class="doxyComputerOutput">cd</span> is non zero, the scope was a class pointed to by cd.</li>
-<li>if <span class="doxyComputerOutput">nd</span> is non zero, the scope was a namespace pointed to by nd.</li>
+<li>if <code>cd</code> is non zero, the scope was a class pointed to by cd.</li>
+<li>if <code>nd</code> is non zero, the scope was a namespace pointed to by nd.</li>
 </ul>
 
 Definition at line 2891 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
@@ -9835,11 +9835,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e2
 
 
 
-Merges two scope parts together. The parts may (partially) overlap. Example1: <span class="doxyComputerOutput">A::B</span> and <span class="doxyComputerOutput">B::C</span> will result in <span class="doxyComputerOutput">A::B::C</span> 
+Merges two scope parts together. The parts may (partially) overlap. Example1: <code>A::B</code> and <code>B::C</code> will result in <code>A::B::C</code> 
 <br/>
- Example2: <span class="doxyComputerOutput">A</span> and <span class="doxyComputerOutput">B</span> will be <span class="doxyComputerOutput">A::B</span> 
+ Example2: <code>A</code> and <code>B</code> will be <code>A::B</code> 
 <br/>
- Example3: <span class="doxyComputerOutput">A::B</span> and B will be <span class="doxyComputerOutput">A::B</span>
+ Example3: <code>A::B</code> and B will be <code>A::B</code>
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -13535,7 +13535,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#aab4159501d3
 
 
 
-Strips template specifiers from scope <em>fullName</em>, except those that make up specialized classes. The switch <em>parentOnly</em> determines whether or not a template "at the end" of a scope should be considered, e.g. with <em>parentOnly</em> is <span class="doxyComputerOutput">TRUE</span>, <span class="doxyComputerOutput">A&lt;T&gt;::B&lt;S&gt;</span> will try to strip <span class="doxyComputerOutput">&lt;T&gt;</span> and not <span class="doxyComputerOutput">&lt;S&gt;</span>, while <em>parentOnly</em> is <span class="doxyComputerOutput">FALSE</span> will strip both unless <span class="doxyComputerOutput">A&lt;T&gt;</span> or <span class="doxyComputerOutput">B&lt;S&gt;</span> are specialized template classes.
+Strips template specifiers from scope <em>fullName</em>, except those that make up specialized classes. The switch <em>parentOnly</em> determines whether or not a template "at the end" of a scope should be considered, e.g. with <em>parentOnly</em> is <code>TRUE</code>, <code>A&lt;T&gt;::B&lt;S&gt;</code> will try to strip <code>&lt;T&gt;</code> and not <code>&lt;S&gt;</code>, while <em>parentOnly</em> is <code>FALSE</code> will strip both unless <code>A&lt;T&gt;</code> or <code>B&lt;S&gt;</code> are specialized template classes.
 
 Definition at line 5030 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
 
@@ -15034,7 +15034,6 @@ Referenced by <a href="#af891990268daeb8713d18d154b84ffdb">findFileDef</a>.
 <dd>
 <div class="doxyVerbatim">=
 {
-
   { "idl",         "c",             SrcLangExt::IDL,      ".idl" },
   { "java",        "c",             SrcLangExt::Java,     ".java"},
   { "javascript",  "c",             SrcLangExt::JS,       ".js"  },
