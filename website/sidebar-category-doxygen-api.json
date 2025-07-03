@@ -3841,6 +3841,16 @@
           "type": "doc",
           "label": "Typedefs",
           "id": "api/index/classes/typedefs"
+        },
+        {
+          "type": "doc",
+          "label": "Enumerations",
+          "id": "api/index/classes/enums"
+        },
+        {
+          "type": "doc",
+          "label": "Enum Values",
+          "id": "api/index/classes/enumvalues"
         }
       ]
     },

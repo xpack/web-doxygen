@@ -17,7 +17,7 @@ keywords:
 
 The classes, structs, union interfaces used by this project are:
 
-## - A -
+## - a -
 
 <ul>
 <li>AccessElem: <a href="/web-doxygen/docs/api/structs/accessstack/accesselem">struct AccessStack::AccessElem</a></li>
@@ -35,7 +35,7 @@ The classes, structs, union interfaces used by this project are:
 <li>AutoTrace: <a href="/web-doxygen/docs/api/classes/autotrace">class AutoTrace</a></li>
 </ul>
 
-## - B -
+## - b -
 
 <ul>
 <li>BaseClassDef: <a href="/web-doxygen/docs/api/structs/baseclassdef">struct BaseClassDef</a></li>
@@ -45,7 +45,7 @@ The classes, structs, union interfaces used by this project are:
 <li>BriefInfo: <a href="/web-doxygen/docs/api/structs/briefinfo">struct BriefInfo</a></li>
 </ul>
 
-## - C -
+## - c -
 
 <ul>
 <li>Cache: <a href="/web-doxygen/docs/api/classes/cache">class Cache</a></li>
@@ -74,13 +74,18 @@ The classes, structs, union interfaces used by this project are:
 <li>CmhlInfo: <a href="/web-doxygen/docs/api/structs/cmhlinfo">struct CmhlInfo</a></li>
 <li>CodeFragmentManager: <a href="/web-doxygen/docs/api/classes/codefragmentmanager">class CodeFragmentManager</a></li>
 <li>CodeParserInterface: <a href="/web-doxygen/docs/api/classes/codeparserinterface">class CodeParserInterface</a></li>
+<li>codeYY_state: <a href="/web-doxygen/docs/api/structs/codeyy-state">struct codeYY_state</a></li>
 <li>Color: <a href="/web-doxygen/docs/api/structs/color">struct Color</a></li>
 <li>ColoredImage: <a href="/web-doxygen/docs/api/classes/coloredimage">class ColoredImage</a></li>
 <li>ColoredImgDataItem: <a href="/web-doxygen/docs/api/structs/coloredimgdataitem">struct ColoredImgDataItem</a></li>
 <li>CommandOverrides: <a href="/web-doxygen/docs/api/classes/commandoverrides">class CommandOverrides</a></li>
+<li>commentcnv_FileState: <a href="/web-doxygen/docs/api/structs/commentcnv-filestate">struct commentcnv_FileState</a></li>
+<li>commentcnvYY_CondCtx: <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx">struct commentcnvYY_CondCtx</a></li>
+<li>commentcnvYY_state: <a href="/web-doxygen/docs/api/structs/commentcnvyy-state">struct commentcnvYY_state</a></li>
 <li>CommentCtx: <a href="/web-doxygen/docs/api/structs/commentctx">struct CommentCtx</a></li>
 <li>CommentInPrepass: <a href="/web-doxygen/docs/api/structs/commentinprepass">struct CommentInPrepass</a></li>
 <li>CommentScanner: <a href="/web-doxygen/docs/api/classes/commentscanner">class CommentScanner</a></li>
+<li>commentscanYY_state: <a href="/web-doxygen/docs/api/structs/commentscanyy-state">struct commentscanYY_state</a></li>
 <li>CompoundFactory: <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/compoundfactory">struct anonymous_namespace{tagreader.cpp}::CompoundFactory</a></li>
 <li>ConceptDef: <a href="/web-doxygen/docs/api/classes/conceptdef">class ConceptDef</a></li>
 <li>ConceptDefAliasImpl: <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl">class ConceptDefAliasImpl</a></li>
@@ -101,6 +106,7 @@ The classes, structs, union interfaces used by this project are:
 <li>ConfigOption: <a href="/web-doxygen/docs/api/classes/configoption">class ConfigOption</a></li>
 <li>ConfigString: <a href="/web-doxygen/docs/api/classes/configstring">class ConfigString</a></li>
 <li>ConstExpressionParser: <a href="/web-doxygen/docs/api/classes/constexpressionparser">class ConstExpressionParser</a></li>
+<li>constexpYY_state: <a href="/web-doxygen/docs/api/structs/constexpyy-state">struct constexpYY_state</a></li>
 <li>ConstraintClassDef: <a href="/web-doxygen/docs/api/structs/constraintclassdef">struct ConstraintClassDef</a></li>
 <li>ConstraintClassList: <a href="/web-doxygen/docs/api/classes/constraintclasslist">class ConstraintClassList</a></li>
 <li>COutlineParser: <a href="/web-doxygen/docs/api/classes/coutlineparser">class COutlineParser</a></li>
@@ -109,12 +115,14 @@ The classes, structs, union interfaces used by this project are:
 <li>Ctx: <a href="/web-doxygen/docs/api/structs/callcontext/ctx">struct CallContext::Ctx</a></li>
 </ul>
 
-## - D -
+## - d -
 
 <ul>
 <li>DateTimeField: <a href="/web-doxygen/docs/api/structs/datetimefield">struct DateTimeField</a></li>
 <li>Debug: <a href="/web-doxygen/docs/api/classes/debug">class Debug</a></li>
 <li>DebugLex: <a href="/web-doxygen/docs/api/classes/debuglex">class DebugLex</a></li>
+<li>declinfoYY_state: <a href="/web-doxygen/docs/api/structs/declinfoyy-state">struct declinfoYY_state</a></li>
+<li>defargsYY_state: <a href="/web-doxygen/docs/api/structs/defargsyy-state">struct defargsYY_state</a></li>
 <li>Define: <a href="/web-doxygen/docs/api/classes/define">class Define</a></li>
 <li>DefineManager: <a href="/web-doxygen/docs/api/classes/definemanager">class DefineManager</a></li>
 <li>DefinesPerFile: <a href="/web-doxygen/docs/api/classes/definemanager/definesperfile">class DefineManager::DefinesPerFile</a></li>
@@ -205,6 +213,7 @@ The classes, structs, union interfaces used by this project are:
 <li>DocText: <a href="/web-doxygen/docs/api/classes/doctext">class DocText</a></li>
 <li>DocTitle: <a href="/web-doxygen/docs/api/classes/doctitle">class DocTitle</a></li>
 <li>DocTokenizer: <a href="/web-doxygen/docs/api/classes/doctokenizer">class DocTokenizer</a></li>
+<li>doctokenizerYY_state: <a href="/web-doxygen/docs/api/structs/doctokenizeryy-state">struct doctokenizerYY_state</a></li>
 <li>DocURL: <a href="/web-doxygen/docs/api/classes/docurl">class DocURL</a></li>
 <li>DocVerbatim: <a href="/web-doxygen/docs/api/classes/docverbatim">class DocVerbatim</a></li>
 <li>DocVhdlFlow: <a href="/web-doxygen/docs/api/classes/docvhdlflow">class DocVhdlFlow</a></li>
@@ -235,7 +244,7 @@ The classes, structs, union interfaces used by this project are:
 <li>DummyDef: <a href="/web-doxygen/docs/api/structs/scopedtypevariant/dummydef">struct ScopedTypeVariant::DummyDef</a></li>
 </ul>
 
-## - E -
+## - e -
 
 <ul>
 <li>EclipseHelp: <a href="/web-doxygen/docs/api/classes/eclipsehelp">class EclipseHelp</a></li>
@@ -244,6 +253,8 @@ The classes, structs, union interfaces used by this project are:
 <li>EdgeProperties: <a href="/web-doxygen/docs/api/structs/edgeproperties">struct EdgeProperties</a></li>
 <li>ElementCallbacks: <a href="/web-doxygen/docs/api/structs/anonymous-namespace-layout-cpp-/elementcallbacks">struct anonymous_namespace{layout.cpp}::ElementCallbacks</a></li>
 <li>ElementCallbacks: <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/elementcallbacks">struct anonymous_namespace{tagreader.cpp}::ElementCallbacks</a></li>
+<li>emojiEntityCompatibility: <a href="/web-doxygen/docs/api/structs/emojientitycompatibility">struct emojiEntityCompatibility</a></li>
+<li>emojiEntityInfo: <a href="/web-doxygen/docs/api/structs/emojientityinfo">struct emojiEntityInfo</a></li>
 <li>EmojiEntityMapper: <a href="/web-doxygen/docs/api/classes/emojientitymapper">class EmojiEntityMapper</a></li>
 <li>Entry: <a href="/web-doxygen/docs/api/classes/entry">class Entry</a></li>
 <li>EntryType: <a href="/web-doxygen/docs/api/classes/entrytype">class EntryType</a></li>
@@ -253,7 +264,7 @@ The classes, structs, union interfaces used by this project are:
 <li>ExampleList: <a href="/web-doxygen/docs/api/classes/examplelist">class ExampleList</a></li>
 </ul>
 
-## - F -
+## - f -
 
 <ul>
 <li>FileCodeParser: <a href="/web-doxygen/docs/api/classes/filecodeparser">class FileCodeParser</a></li>
@@ -273,20 +284,34 @@ The classes, structs, union interfaces used by this project are:
 <li>FindFileCacheElem: <a href="/web-doxygen/docs/api/structs/findfilecacheelem">struct FindFileCacheElem</a></li>
 <li>FlowChart: <a href="/web-doxygen/docs/api/classes/flowchart">class FlowChart</a></li>
 <li>FmhlInfo: <a href="/web-doxygen/docs/api/structs/fmhlinfo">struct FmhlInfo</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-ac7a8b6ccc179c66c0c6a42436bfe08e">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-c960f428801913f923f15600edfb1350">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-a295d5763d866422fbb9f0f73b5aeb1a">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-90b67b5fff342f1f4811ae76fe2c9660">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-daff972618727491746978371a4d085f">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-fa4158f88247518f118826f72729e28e">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-fcc5bf00f385d03831cd3caa023f8800">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-0429673a9028c4f3fa9d52d2e17897f3">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-5ea0b39724d6aada50678fd65eb3d74b">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-6625149323a2be27829912899c3034b9">struct fmt::formatter</a></li>
+<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-3bc0763cf07398a7c5644ce192ea65ea">struct fmt::formatter</a></li>
 <li>Formula: <a href="/web-doxygen/docs/api/classes/formula">class Formula</a></li>
 <li>FormulaManager: <a href="/web-doxygen/docs/api/classes/formulamanager">class FormulaManager</a></li>
 <li>FortranCodeParser: <a href="/web-doxygen/docs/api/classes/fortrancodeparser">class FortranCodeParser</a></li>
 <li>FortranCodeParserFixed: <a href="/web-doxygen/docs/api/classes/fortrancodeparserfixed">class FortranCodeParserFixed</a></li>
 <li>FortranCodeParserFree: <a href="/web-doxygen/docs/api/classes/fortrancodeparserfree">class FortranCodeParserFree</a></li>
+<li>fortrancodeYY_state: <a href="/web-doxygen/docs/api/structs/fortrancodeyy-state">struct fortrancodeYY_state</a></li>
 <li>FortranOutlineParser: <a href="/web-doxygen/docs/api/classes/fortranoutlineparser">class FortranOutlineParser</a></li>
 <li>FortranOutlineParserFixed: <a href="/web-doxygen/docs/api/classes/fortranoutlineparserfixed">class FortranOutlineParserFixed</a></li>
 <li>FortranOutlineParserFree: <a href="/web-doxygen/docs/api/classes/fortranoutlineparserfree">class FortranOutlineParserFree</a></li>
+<li>fortranscannerYY_state: <a href="/web-doxygen/docs/api/structs/fortranscanneryy-state">struct fortranscannerYY_state</a></li>
 <li>FragmentInfo: <a href="/web-doxygen/docs/api/structs/codefragmentmanager/private/fragmentinfo">struct CodeFragmentManager::Private::FragmentInfo</a></li>
 <li>FTVHelp: <a href="/web-doxygen/docs/api/classes/ftvhelp">class FTVHelp</a></li>
 <li>FTVNode: <a href="/web-doxygen/docs/api/structs/ftvnode">struct FTVNode</a></li>
 </ul>
 
-## - G -
+## - g -
 
 <ul>
 <li>GetDefInput: <a href="/web-doxygen/docs/api/structs/getdefinput">struct GetDefInput</a></li>
@@ -301,9 +326,11 @@ The classes, structs, union interfaces used by this project are:
 <li>GuardedSection: <a href="/web-doxygen/docs/api/classes/guardedsection">class GuardedSection</a></li>
 </ul>
 
-## - H -
+## - h -
 
 <ul>
+<li>has_method_children: <a href="/web-doxygen/docs/api/structs/details/has-method-children">struct details::has_method_children</a></li>
+<li>has_method_children: <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">struct details::has_method_children</a></li>
 <li>HeaderInfo: <a href="/web-doxygen/docs/api/structs/headerinfo">struct HeaderInfo</a></li>
 <li>Htags: <a href="/web-doxygen/docs/api/structs/htags">struct Htags</a></li>
 <li>HtmlAttrib: <a href="/web-doxygen/docs/api/structs/htmlattrib">struct HtmlAttrib</a></li>
@@ -319,7 +346,7 @@ The classes, structs, union interfaces used by this project are:
 <li>HtmlHelpRecoder: <a href="/web-doxygen/docs/api/classes/htmlhelprecoder">class HtmlHelpRecoder</a></li>
 </ul>
 
-## - I -
+## - i -
 
 <ul>
 <li>IDocNodeAST: <a href="/web-doxygen/docs/api/classes/idocnodeast">class IDocNodeAST</a></li>
@@ -341,7 +368,7 @@ The classes, structs, union interfaces used by this project are:
 <li>Iterator: <a href="/web-doxygen/docs/api/classes/reg/iterator">class reg::Iterator</a></li>
 </ul>
 
-## - J -
+## - j -
 
 <ul>
 <li>JJCalls: <a href="/web-doxygen/docs/api/structs/vhdl/parser/jjcalls">struct vhdl::parser::JJCalls</a></li>
@@ -350,14 +377,14 @@ The classes, structs, union interfaces used by this project are:
 <li>JSTreeFile: <a href="/web-doxygen/docs/api/structs/jstreefile">struct JSTreeFile</a></li>
 </ul>
 
-## - K -
+## - k -
 
 <ul>
 <li>KeywordHash: <a href="/web-doxygen/docs/api/classes/keywordhash">class KeywordHash</a></li>
 <li>KeywordSubstitution: <a href="/web-doxygen/docs/api/structs/keywordsubstitution">struct KeywordSubstitution</a></li>
 </ul>
 
-## - L -
+## - l -
 
 <ul>
 <li>Lang2ExtMap: <a href="/web-doxygen/docs/api/structs/lang2extmap">struct Lang2ExtMap</a></li>
@@ -374,7 +401,9 @@ The classes, structs, union interfaces used by this project are:
 <li>LayoutNavEntry: <a href="/web-doxygen/docs/api/structs/layoutnaventry">struct LayoutNavEntry</a></li>
 <li>LayoutParser: <a href="/web-doxygen/docs/api/classes/layoutparser">class LayoutParser</a></li>
 <li>LexCodeParser: <a href="/web-doxygen/docs/api/classes/lexcodeparser">class LexCodeParser</a></li>
+<li>lexcodeYY_state: <a href="/web-doxygen/docs/api/structs/lexcodeyy-state">struct lexcodeYY_state</a></li>
 <li>LexOutlineParser: <a href="/web-doxygen/docs/api/classes/lexoutlineparser">class LexOutlineParser</a></li>
+<li>lexscannerYY_state: <a href="/web-doxygen/docs/api/structs/lexscanneryy-state">struct lexscannerYY_state</a></li>
 <li>LineInfo: <a href="/web-doxygen/docs/api/structs/htmlcodegenerator/lineinfo">struct HtmlCodeGenerator::LineInfo</a></li>
 <li>Link: <a href="/web-doxygen/docs/api/structs/dotgroupcollaboration/link">struct DotGroupCollaboration::Link</a></li>
 <li>LinkedMap: <a href="/web-doxygen/docs/api/classes/linkedmap">class LinkedMap</a></li>
@@ -385,7 +414,7 @@ The classes, structs, union interfaces used by this project are:
 <li>LookupInfo: <a href="/web-doxygen/docs/api/structs/lookupinfo">struct LookupInfo</a></li>
 </ul>
 
-## - M -
+## - m -
 
 <ul>
 <li>ManCodeGenerator: <a href="/web-doxygen/docs/api/classes/mancodegenerator">class ManCodeGenerator</a></li>
@@ -425,7 +454,7 @@ The classes, structs, union interfaces used by this project are:
 <li>ModuleManager: <a href="/web-doxygen/docs/api/classes/modulemanager">class ModuleManager</a></li>
 </ul>
 
-## - N -
+## - n -
 
 <ul>
 <li>NamespaceAliasInfo: <a href="/web-doxygen/docs/api/structs/namespacealiasinfo">struct NamespaceAliasInfo</a></li>
@@ -442,7 +471,7 @@ The classes, structs, union interfaces used by this project are:
 <li>NullOutlineParser: <a href="/web-doxygen/docs/api/classes/nulloutlineparser">class NullOutlineParser</a></li>
 </ul>
 
-## - O -
+## - o -
 
 <ul>
 <li>ObjCCallCtx: <a href="/web-doxygen/docs/api/structs/objccallctx">struct ObjCCallCtx</a></li>
@@ -458,7 +487,7 @@ The classes, structs, union interfaces used by this project are:
 <li>OutputList: <a href="/web-doxygen/docs/api/classes/outputlist">class OutputList</a></li>
 </ul>
 
-## - P -
+## - p -
 
 <ul>
 <li>PageDef: <a href="/web-doxygen/docs/api/classes/pagedef">class PageDef</a></li>
@@ -477,6 +506,8 @@ The classes, structs, union interfaces used by this project are:
 <li>PlantumlManager: <a href="/web-doxygen/docs/api/classes/plantumlmanager">class PlantumlManager</a></li>
 <li>PreIncludeInfo: <a href="/web-doxygen/docs/api/structs/preincludeinfo">struct PreIncludeInfo</a></li>
 <li>Preprocessor: <a href="/web-doxygen/docs/api/classes/preprocessor">class Preprocessor</a></li>
+<li>preYY_CondCtx: <a href="/web-doxygen/docs/api/structs/preyy-condctx">struct preYY_CondCtx</a></li>
+<li>preYY_state: <a href="/web-doxygen/docs/api/structs/preyy-state">struct preYY_state</a></li>
 <li>PrintDocVisitor: <a href="/web-doxygen/docs/api/classes/printdocvisitor">class PrintDocVisitor</a></li>
 <li>Private: <a href="/web-doxygen/docs/api/structs/anchorgenerator/private">struct AnchorGenerator::Private</a></li>
 <li>Private: <a href="/web-doxygen/docs/api/structs/ccodeparser/private">struct CCodeParser::Private</a></li>
@@ -529,11 +560,13 @@ The classes, structs, union interfaces used by this project are:
 <li>Private: <a href="/web-doxygen/docs/api/structs/xmlcodeparser/private">struct XMLCodeParser::Private</a></li>
 <li>Private: <a href="/web-doxygen/docs/api/structs/xmlparser/private">struct XMLParser::Private</a></li>
 <li>PToken: <a href="/web-doxygen/docs/api/classes/reg/ptoken">class reg::PToken</a></li>
+<li>pycodeYY_state: <a href="/web-doxygen/docs/api/structs/pycodeyy-state">struct pycodeYY_state</a></li>
+<li>pyscannerYY_state: <a href="/web-doxygen/docs/api/structs/pyscanneryy-state">struct pyscannerYY_state</a></li>
 <li>PythonCodeParser: <a href="/web-doxygen/docs/api/classes/pythoncodeparser">class PythonCodeParser</a></li>
 <li>PythonOutlineParser: <a href="/web-doxygen/docs/api/classes/pythonoutlineparser">class PythonOutlineParser</a></li>
 </ul>
 
-## - Q -
+## - q -
 
 <ul>
 <li>QCString: <a href="/web-doxygen/docs/api/classes/qcstring">class QCString</a></li>
@@ -541,7 +574,7 @@ The classes, structs, union interfaces used by this project are:
 <li>QhpSectionTree: <a href="/web-doxygen/docs/api/classes/qhpsectiontree">class QhpSectionTree</a></li>
 </ul>
 
-## - R -
+## - r -
 
 <ul>
 <li>ReaderStream: <a href="/web-doxygen/docs/api/classes/readerstream">class ReaderStream</a></li>
@@ -560,9 +593,10 @@ The classes, structs, union interfaces used by this project are:
 <li>RTFListItemInfo: <a href="/web-doxygen/docs/api/structs/rtfgenerator/rtflistiteminfo">struct RTFGenerator::RTFListItemInfo</a></li>
 </ul>
 
-## - S -
+## - s -
 
 <ul>
+<li>scannerYY_state: <a href="/web-doxygen/docs/api/structs/scanneryy-state">struct scannerYY_state</a></li>
 <li>Scope: <a href="/web-doxygen/docs/api/classes/scope">class Scope</a></li>
 <li>ScopedTypeVariant: <a href="/web-doxygen/docs/api/classes/scopedtypevariant">class ScopedTypeVariant</a></li>
 <li>SearchDocEntry: <a href="/web-doxygen/docs/api/structs/searchindexexternal/searchdocentry">struct SearchIndexExternal::SearchDocEntry</a></li>
@@ -584,7 +618,9 @@ The classes, structs, union interfaces used by this project are:
 <li>SourceLinkInfo: <a href="/web-doxygen/docs/api/structs/sourcelinkinfo">struct SourceLinkInfo</a></li>
 <li>SpecFormat: <a href="/web-doxygen/docs/api/structs/specformat">struct SpecFormat</a></li>
 <li>SQLCodeParser: <a href="/web-doxygen/docs/api/classes/sqlcodeparser">class SQLCodeParser</a></li>
+<li>sqlcodeYY_state: <a href="/web-doxygen/docs/api/structs/sqlcodeyy-state">struct sqlcodeYY_state</a></li>
 <li>SqlStmt: <a href="/web-doxygen/docs/api/structs/sqlstmt">struct SqlStmt</a></li>
+<li>stat: <a href="/web-doxygen/docs/api/structs/statistics/stat">struct Statistics::stat</a></li>
 <li>Statistics: <a href="/web-doxygen/docs/api/classes/statistics">class Statistics</a></li>
 <li>STLInfo: <a href="/web-doxygen/docs/api/structs/stlinfo">struct STLInfo</a></li>
 <li>StyleData: <a href="/web-doxygen/docs/api/structs/styledata">struct StyleData</a></li>
@@ -595,7 +631,7 @@ The classes, structs, union interfaces used by this project are:
 <li>SysTimeKeeper: <a href="/web-doxygen/docs/api/classes/systimekeeper">class SysTimeKeeper</a></li>
 </ul>
 
-## - T -
+## - t -
 
 <ul>
 <li>TableCell: <a href="/web-doxygen/docs/api/structs/tablecell">struct TableCell</a></li>
@@ -702,7 +738,7 @@ The classes, structs, union interfaces used by this project are:
 <li>TypeSpecifier: <a href="/web-doxygen/docs/api/classes/typespecifier">class TypeSpecifier</a></li>
 </ul>
 
-## - U -
+## - u -
 
 <ul>
 <li>URL: <a href="/web-doxygen/docs/api/structs/searchindex/url">struct SearchIndex::URL</a></li>
@@ -715,11 +751,12 @@ The classes, structs, union interfaces used by this project are:
 <li>UsesClassList: <a href="/web-doxygen/docs/api/classes/usesclasslist">class UsesClassList</a></li>
 </ul>
 
-## - V -
+## - v -
 
 <ul>
 <li>VariableContext: <a href="/web-doxygen/docs/api/classes/variablecontext">class VariableContext</a></li>
 <li>VHDLCodeParser: <a href="/web-doxygen/docs/api/classes/vhdlcodeparser">class VHDLCodeParser</a></li>
+<li>vhdlcodeYY_state: <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state">struct vhdlcodeYY_state</a></li>
 <li>VhdlConfNode: <a href="/web-doxygen/docs/api/structs/vhdlconfnode">struct VhdlConfNode</a></li>
 <li>VhdlDocGen: <a href="/web-doxygen/docs/api/classes/vhdldocgen">class VhdlDocGen</a></li>
 <li>VHDLDocInfo: <a href="/web-doxygen/docs/api/structs/vhdldocinfo">struct VHDLDocInfo</a></li>
@@ -731,103 +768,16 @@ The classes, structs, union interfaces used by this project are:
 <li>VhdlTokenManagerErrorHandler: <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdltokenmanagererrorhandler">class vhdl::parser::VhdlTokenManagerErrorHandler</a></li>
 </ul>
 
-## - X -
+## - x -
 
 <ul>
 <li>XMLCodeGenerator: <a href="/web-doxygen/docs/api/classes/xmlcodegenerator">class XMLCodeGenerator</a></li>
 <li>XMLCodeParser: <a href="/web-doxygen/docs/api/classes/xmlcodeparser">class XMLCodeParser</a></li>
+<li>xmlcodeYY_state: <a href="/web-doxygen/docs/api/structs/xmlcodeyy-state">struct xmlcodeYY_state</a></li>
 <li>XmlDocVisitor: <a href="/web-doxygen/docs/api/classes/xmldocvisitor">class XmlDocVisitor</a></li>
 <li>XMLHandlers: <a href="/web-doxygen/docs/api/classes/xmlhandlers">class XMLHandlers</a></li>
 <li>XMLLocator: <a href="/web-doxygen/docs/api/classes/xmllocator">class XMLLocator</a></li>
 <li>XMLParser: <a href="/web-doxygen/docs/api/classes/xmlparser">class XMLParser</a></li>
-</ul>
-
-## - c -
-
-<ul>
-<li>codeYY_state: <a href="/web-doxygen/docs/api/structs/codeyy-state">struct codeYY_state</a></li>
-<li>commentcnv_FileState: <a href="/web-doxygen/docs/api/structs/commentcnv-filestate">struct commentcnv_FileState</a></li>
-<li>commentcnvYY_CondCtx: <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx">struct commentcnvYY_CondCtx</a></li>
-<li>commentcnvYY_state: <a href="/web-doxygen/docs/api/structs/commentcnvyy-state">struct commentcnvYY_state</a></li>
-<li>commentscanYY_state: <a href="/web-doxygen/docs/api/structs/commentscanyy-state">struct commentscanYY_state</a></li>
-<li>constexpYY_state: <a href="/web-doxygen/docs/api/structs/constexpyy-state">struct constexpYY_state</a></li>
-</ul>
-
-## - d -
-
-<ul>
-<li>declinfoYY_state: <a href="/web-doxygen/docs/api/structs/declinfoyy-state">struct declinfoYY_state</a></li>
-<li>defargsYY_state: <a href="/web-doxygen/docs/api/structs/defargsyy-state">struct defargsYY_state</a></li>
-<li>doctokenizerYY_state: <a href="/web-doxygen/docs/api/structs/doctokenizeryy-state">struct doctokenizerYY_state</a></li>
-</ul>
-
-## - e -
-
-<ul>
-<li>emojiEntityCompatibility: <a href="/web-doxygen/docs/api/structs/emojientitycompatibility">struct emojiEntityCompatibility</a></li>
-<li>emojiEntityInfo: <a href="/web-doxygen/docs/api/structs/emojientityinfo">struct emojiEntityInfo</a></li>
-</ul>
-
-## - f -
-
-<ul>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-ac7a8b6ccc179c66c0c6a42436bfe08e">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-c960f428801913f923f15600edfb1350">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-a295d5763d866422fbb9f0f73b5aeb1a">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-90b67b5fff342f1f4811ae76fe2c9660">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-daff972618727491746978371a4d085f">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-fa4158f88247518f118826f72729e28e">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-fcc5bf00f385d03831cd3caa023f8800">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-0429673a9028c4f3fa9d52d2e17897f3">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-5ea0b39724d6aada50678fd65eb3d74b">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-6625149323a2be27829912899c3034b9">struct fmt::formatter</a></li>
-<li>formatter: <a href="/web-doxygen/docs/api/structs/fmt/formatter-3bc0763cf07398a7c5644ce192ea65ea">struct fmt::formatter</a></li>
-<li>fortrancodeYY_state: <a href="/web-doxygen/docs/api/structs/fortrancodeyy-state">struct fortrancodeYY_state</a></li>
-<li>fortranscannerYY_state: <a href="/web-doxygen/docs/api/structs/fortranscanneryy-state">struct fortranscannerYY_state</a></li>
-</ul>
-
-## - h -
-
-<ul>
-<li>has_method_children: <a href="/web-doxygen/docs/api/structs/details/has-method-children">struct details::has_method_children</a></li>
-<li>has_method_children: <a href="/web-doxygen/docs/api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1">struct details::has_method_children</a></li>
-</ul>
-
-## - l -
-
-<ul>
-<li>lexcodeYY_state: <a href="/web-doxygen/docs/api/structs/lexcodeyy-state">struct lexcodeYY_state</a></li>
-<li>lexscannerYY_state: <a href="/web-doxygen/docs/api/structs/lexscanneryy-state">struct lexscannerYY_state</a></li>
-</ul>
-
-## - p -
-
-<ul>
-<li>preYY_CondCtx: <a href="/web-doxygen/docs/api/structs/preyy-condctx">struct preYY_CondCtx</a></li>
-<li>preYY_state: <a href="/web-doxygen/docs/api/structs/preyy-state">struct preYY_state</a></li>
-<li>pycodeYY_state: <a href="/web-doxygen/docs/api/structs/pycodeyy-state">struct pycodeYY_state</a></li>
-<li>pyscannerYY_state: <a href="/web-doxygen/docs/api/structs/pyscanneryy-state">struct pyscannerYY_state</a></li>
-</ul>
-
-## - s -
-
-<ul>
-<li>scannerYY_state: <a href="/web-doxygen/docs/api/structs/scanneryy-state">struct scannerYY_state</a></li>
-<li>sqlcodeYY_state: <a href="/web-doxygen/docs/api/structs/sqlcodeyy-state">struct sqlcodeYY_state</a></li>
-<li>stat: <a href="/web-doxygen/docs/api/structs/statistics/stat">struct Statistics::stat</a></li>
-</ul>
-
-## - v -
-
-<ul>
-<li>vhdlcodeYY_state: <a href="/web-doxygen/docs/api/structs/vhdlcodeyy-state">struct vhdlcodeYY_state</a></li>
-</ul>
-
-## - x -
-
-<ul>
-<li>xmlcodeYY_state: <a href="/web-doxygen/docs/api/structs/xmlcodeyy-state">struct xmlcodeYY_state</a></li>
 <li>xmlYY_state: <a href="/web-doxygen/docs/api/structs/xmlyy-state">struct xmlYY_state</a></li>
 </ul>
 
