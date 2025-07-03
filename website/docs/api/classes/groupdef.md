@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `GroupDef` Class Reference
 
-A model of a group of symbols. <a href="#details">More...</a>
+<p>A model of a group of symbols. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class GroupDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
+<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -714,9 +714,10 @@ The common base class of all entity definitions found in the sources. <a href="/
 
 ## Description {#details}
 
-A model of a group of symbols.
+<p>A model of a group of symbols.</p>
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -742,11 +743,14 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/groupdef-
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a4a80bd0b7430a7adaf6403f01821becd">addClass</a>.
 
-Referenced by <a href="#a4a80bd0b7430a7adaf6403f01821becd">addClass</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef56cd0de5d89dcfead564e7">addClassToGroups</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a21cfa81a6854b108ab53153e9db19d3c">distributeClassGroupRelations</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa8cd9bab78377e9d6719c0b77ff07120">ClassDefImpl::setGroupDefForAllMembers</a>.
+<p>Reference <a href="#a4a80bd0b7430a7adaf6403f01821becd">addClass</a>.</p>
+
+
+<p>Referenced by <a href="#a4a80bd0b7430a7adaf6403f01821becd">addClass</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a133ed5d7ef56cd0de5d89dcfead564e7">addClassToGroups</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a21cfa81a6854b108ab53153e9db19d3c">distributeClassGroupRelations</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa8cd9bab78377e9d6719c0b77ff07120">ClassDefImpl::setGroupDefForAllMembers</a>.</p>
+
 </div>
 </div>
 
@@ -770,11 +774,14 @@ Referenced by <a href="#a4a80bd0b7430a7adaf6403f01821becd">addClass</a>, <a href
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#ae0e35a187293d00cdccc7da69e3e86a0">addConcept</a>.
 
-Referenced by <a href="#ae0e35a187293d00cdccc7da69e3e86a0">addConcept</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a9ed7b5fc926a79337a09aa8ecef0e41d">addConceptToGroups</a>.
+<p>Reference <a href="#ae0e35a187293d00cdccc7da69e3e86a0">addConcept</a>.</p>
+
+
+<p>Referenced by <a href="#ae0e35a187293d00cdccc7da69e3e86a0">addConcept</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a9ed7b5fc926a79337a09aa8ecef0e41d">addConceptToGroups</a>.</p>
+
 </div>
 </div>
 
@@ -798,11 +805,14 @@ Referenced by <a href="#ae0e35a187293d00cdccc7da69e3e86a0">addConcept</a> and <a
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a1cefe14a8b4f2004a76bbcca39e5aada">addDir</a>.
 
-Referenced by <a href="#a1cefe14a8b4f2004a76bbcca39e5aada">addDir</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a378ec2ef3e841a44602739461386c1f9">addDirToGroups</a>.
+<p>Reference <a href="#a1cefe14a8b4f2004a76bbcca39e5aada">addDir</a>.</p>
+
+
+<p>Referenced by <a href="#a1cefe14a8b4f2004a76bbcca39e5aada">addDir</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a378ec2ef3e841a44602739461386c1f9">addDirToGroups</a>.</p>
+
 </div>
 </div>
 
@@ -826,11 +836,14 @@ Referenced by <a href="#a1cefe14a8b4f2004a76bbcca39e5aada">addDir</a> and <a hre
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a1f7a8ae65f303cde09e95f68d1960e08">addExample</a>.
 
-Referenced by <a href="#a1f7a8ae65f303cde09e95f68d1960e08">addExample</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#af777f735af0317cec08f59bd101c0825">addExampleToGroups</a>.
+<p>Reference <a href="#a1f7a8ae65f303cde09e95f68d1960e08">addExample</a>.</p>
+
+
+<p>Referenced by <a href="#a1f7a8ae65f303cde09e95f68d1960e08">addExample</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#af777f735af0317cec08f59bd101c0825">addExampleToGroups</a>.</p>
+
 </div>
 </div>
 
@@ -854,11 +867,14 @@ Referenced by <a href="#a1f7a8ae65f303cde09e95f68d1960e08">addExample</a> and <a
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#ac55e299141c3066682afe93cb8c2793f">addFile</a>.
 
-Referenced by <a href="#ac55e299141c3066682afe93cb8c2793f">addFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a>.
+<p>Reference <a href="#ac55e299141c3066682afe93cb8c2793f">addFile</a>.</p>
+
+
+<p>Referenced by <a href="#ac55e299141c3066682afe93cb8c2793f">addFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a>.</p>
+
 </div>
 </div>
 
@@ -882,11 +898,14 @@ Referenced by <a href="#ac55e299141c3066682afe93cb8c2793f">addFile</a> and <a hr
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#aa5e0a4e1a5c815563de6e3ea235da420">addGroup</a>.
 
-Referenced by <a href="#aa5e0a4e1a5c815563de6e3ea235da420">addGroup</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23a2e8465946abfdfe294c4c">addGroupToGroups</a>.
+<p>Reference <a href="#aa5e0a4e1a5c815563de6e3ea235da420">addGroup</a>.</p>
+
+
+<p>Referenced by <a href="#aa5e0a4e1a5c815563de6e3ea235da420">addGroup</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23a2e8465946abfdfe294c4c">addGroupToGroups</a>.</p>
+
 </div>
 </div>
 
@@ -910,11 +929,14 @@ Referenced by <a href="#aa5e0a4e1a5c815563de6e3ea235da420">addGroup</a> and <a h
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a774f8df6fd6a6ff9a45831a94a42fc42">addListReferences</a>.
 
-Referenced by <a href="#a774f8df6fd6a6ff9a45831a94a42fc42">addListReferences</a>.
+<p>Reference <a href="#a774f8df6fd6a6ff9a45831a94a42fc42">addListReferences</a>.</p>
+
+
+<p>Referenced by <a href="#a774f8df6fd6a6ff9a45831a94a42fc42">addListReferences</a>.</p>
+
 </div>
 </div>
 
@@ -938,11 +960,14 @@ Referenced by <a href="#a774f8df6fd6a6ff9a45831a94a42fc42">addListReferences</a>
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#af08ac5e49287a2209e29bf2519bab006">addMembersToMemberGroup</a>.
 
-Referenced by <a href="#af08ac5e49287a2209e29bf2519bab006">addMembersToMemberGroup</a>.
+<p>Reference <a href="#af08ac5e49287a2209e29bf2519bab006">addMembersToMemberGroup</a>.</p>
+
+
+<p>Referenced by <a href="#af08ac5e49287a2209e29bf2519bab006">addMembersToMemberGroup</a>.</p>
+
 </div>
 </div>
 
@@ -966,11 +991,14 @@ Referenced by <a href="#af08ac5e49287a2209e29bf2519bab006">addMembersToMemberGro
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a530747d47eb188ab2997190dcd78b8bb">addModule</a>.
 
-Referenced by <a href="#a530747d47eb188ab2997190dcd78b8bb">addModule</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a623caa8256bca5d7b0f640cd8182bcc6">addModuleToGroups</a>.
+<p>Reference <a href="#a530747d47eb188ab2997190dcd78b8bb">addModule</a>.</p>
+
+
+<p>Referenced by <a href="#a530747d47eb188ab2997190dcd78b8bb">addModule</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a623caa8256bca5d7b0f640cd8182bcc6">addModuleToGroups</a>.</p>
+
 </div>
 </div>
 
@@ -994,11 +1022,14 @@ Referenced by <a href="#a530747d47eb188ab2997190dcd78b8bb">addModule</a> and <a 
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a69045b40b7deb5217d45b0bf1e183d7f">addNamespace</a>.
 
-Referenced by <a href="#a69045b40b7deb5217d45b0bf1e183d7f">addNamespace</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a035458fc750e2a32abad901b719f8392">addNamespaceToGroups</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9e88b70863796306c5f0070d263ab4c8">findUsingDirectives</a>.
+<p>Reference <a href="#a69045b40b7deb5217d45b0bf1e183d7f">addNamespace</a>.</p>
+
+
+<p>Referenced by <a href="#a69045b40b7deb5217d45b0bf1e183d7f">addNamespace</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a035458fc750e2a32abad901b719f8392">addNamespaceToGroups</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9e88b70863796306c5f0070d263ab4c8">findUsingDirectives</a>.</p>
+
 </div>
 </div>
 
@@ -1022,11 +1053,14 @@ Referenced by <a href="#a69045b40b7deb5217d45b0bf1e183d7f">addNamespace</a>, <a 
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a5c5d805ca23c87783db6d27f231ba8ab">addPage</a>.
 
-Referenced by <a href="#a5c5d805ca23c87783db6d27f231ba8ab">addPage</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>.
+<p>Reference <a href="#a5c5d805ca23c87783db6d27f231ba8ab">addPage</a>.</p>
+
+
+<p>Referenced by <a href="#a5c5d805ca23c87783db6d27f231ba8ab">addPage</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>.</p>
+
 </div>
 </div>
 
@@ -1050,11 +1084,14 @@ Referenced by <a href="#a5c5d805ca23c87783db6d27f231ba8ab">addPage</a> and <a hr
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a63dbf389eb8b78455fca974006ffa73e">computeAnchors</a>.
 
-Referenced by <a href="#a63dbf389eb8b78455fca974006ffa73e">computeAnchors</a>.
+<p>Reference <a href="#a63dbf389eb8b78455fca974006ffa73e">computeAnchors</a>.</p>
+
+
+<p>Referenced by <a href="#a63dbf389eb8b78455fca974006ffa73e">computeAnchors</a>.</p>
+
 </div>
 </div>
 
@@ -1078,11 +1115,14 @@ Referenced by <a href="#a63dbf389eb8b78455fca974006ffa73e">computeAnchors</a>.
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a645821da41c9e9e22e0f9e4e114c2087">containsFile</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a> and <a href="#a645821da41c9e9e22e0f9e4e114c2087">containsFile</a>.
+<p>Reference <a href="#a645821da41c9e9e22e0f9e4e114c2087">containsFile</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a3471af7d6bb17cc8fb29579">buildFileList</a> and <a href="#a645821da41c9e9e22e0f9e4e114c2087">containsFile</a>.</p>
+
 </div>
 </div>
 
@@ -1106,11 +1146,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ad31622c7a34
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a12209686dee1aa61c48d34e82cd31017">countMembers</a>.
 
-Referenced by <a href="#a12209686dee1aa61c48d34e82cd31017">countMembers</a>.
+<p>Reference <a href="#a12209686dee1aa61c48d34e82cd31017">countMembers</a>.</p>
+
+
+<p>Referenced by <a href="#a12209686dee1aa61c48d34e82cd31017">countMembers</a>.</p>
+
 </div>
 </div>
 
@@ -1134,11 +1177,14 @@ Referenced by <a href="#a12209686dee1aa61c48d34e82cd31017">countMembers</a>.
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a728afd28f6ecf14455cf243f5efc84ec">distributeMemberGroupDocumentation</a>.
 
-Referenced by <a href="#a728afd28f6ecf14455cf243f5efc84ec">distributeMemberGroupDocumentation</a>.
+<p>Reference <a href="#a728afd28f6ecf14455cf243f5efc84ec">distributeMemberGroupDocumentation</a>.</p>
+
+
+<p>Referenced by <a href="#a728afd28f6ecf14455cf243f5efc84ec">distributeMemberGroupDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -1162,11 +1208,14 @@ Referenced by <a href="#a728afd28f6ecf14455cf243f5efc84ec">distributeMemberGroup
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#abbcaaf2e683208c173158a73d512edd0">findGroup</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23a2e8465946abfdfe294c4c">addGroupToGroups</a> and <a href="#abbcaaf2e683208c173158a73d512edd0">findGroup</a>.
+<p>Reference <a href="#abbcaaf2e683208c173158a73d512edd0">findGroup</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23a2e8465946abfdfe294c4c">addGroupToGroups</a> and <a href="#abbcaaf2e683208c173158a73d512edd0">findGroup</a>.</p>
+
 </div>
 </div>
 
@@ -1190,11 +1239,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a0b501f4e23
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a631d5c5c83b5a2edd35f4d3b1cd86d3a">findSectionsInDocumentation</a>.
 
-Referenced by <a href="#a631d5c5c83b5a2edd35f4d3b1cd86d3a">findSectionsInDocumentation</a>.
+<p>Reference <a href="#a631d5c5c83b5a2edd35f4d3b1cd86d3a">findSectionsInDocumentation</a>.</p>
+
+
+<p>Referenced by <a href="#a631d5c5c83b5a2edd35f4d3b1cd86d3a">findSectionsInDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -1218,11 +1270,14 @@ Referenced by <a href="#a631d5c5c83b5a2edd35f4d3b1cd86d3a">findSectionsInDocumen
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#adc93620cc6002b6e7919565cb32b29ed">getClasses</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#adc93620cc6002b6e7919565cb32b29ed">getClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#adc93620cc6002b6e7919565cb32b29ed">getClasses</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#adc93620cc6002b6e7919565cb32b29ed">getClasses</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1246,11 +1301,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a927445c6f77b990c4b7ea29e93a7837e">getConcepts</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a927445c6f77b990c4b7ea29e93a7837e">getConcepts</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a927445c6f77b990c4b7ea29e93a7837e">getConcepts</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a927445c6f77b990c4b7ea29e93a7837e">getConcepts</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1274,11 +1332,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a25362a91e571718de606e663975c6a1b">getDirs</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="#a25362a91e571718de606e663975c6a1b">getDirs</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a25362a91e571718de606e663975c6a1b">getDirs</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="#a25362a91e571718de606e663975c6a1b">getDirs</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1302,11 +1363,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a5b690ed7965596387ea0a2d1d958027c">getExamples</a>.
 
-Referenced by <a href="#a5b690ed7965596387ea0a2d1d958027c">getExamples</a>.
+<p>Reference <a href="#a5b690ed7965596387ea0a2d1d958027c">getExamples</a>.</p>
+
+
+<p>Referenced by <a href="#a5b690ed7965596387ea0a2d1d958027c">getExamples</a>.</p>
+
 </div>
 </div>
 
@@ -1330,11 +1394,14 @@ Referenced by <a href="#a5b690ed7965596387ea0a2d1d958027c">getExamples</a>.
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a2cb0a3622503ad4232eabc2b7ff86753">getFiles</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2cb0a3622503ad4232eabc2b7ff86753">getFiles</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a2cb0a3622503ad4232eabc2b7ff86753">getFiles</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2cb0a3622503ad4232eabc2b7ff86753">getFiles</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1358,11 +1425,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#ac8a38c58fe6be5aba2e6dac9c41be9e1">getGroupScope</a>.
 
-Referenced by <a href="#ac8a38c58fe6be5aba2e6dac9c41be9e1">getGroupScope</a>.
+<p>Reference <a href="#ac8a38c58fe6be5aba2e6dac9c41be9e1">getGroupScope</a>.</p>
+
+
+<p>Referenced by <a href="#ac8a38c58fe6be5aba2e6dac9c41be9e1">getGroupScope</a>.</p>
+
 </div>
 </div>
 
@@ -1386,11 +1456,14 @@ Referenced by <a href="#ac8a38c58fe6be5aba2e6dac9c41be9e1">getGroupScope</a>.
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a8a9fe05d4375b4571d822141ba498bf2">getMemberGroups</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a> and <a href="#a8a9fe05d4375b4571d822141ba498bf2">getMemberGroups</a>.
+<p>Reference <a href="#a8a9fe05d4375b4571d822141ba498bf2">getMemberGroups</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a> and <a href="#a8a9fe05d4375b4571d822141ba498bf2">getMemberGroups</a>.</p>
+
 </div>
 </div>
 
@@ -1414,11 +1487,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#ae1e55ed1172103ac1072cde37b3fd578">getMemberList</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="#ae1e55ed1172103ac1072cde37b3fd578">getMemberList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4299844cb805de324387ae0072ea6e9d">tryAddEnumDocsToGroupMember</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#ae1e55ed1172103ac1072cde37b3fd578">getMemberList</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="#ae1e55ed1172103ac1072cde37b3fd578">getMemberList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a4299844cb805de324387ae0072ea6e9d">tryAddEnumDocsToGroupMember</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1442,11 +1518,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a2d174d39f8e75953f384736d3effaad8">getMemberLists</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2d174d39f8e75953f384736d3effaad8">getMemberLists</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a2d174d39f8e75953f384736d3effaad8">getMemberLists</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2d174d39f8e75953f384736d3effaad8">getMemberLists</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1470,11 +1549,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#afae9211266248f6c26c5fabf1c4415b0">getModules</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a> and <a href="#afae9211266248f6c26c5fabf1c4415b0">getModules</a>.
+<p>Reference <a href="#afae9211266248f6c26c5fabf1c4415b0">getModules</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a> and <a href="#afae9211266248f6c26c5fabf1c4415b0">getModules</a>.</p>
+
 </div>
 </div>
 
@@ -1498,11 +1580,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a9ac892052b696a7c561f7dfa7be68f72">getNamespaces</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a9ac892052b696a7c561f7dfa7be68f72">getNamespaces</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a9ac892052b696a7c561f7dfa7be68f72">getNamespaces</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a9ac892052b696a7c561f7dfa7be68f72">getNamespaces</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1526,11 +1611,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a97d9ddba395f4c011a01966dc7a61568">getPages</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a97d9ddba395f4c011a01966dc7a61568">getPages</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a97d9ddba395f4c011a01966dc7a61568">getPages</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a97d9ddba395f4c011a01966dc7a61568">getPages</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1554,11 +1642,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a29954976b38072020da6c0c0dbde6520">getSubGroups</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a29954976b38072020da6c0c0dbde6520">getSubGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#ae378b5ab8e781335e10e32435ae70ded">hasNonReferenceNestedGroupRec</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a29954976b38072020da6c0c0dbde6520">getSubGroups</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9c9ed7417986a64b442811c1fccd9f">DotGroupCollaboration::buildGraph</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a29954976b38072020da6c0c0dbde6520">getSubGroups</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#ae378b5ab8e781335e10e32435ae70ded">hasNonReferenceNestedGroupRec</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1582,11 +1673,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#aec9
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a2caedefd187d92eb8c4afe01d403456e">groupTitle</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a>, <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration::DotGroupCollaboration</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2caedefd187d92eb8c4afe01d403456e">groupTitle</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#af8538fc61fb952e7681b9804247edc13">DefinitionImpl::pathFragment</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac8f6bb104126c1406d2d6e5ad368822c">SearchIndex::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#a2caedefd187d92eb8c4afe01d403456e">groupTitle</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a>, <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration::DotGroupCollaboration</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#aa29eb86a9962f547f8139ff1cfe40b01">PerlModGenerator::generatePerlModForGroup</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="#a2caedefd187d92eb8c4afe01d403456e">groupTitle</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#af8538fc61fb952e7681b9804247edc13">DefinitionImpl::pathFragment</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac8f6bb104126c1406d2d6e5ad368822c">SearchIndex::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1610,11 +1704,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a1cd7e2bebfc139c65a6ff4835868fc01">hasDetailedDescription</a>.
 
-Referenced by <a href="#a1cd7e2bebfc139c65a6ff4835868fc01">hasDetailedDescription</a>.
+<p>Reference <a href="#a1cd7e2bebfc139c65a6ff4835868fc01">hasDetailedDescription</a>.</p>
+
+
+<p>Referenced by <a href="#a1cd7e2bebfc139c65a6ff4835868fc01">hasDetailedDescription</a>.</p>
+
 </div>
 </div>
 
@@ -1638,11 +1735,14 @@ Referenced by <a href="#a1cd7e2bebfc139c65a6ff4835868fc01">hasDetailedDescriptio
 
 
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a2a5552b2d14d9da2535d12dd323e1af6">hasGroupGraph</a>.
 
-Referenced by <a href="#a2a5552b2d14d9da2535d12dd323e1af6">hasGroupGraph</a>.
+<p>Reference <a href="#a2a5552b2d14d9da2535d12dd323e1af6">hasGroupGraph</a>.</p>
+
+
+<p>Referenced by <a href="#a2a5552b2d14d9da2535d12dd323e1af6">hasGroupGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1666,11 +1766,14 @@ Referenced by <a href="#a2a5552b2d14d9da2535d12dd323e1af6">hasGroupGraph</a>.
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#af18c28c4c9018a99b6d78cf5ac93bf55">hasGroupTitle</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#af18c28c4c9018a99b6d78cf5ac93bf55">hasGroupTitle</a>.
+<p>Reference <a href="#af18c28c4c9018a99b6d78cf5ac93bf55">hasGroupTitle</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#af18c28c4c9018a99b6d78cf5ac93bf55">hasGroupTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1694,11 +1797,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#aae7c161ee9febb2cb5ea6ed3dc74176e">insertMember</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102af38c14812ccc21a86401c">addMemberToGroups</a>, <a href="#aae7c161ee9febb2cb5ea6ed3dc74176e">insertMember</a>, <a href="/web-doxygen/docs/api/classes/membergroup/#ad7b02bac5d0ed254d5c979b19cf4ae1e">MemberGroup::insertMember</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa8cd9bab78377e9d6719c0b77ff07120">ClassDefImpl::setGroupDefForAllMembers</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#aae7c161ee9febb2cb5ea6ed3dc74176e">insertMember</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102af38c14812ccc21a86401c">addMemberToGroups</a>, <a href="#aae7c161ee9febb2cb5ea6ed3dc74176e">insertMember</a>, <a href="/web-doxygen/docs/api/classes/membergroup/#ad7b02bac5d0ed254d5c979b19cf4ae1e">MemberGroup::insertMember</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#aa8cd9bab78377e9d6719c0b77ff07120">ClassDefImpl::setGroupDefForAllMembers</a>.</p>
+
 </div>
 </div>
 
@@ -1722,11 +1828,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#aa351dc6bcfe739a61ddb66e6a65892da">isASubGroup</a>.
 
-Referenced by <a href="#aa351dc6bcfe739a61ddb66e6a65892da">isASubGroup</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#aa351dc6bcfe739a61ddb66e6a65892da">isASubGroup</a>.</p>
+
+
+<p>Referenced by <a href="#aa351dc6bcfe739a61ddb66e6a65892da">isASubGroup</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1750,11 +1859,14 @@ Referenced by <a href="#aa351dc6bcfe739a61ddb66e6a65892da">isASubGroup</a> and <
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#ad9b57d9fa463708a660dc4b96f8ccde3">isVisibleInHierarchy</a>.
 
-Referenced by <a href="#ad9b57d9fa463708a660dc4b96f8ccde3">isVisibleInHierarchy</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.
+<p>Reference <a href="#ad9b57d9fa463708a660dc4b96f8ccde3">isVisibleInHierarchy</a>.</p>
+
+
+<p>Referenced by <a href="#ad9b57d9fa463708a660dc4b96f8ccde3">isVisibleInHierarchy</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -1778,11 +1890,14 @@ Referenced by <a href="#ad9b57d9fa463708a660dc4b96f8ccde3">isVisibleInHierarchy<
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a003f32b442427eb1abe49a67982e6888">numDocMembers</a>.
 
-Referenced by <a href="#a003f32b442427eb1abe49a67982e6888">numDocMembers</a>.
+<p>Reference <a href="#a003f32b442427eb1abe49a67982e6888">numDocMembers</a>.</p>
+
+
+<p>Referenced by <a href="#a003f32b442427eb1abe49a67982e6888">numDocMembers</a>.</p>
+
 </div>
 </div>
 
@@ -1806,11 +1921,14 @@ Referenced by <a href="#a003f32b442427eb1abe49a67982e6888">numDocMembers</a>.
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-References <a href="/web-doxygen/docs/api/files/src/groupdef-h/#ad6183f79a16993a6ee06e93ae0357bbe">createGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a4a476ffd1f00512dcb6f2f724bf23124">overrideGroupGraph</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-h/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#a4a476ffd1f00512dcb6f2f724bf23124">overrideGroupGraph</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/groupdef-h/#ad6183f79a16993a6ee06e93ae0357bbe">createGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a4a476ffd1f00512dcb6f2f724bf23124">overrideGroupGraph</a> and <a href="/web-doxygen/docs/api/files/src/groupdef-h/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#a4a476ffd1f00512dcb6f2f724bf23124">overrideGroupGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1834,11 +1952,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a62090524551868d7e7016245b3800d1b">removeMember</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102af38c14812ccc21a86401c">addMemberToGroups</a> and <a href="#a62090524551868d7e7016245b3800d1b">removeMember</a>.
+<p>Reference <a href="#a62090524551868d7e7016245b3800d1b">removeMember</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102af38c14812ccc21a86401c">addMemberToGroups</a> and <a href="#a62090524551868d7e7016245b3800d1b">removeMember</a>.</p>
+
 </div>
 </div>
 
@@ -1862,11 +1983,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#affd271e102
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a6d699953c84daa0aae69f0988ea3bf12">setGroupScope</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5799cbe90654271460f7384c5c6f1a69">findGroupScope</a> and <a href="#a6d699953c84daa0aae69f0988ea3bf12">setGroupScope</a>.
+<p>Reference <a href="#a6d699953c84daa0aae69f0988ea3bf12">setGroupScope</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5799cbe90654271460f7384c5c6f1a69">findGroupScope</a> and <a href="#a6d699953c84daa0aae69f0988ea3bf12">setGroupScope</a>.</p>
+
 </div>
 </div>
 
@@ -1890,11 +2014,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5799cbe9065
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#aeab8894628309c44392b37392f9c095a">setGroupTitle</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#aeab8894628309c44392b37392f9c095a">setGroupTitle</a>.
+<p>Reference <a href="#aeab8894628309c44392b37392f9c095a">setGroupTitle</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0fb8cb5d20e9ed27f05509">buildGroupListFiltered</a> and <a href="#aeab8894628309c44392b37392f9c095a">setGroupTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1918,11 +2045,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91506ed6aa0
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a850d73569a0f852d2ac855dd173db834">sortMemberLists</a>.
 
-Referenced by <a href="#a850d73569a0f852d2ac855dd173db834">sortMemberLists</a>.
+<p>Reference <a href="#a850d73569a0f852d2ac855dd173db834">sortMemberLists</a>.</p>
+
+
+<p>Referenced by <a href="#a850d73569a0f852d2ac855dd173db834">sortMemberLists</a>.</p>
+
 </div>
 </div>
 
@@ -1946,11 +2076,14 @@ Referenced by <a href="#a850d73569a0f852d2ac855dd173db834">sortMemberLists</a>.
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a504ee747b49968786514ec580fa5218c">sortSubGroups</a>.
 
-Referenced by <a href="#a504ee747b49968786514ec580fa5218c">sortSubGroups</a>.
+<p>Reference <a href="#a504ee747b49968786514ec580fa5218c">sortSubGroups</a>.</p>
+
+
+<p>Referenced by <a href="#a504ee747b49968786514ec580fa5218c">sortSubGroups</a>.</p>
+
 </div>
 </div>
 
@@ -1974,11 +2107,14 @@ Referenced by <a href="#a504ee747b49968786514ec580fa5218c">sortSubGroups</a>.
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a9c6b08e19187d1332f355ab93a421480">subGrouping</a>.
 
-Referenced by <a href="#a9c6b08e19187d1332f355ab93a421480">subGrouping</a>.
+<p>Reference <a href="#a9c6b08e19187d1332f355ab93a421480">subGrouping</a>.</p>
+
+
+<p>Referenced by <a href="#a9c6b08e19187d1332f355ab93a421480">subGrouping</a>.</p>
+
 </div>
 </div>
 
@@ -2002,11 +2138,14 @@ Referenced by <a href="#a9c6b08e19187d1332f355ab93a421480">subGrouping</a>.
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a6e661711fbab648ce59579dc94618538">writeDocumentation</a>.
 
-Referenced by <a href="#a6e661711fbab648ce59579dc94618538">writeDocumentation</a>.
+<p>Reference <a href="#a6e661711fbab648ce59579dc94618538">writeDocumentation</a>.</p>
+
+
+<p>Referenced by <a href="#a6e661711fbab648ce59579dc94618538">writeDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -2030,11 +2169,14 @@ Referenced by <a href="#a6e661711fbab648ce59579dc94618538">writeDocumentation</a
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a1e54ab530ac3ca3c1495031770de8b4e">writeMemberPages</a>.
 
-Referenced by <a href="#a1e54ab530ac3ca3c1495031770de8b4e">writeMemberPages</a>.
+<p>Reference <a href="#a1e54ab530ac3ca3c1495031770de8b4e">writeMemberPages</a>.</p>
+
+
+<p>Referenced by <a href="#a1e54ab530ac3ca3c1495031770de8b4e">writeMemberPages</a>.</p>
+
 </div>
 </div>
 
@@ -2058,11 +2200,14 @@ Referenced by <a href="#a1e54ab530ac3ca3c1495031770de8b4e">writeMemberPages</a>.
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
 
-Reference <a href="#a0f8761743f1171297d79ea2b7074ec63">writeTagFile</a>.
 
-Referenced by <a href="#a0f8761743f1171297d79ea2b7074ec63">writeTagFile</a>.
+<p>Reference <a href="#a0f8761743f1171297d79ea2b7074ec63">writeTagFile</a>.</p>
+
+
+<p>Referenced by <a href="#a0f8761743f1171297d79ea2b7074ec63">writeTagFile</a>.</p>
+
 </div>
 </div>
 

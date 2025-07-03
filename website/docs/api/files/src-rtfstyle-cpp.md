@@ -396,7 +396,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -442,9 +443,11 @@ Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a63b8fcd3cb27b8f30fdd944c157036bc">g\_styleMap</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a63b8fcd3cb27b8f30fdd944c157036bc">g_styleMap</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.</p>
+
 </div>
 </div>
 
@@ -468,7 +471,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -515,9 +519,11 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534f0d123bc771ab3367">StyleData::setStyle</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534f0d123bc771ab3367">StyleData::setStyle</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.</p>
+
 </div>
 </div>
 
@@ -572,7 +578,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 </dd>
 </dl>
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -593,7 +600,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="#a36e764c0a931ef05c53d3695489d198e">loadExtensions</a>.
+<p>Referenced by <a href="#a36e764c0a931ef05c53d3695489d198e">loadExtensions</a>.</p>
+
 </div>
 </div>
 
@@ -617,7 +625,8 @@ Referenced by <a href="#a36e764c0a931ef05c53d3695489d198e">loadExtensions</a>.
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -626,7 +635,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -650,7 +660,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -659,7 +670,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -683,7 +695,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -692,7 +705,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -716,7 +730,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -725,7 +740,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -749,7 +765,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -758,7 +775,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -782,7 +800,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -791,7 +810,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -815,7 +835,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -824,7 +845,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.</p>
+
 </div>
 </div>
 
@@ -848,7 +870,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -857,7 +880,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -881,7 +905,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 
 
 
-Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -890,7 +915,8 @@ Definition at line 362 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6a8f00c6b38e80e9d4545">RTFGenerator::beginRTFChapter</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab1939f0d3e5142f9b77cf8ce807e00a7">RTFGenerator::beginRTFSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7467e3f0f800ca5303ce1e6e473cdcfe">RTFDocVisitor::getStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a4354834197f45954df7a81d84f70c34d">RTFGenerator::lastIndexPage</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ae0c5c194fc2579df52204eb00134c6bf">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a6f4df2c3160f09e662393e6a23b2add0">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a07acb7803948c3811f88d4efa00587a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a89b1ef4b308483fcf725cef8081e5849">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aa17fa64bc141c519b0b24e0a475ab1e1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7f10a43fc0a35475e9078305d745951f">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9f4db29aeeb7d0f2ab033f6235a69912">RTFGenerator::rtf\_BList\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afd3768dca041d56a01b01061bb41aec5">RTFGenerator::rtf\_CList\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#a5b9f9d4a335e0e68bad617fdceb9e318">RTFCodeGenerator::rtf\_Code\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9f8483e6f7e65c06e5f4f507f0887f67">RTFGenerator::rtf\_DList\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7527ce8866206a633c1cfb684cc22574">RTFGenerator::rtf\_EList\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ac5b5b70aa6da3566aa9724b3aa617192">RTFGenerator::rtf\_LCList\_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aad5bd8b4ea091547b08a00ba70f0aa07">RTFGenerator::startCompoundTemplateParams</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab4f116084ff07d558fd61db56501e61d">RTFGenerator::startDescTable</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a4e30c4664b1c3cc9a1cb26a2ae98968d">RTFGenerator::startDescTableInit</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8454a525177779c9bb183b0ad36fa56b">RTFGenerator::startDescTableTitle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afc0d8b219f558b257eed6bb523c79fab">RTFGenerator::startGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aedc9cfff56c51ffc2bae28353a319b2e">RTFGenerator::startInlineHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0db9ec198444ce05559d81134b3696">RTFGenerator::startMemberDoc</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aacbda0698357ec14331ff4ff82f3a2ab">RTFGenerator::startMemberDocSimple</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7ec7eb8980ebddb6c74f2db073e9ab76">RTFGenerator::startMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a012cbbfdb3b792d3d0204004cc7d7772">RTFGenerator::startTextBlock</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adf7c83ee8198c326eb4e8efd9f9f1a0a">RTFGenerator::startTitleHead</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a54e526de8b03280571dc1c0003a14746">RTFGenerator::writeInheritedSectionTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6a8f00c6b38e80e9d4545">RTFGenerator::beginRTFChapter</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab1939f0d3e5142f9b77cf8ce807e00a7">RTFGenerator::beginRTFSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7467e3f0f800ca5303ce1e6e473cdcfe">RTFDocVisitor::getStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a4354834197f45954df7a81d84f70c34d">RTFGenerator::lastIndexPage</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ae0c5c194fc2579df52204eb00134c6bf">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a6f4df2c3160f09e662393e6a23b2add0">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a07acb7803948c3811f88d4efa00587a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a89b1ef4b308483fcf725cef8081e5849">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aa17fa64bc141c519b0b24e0a475ab1e1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7f10a43fc0a35475e9078305d745951f">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9f4db29aeeb7d0f2ab033f6235a69912">RTFGenerator::rtf_BList_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afd3768dca041d56a01b01061bb41aec5">RTFGenerator::rtf_CList_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#a5b9f9d4a335e0e68bad617fdceb9e318">RTFCodeGenerator::rtf_Code_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a9f8483e6f7e65c06e5f4f507f0887f67">RTFGenerator::rtf_DList_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7527ce8866206a633c1cfb684cc22574">RTFGenerator::rtf_EList_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ac5b5b70aa6da3566aa9724b3aa617192">RTFGenerator::rtf_LCList_DepthStyle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aad5bd8b4ea091547b08a00ba70f0aa07">RTFGenerator::startCompoundTemplateParams</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab4f116084ff07d558fd61db56501e61d">RTFGenerator::startDescTable</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a4e30c4664b1c3cc9a1cb26a2ae98968d">RTFGenerator::startDescTableInit</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8454a525177779c9bb183b0ad36fa56b">RTFGenerator::startDescTableTitle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afc0d8b219f558b257eed6bb523c79fab">RTFGenerator::startGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aedc9cfff56c51ffc2bae28353a319b2e">RTFGenerator::startInlineHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0db9ec198444ce05559d81134b3696">RTFGenerator::startMemberDoc</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aacbda0698357ec14331ff4ff82f3a2ab">RTFGenerator::startMemberDocSimple</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7ec7eb8980ebddb6c74f2db073e9ab76">RTFGenerator::startMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a012cbbfdb3b792d3d0204004cc7d7772">RTFGenerator::startTextBlock</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adf7c83ee8198c326eb4e8efd9f9f1a0a">RTFGenerator::startTitleHead</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a54e526de8b03280571dc1c0003a14746">RTFGenerator::writeInheritedSectionTitle</a>.</p>
+
 </div>
 </div>
 
@@ -914,7 +940,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1072,7 +1099,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a36d46700bc6f704cb8db78dadb9ceba5">RTFGenerator::writeStyleSheetFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a36d46700bc6f704cb8db78dadb9ceba5">RTFGenerator::writeStyleSheetFile</a>.</p>
+
 </div>
 </div>
 
@@ -1096,7 +1124,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1105,7 +1134,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6a8f00c6b38e80e9d4545">RTFGenerator::beginRTFChapter</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab1939f0d3e5142f9b77cf8ce807e00a7">RTFGenerator::beginRTFSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adeb275db39d63df2f74c728adaa70849">RTFGenerator::endCallGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a0322020ce9d74181bb997b886239ce19">RTFGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a1cd78a44f9072b2d24765b07fbd4f01f">RTFGenerator::endDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a87f599a42c46d9fce84f456797ff231c">RTFGenerator::endDotGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ad4d65d3f43a0ca0ff1e6cc7564a0164c">RTFGenerator::endGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aa1a701e0ab2c31d782a7faae9e0135e1">RTFGenerator::endInclDepGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a01d9e19175b7f2f875be520f1ea105b3">RTFGenerator::endMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ac82e6d2bb73a007715d4ccf10552848d">RTFGenerator::endTitleHead</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a2e791b200dd11ec24ff27a9aab0f8940">RTFDocVisitor::includePicturePreRTF</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a39a5bf02292d858e211a2cb3ee3f62c1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a022f6eb89bc55b752aeff008e9c9037d">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a85db1985a82081ef9ab2e5a25c450f28">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#acc6c497f52cf55d67723f21ec2a97c6b">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a63f63207a160e4e99a4c2dd5b55734c8">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a6f4df2c3160f09e662393e6a23b2add0">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4fcb960f7e5b593e8e6c51ea43f66a9a">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a89b1ef4b308483fcf725cef8081e5849">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#add264d5a56e09e76ec274af99af747d2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aa17fa64bc141c519b0b24e0a475ab1e1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#af3beab942bf46b1f903ac30ac39a10d2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7f10a43fc0a35475e9078305d745951f">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#acd2fed43ebf5f693abe84471a520cbe9">RTFCodeGenerator::startCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aad5bd8b4ea091547b08a00ba70f0aa07">RTFGenerator::startCompoundTemplateParams</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a29a84d512d59f79ef193e7b0f5010a9d">RTFGenerator::startConstraintList</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab4f116084ff07d558fd61db56501e61d">RTFGenerator::startDescTable</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ad69c3570dc9ede5dd3058791e252c3cc">RTFGenerator::startExamples</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afc0d8b219f558b257eed6bb523c79fab">RTFGenerator::startGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a434d17937e0e38eb2a631866282cece0">RTFGenerator::startIndent</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a969f88aefb693d90e5ced9f91a20b4bc">RTFGenerator::startIndexList</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aedc9cfff56c51ffc2bae28353a319b2e">RTFGenerator::startInlineHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a6847cacb71fc0487655971490b6eb778">RTFGenerator::startItemListItem</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afccb8a5712c326ee5cee2a0caea2bbb1">RTFGenerator::startMemberDescription</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0db9ec198444ce05559d81134b3696">RTFGenerator::startMemberDoc</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aacbda0698357ec14331ff4ff82f3a2ab">RTFGenerator::startMemberDocSimple</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#abbafc50a4d1a1c021aa659883d40ef45">RTFGenerator::startMemberGroup</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7ec7eb8980ebddb6c74f2db073e9ab76">RTFGenerator::startMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aa37f27c3476aa545d3e364b3df70baa8">RTFGenerator::startMemberItem</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a5e6c5dd7997b60786df03efbfa3a04f2">RTFGenerator::startMemberSubtitle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a012cbbfdb3b792d3d0204004cc7d7772">RTFGenerator::startTextBlock</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adf7c83ee8198c326eb4e8efd9f9f1a0a">RTFGenerator::startTitleHead</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a54e526de8b03280571dc1c0003a14746">RTFGenerator::writeInheritedSectionTitle</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a63e3c07d31875dab02fb233ae5541d23">RTFGenerator::writePageLink</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6a8f00c6b38e80e9d4545">RTFGenerator::beginRTFChapter</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab1939f0d3e5142f9b77cf8ce807e00a7">RTFGenerator::beginRTFSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adeb275db39d63df2f74c728adaa70849">RTFGenerator::endCallGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a0322020ce9d74181bb997b886239ce19">RTFGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a1cd78a44f9072b2d24765b07fbd4f01f">RTFGenerator::endDirDepGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a87f599a42c46d9fce84f456797ff231c">RTFGenerator::endDotGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ad4d65d3f43a0ca0ff1e6cc7564a0164c">RTFGenerator::endGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aa1a701e0ab2c31d782a7faae9e0135e1">RTFGenerator::endInclDepGraph</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a01d9e19175b7f2f875be520f1ea105b3">RTFGenerator::endMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ac82e6d2bb73a007715d4ccf10552848d">RTFGenerator::endTitleHead</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a2e791b200dd11ec24ff27a9aab0f8940">RTFDocVisitor::includePicturePreRTF</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a39a5bf02292d858e211a2cb3ee3f62c1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a022f6eb89bc55b752aeff008e9c9037d">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a85db1985a82081ef9ab2e5a25c450f28">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#acc6c497f52cf55d67723f21ec2a97c6b">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a63f63207a160e4e99a4c2dd5b55734c8">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a75e708a4ea1b27587678f424211b8b62">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a6f4df2c3160f09e662393e6a23b2add0">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4fcb960f7e5b593e8e6c51ea43f66a9a">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a89b1ef4b308483fcf725cef8081e5849">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#add264d5a56e09e76ec274af99af747d2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aa17fa64bc141c519b0b24e0a475ab1e1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#af3beab942bf46b1f903ac30ac39a10d2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7f10a43fc0a35475e9078305d745951f">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#acd2fed43ebf5f693abe84471a520cbe9">RTFCodeGenerator::startCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aad5bd8b4ea091547b08a00ba70f0aa07">RTFGenerator::startCompoundTemplateParams</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a29a84d512d59f79ef193e7b0f5010a9d">RTFGenerator::startConstraintList</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ab4f116084ff07d558fd61db56501e61d">RTFGenerator::startDescTable</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ad69c3570dc9ede5dd3058791e252c3cc">RTFGenerator::startExamples</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afc0d8b219f558b257eed6bb523c79fab">RTFGenerator::startGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a434d17937e0e38eb2a631866282cece0">RTFGenerator::startIndent</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a969f88aefb693d90e5ced9f91a20b4bc">RTFGenerator::startIndexList</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aedc9cfff56c51ffc2bae28353a319b2e">RTFGenerator::startInlineHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a6847cacb71fc0487655971490b6eb778">RTFGenerator::startItemListItem</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#afccb8a5712c326ee5cee2a0caea2bbb1">RTFGenerator::startMemberDescription</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0db9ec198444ce05559d81134b3696">RTFGenerator::startMemberDoc</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aacbda0698357ec14331ff4ff82f3a2ab">RTFGenerator::startMemberDocSimple</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#abbafc50a4d1a1c021aa659883d40ef45">RTFGenerator::startMemberGroup</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a7ec7eb8980ebddb6c74f2db073e9ab76">RTFGenerator::startMemberGroupHeader</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aa37f27c3476aa545d3e364b3df70baa8">RTFGenerator::startMemberItem</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a5e6c5dd7997b60786df03efbfa3a04f2">RTFGenerator::startMemberSubtitle</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a012cbbfdb3b792d3d0204004cc7d7772">RTFGenerator::startTextBlock</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#adf7c83ee8198c326eb4e8efd9f9f1a0a">RTFGenerator::startTitleHead</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a54e526de8b03280571dc1c0003a14746">RTFGenerator::writeInheritedSectionTitle</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a63e3c07d31875dab02fb233ae5541d23">RTFGenerator::writePageLink</a>.</p>
+
 </div>
 </div>
 
@@ -1129,7 +1159,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a3a64ef0ca4a6
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1138,7 +1169,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b27525400fcd01d49b1f0b74">RTFGenerator::startIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -1162,7 +1194,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aed0e9390b275
 
 
 
-Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1208,7 +1241,8 @@ Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac9b164379ca75fc12d225af36eac95aa">RTFDocVisitor::getListTable</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac9b164379ca75fc12d225af36eac95aa">RTFDocVisitor::getListTable</a>.</p>
+
 </div>
 </div>
 
@@ -1232,7 +1266,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1241,7 +1276,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>.</p>
+
 </div>
 </div>
 
@@ -1270,9 +1306,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534f0d123bc771ab3367">StyleData::setStyle</a> and <a href="/web-doxygen/docs/api/structs/styledata/#afa4e839cadb0aa89001d0a3b45845ce9">StyleData::StyleData</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534f0d123bc771ab3367">StyleData::setStyle</a> and <a href="/web-doxygen/docs/api/structs/styledata/#afa4e839cadb0aa89001d0a3b45845ce9">StyleData::StyleData</a>.</p>
+
 </div>
 </div>
 
@@ -1313,7 +1351,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/styledata/#a7a9ef51c3d04534
 </dd>
 </dl>
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1359,7 +1398,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </dd>
 </dl>
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1406,7 +1446,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </dd>
 </dl>
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1453,7 +1494,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </dd>
 </dl>
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1499,7 +1541,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </dd>
 </dl>
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1545,7 +1588,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </dd>
 </dl>
 
-Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1591,7 +1635,8 @@ Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </dd>
 </dl>
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

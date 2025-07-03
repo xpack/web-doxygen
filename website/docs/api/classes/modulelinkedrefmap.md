@@ -41,7 +41,7 @@ class ModuleLinkedRefMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -83,7 +83,8 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 </table>
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -109,7 +110,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1180 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1180 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/moduled
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>.</p>
+
 </div>
 </div>
 
@@ -154,7 +157,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 
 
-Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -171,7 +175,8 @@ Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/moduled
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#a2c21fb00589383686a05fc5f92c6e754">toModuleDefImpl</a> and <a href="/web-doxygen/docs/api/classes/moduledefimpl/#aecf1313398fd4c9d4440a741d9b3891d">ModuleDefImpl::writeDeclarationLink</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/moduledef-cpp/#a2c21fb00589383686a05fc5f92c6e754">toModuleDefImpl</a> and <a href="/web-doxygen/docs/api/classes/moduledefimpl/#aecf1313398fd4c9d4440a741d9b3891d">ModuleDefImpl::writeDeclarationLink</a>.</p>
+
 </div>
 </div>
 

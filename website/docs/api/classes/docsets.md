@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocSets` Class Reference
 
-A class that generates docset files. <a href="#details">More...</a>
+<p>A class that generates docset files. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocSets { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
+<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -251,12 +251,14 @@ Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/
 
 ## Description {#details}
 
-A class that generates docset files.
+<p>A class that generates docset files.</p>
 
 
-These files can be used to create context help for use within Apple's Xcode 3.0 development environment
+<p>These files can be used to create context help for use within Apple's Xcode 3.0 development environment</p>
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
+
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -282,7 +284,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-h
 
 
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -291,9 +294,11 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
+<p>Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.</p>
 
-Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">\~DocSets</a>.
+
+<p>Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">~DocSets</a>.</p>
+
 </div>
 </div>
 
@@ -323,9 +328,11 @@ Referenced by <a href="#aa825df57a02ee969cb4ff64890aeb94f">\~DocSets</a>.
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
 
-Reference <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>.
+
+<p>Reference <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>.</p>
+
 </div>
 </div>
 
@@ -360,7 +367,8 @@ Reference <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>.
 
 
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -415,7 +423,8 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.</p>
+
 </div>
 </div>
 
@@ -445,7 +454,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -481,7 +491,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docsets-h
 
 
 
-Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -520,7 +531,8 @@ Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -720,7 +732,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a937d0378cd8fb4b49efe215cc6c00469">ClassDef::Category</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b">ClassDef::Class</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae8ba915e00984129bcbbaa4efff48b00">ClassDef::compoundType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3beb75d1563ebc22253341be4ce57f44">Dictionary</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a6ff6e3b1bbf7e59a752826880e148528">ClassDef::Interface</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a146e2a27f8eee953b076a03e42ecf2b4">MemberDef::isObjCMethod</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aae943a44f4314a00a9572d0fa5e364e7">MemberDef::isObjCProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a30f19d5b8fb17b204b9e41d19b2ca49f">ClassDef::isTemplate</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a16feb88dead0850cea552a51ad9d26b5">ClassDef::Protocol</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3ff39d3acb327553070a64ef0cb321d5">Sequence</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ac2ba7e785c49050f48da9aacc45c2b85">Service</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a> and <a href="#a0c852a5df0dd82d83c4ec8b99f4e3937">writeToken</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a937d0378cd8fb4b49efe215cc6c00469">ClassDef::Category</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b">ClassDef::Class</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae8ba915e00984129bcbbaa4efff48b00">ClassDef::compoundType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3beb75d1563ebc22253341be4ce57f44">Dictionary</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a6ff6e3b1bbf7e59a752826880e148528">ClassDef::Interface</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a146e2a27f8eee953b076a03e42ecf2b4">MemberDef::isObjCMethod</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aae943a44f4314a00a9572d0fa5e364e7">MemberDef::isObjCProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a30f19d5b8fb17b204b9e41d19b2ca49f">ClassDef::isTemplate</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a16feb88dead0850cea552a51ad9d26b5">ClassDef::Protocol</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3ff39d3acb327553070a64ef0cb321d5">Sequence</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ac2ba7e785c49050f48da9aacc45c2b85">Service</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a> and <a href="#a0c852a5df0dd82d83c4ec8b99f4e3937">writeToken</a>.</p>
+
 </div>
 </div>
 
@@ -750,7 +763,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -786,7 +800,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/docsets-h
 
 
 
-Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -804,7 +819,8 @@ Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
+<p>Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.</p>
+
 </div>
 </div>
 
@@ -833,7 +849,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 
 
 
-Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -859,7 +876,8 @@ Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
+<p>Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.</p>
+
 </div>
 </div>
 
@@ -888,7 +906,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 
 
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -902,7 +921,8 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
+<p>Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.</p>
+
 </div>
 </div>
 
@@ -931,7 +951,8 @@ Reference <a href="#a78d287f46b4a116448f76a6c79785602">p</a>.
 
 
 
-Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1072,7 +1093,8 @@ Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a78d287f46b4a116448f76a6c79785602">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.</p>
+
 </div>
 </div>
 
@@ -1102,7 +1124,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 
 
 
-Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>, definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1154,9 +1177,11 @@ Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/docsets-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>.
+
+<p>Referenced by <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>.</p>
+
 </div>
 </div>
 
@@ -1186,7 +1211,8 @@ Referenced by <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>.
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docsets-h">docsets.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1195,7 +1221,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docsets-h
 </div>
 
 
-Referenced by <a href="#a2fae83e2222326bc3e70dc7f3ada05d5">addContentsItem</a>, <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>, <a href="#a27dd321d6203de4d44b1b3b2fbc0a3a5">decContentsDepth</a>, <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>, <a href="#a8c00f9b45e88f7907db6a0e7488a7a0b">finalize</a>, <a href="#a5840cce402cd857d80a49275c70d0000">incContentsDepth</a> and <a href="#a7cad610aa745779c12a50c3dcf2cdf61">initialize</a>.
+<p>Referenced by <a href="#a2fae83e2222326bc3e70dc7f3ada05d5">addContentsItem</a>, <a href="#a68e99525be1bdf8596ca067a014e9931">addIndexItem</a>, <a href="#a27dd321d6203de4d44b1b3b2fbc0a3a5">decContentsDepth</a>, <a href="#ad050cee55a579c4d01655f2041b5678b">DocSets</a>, <a href="#a8c00f9b45e88f7907db6a0e7488a7a0b">finalize</a>, <a href="#a5840cce402cd857d80a49275c70d0000">incContentsDepth</a> and <a href="#a7cad610aa745779c12a50c3dcf2cdf61">initialize</a>.</p>
+
 </div>
 </div>
 

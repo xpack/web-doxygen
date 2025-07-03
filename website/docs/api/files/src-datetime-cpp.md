@@ -97,7 +97,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the filled in std::tm for the current date and time. <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">More...</a>
+<p>Returns the filled in std::tm for the current date and time. <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -111,7 +111,7 @@ Returns the filled in std::tm for the current date and time. <a href="#aad46a931
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a>
+<p>Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided. <a href="#a28a0c3252d0f0f28c0611cbc3268b003">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -125,7 +125,7 @@ Returns the current date, when <span class="doxyComputerOutput">includeTime</spa
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the current year as a string. <a href="#a76a75ed644eb3f75d36151f9d82f862f">More...</a>
+<p>Returns the current year as a string. <a href="#a76a75ed644eb3f75d36151f9d82f862f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -152,7 +152,7 @@ Returns the current year as a string. <a href="#a76a75ed644eb3f75d36151f9d82f862
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the filled in std::tm for a given string representing a date and/or time. <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">More...</a>
+<p>Returns the filled in std::tm for a given string representing a date and/or time. <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -166,7 +166,7 @@ Returns the filled in std::tm for a given string representing a date and/or time
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return a string representation for a given std::tm value that is formatted according to the pattern given by a format. <a href="#a9f06f858b1cd97d3bc7b850a600b45be">More...</a>
+<p>Return a string representation for a given std::tm value that is formatted according to the pattern given by a format. <a href="#a9f06f858b1cd97d3bc7b850a600b45be">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -232,7 +232,8 @@ Return a string representation for a given std::tm value that is formatted accor
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -267,7 +268,7 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/datetime-
 </div>
 <div class="doxyMemberDoc">
 
-Returns the filled in std::tm for a given string representing a date and/or time.
+<p>Returns the filled in std::tm for a given string representing a date and/or time.</p>
 
 
 <dl class="doxyParamsList">
@@ -276,7 +277,8 @@ Returns the filled in std::tm for a given string representing a date and/or time
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] spec</td>
-<td class="doxyParamItemDescription">The string representation of the date and/or time Possible formats:
+<td class="doxyParamItemDescription"><p>The string representation of the date and/or time Possible formats:</p>
+
 
 <ul class="doxyList ">
 <li>the empty string: the current date and time is returned</li>
@@ -289,11 +291,11 @@ Returns the filled in std::tm for a given string representing a date and/or time
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] dt</td>
-<td class="doxyParamItemDescription">The corresponding datetime value.</td>
+<td class="doxyParamItemDescription"><p>The corresponding datetime value.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] format</td>
-<td class="doxyParamItemDescription">The parts that have been found in spec; a bitwise or of <span class="doxyComputerOutput">SF_Date</span>, <span class="doxyComputerOutput">SF_Time</span> and <span class="doxyComputerOutput">SF_Seconds</span>.</td>
+<td class="doxyParamItemDescription"><p>The parts that have been found in spec; a bitwise or of <span class="doxyComputerOutput">SF_Date</span>, <span class="doxyComputerOutput">SF_Time</span> and <span class="doxyComputerOutput">SF_Seconds</span>.</p></td>
 </tr>
 </table>
 </dd>
@@ -301,11 +303,12 @@ Returns the filled in std::tm for a given string representing a date and/or time
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>An empty string if the spec has a supported format, or an error message if the format is invalid.</dd>
+<dd><p>An empty string if the spec has a supported format, or an error message if the format is invalid.</p></dd>
 </dl>
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -353,9 +356,11 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/datetime
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/datetimefield/#a570e893b97430e96952d1d4950e1bdcd">DateTimeField::assigner</a>, <a href="#acd5bcc9e65bd30e9f8bbac02209a365f">determine\_weekday</a>, <a href="#aded1be4ca20e42c09d780b0bf95ee827">g\_assignValues</a>, <a href="#af59caa72dd2172c28cdd1c7cad10e9b4">g\_specFormats</a>, <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#abd83bf57cdc053d40135b7c8f211f2b9">reg::match</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#a07c23c91e7604287b45b210c69763209">DateTimeField::maxVal</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#aefa072e17ee530f19a1b8a3f1e2eade7">DateTimeField::minVal</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#a9b133ac640c6dad75d02da61871d2a04">DateTimeField::name</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#ac6960e6e1f68baad800350b86fed5213">SF\_Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF\_Seconds</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF\_Time</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/datetimefield/#a570e893b97430e96952d1d4950e1bdcd">DateTimeField::assigner</a>, <a href="#acd5bcc9e65bd30e9f8bbac02209a365f">determine_weekday</a>, <a href="#aded1be4ca20e42c09d780b0bf95ee827">g_assignValues</a>, <a href="#af59caa72dd2172c28cdd1c7cad10e9b4">g_specFormats</a>, <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#abd83bf57cdc053d40135b7c8f211f2b9">reg::match</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#a07c23c91e7604287b45b210c69763209">DateTimeField::maxVal</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#aefa072e17ee530f19a1b8a3f1e2eade7">DateTimeField::minVal</a>, <a href="/web-doxygen/docs/api/structs/datetimefield/#a9b133ac640c6dad75d02da61871d2a04">DateTimeField::name</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#ac6960e6e1f68baad800350b86fed5213">SF_Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF_Seconds</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF_Time</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae047ee79dc91f846eb14f7f882a17cdf">showDate</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae047ee79dc91f846eb14f7f882a17cdf">showDate</a>.</p>
+
 </div>
 </div>
 
@@ -377,7 +382,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </div>
 <div class="doxyMemberDoc">
 
-Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided.
+<p>Returns the current date, when <span class="doxyComputerOutput">includeTime</span> is set also the time is provided.</p>
 
 
 <dl class="doxyParamsList">
@@ -386,13 +391,14 @@ Returns the current date, when <span class="doxyComputerOutput">includeTime</spa
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] includeTime</td>
-<td class="doxyParamItemDescription">include the time in the output</td>
+<td class="doxyParamItemDescription"><p>include the time in the output</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -412,9 +418,11 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/datetime-
 </div>
 
 
-References <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+<p>References <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a0c856f41b9b3199b3f034a02d7b8309e">ManGenerator::endTitleHead</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5c8cfe5b43686e52e1a">substituteKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3098463f3a6a2881f3394">RTFGenerator::endIndexSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a0c856f41b9b3199b3f034a02d7b8309e">ManGenerator::endTitleHead</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5c8cfe5b43686e52e1a">substituteKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>.</p>
+
 </div>
 </div>
 
@@ -443,7 +451,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a8b7ec3b26aa3
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -463,7 +472,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/datetime
 </div>
 
 
-Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.
+<p>Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.</p>
+
 </div>
 </div>
 
@@ -485,7 +495,7 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 </div>
 <div class="doxyMemberDoc">
 
-Return a string representation for a given std::tm value that is formatted according to the pattern given by a format.
+<p>Return a string representation for a given std::tm value that is formatted according to the pattern given by a format.</p>
 
 
 <dl class="doxyParamsList">
@@ -494,21 +504,22 @@ Return a string representation for a given std::tm value that is formatted accor
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] format</td>
-<td class="doxyParamItemDescription">the string used for format the date and time, e.g. <span class="doxyComputerOutput">Y-m-d</span></td>
+<td class="doxyParamItemDescription"><p>the string used for format the date and time, e.g. <span class="doxyComputerOutput">Y-m-d</span></p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] dt</td>
-<td class="doxyParamItemDescription">the date and time value to fill in</td>
+<td class="doxyParamItemDescription"><p>the date and time value to fill in</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] formatUsed</td>
-<td class="doxyParamItemDescription">A bitwise OR of <span class="doxyComputerOutput">SF_Date</span>, <span class="doxyComputerOutput">SF_Time</span> and <span class="doxyComputerOutput">SF_Seconds</span> representing the the types of markers found in the format string.</td>
+<td class="doxyParamItemDescription"><p>A bitwise OR of <span class="doxyComputerOutput">SF_Date</span>, <span class="doxyComputerOutput">SF_Time</span> and <span class="doxyComputerOutput">SF_Seconds</span> representing the the types of markers found in the format string.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -572,9 +583,11 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/datetime
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a3c84320a57fe98375add64ad01e9bf3b">GrowBuf::addInt</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#ac6960e6e1f68baad800350b86fed5213">SF\_Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF\_Seconds</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF\_Time</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a3c84320a57fe98375add64ad01e9bf3b">GrowBuf::addInt</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#ac6960e6e1f68baad800350b86fed5213">SF_Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a30a8258aa25f9421f924eb9d140f920d">SF_Seconds</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#adc5ba2de9d9ec975cc60a694c13148a4">SF_Time</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae047ee79dc91f846eb14f7f882a17cdf">showDate</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae047ee79dc91f846eb14f7f882a17cdf">showDate</a>.</p>
+
 </div>
 </div>
 
@@ -596,9 +609,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918
 </div>
 <div class="doxyMemberDoc">
 
-Returns the filled in std::tm for the current date and time.
+<p>Returns the filled in std::tm for the current date and time.</p>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -638,9 +652,11 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/datetime-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a524e1cd9e1c24e91d57b1cb91513fa67">QCString::toUInt64</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn\_uncond</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a524e1cd9e1c24e91d57b1cb91513fa67">QCString::toUInt64</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn_uncond</a>.</p>
 
-Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a2996b202ffa4a28fb842837caae8fa0f">dateToRTFDateString</a>, <a href="#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a> and <a href="#a76a75ed644eb3f75d36151f9d82f862f">yearToString</a>.
+
+<p>Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a2996b202ffa4a28fb842837caae8fa0f">dateToRTFDateString</a>, <a href="#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a> and <a href="#a76a75ed644eb3f75d36151f9d82f862f">yearToString</a>.</p>
+
 </div>
 </div>
 
@@ -662,9 +678,10 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 </div>
 <div class="doxyMemberDoc">
 
-Returns the current year as a string.
+<p>Returns the current year as a string.</p>
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -677,9 +694,11 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/datetime-
 </div>
 
 
-References <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>.
+<p>References <a href="#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5c8cfe5b43686e52e1a">substituteKeywords</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5c8cfe5b43686e52e1a">substituteKeywords</a>.</p>
+
 </div>
 </div>
 
@@ -729,7 +748,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9fcc3d0c9d7df5
 </dd>
 </dl>
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -746,7 +766,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/datetime
 </div>
 
 
-Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.
+<p>Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.</p>
+
 </div>
 </div>
 
@@ -789,7 +810,8 @@ Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a
 </dd>
 </dl>
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/datetime-cpp">datetime.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -805,7 +827,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/datetime
 </div>
 
 
-Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.
+<p>Referenced by <a href="#ad9d60769e8d4d67f018bc58c3e7b4e6f">dateTimeFromString</a>.</p>
+
 </div>
 </div>
 

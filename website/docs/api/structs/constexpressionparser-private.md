@@ -58,7 +58,8 @@ struct ConstExpressionParser::Private { ... }
 </table>
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/constexp
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/constexp
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

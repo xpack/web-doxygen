@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocSimpleSectSep` Class Reference
 
-Node representing a separator between two simple sections of the same type. <a href="#details">More...</a>
+<p>Node representing a separator between two simple sections of the same type. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocSimpleSectSep { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
+<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,9 +71,10 @@ Abstract node interface with type information. <a href="/web-doxygen/docs/api/cl
 
 ## Description {#details}
 
-Node representing a separator between two simple sections of the same type.
+<p>Node representing a separator between two simple sections of the same type.</p>
 
-Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -104,7 +105,8 @@ Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/docnode
 
 
 
-Definition at line 1046 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1046 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -113,7 +115,8 @@ Definition at line 1046 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.</p>
+
 </div>
 </div>
 

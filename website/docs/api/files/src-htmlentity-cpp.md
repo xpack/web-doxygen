@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="/web-doxygen/docs/api/structs/htmlentityinfo/#details">More...</a>
+<p>Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="/web-doxygen/docs/api/structs/htmlentityinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -115,7 +115,8 @@ Structure defining all HTML4 entities, doxygen extensions and doxygen commands r
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -406,7 +407,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f028c7820564bbd80728898a79">HtmlEntityMapper::docbook</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#aea40dae4575be9010f2ea950206a6f57">HtmlEntityMapper::html</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper::HtmlEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a401769ae867a274591c49695c3a819f0">HtmlEntityMapper::latex</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ae69bb690ab38e84854b912b68e71cf79">HtmlEntityMapper::man</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a56d4e0e2e83a943ea25985c0792f71b0">HtmlEntityMapper::perl</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9e02cf0591dcb069b71e93f3e827a36c">HtmlEntityMapper::rtf</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ad8a01097bbc33683b24dc0ddd198f958">HtmlEntityMapper::utf8</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ac80b42ee1d05037eed6e1c88bc844ece">HtmlEntityMapper::validate</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a7c7b82a1151c72c7df57732517379a14">HtmlEntityMapper::writeXMLSchema</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a6359802a6779aa5f0245357d974c3bd1">HtmlEntityMapper::xml</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f028c7820564bbd80728898a79">HtmlEntityMapper::docbook</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#aea40dae4575be9010f2ea950206a6f57">HtmlEntityMapper::html</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper::HtmlEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a401769ae867a274591c49695c3a819f0">HtmlEntityMapper::latex</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ae69bb690ab38e84854b912b68e71cf79">HtmlEntityMapper::man</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a56d4e0e2e83a943ea25985c0792f71b0">HtmlEntityMapper::perl</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9e02cf0591dcb069b71e93f3e827a36c">HtmlEntityMapper::rtf</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ad8a01097bbc33683b24dc0ddd198f958">HtmlEntityMapper::utf8</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ac80b42ee1d05037eed6e1c88bc844ece">HtmlEntityMapper::validate</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a7c7b82a1151c72c7df57732517379a14">HtmlEntityMapper::writeXMLSchema</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a6359802a6779aa5f0245357d974c3bd1">HtmlEntityMapper::xml</a>.</p>
+
 </div>
 </div>
 
@@ -436,7 +438,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#acfca10f0
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 </div>
 </div>
 

@@ -298,7 +298,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -320,9 +321,11 @@ Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -351,7 +354,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -374,9 +378,11 @@ Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -405,7 +411,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -440,9 +447,11 @@ Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>.</p>
+
 </div>
 </div>
 
@@ -471,7 +480,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -493,9 +503,11 @@ Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -524,7 +536,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -545,9 +558,11 @@ Definition at line 459 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -576,7 +591,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -598,9 +614,11 @@ Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -629,7 +647,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -649,9 +668,11 @@ Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -680,7 +701,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -713,9 +735,11 @@ Definition at line 394 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -744,7 +768,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -801,9 +826,11 @@ Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="#a45390d3758ea90a1a3501782f0e4e087">g\_inkscapeDetectionMutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/namespaces/portable/#aec45ff95f54eed28050e42d3638907cf">Portable::devNull</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="#a45390d3758ea90a1a3501782f0e4e087">g_inkscapeDetectionMutex</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>.
+
+<p>Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>.</p>
+
 </div>
 </div>
 
@@ -832,7 +859,8 @@ Referenced by <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaIn
 
 
 
-Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -872,9 +900,11 @@ Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a> and <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a> and <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>.</p>
+
 </div>
 </div>
 
@@ -903,7 +933,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a> a
 
 
 
-Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -990,9 +1021,11 @@ Definition at line 473 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07d8121645b0348e91712">Portable::checkForExecutable</a>, <a href="#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#ac7978878c5e2989e9739423aa06f805a">extractBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">FormulaManager::Light</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ae7fe54b64ef2fa9eff2494118fab761ea521c36a31c2762741cf0f8890cbe05e3">FormulaManager::On</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>, <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a> and <a href="/web-doxygen/docs/api/classes/formulamanager/#aa538ca4ffea4dd937920ebdd41222e69a57dea6f5039281b7fee517fc43bf3110">FormulaManager::Vector</a>.
+<p>References <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07d8121645b0348e91712">Portable::checkForExecutable</a>, <a href="#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#ac7978878c5e2989e9739423aa06f805a">extractBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">FormulaManager::Light</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ae7fe54b64ef2fa9eff2494118fab761ea521c36a31c2762741cf0f8890cbe05e3">FormulaManager::On</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>, <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a> and <a href="/web-doxygen/docs/api/classes/formulamanager/#aa538ca4ffea4dd937920ebdd41222e69a57dea6f5039281b7fee517fc43bf3110">FormulaManager::Vector</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>.</p>
+
 </div>
 </div>
 
@@ -1021,7 +1054,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7ce
 
 
 
-Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1066,9 +1100,11 @@ Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -1097,7 +1133,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1120,9 +1157,11 @@ Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="#a2eb5aacd88293a8b5b1651f814592500">g\_formulaUpdateMutex</a>, <a href="/web-doxygen/docs/api/classes/formula/#aa98f77319800a11b67fc2be1a2b5f0d4">Formula::setHeight</a> and <a href="/web-doxygen/docs/api/classes/formula/#ad6f4bcbc9d72789367acac83a3ea6846">Formula::setWidth</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="#a2eb5aacd88293a8b5b1651f814592500">g_formulaUpdateMutex</a>, <a href="/web-doxygen/docs/api/classes/formula/#aa98f77319800a11b67fc2be1a2b5f0d4">Formula::setHeight</a> and <a href="/web-doxygen/docs/api/classes/formula/#ad6f4bcbc9d72789367acac83a3ea6846">Formula::setWidth</a>.</p>
 
-Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -1157,7 +1196,8 @@ Referenced by <a href="#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
 
 
 
-Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1166,7 +1206,8 @@ Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>.
+<p>Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>.</p>
+
 </div>
 </div>
 
@@ -1195,7 +1236,8 @@ Referenced by <a href="#a6234dcdd2552e24e6910182b50633a58">updateFormulaSize</a>
 
 
 
-Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1204,7 +1246,8 @@ Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Referenced by <a href="#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>.
+<p>Referenced by <a href="#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>.</p>
+
 </div>
 </div>
 

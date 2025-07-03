@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlEntityInfo` Struct Reference
 
-Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="#details">More...</a>
+<p>Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -163,12 +163,14 @@ struct HtmlEntityInfo { ... }
 
 ## Description {#details}
 
-Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols.
+<p>Structure defining all HTML4 entities, doxygen extensions and doxygen commands representing special symbols.</p>
 
 
-In case an entity does not exist a nullptr is given for the entity. The first column contains the symbolic code for the entity, see also doxparser.h The second column contains the name of the entity (without the starting &amp; and ending ;)
+<p>In case an entity does not exist a nullptr is given for the entity. The first column contains the symbolic code for the entity, see also doxparser.h The second column contains the name of the entity (without the starting &amp; and ending ;)</p>
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -194,7 +196,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -225,7 +228,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -256,7 +260,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -287,7 +292,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +324,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -349,7 +356,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -380,7 +388,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -411,7 +420,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -442,7 +452,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -473,7 +484,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

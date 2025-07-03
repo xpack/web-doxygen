@@ -121,7 +121,8 @@ struct LookupInfo { ... }
 </table>
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -152,7 +153,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 </div>
 </div>
 
@@ -181,7 +183,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -191,7 +194,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-References <a href="#a9421fd652d8b718b86eb095de4483146">definition</a>, <a href="#a55af5dfe2282dcc19615ac1e0ace76ff">resolvedType</a>, <a href="#ab6109313beafe89f7d42431f8da344fb">templSpec</a> and <a href="#abae8ff1217132e626eeb3380cc700053">typeDef</a>.
+<p>References <a href="#a9421fd652d8b718b86eb095de4483146">definition</a>, <a href="#a55af5dfe2282dcc19615ac1e0ace76ff">resolvedType</a>, <a href="#ab6109313beafe89f7d42431f8da344fb">templSpec</a> and <a href="#abae8ff1217132e626eeb3380cc700053">typeDef</a>.</p>
+
 </div>
 </div>
 
@@ -221,7 +225,8 @@ References <a href="#a9421fd652d8b718b86eb095de4483146">definition</a>, <a href=
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -230,7 +235,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d23658541704d3493a7a881583d55">flushCachedTemplateRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad3dd00ae1c58bfc06981afcc5f14a53">flushUnresolvedRelations</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d23658541704d3493a7a881583d55">flushCachedTemplateRelations</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad3dd00ae1c58bfc06981afcc5f14a53">flushUnresolvedRelations</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.</p>
+
 </div>
 </div>
 
@@ -254,7 +260,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a082d2365854
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -263,7 +270,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.</p>
+
 </div>
 </div>
 
@@ -287,7 +295,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -296,7 +305,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.</p>
+
 </div>
 </div>
 
@@ -320,7 +330,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -329,7 +340,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad3dd00ae1c58bfc06981afcc5f14a53">flushUnresolvedRelations</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad3dd00ae1c58bfc06981afcc5f14a53">flushUnresolvedRelations</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a> and <a href="#ad6d1c960981e2026f1888164a3bdd80f">LookupInfo</a>.</p>
+
 </div>
 </div>
 

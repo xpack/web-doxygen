@@ -156,7 +156,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -243,9 +244,11 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4835b5d7130a">DocRef::anchor</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1b7d0715b60aea2ac421bfd1">createRef</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/docref/#a83619a74c9fc8be97545a13521d5a126">DocRef::file</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>, <a href="/web-doxygen/docs/api/classes/docref/#ab1f49243161d41850208e8fde53bd9a5">DocRef::ref</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4835b5d7130a">DocRef::anchor</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1b7d0715b60aea2ac421bfd1">createRef</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/docref/#a83619a74c9fc8be97545a13521d5a126">DocRef::file</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>, <a href="/web-doxygen/docs/api/classes/docref/#ab1f49243161d41850208e8fde53bd9a5">DocRef::ref</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>.
+
+<p>Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -274,7 +277,8 @@ Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFil
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -326,9 +330,11 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err\_full</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err_full</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a> and <a href="#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.
+
+<p>Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a> and <a href="#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -357,7 +363,8 @@ Referenced by <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFil
 
 
 
-Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -383,9 +390,11 @@ Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp"
 </div>
 
 
-References <a href="#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="#af50f1fc37531bed71dba97fcf1ea5dd9">do\_mscgen\_generate</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>.
+<p>References <a href="#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="#af50f1fc37531bed71dba97fcf1ea5dd9">do_mscgen_generate</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>.</p>
 
-Referenced by <a href="#a1a9fc7a255fa7160711dd47a9de1695b">writeMscImageMapFromFile</a>.
+
+<p>Referenced by <a href="#a1a9fc7a255fa7160711dd47a9de1695b">writeMscImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -409,7 +418,8 @@ Referenced by <a href="#a1a9fc7a255fa7160711dd47a9de1695b">writeMscImageMapFromF
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -473,9 +483,11 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656a75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#af50f1fc37531bed71dba97fcf1ea5dd9">do\_mscgen\_generate</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656ac2c027d8c62500300145c3043546d4c6">EPS</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err\_full</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#ad1b6b56d95d64570f2be3ca005b63412">maxCmdLine</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0f30be3f0aed0b88804816f3e6310ee4">Portable::pathSeparator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656acd15a75c26008696647b31a3f0de43b3">SVG</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656a75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="#af50f1fc37531bed71dba97fcf1ea5dd9">do_mscgen_generate</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656ac2c027d8c62500300145c3043546d4c6">EPS</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err_full</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#ad1b6b56d95d64570f2be3ca005b63412">maxCmdLine</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0f30be3f0aed0b88804816f3e6310ee4">Portable::pathSeparator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656acd15a75c26008696647b31a3f0de43b3">SVG</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b2c9442335fc951437fc0cfb466c90c">DocbookDocVisitor::startMscFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aeef2a244f24ea46106204e063fae5273">LatexDocVisitor::startMscFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a370d999e7360a39203535dff006b1bf2">DocbookDocVisitor::writeMscFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a928ca1eefc8caee8adbf197d19f9d687">HtmlDocVisitor::writeMscFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ada18505ac90bb92f4ce279d503dba853">LatexDocVisitor::writeMscFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ab70c2bad1c74761849c430861ec0d2da">RTFDocVisitor::writeMscFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b2c9442335fc951437fc0cfb466c90c">DocbookDocVisitor::startMscFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aeef2a244f24ea46106204e063fae5273">LatexDocVisitor::startMscFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a370d999e7360a39203535dff006b1bf2">DocbookDocVisitor::writeMscFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a928ca1eefc8caee8adbf197d19f9d687">HtmlDocVisitor::writeMscFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ada18505ac90bb92f4ce279d503dba853">LatexDocVisitor::writeMscFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ab70c2bad1c74761849c430861ec0d2da">RTFDocVisitor::writeMscFile</a>.</p>
+
 </div>
 </div>
 
@@ -499,7 +511,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b2c944
 
 
 
-Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -545,9 +558,11 @@ Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656a75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656ac2c027d8c62500300145c3043546d4c6">EPS</a>, <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656acd15a75c26008696647b31a3f0de43b3">SVG</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656a75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656ac2c027d8c62500300145c3043546d4c6">EPS</a>, <a href="#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/msc-h/#a6cf71dda84c5602c6239cca31028f656acd15a75c26008696647b31a3f0de43b3">SVG</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a928ca1eefc8caee8adbf197d19f9d687">HtmlDocVisitor::writeMscFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a928ca1eefc8caee8adbf197d19f9d687">HtmlDocVisitor::writeMscFile</a>.</p>
+
 </div>
 </div>
 
@@ -582,7 +597,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a928ca1eefc
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/msc-cpp">msc.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

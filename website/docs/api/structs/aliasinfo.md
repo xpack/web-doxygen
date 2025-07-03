@@ -77,7 +77,8 @@ struct AliasInfo { ... }
 </table>
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/aliases-c
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -118,7 +120,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/aliases-c
 </div>
 
 
-References <a href="#a961fc24be73469269379e0bf359ea400">separator</a> and <a href="#a62d9fc144cc6615ad2739a35df971c44">value</a>.
+<p>References <a href="#a961fc24be73469269379e0bf359ea400">separator</a> and <a href="#a62d9fc144cc6615ad2739a35df971c44">value</a>.</p>
+
 </div>
 </div>
 
@@ -148,7 +151,8 @@ References <a href="#a961fc24be73469269379e0bf359ea400">separator</a> and <a hre
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -157,7 +161,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/aliases-c
 </div>
 
 
-Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.
+<p>Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.</p>
+
 </div>
 </div>
 
@@ -181,7 +186,8 @@ Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -190,7 +196,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/aliases-c
 </div>
 
 
-Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.
+<p>Referenced by <a href="#a206cbd2feea0cbb42eef826d0ad41d21">AliasInfo</a>.</p>
+
 </div>
 </div>
 

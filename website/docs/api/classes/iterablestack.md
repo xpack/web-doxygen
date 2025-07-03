@@ -116,7 +116,8 @@ class IterableStack&lt;T, Container&gt; { ... }
 </table>
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -148,7 +149,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -185,7 +187,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -222,7 +225,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -259,7 +263,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

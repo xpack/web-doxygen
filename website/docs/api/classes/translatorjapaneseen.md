@@ -164,7 +164,7 @@ class TranslatorJapaneseEn { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-language codes for Html help <a href="#a1f8bb4f4f5d0cb08f4db2401ddcd8381">More...</a>
+<p>language codes for Html help <a href="#a1f8bb4f4f5d0cb08f4db2401ddcd8381">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -174,7 +174,8 @@ language codes for Html help <a href="#a1f8bb4f4f5d0cb08f4db2401ddcd8381">More..
 </table>
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -204,7 +205,7 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 <div class="doxyMemberDoc">
 
-language codes for Html help
+<p>language codes for Html help</p>
 
 
 
@@ -243,7 +244,8 @@ language codes for Html help
 </code></pre>
 
 
-New LCIDs:
+<p>New LCIDs:</p>
+
 
 
 <pre><code> 0x421 Indonesian
@@ -264,14 +266,16 @@ New LCIDs:
 </code></pre>
 
 
-Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).
+<p>Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).</p>
+
 
 
 <pre><code>0x48f Esperanto
 </code></pre>
 
 
-So do a fallback to the default language
+<p>So do a fallback to the default language</p>
+
 
 
 <pre><code>0x409 English (United States)
@@ -283,7 +287,8 @@ So do a fallback to the default language
 </code></pre>
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -324,9 +329,11 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.
+<p>Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -365,9 +372,11 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\\\end{document}</span> in the LaTeX document.
+<p>Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\end{document}</span> in the LaTeX document.</p>
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -408,9 +417,11 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\\\begin{document}</span> in the LaTeX document.
+<p>Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\begin{document}</span> in the LaTeX document.</p>
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -451,9 +462,11 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
+<p>Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.</p>
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -494,14 +507,16 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used to get the LaTeX command(s) for the language support. This method should return string with commands that switch LaTeX to the desired language. For example
+<p>Used to get the LaTeX command(s) for the language support. This method should return string with commands that switch LaTeX to the desired language. For example</p>
+
 
 
 <pre><code>"\\usepackage[german]{babel}\n"
 </code></pre>
 
 
-or
+<p>or</p>
+
 
 
 <pre><code>"\\usepackage{polski}\n"
@@ -510,9 +525,11 @@ or
 </code></pre>
 
 
-The English LaTeX does not use such commands. Because of this the empty string is returned in this implementation.
+<p>The English LaTeX does not use such commands. Because of this the empty string is returned in this implementation.</p>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -552,7 +569,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -593,9 +611,11 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used as ansicpg for RTF file
+<p>Used as ansicpg for RTF file</p>
 
-The following table shows the correlation of Charset name, Charset Value and
+
+<p>The following table shows the correlation of Charset name, Charset Value and</p>
+
 
 
 <pre><code>Codepage number:
@@ -619,7 +639,8 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -660,15 +681,17 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used as ansicpg for RTF fcharset
+<p>Used as ansicpg for RTF fcharset</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a14d4099eb9bd235c4ba1c8068d30df73">trRTFansicp()</a> for a table of possible values.</dd>
+<dd><p><a href="#a14d4099eb9bd235c4ba1c8068d30df73">trRTFansicp()</a> for a table of possible values.</p></dd>
 </dl>
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translator-je-h">translator_je.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

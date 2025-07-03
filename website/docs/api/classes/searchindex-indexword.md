@@ -141,7 +141,8 @@ class SearchIndex::IndexWord { ... }
 </table>
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -167,7 +168,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -209,7 +211,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -218,7 +221,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-References <a href="#a0c03691139ef33e89603e16901e4a78e">m\_word</a> and <a href="#ab213434fbfa6af2535272a6b5e89429b">word</a>.
+<p>References <a href="#a0c03691139ef33e89603e16901e4a78e">m_word</a> and <a href="#ab213434fbfa6af2535272a6b5e89429b">word</a>.</p>
+
 </div>
 </div>
 
@@ -248,7 +252,8 @@ References <a href="#a0c03691139ef33e89603e16901e4a78e">m\_word</a> and <a href=
 
 
 
-Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
+<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -268,7 +273,8 @@ Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m\_urls</a>.
+<p>Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m_urls</a>.</p>
+
 </div>
 </div>
 
@@ -297,7 +303,8 @@ Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m\_urls</a>.
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -306,7 +313,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m\_urls</a>.
+<p>Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m_urls</a>.</p>
+
 </div>
 </div>
 
@@ -335,7 +343,8 @@ Reference <a href="#af2cbc84aecabf7ff9c76ecd282e49485">m\_urls</a>.
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -344,9 +353,11 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Reference <a href="#a0c03691139ef33e89603e16901e4a78e">m\_word</a>.
+<p>Reference <a href="#a0c03691139ef33e89603e16901e4a78e">m_word</a>.</p>
 
-Referenced by <a href="#a1ad0e87a5eab96bff571f01fd2938366">IndexWord</a>.
+
+<p>Referenced by <a href="#a1ad0e87a5eab96bff571f01fd2938366">IndexWord</a>.</p>
+
 </div>
 </div>
 
@@ -376,7 +387,8 @@ Referenced by <a href="#a1ad0e87a5eab96bff571f01fd2938366">IndexWord</a>.
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -385,7 +397,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a1416b4d68d49dfa058d8526d2cd0d095">addUrlIndex</a> and <a href="#af8b2ed23198217e24ae084c5a6f04cc6">urls</a>.
+<p>Referenced by <a href="#a1416b4d68d49dfa058d8526d2cd0d095">addUrlIndex</a> and <a href="#af8b2ed23198217e24ae084c5a6f04cc6">urls</a>.</p>
+
 </div>
 </div>
 
@@ -409,7 +422,8 @@ Referenced by <a href="#a1416b4d68d49dfa058d8526d2cd0d095">addUrlIndex</a> and <
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -418,7 +432,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a1ad0e87a5eab96bff571f01fd2938366">IndexWord</a> and <a href="#ab213434fbfa6af2535272a6b5e89429b">word</a>.
+<p>Referenced by <a href="#a1ad0e87a5eab96bff571f01fd2938366">IndexWord</a> and <a href="#ab213434fbfa6af2535272a6b5e89429b">word</a>.</p>
+
 </div>
 </div>
 

@@ -90,7 +90,8 @@ struct Marker { ... }
 </table>
 
 
-Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/aliases-
 
 
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/aliases-
 </div>
 
 
-References <a href="#a872dda5c315614b17e4566e2cc098e04">number</a>, <a href="#ab0834522fc730926b659584554348f0f">pos</a> and <a href="#a7ec902e0fb8eeee87acdd5fa5fea8d9f">size</a>.
+<p>References <a href="#a872dda5c315614b17e4566e2cc098e04">number</a>, <a href="#ab0834522fc730926b659584554348f0f">pos</a> and <a href="#a7ec902e0fb8eeee87acdd5fa5fea8d9f">size</a>.</p>
+
 </div>
 </div>
 
@@ -160,7 +163,8 @@ References <a href="#a872dda5c315614b17e4566e2cc098e04">number</a>, <a href="#ab
 
 
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +173,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/aliases-
 </div>
 
 
-Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.
+<p>Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.</p>
+
 </div>
 </div>
 
@@ -193,7 +198,8 @@ Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.
 
 
 
-Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -202,7 +208,8 @@ Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/aliases-
 </div>
 
 
-Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.
+<p>Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.</p>
+
 </div>
 </div>
 
@@ -226,7 +233,8 @@ Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/aliases-cpp">aliases.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -235,7 +243,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/aliases-
 </div>
 
 
-Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.
+<p>Referenced by <a href="#a93259a9c9396eea06af6162756b846ff">Marker</a>.</p>
+
 </div>
 </div>
 

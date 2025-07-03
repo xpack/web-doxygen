@@ -90,7 +90,8 @@ struct ParserManager::ParserPair { ... }
 </table>
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/parserin
 
 
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -133,7 +135,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/parserin
 </div>
 
 
-References <a href="#a249f575b6476cdf5464fbd3004e93c1a">codeParserFactory</a>, <a href="#a9cecf3732bcd6a43e43d5f6e1ff8f5d2">outlineParserFactory</a> and <a href="#ad33d6eddc9ddd59e6ee694152f453e2a">parserName</a>.
+<p>References <a href="#a249f575b6476cdf5464fbd3004e93c1a">codeParserFactory</a>, <a href="#a9cecf3732bcd6a43e43d5f6e1ff8f5d2">outlineParserFactory</a> and <a href="#ad33d6eddc9ddd59e6ee694152f453e2a">parserName</a>.</p>
+
 </div>
 </div>
 
@@ -163,7 +166,8 @@ References <a href="#a249f575b6476cdf5464fbd3004e93c1a">codeParserFactory</a>, <
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +176,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/parserin
 </div>
 
 
-Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
+<p>Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.</p>
+
 </div>
 </div>
 
@@ -196,7 +201,8 @@ Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,7 +211,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/parserin
 </div>
 
 
-Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
+<p>Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.</p>
+
 </div>
 </div>
 
@@ -229,7 +236,8 @@ Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -238,7 +246,8 @@ Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/parserin
 </div>
 
 
-Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.
+<p>Referenced by <a href="#a746d87266d3fc699264d223d81183a28">ParserPair</a>.</p>
+
 </div>
 </div>
 

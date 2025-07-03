@@ -45,7 +45,8 @@ class ResourceMgr::Private { ... }
 </table>
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

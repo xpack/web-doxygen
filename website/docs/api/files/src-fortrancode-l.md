@@ -57,7 +57,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-data of an use-statement <a href="/web-doxygen/docs/api/classes/useentry/#details">More...</a>
+<p>data of an use-statement <a href="/web-doxygen/docs/api/classes/useentry/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,7 +71,7 @@ data of an use-statement <a href="/web-doxygen/docs/api/classes/useentry/#detail
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="/web-doxygen/docs/api/classes/usemap/#details">More...</a>
+<p>module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="/web-doxygen/docs/api/classes/usemap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -85,7 +85,7 @@ module name -&gt; list of ONLY/remote entries (module name = name of the module,
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Contains names of used modules and names of local variables. <a href="/web-doxygen/docs/api/classes/scope/#details">More...</a>
+<p>Contains names of used modules and names of local variables. <a href="/web-doxygen/docs/api/classes/scope/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -163,7 +163,7 @@ Contains names of used modules and names of local variables. <a href="/web-doxyg
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-searches for definition of a module (Namespace) <a href="#a504e4bc3498a0866fed7ca24f0b6140c">More...</a>
+<p>searches for definition of a module (Namespace) <a href="#a504e4bc3498a0866fed7ca24f0b6140c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -177,7 +177,7 @@ searches for definition of a module (Namespace) <a href="#a504e4bc3498a0866fed7c
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-searches for definition of a type <a href="#a22ca0992a85719c162c23eb696be6608">More...</a>
+<p>searches for definition of a type <a href="#a22ca0992a85719c162c23eb696be6608">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -308,7 +308,7 @@ searches for definition of a type <a href="#a22ca0992a85719c162c23eb696be6608">M
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-gets the link to a generic procedure which depends not on the name, but on the parameter list <a href="#a2111383c92568a7b28fe96bf69a9f4d2">More...</a>
+<p>gets the link to a generic procedure which depends not on the name, but on the parameter list <a href="#a2111383c92568a7b28fe96bf69a9f4d2">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -374,7 +374,7 @@ gets the link to a generic procedure which depends not on the name, but on the p
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-start scope <a href="#a1eb414a7080ee6bcef950eba00f991b7">More...</a>
+<p>start scope <a href="#a1eb414a7080ee6bcef950eba00f991b7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -388,7 +388,7 @@ start scope <a href="#a1eb414a7080ee6bcef950eba00f991b7">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-end scope <a href="#a239ee1e47d4722402cd650ae2d0cd59f">More...</a>
+<p>end scope <a href="#a239ee1e47d4722402cd650ae2d0cd59f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -428,7 +428,7 @@ end scope <a href="#a239ee1e47d4722402cd650ae2d0cd59f">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-searches for definition of function memberName <a href="#aa3d64c285d12ea68252876251ea0fc2d">More...</a>
+<p>searches for definition of function memberName <a href="#aa3d64c285d12ea68252876251ea0fc2d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -721,7 +721,8 @@ searches for definition of function memberName <a href="#aa3d64c285d12ea68252876
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -763,7 +764,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -781,7 +783,8 @@ Definition at line 1403 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -810,7 +813,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb4
 
 
 
-Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -825,7 +829,8 @@ Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -854,7 +859,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -868,7 +874,8 @@ Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.</p>
+
 </div>
 </div>
 
@@ -897,7 +904,8 @@ Reference <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724
 
 
 
-Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -927,9 +935,11 @@ Definition at line 1417 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab7216957ad8abace8578d47edd8b578d">FortranCodeParser::parseCode</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab7216957ad8abace8578d47edd8b578d">FortranCodeParser::parseCode</a>.</p>
+
 </div>
 </div>
 
@@ -958,7 +968,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#ab721695
 
 
 
-Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1006,7 +1017,8 @@ Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a> and <a href="/web-doxygen/docs/api/classes/definition/#a9d3adad7a22b7ed0ce8903571d370140">Definition::getStartDefLine</a>.</p>
+
 </div>
 </div>
 
@@ -1036,9 +1048,11 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.
+<p>write a code fragment 'text' that may span multiple lines, inserting line numbers for each line.</p>
 
-Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+
+<p>Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1073,7 +1087,8 @@ Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1103,9 +1118,11 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-counts the number of lines in the input
+<p>counts the number of lines in the input</p>
 
-Definition at line 1349 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+
+<p>Definition at line 1349 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1158,7 +1175,8 @@ Definition at line 1349 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1173,7 +1191,8 @@ Definition at line 1012 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.</p>
+
 </div>
 </div>
 
@@ -1202,7 +1221,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 
 
-Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1249,9 +1269,10 @@ Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-end scope
+<p>end scope</p>
 
-Definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1276,7 +1297,8 @@ Definition at line 1378 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a> and <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a> and <a href="/web-doxygen/docs/api/classes/scope/#ae1f8159aa48746bb58e6724ff4a36619">Scope::useNames</a>.</p>
+
 </div>
 </div>
 
@@ -1305,7 +1327,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b
 
 
 
-Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1355,9 +1378,11 @@ Definition at line 1300 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b">ClassDef::Class</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae8ba915e00984129bcbbaa4efff48b00">ClassDef::compoundType</a>, <a href="#a504e4bc3498a0866fed7ca24f0b6140c">getFortranNamespaceDefs</a>, <a href="#a22ca0992a85719c162c23eb696be6608">getFortranTypeDefs</a>, <a href="#a2111383c92568a7b28fe96bf69a9f4d2">getGenericProcedureLink</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a5261cde79065c9b6af97195e43e8073b">ClassDef::Class</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae8ba915e00984129bcbbaa4efff48b00">ClassDef::compoundType</a>, <a href="#a504e4bc3498a0866fed7ca24f0b6140c">getFortranNamespaceDefs</a>, <a href="#a22ca0992a85719c162c23eb696be6608">getFortranTypeDefs</a>, <a href="#a2111383c92568a7b28fe96bf69a9f4d2">getGenericProcedureLink</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#aa48141b866dee2454e4290a3c34d36bb">getLink</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.</p>
 
-Referenced by <a href="#a239f1eec84677be9196b0c6a9179bdd0">generateLink</a> and <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4bee93963b64e37bb6532aad8">FTVHelp::Private::generateTree</a>.
+
+<p>Referenced by <a href="#a239f1eec84677be9196b0c6a9179bdd0">generateLink</a> and <a href="/web-doxygen/docs/api/structs/ftvhelp/private/#a0bed14c4bee93963b64e37bb6532aad8">FTVHelp::Private::generateTree</a>.</p>
+
 </div>
 </div>
 
@@ -1386,7 +1411,8 @@ Referenced by <a href="#a239f1eec84677be9196b0c6a9179bdd0">generateLink</a> and 
 
 
 
-Definition at line 1343 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1343 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1398,7 +1424,8 @@ Definition at line 1343 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
+<p>Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.</p>
+
 </div>
 </div>
 
@@ -1425,7 +1452,7 @@ Reference <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </div>
 <div class="doxyMemberDoc">
 
-searches for definition of function memberName
+<p>searches for definition of function memberName</p>
 
 
 <dl class="doxyParamsList">
@@ -1434,19 +1461,19 @@ searches for definition of function memberName
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">yyscanner</td>
-<td class="doxyParamItemDescription">the scanner data to be used</td>
+<td class="doxyParamItemDescription"><p>the scanner data to be used</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">memberName</td>
-<td class="doxyParamItemDescription">the name of the function/variable</td>
+<td class="doxyParamItemDescription"><p>the name of the function/variable</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">moduleName</td>
-<td class="doxyParamItemDescription">name of enclosing module or null, if global entry</td>
+<td class="doxyParamItemDescription"><p>name of enclosing module or null, if global entry</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useMap</td>
-<td class="doxyParamItemDescription">map of data of USE-statement</td>
+<td class="doxyParamItemDescription"><p>map of data of USE-statement</p></td>
 </tr>
 </table>
 </dd>
@@ -1454,11 +1481,12 @@ searches for definition of function memberName
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd><a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise</dd>
+<dd><p><a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> pointer, if found, or nullptr otherwise</p></dd>
 </dl>
 
 
-Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1551,9 +1579,11 @@ Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/scope/#a5d33523531c274635347daf1d40ddc9a">Scope::externalVars</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6c68c48d8e3dac65c86b39ab838a5f9e">Doxygen::functionNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/scope/#aa482827cfef7e8fc106ac71e3abb1398">Scope::localVars</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#adc3a52f780a8b6a6f0653e357b09af6b">Doxygen::memberNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/useentry/#a68218c0795c329b96c69d1bf3825f6bc">UseEntry::onlyNames</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/scope/#a5d33523531c274635347daf1d40ddc9a">Scope::externalVars</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6c68c48d8e3dac65c86b39ab838a5f9e">Doxygen::functionNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/scope/#aa482827cfef7e8fc106ac71e3abb1398">Scope::localVars</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#adc3a52f780a8b6a6f0653e357b09af6b">Doxygen::memberNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/useentry/#a68218c0795c329b96c69d1bf3825f6bc">UseEntry::onlyNames</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.
+
+<p>Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.</p>
+
 </div>
 </div>
 
@@ -1580,7 +1610,7 @@ Referenced by <a href="#ac240a5eb77b55528937ec68a24cf4f46">getLink</a>.
 </div>
 <div class="doxyMemberDoc">
 
-searches for definition of a module (Namespace)
+<p>searches for definition of a module (Namespace)</p>
 
 
 <dl class="doxyParamsList">
@@ -1589,11 +1619,11 @@ searches for definition of a module (Namespace)
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">mname</td>
-<td class="doxyParamItemDescription">the name of the module</td>
+<td class="doxyParamItemDescription"><p>the name of the module</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">cd</td>
-<td class="doxyParamItemDescription">the entry, if found or null</td>
+<td class="doxyParamItemDescription"><p>the entry, if found or null</p></td>
 </tr>
 </table>
 </dd>
@@ -1601,11 +1631,12 @@ searches for definition of a module (Namespace)
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>true, if module is found</dd>
+<dd><p>true, if module is found</p></dd>
 </dl>
 
 
-Definition at line 1110 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1110 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1623,9 +1654,11 @@ Definition at line 1110 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
+
+<p>Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.</p>
+
 </div>
 </div>
 
@@ -1652,7 +1685,7 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </div>
 <div class="doxyMemberDoc">
 
-searches for definition of a type
+<p>searches for definition of a type</p>
 
 
 <dl class="doxyParamsList">
@@ -1661,19 +1694,19 @@ searches for definition of a type
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tname</td>
-<td class="doxyParamItemDescription">the name of the type</td>
+<td class="doxyParamItemDescription"><p>the name of the type</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">moduleName</td>
-<td class="doxyParamItemDescription">name of enclosing module or null, if global entry</td>
+<td class="doxyParamItemDescription"><p>name of enclosing module or null, if global entry</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">cd</td>
-<td class="doxyParamItemDescription">the entry, if found or null</td>
+<td class="doxyParamItemDescription"><p>the entry, if found or null</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useMap</td>
-<td class="doxyParamItemDescription">map of data of USE-statement</td>
+<td class="doxyParamItemDescription"><p>map of data of USE-statement</p></td>
 </tr>
 </table>
 </dd>
@@ -1681,11 +1714,12 @@ searches for definition of a type
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>true, if type is found</dd>
+<dd><p>true, if type is found</p></dd>
 </dl>
 
 
-Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1725,9 +1759,11 @@ Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
+
+<p>Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.</p>
+
 </div>
 </div>
 
@@ -1754,19 +1790,20 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 </div>
 <div class="doxyMemberDoc">
 
-gets the link to a generic procedure which depends not on the name, but on the parameter list
+<p>gets the link to a generic procedure which depends not on the name, but on the parameter list</p>
 
 
 <div class="doxyXrefSect">
 <dl class="doxyXrefSectList">
 <dt class="doxyXrefSectTitle"><a href=/web-doxygen/docs/api/pages/todo/#_todo000002>Todo</a></dt>
 <dd class="doxyXrefSectDescription">
-implementation
+<p>implementation</p>
 </dd>
 </dl>
 </div>
 
-Definition at line 1260 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1260 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1780,9 +1817,11 @@ Definition at line 1260 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
 
-Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
+
+<p>Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.</p>
+
 </div>
 </div>
 
@@ -1812,7 +1851,8 @@ Referenced by <a href="#adfe5e615942afd900cff9f219424d5a5">generateLink</a>.
 
 
 
-Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1848,7 +1888,8 @@ Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 1267 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1267 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1887,7 +1928,8 @@ Definition at line 1267 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a76adaaa2d342fea73126">addDocCrossReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a63736112eb4c63a80176566049bbea24">addToSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a211386867df5b0f5b03dabbec2c18a6a">writeMultiLineCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -1916,7 +1958,8 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a91959a7c929a
 
 
 
-Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1935,7 +1978,8 @@ Definition at line 1020 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.</p>
+
 </div>
 </div>
 
@@ -1959,7 +2003,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 
 
 
-Definition at line 1440 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1440 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2005,7 +2050,8 @@ Definition at line 1440 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1592 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1592 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2021,7 +2067,8 @@ Definition at line 1592 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -2050,7 +2097,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb
 
 
 
-Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2073,7 +2121,8 @@ Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -2103,9 +2152,11 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is TRUE. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+
+<p>Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2169,7 +2220,8 @@ Definition at line 954 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c0d79b1f0d4433">codeFolding</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c0d79b1f0d4433">codeFolding</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.</p>
+
 </div>
 </div>
 
@@ -2198,7 +2250,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#afce5972b6b52acbb18c
 
 
 
-Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2222,7 +2275,8 @@ Definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.</p>
+
 </div>
 </div>
 
@@ -2249,9 +2303,10 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e4
 </div>
 <div class="doxyMemberDoc">
 
-start scope
+<p>start scope</p>
 
-Definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2265,9 +2320,11 @@ Definition at line 1370 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694dc27b52bd30efe903f9654">findScopeFromQualifiedName</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694dc27b52bd30efe903f9654">findScopeFromQualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -2296,7 +2353,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a8cb9252694d
 
 
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 </div>
 </div>
 
@@ -2326,9 +2384,11 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.
+<p>writes a link to a fragment <em>text</em> that may span multiple lines, inserting line numbers for each line. If <em>text</em> contains newlines, the link will be split into multiple links with the same destination, one for each line.</p>
 
-Definition at line 1067 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+
+<p>Definition at line 1067 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2372,7 +2432,8 @@ Definition at line 1067 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputcodelist/#a4fb20173014b60bceb6f75a621749f73">OutputCodeList::writeCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -2396,7 +2457,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2988,7 +3050,8 @@ Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3038,7 +3101,8 @@ Definition at line 838 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3069,7 +3133,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3100,7 +3165,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3137,7 +3203,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3168,7 +3235,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3199,7 +3267,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3230,7 +3299,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3261,7 +3331,8 @@ Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3292,7 +3363,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3323,7 +3395,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3370,7 +3443,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 </dl>
 </div>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3401,7 +3475,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

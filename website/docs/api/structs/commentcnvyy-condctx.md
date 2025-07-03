@@ -90,7 +90,8 @@ struct commentcnvYY_CondCtx { ... }
 </table>
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -131,7 +133,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-References <a href="#a6788d979220d7bcd5ed1eaf232060e29">lineNr</a>, <a href="#ae1eed597f41d62965e72a0f1a4961d4d">sectionId</a> and <a href="#a4a056399be29b38e047fb83f1d0682fa">skip</a>.
+<p>References <a href="#a6788d979220d7bcd5ed1eaf232060e29">lineNr</a>, <a href="#ae1eed597f41d62965e72a0f1a4961d4d">sectionId</a> and <a href="#a4a056399be29b38e047fb83f1d0682fa">skip</a>.</p>
+
 </div>
 </div>
 
@@ -161,7 +164,8 @@ References <a href="#a6788d979220d7bcd5ed1eaf232060e29">lineNr</a>, <a href="#ae
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -170,7 +174,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY\_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.
+<p>Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.</p>
+
 </div>
 </div>
 
@@ -194,7 +199,8 @@ Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY\_CondCtx
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -203,7 +209,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY\_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.
+<p>Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.</p>
+
 </div>
 </div>
 
@@ -227,7 +234,8 @@ Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY\_CondCtx
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,7 +244,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY\_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a34860cedec3675010f3293403abd9bd3">endCondSection</a>.
+<p>Referenced by <a href="#ad42c4b9beb5777586cad3c3af3977794">commentcnvYY_CondCtx</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a34860cedec3675010f3293403abd9bd3">endCondSection</a>.</p>
+
 </div>
 </div>
 

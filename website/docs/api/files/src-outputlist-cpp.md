@@ -55,7 +55,8 @@ toc_max_heading_level: 4
 
 
 
-This class represents a list of output generators that work in "parallel". The class only knows about the abstract base class OutputGenerators. All output is produced by calling a method of this class, which forwards the call to all output generators.
+<p>This class represents a list of output generators that work in "parallel". The class only knows about the abstract base class OutputGenerators. All output is produced by calling a method of this class, which forwards the call to all output generators.</p>
+
 
 <div class="doxySectionDef">
 
@@ -86,7 +87,8 @@ This class represents a list of output generators that work in "parallel". The c
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/outputlist-cpp">outputlist.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/outputlist-cpp">outputlist.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -95,7 +97,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/outputlist/#a67839ba61ba53161ae6c0ff75029e6ab">OutputList::newId</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/outputlist/#a67839ba61ba53161ae6c0ff75029e6ab">OutputList::newId</a>.</p>
+
 </div>
 </div>
 

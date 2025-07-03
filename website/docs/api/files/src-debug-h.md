@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class containing a print function for diagnostics. <a href="/web-doxygen/docs/api/classes/debug/#details">More...</a>
+<p>Class containing a print function for diagnostics. <a href="/web-doxygen/docs/api/classes/debug/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

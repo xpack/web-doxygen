@@ -77,7 +77,8 @@ struct NavIndexEntry { ... }
 </table>
 
 
-Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 
 
 
-Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-References <a href="#a684ba0c749048aa18f5e29f8ba820d7f">path</a> and <a href="#a27809e7b238b92e5aafafd1a57900111">url</a>.
+<p>References <a href="#a684ba0c749048aa18f5e29f8ba820d7f">path</a> and <a href="#a27809e7b238b92e5aafafd1a57900111">url</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a684ba0c749048aa18f5e29f8ba820d7f">path</a> and <a href="#a
 
 
 
-Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a6f69c51afbef38bb603552fd11cce56a">NavIndexEntry</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a6f69c51afbef38bb603552fd11cce56a">NavIndexEntry</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4e
 
 
 
-Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a6f69c51afbef38bb603552fd11cce56a">NavIndexEntry</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="#a6f69c51afbef38bb603552fd11cce56a">NavIndexEntry</a>.</p>
+
 </div>
 </div>
 

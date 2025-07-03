@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This exception is thrown when parse errors are encountered. <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception/#details">More...</a>
+<p>This exception is thrown when parse errors are encountered. <a href="/web-doxygen/docs/api/classes/vhdl/parser/parseexception/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ This exception is thrown when parse errors are encountered. <a href="/web-doxyge
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The end of line string for this machine. <a href="#a55b81f273444186ad83e1087f9a3706d">More...</a>
+<p>The end of line string for this machine. <a href="#a55b81f273444186ad83e1087f9a3706d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,9 +121,10 @@ The end of line string for this machine. <a href="#a55b81f273444186ad83e1087f9a3
 </div>
 <div class="doxyMemberDoc">
 
-The end of line string for this machine.
+<p>The end of line string for this machine.</p>
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/parseexception-h">ParseException.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -132,7 +133,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/pa
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a90640de61c785c42e3dc3787610b18eb">findTableColumns</a> and <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3712f14d18ec5d547f7c55413abdb9fb">isLinkRef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a90640de61c785c42e3dc3787610b18eb">findTableColumns</a> and <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3712f14d18ec5d547f7c55413abdb9fb">isLinkRef</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ResourceMgr` Class Reference
 
-Singleton for managing resources compiled into an executable. <a href="#details">More...</a>
+<p>Singleton for managing resources compiled into an executable. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ class ResourceMgr { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Registers an array of resources. <a href="#af1f39af9986eadf7af87bdc52e607f0e">More...</a>
+<p>Registers an array of resources. <a href="#af1f39af9986eadf7af87bdc52e607f0e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ Registers an array of resources. <a href="#af1f39af9986eadf7af87bdc52e607f0e">Mo
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes all resource belonging to a given category to a given target directory. <a href="#a64d65000b297d313a09e4c1cca1f17e0">More...</a>
+<p>Writes all resource belonging to a given category to a given target directory. <a href="#a64d65000b297d313a09e4c1cca1f17e0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ Writes all resource belonging to a given category to a given target directory. <
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Copies a registered resource to a given target directory. <a href="#a32b8297da656a43a255a3a1b27c210b9">More...</a>
+<p>Copies a registered resource to a given target directory. <a href="#a32b8297da656a43a255a3a1b27c210b9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,7 @@ Copies a registered resource to a given target directory. <a href="#a32b8297da65
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Copies a registered resource to a given target directory under a given target name. <a href="#ad396917a059d354b1ff240b9af3a006c">More...</a>
+<p>Copies a registered resource to a given target directory under a given target name. <a href="#ad396917a059d354b1ff240b9af3a006c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,7 +135,7 @@ Copies a registered resource to a given target directory under a given target na
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Gets the resource data as a C string. <a href="#aa60ef164e79a11cfa31de29221db11aa">More...</a>
+<p>Gets the resource data as a C string. <a href="#aa60ef164e79a11cfa31de29221db11aa">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -155,7 +155,7 @@ Gets the resource data as a C string. <a href="#aa60ef164e79a11cfa31de29221db11a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a pointer to the resource object with the given name. <a href="#a2bc16163bd7e09f324093b641113b077">More...</a>
+<p>Returns a pointer to the resource object with the given name. <a href="#a2bc16163bd7e09f324093b641113b077">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -194,7 +194,7 @@ Returns a pointer to the resource object with the given name. <a href="#a2bc1616
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the one and only instance of this class. <a href="#a02fb3176893696eaf659d680c8b08064">More...</a>
+<p>Returns the one and only instance of this class. <a href="#a02fb3176893696eaf659d680c8b08064">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -205,9 +205,10 @@ Returns the one and only instance of this class. <a href="#a02fb3176893696eaf659
 
 ## Description {#details}
 
-Singleton for managing resources compiled into an executable.
+<p>Singleton for managing resources compiled into an executable.</p>
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -233,7 +234,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -244,9 +246,11 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.
+<p>Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.</p>
 
-Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.
+
+<p>Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.</p>
+
 </div>
 </div>
 
@@ -276,7 +280,8 @@ Referenced by <a href="#a02fb3176893696eaf659d680c8b08064">instance</a>.
 
 
 
-Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -313,9 +318,10 @@ Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 <div class="doxyMemberDoc">
 
-Copies a registered resource to a given target directory.
+<p>Copies a registered resource to a given target directory.</p>
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -327,9 +333,11 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-Reference <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a>.
+<p>Reference <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a7306ef9abbceafd6074b4d883a59f033">HtmlGenerator::writeTabData</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a7306ef9abbceafd6074b4d883a59f033">HtmlGenerator::writeTabData</a>.</p>
+
 </div>
 </div>
 
@@ -351,9 +359,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 </div>
 <div class="doxyMemberDoc">
 
-Copies a registered resource to a given target directory under a given target name.
+<p>Copies a registered resource to a given target directory under a given target name.</p>
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -403,9 +412,11 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/resource/#ac5775d3448fb9ed16c0ec90dbed87a71">Resource::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af10f5e35396e550af824e3029bab8dd4">replaceColorMarkers</a>, <a href="/web-doxygen/docs/api/structs/resource/#a0f8739be95e0d934239663ea7551060b">Resource::size</a>, <a href="/web-doxygen/docs/api/structs/resource/#abde5e686869a8c7241557d18033b382eabb7175dffd36169ed5e9dedf6e508bdf">Resource::SVG</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/resource/#ae73282ad08d3c990c8a0ff353e231ab3">Resource::type</a> and <a href="/web-doxygen/docs/api/structs/resource/#abde5e686869a8c7241557d18033b382eaf197aa4cab57b5ab94f906de74015e27">Resource::Verbatim</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/resource/#ac5775d3448fb9ed16c0ec90dbed87a71">Resource::data</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af10f5e35396e550af824e3029bab8dd4">replaceColorMarkers</a>, <a href="/web-doxygen/docs/api/structs/resource/#a0f8739be95e0d934239663ea7551060b">Resource::size</a>, <a href="/web-doxygen/docs/api/structs/resource/#abde5e686869a8c7241557d18033b382eabb7175dffd36169ed5e9dedf6e508bdf">Resource::SVG</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/resource/#ae73282ad08d3c990c8a0ff353e231ab3">Resource::type</a> and <a href="/web-doxygen/docs/api/structs/resource/#abde5e686869a8c7241557d18033b382eaf197aa4cab57b5ab94f906de74015e27">Resource::Verbatim</a>.</p>
 
-Referenced by <a href="#a32b8297da656a43a255a3a1b27c210b9">copyResource</a>.
+
+<p>Referenced by <a href="#a32b8297da656a43a255a3a1b27c210b9">copyResource</a>.</p>
+
 </div>
 </div>
 
@@ -427,9 +438,10 @@ Referenced by <a href="#a32b8297da656a43a255a3a1b27c210b9">copyResource</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Gets the resource data as a C string.
+<p>Gets the resource data as a C string.</p>
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -451,9 +463,11 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/resource/#ac5775d3448fb9ed16c0ec90dbed87a71">Resource::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a> and <a href="/web-doxygen/docs/api/structs/resource/#a0f8739be95e0d934239663ea7551060b">Resource::size</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/resource/#ac5775d3448fb9ed16c0ec90dbed87a71">Resource::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aac487a6223e056bcf37b9c7c0f993e30ac1748698805fbe34841ed03d0be6a647">QCString::ExplicitSize</a>, <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a5f5c9dc172d638c8d7b07010d100117a">QCString::rawData</a> and <a href="/web-doxygen/docs/api/structs/resource/#a0f8739be95e0d934239663ea7551060b">Resource::size</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df852dc8a34fd6e84668dff">fillColorStyleMaps</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a3874b75d86f996ce7d7ca32bea785c56">HtmlGenerator::getNavTreeCss</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a>, <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a8ccb483586d18bd75a15720be22f90cb">writeDefaultLayoutFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6c1132096e93e030970694a61ea6c65f">HtmlGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a541f0867d38638ee1d3c7611e3d04029">LatexGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ab00e0c98e1c833ae27198d1e10c9c22e">HtmlGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ada1c307f5625a7d4b90fc3e1b9ce4da5">LatexGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae8f3ee4ac698d6d86e7dcaeebfe04fc9">LatexGenerator::writeStyleInfo</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df852dc8a34fd6e84668dff">fillColorStyleMaps</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a3874b75d86f996ce7d7ca32bea785c56">HtmlGenerator::getNavTreeCss</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a>, <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a8ccb483586d18bd75a15720be22f90cb">writeDefaultLayoutFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6c1132096e93e030970694a61ea6c65f">HtmlGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a541f0867d38638ee1d3c7611e3d04029">LatexGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ab00e0c98e1c833ae27198d1e10c9c22e">HtmlGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ada1c307f5625a7d4b90fc3e1b9ce4da5">LatexGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae8f3ee4ac698d6d86e7dcaeebfe04fc9">LatexGenerator::writeStyleInfo</a>.</p>
+
 </div>
 </div>
 
@@ -475,9 +489,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df
 </div>
 <div class="doxyMemberDoc">
 
-Registers an array of resources.
+<p>Registers an array of resources.</p>
 
-Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -492,7 +507,8 @@ Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.
+<p>Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.</p>
+
 </div>
 </div>
 
@@ -514,9 +530,10 @@ Reference <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Writes all resource belonging to a given category to a given target directory.
+<p>Writes all resource belonging to a given category to a given target directory.</p>
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -547,7 +564,8 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -575,9 +593,10 @@ References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860
 </div>
 <div class="doxyMemberDoc">
 
-Returns a pointer to the resource object with the given name.
+<p>Returns a pointer to the resource object with the given name.</p>
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -591,9 +610,11 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-References <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#aeef2c9c2c3f080afd3ec70e6084b0af8">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a> and <a href="#aa60ef164e79a11cfa31de29221db11aa">getAsString</a>.
+
+<p>Referenced by <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a> and <a href="#aa60ef164e79a11cfa31de29221db11aa">getAsString</a>.</p>
+
 </div>
 </div>
 
@@ -623,7 +644,8 @@ Referenced by <a href="#ad396917a059d354b1ff240b9af3a006c">copyResourceAs</a> an
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -632,7 +654,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 </div>
 
 
-Referenced by <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="#af1f39af9986eadf7af87bdc52e607f0e">registerResources</a>, <a href="#add6ae734009ee107cd2b644fe6fbb39a">ResourceMgr</a> and <a href="#a64d65000b297d313a09e4c1cca1f17e0">writeCategory</a>.
+<p>Referenced by <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="#af1f39af9986eadf7af87bdc52e607f0e">registerResources</a>, <a href="#add6ae734009ee107cd2b644fe6fbb39a">ResourceMgr</a> and <a href="#a64d65000b297d313a09e4c1cca1f17e0">writeCategory</a>.</p>
+
 </div>
 </div>
 
@@ -665,9 +688,10 @@ Referenced by <a href="#a2bc16163bd7e09f324093b641113b077">get</a>, <a href="#af
 </div>
 <div class="doxyMemberDoc">
 
-Returns the one and only instance of this class.
+<p>Returns the one and only instance of this class.</p>
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-cpp">resourcemgr.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -680,9 +704,11 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/resource
 </div>
 
 
-Reference <a href="#add6ae734009ee107cd2b644fe6fbb39a">ResourceMgr</a>.
+<p>Reference <a href="#add6ae734009ee107cd2b644fe6fbb39a">ResourceMgr</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df852dc8a34fd6e84668dff">fillColorStyleMaps</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a3874b75d86f996ce7d7ca32bea785c56">HtmlGenerator::getNavTreeCss</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a>, <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a8ccb483586d18bd75a15720be22f90cb">writeDefaultLayoutFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6c1132096e93e030970694a61ea6c65f">HtmlGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a541f0867d38638ee1d3c7611e3d04029">LatexGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ab00e0c98e1c833ae27198d1e10c9c22e">HtmlGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ada1c307f5625a7d4b90fc3e1b9ce4da5">LatexGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae8f3ee4ac698d6d86e7dcaeebfe04fc9">LatexGenerator::writeStyleInfo</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a7306ef9abbceafd6074b4d883a59f033">HtmlGenerator::writeTabData</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac082e13d5df852dc8a34fd6e84668dff">fillColorStyleMaps</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a3874b75d86f996ce7d7ca32bea785c56">HtmlGenerator::getNavTreeCss</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#af9a70007c56adecf1af4b4c29591e423">LatexGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#a920748477d4262faf758d21ddbe2329d">LayoutDocManager::init</a>, <a href="/web-doxygen/docs/api/files/src/layout-cpp/#a8ccb483586d18bd75a15720be22f90cb">writeDefaultLayoutFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ac7339dc7ff25bcb7a9fbea1d671a16da">writeDefaultStyleSheet</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6c1132096e93e030970694a61ea6c65f">HtmlGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a541f0867d38638ee1d3c7611e3d04029">LatexGenerator::writeFooterFile</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ab00e0c98e1c833ae27198d1e10c9c22e">HtmlGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ada1c307f5625a7d4b90fc3e1b9ce4da5">LatexGenerator::writeHeaderFile</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#ae8f3ee4ac698d6d86e7dcaeebfe04fc9">LatexGenerator::writeStyleInfo</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a7306ef9abbceafd6074b4d883a59f033">HtmlGenerator::writeTabData</a>.</p>
+
 </div>
 </div>
 

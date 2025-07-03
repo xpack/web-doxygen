@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `BodyInfo` Struct Reference
 
-Data associated with description found in the body. <a href="#details">More...</a>
+<p>Data associated with description found in the body. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ struct BodyInfo { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-line number of the start of the definition <a href="#af49dee4a07f48964799b97526d4375f0">More...</a>
+<p>line number of the start of the definition <a href="#af49dee4a07f48964799b97526d4375f0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ line number of the start of the definition <a href="#af49dee4a07f48964799b97526d
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-line number of the start of the definition's body <a href="#a13ecf2183dee65bdf06cda72cd0363a0">More...</a>
+<p>line number of the start of the definition's body <a href="#a13ecf2183dee65bdf06cda72cd0363a0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ line number of the start of the definition's body <a href="#a13ecf2183dee65bdf06
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-line number of the end of the definition's body <a href="#adf40ab79b5fe12c0e46fcd272a62cf44">More...</a>
+<p>line number of the end of the definition's body <a href="#adf40ab79b5fe12c0e46fcd272a62cf44">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -83,7 +83,7 @@ line number of the end of the definition's body <a href="#adf40ab79b5fe12c0e46fc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-file definition containing the function body <a href="#ad0cfb0ee5215fb51b814d1a610ff15c4">More...</a>
+<p>file definition containing the function body <a href="#ad0cfb0ee5215fb51b814d1a610ff15c4">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,9 +94,10 @@ file definition containing the function body <a href="#ad0cfb0ee5215fb51b814d1a6
 
 ## Description {#details}
 
-Data associated with description found in the body.
+<p>Data associated with description found in the body.</p>
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -120,9 +121,10 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 <div class="doxyMemberDoc">
 
-line number of the start of the definition
+<p>line number of the start of the definition</p>
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -131,7 +133,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.</p>
+
 </div>
 </div>
 
@@ -153,9 +156,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477
 </div>
 <div class="doxyMemberDoc">
 
-line number of the end of the definition's body
+<p>line number of the end of the definition's body</p>
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,7 +168,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.</p>
+
 </div>
 </div>
 
@@ -186,9 +191,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477
 </div>
 <div class="doxyMemberDoc">
 
-file definition containing the function body
+<p>file definition containing the function body</p>
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -217,9 +223,10 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 <div class="doxyMemberDoc">
 
-line number of the start of the definition's body
+<p>line number of the start of the definition's body</p>
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/definition-h">definition.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -228,7 +235,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a06acdab477ab34e9350220bece9f49f5">DefinitionImpl::setBodySegment</a>.</p>
+
 </div>
 </div>
 

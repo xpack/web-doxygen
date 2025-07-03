@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DirList` Class Reference
 
-A list of directories. <a href="#details">More...</a>
+<p>A list of directories. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -46,9 +46,10 @@ class DirList { ... }
 
 ## Description {#details}
 
-A list of directories.
+<p>A list of directories.</p>
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 
 <hr/>
 

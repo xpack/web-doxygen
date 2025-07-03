@@ -245,7 +245,8 @@ struct vhdl::parser::VhdlParser::SharedState { ... }
 </table>
 
 
-Definition at line 11174 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11174 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -271,7 +272,8 @@ Definition at line 11174 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11181 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11181 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -302,7 +304,8 @@ Definition at line 11181 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11184 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11184 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -333,7 +336,8 @@ Definition at line 11184 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11180 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11180 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -342,7 +346,8 @@ Definition at line 11180 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a3df5816f7dcd092e39a99ebaf9b983cf">VHDLOutlineParser::handleCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a3df5816f7dcd092e39a99ebaf9b983cf">VHDLOutlineParser::handleCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -366,7 +371,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 
 
 
-Definition at line 11176 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11176 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -375,7 +381,8 @@ Definition at line 11176 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab3687656c1045cb4c1c5177bbab2c83e">VHDLOutlineParser::checkMultiComment</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab3687656c1045cb4c1c5177bbab2c83e">VHDLOutlineParser::checkMultiComment</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -399,7 +406,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 
 
 
-Definition at line 11182 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11182 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -430,7 +438,8 @@ Definition at line 11182 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11189 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11189 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -439,7 +448,8 @@ Definition at line 11189 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f90b85f9a369604444f3a6e203">VHDLOutlineParser::createFlow</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#aabc6c0e6b285c280ffa531cace06e2e4">VHDLOutlineParser::isFuncProcProced</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f90b85f9a369604444f3a6e203">VHDLOutlineParser::createFlow</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#aabc6c0e6b285c280ffa531cace06e2e4">VHDLOutlineParser::isFuncProcProced</a>.</p>
+
 </div>
 </div>
 
@@ -463,7 +473,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f
 
 
 
-Definition at line 11191 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11191 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -494,7 +505,8 @@ Definition at line 11191 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11185 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11185 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -503,7 +515,8 @@ Definition at line 11185 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>.</p>
+
 </div>
 </div>
 
@@ -527,7 +540,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 
 
 
-Definition at line 11190 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11190 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -558,7 +572,8 @@ Definition at line 11190 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11186 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11186 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -589,7 +604,8 @@ Definition at line 11186 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11179 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11179 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -598,7 +614,8 @@ Definition at line 11179 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b2256102ea5cba0023d0ccdeca3b">VHDLOutlineParser::addCompInst</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -622,7 +639,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab277b22
 
 
 
-Definition at line 11178 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11178 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -631,7 +649,8 @@ Definition at line 11178 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453a7fdcb15b665135112de6ff06">VHDLOutlineParser::checkInlineCode</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a8e2731ccb031a7e2914e7583cc7bdff9">VHDLOutlineParser::newEntry</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ad6df9d0420902e8579fb9dbbfa5c1a90">VHDLOutlineParser::parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -655,7 +674,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a18ea453
 
 
 
-Definition at line 11183 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11183 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -686,7 +706,8 @@ Definition at line 11183 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 
 
 
-Definition at line 11187 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11187 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -695,7 +716,8 @@ Definition at line 11187 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>.</p>
+
 </div>
 </div>
 
@@ -719,7 +741,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 
 
 
-Definition at line 11188 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11188 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -728,7 +751,8 @@ Definition at line 11188 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc3387c6e7495a02620cd1c1efe">VHDLOutlineParser::addProto</a>, <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#a591d0ef44da80f3a2f87515755126295">VHDLOutlineParser::addVhdlType</a> and <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ae05c8d947347501c75f04b3b3cae49ab">VHDLOutlineParser::createFunction</a>.</p>
+
 </div>
 </div>
 
@@ -752,7 +776,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#af2d13dc
 
 
 
-Definition at line 11177 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.
+<p>Definition at line 11177 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparser-h">VhdlParser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -761,7 +786,8 @@ Definition at line 11177 of file <a href="/web-doxygen/docs/api/files/vhdlparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f90b85f9a369604444f3a6e203">VHDLOutlineParser::createFlow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#ab36fc7f90b85f9a369604444f3a6e203">VHDLOutlineParser::createFlow</a>.</p>
+
 </div>
 </div>
 

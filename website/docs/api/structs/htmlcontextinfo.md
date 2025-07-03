@@ -77,7 +77,8 @@ struct HtmlContextInfo { ... }
 </table>
 
 
-Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 445 of file <a href="/web-doxygen/docs/api/files/src/comments
 
 
 
-Definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-References <a href="#a464bcdefddac0c82f9a0afeec032b950">context</a> and <a href="#aeff3d1e49d385611398b21bc7f83d492">tagName</a>.
+<p>References <a href="#a464bcdefddac0c82f9a0afeec032b950">context</a> and <a href="#aeff3d1e49d385611398b21bc7f83d492">tagName</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a464bcdefddac0c82f9a0afeec032b950">context</a> and <a href=
 
 
 
-Definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 449 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.
+<p>Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.
 
 
 
-Definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 448 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.
+<p>Referenced by <a href="#a49f3c3db4477f447c75f4b53d573c235">HtmlContextInfo</a>.</p>
+
 </div>
 </div>
 

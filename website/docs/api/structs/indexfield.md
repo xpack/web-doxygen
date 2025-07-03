@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IndexField` Struct Reference
 
-Class representing a field in the HTML help index. <a href="#details">More...</a>
+<p>Class representing a field in the HTML help index. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -130,9 +130,10 @@ struct IndexField { ... }
 
 ## Description {#details}
 
-Class representing a field in the HTML help index.
+<p>Class representing a field in the HTML help index.</p>
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -163,7 +164,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -173,7 +175,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="#a9de1890d236dd42b05b310638cfeda4b">anchor</a>, <a href="#ae6ccf4cf1398132eb54cb5a3a7b5e5d2">key</a>, <a href="#ace714325ef33d35456d4ccbf5dcf227f">link</a>, <a href="#af14ea53249ef3c89f95628f395dd4b99">name</a>, <a href="#a9cc482f75f35d70933dad31551f31b45">reversed</a> and <a href="#acc522969a4da3f635cce4bf571fdc9a0">url</a>.
+<p>References <a href="#a9de1890d236dd42b05b310638cfeda4b">anchor</a>, <a href="#ae6ccf4cf1398132eb54cb5a3a7b5e5d2">key</a>, <a href="#ace714325ef33d35456d4ccbf5dcf227f">link</a>, <a href="#af14ea53249ef3c89f95628f395dd4b99">name</a>, <a href="#a9cc482f75f35d70933dad31551f31b45">reversed</a> and <a href="#acc522969a4da3f635cce4bf571fdc9a0">url</a>.</p>
+
 </div>
 </div>
 
@@ -203,7 +206,8 @@ References <a href="#a9de1890d236dd42b05b310638cfeda4b">anchor</a>, <a href="#ae
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -212,7 +216,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 
@@ -236,7 +241,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +251,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 
@@ -269,7 +276,8 @@ Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -278,7 +286,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 
@@ -302,7 +311,8 @@ Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -311,7 +321,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 
@@ -335,7 +346,8 @@ Referenced by <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -344,7 +356,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 
@@ -368,7 +381,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -377,7 +391,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a> and <a href="#ad7e44b599f022ca1d9b856224b1d9170">IndexField</a>.</p>
+
 </div>
 </div>
 

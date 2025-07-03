@@ -36,7 +36,7 @@ struct fortrancodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-contents of all lines of a documentation block <a href="#a5ea568b1ad20becd775b0c57fdaa7bb5">More...</a>
+<p>contents of all lines of a documentation block <a href="#a5ea568b1ad20becd775b0c57fdaa7bb5">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ contents of all lines of a documentation block <a href="#a5ea568b1ad20becd775b0c
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-name of the current enclosing module <a href="#ad190f1f73ea2116bae815c70896656fc">More...</a>
+<p>name of the current enclosing module <a href="#ad190f1f73ea2116bae815c70896656fc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ name of the current enclosing module <a href="#ad190f1f73ea2116bae815c70896656fc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-info about used modules <a href="#adc252d3030c61fea1daaf2ba96c4e33c">More...</a>
+<p>info about used modules <a href="#adc252d3030c61fea1daaf2ba96c4e33c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ info about used modules <a href="#adc252d3030c61fea1daaf2ba96c4e33c">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-current use statement info <a href="#ab29317985a6bd77265a3e5d7807247f0">More...</a>
+<p>current use statement info <a href="#ab29317985a6bd77265a3e5d7807247f0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -118,7 +118,7 @@ current use statement info <a href="#ab29317985a6bd77265a3e5d7807247f0">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-contents of fortran string <a href="#a7bec4dadcda56a29718cd762f0a7b75a">More...</a>
+<p>contents of fortran string <a href="#a7bec4dadcda56a29718cd762f0a7b75a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -145,7 +145,7 @@ contents of fortran string <a href="#a7bec4dadcda56a29718cd762f0a7b75a">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-the code fragment as text <a href="#af664477d5fe0a69e5b0679e4894c81c1">More...</a>
+<p>the code fragment as text <a href="#af664477d5fe0a69e5b0679e4894c81c1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -159,7 +159,7 @@ the code fragment as text <a href="#af664477d5fe0a69e5b0679e4894c81c1">More...</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-read offset during parsing <a href="#a5f2612ba9198b1f035b502d11a6b9673">More...</a>
+<p>read offset during parsing <a href="#a5f2612ba9198b1f035b502d11a6b9673">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -173,7 +173,7 @@ read offset during parsing <a href="#a5f2612ba9198b1f035b502d11a6b9673">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-number of line in the code fragment <a href="#af6b7ff4223f041b5d8a549d1648b489a">More...</a>
+<p>number of line in the code fragment <a href="#af6b7ff4223f041b5d8a549d1648b489a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -200,7 +200,7 @@ number of line in the code fragment <a href="#af6b7ff4223f041b5d8a549d1648b489a"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-current line number <a href="#ad41aeecc6b3529138a35105e53e46723">More...</a>
+<p>current line number <a href="#ad41aeecc6b3529138a35105e53e46723">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -214,7 +214,7 @@ current line number <a href="#ad41aeecc6b3529138a35105e53e46723">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-current, local, line number for continuation determination <a href="#a4b73c7e7fb9706c888a0cedc0974092f">More...</a>
+<p>current, local, line number for continuation determination <a href="#a4b73c7e7fb9706c888a0cedc0974092f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -228,7 +228,7 @@ current, local, line number for continuation determination <a href="#a4b73c7e7fb
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-signals whether or not a line has a continuation line (fixed source form) <a href="#a3c3573d68d1053adaca84a6bd1f952ff">More...</a>
+<p>signals whether or not a line has a continuation line (fixed source form) <a href="#a3c3573d68d1053adaca84a6bd1f952ff">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -294,7 +294,7 @@ signals whether or not a line has a continuation line (fixed source form) <a hre
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-inside subprog/program body? =&gt; create links <a href="#a4ac136215332ce590ad6b0c393c425e6">More...</a>
+<p>inside subprog/program body? =&gt; create links <a href="#a4ac136215332ce590ad6b0c393c425e6">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -525,7 +525,8 @@ inside subprog/program body? =&gt; create links <a href="#a4ac136215332ce590ad6b
 </table>
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -551,7 +552,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -582,7 +584,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -613,7 +616,8 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -642,9 +646,10 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-current, local, line number for continuation determination
+<p>current, local, line number for continuation determination</p>
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -675,7 +680,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -706,7 +712,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -737,7 +744,8 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -766,9 +774,10 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-name of the current enclosing module
+<p>name of the current enclosing module</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -797,9 +806,10 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-contents of all lines of a documentation block
+<p>contents of all lines of a documentation block</p>
 
-Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -830,7 +840,8 @@ Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -861,7 +872,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -892,7 +904,8 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -923,7 +936,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -954,7 +968,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -985,7 +1000,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1016,7 +1032,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1047,7 +1064,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1076,9 +1094,10 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-signals whether or not a line has a continuation line (fixed source form)
+<p>signals whether or not a line has a continuation line (fixed source form)</p>
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1109,7 +1128,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1138,9 +1158,10 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-number of line in the code fragment
+<p>number of line in the code fragment</p>
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1169,9 +1190,10 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-read offset during parsing
+<p>read offset during parsing</p>
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1200,9 +1222,10 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-the code fragment as text
+<p>the code fragment as text</p>
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1231,9 +1254,10 @@ Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-inside subprog/program body? =&gt; create links
+<p>inside subprog/program body? =&gt; create links</p>
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1264,7 +1288,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1295,7 +1320,8 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1326,7 +1352,8 @@ Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1357,7 +1384,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1388,7 +1416,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1419,7 +1448,8 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1450,7 +1480,8 @@ Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1481,7 +1512,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1510,9 +1542,10 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-contents of fortran string
+<p>contents of fortran string</p>
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1543,7 +1576,8 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1574,7 +1608,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1603,9 +1638,10 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-current use statement info
+<p>current use statement info</p>
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1634,9 +1670,10 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-info about used modules
+<p>info about used modules</p>
 
-Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1665,9 +1702,10 @@ Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-current line number
+<p>current line number</p>
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

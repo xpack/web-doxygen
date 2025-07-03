@@ -64,7 +64,8 @@ struct GrowVector::Chunk { ... }
 </table>
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -104,7 +106,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growvector/#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#ac711f4677ddddab022434d8a7cd3c75b">GrowVector&lt; T &gt;::Chunk::data</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growvector/#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#ac711f4677ddddab022434d8a7cd3c75b">GrowVector&lt; T &gt;::Chunk::data</a>.</p>
+
 </div>
 </div>
 
@@ -134,7 +137,8 @@ References <a href="/web-doxygen/docs/api/classes/growvector/#a47759ca4db6dd81e3
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -143,7 +147,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Referenced by <a href="#a7920149181815d91225b896d6a9cd9d5">GrowVector&lt; T &gt;::Chunk::Chunk</a>.
+<p>Referenced by <a href="#a7920149181815d91225b896d6a9cd9d5">GrowVector&lt; T &gt;::Chunk::Chunk</a>.</p>
+
 </div>
 </div>
 

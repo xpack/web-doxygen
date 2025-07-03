@@ -122,7 +122,8 @@ class PerlModOutputStream { ... }
 </table>
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -153,7 +154,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -162,7 +164,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
+<p>Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -192,7 +195,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -204,7 +208,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
+<p>Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -228,7 +233,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -240,7 +246,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
+<p>Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -264,7 +271,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -276,7 +284,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
+<p>Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -300,7 +309,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -312,7 +322,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
+<p>Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -342,7 +353,8 @@ Reference <a href="#a8b547a3ef08a494ca5458a0b253d2063">m\_t</a>.
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -351,7 +363,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/perlmodge
 </div>
 
 
-Referenced by <a href="#a6970acf3298a0e408427b54d1b876cd5">add</a>, <a href="#a58ae1e773cc6d9b6886782490cb21c2f">add</a>, <a href="#ab7ddab3bb38de8bf835a62895a792ff8">add</a>, <a href="#aad5e9dc80caeb48eb84de1a1ef190136">add</a> and <a href="#ab290df62c2fd6dafe78bbfcf32e7a51a">PerlModOutputStream</a>.
+<p>Referenced by <a href="#a6970acf3298a0e408427b54d1b876cd5">add</a>, <a href="#a58ae1e773cc6d9b6886782490cb21c2f">add</a>, <a href="#ab7ddab3bb38de8bf835a62895a792ff8">add</a>, <a href="#aad5e9dc80caeb48eb84de1a1ef190136">add</a> and <a href="#ab290df62c2fd6dafe78bbfcf32e7a51a">PerlModOutputStream</a>.</p>
+
 </div>
 </div>
 

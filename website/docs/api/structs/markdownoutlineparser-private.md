@@ -45,7 +45,8 @@ struct MarkdownOutlineParser::Private { ... }
 </table>
 
 
-Definition at line 3616 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 3616 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 3616 of file <a href="/web-doxygen/docs/api/files/src/markdow
 
 
 
-Definition at line 3618 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 3618 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

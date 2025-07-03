@@ -669,7 +669,8 @@ struct pyscannerYY_state { ... }
 </table>
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -695,7 +696,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -726,7 +728,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -757,7 +760,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -788,7 +792,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -819,7 +824,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -850,7 +856,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -881,7 +888,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -912,7 +920,8 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -943,7 +952,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -974,7 +984,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1005,7 +1016,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1036,7 +1048,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1067,7 +1080,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1098,7 +1112,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1129,7 +1144,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1160,7 +1176,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1191,7 +1208,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1222,7 +1240,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1253,7 +1272,8 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1284,7 +1304,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1315,7 +1336,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1346,7 +1368,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1377,7 +1400,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1432,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1439,7 +1464,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1470,7 +1496,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1501,7 +1528,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1532,7 +1560,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1563,7 +1592,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1594,7 +1624,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1625,7 +1656,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1656,7 +1688,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1687,7 +1720,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1718,7 +1752,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1749,7 +1784,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1780,7 +1816,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1811,7 +1848,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1842,7 +1880,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1873,7 +1912,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1904,7 +1944,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1935,7 +1976,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1966,7 +2008,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1997,7 +2040,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2028,7 +2072,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2059,7 +2104,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2090,7 +2136,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2121,7 +2168,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2152,7 +2200,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2183,7 +2232,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

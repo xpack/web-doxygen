@@ -79,7 +79,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-cpp">dotclassgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -108,9 +109,11 @@ Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dotclass
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotclassgraph/#acda218b5772f482d137ab17020b96431">DotClassGraph::buildGraph</a>.</p>
+
 </div>
 </div>
 

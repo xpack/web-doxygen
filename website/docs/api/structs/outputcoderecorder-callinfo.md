@@ -122,7 +122,8 @@ struct OutputCodeRecorder::CallInfo { ... }
 </table>
 
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -148,7 +149,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/outputli
 
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -179,7 +181,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/outputli
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -221,7 +224,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/outputli
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -231,7 +235,8 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#ae8db15f2928e88b8bffc3dbaa4bacb5a">condition</a>, <a href="#a28185bcfa3f04ba1f21914c72b3356ca">function</a> and <a href="#a85c26ccca6c7d66e2558538af7abaf92">insideSpecialComment</a>.
+<p>References <a href="#ae8db15f2928e88b8bffc3dbaa4bacb5a">condition</a>, <a href="#a28185bcfa3f04ba1f21914c72b3356ca">function</a> and <a href="#a85c26ccca6c7d66e2558538af7abaf92">insideSpecialComment</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +266,8 @@ References <a href="#ae8db15f2928e88b8bffc3dbaa4bacb5a">condition</a>, <a href="
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -270,7 +276,8 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.
+<p>Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.</p>
+
 </div>
 </div>
 
@@ -294,7 +301,8 @@ Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.
 
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -303,7 +311,8 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.
+<p>Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.</p>
+
 </div>
 </div>
 
@@ -327,7 +336,8 @@ Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.
 
 
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -336,7 +346,8 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.
+<p>Referenced by <a href="#a07bb1463acc12b8408d7416e0849d10c">CallInfo</a>.</p>
+
 </div>
 </div>
 

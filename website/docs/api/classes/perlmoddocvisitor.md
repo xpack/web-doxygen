@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `PerlModDocVisitor` Class Reference
 
-Concrete visitor implementation for PerlMod output. <a href="#details">More...</a>
+<p>Concrete visitor implementation for PerlMod output. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class PerlModDocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper base class for functionality shared by all visitors. <a href="/web-doxygen/docs/api/classes/docvisitor/#details">More...</a>
+<p>Helper base class for functionality shared by all visitors. <a href="/web-doxygen/docs/api/classes/docvisitor/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1029,9 +1029,10 @@ Helper base class for functionality shared by all visitors. <a href="/web-doxyge
 
 ## Description {#details}
 
-Concrete visitor implementation for PerlMod output.
+<p>Concrete visitor implementation for PerlMod output.</p>
 
-Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -1057,7 +1058,8 @@ Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 
 
 
-Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1070,7 +1072,8 @@ Definition at line 274 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m\_textblockstart</a> and <a href="#a8b16465388385f7e687b8d4516cc6139">m\_textmode</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m_textblockstart</a> and <a href="#a8b16465388385f7e687b8d4516cc6139">m_textmode</a>.</p>
+
 </div>
 </div>
 
@@ -1100,7 +1103,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1113,7 +1117,8 @@ Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.
+<p>References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1137,7 +1142,8 @@ References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="
 
 
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1152,7 +1158,8 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#aa660e6600aa99dc591e1c7cc915f6d7c">DocLinkedWord::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a87a6514222a5dc65f0fe4420c916d3be">DocLinkedWord::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a956ecf12c5e819f4cb3d1d742e0779c2">DocLinkedWord::ref</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.
+<p>References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#aa660e6600aa99dc591e1c7cc915f6d7c">DocLinkedWord::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a87a6514222a5dc65f0fe4420c916d3be">DocLinkedWord::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a956ecf12c5e819f4cb3d1d742e0779c2">DocLinkedWord::ref</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1176,7 +1183,8 @@ References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/w
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1189,7 +1197,8 @@ Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
+
 </div>
 </div>
 
@@ -1213,7 +1222,8 @@ References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a> and <a hre
 
 
 
-Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1290,7 +1300,8 @@ Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a56d4e0e2e83a943ea25985c0792f71b0">HtmlEntityMapper::perl</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3afedd610e97f6262280751ca949693d82">HtmlEntityMapper::Perl\_acute</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a2559915a1e26ef534de86d474925e6ed">HtmlEntityMapper::Perl\_cedilla</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3ad04402fe2918b7724f6516397fa0d1a3">HtmlEntityMapper::Perl\_char</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a20f5cf2207ec7f589aa4549967177903">HtmlEntityMapper::Perl\_circ</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3aab7eb5ca6b0f7f32246afe98f093c77c">HtmlEntityMapper::Perl\_grave</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3af7748fc167a6ee4dbf84a122ee9d40a3">HtmlEntityMapper::Perl\_ring</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a506894a243e06e65383f6b5bb9035944">HtmlEntityMapper::Perl\_slash</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a24b7e499fed26aa3b8bcb1ebe3f66baa">HtmlEntityMapper::Perl\_string</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3ac53b4e827b1f114aa86816a09ad0957f">HtmlEntityMapper::Perl\_symbol</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a1f7beea596e018c2e12fcd34bb923214">HtmlEntityMapper::Perl\_tilde</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a0a746987126a0652f79f06fadae9cffd">HtmlEntityMapper::Perl\_umlaut</a>, <a href="/web-doxygen/docs/api/structs/htmlentitymapper/perlsymb/#ac4d175e99d0339ec28e5a48ae8dd2326">HtmlEntityMapper::PerlSymb::symb</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/htmlentitymapper/perlsymb/#a795f5146c124bca8640c412e11b84548">HtmlEntityMapper::PerlSymb::type</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a56d4e0e2e83a943ea25985c0792f71b0">HtmlEntityMapper::perl</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3afedd610e97f6262280751ca949693d82">HtmlEntityMapper::Perl_acute</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a2559915a1e26ef534de86d474925e6ed">HtmlEntityMapper::Perl_cedilla</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3ad04402fe2918b7724f6516397fa0d1a3">HtmlEntityMapper::Perl_char</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a20f5cf2207ec7f589aa4549967177903">HtmlEntityMapper::Perl_circ</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3aab7eb5ca6b0f7f32246afe98f093c77c">HtmlEntityMapper::Perl_grave</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3af7748fc167a6ee4dbf84a122ee9d40a3">HtmlEntityMapper::Perl_ring</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a506894a243e06e65383f6b5bb9035944">HtmlEntityMapper::Perl_slash</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a24b7e499fed26aa3b8bcb1ebe3f66baa">HtmlEntityMapper::Perl_string</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3ac53b4e827b1f114aa86816a09ad0957f">HtmlEntityMapper::Perl_symbol</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a1f7beea596e018c2e12fcd34bb923214">HtmlEntityMapper::Perl_tilde</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a4911b3c9af98290f7ee0696fc2c8a6a3a0a746987126a0652f79f06fadae9cffd">HtmlEntityMapper::Perl_umlaut</a>, <a href="/web-doxygen/docs/api/structs/htmlentitymapper/perlsymb/#ac4d175e99d0339ec28e5a48ae8dd2326">HtmlEntityMapper::PerlSymb::symb</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/htmlentitymapper/perlsymb/#a795f5146c124bca8640c412e11b84548">HtmlEntityMapper::PerlSymb::type</a>.</p>
+
 </div>
 </div>
 
@@ -1314,7 +1325,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1335,7 +1347,8 @@ Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>.
+<p>References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>.</p>
+
 </div>
 </div>
 
@@ -1359,7 +1372,8 @@ References <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="
 
 
 
-Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1373,7 +1387,8 @@ Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.</p>
+
 </div>
 </div>
 
@@ -1397,7 +1412,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1409,7 +1425,8 @@ Definition at line 288 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
+<p>Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.</p>
+
 </div>
 </div>
 
@@ -1433,7 +1450,8 @@ Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
 
 
 
-Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1445,7 +1463,8 @@ Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
+<p>Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.</p>
+
 </div>
 </div>
 
@@ -1469,7 +1488,8 @@ Reference <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
 
 
 
-Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1506,7 +1526,8 @@ Definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.</p>
+
 </div>
 </div>
 
@@ -1530,7 +1551,8 @@ References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39
 
 
 
-Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1573,7 +1595,8 @@ Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a58a8316261706c1b74b8396742bf86b8">DocVerbatim::context</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a2f48fffda3a45f9f6127aa1cc1642cf0">DocVerbatim::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a58a8316261706c1b74b8396742bf86b8">DocVerbatim::context</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a2f48fffda3a45f9f6127aa1cc1642cf0">DocVerbatim::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.</p>
+
 </div>
 </div>
 
@@ -1597,7 +1620,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1612,7 +1636,8 @@ Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d00ed52d8eee959">DocAnchor::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#ae8a62d8e80af9d1cf04561fcbe07c343">DocAnchor::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d00ed52d8eee959">DocAnchor::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#ae8a62d8e80af9d1cf04561fcbe07c343">DocAnchor::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.</p>
+
 </div>
 </div>
 
@@ -1636,7 +1661,8 @@ References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d
 
 
 
-Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1669,7 +1695,8 @@ Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ab2a402fcaf6d3c4ecce0cd7647c0e339">DocInclude::text</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ab2a402fcaf6d3c4ecce0cd7647c0e339">DocInclude::text</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.</p>
+
 </div>
 </div>
 
@@ -1693,7 +1720,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1724,7 +1752,8 @@ Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>.</p>
+
 </div>
 </div>
 
@@ -1748,7 +1777,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1764,7 +1794,8 @@ Definition at line 295 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docformula/#ad34d6903f1f038579b131efa2efc2a06">DocFormula::id</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/docformula/#ad34d6903f1f038579b131efa2efc2a06">DocFormula::id</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.</p>
+
 </div>
 </div>
 
@@ -1788,7 +1819,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1807,7 +1839,8 @@ Definition at line 296 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>Reference <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
+
 </div>
 </div>
 
@@ -1831,7 +1864,8 @@ Reference <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
 
 
 
-Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1864,7 +1898,8 @@ Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 
 
 
-Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1890,7 +1925,8 @@ Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.</p>
+
 </div>
 </div>
 
@@ -1914,7 +1950,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1947,7 +1984,8 @@ Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 
 
 
-Definition at line 305 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 305 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1964,7 +2002,8 @@ Definition at line 305 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a1adff5a3fa53eb8bf20d4a1e89851d85">DocAutoList::isCheckedList</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a1adff5a3fa53eb8bf20d4a1e89851d85">DocAutoList::isCheckedList</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -1988,7 +2027,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2014,7 +2054,8 @@ Definition at line 306 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked\_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked\_x</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked_x</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2038,7 +2079,8 @@ References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c
 
 
 
-Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2062,7 +2104,8 @@ Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m\_textblockstart</a>, <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m_textblockstart</a>, <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2086,7 +2129,8 @@ References <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m\_textblockstart</a>, <
 
 
 
-Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2098,7 +2142,8 @@ Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2122,7 +2167,8 @@ Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
 
 
 
-Definition at line 309 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 309 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2170,7 +2216,8 @@ Definition at line 309 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.</p>
+
 </div>
 </div>
 
@@ -2194,7 +2241,8 @@ References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d
 
 
 
-Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2210,7 +2258,8 @@ Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2234,7 +2283,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2251,7 +2301,8 @@ Definition at line 311 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2275,7 +2326,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2292,7 +2344,8 @@ Definition at line 312 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a>.
+<p>References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a>.</p>
+
 </div>
 </div>
 
@@ -2316,7 +2369,8 @@ References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a hr
 
 
 
-Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2338,7 +2392,8 @@ Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2362,7 +2417,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2390,7 +2446,8 @@ Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2414,7 +2471,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981
 
 
 
-Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2435,7 +2493,8 @@ Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2459,7 +2518,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa
 
 
 
-Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2477,7 +2537,8 @@ Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2501,7 +2562,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2519,7 +2581,8 @@ Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2543,7 +2606,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2561,7 +2625,8 @@ Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2585,7 +2650,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2608,7 +2674,8 @@ Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef927d4b4a32ffa2ec17d">DocHtmlTable::caption</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef927d4b4a32ffa2ec17d">DocHtmlTable::caption</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2632,7 +2699,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef92
 
 
 
-Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2650,7 +2718,8 @@ Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2674,7 +2743,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2692,7 +2762,8 @@ Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmlcell/#ace62c55c933434c4f451847fede71851">DocHtmlCell::isHeading</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmlcell/#ace62c55c933434c4f451847fede71851">DocHtmlCell::isHeading</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2716,7 +2787,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlcell/#ace62c55c933434c4
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2734,7 +2806,8 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2758,7 +2831,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2776,7 +2850,8 @@ Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2800,7 +2875,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2818,7 +2894,8 @@ Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a5413d17bd302ad2e43057488bdd96175">DocHRef::url</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a5413d17bd302ad2e43057488bdd96175">DocHRef::url</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2842,7 +2919,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="
 
 
 
-Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2858,7 +2936,8 @@ Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2882,7 +2961,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2903,7 +2983,8 @@ Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2927,7 +3008,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2945,7 +3027,8 @@ Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2969,7 +3052,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 
 
 
-Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3015,7 +3099,8 @@ Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a434782653279e9f1d823656d48fe3e26">DocImage::height</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea11831c0ddc505e031751197b1bab0623">DocImage::Html</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaa40720221c0f30f373e9b3a9ec9711e5">DocImage::Latex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a0c62b3e12569fac905243b891a62d81a">DocImage::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaf742255bd9dc963b18e768c2b7fb7d70">DocImage::Rtf</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a4a7abc635cfbbb0824b1a482b6cb42e9">DocImage::type</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docimage/#a79d36f165096668a3d6631efb6e0b4f0">DocImage::width</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a434782653279e9f1d823656d48fe3e26">DocImage::height</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea11831c0ddc505e031751197b1bab0623">DocImage::Html</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaa40720221c0f30f373e9b3a9ec9711e5">DocImage::Latex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a0c62b3e12569fac905243b891a62d81a">DocImage::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaf742255bd9dc963b18e768c2b7fb7d70">DocImage::Rtf</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a4a7abc635cfbbb0824b1a482b6cb42e9">DocImage::type</a>, <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docimage/#a79d36f165096668a3d6631efb6e0b4f0">DocImage::width</a>.</p>
+
 </div>
 </div>
 
@@ -3039,7 +3124,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb
 
 
 
-Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3057,7 +3143,8 @@ Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3081,7 +3168,8 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 
 
 
-Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3099,7 +3187,8 @@ Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3123,7 +3212,8 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 
 
 
-Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3141,7 +3231,8 @@ Definition at line 331 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3165,7 +3256,8 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 
 
 
-Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3183,7 +3275,8 @@ Definition at line 332 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd33e3371ec3e6d9449d33a140">DocDiagramFileBase::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3207,7 +3300,8 @@ References <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#a7c838cdd3
 
 
 
-Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3222,7 +3316,8 @@ Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb53216fc9fa26bf61">DocLink::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a39a863f3f56d0247210911c2381e39f2">DocLink::file</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a927a404f81961d4545e5ad41e0c4d35a">DocLink::ref</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb53216fc9fa26bf61">DocLink::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a39a863f3f56d0247210911c2381e39f2">DocLink::file</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a927a404f81961d4545e5ad41e0c4d35a">DocLink::ref</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3246,7 +3341,8 @@ References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/w
 
 
 
-Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3264,7 +3360,8 @@ Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3288,7 +3385,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3306,7 +3404,8 @@ Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docsecrefitem/#ab9aa2458393645fd08a33ea58c4b4cca">DocSecRefItem::anchor</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a751e1df43138d68817a38c68e5e066fc">DocSecRefItem::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docsecrefitem/#ab9aa2458393645fd08a33ea58c4b4cca">DocSecRefItem::anchor</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a751e1df43138d68817a38c68e5e066fc">DocSecRefItem::file</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3330,7 +3429,8 @@ References <a href="/web-doxygen/docs/api/classes/docsecrefitem/#ab9aa2458393645
 
 
 
-Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3348,7 +3448,8 @@ Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3372,7 +3473,8 @@ References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a hre
 
 
 
-Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3402,7 +3504,8 @@ Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aaceeaf36c7f8e7c3a4e47a68453fd130e">DocParamSect::Unknown</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aaceeaf36c7f8e7c3a4e47a68453fd130e">DocParamSect::Unknown</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3426,7 +3529,8 @@ References <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a hr
 
 
 
-Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3487,7 +3591,8 @@ Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docparamlist/#ac45275b55efab9d6a60049f6d6dc7679">DocParamList::direction</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a7ec7b05c44ebac263741f2983cb4f6b3">DocParamSect::hasInOutSpecifier</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66a91340ac3497abe40521ff1032d14f260">DocParamSect::In</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66aa67a43fd4af2659272f549f379472ff6">DocParamSect::InOut</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66a6f4ea16fe4731fee90a5ed69933b34e5">DocParamSect::Out</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#aea61e6129350589c862ceb0f75d5f9a9">DocParamList::paragraphs</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66ab10385814739b43cf57af1d841b821c5">DocParamSect::Unspecified</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docparamlist/#ac45275b55efab9d6a60049f6d6dc7679">DocParamList::direction</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a7ec7b05c44ebac263741f2983cb4f6b3">DocParamSect::hasInOutSpecifier</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66a91340ac3497abe40521ff1032d14f260">DocParamSect::In</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66aa67a43fd4af2659272f549f379472ff6">DocParamSect::InOut</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66a6f4ea16fe4731fee90a5ed69933b34e5">DocParamSect::Out</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#aea61e6129350589c862ceb0f75d5f9a9">DocParamList::paragraphs</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ad5e3f053f03f8c333a69208521075c66ab10385814739b43cf57af1d841b821c5">DocParamSect::Unspecified</a>, <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -3511,7 +3616,8 @@ References <a href="/web-doxygen/docs/api/classes/docparamlist/#ac45275b55efab9d
 
 
 
-Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3542,7 +3648,8 @@ Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f130d2b3a3cee3e4b5">DocXRefItem::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#ab4fe34f455483d8db30c22030115bfdf">DocXRefItem::file</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f130d2b3a3cee3e4b5">DocXRefItem::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#ab4fe34f455483d8db30c22030115bfdf">DocXRefItem::file</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3566,7 +3673,8 @@ References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f1
 
 
 
-Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3583,7 +3691,8 @@ Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73cda323769f8ee3aa7957">DocInternalRef::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#a770f32c338d58af80aa1db5eee306138">DocInternalRef::file</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73cda323769f8ee3aa7957">DocInternalRef::anchor</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#a770f32c338d58af80aa1db5eee306138">DocInternalRef::file</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3607,7 +3716,8 @@ References <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="/w
 
 
 
-Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3619,7 +3729,8 @@ Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3643,7 +3754,8 @@ Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
 
 
 
-Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3659,7 +3771,8 @@ Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a> and <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3683,7 +3796,8 @@ References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="
 
 
 
-Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3716,7 +3830,8 @@ Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 
 
 
-Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3728,7 +3843,8 @@ Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
+<p>Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3758,7 +3874,8 @@ Reference <a href="#a461aa62ca025c89ba745eb710c59f619">visitChildren</a>.
 
 
 
-Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3772,9 +3889,11 @@ Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a43ed89421fc709074ca21376025bedb7">m\_other</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a43ed89421fc709074ca21376025bedb7">m_other</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>.</p>
+
 </div>
 </div>
 
@@ -3804,7 +3923,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e10
 
 
 
-Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3819,9 +3939,11 @@ Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
 
-Referenced by <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a> and <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>.
+
+<p>Referenced by <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a> and <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3845,7 +3967,8 @@ Referenced by <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a hr
 
 
 
-Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3858,9 +3981,11 @@ Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
 
-Referenced by <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
+
+<p>Referenced by <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.</p>
+
 </div>
 </div>
 
@@ -3884,7 +4009,8 @@ Referenced by <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a hr
 
 
 
-Definition at line 370 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 370 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3897,9 +4023,11 @@ Definition at line 370 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
 
-Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a531bed2a476f2aea9ebaf37810ad9d17">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.
+
+<p>Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a531bed2a476f2aea9ebaf37810ad9d17">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3923,7 +4051,8 @@ Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a hr
 
 
 
-Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3939,9 +4068,11 @@ Definition at line 363 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>, <a href="#a8b16465388385f7e687b8d4516cc6139">m\_textmode</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>, <a href="#a8b16465388385f7e687b8d4516cc6139">m_textmode</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.</p>
 
-Referenced by <a href="#a69768613d52a739ff1824beee29e9c52">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a2563018c1056d0c89f5929d3888c478c">operator()</a> and <a href="#ad03a5e89722d1ae6d7372e3db2027b13">operator()</a>.
+
+<p>Referenced by <a href="#a69768613d52a739ff1824beee29e9c52">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a2563018c1056d0c89f5929d3888c478c">operator()</a> and <a href="#ad03a5e89722d1ae6d7372e3db2027b13">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3965,7 +4096,8 @@ Referenced by <a href="#a69768613d52a739ff1824beee29e9c52">operator()</a>, <a hr
 
 
 
-Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3982,9 +4114,11 @@ Definition at line 364 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a8b16465388385f7e687b8d4516cc6139">m\_textmode</a>.
+<p>References <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a8b16465388385f7e687b8d4516cc6139">m_textmode</a>.</p>
 
-Referenced by <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#adf7a140e70ce68021f8b0acf881e96af">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a> and <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>.
+
+<p>Referenced by <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#adf7a140e70ce68021f8b0acf881e96af">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a> and <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4008,7 +4142,8 @@ Referenced by <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a hre
 
 
 
-Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4021,9 +4156,11 @@ Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a>.
+<p>References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a>.</p>
 
-Referenced by <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.
+
+<p>Referenced by <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a9d4cd9ad9b80320bfc4a0253b5f0971b">singleItem</a>.</p>
+
 </div>
 </div>
 
@@ -4047,7 +4184,8 @@ Referenced by <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a hre
 
 
 
-Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4061,9 +4199,11 @@ Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m\_output</a> and <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m\_textblockstart</a>.
+<p>References <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a9b7555fd8015feb299813f4b7ae078b8">m_output</a> and <a href="#a71c18193cb7f6bf881d412c3663ffc0e">m_textblockstart</a>.</p>
 
-Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a531bed2a476f2aea9ebaf37810ad9d17">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.
+
+<p>Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#a531bed2a476f2aea9ebaf37810ad9d17">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4087,7 +4227,8 @@ Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a hr
 
 
 
-Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4100,9 +4241,11 @@ Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.
+<p>References <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a> and <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>.</p>
 
-Referenced by <a href="#adcee1362b0c19eb335b460efdabdf574">operator()</a>, <a href="#a287980659ae24e5c9f42ae464a3d49b1">operator()</a> and <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a>.
+
+<p>Referenced by <a href="#adcee1362b0c19eb335b460efdabdf574">operator()</a>, <a href="#a287980659ae24e5c9f42ae464a3d49b1">operator()</a> and <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4132,7 +4275,8 @@ Referenced by <a href="#adcee1362b0c19eb335b460efdabdf574">operator()</a>, <a hr
 
 
 
-Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4147,7 +4291,8 @@ Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a6d587a99982edd998d3b1e81d60fc9bb">operator()</a>, <a href="#a3cd14a3e6afa6f01d81754317f700e2c">operator()</a>, <a href="#a95033c7d4d91c858013f0468b68ddbc7">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#a3dfcfae3621d6d624819f4eb380fe5ab">operator()</a>, <a href="#af06922206edff224a897da1253e8708a">operator()</a>, <a href="#aae7e605fd0d8737d91ca2d81972b7df5">operator()</a>, <a href="#ae9bc2454704a2cb9737dcfacc6ac1719">operator()</a>, <a href="#aab6893757ca186f8d45c99e62adbac27">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#afecf296ad3e703456c558f8ea957844d">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#a238bbd23978ad8f4fde28605b6d870c4">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a57b7db74e73a0b47dde3a73b1976d846">operator()</a>, <a href="#a4eefaf70c00c1c7ab252098e8599eff2">operator()</a>, <a href="#ad77bdf34850ae1a1a1f1290eea2328e2">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a303618fc95b67755612d7f8e6e24b8b6">operator()</a>, <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#aed3f5e24370aa28fed9bbd66300fee8e">operator()</a>, <a href="#a56c81e5e3983bf5332345ce722d480b2">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#a259adf8e5caa739d9365e1f6dfbd747a">operator()</a>, <a href="#a69a2ce16bff8ea324b4bcdd188e70e56">operator()</a>, <a href="#afb2618635edef0ce3c3a6c0d3ffb874d">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a6ca6a96b5d68f621533594bb2f5cf007">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.
+<p>Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a6d587a99982edd998d3b1e81d60fc9bb">operator()</a>, <a href="#a3cd14a3e6afa6f01d81754317f700e2c">operator()</a>, <a href="#a95033c7d4d91c858013f0468b68ddbc7">operator()</a>, <a href="#a3b4e2ef580c5232aed673a113705e825">operator()</a>, <a href="#a3dfcfae3621d6d624819f4eb380fe5ab">operator()</a>, <a href="#af06922206edff224a897da1253e8708a">operator()</a>, <a href="#aae7e605fd0d8737d91ca2d81972b7df5">operator()</a>, <a href="#ae9bc2454704a2cb9737dcfacc6ac1719">operator()</a>, <a href="#aab6893757ca186f8d45c99e62adbac27">operator()</a>, <a href="#aee1692b01509576468bed860ebf7418f">operator()</a>, <a href="#afecf296ad3e703456c558f8ea957844d">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#a238bbd23978ad8f4fde28605b6d870c4">operator()</a>, <a href="#afa0f3b6c33268cede22794e32e0d9699">operator()</a>, <a href="#a57b7db74e73a0b47dde3a73b1976d846">operator()</a>, <a href="#a4eefaf70c00c1c7ab252098e8599eff2">operator()</a>, <a href="#ad77bdf34850ae1a1a1f1290eea2328e2">operator()</a>, <a href="#a17cf8b48afba631c6e9c4c4e12a52a6e">operator()</a>, <a href="#ad8b732eac2ade1b902187bc39d5de290">operator()</a>, <a href="#a303618fc95b67755612d7f8e6e24b8b6">operator()</a>, <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#aed3f5e24370aa28fed9bbd66300fee8e">operator()</a>, <a href="#a56c81e5e3983bf5332345ce722d480b2">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#a259adf8e5caa739d9365e1f6dfbd747a">operator()</a>, <a href="#a69a2ce16bff8ea324b4bcdd188e70e56">operator()</a>, <a href="#afb2618635edef0ce3c3a6c0d3ffb874d">operator()</a>, <a href="#ad1beec9fe5f9860bd405a3b6b4ac4780">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a6ca6a96b5d68f621533594bb2f5cf007">operator()</a>, <a href="#a01073884e4bc56f400e6afbb04a1447d">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a> and <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4177,7 +4322,8 @@ Referenced by <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a hr
 
 
 
-Definition at line 379 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 379 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4186,7 +4332,8 @@ Definition at line 379 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Referenced by <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>.
+<p>Referenced by <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>.</p>
+
 </div>
 </div>
 
@@ -4210,7 +4357,8 @@ Referenced by <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>.
 
 
 
-Definition at line 376 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 376 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4219,7 +4367,8 @@ Definition at line 376 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Referenced by <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a6d587a99982edd998d3b1e81d60fc9bb">operator()</a>, <a href="#a3cd14a3e6afa6f01d81754317f700e2c">operator()</a>, <a href="#a69768613d52a739ff1824beee29e9c52">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a95033c7d4d91c858013f0468b68ddbc7">operator()</a>, <a href="#a3dfcfae3621d6d624819f4eb380fe5ab">operator()</a>, <a href="#af06922206edff224a897da1253e8708a">operator()</a>, <a href="#aae7e605fd0d8737d91ca2d81972b7df5">operator()</a>, <a href="#ae9bc2454704a2cb9737dcfacc6ac1719">operator()</a>, <a href="#aab6893757ca186f8d45c99e62adbac27">operator()</a>, <a href="#afecf296ad3e703456c558f8ea957844d">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#a238bbd23978ad8f4fde28605b6d870c4">operator()</a>, <a href="#a57b7db74e73a0b47dde3a73b1976d846">operator()</a>, <a href="#a4eefaf70c00c1c7ab252098e8599eff2">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a9a33176bb13fc255cd7d8c062d113578">operator()</a>, <a href="#ab8f84d19ffa0c9efb73dc3199f3ae914">operator()</a>, <a href="#ad77bdf34850ae1a1a1f1290eea2328e2">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a303618fc95b67755612d7f8e6e24b8b6">operator()</a>, <a href="#adf7a140e70ce68021f8b0acf881e96af">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a56c81e5e3983bf5332345ce722d480b2">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#a69a2ce16bff8ea324b4bcdd188e70e56">operator()</a>, <a href="#afb2618635edef0ce3c3a6c0d3ffb874d">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a2563018c1056d0c89f5929d3888c478c">operator()</a>, <a href="#ad03a5e89722d1ae6d7372e3db2027b13">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.
+<p>Referenced by <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href="#a679590afd127bb2606ba9f0e403081f1">closeItem</a>, <a href="#a1b2a8a636960c84a376302a77166a1f6">closeSubBlock</a>, <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a1766bc0c0c37524f9fac777d62526f59">finish</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a>, <a href="#a289cec3ea555d3f9fe2125f847533876">openItem</a>, <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#a5087beccaf64e052d250e0fcdc7c860a">operator()</a>, <a href="#ae5f0aa8ff65265d72f7f0bf94f01aca8">operator()</a>, <a href="#a4308fe19dd57b95c5ff463ce34ee248a">operator()</a>, <a href="#a91c4bac8e040dd09f551e84422be0330">operator()</a>, <a href="#a6d587a99982edd998d3b1e81d60fc9bb">operator()</a>, <a href="#a3cd14a3e6afa6f01d81754317f700e2c">operator()</a>, <a href="#a69768613d52a739ff1824beee29e9c52">operator()</a>, <a href="#a5c3ca80a615fbf6119e6aec28e60506d">operator()</a>, <a href="#a95033c7d4d91c858013f0468b68ddbc7">operator()</a>, <a href="#a3dfcfae3621d6d624819f4eb380fe5ab">operator()</a>, <a href="#af06922206edff224a897da1253e8708a">operator()</a>, <a href="#aae7e605fd0d8737d91ca2d81972b7df5">operator()</a>, <a href="#ae9bc2454704a2cb9737dcfacc6ac1719">operator()</a>, <a href="#aab6893757ca186f8d45c99e62adbac27">operator()</a>, <a href="#afecf296ad3e703456c558f8ea957844d">operator()</a>, <a href="#abc9316f6d36cef5484dfbd79c7eccff1">operator()</a>, <a href="#ab2f6c9c71d1059e75eda24522ab1d494">operator()</a>, <a href="#a238bbd23978ad8f4fde28605b6d870c4">operator()</a>, <a href="#a57b7db74e73a0b47dde3a73b1976d846">operator()</a>, <a href="#a4eefaf70c00c1c7ab252098e8599eff2">operator()</a>, <a href="#a739b167e0a41f08eff74e1bfdecce329">operator()</a>, <a href="#a9a33176bb13fc255cd7d8c062d113578">operator()</a>, <a href="#ab8f84d19ffa0c9efb73dc3199f3ae914">operator()</a>, <a href="#ad77bdf34850ae1a1a1f1290eea2328e2">operator()</a>, <a href="#a38742c6037418c0df3c5a62de6b60889">operator()</a>, <a href="#a303618fc95b67755612d7f8e6e24b8b6">operator()</a>, <a href="#adf7a140e70ce68021f8b0acf881e96af">operator()</a>, <a href="#abd6ed30171b50ea9f86441b3327069e7">operator()</a>, <a href="#a56c81e5e3983bf5332345ce722d480b2">operator()</a>, <a href="#a07f9514d8d2464acd27e0bb48f9b4c6f">operator()</a>, <a href="#a69a2ce16bff8ea324b4bcdd188e70e56">operator()</a>, <a href="#afb2618635edef0ce3c3a6c0d3ffb874d">operator()</a>, <a href="#a02e4505701929190a999676dfabf67a1">operator()</a>, <a href="#ab34a99c641d75788a05a0eeed41fa411">operator()</a>, <a href="#a12175400ef7a7ab13c32e503c40f3638">operator()</a>, <a href="#abcc43541a23f6c0e0bc5c3a25950493b">operator()</a>, <a href="#ab7997cd39be56d52919214b907d3d6c1">operator()</a>, <a href="#a6a9734f16f6d5b0ab24039d710af84cd">operator()</a>, <a href="#a2563018c1056d0c89f5929d3888c478c">operator()</a>, <a href="#ad03a5e89722d1ae6d7372e3db2027b13">operator()</a>, <a href="#a75424e0d995411ada22517a0ae193b4a">operator()</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.</p>
+
 </div>
 </div>
 
@@ -4243,7 +4392,8 @@ Referenced by <a href="#a5aad47028a6405798bd2bd1de4002350">addLink</a>, <a href=
 
 
 
-Definition at line 378 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 378 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4252,7 +4402,8 @@ Definition at line 378 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Referenced by <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.
+<p>Referenced by <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a href="#a3c5d574aab54e094ae412386bab13047">operator()</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.</p>
+
 </div>
 </div>
 
@@ -4276,7 +4427,8 @@ Referenced by <a href="#ab3a78d106af41d3b2e938a1c9ad4af33">openSubBlock</a>, <a 
 
 
 
-Definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4285,7 +4437,8 @@ Definition at line 377 of file <a href="/web-doxygen/docs/api/files/src/perlmodg
 </div>
 
 
-Referenced by <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.
+<p>Referenced by <a href="#a4760959088fe7d23b1e9b93e37d0bfc1">enterText</a>, <a href="#a7e0ab03284b97ecbd849aed4bdc37b31">leaveText</a> and <a href="#a147c750cdb85c41305baf5ccb8dca305">PerlModDocVisitor</a>.</p>
+
 </div>
 </div>
 

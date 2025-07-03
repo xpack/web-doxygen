@@ -40,7 +40,8 @@ class NavIndexEntryList { ... }
 </table>
 
 
-Definition at line 523 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 523 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <hr/>
 

@@ -205,7 +205,8 @@ class GuardedSection { ... }
 </table>
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -236,7 +237,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +248,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m\_parentVisible</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.
+<p>References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m_parentVisible</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.</p>
+
 </div>
 </div>
 
@@ -281,7 +284,8 @@ References <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m\_parentVisible</a> and
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -290,7 +294,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
+<p>Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m_hasElse</a>.</p>
+
 </div>
 </div>
 
@@ -319,7 +324,8 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -328,7 +334,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
+<p>Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -357,7 +364,8 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -366,7 +374,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
+<p>Reference <a href="#abf34b6c8097f597da843e1181de7910d">m_enabledFound</a>.</p>
+
 </div>
 </div>
 
@@ -395,7 +404,8 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -404,9 +414,11 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m\_parentVisible</a>.
+<p>Reference <a href="#a6fdfb98ba49202daae7e14af2fb45ffd">m_parentVisible</a>.</p>
 
-Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.
+
+<p>Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.</p>
+
 </div>
 </div>
 
@@ -435,7 +447,8 @@ Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a>.
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -444,7 +457,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
+<p>Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m_hasElse</a>.</p>
+
 </div>
 </div>
 
@@ -473,7 +487,8 @@ Reference <a href="#abe5b312c34b9b57ed1c1b11f88c0017f">m\_hasElse</a>.
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -482,7 +497,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
+<p>Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -511,7 +527,8 @@ Reference <a href="#abb9324304f499a8ece258d3a58aa2f64">m\_enabled</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -520,7 +537,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
+<p>Reference <a href="#abf34b6c8097f597da843e1181de7910d">m_enabledFound</a>.</p>
+
 </div>
 </div>
 
@@ -550,7 +568,8 @@ Reference <a href="#abf34b6c8097f597da843e1181de7910d">m\_enabledFound</a>.
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -559,7 +578,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Referenced by <a href="#a56cd1d1f58762dde6e4a3264bc1c63ea">isEnabled</a> and <a href="#a6573764836b6027def7c5e65e6ba3f4b">setEnabled</a>.
+<p>Referenced by <a href="#a56cd1d1f58762dde6e4a3264bc1c63ea">isEnabled</a> and <a href="#a6573764836b6027def7c5e65e6ba3f4b">setEnabled</a>.</p>
+
 </div>
 </div>
 
@@ -583,7 +603,8 @@ Referenced by <a href="#a56cd1d1f58762dde6e4a3264bc1c63ea">isEnabled</a> and <a 
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -592,7 +613,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Referenced by <a href="#a390dda3478ad528e66b0a0874b48bff8">isEnabledFound</a> and <a href="#ac234004474af1e6f2023179c65784aea">setEnabledFound</a>.
+<p>Referenced by <a href="#a390dda3478ad528e66b0a0874b48bff8">isEnabledFound</a> and <a href="#ac234004474af1e6f2023179c65784aea">setEnabledFound</a>.</p>
+
 </div>
 </div>
 
@@ -616,7 +638,8 @@ Referenced by <a href="#a390dda3478ad528e66b0a0874b48bff8">isEnabledFound</a> an
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -625,7 +648,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Referenced by <a href="#a3cee7469ec9aa864087fec1915b6fb72">hasElse</a> and <a href="#a9b8e6f04a63d277ab3700b1bfaeafb89">setElse</a>.
+<p>Referenced by <a href="#a3cee7469ec9aa864087fec1915b6fb72">hasElse</a> and <a href="#a9b8e6f04a63d277ab3700b1bfaeafb89">setElse</a>.</p>
+
 </div>
 </div>
 
@@ -649,7 +673,8 @@ Referenced by <a href="#a3cee7469ec9aa864087fec1915b6fb72">hasElse</a> and <a hr
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -658,7 +683,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 </div>
 
 
-Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.
+<p>Referenced by <a href="#abaa485184e30168ef682c9b19861319e">GuardedSection</a> and <a href="#a9645c62b72fb62d21814d48390b2bc6f">parentVisible</a>.</p>
+
 </div>
 </div>
 

@@ -20,7 +20,8 @@ toc_max_heading_level: 4
 
 
 
-Doxygen allows you to put <code>{\LaTeX}</code> formulas in the output (this works only for the HTML, <code>{\LaTeX}</code> and RTF output. To be able to include formulas (as images) in the HTML and RTF documentation, you will also need to have the following tools installed
+<p>Doxygen allows you to put <code>{\LaTeX}</code> formulas in the output (this works only for the HTML, <code>{\LaTeX}</code> and RTF output. To be able to include formulas (as images) in the HTML and RTF documentation, you will also need to have the following tools installed</p>
+
 
 <ul class="doxyList ">
 <li><span class="doxyComputerOutput">latex:</span> the <code>{\LaTeX}</code> compiler, needed to parse the formulas. To test I have used the teTeX 1.0 distribution.</li>
@@ -28,9 +29,11 @@ Doxygen allows you to put <code>{\LaTeX}</code> formulas in the output (this wor
 <li><span class="doxyComputerOutput">gs:</span> the GhostScript interpreter for converting PostScript files to bitmaps. I have used Aladdin GhostScript 8.0 for testing.</li>
 </ul>
 
-For the HTML output there is also an alternative solution using <a href="https://www.mathjax.org">MathJax</a> which does not require the above tools. If you enable <a href="/web-doxygen/docs/pages/config/#cfg_use_mathjax">USE\_MATHJAX</a> in the configuration then the latex formulas will be copied to the HTML "as is" and a client side JavaScript will parse them and turn them into (interactive) images.
+<p>For the HTML output there is also an alternative solution using <a href="https://www.mathjax.org">MathJax</a> which does not require the above tools. If you enable <a href="/web-doxygen/docs/pages/config/#cfg_use_mathjax">USE_MATHJAX</a> in the configuration then the latex formulas will be copied to the HTML "as is" and a client side JavaScript will parse them and turn them into (interactive) images.</p>
 
-There are four ways to include formulas in the documentation.
+
+<p>There are four ways to include formulas in the documentation.</p>
+
 
 <ol class="doxyList" type="1">
 <li>Using in-text formulas that appear in the running text. These formulas should be put between a pair of <a href="/web-doxygen/docs/pages/commands/#cmdfdollar">\f$</a> commands, so
@@ -100,16 +103,19 @@ which results in:      <code>\begin{eqnarray*}        g &amp;=&amp; \frac{Gm_2}{
 \end{eqnarray*}</code></li>
 </ol>
 
-For the first and third commands one should make sure formulas contain valid commands in <code>{\LaTeX}</code>'s math-mode. The second command should valid text-mode commands that also work in math-mode when using <a href="/web-doxygen/docs/pages/config/#cfg_use_mathjax">USE\_MATHJAX</a>. For the fourth command the section should contain valid command for the specific environment.
+<p>For the first and third commands one should make sure formulas contain valid commands in <code>{\LaTeX}</code>'s math-mode. The second command should valid text-mode commands that also work in math-mode when using <a href="/web-doxygen/docs/pages/config/#cfg_use_mathjax">USE_MATHJAX</a>. For the fourth command the section should contain valid command for the specific environment.</p>
+
+
 
 :::warning
-Currently, Doxygen is not very fault tolerant in recovering from typos in formulas. It may be necessary to remove the files <span class="doxyComputerOutput">formula.repository</span> that are written to the html, rtf etc. directories to get rid of an incorrect formula as well as the <span class="doxyComputerOutput">form\_\*</span> files.
+<p>Currently, Doxygen is not very fault tolerant in recovering from typos in formulas. It may be necessary to remove the files <span class="doxyComputerOutput">formula.repository</span> that are written to the html, rtf etc. directories to get rid of an incorrect formula as well as the <span class="doxyComputerOutput">form_*</span> files.</p>
 :::
 
 
-To have the possibility to define your own <code>{\LaTeX}</code> commands, for e.g. formula building blocks or consistent writing of certain words, the configuration option <a href="/web-doxygen/docs/pages/config/#cfg_formula_macrofile">FORMULA\_MACROFILE</a> can be used. to supply a file with <code>{\LaTeX}</code> commands. This file can contain <code>{\LaTeX}</code> <span class="doxyComputerOutput">\\newcommand</span> and <span class="doxyComputerOutput">\\renewcommand</span> commands and they are included formulas (image version and MathJax version) as well as in the generated <code>{\LaTeX}</code> output (for PDF generation).
+<p>To have the possibility to define your own <code>{\LaTeX}</code> commands, for e.g. formula building blocks or consistent writing of certain words, the configuration option <a href="/web-doxygen/docs/pages/config/#cfg_formula_macrofile">FORMULA_MACROFILE</a> can be used. to supply a file with <code>{\LaTeX}</code> commands. This file can contain <code>{\LaTeX}</code> <span class="doxyComputerOutput">\newcommand</span> and <span class="doxyComputerOutput">\renewcommand</span> commands and they are included formulas (image version and MathJax version) as well as in the generated <code>{\LaTeX}</code> output (for PDF generation).
 <br/>
- The <span class="doxyComputerOutput">\\newcommand</span> (and <span class="doxyComputerOutput">\\renewcommand</span>) are restricted to a version without optional parameters so only the following types are supported:
+ The <span class="doxyComputerOutput">\newcommand</span> (and <span class="doxyComputerOutput">\renewcommand</span>) are restricted to a version without optional parameters so only the following types are supported:</p>
+
 
 <div class="doxyProgramListing">
 
@@ -119,7 +125,8 @@ To have the possibility to define your own <code>{\LaTeX}</code> commands, for e
 </div>
 
 
-e.g.
+<p>e.g.</p>
+
 
 <div class="doxyProgramListing">
 

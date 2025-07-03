@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/token">Token</a> literal values and constants. <a href="/web-doxygen/docs/api/namespaces/vhdl/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -68,7 +68,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This class describes a character stream that maintains line and column number positions of the characters. <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#details">More...</a>
+<p>This class describes a character stream that maintains line and column number positions of the characters. <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,8 @@ This class describes a character stream that maintains line and column number po
 
 
 
-Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.
+<p>Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/charstream-h">CharStream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +131,8 @@ Definition at line 9 of file <a href="/web-doxygen/docs/api/files/vhdlparser/cha
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a242b0ade90665d38c5931af90a59038b">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a0582344d99aae18c75c7524f7b5a98b8">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a82949d505a06f19999787ee61f85f7a7">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a7a3b115d9cb6f671539a8db6630f515c">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a639909d8be82f388025752ddc28980cd">vhdl::parser::CharStream::ReInit</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a147a1e6e2f7cc4d9dc423bc40a542a66">vhdl::parser::CharStream::ReInit</a> and <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a93c0e6b18d38b9df067c39ca157df86a">vhdl::parser::CharStream::ReInit</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a242b0ade90665d38c5931af90a59038b">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a0582344d99aae18c75c7524f7b5a98b8">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a82949d505a06f19999787ee61f85f7a7">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a7a3b115d9cb6f671539a8db6630f515c">vhdl::parser::CharStream::CharStream</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a639909d8be82f388025752ddc28980cd">vhdl::parser::CharStream::ReInit</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a147a1e6e2f7cc4d9dc423bc40a542a66">vhdl::parser::CharStream::ReInit</a> and <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#a93c0e6b18d38b9df067c39ca157df86a">vhdl::parser::CharStream::ReInit</a>.</p>
+
 </div>
 </div>
 

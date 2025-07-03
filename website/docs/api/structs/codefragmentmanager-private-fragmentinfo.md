@@ -148,7 +148,8 @@ struct CodeFragmentManager::Private::FragmentInfo { ... }
 </table>
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -179,7 +180,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -188,7 +190,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Reference <a href="#a4ecdcb6f208adad84cf6bc1643bf402a">recorderCodeList</a>.
+<p>Reference <a href="#a4ecdcb6f208adad84cf6bc1643bf402a">recorderCodeList</a>.</p>
+
 </div>
 </div>
 
@@ -218,7 +221,8 @@ Reference <a href="#a4ecdcb6f208adad84cf6bc1643bf402a">recorderCodeList</a>.
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -351,7 +355,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="#ab048a15363f78e3ff91a4f8c0bf76d3b">blocks</a>, <a href="#aa14990e60719d0e710eade3471641a1c">blocksById</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="#ab042db2cad417d3271ba4bef80c5607a">fileContents</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="#ab048a15363f78e3ff91a4f8c0bf76d3b">blocks</a>, <a href="#aa14990e60719d0e710eade3471641a1c">blocksById</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a> and <a href="#ab042db2cad417d3271ba4bef80c5607a">fileContents</a>.</p>
+
 </div>
 </div>
 
@@ -381,7 +386,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -390,7 +396,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
+<p>Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.</p>
+
 </div>
 </div>
 
@@ -414,7 +421,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -423,7 +431,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
+<p>Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.</p>
+
 </div>
 </div>
 
@@ -447,7 +456,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -456,7 +466,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
+<p>Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.</p>
+
 </div>
 </div>
 
@@ -480,7 +491,8 @@ Referenced by <a href="#aa83070e84b415c54820d479386998ea2">findBlockMarkers</a>.
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -511,7 +523,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -542,7 +555,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -551,7 +565,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Referenced by <a href="#af3e07441d60fae2c1df5d7803f3f97a8">FragmentInfo</a>.
+<p>Referenced by <a href="#af3e07441d60fae2c1df5d7803f3f97a8">FragmentInfo</a>.</p>
+
 </div>
 </div>
 

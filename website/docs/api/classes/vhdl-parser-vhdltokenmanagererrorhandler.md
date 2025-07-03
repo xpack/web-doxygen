@@ -120,7 +120,8 @@ class vhdl::parser::VhdlTokenManagerErrorHandler { ... }
 </table>
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -151,7 +152,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -160,7 +162,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-Reference <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>.
+<p>Reference <a href="#af7902c267118f16feb1484a97f949c62">m_fileName</a>.</p>
+
 </div>
 </div>
 
@@ -196,7 +199,8 @@ Reference <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>.
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -208,7 +212,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-References <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::TokenManagerErrorHandler::VhdlParserTokenManager</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="#af7902c267118f16feb1484a97f949c62">m_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::TokenManagerErrorHandler::VhdlParserTokenManager</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -238,7 +243,8 @@ References <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>, <a href
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -250,7 +256,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-References <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::TokenManagerErrorHandler::VhdlParserTokenManager</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="#af7902c267118f16feb1484a97f949c62">m_fileName</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenmanagererrorhandler/#aff28441094086f5cbf8ee8f34a8bc9a4">vhdl::parser::TokenManagerErrorHandler::VhdlParserTokenManager</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -280,7 +287,8 @@ References <a href="#af7902c267118f16feb1484a97f949c62">m\_fileName</a>, <a href
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlparsererrorhandler-hpp">VhdlParserErrorHandler.hpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -289,7 +297,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-Referenced by <a href="#ae746ea76c9ae4d27e1c9200c74caa960">lexicalError</a>, <a href="#a6c533dc72c65480b225f1515216317de">lexicalError</a> and <a href="#a4d1617061f43a0ececa71db05e4ca28b">VhdlTokenManagerErrorHandler</a>.
+<p>Referenced by <a href="#ae746ea76c9ae4d27e1c9200c74caa960">lexicalError</a>, <a href="#a6c533dc72c65480b225f1515216317de">lexicalError</a> and <a href="#a4d1617061f43a0ececa71db05e4ca28b">VhdlTokenManagerErrorHandler</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocParserContext` Struct Reference
 
-Parser's context to store all global variables. <a href="#details">More...</a>
+<p>Parser's context to store all global variables. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -454,9 +454,10 @@ struct DocParserContext { ... }
 
 ## Description {#details}
 
-Parser's context to store all global variables.
+<p>Parser's context to store all global variables.</p>
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -482,7 +483,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -491,7 +493,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -515,7 +518,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -524,7 +528,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a8541b3718d4e34888ecfcfc218f5c331">DocPara::handleRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#a92b042aef732d7da8cc71182810e76c5">DocHtmlDescTitle::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a8541b3718d4e34888ecfcfc218f5c331">DocPara::handleRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#a92b042aef732d7da8cc71182810e76c5">DocHtmlDescTitle::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -548,7 +553,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -557,7 +563,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>.</p>
+
 </div>
 </div>
 
@@ -581,7 +588,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -590,7 +598,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -614,7 +623,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -623,7 +633,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1b7d0715b60aea2ac421bfd1">createRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a3a7bca787f76b9c7cd05429fe738e790">DocPara::handleIFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1b7d0715b60aea2ac421bfd1">createRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a3a7bca787f76b9c7cd05429fe738e790">DocPara::handleIFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -647,7 +658,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a81d4810c1
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -656,7 +668,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -680,7 +693,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -689,7 +703,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -713,7 +728,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -722,7 +738,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -746,7 +763,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -755,7 +773,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.</p>
+
 </div>
 </div>
 
@@ -779,7 +798,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -788,7 +808,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.</p>
+
 </div>
 </div>
 
@@ -812,7 +833,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -821,7 +843,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -845,7 +868,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -854,7 +878,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.</p>
+
 </div>
 </div>
 
@@ -878,7 +903,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -887,7 +913,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -911,7 +938,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -920,7 +948,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -944,7 +973,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -953,7 +983,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d44222c9a45ef304c89e041">DocSimpleSect::appendLinkWord</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d44222c9a45ef304c89e041">DocSimpleSect::appendLinkWord</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -977,7 +1008,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae538f74c2d4
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -986,7 +1018,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docref/#a6004b78783411b8c5752371572afa3ef">DocRef::parse</a>, <a href="/web-doxygen/docs/api/classes/doctitle/#a410946c3855fd51f18485d6e3dcce59b">DocTitle::parseFromString</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docref/#a6004b78783411b8c5752371572afa3ef">DocRef::parse</a>, <a href="/web-doxygen/docs/api/classes/doctitle/#a410946c3855fd51f18485d6e3dcce59b">DocTitle::parseFromString</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1010,7 +1043,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docref/#a6004b78783411b8c57
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1019,7 +1053,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1043,7 +1078,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1052,7 +1088,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1076,7 +1113,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1107,7 +1145,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1116,7 +1155,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1140,7 +1180,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1149,7 +1190,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1173,7 +1215,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1182,7 +1225,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0bff680b96bc9c76b2228affeaa90bbb">DocPara::handleLink</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0bff680b96bc9c76b2228affeaa90bbb">DocPara::handleLink</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1206,7 +1250,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1215,7 +1260,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1239,7 +1285,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1270,7 +1317,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1279,7 +1327,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1303,7 +1352,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1312,7 +1362,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1336,7 +1387,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1345,7 +1397,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.</p>
+
 </div>
 </div>
 
@@ -1369,7 +1422,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1378,7 +1432,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1402,7 +1457,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1467,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311d58cf1ef51a91417ee">DocInclude::parse</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#a468e20836d11e4cd9e62159e169acc68">DocIncOperator::parse</a>.</p>
+
 </div>
 </div>
 
@@ -1435,7 +1492,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docinclude/#a191446e0b57311
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1444,7 +1502,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0eecb8116d4410392244f76fb8c209e6">DocPara::handleInheritDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1468,7 +1527,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1477,7 +1537,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf38a3ffcec3d0476">DocPara::handleDoxyConfig</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a724e489c954b750341d697b29e98033f">DocPara::handleEmoji</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a3a7bca787f76b9c7cd05429fe738e790">DocPara::handleIFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0bff680b96bc9c76b2228affeaa90bbb">DocPara::handleLink</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a8541b3718d4e34888ecfcfc218f5c331">DocPara::handleRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2bb5ccde078a4388fbd245dd98b466bf">DocPara::handleSection</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9eda818d4ba6098329">DocPara::handleXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af9a6952aca6a271fde9a883efd65cc58">DocPara::injectToken</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a8eef0f06619e7a80df0c5dd10e83cb2b">DocAutoList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a2a9332a0da85f6e0596e3d46cea53fe5">DocHRef::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldescdata/#ab176f44cd7bc955df0c352bd714e4e1c">DocHtmlDescData::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#a74ff0b5b4a4173213a643d6897d7f9c2">DocHtmlDescList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#a92b042aef732d7da8cc71182810e76c5">DocHtmlDescTitle::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmlheader/#a5f57a370972a9ce3f7aa769973c5d2e8">DocHtmlHeader::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab8fc1655d43a50f996a8878eb66e0dc7">DocHtmlList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#afbeab8f03e2ef431c05b8d3bcb6291aa">DocHtmlRow::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a6f4ae9d09701b93305b6e90260bc5662">DocHtmlTable::parse</a>, <a href="/web-doxygen/docs/api/classes/docindexentry/#a788ff313987522a9be055abe2fdb1592">DocIndexEntry::parse</a>, <a href="/web-doxygen/docs/api/classes/docinternal/#ad783a8507dd1e64ad38a889d9fa7a851">DocInternal::parse</a>, <a href="/web-doxygen/docs/api/classes/doclink/#aeb676914fb893fa31c99b39c1f7bb6d3">DocLink::parse</a>, <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docroot/#a860207dd6bee34648ddbfd55e3ddaff8">DocRoot::parse</a>, <a href="/web-doxygen/docs/api/classes/docsecreflist/#a9b279250711bb61d12bff4c34e70d2f3">DocSecRefList::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="/web-doxygen/docs/api/classes/doctext/#aada5a740aa0832964895e683340b76a5">DocText::parse</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a7eb70bb58c30a5dab96c862583503b7e">DocSimpleSect::parseRcs</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#a53b4acdb633ea0dea82a74cafd533e31">DocHtmlList::parseXml</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#a10bb2141d4a0d7867a97d829794184e3">DocHtmlRow::parseXml</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a2a913b8204fc7637dea2f3783da7b1a2">DocHtmlTable::parseXml</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521ee8cde5ccc5cdca438fa5f">checkIfHtmlEndTagEndsAutoList</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a10a22fde1124375bf9f58cbea8eadf84">DocPara::handleCite</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a22c8bd336d14e9baf38a3ffcec3d0476">DocPara::handleDoxyConfig</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a724e489c954b750341d697b29e98033f">DocPara::handleEmoji</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a3a7bca787f76b9c7cd05429fe738e790">DocPara::handleIFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a1bb9289a32b8c06de83c728786bb0669">DocPara::handleInclude</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a0bff680b96bc9c76b2228affeaa90bbb">DocPara::handleLink</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a8541b3718d4e34888ecfcfc218f5c331">DocPara::handleRef</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2bb5ccde078a4388fbd245dd98b466bf">DocPara::handleSection</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ad112877bd5902d918781a9f2d5e0f703">DocPara::handleShowDate</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af621e2f0d576fff189b3d94552edec15">DocPara::handleStartCode</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9eda818d4ba6098329">DocPara::handleXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docpara/#af9a6952aca6a271fde9a883efd65cc58">DocPara::injectToken</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a8eef0f06619e7a80df0c5dd10e83cb2b">DocAutoList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a2a9332a0da85f6e0596e3d46cea53fe5">DocHRef::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldescdata/#ab176f44cd7bc955df0c352bd714e4e1c">DocHtmlDescData::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesclist/#a74ff0b5b4a4173213a643d6897d7f9c2">DocHtmlDescList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmldesctitle/#a92b042aef732d7da8cc71182810e76c5">DocHtmlDescTitle::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmlheader/#a5f57a370972a9ce3f7aa769973c5d2e8">DocHtmlHeader::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab8fc1655d43a50f996a8878eb66e0dc7">DocHtmlList::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#afbeab8f03e2ef431c05b8d3bcb6291aa">DocHtmlRow::parse</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a6f4ae9d09701b93305b6e90260bc5662">DocHtmlTable::parse</a>, <a href="/web-doxygen/docs/api/classes/docindexentry/#a788ff313987522a9be055abe2fdb1592">DocIndexEntry::parse</a>, <a href="/web-doxygen/docs/api/classes/docinternal/#ad783a8507dd1e64ad38a889d9fa7a851">DocInternal::parse</a>, <a href="/web-doxygen/docs/api/classes/doclink/#aeb676914fb893fa31c99b39c1f7bb6d3">DocLink::parse</a>, <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a98345755b6311bcc4129bd7ee14759f1">DocParamList::parse</a>, <a href="/web-doxygen/docs/api/classes/docroot/#a860207dd6bee34648ddbfd55e3ddaff8">DocRoot::parse</a>, <a href="/web-doxygen/docs/api/classes/docsecreflist/#a9b279250711bb61d12bff4c34e70d2f3">DocSecRefList::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="/web-doxygen/docs/api/classes/doctext/#aada5a740aa0832964895e683340b76a5">DocText::parse</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a7eb70bb58c30a5dab96c862583503b7e">DocSimpleSect::parseRcs</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#a53b4acdb633ea0dea82a74cafd533e31">DocHtmlList::parseXml</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#a10bb2141d4a0d7867a97d829794184e3">DocHtmlRow::parseXml</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a2a913b8204fc7637dea2f3783da7b1a2">DocHtmlTable::parseXml</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a79bb36905dd1401288d55e12ee52ce03">DocParamList::parseXml</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 
@@ -1501,7 +1562,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#adbe932c521e
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1510,7 +1572,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/docparser
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a50b831629db52bab3309267c0a06b38b">validatingParseText</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#ad09a75bc25675328e8df85135924c6fa">validatingParseTitle</a>.</p>
+
 </div>
 </div>
 

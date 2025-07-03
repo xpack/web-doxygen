@@ -69,7 +69,8 @@ class FortranCodeParserFree { ... }
 </table>
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -100,7 +101,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-h">fortrancode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -109,7 +111,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#a21fc1ba3570d499b095e5ba8559f287f">FortranCodeParser::FortranCodeParser</a> and <a href="/web-doxygen/docs/api/files/src/types-h/#ad3f2a8c13ceee9c0aaeabf930dd88266ab24ce0cd392a5b0b8dedc66c25213594">Free</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fortrancodeparser/#a21fc1ba3570d499b095e5ba8559f287f">FortranCodeParser::FortranCodeParser</a> and <a href="/web-doxygen/docs/api/files/src/types-h/#ad3f2a8c13ceee9c0aaeabf930dd88266ab24ce0cd392a5b0b8dedc66c25213594">Free</a>.</p>
+
 </div>
 </div>
 

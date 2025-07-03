@@ -149,7 +149,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -163,9 +164,11 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/tooltip-c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20cfce3f391f36e0d9ace3d6">TooltipManager::addTooltip</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20cfce3f391f36e0d9ace3d6">TooltipManager::addTooltip</a>.</p>
+
 </div>
 </div>
 
@@ -200,7 +203,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a83c5141d20
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -209,7 +213,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/tooltip-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 
@@ -238,7 +243,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -247,7 +253,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/tooltip-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 
@@ -276,7 +283,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -285,7 +293,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/tooltip-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 

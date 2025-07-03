@@ -64,18 +64,23 @@ For a part this is because the code parser isn't smart enough at the moment. I'l
 ## How to Help {#howtohelp}
 
 
-The development of Doxygen highly depends on your input!
+<p>The development of Doxygen highly depends on your input!</p>
 
-If you are trying Doxygen let me know what you think of it (do you miss certain features?). Even if you decide not to use it, please let me know why.
+
+<p>If you are trying Doxygen let me know what you think of it (do you miss certain features?). Even if you decide not to use it, please let me know why.</p>
+
 
 ## How to report a bug {#bug_reports}
 
 
-Bugs are tracked in GitHub's <a href="https://github.com/doxygen/doxygen/issues">issue tracker</a>. Before submitting a <a href="https://github.com/doxygen/doxygen/issues/new">new bug</a>, first <a href="https://github.com/doxygen/doxygen/issues">search</a> through the database if the same bug has already been submitted by others. If you believe you have found a new bug, please <a href="https://github.com/doxygen/doxygen/issues/new">report it</a>.
+<p>Bugs are tracked in GitHub's <a href="https://github.com/doxygen/doxygen/issues">issue tracker</a>. Before submitting a <a href="https://github.com/doxygen/doxygen/issues/new">new bug</a>, first <a href="https://github.com/doxygen/doxygen/issues">search</a> through the database if the same bug has already been submitted by others. If you believe you have found a new bug, please <a href="https://github.com/doxygen/doxygen/issues/new">report it</a>.</p>
 
-If you are unsure whether or not something is a bug, please ask help first (subscription is required) on the <a href="https://sourceforge.net/p/doxygen/mailman/">users mailing list</a> or at <a href="https://stackoverflow.com/questions/tagged/doxygen">Stack Overflow</a> using the <span class="doxyComputerOutput">doxygen</span> label.
 
-If you send only a (vague) description of a bug, you are usually not very helpful and it will cost me much more time to figure out what you mean. In the worst-case your bug report may even be completely ignored by me, so always try to include the following information in your bug report:
+<p>If you are unsure whether or not something is a bug, please ask help first (subscription is required) on the <a href="https://sourceforge.net/p/doxygen/mailman/">users mailing list</a> or at <a href="https://stackoverflow.com/questions/tagged/doxygen">Stack Overflow</a> using the <span class="doxyComputerOutput">doxygen</span> label.</p>
+
+
+<p>If you send only a (vague) description of a bug, you are usually not very helpful and it will cost me much more time to figure out what you mean. In the worst-case your bug report may even be completely ignored by me, so always try to include the following information in your bug report:</p>
+
 
 <ul class="doxyList ">
 <li>The version of Doxygen you are using (for instance 1.5.3, use <span class="doxyComputerOutput">doxygen --version</span> if you are not sure or <span class="doxyComputerOutput">doxygen --Version</span> for a bit more information).</li>
@@ -85,11 +90,14 @@ If you send only a (vague) description of a bug, you are usually not very helpfu
 <li>Before submitting, consider also running Doxygen with some debugging flags, run <span class="doxyComputerOutput">doxygen -d</span> for all flags. The option <span class="doxyComputerOutput">preprocessor</span> might give you hints on how Doxygen is understanding your input files.</li>
 </ul>
 
-You can (and are encouraged to) add a patch for a <a href="https://github.com/doxygen/doxygen/issues">reported bug</a>. If you do so, please use "issue #NUMBER TITLE" as a title in the <a href="https://github.com/doxygen/doxygen/compare">pull request form</a>, where "NUMBER" and "TITLE" refer to the associated issue on GitHub.
+<p>You can (and are encouraged to) add a patch for a <a href="https://github.com/doxygen/doxygen/issues">reported bug</a>. If you do so, please use "issue #NUMBER TITLE" as a title in the <a href="https://github.com/doxygen/doxygen/compare">pull request form</a>, where "NUMBER" and "TITLE" refer to the associated issue on GitHub.</p>
 
-If you have ideas how to fix existing bugs and limitations please discuss them on the <a href="https://sourceforge.net/p/doxygen/mailman/">developers mailing list</a> (subscription required). Patches can also be sent directly to <a href="mailto:doxygen@gmail.com">doxygen@gmail.com</a> if you prefer not to send them via the bug tracker or mailing list.
 
-For patches please use "diff -uN" or include the files you modified. If you send more than one file please tar or zip everything, so I only have to save and download one file.
+<p>If you have ideas how to fix existing bugs and limitations please discuss them on the <a href="https://sourceforge.net/p/doxygen/mailman/">developers mailing list</a> (subscription required). Patches can also be sent directly to <a href="mailto:doxygen@gmail.com">doxygen@gmail.com</a> if you prefer not to send them via the bug tracker or mailing list.</p>
+
+
+<p>For patches please use "diff -uN" or include the files you modified. If you send more than one file please tar or zip everything, so I only have to save and download one file.</p>
+
  
 Go to the <a href="/docs/pages/features/">next</a> section or return to the
  <a href="/docs/">index</a>.

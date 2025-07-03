@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing an attribute list of a dot graph object. <a href="/web-doxygen/docs/api/classes/dotattributes/#details">More...</a>
+<p>Class representing an attribute list of a dot graph object. <a href="/web-doxygen/docs/api/classes/dotattributes/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

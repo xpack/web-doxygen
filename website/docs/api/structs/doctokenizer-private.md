@@ -58,7 +58,8 @@ struct DocTokenizer::Private { ... }
 </table>
 
 
-Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/doctoke
 
 
 
-Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 1712 of file <a href="/web-doxygen/docs/api/files/src/doctoke
 
 
 
-Definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1711 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

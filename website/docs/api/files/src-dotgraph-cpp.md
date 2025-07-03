@@ -151,7 +151,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,9 +176,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a5b5da50c67491de7a7e96ee10ccb9b1a">FileInfo::size</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a5b5da50c67491de7a7e96ee10ccb9b1a">FileInfo::size</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>.</p>
+
 </div>
 </div>
 
@@ -206,7 +209,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -232,9 +236,11 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a0859a9bfd6a7b6bafc7050d9f3aef046">TextStream::empty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a5b5da50c67491de7a7e96ee10ccb9b1a">FileInfo::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a0859a9bfd6a7b6bafc7050d9f3aef046">TextStream::empty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a5b5da50c67491de7a7e96ee10ccb9b1a">FileInfo::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a456518c674e7ae8f45d4eea8935bdc38">DotGraph::generateCode</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a456518c674e7ae8f45d4eea8935bdc38">DotGraph::generateCode</a>.</p>
+
 </div>
 </div>
 
@@ -264,9 +270,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a456518c674e7ae8f
 
 
 
-Checks if a file "baseName".md5 exists. If so the contents are compared with <em>md5</em>. If equal FALSE is returned. The .md5 is created or updated after successful creation of the output file.
+<p>Checks if a file "baseName".md5 exists. If so the contents are compared with <em>md5</em>. If equal FALSE is returned. The .md5 is created or updated after successful creation of the output file.</p>
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
+
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -299,9 +307,11 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.
+<p>Reference <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>.</p>
+
 </div>
 </div>
 
@@ -331,7 +341,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -340,7 +351,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/dotgraph
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.</p>
+
 </div>
 </div>
 
@@ -370,7 +382,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59de
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp">dotgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

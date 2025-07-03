@@ -102,7 +102,8 @@ class MemberLists { ... }
 </table>
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -133,7 +134,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/memberli
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
 </div>
 </div>
 
@@ -168,7 +170,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/memberli
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
 </div>
 </div>
 
@@ -203,7 +206,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/memberli
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -220,7 +224,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/memberli
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a> and <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a> and <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.</p>
+
 </div>
 </div>
 

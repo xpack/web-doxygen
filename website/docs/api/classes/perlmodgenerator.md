@@ -525,7 +525,8 @@ class PerlModGenerator { ... }
 </table>
 
 
-Definition at line 1420 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1420 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -556,7 +557,8 @@ Definition at line 1420 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 
 
 
-Definition at line 1439 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1439 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -565,7 +567,8 @@ Definition at line 1439 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Reference <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>.
+<p>Reference <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>.</p>
+
 </div>
 </div>
 
@@ -595,7 +598,8 @@ Reference <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>.
 
 
 
-Definition at line 1446 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1446 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -618,9 +622,11 @@ Definition at line 1446 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#ad7d5e7ac753d7247cfaad5be9ea3eaec">FileDef::docName</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#ac9ea4d136292663b672a8aeec5944548">IncludeInfo::fileDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a2dbc22c9108714bfd4417e558b7b82e2">ImportLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a17debda9cc01be4435a3cafc64061cc6">IncludeInfo::kind</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/filedef/#ad7d5e7ac753d7247cfaad5be9ea3eaec">FileDef::docName</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#ac9ea4d136292663b672a8aeec5944548">IncludeInfo::fileDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a2dbc22c9108714bfd4417e558b7b82e2">ImportLocal</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a52a98ac8d3b93b98e9371611d4b9dcb8a72f604ea2eef74f27164fe740e67847b">IncludeLocal</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a17debda9cc01be4435a3cafc64061cc6">IncludeInfo::kind</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>.</p>
 
-Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a> and <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>.
+
+<p>Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a> and <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>.</p>
+
 </div>
 </div>
 
@@ -644,7 +650,8 @@ Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForCla
 
 
 
-Definition at line 1445 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1445 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -676,9 +683,11 @@ Definition at line 1445 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ac8f58a78e8196768f3ddd17e645cf7f9">ClassDef::memberNameInfoLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ac8f58a78e8196768f3ddd17e645cf7f9">ClassDef::memberNameInfoLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.</p>
 
-Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>.
+
+<p>Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>.</p>
+
 </div>
 </div>
 
@@ -702,7 +711,8 @@ Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForCla
 
 
 
-Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -721,9 +731,11 @@ Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/classes/dir/#a2bb647584a701cb526874a8c0cd68c13">Dir::setPath</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a> and <a href="/web-doxygen/docs/api/classes/dir/#a2bb647584a701cb526874a8c0cd68c13">Dir::setPath</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -747,7 +759,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -765,9 +778,11 @@ Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.</p>
 
-Referenced by <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>, <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>, <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a> and <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>, <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>, <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a> and <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -791,7 +806,8 @@ Referenced by <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex
 
 
 
-Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -846,9 +862,11 @@ Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a2ed7475d94b3bc527009ebcc50621004">createOutputDir</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>, <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>, <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>, <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>, <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a>, <a href="#a4b29e2e00432a296288342688354b856">pathDoxyLatexDVI</a>, <a href="#aab3b623c4824006226ea5195aec1d8ef">pathDoxyLatexPDF</a>, <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>, <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>, <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>, <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a> and <a href="#a2a2147107f3c1812beb023cb68a10c55">pathMakefile</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="#a2ed7475d94b3bc527009ebcc50621004">createOutputDir</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>, <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>, <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>, <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>, <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a>, <a href="#a4b29e2e00432a296288342688354b856">pathDoxyLatexDVI</a>, <a href="#aab3b623c4824006226ea5195aec1d8ef">pathDoxyLatexPDF</a>, <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>, <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>, <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>, <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a> and <a href="#a2a2147107f3c1812beb023cb68a10c55">pathMakefile</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3c604811885fb67cffd44d399931dc15">generatePerlMod</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3c604811885fb67cffd44d399931dc15">generatePerlMod</a>.</p>
+
 </div>
 </div>
 
@@ -872,7 +890,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3c604811
 
 
 
-Definition at line 1458 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1458 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1041,9 +1060,11 @@ Definition at line 1458 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a> and <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a>.
+<p>References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a> and <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1067,7 +1088,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1460 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1460 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1196,9 +1218,11 @@ Definition at line 1460 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>.
+<p>References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1222,7 +1246,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1461 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1461 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1262,9 +1287,11 @@ Definition at line 1461 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>.
+<p>References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1288,7 +1315,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1320,9 +1348,11 @@ Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a> and <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>.
+<p>References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a> and <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1346,7 +1376,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1462 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1462 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1449,9 +1480,11 @@ Definition at line 1462 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af9a07601cdd319c7b07bd7aa46c7e5fb">pathDoxyExec</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#afb0371ed59a369486ad1a67b4c2efeab">pathDoxyfile</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a>, <a href="#a4b29e2e00432a296288342688354b856">pathDoxyLatexDVI</a>, <a href="#aab3b623c4824006226ea5195aec1d8ef">pathDoxyLatexPDF</a>, <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>, <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>, <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>, <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>, <a href="#a6b90bb007822613373e9a65ff35643c4">pathDoxyDocsTex</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af9a07601cdd319c7b07bd7aa46c7e5fb">pathDoxyExec</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#afb0371ed59a369486ad1a67b4c2efeab">pathDoxyfile</a>, <a href="#aab3220d2f03ba759c948d8be316d4d2c">pathDoxyFormatTex</a>, <a href="#a4b29e2e00432a296288342688354b856">pathDoxyLatexDVI</a>, <a href="#aab3b623c4824006226ea5195aec1d8ef">pathDoxyLatexPDF</a>, <a href="#a23cafbc784eadd8d96ea498c07ee1b22">pathDoxyLatexPL</a>, <a href="#a8dd402f31f1312093ec503a733a5c691">pathDoxyLatexStructurePL</a>, <a href="#ad2ea9cd9b17663a5b3ff62752031fb2b">pathDoxyLatexTex</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>, <a href="#a240a78f6c0326286469e17febcb3e386">pathDoxyStructureTex</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1475,7 +1508,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1459 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1459 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1665,9 +1699,11 @@ Definition at line 1459 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>.
+<p>References <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a> and <a href="#a4139ab7ca413fcf7e9d9c10a6abb13f2">pathDoxyStructurePM</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1691,7 +1727,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1724,9 +1761,11 @@ Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a2a2147107f3c1812beb023cb68a10c55">pathMakefile</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a5b043201cbf4b5840582794d44bdcafb">pathDoxyRules</a>, <a href="#a2a2147107f3c1812beb023cb68a10c55">pathMakefile</a> and <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -1750,7 +1789,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1447 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1447 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1883,9 +1923,11 @@ Definition at line 1447 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="#a81142c12bb2ef7638500997115bf2f43">addListOfAllMembers</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a5375ce03d260026390f88a202e99fe33">addTemplateList</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/classdef/#aeb64dc8f57c5d07f1b1d55bc560a7004">ClassDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a>, <a href="/web-doxygen/docs/api/classes/classdef/#add2c3b56273ce664bbaeb0ce1c8f420c">ClassDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a7d2f9d08207ecf5b227c11f8b4ea6d9f">ClassDef::getMemberList</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad63d39480ae9ec4e71bedbb749d16a4c">Definition::getStartBodyLine</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a828e0e888fb52189a320a57a1eb96fe7">DotClassGraph::isTrivial</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.
+<p>References <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="#a81142c12bb2ef7638500997115bf2f43">addListOfAllMembers</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a5375ce03d260026390f88a202e99fe33">addTemplateList</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/classdef/#aeb64dc8f57c5d07f1b1d55bc560a7004">ClassDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a>, <a href="/web-doxygen/docs/api/classes/classdef/#add2c3b56273ce664bbaeb0ce1c8f420c">ClassDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a7d2f9d08207ecf5b227c11f8b4ea6d9f">ClassDef::getMemberList</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad63d39480ae9ec4e71bedbb749d16a4c">Definition::getStartBodyLine</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/dotclassgraph/#a828e0e888fb52189a320a57a1eb96fe7">DotClassGraph::isTrivial</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -1909,7 +1951,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1932,9 +1975,11 @@ Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a5375ce03d260026390f88a202e99fe33">addTemplateList</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a4a1c84ee0b30b5f9ccd3df69135b57b8">ConceptDef::includeInfo</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a1d3f52dc1f9634dfa1f1c0702f918e81">ConceptDef::initializer</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a5375ce03d260026390f88a202e99fe33">addTemplateList</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a4a1c84ee0b30b5f9ccd3df69135b57b8">ConceptDef::includeInfo</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a1d3f52dc1f9634dfa1f1c0702f918e81">ConceptDef::initializer</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -1958,7 +2003,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1451 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1451 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2027,9 +2073,11 @@ Definition at line 1451 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a11c922f32703c5ddc3e4b9d47cea33a3">FileDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aca0861997f31aa265f0c0078c947fdc9">FileDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae9c6fecec7ff96fded91315943519a25">FileDef::includedByFileList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aaa1fd01a880dff1fb1724a1dd209693f">FileDef::includeFileList</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a11c922f32703c5ddc3e4b9d47cea33a3">FileDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aca0861997f31aa265f0c0078c947fdc9">FileDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae9c6fecec7ff96fded91315943519a25">FileDef::includedByFileList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aaa1fd01a880dff1fb1724a1dd209693f">FileDef::includeFileList</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2053,7 +2101,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1452 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1452 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2165,9 +2214,11 @@ Definition at line 1452 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a927445c6f77b990c4b7ea29e93a7837e">GroupDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a8a9fe05d4375b4571d822141ba498bf2">GroupDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#ae1e55ed1172103ac1072cde37b3fd578">GroupDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#afae9211266248f6c26c5fabf1c4415b0">GroupDef::getModules</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a927445c6f77b990c4b7ea29e93a7837e">GroupDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a8a9fe05d4375b4571d822141ba498bf2">GroupDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#ae1e55ed1172103ac1072cde37b3fd578">GroupDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#afae9211266248f6c26c5fabf1c4415b0">GroupDef::getModules</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2191,7 +2242,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1441 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1441 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2374,9 +2426,11 @@ Definition at line 1441 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#acc52d012d093df1adede055164f69dc9">ArgumentList::begin</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a72440ac7985da3c0c465134bc0ddd2d5">ArgumentList::constSpecifier</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3beb75d1563ebc22253341be4ce57f44">Dictionary</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aaa15ddcfdb06a535a3398f1dc73d336d">ArgumentList::empty</a>, <a href="/web-doxygen/docs/api/classes/membervector/#a8211803ee32d3deef9aafca1cc061101">MemberVector::empty</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a215181845c0d9f0525806a4165c4f552">ArgumentList::end</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1e08adab7ea5d97208e8662165d89995">MemberDef::enumBaseType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a2f94a19fd2121d155de4865cf7c2fa81">MemberDef::excpString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5cdaf0953a164c3e6d7831a39c072e71">MemberDef::reimplementedBy</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3ff39d3acb327553070a64ef0cb321d5">Sequence</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ac2ba7e785c49050f48da9aacc45c2b85">Service</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a> and <a href="/web-doxygen/docs/api/classes/argumentlist/#ad03f25174e81a42a617a15195a8867b0">ArgumentList::volatileSpecifier</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#acc52d012d093df1adede055164f69dc9">ArgumentList::begin</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a72440ac7985da3c0c465134bc0ddd2d5">ArgumentList::constSpecifier</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3beb75d1563ebc22253341be4ce57f44">Dictionary</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aaa15ddcfdb06a535a3398f1dc73d336d">ArgumentList::empty</a>, <a href="/web-doxygen/docs/api/classes/membervector/#a8211803ee32d3deef9aafca1cc061101">MemberVector::empty</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a215181845c0d9f0525806a4165c4f552">ArgumentList::end</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1e08adab7ea5d97208e8662165d89995">MemberDef::enumBaseType</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a2f94a19fd2121d155de4865cf7c2fa81">MemberDef::excpString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a85b31a0b9f4657070d51bb5f61e6316e">getProtectionName</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a3db996b98d5e76eca750e67f99b4e327">getVirtualnessName</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3c1aac82863ed9e5a9aca8ce687f711d">Interface</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5cdaf0953a164c3e6d7831a39c072e71">MemberDef::reimplementedBy</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a3ff39d3acb327553070a64ef0cb321d5">Sequence</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ac2ba7e785c49050f48da9aacc45c2b85">Service</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a> and <a href="/web-doxygen/docs/api/classes/argumentlist/#ad03f25174e81a42a617a15195a8867b0">ArgumentList::volatileSpecifier</a>.</p>
 
-Referenced by <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a> and <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>.
+
+<p>Referenced by <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a> and <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>.</p>
+
 </div>
 </div>
 
@@ -2400,7 +2454,8 @@ Referenced by <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSectio
 
 
 
-Definition at line 1449 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1449 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2467,9 +2522,11 @@ Definition at line 1449 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aeb422153b08d7da56d56a96acba60370">ModuleDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ade149e97f8df65bf64a4833caa43c6de">ModuleDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a58b6c98c1199174f0cb721735c589d67">ModuleDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a46d36e2cd44ba84b804f14cec1f079c4">ModuleDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ac88969f1e19df5e0444bcef41af2ed79">ModuleDef::getUsedFiles</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aeb422153b08d7da56d56a96acba60370">ModuleDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ade149e97f8df65bf64a4833caa43c6de">ModuleDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a58b6c98c1199174f0cb721735c589d67">ModuleDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a46d36e2cd44ba84b804f14cec1f079c4">ModuleDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ac88969f1e19df5e0444bcef41af2ed79">ModuleDef::getUsedFiles</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2493,7 +2550,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1450 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1450 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2551,9 +2609,11 @@ Definition at line 1450 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9275729a7e9b5b4b07">NamespaceDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/linkedrefmap/#ad4eea714e29d412612981ac2a8bcab40">LinkedRefMap&lt; T, Hash, KeyEqual, Map &gt;::empty</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9275729a7e9b5b4b07">NamespaceDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2577,7 +2637,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2603,9 +2664,11 @@ Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#af0db6e1068b93a112848a208cf955b10">addPerlModDocBlock</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a> and <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a>.</p>
 
-Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+
+<p>Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2629,7 +2692,8 @@ Referenced by <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput
 
 
 
-Definition at line 1464 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1464 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2699,9 +2763,11 @@ Definition at line 1464 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a>, <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>, <a href="#a0151a88e0794af12a9e7932de2d7a928">generatePerlModForPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a> and <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="#ac12f2a17915bb4023585afb081f7f39a">createOutputFile</a>, <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a>, <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>, <a href="#a0151a88e0794af12a9e7932de2d7a928">generatePerlModForPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a> and <a href="#a32a35dd412f8e42e1f12b671935da576">pathDoxyDocsPM</a>.</p>
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
+
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.</p>
+
 </div>
 </div>
 
@@ -2725,7 +2791,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>.
 
 
 
-Definition at line 1443 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1443 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2751,9 +2818,11 @@ Definition at line 1443 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>.
+<p>References <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>.</p>
 
-Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a> and <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>.
+
+<p>Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a> and <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -2777,7 +2846,8 @@ Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForCla
 
 
 
-Definition at line 1442 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1442 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2812,9 +2882,11 @@ Definition at line 1442 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-References <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m\_output</a>.
+<p>References <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a> and <a href="#a1570f315b84f678d45d80929fe3af533">m_output</a>.</p>
 
-Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a> and <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>.
+
+<p>Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a> and <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -2844,7 +2916,8 @@ Referenced by <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForCla
 
 
 
-Definition at line 1424 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1424 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2853,7 +2926,8 @@ Definition at line 1424 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="#a81142c12bb2ef7638500997115bf2f43">addListOfAllMembers</a>, <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a>, <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>, <a href="#a0151a88e0794af12a9e7932de2d7a928">generatePerlModForPage</a>, <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a> and <a href="#a7473195622dcb57930bbd08c88dd6504">PerlModGenerator</a>.
+<p>Referenced by <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <a href="#a81142c12bb2ef7638500997115bf2f43">addListOfAllMembers</a>, <a href="#a44b30742275d27dcfe5eb9ea286af80f">generatePerlModForClass</a>, <a href="#ac1f8e6fa454368157eb7cdb564ee6a40">generatePerlModForConcept</a>, <a href="#aa4d01cc3ff8a727b38849e8efd171be9">generatePerlModForFile</a>, <a href="#aa29eb86a9962f547f8139ff1cfe40b01">generatePerlModForGroup</a>, <a href="#a1d2fc28014f00de3422ac4b7a68b868a">generatePerlModForMember</a>, <a href="#a4d95b912616cab9e00075658e0fa09d4">generatePerlModForModule</a>, <a href="#a6d79f62a76314d0c65cb976809923d80">generatePerlModForNamespace</a>, <a href="#a0151a88e0794af12a9e7932de2d7a928">generatePerlModForPage</a>, <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>, <a href="#a33b4ffef65928cbc0b426e79f93334c9">generatePerlModSection</a>, <a href="#ad9c4e501bf3f834f7fc70de6893b445d">generatePerlUserDefinedSection</a> and <a href="#a7473195622dcb57930bbd08c88dd6504">PerlModGenerator</a>.</p>
+
 </div>
 </div>
 
@@ -2877,7 +2951,8 @@ Referenced by <a href="#a7b0a42da35d51f4e7f198975258cf9fd">addIncludeInfo</a>, <
 
 
 
-Definition at line 1433 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1433 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2886,7 +2961,8 @@ Definition at line 1433 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a4c5977a4e048326d58cabd7d348463ea">generatePerlModOutput</a>.</p>
+
 </div>
 </div>
 
@@ -2910,7 +2986,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1427 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1427 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2919,7 +2996,8 @@ Definition at line 1427 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -2943,7 +3021,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1428 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1428 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2952,7 +3031,8 @@ Definition at line 1428 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -2976,7 +3056,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2985,7 +3066,8 @@ Definition at line 1430 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3009,7 +3091,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a h
 
 
 
-Definition at line 1431 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1431 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3018,7 +3101,8 @@ Definition at line 1431 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3042,7 +3126,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a h
 
 
 
-Definition at line 1434 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1434 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3051,7 +3136,8 @@ Definition at line 1434 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a999b190603bbc840657ad470a17465ad">generateDoxyLatexPL</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3075,7 +3161,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3084,7 +3171,8 @@ Definition at line 1435 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#ad03aadb67e05b528cd454bed3bee16b9">generateDoxyLatexStructurePL</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3108,7 +3196,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3117,7 +3206,8 @@ Definition at line 1429 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a2cb28a6f8bf6b9f155d3929b95acf059">generateDoxyLatexTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3141,7 +3231,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1436 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1436 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3150,7 +3241,8 @@ Definition at line 1436 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>.</p>
+
 </div>
 </div>
 
@@ -3174,7 +3266,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1426 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1426 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3183,7 +3276,8 @@ Definition at line 1426 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a> and <a href="#a9893c2c270028114dec964284676adc7">generateDoxyStructurePM</a>.</p>
+
 </div>
 </div>
 
@@ -3207,7 +3301,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1432 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1432 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3216,7 +3311,8 @@ Definition at line 1432 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href="#a1f0a8822b1895daacce85dd3d93eecac">generateDoxyFormatTex</a> and <a href="#a72b6d57151d45a13c60402914aa50831">generateDoxyRules</a>.</p>
+
 </div>
 </div>
 
@@ -3240,7 +3336,8 @@ Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a>, <a href
 
 
 
-Definition at line 1437 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.
+<p>Definition at line 1437 of file <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp">perlmodgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3249,7 +3346,8 @@ Definition at line 1437 of file <a href="/web-doxygen/docs/api/files/src/perlmod
 </div>
 
 
-Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>.
+<p>Referenced by <a href="#af6bb93beb1eac9b861832d368ffad291">generate</a> and <a href="#a473b6bd63ac2f9ea9fe6de4f8170194b">generateMakefile</a>.</p>
+
 </div>
 </div>
 

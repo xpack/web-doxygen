@@ -82,7 +82,8 @@ struct NamespaceAliasInfo { ... }
 </table>
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -113,7 +114,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -122,7 +124,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-References <a href="#a7943caa7e956159237156950939a6fc7">alias</a> and <a href="#a2041d96e1f055f21cea2f3bebf254b42">context</a>.
+<p>References <a href="#a7943caa7e956159237156950939a6fc7">alias</a> and <a href="#a2041d96e1f055f21cea2f3bebf254b42">context</a>.</p>
+
 </div>
 </div>
 
@@ -152,7 +155,8 @@ References <a href="#a7943caa7e956159237156950939a6fc7">alias</a> and <a href="#
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -161,7 +165,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6ae6e0fe13853fa30bfd52d07a4">getResolvedNamespaceRec</a> and <a href="#a396176b969fa1aadda7c41949e08c7f2">NamespaceAliasInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6ae6e0fe13853fa30bfd52d07a4">getResolvedNamespaceRec</a> and <a href="#a396176b969fa1aadda7c41949e08c7f2">NamespaceAliasInfo</a>.</p>
+
 </div>
 </div>
 
@@ -185,7 +190,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h">doxygen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -194,7 +200,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/doxygen-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6ae6e0fe13853fa30bfd52d07a4">getResolvedNamespaceRec</a> and <a href="#a396176b969fa1aadda7c41949e08c7f2">NamespaceAliasInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#a5651f6ae6e0fe13853fa30bfd52d07a4">getResolvedNamespaceRec</a> and <a href="#a396176b969fa1aadda7c41949e08c7f2">NamespaceAliasInfo</a>.</p>
+
 </div>
 </div>
 

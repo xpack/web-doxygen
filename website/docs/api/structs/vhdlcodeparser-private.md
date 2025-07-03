@@ -58,7 +58,8 @@ struct VHDLCodeParser::Private { ... }
 </table>
 
 
-Definition at line 1626 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 1626 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 1626 of file <a href="/web-doxygen/docs/api/files/src/vhdlcod
 
 
 
-Definition at line 1629 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 1629 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 1629 of file <a href="/web-doxygen/docs/api/files/src/vhdlcod
 
 
 
-Definition at line 1628 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 1628 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagAnchorInfo` Class Reference
 
-Information about an linkable anchor. <a href="#details">More...</a>
+<p>Information about an linkable anchor. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -91,9 +91,10 @@ class anonymous_namespace{tagreader.cpp}::TagAnchorInfo { ... }
 
 ## Description {#details}
 
-Information about an linkable anchor.
+<p>Information about an linkable anchor.</p>
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -124,7 +125,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -136,7 +138,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 </div>
 
 
-References <a href="#a790fcdd783a7ea16c1ba98182a43aa6b">fileName</a>, <a href="#aaad82bef7c2fcacc359428e760989475">label</a> and <a href="#aec7c343e5281f855a7259775d3a4b0cf">title</a>.
+<p>References <a href="#a790fcdd783a7ea16c1ba98182a43aa6b">fileName</a>, <a href="#aaad82bef7c2fcacc359428e760989475">label</a> and <a href="#aec7c343e5281f855a7259775d3a4b0cf">title</a>.</p>
+
 </div>
 </div>
 
@@ -166,7 +169,8 @@ References <a href="#a790fcdd783a7ea16c1ba98182a43aa6b">fileName</a>, <a href="#
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +179,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 </div>
 
 
-Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.
+<p>Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.</p>
+
 </div>
 </div>
 
@@ -199,7 +204,8 @@ Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -208,7 +214,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 </div>
 
 
-Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.
+<p>Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.</p>
+
 </div>
 </div>
 
@@ -232,7 +239,8 @@ Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -241,7 +249,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 </div>
 
 
-Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.
+<p>Referenced by <a href="#a766ccc17e27576324a3676eb1ba2a735">TagAnchorInfo</a>.</p>
+
 </div>
 </div>
 

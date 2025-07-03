@@ -155,7 +155,8 @@ struct DocImage::Private { ... }
 </table>
 
 
-Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -186,7 +187,8 @@ Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 
 
 
-Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -198,7 +200,8 @@ Definition at line 662 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-References <a href="#a5c5dd9162e636c3707dd504cf08f8cfa">attribs</a>, <a href="#a236cfa31436e00f002c30a19feb62b10">inlineImage</a>, <a href="#a05cbd62f1d4db101cbae430b31330bad">name</a>, <a href="#a1f50a8d0bb0c8335386883568045a0d3">relPath</a>, <a href="#aa1303c4bce65db3e3d0aa37bd9e026a8">type</a> and <a href="#a1a67ce73b0e3e2e298a6acafd96d2465">url</a>.
+<p>References <a href="#a5c5dd9162e636c3707dd504cf08f8cfa">attribs</a>, <a href="#a236cfa31436e00f002c30a19feb62b10">inlineImage</a>, <a href="#a05cbd62f1d4db101cbae430b31330bad">name</a>, <a href="#a1f50a8d0bb0c8335386883568045a0d3">relPath</a>, <a href="#aa1303c4bce65db3e3d0aa37bd9e026a8">type</a> and <a href="#a1a67ce73b0e3e2e298a6acafd96d2465">url</a>.</p>
+
 </div>
 </div>
 
@@ -228,7 +231,8 @@ References <a href="#a5c5dd9162e636c3707dd504cf08f8cfa">attribs</a>, <a href="#a
 
 
 
-Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -237,7 +241,8 @@ Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +266,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -292,7 +298,8 @@ Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 
 
 
-Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -301,7 +308,8 @@ Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -325,7 +333,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -334,7 +343,8 @@ Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -358,7 +368,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -367,7 +378,8 @@ Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -391,7 +403,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -400,7 +413,8 @@ Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -424,7 +438,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -433,7 +448,8 @@ Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
+<p>Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -457,7 +473,8 @@ Referenced by <a href="#a92615e7de0fa8fff75b8531936e6628a">Private</a>.
 
 
 
-Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

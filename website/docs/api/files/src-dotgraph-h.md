@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
+<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -151,7 +151,8 @@ A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</
 </dd>
 </dl>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,7 +206,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-
 </dd>
 </dl>
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -274,7 +276,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-
 </dd>
 </dl>
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgraph-h">dotgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

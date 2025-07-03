@@ -95,7 +95,8 @@ struct SIData_CurrentDoc { ... }
 </table>
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -126,7 +127,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -136,7 +138,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-References <a href="#aac6713d4387641dcd18aba49386d3b16">anchor</a>, <a href="#a37494d9ab40651c3a77d2798209a3735">ctx</a> and <a href="#af4425f8f65091be8e1af7bc143748d82">isSourceFile</a>.
+<p>References <a href="#aac6713d4387641dcd18aba49386d3b16">anchor</a>, <a href="#a37494d9ab40651c3a77d2798209a3735">ctx</a> and <a href="#af4425f8f65091be8e1af7bc143748d82">isSourceFile</a>.</p>
+
 </div>
 </div>
 
@@ -166,7 +169,8 @@ References <a href="#aac6713d4387641dcd18aba49386d3b16">anchor</a>, <a href="#a3
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +179,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
+<p>Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData_CurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -199,7 +204,8 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -208,7 +214,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
+<p>Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData_CurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -232,7 +239,8 @@ Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -241,7 +249,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData\_CurrentDoc</a>.
+<p>Referenced by <a href="#a3be768e36e36f25c733809f449fe3911">SIData_CurrentDoc</a>.</p>
+
 </div>
 </div>
 

@@ -615,7 +615,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -657,7 +658,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 1825 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1825 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -687,9 +689,11 @@ Definition at line 1825 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.</p>
 
-Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>.
+
+<p>Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>.</p>
+
 </div>
 </div>
 
@@ -718,7 +722,8 @@ Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>.
 
 
 
-Definition at line 1963 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1963 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -737,7 +742,8 @@ Definition at line 1963 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
+
 </div>
 </div>
 
@@ -767,7 +773,8 @@ References <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2b
 
 
 
-Definition at line 2077 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2077 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -807,7 +814,8 @@ Definition at line 2077 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 
 
 
-Definition at line 1888 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1888 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -825,7 +833,8 @@ Definition at line 1888 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="#ac41321000a4a4f6ab696d4a6a88a4fef">addEntry</a>, <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#ac41321000a4a4f6ab696d4a6a88a4fef">addEntry</a>, <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -855,7 +864,8 @@ References <a href="#ac41321000a4a4f6ab696d4a6a88a4fef">addEntry</a>, <a href="#
 
 
 
-Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -877,7 +887,8 @@ Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
+
 </div>
 </div>
 
@@ -906,7 +917,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078
 
 
 
-Definition at line 1864 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1864 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -926,7 +938,8 @@ Definition at line 1864 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.
+<p>Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.</p>
+
 </div>
 </div>
 
@@ -955,7 +968,8 @@ Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.
 
 
 
-Definition at line 2064 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2064 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -975,7 +989,8 @@ Definition at line 2064 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>.
+<p>Reference <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>.</p>
+
 </div>
 </div>
 
@@ -1004,7 +1019,8 @@ Reference <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>.
 
 
 
-Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1018,9 +1034,11 @@ Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a8a8ff9e246514b6146a187f9648c2736">parseMain</a>.
+
+<p>Referenced by <a href="#a8a8ff9e246514b6146a187f9648c2736">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -1049,7 +1067,8 @@ Referenced by <a href="#a8a8ff9e246514b6146a187f9648c2736">parseMain</a>.
 
 
 
-Definition at line 1929 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1929 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1083,9 +1102,11 @@ Definition at line 1929 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a57ef3ef713c786fffec737ed9556ed63">findPackageScope</a> and <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>.
+
+<p>Referenced by <a href="#a57ef3ef713c786fffec737ed9556ed63">findPackageScope</a> and <a href="#a71aab00668419c1f9fdfeecf87e0d59f">findPackageScopeFromPath</a>.</p>
+
 </div>
 </div>
 
@@ -1115,7 +1136,8 @@ Referenced by <a href="#a57ef3ef713c786fffec737ed9556ed63">findPackageScope</a> 
 
 
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1151,7 +1173,8 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1213,7 +1236,8 @@ Definition at line 2009 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>.</p>
+
 </div>
 </div>
 
@@ -1242,7 +1266,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 1986 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1986 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1256,7 +1281,8 @@ Definition at line 1986 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>.</p>
+
 </div>
 </div>
 
@@ -1285,7 +1311,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b1
 
 
 
-Definition at line 1763 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1763 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1308,7 +1335,8 @@ Definition at line 1763 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -1337,7 +1365,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 
 
-Definition at line 1752 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1752 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1355,7 +1384,8 @@ Definition at line 1752 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1384,7 +1414,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 2109 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2109 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1403,7 +1434,8 @@ Definition at line 2109 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1432,7 +1464,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 2083 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2083 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1452,7 +1485,8 @@ Definition at line 2083 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1481,7 +1515,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 2096 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2096 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1501,7 +1536,8 @@ Definition at line 2096 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a3f8584604e877b6eb570db94e3692a92">startCommentBlock</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1530,7 +1566,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 1976 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1976 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1547,7 +1584,8 @@ Definition at line 1976 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>.</p>
+
 </div>
 </div>
 
@@ -1576,7 +1614,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b1
 
 
 
-Definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1629,9 +1668,11 @@ Definition at line 1779 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.</p>
 
-Referenced by <a href="#a4bbc5085e6314777292116922282abf8">endOfDef</a>, <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a> and <a href="#a851aa07f7276b7e8f4b12d2592d2eb39">newVariable</a>.
+
+<p>Referenced by <a href="#a4bbc5085e6314777292116922282abf8">endOfDef</a>, <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#aae0b93eceac30fcc7b8bbb6795b588a2">handleParametersCommentBlocks</a> and <a href="#a851aa07f7276b7e8f4b12d2592d2eb39">newVariable</a>.</p>
+
 </div>
 </div>
 
@@ -1660,7 +1701,8 @@ Referenced by <a href="#a4bbc5085e6314777292116922282abf8">endOfDef</a>, <a href
 
 
 
-Definition at line 1899 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1899 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1682,7 +1724,8 @@ Definition at line 1899 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.
+<p>Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.</p>
+
 </div>
 </div>
 
@@ -1711,7 +1754,8 @@ Reference <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a>.
 
 
 
-Definition at line 1877 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1877 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1729,7 +1773,8 @@ Definition at line 1877 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="#a3bb5a3fd461f68eff332a09e9e5b0e1e">setProtection</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1758,7 +1803,8 @@ References <a href="#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="#
 
 
 
-Definition at line 2155 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2155 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1818,9 +1864,11 @@ Definition at line 2155 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a13348442cc6a27032d2b4aa28b75a5d3">Search</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a13348442cc6a27032d2b4aa28b75a5d3">Search</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a3383c871b9fd5e4b1cf4a549de88a1f3">parseCompounds</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="#a8a8ff9e246514b6146a187f9648c2736">parseMain</a> and <a href="/web-doxygen/docs/api/files/src/scanner-l/#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a3383c871b9fd5e4b1cf4a549de88a1f3">parseCompounds</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="#a8a8ff9e246514b6146a187f9648c2736">parseMain</a> and <a href="/web-doxygen/docs/api/files/src/scanner-l/#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -1849,7 +1897,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/scanner-l/#a3383c871b9fd5
 
 
 
-Definition at line 2211 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2211 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1932,7 +1981,8 @@ Definition at line 2211 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#aec2c36ba622c46816be190eca39b94af">FileInfo::baseName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#a57ef3ef713c786fffec737ed9556ed63">findPackageScope</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a13348442cc6a27032d2b4aa28b75a5d3">Search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#aec2c36ba622c46816be190eca39b94af">FileInfo::baseName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#a57ef3ef713c786fffec737ed9556ed63">findPackageScope</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/index-h/#a6643b7765422a7eb577f0b2ed8fb2e09a13348442cc6a27032d2b4aa28b75a5d3">Search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1961,7 +2011,8 @@ References <a href="/web-doxygen/docs/api/classes/fileinfo/#aec2c36ba622c46816be
 
 
 
-Definition at line 2289 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2289 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2014,7 +2065,8 @@ Definition at line 2289 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY\_BUF\_SIZE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY_BUF_SIZE</a>.</p>
+
 </div>
 </div>
 
@@ -2043,7 +2095,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-Definition at line 2141 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2141 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2062,7 +2115,8 @@ Definition at line 2141 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -2091,7 +2145,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 
 
-Definition at line 2121 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2121 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2118,7 +2173,8 @@ Definition at line 2121 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -2147,7 +2203,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 
 
-Definition at line 1848 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1848 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2170,7 +2227,8 @@ Definition at line 1848 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 </div>
 
 
-Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>, <a href="#a1f97070341210413d4ebab8defffdcb8">docVariable</a>, <a href="#ae986dc4d2214f2b90b824521c25a2a5c">newFunction</a> and <a href="#a851aa07f7276b7e8f4b12d2592d2eb39">newVariable</a>.
+<p>Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>, <a href="#a1f97070341210413d4ebab8defffdcb8">docVariable</a>, <a href="#ae986dc4d2214f2b90b824521c25a2a5c">newFunction</a> and <a href="#a851aa07f7276b7e8f4b12d2592d2eb39">newVariable</a>.</p>
+
 </div>
 </div>
 
@@ -2199,7 +2257,8 @@ Referenced by <a href="#af6ecf9ac01a23dc21259b408a314f54a">addVariable</a>, <a h
 
 
 
-Definition at line 1994 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1994 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2248,7 +2307,8 @@ Definition at line 1994 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 </div>
 </div>
 
@@ -2272,7 +2332,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3773,7 +3834,8 @@ Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 1742 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 1742 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3818,7 +3880,8 @@ Definition at line 1742 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3849,7 +3912,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3880,7 +3944,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3911,7 +3976,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/pyscanne
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3942,7 +4008,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3973,7 +4040,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/pyscanner
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

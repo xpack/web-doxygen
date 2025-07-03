@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a single node in the built-in class diagram. <a href="/web-doxygen/docs/api/classes/diagramitem/#details">More...</a>
+<p>Class representing a single node in the built-in class diagram. <a href="/web-doxygen/docs/api/classes/diagramitem/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ Class representing a single node in the built-in class diagram. <a href="/web-do
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a row in the built-in class diagram. <a href="/web-doxygen/docs/api/classes/diagramrow/#details">More...</a>
+<p>Class representing a row in the built-in class diagram. <a href="/web-doxygen/docs/api/classes/diagramrow/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ Class representing a row in the built-in class diagram. <a href="/web-doxygen/do
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing the tree layout for the built-in class diagram. <a href="/web-doxygen/docs/api/classes/treediagram/#details">More...</a>
+<p>Class representing the tree layout for the built-in class diagram. <a href="/web-doxygen/docs/api/classes/treediagram/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,7 @@ Class representing the tree layout for the built-in class diagram. <a href="/web
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-helper class representing an iterator that can iterate forwards or backwards <a href="/web-doxygen/docs/api/classes/dualdiriterator/#details">More...</a>
+<p>helper class representing an iterator that can iterate forwards or backwards <a href="/web-doxygen/docs/api/classes/dualdiriterator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -397,7 +397,8 @@ helper class representing an iterator that can iterate forwards or backwards <a 
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -439,7 +440,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/diagram-c
 
 
 
-Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -465,9 +467,11 @@ Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="#ac45380e90067e3138b21af2a68dc19f3">writeVectorBox</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="#ac45380e90067e3138b21af2a68dc19f3">writeVectorBox</a>.</p>
+
 </div>
 </div>
 
@@ -496,7 +500,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252
 
 
 
-Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -523,7 +528,8 @@ Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.</p>
+
 </div>
 </div>
 
@@ -552,7 +558,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece74
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -571,7 +578,8 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.</p>
+
 </div>
 </div>
 
@@ -600,7 +608,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece74
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -619,7 +628,8 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.</p>
+
 </div>
 </div>
 
@@ -648,7 +658,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece74
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -667,7 +678,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>.</p>
+
 </div>
 </div>
 
@@ -696,7 +708,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece74
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -714,7 +727,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a>.
+<p>Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a>.</p>
+
 </div>
 </div>
 
@@ -743,7 +757,8 @@ Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a>.
 
 
 
-Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -770,9 +785,11 @@ Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/image/#a3963507ed7da8333a1b7766d890e12b4">Image::drawHorzLine</a>, <a href="/web-doxygen/docs/api/classes/image/#a84642fefb94260db8b9f4f1d05ed6354">Image::drawRect</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/image/#a6bc83fab8a49849bea576d9cdcbc2a74">Image::fillRect</a>, <a href="#aa13a42b6fd4f4b0c89be8c3bab657be3">fontHeight</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#ab0d5760c4d7ff79eb2ed90652a825b54">DiagramItem::label</a>, <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bdba0bf433f6c30">Image::stringLength</a>, <a href="#ac71ce95e0e325a4f796901db0f6f41d5">virtToMask</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#a11ec77d7b8a9920793793ead700627e1">DiagramItem::virtualness</a> and <a href="/web-doxygen/docs/api/classes/image/#a9548b8956604519c4260cbdaf7854792">Image::writeString</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/image/#a3963507ed7da8333a1b7766d890e12b4">Image::drawHorzLine</a>, <a href="/web-doxygen/docs/api/classes/image/#a84642fefb94260db8b9f4f1d05ed6354">Image::drawRect</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/image/#a6bc83fab8a49849bea576d9cdcbc2a74">Image::fillRect</a>, <a href="#aa13a42b6fd4f4b0c89be8c3bab657be3">fontHeight</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#ab0d5760c4d7ff79eb2ed90652a825b54">DiagramItem::label</a>, <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bdba0bf433f6c30">Image::stringLength</a>, <a href="#ac71ce95e0e325a4f796901db0f6f41d5">virtToMask</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#a11ec77d7b8a9920793793ead700627e1">DiagramItem::virtualness</a> and <a href="/web-doxygen/docs/api/classes/image/#a9548b8956604519c4260cbdaf7854792">Image::writeString</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.</p>
+
 </div>
 </div>
 
@@ -801,7 +818,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -840,9 +858,11 @@ Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.</p>
+
 </div>
 </div>
 
@@ -871,7 +891,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -887,9 +908,11 @@ Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#ab0d5760c4d7ff79eb2ed90652a825b54">DiagramItem::label</a> and <a href="/web-doxygen/docs/api/classes/diagramitem/#a11ec77d7b8a9920793793ead700627e1">DiagramItem::virtualness</a>.
+<p>References <a href="#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/diagramitem/#ab0d5760c4d7ff79eb2ed90652a825b54">DiagramItem::label</a> and <a href="/web-doxygen/docs/api/classes/diagramitem/#a11ec77d7b8a9920793793ead700627e1">DiagramItem::virtualness</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.</p>
+
 </div>
 </div>
 
@@ -919,7 +942,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -928,7 +952,8 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+<p>Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 
@@ -952,7 +977,8 @@ Referenced by <a href="#a4a6853a6b7f98f30da5d61d680d86041">writeBitmapBox</a> an
 
 
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -961,7 +987,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>.</p>
+
 </div>
 </div>
 
@@ -985,7 +1012,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -994,7 +1022,8 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a9f2ff19dc95aa91716b">TreeDiagram::computeLayout</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>, <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a9f2ff19dc95aa91716b">TreeDiagram::computeLayout</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a>, <a href="/web-doxygen/docs/api/classes/diagramrow/#a8c301e781bb14b1a23c00974d2050496">DiagramRow::insertClass</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 
@@ -1018,7 +1047,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1027,7 +1057,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 
@@ -1051,7 +1082,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb41
 
 
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1060,7 +1092,8 @@ Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 
@@ -1084,7 +1117,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1093,7 +1127,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>, <a href="/web-doxygen/docs/api/classes/treediagram/#a0993890eece743a86f2d874f288b6f7d">TreeDiagram::drawConnectors</a> and <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 
@@ -1117,7 +1152,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1126,7 +1162,8 @@ Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a9f2ff19dc95aa91716b">TreeDiagram::computeLayout</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a9f2ff19dc95aa91716b">TreeDiagram::computeLayout</a>.</p>
+
 </div>
 </div>
 
@@ -1156,9 +1193,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a940a3aaf1985a
 
 
 
-Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 1396 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdiagram/#a79829a2cdb414f49e138e3df9eeb14cd">ClassDiagram::writeImage</a>.</p>
+
 </div>
 </div>
 

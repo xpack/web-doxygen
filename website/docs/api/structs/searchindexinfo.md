@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SearchIndexInfo` Struct Reference
 
-Table entry to allow filtering the search results per category. <a href="#details">More...</a>
+<p>Table entry to allow filtering the search results per category. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -96,9 +96,10 @@ struct SearchIndexInfo { ... }
 
 ## Description {#details}
 
-Table entry to allow filtering the search results per category.
+<p>Table entry to allow filtering the search results per category.</p>
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -124,7 +125,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>, definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -138,7 +140,8 @@ Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="#aab250a5688a170b30a64030a2139f529">symbolMap</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="#aab250a5688a170b30a64030a2139f529">symbolMap</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.</p>
+
 </div>
 </div>
 
@@ -168,7 +171,8 @@ References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fe
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -199,7 +203,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -230,7 +235,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-h">searchindex_js.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -239,7 +245,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a52b5729b3bc658fa7fa77497e95213fd">add</a>.
+<p>Referenced by <a href="#a52b5729b3bc658fa7fa77497e95213fd">add</a>.</p>
+
 </div>
 </div>
 

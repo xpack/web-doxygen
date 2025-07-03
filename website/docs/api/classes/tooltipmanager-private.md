@@ -45,7 +45,8 @@ class TooltipManager::Private { ... }
 </table>
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/tooltip-c
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/tooltip-cpp">tooltip.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

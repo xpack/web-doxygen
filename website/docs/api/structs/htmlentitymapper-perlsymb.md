@@ -63,7 +63,8 @@ struct HtmlEntityMapper::PerlSymb { ... }
 </table>
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -89,7 +90,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -98,7 +100,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -122,7 +125,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -131,7 +135,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 

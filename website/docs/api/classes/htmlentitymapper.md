@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlEntityMapper` Class Reference
 
-Singleton helper class to map html entities to other formats. <a href="#details">More...</a>
+<p>Singleton helper class to map html entities to other formats. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -111,7 +111,7 @@ class HtmlEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Give code of the requested HTML entity name. <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">More...</a>
+<p>Give code of the requested HTML entity name. <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -125,7 +125,7 @@ Give code of the requested HTML entity name. <a href="#af0c3a82ead9d9f041131d3bf
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the UTF8 code of the HTML entity. <a href="#ad8a01097bbc33683b24dc0ddd198f958">More...</a>
+<p>Access routine to the UTF8 code of the HTML entity. <a href="#ad8a01097bbc33683b24dc0ddd198f958">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -139,7 +139,7 @@ Access routine to the UTF8 code of the HTML entity. <a href="#ad8a01097bbc33683b
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the html code of the HTML entity. <a href="#aea40dae4575be9010f2ea950206a6f57">More...</a>
+<p>Access routine to the html code of the HTML entity. <a href="#aea40dae4575be9010f2ea950206a6f57">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -153,7 +153,7 @@ Access routine to the html code of the HTML entity. <a href="#aea40dae4575be9010
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the XML code of the HTML entity. <a href="#a6359802a6779aa5f0245357d974c3bd1">More...</a>
+<p>Access routine to the XML code of the HTML entity. <a href="#a6359802a6779aa5f0245357d974c3bd1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -167,7 +167,7 @@ Access routine to the XML code of the HTML entity. <a href="#a6359802a6779aa5f02
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the docbook code of the HTML entity. <a href="#acfca10f028c7820564bbd80728898a79">More...</a>
+<p>Access routine to the docbook code of the HTML entity. <a href="#acfca10f028c7820564bbd80728898a79">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -181,7 +181,7 @@ Access routine to the docbook code of the HTML entity. <a href="#acfca10f028c782
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the LaTeX code of the HTML entity. <a href="#a401769ae867a274591c49695c3a819f0">More...</a>
+<p>Access routine to the LaTeX code of the HTML entity. <a href="#a401769ae867a274591c49695c3a819f0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -195,7 +195,7 @@ Access routine to the LaTeX code of the HTML entity. <a href="#a401769ae867a2745
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the man code of the HTML entity. <a href="#ae69bb690ab38e84854b912b68e71cf79">More...</a>
+<p>Access routine to the man code of the HTML entity. <a href="#ae69bb690ab38e84854b912b68e71cf79">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -209,7 +209,7 @@ Access routine to the man code of the HTML entity. <a href="#ae69bb690ab38e84854
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the RTF code of the HTML entity. <a href="#a9e02cf0591dcb069b71e93f3e827a36c">More...</a>
+<p>Access routine to the RTF code of the HTML entity. <a href="#a9e02cf0591dcb069b71e93f3e827a36c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -223,7 +223,7 @@ Access routine to the RTF code of the HTML entity. <a href="#a9e02cf0591dcb069b7
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the perl struct with the perl code of the HTML entity. <a href="#a56d4e0e2e83a943ea25985c0792f71b0">More...</a>
+<p>Access routine to the perl struct with the perl code of the HTML entity. <a href="#a56d4e0e2e83a943ea25985c0792f71b0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -256,7 +256,7 @@ Access routine to the perl struct with the perl code of the HTML entity. <a href
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Routine to check if the entries of the html_entities are numbered correctly. <a href="#ac80b42ee1d05037eed6e1c88bc844ece">More...</a>
+<p>Routine to check if the entries of the html_entities are numbered correctly. <a href="#ac80b42ee1d05037eed6e1c88bc844ece">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -295,7 +295,7 @@ Routine to check if the entries of the html_entities are numbered correctly. <a 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the one and only instance of the HTML entity mapper. <a href="#a9170301bb5ed20abd90f396a53e3e1f7">More...</a>
+<p>Returns the one and only instance of the HTML entity mapper. <a href="#a9170301bb5ed20abd90f396a53e3e1f7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -325,9 +325,10 @@ Returns the one and only instance of the HTML entity mapper. <a href="#a9170301b
 
 ## Description {#details}
 
-Singleton helper class to map html entities to other formats.
+<p>Singleton helper class to map html entities to other formats.</p>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -421,7 +422,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 </dd>
 </dl>
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1828,7 +1830,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 </dd>
 </dl>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1926,7 +1929,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/htmlentit
 
 
 
-Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1942,9 +1946,11 @@ Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>, <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m\_name2sym</a> and <a href="#ac80b42ee1d05037eed6e1c88bc844ece">validate</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>, <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m_name2sym</a> and <a href="#ac80b42ee1d05037eed6e1c88bc844ece">validate</a>.</p>
 
-Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
+
+<p>Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.</p>
+
 </div>
 </div>
 
@@ -1974,7 +1980,8 @@ Referenced by <a href="#a9170301bb5ed20abd90f396a53e3e1f7">instance</a>.
 
 
 
-Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2011,7 +2018,7 @@ Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the docbook code of the HTML entity.
+<p>Access routine to the docbook code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2020,7 +2027,7 @@ Access routine to the docbook code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2028,11 +2035,12 @@ Access routine to the docbook code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the docbook code of the HTML entity, in case the docbook code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the docbook code of the HTML entity, in case the docbook code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 402 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2044,9 +2052,11 @@ Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4fe2669a2bdb78dd0c964af909">DocbookDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4fe2669a2bdb78dd0c964af909">DocbookDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2068,7 +2078,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the html code of the HTML entity.
+<p>Access routine to the html code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2077,11 +2087,11 @@ Access routine to the html code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useInPrintf</td>
-<td class="doxyParamItemDescription">If TRUE the result will be escaped such that it can be used in a printf string pattern</td>
+<td class="doxyParamItemDescription"><p>If TRUE the result will be escaped such that it can be used in a printf string pattern</p></td>
 </tr>
 </table>
 </dd>
@@ -2089,11 +2099,12 @@ Access routine to the html code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the html representation of the HTML entity, in case the html code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the html representation of the HTML entity, in case the html code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2112,9 +2123,11 @@ Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym\_Percent</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym_Percent</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03ae4a8e306dd6e1e98fcd99">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a3af6b81e834fce376849077c0fa6b565">TextDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03ae4a8e306dd6e1e98fcd99">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a3af6b81e834fce376849077c0fa6b565">TextDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2136,7 +2149,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the LaTeX code of the HTML entity.
+<p>Access routine to the LaTeX code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2145,7 +2158,7 @@ Access routine to the LaTeX code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2153,11 +2166,12 @@ Access routine to the LaTeX code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the LaTeX code of the HTML entity, in case the LaTeX code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the LaTeX code of the HTML entity, in case the LaTeX code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2169,9 +2183,11 @@ Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#abfe122c272f139d98332b7630945da0f">LatexDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#abfe122c272f139d98332b7630945da0f">LatexDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2193,7 +2209,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the man code of the HTML entity.
+<p>Access routine to the man code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2202,7 +2218,7 @@ Access routine to the man code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2210,11 +2226,12 @@ Access routine to the man code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the man of the HTML entity, in case the man code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the man of the HTML entity, in case the man code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 424 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2226,9 +2243,11 @@ Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345e8311efd7d18827dbe43b">ManDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345e8311efd7d18827dbe43b">ManDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2250,7 +2269,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345
 </div>
 <div class="doxyMemberDoc">
 
-Give code of the requested HTML entity name.
+<p>Give code of the requested HTML entity name.</p>
 
 
 <dl class="doxyParamsList">
@@ -2259,7 +2278,7 @@ Give code of the requested HTML entity name.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symName</td>
-<td class="doxyParamItemDescription">HTML entity name without <span class="doxyComputerOutput">&amp;</span> and <span class="doxyComputerOutput"></span>;</td>
+<td class="doxyParamItemDescription"><p>HTML entity name without <span class="doxyComputerOutput">&amp;</span> and <span class="doxyComputerOutput"></span>;</p></td>
 </tr>
 </table>
 </dd>
@@ -2267,11 +2286,12 @@ Give code of the requested HTML entity name.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the code for the requested HTML entity name, in case the requested HTML item does not exist <span class="doxyComputerOutput">HtmlEntityMapper::Sym_unknown</span> is returned.</dd>
+<dd><p>the code for the requested HTML entity name, in case the requested HTML item does not exist <span class="doxyComputerOutput">HtmlEntityMapper::Sym_unknown</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2284,9 +2304,11 @@ Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-References <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m\_name2sym</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">Sym\_Unknown</a>.
+<p>References <a href="#a95b999cb7f3b3416a6442d4ad4e5deed">m_name2sym</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa4afd8f33f5ff42a444da284278109d9f">Sym_Unknown</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#ad2d60acd5c92da5e2bc0dab925e5c2fa">DocSymbol::decodeSymbol</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#ad2d60acd5c92da5e2bc0dab925e5c2fa">DocSymbol::decodeSymbol</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>.</p>
+
 </div>
 </div>
 
@@ -2308,7 +2330,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the perl struct with the perl code of the HTML entity.
+<p>Access routine to the perl struct with the perl code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2317,7 +2339,7 @@ Access routine to the perl struct with the perl code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2325,11 +2347,12 @@ Access routine to the perl struct with the perl code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <span class="doxyComputerOutput">symb</span> field and in the <span class="doxyComputerOutput"><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></span> in the <span class="doxyComputerOutput">type</span> field.</dd>
+<dd><p>the pointer to perl struct with the perl code of the HTML entity, in case the perl code does not exists the nullptr pointer is entered in the <span class="doxyComputerOutput">symb</span> field and in the <span class="doxyComputerOutput"><a href="#a4911b3c9af98290f7ee0696fc2c8a6a3a422e91df358180b024c4ca4b2696d489">HtmlEntityMapper::Perl_unknown</a></span> in the <span class="doxyComputerOutput">type</span> field.</p></dd>
 </dl>
 
 
-Declaration at line 110 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 110 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2341,9 +2364,11 @@ Declaration at line 110 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2365,7 +2390,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc4354
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the RTF code of the HTML entity.
+<p>Access routine to the RTF code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2374,7 +2399,7 @@ Access routine to the RTF code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2382,11 +2407,12 @@ Access routine to the RTF code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the RTF of the HTML entity, in case the RTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the RTF of the HTML entity, in case the RTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 435 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2398,9 +2424,11 @@ Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499bf0458dc938ff66c4724e7">RTFDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499bf0458dc938ff66c4724e7">RTFDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2422,7 +2450,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499b
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the UTF8 code of the HTML entity.
+<p>Access routine to the UTF8 code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2431,11 +2459,11 @@ Access routine to the UTF8 code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">useInPrintf</td>
-<td class="doxyParamItemDescription">If TRUE the result will be escaped such that it can be used in a printf string pattern</td>
+<td class="doxyParamItemDescription"><p>If TRUE the result will be escaped such that it can be used in a printf string pattern</p></td>
 </tr>
 </table>
 </dd>
@@ -2443,11 +2471,12 @@ Access routine to the UTF8 code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the UTF8 code of the HTML entity, in case the UTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the UTF8 code of the HTML entity, in case the UTF code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2466,9 +2495,11 @@ Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym\_Percent</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a> and <a href="#a5fa49b07f0b74254ab5bd5b18474d7dfa8da48ef159e7932e8ed84473fbb067a5">Sym_Percent</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c4825791e03c8103b1ffd167c22">PrintDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c4825791e03c8103b1ffd167c22">PrintDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2492,7 +2523,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c482
 
 
 
-Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 464 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2512,9 +2544,11 @@ Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>.</p>
+
 </div>
 </div>
 
@@ -2536,7 +2570,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the XML code of the HTML entity.
+<p>Access routine to the XML code of the HTML entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -2545,7 +2579,7 @@ Access routine to the XML code of the HTML entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symb</td>
-<td class="doxyParamItemDescription">Code of the requested HTML entity</td>
+<td class="doxyParamItemDescription"><p>Code of the requested HTML entity</p></td>
 </tr>
 </table>
 </dd>
@@ -2553,11 +2587,12 @@ Access routine to the XML code of the HTML entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the XML code of the HTML entity, in case the XML code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</dd>
+<dd><p>the XML code of the HTML entity, in case the XML code is unknown <span class="doxyComputerOutput">nullptr</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2569,9 +2604,11 @@ Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f17b5a95a12d047ed0f4d08">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f17b5a95a12d047ed0f4d08">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2599,12 +2636,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f1
 </div>
 <div class="doxyMemberDoc">
 
-Routine to check if the entries of the html\_entities are numbered correctly.
+<p>Routine to check if the entries of the html_entities are numbered correctly.</p>
 
 
-in case of a mismatch a warning message is given.
+<p>in case of a mismatch a warning message is given.</p>
 
-Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+
+<p>Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 480 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2624,9 +2663,11 @@ Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlent
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g\_htmlEntities</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn\_uncond</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp/#addeeaed9ec5e674f6ace6f0ba57b10d7">g_htmlEntities</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn_uncond</a>.</p>
 
-Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
+
+<p>Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.</p>
+
 </div>
 </div>
 
@@ -2656,7 +2697,8 @@ Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2665,7 +2707,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a> and <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">name2sym</a>.
+<p>Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a> and <a href="#af0c3a82ead9d9f041131d3bf6ebf9f35">name2sym</a>.</p>
+
 </div>
 </div>
 
@@ -2698,9 +2741,10 @@ Referenced by <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a> 
 </div>
 <div class="doxyMemberDoc">
 
-Returns the one and only instance of the HTML entity mapper.
+<p>Returns the one and only instance of the HTML entity mapper.</p>
 
-Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>, definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-cpp">htmlentity.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2713,9 +2757,11 @@ Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/htmlenti
 </div>
 
 
-Reference <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.
+<p>Reference <a href="#ac16b10159880f0dcd9bf4e0449f7e21e">HtmlEntityMapper</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#ad2d60acd5c92da5e2bc0dab925e5c2fa">DocSymbol::decodeSymbol</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4fe2669a2bdb78dd0c964af909">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03ae4a8e306dd6e1e98fcd99">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#abfe122c272f139d98332b7630945da0f">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345e8311efd7d18827dbe43b">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c4825791e03c8103b1ffd167c22">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499bf0458dc938ff66c4724e7">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a3af6b81e834fce376849077c0fa6b565">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f17b5a95a12d047ed0f4d08">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#ad2d60acd5c92da5e2bc0dab925e5c2fa">DocSymbol::decodeSymbol</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#af30a5c4fe2669a2bdb78dd0c964af909">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a942ef73e03ae4a8e306dd6e1e98fcd99">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#abfe122c272f139d98332b7630945da0f">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#afb7a0185345e8311efd7d18827dbe43b">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#abcc43541a23f6c0e0bc5c3a25950493b">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a16438c4825791e03c8103b1ffd167c22">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8123582499bf0458dc938ff66c4724e7">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a3af6b81e834fce376849077c0fa6b565">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ad9f36acc2f17b5a95a12d047ed0f4d08">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -2750,7 +2796,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlentity-h">htmlentity.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

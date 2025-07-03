@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `commentcnv.h` File Reference
 
-First pass comment processing. <a href="#details">More...</a>
+<p>First pass comment processing. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -35,7 +35,7 @@ First pass comment processing. <a href="#details">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">More...</a>
+<p>Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -46,7 +46,7 @@ Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">Mo
 
 ## Description {#details}
 
-First pass comment processing.
+<p>First pass comment processing.</p>
 
 <div class="doxySectionDef">
 
@@ -70,7 +70,7 @@ First pass comment processing.
 </div>
 <div class="doxyMemberDoc">
 
-Converts the comments in a file.
+<p>Converts the comments in a file.</p>
 
 
 <dl class="doxyParamsList">
@@ -79,21 +79,22 @@ Converts the comments in a file.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">inBuf</td>
-<td class="doxyParamItemDescription">input buffer holding the file content.</td>
+<td class="doxyParamItemDescription"><p>input buffer holding the file content.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">outBuf</td>
-<td class="doxyParamItemDescription">output buffer to which the results after conversion are written to.</td>
+<td class="doxyParamItemDescription"><p>output buffer to which the results after conversion are written to.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">fn</td>
-<td class="doxyParamItemDescription">the name of the file from which the comments originate.</td>
+<td class="doxyParamItemDescription"><p>the name of the file from which the comments originate.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-The following is converted:
+<p>The following is converted:</p>
+
 
 <ul class="doxyList ">
 <li>C++ style multiline doxygen comments are converted to C style doxygen comments.</li>
@@ -101,7 +102,8 @@ The following is converted:
 <li>aliases are expanded.</li>
 </ul>
 
-This function does three things:
+<p>This function does three things:</p>
+
 
 <ol class="doxyList" type="1">
 <li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE_CPP_IS_BRIEF is set to NO).</li>
@@ -109,7 +111,8 @@ This function does three things:
 <li>It handles conditional sections (cond...endcond blocks)</li>
 </ol>
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-h">commentcnv.h</a>, definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-h">commentcnv.h</a>, definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -198,9 +201,11 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/commentc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ac28578b1034a1f4803dd53216ab2bfda">clearCommentStack</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daf158610d0a0e6dd08ec7cab215168fa5">Debug::CommentCnv</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaec9b8e3dfee836d4621c2cca9514037">Debug::Lex\_commentcnv</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a6788d979220d7bcd5ed1eaf232060e29">commentcnvYY\_CondCtx::lineNr</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#ae1eed597f41d62965e72a0f1a4961d4d">commentcnvYY\_CondCtx::sectionId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a9a7bd1b3d14701eb97c03f3ef34deff1">yylex</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ac28578b1034a1f4803dd53216ab2bfda">clearCommentStack</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daf158610d0a0e6dd08ec7cab215168fa5">Debug::CommentCnv</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaec9b8e3dfee836d4621c2cca9514037">Debug::Lex_commentcnv</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a6788d979220d7bcd5ed1eaf232060e29">commentcnvYY_CondCtx::lineNr</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#ae1eed597f41d62965e72a0f1a4961d4d">commentcnvYY_CondCtx::sectionId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a9a7bd1b3d14701eb97c03f3ef34deff1">yylex</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.</p>
+
 </div>
 </div>
 

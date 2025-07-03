@@ -324,7 +324,8 @@ struct VHDLOutlineParser::Private { ... }
 </table>
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -350,7 +351,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -393,7 +395,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a117f0df3f3675897ccb4a63c63a12721">vhdl::parser::VhdlParserTokenManager::ReInit</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#af10e66a2453415cb8f5778d60d4f6dd2">vhdl::parser::VhdlParserTokenManager::setErrorHandler</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenparser/#ac5cb74c3a7c9a7f4620c34d939da9fbc">vhdl::parser::TokenParser::setLexParser</a>, <a href="#af9e0800d0b8fd8902270d7b81cb8055a">shared</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="#a7709a3aa2d9e17ede59340cb8d1fd027">thisParser</a> and <a href="#a2202f9de751b3979497bcb5a8bbd826b">vhdlParser</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#a117f0df3f3675897ccb4a63c63a12721">vhdl::parser::VhdlParserTokenManager::ReInit</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#af10e66a2453415cb8f5778d60d4f6dd2">vhdl::parser::VhdlParserTokenManager::setErrorHandler</a>, <a href="/web-doxygen/docs/api/classes/vhdl/parser/tokenparser/#ac5cb74c3a7c9a7f4620c34d939da9fbc">vhdl::parser::TokenParser::setLexParser</a>, <a href="#af9e0800d0b8fd8902270d7b81cb8055a">shared</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="#a7709a3aa2d9e17ede59340cb8d1fd027">thisParser</a> and <a href="#a2202f9de751b3979497bcb5a8bbd826b">vhdlParser</a>.</p>
+
 </div>
 </div>
 
@@ -423,7 +426,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -454,7 +458,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -485,7 +490,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -516,7 +522,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -547,7 +554,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -578,7 +586,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -609,7 +618,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -640,7 +650,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -671,7 +682,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -702,7 +714,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -733,7 +746,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -764,7 +778,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -795,7 +810,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -804,7 +820,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 </div>
 
 
-Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
+<p>Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.</p>
+
 </div>
 </div>
 
@@ -828,7 +845,8 @@ Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -859,7 +877,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -890,7 +909,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -899,7 +919,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 </div>
 
 
-Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
+<p>Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.</p>
+
 </div>
 </div>
 
@@ -923,7 +944,8 @@ Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -954,7 +976,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -985,7 +1008,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -994,7 +1018,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 </div>
 
 
-Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
+<p>Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.</p>
+
 </div>
 </div>
 
@@ -1018,7 +1043,8 @@ Referenced by <a href="#a09e1a5b366fadb1761f46049e67df6c5">parseVhdlfile</a>.
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1049,7 +1075,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

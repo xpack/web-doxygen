@@ -271,7 +271,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -314,7 +315,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -350,7 +352,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -397,7 +400,8 @@ Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -440,7 +444,8 @@ Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>.</p>
+
 </div>
 </div>
 
@@ -469,7 +474,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 </div>
 </div>
 
@@ -493,7 +499,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1267,7 +1274,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1315,7 +1323,8 @@ Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1346,7 +1355,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1377,7 +1387,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1419,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1439,7 +1451,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/lexscanne
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-class that provide information about the p[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a>
+<p>class that provide information about the p[osition of a citation name <a href="/web-doxygen/docs/api/classes/citeposition/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -181,7 +181,8 @@ class that provide information about the p[osition of a citation name <a href="/
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -195,9 +196,11 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>.</p>
+
 </div>
 </div>
 
@@ -227,7 +230,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,7 +240,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>.</p>
+
 </div>
 </div>
 
@@ -260,7 +265,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -269,7 +275,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a37a4055f986c73a8de48cd5d19bdd2dc">CitationManager::latexBibFiles</a>.</p>
+
 </div>
 </div>
 
@@ -293,7 +300,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347
 
 
 
-Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -302,7 +310,8 @@ Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a5f5bce72519f9278f849a2c4cf936393">CitationManager::replaceFormulas</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a5f5bce72519f9278f849a2c4cf936393">CitationManager::replaceFormulas</a>.</p>
+
 </div>
 </div>
 

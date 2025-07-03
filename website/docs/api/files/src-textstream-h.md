@@ -43,7 +43,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Text streaming class that buffers data. <a href="/web-doxygen/docs/api/classes/textstream/#details">More...</a>
+<p>Text streaming class that buffers data. <a href="/web-doxygen/docs/api/classes/textstream/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

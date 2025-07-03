@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `stringutil.h` File Reference
 
-Some helper functions for std::string. <a href="#details">More...</a>
+<p>Some helper functions for std::string. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -36,7 +36,7 @@ Some helper functions for std::string. <a href="#details">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Replaces occurrences of substring <em>toReplace</em> in string <em>s</em> with string <em>replaceWith</em>. <a href="#abaf36420334a61d2920340680cf71e7e">More...</a>
+<p>Replaces occurrences of substring <em>toReplace</em> in string <em>s</em> with string <em>replaceWith</em>. <a href="#abaf36420334a61d2920340680cf71e7e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ Replaces occurrences of substring <em>toReplace</em> in string <em>s</em> with s
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a new string where occurrences of substring <em>toReplace</em> in string <em>s</em> are replaced by string <em>replaceWith</em>. <a href="#a6bd7b0c2ab29fbcc02a4d17b39fb285b">More...</a>
+<p>Returns a new string where occurrences of substring <em>toReplace</em> in string <em>s</em> are replaced by string <em>replaceWith</em>. <a href="#a6bd7b0c2ab29fbcc02a4d17b39fb285b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ Returns a new string where occurrences of substring <em>toReplace</em> in string
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Given a string view <em>s</em>, returns a new, narrower view on that string, skipping over any leading or trailing whitespace characters. <a href="#aef47e534975880014a6514745e885a99">More...</a>
+<p>Given a string view <em>s</em>, returns a new, narrower view on that string, skipping over any leading or trailing whitespace characters. <a href="#aef47e534975880014a6514745e885a99">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,7 +94,7 @@ Given a string view <em>s</em>, returns a new, narrower view on that string, ski
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em> <a href="#a8e85550bd817a742a59bf46dce8f3b21">More...</a>
+<p>returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em> <a href="#a8e85550bd817a742a59bf46dce8f3b21">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -111,7 +111,7 @@ returns TRUE iff <em>data</em> points to a substring that matches string literal
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em> <a href="#af7c977e857cdf4c6e3a2e320a0dbdedf">More...</a>
+<p>returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em> <a href="#af7c977e857cdf4c6e3a2e320a0dbdedf">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -122,7 +122,7 @@ returns TRUE iff <em>data</em> points to a substring that matches string literal
 
 ## Description {#details}
 
-Some helper functions for std::string.
+<p>Some helper functions for std::string.</p>
 
 <div class="doxySectionDef">
 
@@ -153,7 +153,8 @@ Some helper functions for std::string.
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +173,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/stringuti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8ccfa460710de204">checkAndOpenFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8ccfa460710de204">checkAndOpenFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -195,9 +197,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#abac7d9e657d1d9ac8
 </div>
 <div class="doxyMemberDoc">
 
-returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em>
+<p>returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em></p>
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -210,9 +213,11 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/stringuti
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#af64e373f75233e1c39a3086a00264e9e">computeIndent</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a3e870f07917a178b708537e85177a6d0">extractCopyDocId</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a9ef42eb1068c60ccbe59ef0024ed1c90">isExplicitPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#afc4de25503fad3bbfadba71ff6e7581a">isNewline</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a2e37305849fa544aff8f399a6f41c7b1">Markdown::Private::isSpecialCommand</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#adafbef72995b1327272b82a2b2075480">Markdown::Private::processNmdash</a>, <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp/#a1ee465ed3ecc9e198028ac98d6536546">readSVGSize</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a2bbb2d9191d513b9cbfb864ee2043a3c">removeIdsAndMarkers</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ae22648d9504bbec4b64a0c33260fbe4f">skipOverFileAndLineCommands</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0b372f3669056d6a88f41daeb3a3865">stripLeadingAndTrailingEmptyLines</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ae81df9187a70102c6f47ca6c2c5012f4">stripTrailingWhiteSpace</a> and <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a536c4c6840f0660a5084d7bb1e32ff18">PlantumlManager::writePlantUMLSource</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#af64e373f75233e1c39a3086a00264e9e">computeIndent</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a3e870f07917a178b708537e85177a6d0">extractCopyDocId</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a9ef42eb1068c60ccbe59ef0024ed1c90">isExplicitPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#afc4de25503fad3bbfadba71ff6e7581a">isNewline</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a2e37305849fa544aff8f399a6f41c7b1">Markdown::Private::isSpecialCommand</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#adafbef72995b1327272b82a2b2075480">Markdown::Private::processNmdash</a>, <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp/#a1ee465ed3ecc9e198028ac98d6536546">readSVGSize</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a2bbb2d9191d513b9cbfb864ee2043a3c">removeIdsAndMarkers</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ae22648d9504bbec4b64a0c33260fbe4f">skipOverFileAndLineCommands</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0b372f3669056d6a88f41daeb3a3865">stripLeadingAndTrailingEmptyLines</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ae81df9187a70102c6f47ca6c2c5012f4">stripTrailingWhiteSpace</a> and <a href="/web-doxygen/docs/api/classes/plantumlmanager/#a536c4c6840f0660a5084d7bb1e32ff18">PlantumlManager::writePlantUMLSource</a>.</p>
+
 </div>
 </div>
 
@@ -235,9 +240,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#af64e373f
 </div>
 <div class="doxyMemberDoc">
 
-returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em>
+<p>returns TRUE iff <em>data</em> points to a substring that matches string literal <em>str</em></p>
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -250,7 +256,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/stringut
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>.</p>
+
 </div>
 </div>
 
@@ -277,9 +284,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea
 </div>
 <div class="doxyMemberDoc">
 
-Given a string view <em>s</em>, returns a new, narrower view on that string, skipping over any leading or trailing whitespace characters.
+<p>Given a string view <em>s</em>, returns a new, narrower view on that string, skipping over any leading or trailing whitespace characters.</p>
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -298,9 +306,11 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/stringuti
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad5813e8f0f46839bf4f31d2f82789089">DefinitionImpl::\_setDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#ad1fa14f7ebd8d6adedcac12a2fb83ae1">addValidAliasToMap</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#aa09142ff1ca07603f8bb2150ce9ceab5">VhdlDocGen::getClass</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ac6f2811c13f5afdc6966f8985ff9908c">handleInheritanceGraph</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a635a7915c47893c3aa1f40fbb9d288ac">handleToc</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#af8b36f180e1815648e477ea46cd1b234">FileDefImpl::hasDetailedDescription</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6006a1443e18366206b8485ee2d7b8a3">DefinitionImpl::operator=</a>, <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#af45d3a0f94b1a775de47c0502e3308ef">parseIncludeOptions</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#ac5533bd798e00c23bb4b0532b036ea8b">DefinitionImpl::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/definitionmixin/#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#a5115744bf4595f9a08a193dd41d4f4c3">DefinitionMutable::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a56fca82d471e653da6daf3177a58a270">MemberDefImpl::setDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/definition-h/#ab43e817b86eeee8909980167d1a140c8">toDefinition</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a2a97ed987f163573d91e6a46363c99de">Markdown::Private::writeBlockQuote</a> and <a href="/web-doxygen/docs/api/classes/filedefimpl/#a095d9cfd1d2c9744349cf2ebaf8e36ac">FileDefImpl::writeBriefDescription</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad5813e8f0f46839bf4f31d2f82789089">DefinitionImpl::_setDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#ad1fa14f7ebd8d6adedcac12a2fb83ae1">addValidAliasToMap</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#aa09142ff1ca07603f8bb2150ce9ceab5">VhdlDocGen::getClass</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ac6f2811c13f5afdc6966f8985ff9908c">handleInheritanceGraph</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a635a7915c47893c3aa1f40fbb9d288ac">handleToc</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#af8b36f180e1815648e477ea46cd1b234">FileDefImpl::hasDetailedDescription</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6006a1443e18366206b8485ee2d7b8a3">DefinitionImpl::operator=</a>, <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#af45d3a0f94b1a775de47c0502e3308ef">parseIncludeOptions</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#ac5533bd798e00c23bb4b0532b036ea8b">DefinitionImpl::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/definitionmixin/#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/definitionmutable/#a5115744bf4595f9a08a193dd41d4f4c3">DefinitionMutable::setDocumentation</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a56fca82d471e653da6daf3177a58a270">MemberDefImpl::setDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/definition-h/#ab43e817b86eeee8909980167d1a140c8">toDefinition</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a2a97ed987f163573d91e6a46363c99de">Markdown::Private::writeBlockQuote</a> and <a href="/web-doxygen/docs/api/classes/filedefimpl/#a095d9cfd1d2c9744349cf2ebaf8e36ac">FileDefImpl::writeBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -327,12 +337,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad5813e8f0f
 </div>
 <div class="doxyMemberDoc">
 
-Replaces occurrences of substring <em>toReplace</em> in string <em>s</em> with string <em>replaceWith</em>.
+<p>Replaces occurrences of substring <em>toReplace</em> in string <em>s</em> with string <em>replaceWith</em>.</p>
 
 
-Modifies <em>s</em> in place.
+<p>Modifies <em>s</em> in place.</p>
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -357,7 +369,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/stringuti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a14d4da410db9164a6dacdf2122220ce7">replaceAliasArguments</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a14d4da410db9164a6dacdf2122220ce7">replaceAliasArguments</a>.</p>
+
 </div>
 </div>
 
@@ -384,9 +397,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a14d4da410db
 </div>
 <div class="doxyMemberDoc">
 
-Returns a new string where occurrences of substring <em>toReplace</em> in string <em>s</em> are replaced by string <em>replaceWith</em>.
+<p>Returns a new string where occurrences of substring <em>toReplace</em> in string <em>s</em> are replaced by string <em>replaceWith</em>.</p>
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/stringutil-h">stringutil.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -411,7 +425,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/stringuti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#af47739c31cd60617e53ac5a363514817">escapeAlias</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#af47739c31cd60617e53ac5a363514817">escapeAlias</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a>.</p>
+
 </div>
 </div>
 

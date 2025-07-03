@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotDirProperty` Struct Reference
 
-Properties are used to format the directories in the graph distinctively. <a href="#details">More...</a>
+<p>Properties are used to format the directories in the graph distinctively. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ struct DotDirProperty { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-true if not all successors of a cluster are drawn <a href="#afa37640375733ea38413a589b3f90718">More...</a>
+<p>true if not all successors of a cluster are drawn <a href="#afa37640375733ea38413a589b3f90718">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ true if not all successors of a cluster are drawn <a href="#afa37640375733ea3841
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-true if parent is not drawn <a href="#a725a202c71456e1caf086cdd20a9baf9">More...</a>
+<p>true if parent is not drawn <a href="#a725a202c71456e1caf086cdd20a9baf9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ true if parent is not drawn <a href="#a725a202c71456e1caf086cdd20a9baf9">More...
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-true has successors, none is drawn <a href="#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">More...</a>
+<p>true has successors, none is drawn <a href="#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ true has successors, none is drawn <a href="#a13d7c0ae8df6a6a0d7d1298ce5b2fbd5">
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-true if is the directory for which the graph is drawn <a href="#ac8ed0c0d9a9e5638b80ba4d96b1f7b7b">More...</a>
+<p>true if is the directory for which the graph is drawn <a href="#ac8ed0c0d9a9e5638b80ba4d96b1f7b7b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,7 @@ true if is the directory for which the graph is drawn <a href="#ac8ed0c0d9a9e563
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-true if no successor of parent of original directory <a href="#ae497ee1efde3231d5f26bd05a05480e1">More...</a>
+<p>true if no successor of parent of original directory <a href="#ae497ee1efde3231d5f26bd05a05480e1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -103,9 +103,10 @@ true if no successor of parent of original directory <a href="#ae497ee1efde3231d
 
 ## Description {#details}
 
-Properties are used to format the directories in the graph distinctively.
+<p>Properties are used to format the directories in the graph distinctively.</p>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -129,9 +130,10 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 <div class="doxyMemberDoc">
 
-true if not all successors of a cluster are drawn
+<p>true if not all successors of a cluster are drawn</p>
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -140,7 +142,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.</p>
+
 </div>
 </div>
 
@@ -162,9 +165,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 </div>
 <div class="doxyMemberDoc">
 
-true if is the directory for which the graph is drawn
+<p>true if is the directory for which the graph is drawn</p>
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -173,7 +177,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.</p>
+
 </div>
 </div>
 
@@ -195,9 +200,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8e
 </div>
 <div class="doxyMemberDoc">
 
-true if parent is not drawn
+<p>true if parent is not drawn</p>
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,7 +212,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.</p>
+
 </div>
 </div>
 
@@ -228,9 +235,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe2
 </div>
 <div class="doxyMemberDoc">
 
-true if no successor of parent of original directory
+<p>true if no successor of parent of original directory</p>
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -259,9 +267,10 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 <div class="doxyMemberDoc">
 
-true has successors, none is drawn
+<p>true has successors, none is drawn</p>
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -270,7 +279,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aed9febe225f49a478f1ac4ab8c92786d">getDirectoryBorderColor</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a6aa3fa8ed5c1cb6cfe4a5f821d1c776f">getDirectoryBorderStyle</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `PToken` Class Reference
 
-Class representing a token in the compiled regular expression token stream. <a href="#details">More...</a>
+<p>Class representing a token in the compiled regular expression token stream. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class reg::PToken { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The kind of token. <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0">More...</a>
+<p>The kind of token. <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -56,7 +56,7 @@ The kind of token. <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates a token of kind 'End'. <a href="#a63a09d68f5ded8c563f5a06cdd32db27">More...</a>
+<p>Creates a token of kind 'End'. <a href="#a63a09d68f5ded8c563f5a06cdd32db27">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ Creates a token of kind 'End'. <a href="#a63a09d68f5ded8c563f5a06cdd32db27">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates a token of the given kind <em>k</em>. <a href="#a383d4137455b9fdc268fd0db4b050db0">More...</a>
+<p>Creates a token of the given kind <em>k</em>. <a href="#a383d4137455b9fdc268fd0db4b050db0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -84,7 +84,7 @@ Creates a token of the given kind <em>k</em>. <a href="#a383d4137455b9fdc268fd0d
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create a token for an ASCII character. <a href="#a3c769c7cb9e8961e5f52187237f94992">More...</a>
+<p>Create a token for an ASCII character. <a href="#a3c769c7cb9e8961e5f52187237f94992">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -98,7 +98,7 @@ Create a token for an ASCII character. <a href="#a3c769c7cb9e8961e5f52187237f949
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create a token for a byte of an UTF-8 character. <a href="#aec4f875592b933d86407f7e98bff68ee">More...</a>
+<p>Create a token for a byte of an UTF-8 character. <a href="#aec4f875592b933d86407f7e98bff68ee">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -112,7 +112,7 @@ Create a token for a byte of an UTF-8 character. <a href="#aec4f875592b933d86407
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create a token representing a range from one character <em>from</em> to another character <em>to</em>. <a href="#af7714d26eaa9913922be030737df02b2">More...</a>
+<p>Create a token representing a range from one character <em>from</em> to another character <em>to</em>. <a href="#af7714d26eaa9913922be030737df02b2">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -132,7 +132,7 @@ Create a token representing a range from one character <em>from</em> to another 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns a string representation of the tokens kind (useful for debugging). <a href="#a9648ec9cffa7fc0d1ef165fc5882a552">More...</a>
+<p>returns a string representation of the tokens kind (useful for debugging). <a href="#a9648ec9cffa7fc0d1ef165fc5882a552">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -146,7 +146,7 @@ returns a string representation of the tokens kind (useful for debugging). <a hr
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Sets the value for a token. <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">More...</a>
+<p>Sets the value for a token. <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -160,7 +160,7 @@ Sets the value for a token. <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">More...
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the kind of the token. <a href="#a5b947291aff91a346d6526074989a9fa">More...</a>
+<p>Returns the kind of the token. <a href="#a5b947291aff91a346d6526074989a9fa">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -174,7 +174,7 @@ Returns the kind of the token. <a href="#a5b947291aff91a346d6526074989a9fa">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the 'from' part of the character range. <a href="#a93203bf3f74828336b477ea31fde1a1c">More...</a>
+<p>Returns the 'from' part of the character range. <a href="#a93203bf3f74828336b477ea31fde1a1c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -188,7 +188,7 @@ Returns the 'from' part of the character range. <a href="#a93203bf3f74828336b477
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the 'to' part of the character range. <a href="#a2def1e14eeb96c08b25e4c906af071b6">More...</a>
+<p>Returns the 'to' part of the character range. <a href="#a2def1e14eeb96c08b25e4c906af071b6">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -202,7 +202,7 @@ Returns the 'to' part of the character range. <a href="#a2def1e14eeb96c08b25e4c9
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the value for this token. <a href="#ac897faa4d75c143ca24924a5754aa369">More...</a>
+<p>Returns the value for this token. <a href="#ac897faa4d75c143ca24924a5754aa369">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -216,7 +216,7 @@ Returns the value for this token. <a href="#ac897faa4d75c143ca24924a5754aa369">M
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the value for this token as a ASCII character. <a href="#a34589c92a4e8ff59eb14c5536e760929">More...</a>
+<p>Returns the value for this token as a ASCII character. <a href="#a34589c92a4e8ff59eb14c5536e760929">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -230,7 +230,7 @@ Returns the value for this token as a ASCII character. <a href="#a34589c92a4e8ff
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true iff this token represents a range of characters. <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">More...</a>
+<p>Returns true iff this token represents a range of characters. <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -244,7 +244,7 @@ Returns true iff this token represents a range of characters. <a href="#a4bcf1a4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true iff this token is a positive or negative character class. <a href="#aef9ece1aec9504adcf4deb03d803c378">More...</a>
+<p>Returns true iff this token is a positive or negative character class. <a href="#aef9ece1aec9504adcf4deb03d803c378">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -274,12 +274,14 @@ Returns true iff this token is a positive or negative character class. <a href="
 
 ## Description {#details}
 
-Class representing a token in the compiled regular expression token stream.
+<p>Class representing a token in the compiled regular expression token stream.</p>
 
 
-A token has a kind and an optional value whose meaning depends on the kind. It is also possible to store a (from,to) character range in a token.
+<p>A token has a kind and an optional value whose meaning depends on the kind. It is also possible to store a (from,to) character range in a token.</p>
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -308,7 +310,7 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp
 </div>
 <div class="doxyMemberDoc">
 
-The kind of token.
+<p>The kind of token.</p>
 
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
@@ -405,7 +407,8 @@ The kind of token.
 </dl>
 
 
-Ranges per bit mask:
+<p>Ranges per bit mask:</p>
+
 
 <ul class="doxyList ">
 <li><span class="doxyComputerOutput">255</span> from part of a range, except for <span class="doxyComputerOutput">0</span> which is the End marker</li>
@@ -415,7 +418,8 @@ Ranges per bit mask:
 <li><span class="doxyComputerOutput">32768</span> literal character</li>
 </ul>
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -473,9 +477,10 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp
 </div>
 <div class="doxyMemberDoc">
 
-Creates a token of kind 'End'.
+<p>Creates a token of kind 'End'.</p>
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -484,7 +489,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
+
 </div>
 </div>
 
@@ -512,9 +518,10 @@ Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Creates a token of the given kind <em>k</em>.
+<p>Creates a token of the given kind <em>k</em>.</p>
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -523,7 +530,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
+
 </div>
 </div>
 
@@ -550,9 +558,10 @@ Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Create a token for an ASCII character.
+<p>Create a token for an ASCII character.</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -562,7 +571,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a> and <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a> and <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
+
 </div>
 </div>
 
@@ -589,9 +599,10 @@ References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1
 </div>
 <div class="doxyMemberDoc">
 
-Create a token for a byte of an UTF-8 character.
+<p>Create a token for a byte of an UTF-8 character.</p>
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -601,7 +612,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a> and <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a> and <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
+
 </div>
 </div>
 
@@ -628,9 +640,10 @@ References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1
 </div>
 <div class="doxyMemberDoc">
 
-Create a token representing a range from one character <em>from</em> to another character <em>to</em>.
+<p>Create a token representing a range from one character <em>from</em> to another character <em>to</em>.</p>
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -639,7 +652,8 @@ Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a> and <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a>.
+<p>References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a> and <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a>.</p>
+
 </div>
 </div>
 
@@ -672,9 +686,10 @@ References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa62
 </div>
 <div class="doxyMemberDoc">
 
-Returns the value for this token as a ASCII character.
+<p>Returns the value for this token as a ASCII character.</p>
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -683,9 +698,11 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a> and <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a> and <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -712,12 +729,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 </div>
 <div class="doxyMemberDoc">
 
-Returns the 'from' part of the character range.
+<p>Returns the 'from' part of the character range.</p>
 
 
-Only valid if this token represents a range
+<p>Only valid if this token represents a range</p>
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -726,9 +745,11 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
 
-Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>.
+
+<p>Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>.</p>
+
 </div>
 </div>
 
@@ -755,9 +776,10 @@ Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href=
 </div>
 <div class="doxyMemberDoc">
 
-Returns true iff this token is a positive or negative character class.
+<p>Returns true iff this token is a positive or negative character class.</p>
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -766,9 +788,11 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">CharClass</a>, <a href="#a5b947291aff91a346d6526074989a9fa">kind</a> and <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">NegCharClass</a>.
+<p>References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">CharClass</a>, <a href="#a5b947291aff91a346d6526074989a9fa">kind</a> and <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">NegCharClass</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -795,9 +819,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 </div>
 <div class="doxyMemberDoc">
 
-Returns true iff this token represents a range of characters.
+<p>Returns true iff this token represents a range of characters.</p>
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -806,7 +831,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a> and <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a>.
+<p>References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a> and <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a>.</p>
+
 </div>
 </div>
 
@@ -833,9 +859,10 @@ References <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#aa62
 </div>
 <div class="doxyMemberDoc">
 
-Returns the kind of the token.
+<p>Returns the kind of the token.</p>
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -844,9 +871,11 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="#aef9ece1aec9504adcf4deb03d803c378">isCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a> and <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="#aef9ece1aec9504adcf4deb03d803c378">isCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a> and <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -873,9 +902,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 </div>
 <div class="doxyMemberDoc">
 
-returns a string representation of the tokens kind (useful for debugging).
+<p>returns a string representation of the tokens kind (useful for debugging).</p>
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -913,9 +943,11 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp
 </div>
 
 
-References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">Alpha</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">AlphaNum</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">Any</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">BeginCapture</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">BeginOfLine</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">BeginOfWord</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">CharClass</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">Digit</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a87557f11575c0ad78e4e28abedc13b6e">End</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">EndCapture</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">EndOfLine</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">EndOfWord</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">NegCharClass</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">Optional</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">Star</a> and <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">WhiteSpace</a>.
+<p>References <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">Alpha</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">AlphaNum</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">Any</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">BeginCapture</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">BeginOfLine</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">BeginOfWord</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">Character</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">CharClass</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">Digit</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a87557f11575c0ad78e4e28abedc13b6e">End</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">EndCapture</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">EndOfLine</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">EndOfWord</a>, <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">NegCharClass</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">Optional</a>, <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">Star</a> and <a href="#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">WhiteSpace</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -942,9 +974,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 </div>
 <div class="doxyMemberDoc">
 
-Sets the value for a token.
+<p>Sets the value for a token.</p>
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -953,7 +986,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a> and <a href="#ac897faa4d75c143ca24924a5754aa369">value</a>.
+<p>References <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a> and <a href="#ac897faa4d75c143ca24924a5754aa369">value</a>.</p>
+
 </div>
 </div>
 
@@ -980,12 +1014,14 @@ References <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a> and <a href="
 </div>
 <div class="doxyMemberDoc">
 
-Returns the 'to' part of the character range.
+<p>Returns the 'to' part of the character range.</p>
 
 
-Only valid if this token represents a range
+<p>Only valid if this token represents a range</p>
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -994,9 +1030,11 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
 
-Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>.
+
+<p>Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>.</p>
+
 </div>
 </div>
 
@@ -1023,9 +1061,10 @@ Referenced by <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href=
 </div>
 <div class="doxyMemberDoc">
 
-Returns the value for this token.
+<p>Returns the value for this token.</p>
 
-Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1034,9 +1073,11 @@ Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m\_rep</a>.
+<p>Reference <a href="#aa6204b59dad3115e3fd810bab9d6f255">m_rep</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">setValue</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab5231eae1133e68093c49be">reg::Ex::Private::compile</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">setValue</a>.</p>
+
 </div>
 </div>
 
@@ -1066,7 +1107,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#a5ae763e5ab
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1075,7 +1117,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Referenced by <a href="#a34589c92a4e8ff59eb14c5536e760929">asciiValue</a>, <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="#a5b947291aff91a346d6526074989a9fa">kind</a>, <a href="#a9648ec9cffa7fc0d1ef165fc5882a552">kindStr</a>, <a href="#a63a09d68f5ded8c563f5a06cdd32db27">PToken</a>, <a href="#a3c769c7cb9e8961e5f52187237f94992">PToken</a>, <a href="#a383d4137455b9fdc268fd0db4b050db0">PToken</a>, <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>, <a href="#aec4f875592b933d86407f7e98bff68ee">PToken</a>, <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">setValue</a>, <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a> and <a href="#ac897faa4d75c143ca24924a5754aa369">value</a>.
+<p>Referenced by <a href="#a34589c92a4e8ff59eb14c5536e760929">asciiValue</a>, <a href="#a93203bf3f74828336b477ea31fde1a1c">from</a>, <a href="#a4bcf1a48342ff492138d3aff1e0a6fc0">isRange</a>, <a href="#a5b947291aff91a346d6526074989a9fa">kind</a>, <a href="#a9648ec9cffa7fc0d1ef165fc5882a552">kindStr</a>, <a href="#a63a09d68f5ded8c563f5a06cdd32db27">PToken</a>, <a href="#a3c769c7cb9e8961e5f52187237f94992">PToken</a>, <a href="#a383d4137455b9fdc268fd0db4b050db0">PToken</a>, <a href="#af7714d26eaa9913922be030737df02b2">PToken</a>, <a href="#aec4f875592b933d86407f7e98bff68ee">PToken</a>, <a href="#ac3fca62e036f3fa3cc2ce3a6e79e709b">setValue</a>, <a href="#a2def1e14eeb96c08b25e4c906af071b6">to</a> and <a href="#ac897faa4d75c143ca24924a5754aa369">value</a>.</p>
+
 </div>
 </div>
 

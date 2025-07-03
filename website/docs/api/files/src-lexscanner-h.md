@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Lex language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#details">More...</a>
+<p>Lex language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

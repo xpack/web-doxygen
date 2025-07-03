@@ -161,9 +161,11 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-Definition at line 1953 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 1953 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.</p>
+
 </div>
 </div>
 
@@ -192,9 +194,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 
 
 
-Definition at line 1941 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 1941 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a1b6d7e3d1f82adf44c46fdd82d11b2f8">EmojiEntityMapper::unicode</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a1b6d7e3d1f82adf44c46fdd82d11b2f8">EmojiEntityMapper::unicode</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.</p>
+
 </div>
 </div>
 
@@ -223,7 +227,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 
 
 
-Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -232,7 +237,8 @@ Definition at line 1956 of file <a href="/web-doxygen/docs/api/files/src/emoji-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +267,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fa
 
 
 
-Definition at line 1955 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 1955 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -270,7 +277,8 @@ Definition at line 1955 of file <a href="/web-doxygen/docs/api/files/src/emoji-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a1b6d7e3d1f82adf44c46fdd82d11b2f8">EmojiEntityMapper::unicode</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper::EmojiEntityMapper</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a1b6d7e3d1f82adf44c46fdd82d11b2f8">EmojiEntityMapper::unicode</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#aa3a564160bf157ebe6a13531392bb48b">EmojiEntityMapper::writeEmojiFile</a>.</p>
+
 </div>
 </div>
 

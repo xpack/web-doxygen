@@ -41,7 +41,7 @@ class ClassLinkedRefMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -96,7 +96,8 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 </table>
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -122,7 +123,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/classlist
 
 
 
-Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -153,7 +155,8 @@ Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/classlis
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>.</p>
+
 </div>
 </div>
 
@@ -177,7 +180,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 
 
-Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,9 +209,11 @@ Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/classlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a56ac172f1d20c008f1c961b76b511099">FileDefImpl::writeClassDeclarations</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a52184dbf57cd588aa1e21f4cd3267abe">NamespaceDefImpl::writeClassDeclarations</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a56ac172f1d20c008f1c961b76b511099">FileDefImpl::writeClassDeclarations</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a52184dbf57cd588aa1e21f4cd3267abe">NamespaceDefImpl::writeClassDeclarations</a>.</p>
+
 </div>
 </div>
 
@@ -231,7 +237,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a56ac172f1d20c
 
 
 
-Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/classlist-h">classlist.h</a>, definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/classlist-cpp">classlist.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -276,7 +283,8 @@ Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/classlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#aa655c0592e136ba962ac45bb69482638">OutputList::endGroupHeader</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#adfdcf2ba925f05be8beb8cf43deb168a">OutputList::parseText</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a2cf4898386fe73bfd645d4765e713a2b">OutputList::startGroupHeader</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputlist/#a2203589f0bc276cb3ba01f529b9536a9">OutputList::writeRuler</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#aa655c0592e136ba962ac45bb69482638">OutputList::endGroupHeader</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#adfdcf2ba925f05be8beb8cf43deb168a">OutputList::parseText</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a>, <a href="/web-doxygen/docs/api/classes/outputlist/#a2cf4898386fe73bfd645d4765e713a2b">OutputList::startGroupHeader</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/outputlist/#a2203589f0bc276cb3ba01f529b9536a9">OutputList::writeRuler</a>.</p>
+
 </div>
 </div>
 

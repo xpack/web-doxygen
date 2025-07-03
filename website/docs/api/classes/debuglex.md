@@ -133,7 +133,8 @@ class DebugLex { ... }
 </table>
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -159,7 +160,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/debug-h">
 
 
 
-Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -171,7 +173,8 @@ Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/debug-h"
 </div>
 
 
-References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m\_fileName</a>, <a href="#ac45b02f5ce6fa32d94637bb1aa2ab7ee">m\_lexName</a>, <a href="#a6e2229b014ac8a23f730ff248f238d27">m\_mask</a>, <a href="#aba76b8a3cf651c0fc03dc731a8f880e0">print</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m_fileName</a>, <a href="#ac45b02f5ce6fa32d94637bb1aa2ab7ee">m_lexName</a>, <a href="#a6e2229b014ac8a23f730ff248f238d27">m_mask</a>, <a href="#aba76b8a3cf651c0fc03dc731a8f880e0">print</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -201,7 +204,8 @@ References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m\_fileName</a>, <a href
 
 
 
-Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -213,7 +217,8 @@ Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/debug-h
 </div>
 
 
-References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m\_fileName</a>, <a href="#ac45b02f5ce6fa32d94637bb1aa2ab7ee">m\_lexName</a>, <a href="#a6e2229b014ac8a23f730ff248f238d27">m\_mask</a>, <a href="#aba76b8a3cf651c0fc03dc731a8f880e0">print</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m_fileName</a>, <a href="#ac45b02f5ce6fa32d94637bb1aa2ab7ee">m_lexName</a>, <a href="#a6e2229b014ac8a23f730ff248f238d27">m_mask</a>, <a href="#aba76b8a3cf651c0fc03dc731a8f880e0">print</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -243,7 +248,8 @@ References <a href="#aa18bf76ded1ae3bdae1f7b8ee74e9903">m\_fileName</a>, <a href
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -252,7 +258,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/debug-h"
 </div>
 
 
-Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">\~DebugLex</a>.
+<p>Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">~DebugLex</a>.</p>
+
 </div>
 </div>
 
@@ -276,7 +283,8 @@ Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a h
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -285,7 +293,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/debug-h"
 </div>
 
 
-Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">\~DebugLex</a>.
+<p>Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">~DebugLex</a>.</p>
+
 </div>
 </div>
 
@@ -309,7 +318,8 @@ Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a h
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +328,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/debug-h"
 </div>
 
 
-Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">\~DebugLex</a>.
+<p>Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a href="#a258923c83f68a5a6d599519b9750d826">~DebugLex</a>.</p>
+
 </div>
 </div>
 
@@ -353,7 +364,8 @@ Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a> and <a h
 
 
 
-Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/debug-h">debug.h</a>, definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -378,9 +390,11 @@ Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/debug-h
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>.</p>
 
-Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aa40638bbc3b82e1b24a760b6e5dff877">LayoutDocManager::parse</a> and <a href="#a258923c83f68a5a6d599519b9750d826">\~DebugLex</a>.
+
+<p>Referenced by <a href="#a105ca89098d00f847fef80e40fa4d3b0">DebugLex</a>, <a href="/web-doxygen/docs/api/classes/layoutdocmanager/#aa40638bbc3b82e1b24a760b6e5dff877">LayoutDocManager::parse</a> and <a href="#a258923c83f68a5a6d599519b9750d826">~DebugLex</a>.</p>
+
 </div>
 </div>
 

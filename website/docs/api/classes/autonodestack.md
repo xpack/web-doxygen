@@ -101,7 +101,8 @@ class AutoNodeStack { ... }
 </table>
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -132,7 +133,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/docparse
 
 
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -142,7 +144,8 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m\_parser</a>.
+<p>References <a href="#a452992566701eb2e0fcb67ca0e38e890">m_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m_parser</a>.</p>
+
 </div>
 </div>
 
@@ -177,7 +180,8 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href=
 
 
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -198,7 +202,8 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m\_parser</a>.
+<p>References <a href="#a452992566701eb2e0fcb67ca0e38e890">m_node</a> and <a href="#a36908098e146343a72a946a270f5980a">m_parser</a>.</p>
+
 </div>
 </div>
 
@@ -228,7 +233,8 @@ References <a href="#a452992566701eb2e0fcb67ca0e38e890">m\_node</a> and <a href=
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -237,7 +243,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">\~AutoNodeStack</a>.
+<p>Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">~AutoNodeStack</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +268,8 @@ Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -270,7 +278,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">\~AutoNodeStack</a>.
+<p>Referenced by <a href="#a84baa3d44d0f437d4a80a0d3d6fc06df">AutoNodeStack</a> and <a href="#a7a9a492c39c16b054ab81d12ea3e73ac">~AutoNodeStack</a>.</p>
+
 </div>
 </div>
 

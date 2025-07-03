@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a HTML attribute. <a href="/web-doxygen/docs/api/structs/htmlattrib/#details">More...</a>
+<p>Class representing a HTML attribute. <a href="/web-doxygen/docs/api/structs/htmlattrib/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -51,7 +51,7 @@ Class representing a HTML attribute. <a href="/web-doxygen/docs/api/structs/html
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a list of HTML attributes. <a href="/web-doxygen/docs/api/classes/htmlattriblist/#details">More...</a>
+<p>Class representing a list of HTML attributes. <a href="/web-doxygen/docs/api/classes/htmlattriblist/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

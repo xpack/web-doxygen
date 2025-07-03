@@ -36,7 +36,7 @@ class TextGeneratorSqlite3Impl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a>
+<p>Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -129,7 +129,8 @@ Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/a
 </table>
 
 
-Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 
 
 
-Definition at line 836 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 836 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ Definition at line 836 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Reference <a href="#ac7b1dcda32f1d84332b78b3d5ccfebee">m\_list</a>.
+<p>Reference <a href="#ac7b1dcda32f1d84332b78b3d5ccfebee">m_list</a>.</p>
+
 </div>
 </div>
 
@@ -205,7 +208,8 @@ Reference <a href="#ac7b1dcda32f1d84332b78b3d5ccfebee">m\_list</a>.
 
 
 
-Definition at line 840 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 840 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -217,7 +221,8 @@ Definition at line 840 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>.</p>
+
 </div>
 </div>
 
@@ -247,7 +252,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a234e2efe67ee
 
 
 
-Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -267,7 +273,8 @@ Definition at line 844 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ac7b1dcda32f1d84332b78b3d5ccfebee">m\_list</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ac7b1dcda32f1d84332b78b3d5ccfebee">m_list</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -297,7 +304,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef
 
 
 
-Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -336,7 +344,8 @@ Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 
 
 
-Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -345,7 +354,8 @@ Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#af7261df10cb2f44095e5a3e55f4015ba">TextGeneratorSqlite3Impl</a> and <a href="#aeebc63bda55bc226c43f72d75e1e92a4">writeLink</a>.
+<p>Referenced by <a href="#af7261df10cb2f44095e5a3e55f4015ba">TextGeneratorSqlite3Impl</a> and <a href="#aeebc63bda55bc226c43f72d75e1e92a4">writeLink</a>.</p>
+
 </div>
 </div>
 

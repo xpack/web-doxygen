@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `searchindex.h` File Reference
 
-Web server based search engine. <a href="#details">More...</a>
+<p>Web server based search engine. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -69,7 +69,7 @@ Web server based search engine. <a href="#details">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes search index for doxygen provided server based search engine that uses PHP. <a href="/web-doxygen/docs/api/classes/searchindex/#details">More...</a>
+<p>Writes search index for doxygen provided server based search engine that uses PHP. <a href="/web-doxygen/docs/api/classes/searchindex/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -122,7 +122,7 @@ Writes search index for doxygen provided server based search engine that uses PH
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes search index that should be used with an externally provided search engine, e.g. <a href="/web-doxygen/docs/api/classes/searchindexexternal/#details">More...</a>
+<p>Writes search index that should be used with an externally provided search engine, e.g. <a href="/web-doxygen/docs/api/classes/searchindexexternal/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -149,7 +149,7 @@ Writes search index that should be used with an externally provided search engin
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract proxy interface for non-javascript based search indices. <a href="/web-doxygen/docs/api/classes/searchindexintf/#details">More...</a>
+<p>Abstract proxy interface for non-javascript based search indices. <a href="/web-doxygen/docs/api/classes/searchindexintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -192,10 +192,11 @@ Abstract proxy interface for non-javascript based search indices. <a href="/web-
 
 ## Description {#details}
 
-Web server based search engine.
+<p>Web server based search engine.</p>
 
 
-Comes in two flavors: internal (via generated index) or external (via doxyindexer + doxysearch)
+<p>Comes in two flavors: internal (via generated index) or external (via doxyindexer + doxysearch)</p>
+
 
 <div class="doxySectionDef">
 
@@ -222,9 +223,11 @@ Comes in two flavors: internal (via generated index) or external (via doxyindexe
 
 
 
-Cleanup the search indexer
+<p>Cleanup the search indexer</p>
 
-Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
+
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,9 +239,11 @@ Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">SearchIndexIntf::Disabled</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa18319e2d242c98414b3a334f4d04215d">SearchIndexIntf::Disabled</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -263,9 +268,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Initialize the search indexer
+<p>Initialize the search indexer</p>
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.
+
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>, definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/searchindex-cpp">searchindex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -283,9 +290,11 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">SearchIndexIntf::External</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">SearchIndexIntf::Internal</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa507071eac5d8808e1e91570d8c20523b">SearchIndexIntf::External</a>, <a href="/web-doxygen/docs/api/classes/searchindexintf/#ade3dd4c1f8bc6487f0f3dccba5c6f9eaa4e9f47fa9f92dd54889f2e95261a1041">SearchIndexIntf::Internal</a> and <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 

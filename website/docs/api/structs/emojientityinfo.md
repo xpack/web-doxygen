@@ -58,7 +58,8 @@ struct emojiEntityInfo { ... }
 </table>
 
 
-Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

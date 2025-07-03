@@ -36,7 +36,7 @@ class SysTimeKeeper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-start a timer for this thread <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">More...</a>
+<p>start a timer for this thread <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ start a timer for this thread <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">More.
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-ends a timer for this thread, accumulate time difference since start <a href="#a46b40aa916ae6873c566c85a88dd9f96">More...</a>
+<p>ends a timer for this thread, accumulate time difference since start <a href="#a46b40aa916ae6873c566c85a88dd9f96">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -140,9 +140,11 @@ ends a timer for this thread, accumulate time difference since start <a href="#a
 
 
 
-Helper class to keep time interval per thread
+<p>Helper class to keep time interval per thread</p>
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -173,7 +175,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/portable-
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -182,9 +185,11 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Reference <a href="#a2320903615e5e7d57ed7c3113135c8ed">m\_elapsedTime</a>.
+<p>Reference <a href="#a2320903615e5e7d57ed7c3113135c8ed">m_elapsedTime</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07edc01e5ae424b6597142f">Portable::getSysElapsedTime</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07edc01e5ae424b6597142f">Portable::getSysElapsedTime</a>.</p>
+
 </div>
 </div>
 
@@ -211,9 +216,10 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07ed
 </div>
 <div class="doxyMemberDoc">
 
-start a timer for this thread
+<p>start a timer for this thread</p>
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -226,9 +232,11 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-References <a href="#a0b589e0d9fba742f915ff3b6a6f76d57">m\_mutex</a> and <a href="#af55dfdf43ee3d196a303b500268e95b8">m\_startTimes</a>.
+<p>References <a href="#a0b589e0d9fba742f915ff3b6a6f76d57">m_mutex</a> and <a href="#af55dfdf43ee3d196a303b500268e95b8">m_startTimes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f3cd97a1429bda7c614d9aa">AutoTimeKeeper::AutoTimeKeeper</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f3cd97a1429bda7c614d9aa">AutoTimeKeeper::AutoTimeKeeper</a>.</p>
+
 </div>
 </div>
 
@@ -255,9 +263,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f
 </div>
 <div class="doxyMemberDoc">
 
-ends a timer for this thread, accumulate time difference since start
+<p>ends a timer for this thread, accumulate time difference since start</p>
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -280,9 +289,11 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a2320903615e5e7d57ed7c3113135c8ed">m\_elapsedTime</a>, <a href="#a0b589e0d9fba742f915ff3b6a6f76d57">m\_mutex</a> and <a href="#af55dfdf43ee3d196a303b500268e95b8">m\_startTimes</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a2320903615e5e7d57ed7c3113135c8ed">m_elapsedTime</a>, <a href="#a0b589e0d9fba742f915ff3b6a6f76d57">m_mutex</a> and <a href="#af55dfdf43ee3d196a303b500268e95b8">m_startTimes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper::\~AutoTimeKeeper</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper::~AutoTimeKeeper</a>.</p>
+
 </div>
 </div>
 
@@ -312,7 +323,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d4
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -321,7 +333,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="#a4f6d6e92f23a8bc80ef6ec257295f101">elapsedTime</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.
+<p>Referenced by <a href="#a4f6d6e92f23a8bc80ef6ec257295f101">elapsedTime</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.</p>
+
 </div>
 </div>
 
@@ -345,7 +358,8 @@ Referenced by <a href="#a4f6d6e92f23a8bc80ef6ec257295f101">elapsedTime</a> and <
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -354,7 +368,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.
+<p>Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.</p>
+
 </div>
 </div>
 
@@ -378,7 +393,8 @@ Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -387,7 +403,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.
+<p>Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href="#a46b40aa916ae6873c566c85a88dd9f96">stop</a>.</p>
+
 </div>
 </div>
 
@@ -422,7 +439,8 @@ Referenced by <a href="#a4bb2350f48a1ce554f4499edbd8ba8ec">start</a> and <a href
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -435,7 +453,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f3cd97a1429bda7c614d9aa">AutoTimeKeeper::AutoTimeKeeper</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07edc01e5ae424b6597142f">Portable::getSysElapsedTime</a> and <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper::\~AutoTimeKeeper</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a2e0744b11f3cd97a1429bda7c614d9aa">AutoTimeKeeper::AutoTimeKeeper</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a248b5a87e07edc01e5ae424b6597142f">Portable::getSysElapsedTime</a> and <a href="/web-doxygen/docs/api/classes/autotimekeeper/#a27439f74d48591cc5813ad2bb06915ff">AutoTimeKeeper::~AutoTimeKeeper</a>.</p>
+
 </div>
 </div>
 

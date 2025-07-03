@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocParamList` Class Reference
 
-Node representing a parameter list. <a href="#details">More...</a>
+<p>Node representing a parameter list. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocParamList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
+<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -317,9 +317,10 @@ Abstract node interface with type information. <a href="/web-doxygen/docs/api/cl
 
 ## Description {#details}
 
-Node representing a parameter list.
+<p>Node representing a parameter list.</p>
 
-Definition at line 1124 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1124 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -350,7 +351,8 @@ Definition at line 1124 of file <a href="/web-doxygen/docs/api/files/src/docnode
 
 
 
-Definition at line 1127 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1127 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -360,7 +362,8 @@ Definition at line 1127 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#a1501c1d30e2e09f8740c6050b0206451">m\_dir</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m\_type</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#a1501c1d30e2e09f8740c6050b0206451">m_dir</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m_type</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.</p>
+
 </div>
 </div>
 
@@ -395,7 +398,8 @@ References <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307
 
 
 
-Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -404,9 +408,11 @@ Definition at line 1133 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a1501c1d30e2e09f8740c6050b0206451">m\_dir</a>.
+<p>Reference <a href="#a1501c1d30e2e09f8740c6050b0206451">m_dir</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -435,7 +441,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1
 
 
 
-Definition at line 1136 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1136 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -444,7 +451,8 @@ Definition at line 1136 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a117da8d395edd77c1cfcf9840c77603c">m\_isFirst</a>.
+<p>Reference <a href="#a117da8d395edd77c1cfcf9840c77603c">m_isFirst</a>.</p>
+
 </div>
 </div>
 
@@ -473,7 +481,8 @@ Reference <a href="#a117da8d395edd77c1cfcf9840c77603c">m\_isFirst</a>.
 
 
 
-Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -482,9 +491,11 @@ Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a9884c71ca8b75cec15a9cc4b2fe525ae">m\_isLast</a>.
+<p>Reference <a href="#a9884c71ca8b75cec15a9cc4b2fe525ae">m_isLast</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -513,7 +524,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3
 
 
 
-Definition at line 1134 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1134 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -522,9 +534,11 @@ Definition at line 1134 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="#a117da8d395edd77c1cfcf9840c77603c">m\_isFirst</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a117da8d395edd77c1cfcf9840c77603c">m_isFirst</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.
+
+<p>Referenced by <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.</p>
+
 </div>
 </div>
 
@@ -553,7 +567,8 @@ Referenced by <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.
 
 
 
-Definition at line 1135 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1135 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -562,9 +577,11 @@ Definition at line 1135 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="#a9884c71ca8b75cec15a9cc4b2fe525ae">m\_isLast</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a9884c71ca8b75cec15a9cc4b2fe525ae">m_isLast</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docparamsect/#ab528e49d6e133ca42c29bb46bdc3cbec">DocParamSect::parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docparamsect/#ab528e49d6e133ca42c29bb46bdc3cbec">DocParamSect::parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.</p>
+
 </div>
 </div>
 
@@ -593,7 +610,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparamsect/#ab528e49d6e13
 
 
 
-Definition at line 1131 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1131 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -602,9 +620,11 @@ Definition at line 1131 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m\_paragraphs</a>.
+<p>Reference <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m_paragraphs</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -633,7 +653,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1
 
 
 
-Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -642,9 +663,11 @@ Definition at line 1129 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m\_params</a>.
+<p>Reference <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m_params</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a3ad488448307ccde3303915e92c56a69">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a9becdb1d4b3096f9081710f0c6c14e80">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#adf7a140e70ce68021f8b0acf881e96af">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a3ad488448307ccde3303915e92c56a69">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -673,7 +696,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1
 
 
 
-Definition at line 1130 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1130 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -682,9 +706,11 @@ Definition at line 1130 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a04a43c0f053845ea8769259804b670d1">m\_paramTypes</a>.
+<p>Reference <a href="#a04a43c0f053845ea8769259804b670d1">m_paramTypes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a5c64416b51edb6f80d0be604b4cbe0b3">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a806029951b075fcd8c430498bd0f2375">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#aeb7edc62cad5a541849845d2bfe030e9">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -708,7 +734,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1
 
 
 
-Declaration at line 1138 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 3148 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Declaration at line 1138 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 3148 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -794,7 +821,8 @@ Declaration at line 1138 of file <a href="/web-doxygen/docs/api/files/src/docnod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3fce1509c4bb1494537fe53ea294fa8c">DocParser::checkRetvalName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a367fe5ccd7e0378c2e5c94df6e60dd0d">DocParser::handleParameterType</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/classes/token/#a3393121ecbc606537f445296345d8ce6">Token::is</a>, <a href="/web-doxygen/docs/api/classes/token/#ac1d3fe36021841d01e0867a7fbac82a0">Token::is\_any\_of</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a286239d4401fbbfb8b183a7e9c521866">DocTokenizer::lex</a>, <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m\_paragraphs</a>, <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m\_params</a>, <a href="#a04a43c0f053845ea8769259804b670d1">m\_paramTypes</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m\_type</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a849868e81af1e2ae0da511fa3e5a91b8">DocPara::markFirst</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a569bc5841973bac45491c977814f62e0">DocPara::markLast</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/structs/tokeninfo/#ad01df4cf228c63091fd14007b7331b8e">TokenInfo::name</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#ae3c97a1c50f2345ed8a821b064752e4c">DocTokenizer::setStatePara</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a5b84c53eb58ffa4536429f435af7dc7e">DocTokenizer::setStateParam</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>, <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn\_doc\_error</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3fce1509c4bb1494537fe53ea294fa8c">DocParser::checkRetvalName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a367fe5ccd7e0378c2e5c94df6e60dd0d">DocParser::handleParameterType</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/classes/token/#a3393121ecbc606537f445296345d8ce6">Token::is</a>, <a href="/web-doxygen/docs/api/classes/token/#ac1d3fe36021841d01e0867a7fbac82a0">Token::is_any_of</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a286239d4401fbbfb8b183a7e9c521866">DocTokenizer::lex</a>, <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m_paragraphs</a>, <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m_params</a>, <a href="#a04a43c0f053845ea8769259804b670d1">m_paramTypes</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m_type</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a849868e81af1e2ae0da511fa3e5a91b8">DocPara::markFirst</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a569bc5841973bac45491c977814f62e0">DocPara::markLast</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/structs/tokeninfo/#ad01df4cf228c63091fd14007b7331b8e">TokenInfo::name</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#ae3c97a1c50f2345ed8a821b064752e4c">DocTokenizer::setStatePara</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#a5b84c53eb58ffa4536429f435af7dc7e">DocTokenizer::setStateParam</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>, <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to_string</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a31ff77e4308ae2b7691a8381736201d1">DocParser::tokenizer</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn_doc_error</a>.</p>
+
 </div>
 </div>
 
@@ -818,7 +846,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Declaration at line 1139 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 3227 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Declaration at line 1139 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 3227 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -891,7 +920,8 @@ Declaration at line 1139 of file <a href="/web-doxygen/docs/api/files/src/docnod
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3fce1509c4bb1494537fe53ea294fa8c">DocParser::checkRetvalName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/namespaces/mappers/#a8390ce8e78c02d974d515d560a551958">Mappers::htmlTagMapper</a>, <a href="/web-doxygen/docs/api/classes/token/#a3393121ecbc606537f445296345d8ce6">Token::is</a>, <a href="/web-doxygen/docs/api/classes/token/#ac1d3fe36021841d01e0867a7fbac82a0">Token::is\_any\_of</a>, <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m\_paragraphs</a>, <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m\_params</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m\_type</a>, <a href="#a6b3e3e25859cc2d76b312b988c018d08">markFirst</a>, <a href="#a89fc37af294659364193e14680065668">markLast</a>, <a href="/web-doxygen/docs/api/structs/tokeninfo/#ad01df4cf228c63091fd14007b7331b8e">TokenInfo::name</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>, <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn\_doc\_error</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273a422227202d96b7b5aedcb1b4f3766d03">XML\_EXCEPTION</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273aad530a000140559dd09d6d3e2d0aa9f2">XML\_PARAM</a> and <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273a1056e17a54837e4e4c9897c32a9290fd">XML\_TYPEPARAM</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3fce1509c4bb1494537fe53ea294fa8c">DocParser::checkRetvalName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad6738a87a82c364cedd836a084394960">DocParser::context</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a2b2971ad53e50d90ca4affca6a6e1d67">DocParser::handleLinkedWord</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#adfc69df470290ef49cf32d0e6cd83556">DocParserContext::hasParamCommand</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#ae20ce1c3e50ef1b4399b50f29f61607f">DocParserContext::hasReturnCommand</a>, <a href="/web-doxygen/docs/api/namespaces/mappers/#a8390ce8e78c02d974d515d560a551958">Mappers::htmlTagMapper</a>, <a href="/web-doxygen/docs/api/classes/token/#a3393121ecbc606537f445296345d8ce6">Token::is</a>, <a href="/web-doxygen/docs/api/classes/token/#ac1d3fe36021841d01e0867a7fbac82a0">Token::is_any_of</a>, <a href="#a0c6a541e9cf5b513a82b5ff0607794cf">m_paragraphs</a>, <a href="#acbc8c94fc05d08e05dd38f339f0a18dd">m_params</a>, <a href="#ab173b0e7740af58cde5390629aa93851">m_type</a>, <a href="#a6b3e3e25859cc2d76b312b988c018d08">markFirst</a>, <a href="#a89fc37af294659364193e14680065668">markLast</a>, <a href="/web-doxygen/docs/api/structs/tokeninfo/#ad01df4cf228c63091fd14007b7331b8e">TokenInfo::name</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a748968b3044e70e48fad54a7cda1c57f">DocNode::thisVariant</a>, <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to_string</a>, <a href="/web-doxygen/docs/api/structs/docparsercontext/#a8da54182d40bdc81e85cd29db88230b6">DocParserContext::token</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn_doc_error</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273a422227202d96b7b5aedcb1b4f3766d03">XML_EXCEPTION</a>, <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273aad530a000140559dd09d6d3e2d0aa9f2">XML_PARAM</a> and <a href="/web-doxygen/docs/api/files/src/cmdmapper-h/#a91be16b8342aa3130a4374d78cf42273a1056e17a54837e4e4c9897c32a9290fd">XML_TYPEPARAM</a>.</p>
+
 </div>
 </div>
 
@@ -920,7 +950,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 1132 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1132 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -929,7 +960,8 @@ Definition at line 1132 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#ab173b0e7740af58cde5390629aa93851">m\_type</a>.
+<p>Reference <a href="#ab173b0e7740af58cde5390629aa93851">m_type</a>.</p>
+
 </div>
 </div>
 
@@ -959,7 +991,8 @@ Reference <a href="#ab173b0e7740af58cde5390629aa93851">m\_type</a>.
 
 
 
-Definition at line 1146 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1146 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -968,7 +1001,8 @@ Definition at line 1146 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#ac45275b55efab9d6a60049f6d6dc7679">direction</a> and <a href="#a9c7cdfadcf9d06435cd7979423f3c0bf">DocParamList</a>.
+<p>Referenced by <a href="#ac45275b55efab9d6a60049f6d6dc7679">direction</a> and <a href="#a9c7cdfadcf9d06435cd7979423f3c0bf">DocParamList</a>.</p>
+
 </div>
 </div>
 
@@ -992,7 +1026,8 @@ Referenced by <a href="#ac45275b55efab9d6a60049f6d6dc7679">direction</a> and <a 
 
 
 
-Definition at line 1147 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1147 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1001,7 +1036,8 @@ Definition at line 1147 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#a60ad28c13ad20d76776a6bacd3b3a412">isFirst</a> and <a href="#a6b3e3e25859cc2d76b312b988c018d08">markFirst</a>.
+<p>Referenced by <a href="#a60ad28c13ad20d76776a6bacd3b3a412">isFirst</a> and <a href="#a6b3e3e25859cc2d76b312b988c018d08">markFirst</a>.</p>
+
 </div>
 </div>
 
@@ -1025,7 +1061,8 @@ Referenced by <a href="#a60ad28c13ad20d76776a6bacd3b3a412">isFirst</a> and <a hr
 
 
 
-Definition at line 1148 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1148 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1034,7 +1071,8 @@ Definition at line 1148 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#a96270035f29eb07f50ed8c0c2acda9d3">isLast</a> and <a href="#a89fc37af294659364193e14680065668">markLast</a>.
+<p>Referenced by <a href="#a96270035f29eb07f50ed8c0c2acda9d3">isLast</a> and <a href="#a89fc37af294659364193e14680065668">markLast</a>.</p>
+
 </div>
 </div>
 
@@ -1058,7 +1096,8 @@ Referenced by <a href="#a96270035f29eb07f50ed8c0c2acda9d3">isLast</a> and <a hre
 
 
 
-Definition at line 1142 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1142 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1067,7 +1106,8 @@ Definition at line 1142 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#aea61e6129350589c862ceb0f75d5f9a9">paragraphs</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.
+<p>Referenced by <a href="#aea61e6129350589c862ceb0f75d5f9a9">paragraphs</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.</p>
+
 </div>
 </div>
 
@@ -1091,7 +1131,8 @@ Referenced by <a href="#aea61e6129350589c862ceb0f75d5f9a9">paragraphs</a>, <a hr
 
 
 
-Definition at line 1143 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1143 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1100,7 +1141,8 @@ Definition at line 1143 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#a543cac8da19b4edaa5eb0c7deeba2455">parameters</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.
+<p>Referenced by <a href="#a543cac8da19b4edaa5eb0c7deeba2455">parameters</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a> and <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a>.</p>
+
 </div>
 </div>
 
@@ -1124,7 +1166,8 @@ Referenced by <a href="#a543cac8da19b4edaa5eb0c7deeba2455">parameters</a>, <a hr
 
 
 
-Definition at line 1144 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1144 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1133,7 +1176,8 @@ Definition at line 1144 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#a66138e258fb9547bd85e0b9227c48ebf">paramTypes</a> and <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a>.
+<p>Referenced by <a href="#a66138e258fb9547bd85e0b9227c48ebf">paramTypes</a> and <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a>.</p>
+
 </div>
 </div>
 
@@ -1157,7 +1201,8 @@ Referenced by <a href="#a66138e258fb9547bd85e0b9227c48ebf">paramTypes</a> and <a
 
 
 
-Definition at line 1145 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1145 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1166,7 +1211,8 @@ Definition at line 1145 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#a9c7cdfadcf9d06435cd7979423f3c0bf">DocParamList</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a>, <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a> and <a href="#a6c795a79c11468fb1d8ce3dab41534f3">type</a>.
+<p>Referenced by <a href="#a9c7cdfadcf9d06435cd7979423f3c0bf">DocParamList</a>, <a href="#a98345755b6311bcc4129bd7ee14759f1">parse</a>, <a href="#a79bb36905dd1401288d55e12ee52ce03">parseXml</a> and <a href="#a6c795a79c11468fb1d8ce3dab41534f3">type</a>.</p>
+
 </div>
 </div>
 

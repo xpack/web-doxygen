@@ -97,7 +97,8 @@ class Qhp::Private { ... }
 </table>
 
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -123,7 +124,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 
 
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -154,7 +156,8 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 
 
 
-Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -185,7 +188,8 @@ Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -216,7 +220,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -247,7 +252,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

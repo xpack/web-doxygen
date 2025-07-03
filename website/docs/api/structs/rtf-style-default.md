@@ -76,7 +76,8 @@ struct Rtf_Style_Default { ... }
 </table>
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -102,7 +103,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -111,7 +113,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.</p>
+
 </div>
 </div>
 
@@ -135,7 +138,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -144,7 +148,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a> and <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a61fa723a2a2eb50d0d52734936d06db4">testRTFOutput</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a> and <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a61fa723a2a2eb50d0d52734936d06db4">testRTFOutput</a>.</p>
+
 </div>
 </div>
 
@@ -168,7 +173,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -177,7 +183,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a20ebc13fc3ca037f977dc8144847db73">RTFGenerator::init</a>.</p>
+
 </div>
 </div>
 

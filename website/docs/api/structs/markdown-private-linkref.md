@@ -77,7 +77,8 @@ struct Markdown::Private::LinkRef { ... }
 </table>
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="#a0baddbcfa1ac370161f6f8d373bd6228">link</a> and <a href="#a6ce97396ea5abdfbf723271caa5f77d9">title</a>.
+<p>References <a href="#a0baddbcfa1ac370161f6f8d373bd6228">link</a> and <a href="#a6ce97396ea5abdfbf723271caa5f77d9">title</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a0baddbcfa1ac370161f6f8d373bd6228">link</a> and <a href="#a
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.
+<p>Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.
+<p>Referenced by <a href="#a57ffe1ee8e82cd88ddf76c7f08a1601d">LinkRef</a>.</p>
+
 </div>
 </div>
 

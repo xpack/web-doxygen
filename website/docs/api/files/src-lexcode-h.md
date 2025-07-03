@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-LEX code scanner. <a href="/web-doxygen/docs/api/classes/lexcodeparser/#details">More...</a>
+<p>LEX code scanner. <a href="/web-doxygen/docs/api/classes/lexcodeparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

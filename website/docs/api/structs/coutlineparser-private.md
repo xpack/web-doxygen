@@ -58,7 +58,8 @@ struct COutlineParser::Private { ... }
 </table>
 
 
-Definition at line 8397 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8397 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 8397 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 8400 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8400 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 8400 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 8399 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8399 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -77,7 +77,8 @@ struct TableCell { ... }
 </table>
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -145,7 +147,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -176,7 +179,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

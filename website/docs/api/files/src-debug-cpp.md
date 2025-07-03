@@ -158,7 +158,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -171,7 +172,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a> and <a href="#aec8bf37b3431219d99c8dabf8961c73b">labelToEnumValue</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a> and <a href="#aec8bf37b3431219d99c8dabf8961c73b">labelToEnumValue</a>.</p>
+
 </div>
 </div>
 
@@ -200,7 +202,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -215,9 +218,11 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp
 </div>
 
 
-References <a href="#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa1079d9a4345660aa3e283c322fd12f3">Debug::Quiet</a>, <a href="#ab76040705893c60ac02bcca04c9aba5f">s\_labels</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa1079d9a4345660aa3e283c322fd12f3">Debug::Quiet</a>, <a href="#ab76040705893c60ac02bcca04c9aba5f">s_labels</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.</p>
+
 </div>
 </div>
 
@@ -252,7 +257,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b4
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -261,7 +267,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc502ccb1198f8c">Debug::print\_</a> and <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc502ccb1198f8c">Debug::print_</a> and <a href="/web-doxygen/docs/api/classes/debug/#ae37b8f08c49a5d316b436e1849dffb9c">Debug::setFlagStr</a>.</p>
+
 </div>
 </div>
 
@@ -290,7 +297,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#af9d002a2d503fa172cc
 
 
 
-Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -299,7 +307,8 @@ Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/debug-cp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015caee0ab90ddb6e87">Debug::elapsedTime</a> and <a href="/web-doxygen/docs/api/classes/debug/#ad34e8ad3d814a4cf8b29ce98fd7a96f5">Debug::startTimer</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015caee0ab90ddb6e87">Debug::elapsedTime</a> and <a href="/web-doxygen/docs/api/classes/debug/#ad34e8ad3d814a4cf8b29ce98fd7a96f5">Debug::startTimer</a>.</p>
+
 </div>
 </div>
 
@@ -328,7 +337,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/debug/#accc1a68a6e51b015cae
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -381,7 +391,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp
 </div>
 
 
-Referenced by <a href="#aec8bf37b3431219d99c8dabf8961c73b">labelToEnumValue</a> and <a href="/web-doxygen/docs/api/classes/debug/#a2d8ac411144a380f838a1766118c6a03">Debug::printFlags</a>.
+<p>Referenced by <a href="#aec8bf37b3431219d99c8dabf8961c73b">labelToEnumValue</a> and <a href="/web-doxygen/docs/api/classes/debug/#a2d8ac411144a380f838a1766118c6a03">Debug::printFlags</a>.</p>
+
 </div>
 </div>
 

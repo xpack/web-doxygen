@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-C-like language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/coutlineparser/#details">More...</a>
+<p>C-like language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/coutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

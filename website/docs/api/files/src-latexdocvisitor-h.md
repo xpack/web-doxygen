@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a>
+<p>Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -158,7 +158,8 @@ Concrete visitor implementation for LaTeX output. <a href="/web-doxygen/docs/api
 </dd>
 </dl>
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

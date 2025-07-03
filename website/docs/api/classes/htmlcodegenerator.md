@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlCodeGenerator` Class Reference
 
-Generator for HTML code fragments. <a href="#details">More...</a>
+<p>Generator for HTML code fragments. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class HtmlCodeGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
+<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -544,9 +544,10 @@ Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcod
 
 ## Description {#details}
 
-Generator for HTML code fragments.
+<p>Generator for HTML code fragments.</p>
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -572,7 +573,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 
 
 
-Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 715 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 715 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -585,7 +587,8 @@ Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#a80720eb841d423de493dda614c8fed50">m_relPath</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -609,7 +612,8 @@ References <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a> and <a hr
 
 
 
-Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -621,7 +625,8 @@ Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -657,7 +662,8 @@ Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -693,7 +699,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 
 
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -781,9 +788,11 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a1748a7403991604b7f600589b77f9937">hex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a52afd41d498a9cfaa87b4d834058ff48">m\_stripIndentAmount</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a1748a7403991604b7f600589b77f9937">hex</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a52afd41d498a9cfaa87b4d834058ff48">m_stripIndentAmount</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.</p>
 
-Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.
+
+<p>Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.</p>
+
 </div>
 </div>
 
@@ -812,7 +821,8 @@ Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, 
 
 
 
-Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1033 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1033 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -827,7 +837,8 @@ Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -856,7 +867,8 @@ References <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a> and <a h
 
 
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 995 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 995 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -878,9 +890,11 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
 
-Referenced by <a href="#afe694794f2c376ae77a3f8e34f6ad103">endCodeFragment</a>.
+
+<p>Referenced by <a href="#afe694794f2c376ae77a3f8e34f6ad103">endCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -909,7 +923,8 @@ Referenced by <a href="#afe694794f2c376ae77a3f8e34f6ad103">endCodeFragment</a>.
 
 
 
-Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1075 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1075 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -929,7 +944,8 @@ Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -958,7 +974,8 @@ References <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, <a 
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1016 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -971,7 +988,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1000,7 +1018,8 @@ References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href=
 
 
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 818 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1013,7 +1032,8 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>.
+<p>Reference <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>.</p>
+
 </div>
 </div>
 
@@ -1042,7 +1062,8 @@ Reference <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>.
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1051,9 +1072,11 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Reference <a href="#a32362ad20dbefb236ea5168dfa7d6a64">m\_fileName</a>.
+<p>Reference <a href="#a32362ad20dbefb236ea5168dfa7d6a64">m_fileName</a>.</p>
 
-Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a220de109bb39c3369cad7f04261d30a1">setFileName</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.
+
+<p>Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a220de109bb39c3369cad7f04261d30a1">setFileName</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.</p>
+
 </div>
 </div>
 
@@ -1082,7 +1105,8 @@ Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, 
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1091,7 +1115,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-References <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a href="#a32362ad20dbefb236ea5168dfa7d6a64">m\_fileName</a>.
+<p>References <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a href="#a32362ad20dbefb236ea5168dfa7d6a64">m_fileName</a>.</p>
+
 </div>
 </div>
 
@@ -1115,7 +1140,8 @@ References <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a href
 
 
 
-Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1127,7 +1153,8 @@ Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a>.
+<p>Reference <a href="#a80720eb841d423de493dda614c8fed50">m_relPath</a>.</p>
+
 </div>
 </div>
 
@@ -1156,7 +1183,8 @@ Reference <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a>.
 
 
 
-Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 824 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 824 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1168,7 +1196,8 @@ Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#a52afd41d498a9cfaa87b4d834058ff48">m\_stripIndentAmount</a>.
+<p>Reference <a href="#a52afd41d498a9cfaa87b4d834058ff48">m_stripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -1197,7 +1226,8 @@ Reference <a href="#a52afd41d498a9cfaa87b4d834058ff48">m\_stripIndentAmount</a>.
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1206,7 +1236,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1235,7 +1266,8 @@ Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
 
 
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1028 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1028 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1247,7 +1279,8 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1276,7 +1309,8 @@ Reference <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
 
 
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 984 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 984 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1294,7 +1328,8 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#af93c801b64ebb983dd0a52eb623dce64">m_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1323,7 +1358,8 @@ References <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a9
 
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1350,7 +1386,8 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>.</p>
+
 </div>
 </div>
 
@@ -1379,7 +1416,8 @@ References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1392,7 +1430,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1421,7 +1460,8 @@ References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href=
 
 
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 812 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 812 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1434,7 +1474,8 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href="#a0d3aad60163725943e1aab97162524e3">m\_stripCodeComments</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a> and <a href="#a0d3aad60163725943e1aab97162524e3">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1463,7 +1504,8 @@ References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href=
 
 
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1475,7 +1517,8 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#a0d3aad60163725943e1aab97162524e3">m\_stripCodeComments</a>.
+<p>Reference <a href="#a0d3aad60163725943e1aab97162524e3">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1505,7 +1548,8 @@ Reference <a href="#a0d3aad60163725943e1aab97162524e3">m\_stripCodeComments</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1514,9 +1558,11 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a3135f4019bee015e2d1ae7f77f9f3f64">Html</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a3135f4019bee015e2d1ae7f77f9f3f64">Html</a>.</p>
 
-Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a>.
+
+<p>Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -1545,7 +1591,8 @@ Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a>.
 
 
 
-Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1022 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1022 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1558,7 +1605,8 @@ Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1587,7 +1635,8 @@ References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href=
 
 
 
-Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 860 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1610,7 +1659,8 @@ Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a389e5ceddb8aa06e92dbb3f0de27601e">codeSymbolType2Str</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a> and <a href="#afee68c6253f5c9ed82886d0197d276ef">type</a>.
+<p>References <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a389e5ceddb8aa06e92dbb3f0de27601e">codeSymbolType2Str</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a> and <a href="#afee68c6253f5c9ed82886d0197d276ef">type</a>.</p>
+
 </div>
 </div>
 
@@ -1639,7 +1689,8 @@ References <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a 
 
 
 
-Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 829 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 829 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1677,9 +1728,11 @@ Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#afe5815ad622f13173eac838e1b85f73c">m\_lastLineInfo</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#afe5815ad622f13173eac838e1b85f73c">m_lastLineInfo</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>.
+
+<p>Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a>.</p>
+
 </div>
 </div>
 
@@ -1708,7 +1761,8 @@ Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>.
 
 
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 904 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 904 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1794,7 +1848,8 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a2827af934ddee422d0f8711c9889f5e8">DocLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a3a271e40098bce60ea2d71f452be7fa6">SourceLinkInfo::anchor</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#affffe2fa50a969f0c573d8a467deb31b">createHtmlUrl</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a17c887dc311b8da42681dc4e9803692d">SourceLinkInfo::file</a>, <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#abff71a239d4a657ea1543c0426b5726c">SourceLinkInfo::line</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a92c73ddcfa2201e6b0029f4b4e64458b">DocLinkInfo::name</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#abe4bbcd9b1709f58b0b29a9020c42e42">DocLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a53631fa171fa05192c059087d66278c0">SourceLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a7607f6298e3e16dd3ef26d2f823bbb9c">DocLinkInfo::url</a> and <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#af1fd0f6d7c9418bf922d33d591d7f196">SourceLinkInfo::url</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a2827af934ddee422d0f8711c9889f5e8">DocLinkInfo::anchor</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a3a271e40098bce60ea2d71f452be7fa6">SourceLinkInfo::anchor</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#affffe2fa50a969f0c573d8a467deb31b">createHtmlUrl</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a17c887dc311b8da42681dc4e9803692d">SourceLinkInfo::file</a>, <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#abff71a239d4a657ea1543c0426b5726c">SourceLinkInfo::line</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a80720eb841d423de493dda614c8fed50">m_relPath</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a92c73ddcfa2201e6b0029f4b4e64458b">DocLinkInfo::name</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#abe4bbcd9b1709f58b0b29a9020c42e42">DocLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#a53631fa171fa05192c059087d66278c0">SourceLinkInfo::ref</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/structs/doclinkinfo/#a7607f6298e3e16dd3ef26d2f823bbb9c">DocLinkInfo::url</a> and <a href="/web-doxygen/docs/api/structs/sourcelinkinfo/#af1fd0f6d7c9418bf922d33d591d7f196">SourceLinkInfo::url</a>.</p>
+
 </div>
 </div>
 
@@ -1824,7 +1879,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1061 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 1061 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1845,9 +1901,11 @@ Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#afe5815ad622f13173eac838e1b85f73c">m\_lastLineInfo</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m\_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.
+<p>References <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#afe5815ad622f13173eac838e1b85f73c">m_lastLineInfo</a>, <a href="#a70013bc13c93e0eacaaed91618a24501">m_lineOpen</a>, <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.</p>
 
-Referenced by <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>.
+
+<p>Referenced by <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>.</p>
+
 </div>
 </div>
 
@@ -1871,7 +1929,8 @@ Referenced by <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>.
 
 
 
-Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 876 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>, definition at line 876 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp">htmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1906,9 +1965,11 @@ Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#affffe2fa50a969f0c573d8a467deb31b">createHtmlUrl</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m\_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m\_hide</a>, <a href="#a80720eb841d423de493dda614c8fed50">m\_relPath</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#affffe2fa50a969f0c573d8a467deb31b">createHtmlUrl</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#af93c801b64ebb983dd0a52eb623dce64">m_col</a>, <a href="#a96f238a9c348cd9c92a11f447b1999ae">m_hide</a>, <a href="#a80720eb841d423de493dda614c8fed50">m_relPath</a> and <a href="#ad79a609c97a096252ad170efaa5f5e9c">m_t</a>.</p>
 
-Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.
+
+<p>Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1938,7 +1999,8 @@ Referenced by <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a> and
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1947,7 +2009,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.
+<p>Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1971,7 +2034,8 @@ Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, 
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1980,7 +2044,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a href="#a220de109bb39c3369cad7f04261d30a1">setFileName</a>.
+<p>Referenced by <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a href="#a220de109bb39c3369cad7f04261d30a1">setFileName</a>.</p>
+
 </div>
 </div>
 
@@ -2004,7 +2069,8 @@ Referenced by <a href="#a44b4f06b94e8f45f5364a3a234ad92a4">fileName</a> and <a h
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2013,7 +2079,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#ab62059c61bf5f1b846ffb3fe1c97f736">endFontClass</a>, <a href="#aa9118ec2f1fcd682d16bbfeadd11ed74">endSpecialComment</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a>, <a href="#a36c946ea34b71976fa126dd6fcb2fb02">startFontClass</a>, <a href="#a1c925b83a96ace6b647f17e8812749ba">startSpecialComment</a>, <a href="#a3c6f9dce1570e8f0659c9ea6c6640720">writeCodeAnchor</a>, <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.
+<p>Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a>, <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#ab62059c61bf5f1b846ffb3fe1c97f736">endFontClass</a>, <a href="#aa9118ec2f1fcd682d16bbfeadd11ed74">endSpecialComment</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a>, <a href="#a36c946ea34b71976fa126dd6fcb2fb02">startFontClass</a>, <a href="#a1c925b83a96ace6b647f17e8812749ba">startSpecialComment</a>, <a href="#a3c6f9dce1570e8f0659c9ea6c6640720">writeCodeAnchor</a>, <a href="#a833284e18308ead496c0d94f6b3f1d71">writeCodeLink</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.</p>
+
 </div>
 </div>
 
@@ -2037,7 +2104,8 @@ Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, 
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2046,7 +2114,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.
+<p>Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2070,7 +2139,8 @@ Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a> a
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2079,7 +2149,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.
+<p>Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a> and <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2103,7 +2174,8 @@ Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, 
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2112,7 +2184,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#aa99b4eb5ba4f3d5e4a93b224bb9b178b">HtmlCodeGenerator</a>, <a href="#a9bc120e267a5830b05030cf6c74a3d41">setRelativePath</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.
+<p>Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#aa99b4eb5ba4f3d5e4a93b224bb9b178b">HtmlCodeGenerator</a>, <a href="#a9bc120e267a5830b05030cf6c74a3d41">setRelativePath</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.</p>
+
 </div>
 </div>
 
@@ -2136,7 +2209,8 @@ Referenced by <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, 
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2145,7 +2219,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a1c925b83a96ace6b647f17e8812749ba">startSpecialComment</a> and <a href="#afe9b21b46a1623df6d59c0ccbe0c53c6">stripCodeComments</a>.
+<p>Referenced by <a href="#a1c925b83a96ace6b647f17e8812749ba">startSpecialComment</a> and <a href="#afe9b21b46a1623df6d59c0ccbe0c53c6">stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -2169,7 +2244,8 @@ Referenced by <a href="#a1c925b83a96ace6b647f17e8812749ba">startSpecialComment</
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2178,7 +2254,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a> and <a href="#aa7de139146f10ccf63c8527a63eb6783">setStripIndentAmount</a>.
+<p>Referenced by <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a> and <a href="#aa7de139146f10ccf63c8527a63eb6783">setStripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -2202,7 +2279,8 @@ Referenced by <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a> and <a hre
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2211,7 +2289,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">\_startOpenLine</a>, <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">\_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#afe694794f2c376ae77a3f8e34f6ad103">endCodeFragment</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>, <a href="#ab62059c61bf5f1b846ffb3fe1c97f736">endFontClass</a>, <a href="#ace5b6a3e0a5a8c7a6ffcf2465302c9f7">HtmlCodeGenerator</a>, <a href="#aa99b4eb5ba4f3d5e4a93b224bb9b178b">HtmlCodeGenerator</a>, <a href="#ad9589e0f726aa6dcd23464bcf609a8fb">setTextStream</a>, <a href="#ab8aef00bed9d8deb56b3d9e0c6119663">startCodeFragment</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a>, <a href="#a36c946ea34b71976fa126dd6fcb2fb02">startFontClass</a>, <a href="#a3c6f9dce1570e8f0659c9ea6c6640720">writeCodeAnchor</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.
+<p>Referenced by <a href="#ae3ec37310a697018215b582fe59c7e12">_startOpenLine</a>, <a href="#a93bbb9cd89a6d58d81a9796597e79fb9">_writeCodeLink</a>, <a href="#a0941dd0ea229339847ef6604ea6b8003">codify</a>, <a href="#afe694794f2c376ae77a3f8e34f6ad103">endCodeFragment</a>, <a href="#a2e5d792a6c236db33c8317ace6c4626f">endCodeLine</a>, <a href="#a8ae2acca6bf32650c094eab3b7ac41cd">endFold</a>, <a href="#ab62059c61bf5f1b846ffb3fe1c97f736">endFontClass</a>, <a href="#ace5b6a3e0a5a8c7a6ffcf2465302c9f7">HtmlCodeGenerator</a>, <a href="#aa99b4eb5ba4f3d5e4a93b224bb9b178b">HtmlCodeGenerator</a>, <a href="#ad9589e0f726aa6dcd23464bcf609a8fb">setTextStream</a>, <a href="#ab8aef00bed9d8deb56b3d9e0c6119663">startCodeFragment</a>, <a href="#a899976eb9aee4bb9bd881e9b204cc069">startCodeLine</a>, <a href="#a844e206331cbfc112bffb3470cf77cc7">startFold</a>, <a href="#a36c946ea34b71976fa126dd6fcb2fb02">startFontClass</a>, <a href="#a3c6f9dce1570e8f0659c9ea6c6640720">writeCodeAnchor</a>, <a href="#a87bd505cf0e4598b8e8ae320087166f3">writeLineNumber</a> and <a href="#ab450dd921a83f6ef2535324349f6f1c1">writeTooltip</a>.</p>
+
 </div>
 </div>
 

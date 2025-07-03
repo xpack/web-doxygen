@@ -71,7 +71,8 @@ struct DocVisitor::Private { ... }
 </table>
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -97,7 +98,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/docvisito
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/docvisito
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +162,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/docvisito
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/docvisitor-cpp">docvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

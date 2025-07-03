@@ -103,7 +103,8 @@ struct DirIterator::Private { ... }
 </table>
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -134,7 +135,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -143,7 +145,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 </div>
 
 
-Reference <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.
+<p>Reference <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.</p>
+
 </div>
 </div>
 
@@ -172,7 +175,8 @@ Reference <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -181,7 +185,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 </div>
 
 
-References <a href="#a8dbc8a1f55136e5a84afea93639c85df">ec</a> and <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.
+<p>References <a href="#a8dbc8a1f55136e5a84afea93639c85df">ec</a> and <a href="#acc4c8ee36babbe86d6e63f957abda825">it</a>.</p>
+
 </div>
 </div>
 
@@ -211,7 +216,8 @@ References <a href="#a8dbc8a1f55136e5a84afea93639c85df">ec</a> and <a href="#acc
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -242,7 +248,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -251,7 +258,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 </div>
 
 
-Referenced by <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.
+<p>Referenced by <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.</p>
+
 </div>
 </div>
 
@@ -275,7 +283,8 @@ Referenced by <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -284,7 +293,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 </div>
 
 
-Referenced by <a href="#a2265a6b94a21b384f8c9734ce1098542">Private</a> and <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.
+<p>Referenced by <a href="#a2265a6b94a21b384f8c9734ce1098542">Private</a> and <a href="#a00dd2f6efdc527913802f9c5b8ceb342">Private</a>.</p>
+
 </div>
 </div>
 

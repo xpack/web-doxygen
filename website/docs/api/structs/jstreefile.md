@@ -77,7 +77,8 @@ struct JSTreeFile { ... }
 </table>
 
 
-Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 
 
 
-Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-References <a href="#ad0cfc7f4fa14c847ac14f3ec37b0b85d">fileId</a> and <a href="#ac99e2f90f08f3b9c3ce4088f4832a639">node</a>.
+<p>References <a href="#ad0cfc7f4fa14c847ac14f3ec37b0b85d">fileId</a> and <a href="#ac99e2f90f08f3b9c3ce4088f4832a639">node</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#ad0cfc7f4fa14c847ac14f3ec37b0b85d">fileId</a> and <a href="
 
 
 
-Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.
+<p>Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.
 
 
 
-Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.
+<p>Referenced by <a href="#a16d6faa586398b7eab0499acce7c4ae5">JSTreeFile</a>.</p>
+
 </div>
 </div>
 

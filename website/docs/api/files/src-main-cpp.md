@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `main.cpp` File Reference
 
-main entry point for doxygen <a href="#details">More...</a>
+<p>main entry point for doxygen <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -45,10 +45,11 @@ main entry point for doxygen <a href="#details">More...</a>
 
 ## Description {#details}
 
-main entry point for doxygen
+<p>main entry point for doxygen</p>
 
 
-This file contains <a href="#a3c04138a5bfe5d72780bb7e82a18e627">main()</a>
+<p>This file contains <a href="#a3c04138a5bfe5d72780bb7e82a18e627">main()</a></p>
+
 
 <div class="doxySectionDef">
 
@@ -75,9 +76,11 @@ This file contains <a href="#a3c04138a5bfe5d72780bb7e82a18e627">main()</a>
 
 
 
-Default main. The idea of separating this from the rest of doxygen, is to make it possible to write your own main, with a different <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput()</a> function for instance.
+<p>Default main. The idea of separating this from the rest of doxygen, is to make it possible to write your own main, with a different <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput()</a> function for instance.</p>
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.
+
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp">main.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -95,7 +98,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/main-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c785229969c3052f3e37fb1">checkConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10458b8a16238a4eae5fb5019df747e8">adjustConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a2426bb829c785229969c3052f3e37fb1">checkConfiguration</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.</p>
+
 </div>
 </div>
 

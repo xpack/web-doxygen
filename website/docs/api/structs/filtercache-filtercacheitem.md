@@ -58,7 +58,8 @@ struct FilterCache::FilterCacheItem { ... }
 </table>
 
 
-Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -93,7 +95,8 @@ Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -117,7 +120,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f3
 
 
 
-Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -126,7 +130,8 @@ Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 

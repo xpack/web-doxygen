@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Private` Class Reference
 
-<a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object. <a href="#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -468,9 +468,10 @@ class DefinitionImpl::Private { ... }
 
 ## Description {#details}
 
-<a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object.
+<p><a href="/web-doxygen/docs/api/classes/definitionimpl/private">Private</a> data associated with a Symbol <a href="/web-doxygen/docs/api/classes/definitionimpl">DefinitionImpl</a> object.</p>
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -496,7 +497,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -531,7 +533,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-References <a href="#a658c09d0325bde82e4dfb66ed986cfb2">body</a>, <a href="#a45e69379f58ddb0a11ed9e8f337a459a">brief</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="#a85ed6158f0da22da700f10db4de71014">hidden</a>, <a href="#a9a6265f846fddc2fb640ca401e6c7a4e">inbodyDocs</a>, <a href="#adee645721d39b789eec7d412b211c434">isArtificial</a>, <a href="#a2232e0502a66bdf41de66a43dc33c492">isExported</a>, <a href="#a20260650dc3072745146a537ceb3954c">lang</a>, <a href="#a59c499fd90f05fb37f333abe7139cd3f">localName</a>, <a href="#a532543d5cc6a1285a658db99d3f4473b">outerScope</a>, <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>, <a href="#aa2aaca63ceb33bf61bc1b4d2d9c39c58">sourceRefByDict</a>, <a href="#ac51c33c4254c10cdcf2598c4122b2f45">sourceRefsDict</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78d33655f54cd45e22070b58a6dce6b6">stripScope</a>.
+<p>References <a href="#a658c09d0325bde82e4dfb66ed986cfb2">body</a>, <a href="#a45e69379f58ddb0a11ed9e8f337a459a">brief</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="#a85ed6158f0da22da700f10db4de71014">hidden</a>, <a href="#a9a6265f846fddc2fb640ca401e6c7a4e">inbodyDocs</a>, <a href="#adee645721d39b789eec7d412b211c434">isArtificial</a>, <a href="#a2232e0502a66bdf41de66a43dc33c492">isExported</a>, <a href="#a20260650dc3072745146a537ceb3954c">lang</a>, <a href="#a59c499fd90f05fb37f333abe7139cd3f">localName</a>, <a href="#a532543d5cc6a1285a658db99d3f4473b">outerScope</a>, <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>, <a href="#aa2aaca63ceb33bf61bc1b4d2d9c39c58">sourceRefByDict</a>, <a href="#ac51c33c4254c10cdcf2598c4122b2f45">sourceRefsDict</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78d33655f54cd45e22070b58a6dce6b6">stripScope</a>.</p>
+
 </div>
 </div>
 
@@ -555,7 +558,8 @@ References <a href="#a658c09d0325bde82e4dfb66ed986cfb2">body</a>, <a href="#a45e
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -570,9 +574,11 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#aa89eb2bf86e15d8e9803f24b7803d80e">defFileExt</a>, <a href="#a08c363e205950940785feb4a659e7c96">defFileName</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a626f514840802434ae881b02e4a09af9">FileInfo::extension</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#aa89eb2bf86e15d8e9803f24b7803d80e">defFileExt</a>, <a href="#a08c363e205950940785feb4a659e7c96">defFileName</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a626f514840802434ae881b02e4a09af9">FileInfo::extension</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -602,7 +608,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -611,7 +618,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -635,7 +643,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -644,7 +653,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -668,7 +678,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -699,7 +710,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -730,7 +742,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -761,7 +774,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -770,7 +784,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
+<p>Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.</p>
+
 </div>
 </div>
 
@@ -794,7 +809,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -803,7 +819,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
+<p>Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.</p>
+
 </div>
 </div>
 
@@ -827,7 +844,8 @@ Referenced by <a href="#af8a551d5ba6e33523a40c372ec854203">setDefFileName</a>.
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -858,7 +876,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -889,7 +908,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -920,7 +940,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -929,7 +950,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -953,7 +975,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -984,7 +1007,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -993,7 +1017,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1017,7 +1042,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1048,7 +1074,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1057,7 +1084,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1081,7 +1109,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1090,7 +1119,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1114,7 +1144,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1145,7 +1176,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1154,7 +1186,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1178,7 +1211,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1187,7 +1221,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1211,7 +1246,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1242,7 +1278,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1251,7 +1288,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1275,7 +1313,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1306,7 +1345,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1337,7 +1377,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1368,7 +1409,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1399,7 +1441,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1430,7 +1473,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1461,7 +1505,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/definitio
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1470,7 +1515,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1494,7 +1540,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1503,7 +1550,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/definitio
 </div>
 
 
-Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
+<p>Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.</p>
+
 </div>
 </div>
 
@@ -1527,7 +1575,8 @@ Referenced by <a href="#a7e6622cb09d8dd82606e9ab5262802d5">init</a>.
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1558,7 +1607,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

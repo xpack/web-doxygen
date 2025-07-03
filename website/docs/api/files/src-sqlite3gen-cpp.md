@@ -1126,7 +1126,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 1898 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1898 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1146,9 +1147,11 @@ Definition at line 1898 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="/web-doxygen/docs/api/classes/classdef/#ac8f58a78e8196768f3ddd17e645cf7f9">ClassDef::memberNameInfoLinkedMap</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="/web-doxygen/docs/api/classes/classdef/#ac8f58a78e8196768f3ddd17e645cf7f9">ClassDef::memberNameInfoLinkedMap</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>.</p>
+
 </div>
 </div>
 
@@ -1177,7 +1180,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1121 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1121 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1200,9 +1204,11 @@ Definition at line 1121 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="#a7ff598f38ef2dad027845c7abaa65592">member\_insert</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="#a7ff598f38ef2dad027845c7abaa65592">member_insert</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.</p>
 
-Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a> and <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a> and <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -1231,7 +1237,8 @@ Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMemb
 
 
 
-Definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1244,7 +1251,8 @@ Definition at line 1194 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -1273,7 +1281,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1295,9 +1304,11 @@ Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.</p>
 
-Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.
+
+<p>Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.</p>
+
 </div>
 </div>
 
@@ -1326,7 +1337,8 @@ Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, 
 
 
 
-Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1348,9 +1360,11 @@ Definition at line 862 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -1379,7 +1393,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1393,9 +1408,11 @@ Definition at line 983 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a162bb86dfaf3254e93b1274353cd1cbf">compounddef\_exists</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a162bb86dfaf3254e93b1274353cd1cbf">compounddef_exists</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.</p>
+
 </div>
 </div>
 
@@ -1424,7 +1441,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1200 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1200 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1437,7 +1455,8 @@ Definition at line 1200 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -1461,7 +1480,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1583,9 +1603,11 @@ Definition at line 2587 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#a34ac47cfb391a052b41a678d475c77f2">beginTransaction</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ad179803c33ab064adfd6adf681a0a805">Doxygen::dirLinkedMap</a>, <a href="#a7bbbc5fdf231deaba7d34b3427583572">endTransaction</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6cfac206c42a62e6e3ba66d5d4e4a471">Doxygen::exampleLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="#a2413f906680d7e55e863d1f4d7385a84">initializeTables</a>, <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="#ac13e6fab478750b5fc094a78e8fcb149">openDbConnection</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="#af385f460786d8d70b91b640dc78de575">pragmaTuning</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a34ac47cfb391a052b41a678d475c77f2">beginTransaction</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ad179803c33ab064adfd6adf681a0a805">Doxygen::dirLinkedMap</a>, <a href="#a7bbbc5fdf231deaba7d34b3427583572">endTransaction</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6cfac206c42a62e6e3ba66d5d4e4a471">Doxygen::exampleLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="#a2413f906680d7e55e863d1f4d7385a84">initializeTables</a>, <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="#ac13e6fab478750b5fc094a78e8fcb149">openDbConnection</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="#af385f460786d8d70b91b640dc78de575">pragmaTuning</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -1614,7 +1636,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1769,9 +1792,11 @@ Definition at line 1914 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#a33e0611a73afb936b8c97c6812e64029">compoundref\_insert</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ad7d5e7ac753d7247cfaad5be9ea3eaec">FileDef::docName</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#ac9ea4d136292663b672a8aeec5944548">IncludeInfo::fileDef</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/classdef/#aeb64dc8f57c5d07f1b1d55bc560a7004">ClassDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/classdef/#add2c3b56273ce664bbaeb0ce1c8f420c">ClassDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a283e841b3eb34d0ba2e0e106a4e3ad59">ClassDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#a58f94802953a4bc845068c864d42d76e">MemberListType::isDetailed</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a759c68ae0af03a49aff1a86d383af68d">ClassDef::protection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>, <a href="/web-doxygen/docs/api/classes/classdef/#afb51998523ff484408b2a96fd4f3fced">ClassDef::title</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a> and <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a38001a11a297629e363c0db5b1968ab3">ClassDef::baseClasses</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#a33e0611a73afb936b8c97c6812e64029">compoundref_insert</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a239fe977638806153345cd2411c28062">ClassDef::compoundTypeString</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ad7d5e7ac753d7247cfaad5be9ea3eaec">FileDef::docName</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#ac9ea4d136292663b672a8aeec5944548">IncludeInfo::fileDef</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/classdef/#aeb64dc8f57c5d07f1b1d55bc560a7004">ClassDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/classdef/#add2c3b56273ce664bbaeb0ce1c8f420c">ClassDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a283e841b3eb34d0ba2e0e106a4e3ad59">ClassDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="/web-doxygen/docs/api/classes/classdef/#af0c57a31c5cbef35d12de99e88745f66">ClassDef::includeInfo</a>, <a href="/web-doxygen/docs/api/structs/includeinfo/#a0f8b77f07d748ea1612db5d4c47c5c37">IncludeInfo::includeName</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8f18141678a6bf5fb86e8de29bc0f1cd">Definition::isAnonymous</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#a58f94802953a4bc845068c864d42d76e">MemberListType::isDetailed</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a759c68ae0af03a49aff1a86d383af68d">ClassDef::protection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/classdef/#afdeec11149bf831c4c6dd297f7c4e34d">ClassDef::subClasses</a>, <a href="/web-doxygen/docs/api/classes/classdef/#afb51998523ff484408b2a96fd4f3fced">ClassDef::title</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a> and <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -1800,7 +1825,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2062 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2062 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1831,9 +1857,11 @@ Definition at line 2062 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -1862,7 +1890,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2423 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2423 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1913,9 +1942,11 @@ Definition at line 2423 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#af40b99e4906aef816aa768682712df74">DirDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#abc75cce4fc67690a3ebbd158e3d63938">DirDef::subDirs</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a> and <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#af40b99e4906aef816aa768682712df74">DirDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/dirdef/#abc75cce4fc67690a3ebbd158e3d63938">DirDef::subDirs</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a> and <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -1944,7 +1975,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2199 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2199 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2101,9 +2133,11 @@ Definition at line 2199 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a82f5e81b574bc9e6635cfdd4d8ee2dfe">FileDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae622a5297d0810cc339d335b07aae7c0">FileDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a11c922f32703c5ddc3e4b9d47cea33a3">FileDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/filedef/#abe37d079d39eda03281588a4ebecbef6">FileDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a049235b5e182aa2c71db539c6d0896d3">FileDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a9c15b3b9b3db6bf609838c68c915d80a">incl\_insert</a>, <a href="#a1e3e98a7897963c61baf003aab5fecfa">incl\_select</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae9c6fecec7ff96fded91315943519a25">FileDef::includedByFileList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aaa1fd01a880dff1fb1724a1dd209693f">FileDef::includeFileList</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a5eeca59091b422e472c7ccbe7abb337c">IncludeKind\_ImportMask</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#abdab8bf385a3fe5d1f569c32428c2863">IncludeKind\_LocalMask</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aa1e5932865d564d3ff08ba5174387303">FileDef::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a82f5e81b574bc9e6635cfdd4d8ee2dfe">FileDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae622a5297d0810cc339d335b07aae7c0">FileDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a11c922f32703c5ddc3e4b9d47cea33a3">FileDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/filedef/#abe37d079d39eda03281588a4ebecbef6">FileDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/filedef/#a049235b5e182aa2c71db539c6d0896d3">FileDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="#a9c15b3b9b3db6bf609838c68c915d80a">incl_insert</a>, <a href="#a1e3e98a7897963c61baf003aab5fecfa">incl_select</a>, <a href="/web-doxygen/docs/api/classes/filedef/#ae9c6fecec7ff96fded91315943519a25">FileDef::includedByFileList</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aaa1fd01a880dff1fb1724a1dd209693f">FileDef::includeFileList</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#a5eeca59091b422e472c7ccbe7abb337c">IncludeKind_ImportMask</a>, <a href="/web-doxygen/docs/api/files/src/filedef-h/#abdab8bf385a3fe5d1f569c32428c2863">IncludeKind_LocalMask</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/filedef/#aa1e5932865d564d3ff08ba5174387303">FileDef::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -2132,7 +2166,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2350 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2350 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2211,9 +2246,11 @@ Definition at line 2350 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a927445c6f77b990c4b7ea29e93a7837e">GroupDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a8a9fe05d4375b4571d822141ba498bf2">GroupDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2d174d39f8e75953f384736d3effaad8">GroupDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#afae9211266248f6c26c5fabf1c4415b0">GroupDef::getModules</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a927445c6f77b990c4b7ea29e93a7837e">GroupDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a8a9fe05d4375b4571d822141ba498bf2">GroupDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2d174d39f8e75953f384736d3effaad8">GroupDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#afae9211266248f6c26c5fabf1c4415b0">GroupDef::getModules</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -2242,7 +2279,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1553 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1553 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2574,9 +2612,11 @@ Definition at line 1553 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a72440ac7985da3c0c465134bc0ddd2d5">ArgumentList::constSpecifier</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1bc15da1d36aef0514a095c9ff485618">MemberDef::definition</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab8d7b70952b14c1f6af79a16f122a6c9">MemberDef::getReadAccessor</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad3359130ee4ef83bdf7ce453fb3d1525">Definition::getReferencedByMembers</a>, <a href="/web-doxygen/docs/api/classes/definition/#af21ed7be937dbdb153d5ccab3d9abf12">Definition::getReferencesMembers</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad63d39480ae9ec4e71bedbb749d16a4c">Definition::getStartBodyLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7638dcb798738c331ba2c2567118ceb6">MemberDef::getWriteAccessor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab0edc949c11ffd04ae0f79b8850b1586">MemberDef::hasMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa7bcaaff6e07e660a124d779a1300218">MemberDef::hasOneLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/definition/#af59473951772c62b9db328e342fc2198">Definition::inbodyDocumentation</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a496b02cff3e89cc59eab5139a9211475">MemberDef::isAddable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a09bc44df807bfe787766e6268b991732">MemberDef::isAssign</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62780d0d926b1c17801dbba81921336a">MemberDef::isAttribute</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a86bb29ff5f9e049343bdb990b08ff9a3">MemberDef::isBound</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a80a42e55d42df534c9da463015872d41">MemberDef::isConstrained</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a6548961c5a9f2003ec5425bea0249ad2">MemberDef::isCopy</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0aa8429875443e986e04e34624c5c0c8">MemberDef::isExplicit</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62a3294a87e2a6e2ff4a2d52bfd3187a">MemberDef::isExternal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aef0c62b7d85f8eff11657f9a7e3f87f4">MemberDef::isFinal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aba4783c1fa6a84a2beb2b4dad7000616">MemberDef::isGettable</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a02a894331323ad650cd3b748ce9d604b">MemberDef::isInitonly</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a581d0d2acf3c99191e1a5f3cb5f95ce6">MemberDef::isMaybeAmbiguous</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735ac6b44a83924b761bdac676eb4184">MemberDef::isMaybeDefault</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a18b343dd677e74a1ecb5723fbb746395">MemberDef::isMaybeVoid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af448f46a30d6337ef678db352dd244e3">MemberDef::isMutable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0ceb921ed3647329a26b0c9ce434658d">MemberDef::isNew</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab41ecacc3c433253d893d6baded01de0">MemberDef::isOptional</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a594fe47b12073b186b7f1e4d8e2b1d56">MemberDef::isPrivateGettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a787020ca6fc65ea0cc13f5721d166420">MemberDef::isPrivateSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa69883d56b1adfe457130d7c96873ba7">MemberDef::isProtectedGettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa51dd090dc6e2d111145cc04e9e3f7fe">MemberDef::isProtectedSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7e0e45a5885e55221f756a8e3153fb8a">MemberDef::isRaisable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8679a7213fda9304814aa989c731a4a9">MemberDef::isReadonly</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7ebd90ccb692199c14ef91526df6d534">MemberDef::isRemovable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62549140ec2a398af9b6a72c63aad7d5">MemberDef::isRequired</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4902c8d45c53057b6b421a22821d999b">MemberDef::isRetain</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1b3f4fc396e748b60fd3f4057f0bba21">MemberDef::isSealed</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a44b6a11c61d72073dcfc17d85a303ac5">MemberDef::isSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aafb531645493ceda329fc922748401be">MemberDef::isTransient</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ac14124f33e6513789346a840f5e49385">MemberDef::isWeak</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a562a056cb102eb78ad78fffe455a2db9">MemberDef::isWritable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a>, <a href="#a044bf3040887411b780222535ef94942">memberdef\_insert</a>, <a href="#a9dd6736df9437b0372601f0fc9256cdc">memberdef\_update\_decl</a>, <a href="#a996b41f0018348eb70cb369999032333">memberdef\_update\_def</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aca314e25245ec3b08f1a55068c2fbeff">MemberDef::memberTypeName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>, <a href="#a6ef03b7de5c740c3ad04b46fee17e6e0">reimplements\_insert</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>, <a href="#a8acb7287be03115c56196dd1a1085225">stripQualifiers</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#ad03f25174e81a42a617a15195a8867b0">ArgumentList::volatileSpecifier</a> and <a href="#adbab9cdf5d958b7f7ac7b736428974dd">writeMemberTemplateLists</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/filedef/#a800e157b3a9d9d68b3961528e60117d9">FileDef::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a72440ac7985da3c0c465134bc0ddd2d5">ArgumentList::constSpecifier</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41ad8be171b26c1f1b456fea317076584ab">DCOP</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9312cc2f02f42764c70c3713f80fe219">Define</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1bc15da1d36aef0514a095c9ff485618">MemberDef::definition</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a2958e521f3da6b41059c4369a34a2a23">Enumeration</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a29785ae7827639b31b629cc7f9c150e0">EnumValue</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41aa4ecfc70574394990cf17bd83df499f7">Event</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a930a91848917f92cf7e2f8d744fa4177">Friend</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a86408593c34af77fdd90df932f8b5261">Function</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0b5313ad11f50b2d056fc62d81db0433">Definition::getEndBodyLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab8d7b70952b14c1f6af79a16f122a6c9">MemberDef::getReadAccessor</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad3359130ee4ef83bdf7ce453fb3d1525">Definition::getReferencedByMembers</a>, <a href="/web-doxygen/docs/api/classes/definition/#af21ed7be937dbdb153d5ccab3d9abf12">Definition::getReferencesMembers</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/definition/#ad63d39480ae9ec4e71bedbb749d16a4c">Definition::getStartBodyLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7638dcb798738c331ba2c2567118ceb6">MemberDef::getWriteAccessor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab0edc949c11ffd04ae0f79b8850b1586">MemberDef::hasMultiLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa7bcaaff6e07e660a124d779a1300218">MemberDef::hasOneLineInitializer</a>, <a href="/web-doxygen/docs/api/classes/definition/#af59473951772c62b9db328e342fc2198">Definition::inbodyDocumentation</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a496b02cff3e89cc59eab5139a9211475">MemberDef::isAddable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a09bc44df807bfe787766e6268b991732">MemberDef::isAssign</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62780d0d926b1c17801dbba81921336a">MemberDef::isAttribute</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a86bb29ff5f9e049343bdb990b08ff9a3">MemberDef::isBound</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a80a42e55d42df534c9da463015872d41">MemberDef::isConstrained</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a6548961c5a9f2003ec5425bea0249ad2">MemberDef::isCopy</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0aa8429875443e986e04e34624c5c0c8">MemberDef::isExplicit</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62a3294a87e2a6e2ff4a2d52bfd3187a">MemberDef::isExternal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aef0c62b7d85f8eff11657f9a7e3f87f4">MemberDef::isFinal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aba4783c1fa6a84a2beb2b4dad7000616">MemberDef::isGettable</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a02a894331323ad650cd3b748ce9d604b">MemberDef::isInitonly</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a581d0d2acf3c99191e1a5f3cb5f95ce6">MemberDef::isMaybeAmbiguous</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735ac6b44a83924b761bdac676eb4184">MemberDef::isMaybeDefault</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a18b343dd677e74a1ecb5723fbb746395">MemberDef::isMaybeVoid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af448f46a30d6337ef678db352dd244e3">MemberDef::isMutable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0ceb921ed3647329a26b0c9ce434658d">MemberDef::isNew</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab41ecacc3c433253d893d6baded01de0">MemberDef::isOptional</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a594fe47b12073b186b7f1e4d8e2b1d56">MemberDef::isPrivateGettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a787020ca6fc65ea0cc13f5721d166420">MemberDef::isPrivateSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa69883d56b1adfe457130d7c96873ba7">MemberDef::isProtectedGettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aa51dd090dc6e2d111145cc04e9e3f7fe">MemberDef::isProtectedSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7e0e45a5885e55221f756a8e3153fb8a">MemberDef::isRaisable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8679a7213fda9304814aa989c731a4a9">MemberDef::isReadonly</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a7ebd90ccb692199c14ef91526df6d534">MemberDef::isRemovable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a62549140ec2a398af9b6a72c63aad7d5">MemberDef::isRequired</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4902c8d45c53057b6b421a22821d999b">MemberDef::isRetain</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1b3f4fc396e748b60fd3f4057f0bba21">MemberDef::isSealed</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a44b6a11c61d72073dcfc17d85a303ac5">MemberDef::isSettable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aafb531645493ceda329fc922748401be">MemberDef::isTransient</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ac14124f33e6513789346a840f5e49385">MemberDef::isWeak</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a562a056cb102eb78ad78fffe455a2db9">MemberDef::isWritable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a>, <a href="#a044bf3040887411b780222535ef94942">memberdef_insert</a>, <a href="#a9dd6736df9437b0372601f0fc9256cdc">memberdef_update_decl</a>, <a href="#a996b41f0018348eb70cb369999032333">memberdef_update_def</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#aca314e25245ec3b08f1a55068c2fbeff">MemberDef::memberTypeName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5ad234cb2cde4266195252a23ca7d84e">Property</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>, <a href="#a6ef03b7de5c740c3ad04b46fee17e6e0">reimplements_insert</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a085fea7abdc5d904fe69a3081efd7398">Signal</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a9234cc57c43f272b55a94b0069fe62d1">Slot</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>, <a href="#a8acb7287be03115c56196dd1a1085225">stripQualifiers</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a5fede51b97a819dedf4f83bc2aacbc6a">Typedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a63e3de542c5d38de617ab78c8c8f5a41a47c14840d8e15331fa420b9b2f757cd9">Variable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#ad03f25174e81a42a617a15195a8867b0">ArgumentList::volatileSpecifier</a> and <a href="#adbab9cdf5d958b7f7ac7b736428974dd">writeMemberTemplateLists</a>.</p>
 
-Referenced by <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>.
+
+<p>Referenced by <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>.</p>
+
 </div>
 </div>
 
@@ -2605,7 +2645,8 @@ Referenced by <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Sectio
 
 
 
-Definition at line 2086 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2086 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2667,9 +2708,11 @@ Definition at line 2086 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aeb422153b08d7da56d56a96acba60370">ModuleDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ade149e97f8df65bf64a4833caa43c6de">ModuleDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a58b6c98c1199174f0cb721735c589d67">ModuleDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aabba3ab3dd5ccde53dc5208a768e237d">ModuleDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ac88969f1e19df5e0444bcef41af2ed79">ModuleDef::getUsedFiles</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aeb422153b08d7da56d56a96acba60370">ModuleDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ade149e97f8df65bf64a4833caa43c6de">ModuleDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#a58b6c98c1199174f0cb721735c589d67">ModuleDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#aabba3ab3dd5ccde53dc5208a768e237d">ModuleDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="/web-doxygen/docs/api/classes/moduledef/#ac88969f1e19df5e0444bcef41af2ed79">ModuleDef::getUsedFiles</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -2698,7 +2741,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2142 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2142 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2761,9 +2805,11 @@ Definition at line 2142 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0f829b7866cce931dc">NamespaceDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f6562cb5f19d69c023">NamespaceDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ac592520c3e9e8f2e633b2fae7375ccae">NamespaceDef::title</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="#a268c5eeaffe97a7ec76839a084b8e6fb">generateSqlite3Section</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0f829b7866cce931dc">NamespaceDef::getConcepts</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f6562cb5f19d69c023">NamespaceDef::getMemberLists</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/memberlisttype/#af02c040fbca839a74c6f9cfafb54d6f7">MemberListType::isDeclaration</a>, <a href="/web-doxygen/docs/api/classes/definition/#a930740d353cfe143eb9efe0d12b7f938">Definition::isHidden</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/memberlist/#aa31a7d651481862036f72381f7e2a96d">MemberList::listType</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/namespacedef/#ac592520c3e9e8f2e633b2fae7375ccae">NamespaceDef::title</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a> and <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -2792,7 +2838,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 2468 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2468 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2873,9 +2920,11 @@ Definition at line 2468 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#acd024899a0d21128490483d8cce009a1">PageDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a6d750d1618399ff76e2fbc0d4b74e62f">PageDef::getSubPages</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1d56f22de057d96035949f029dd6e4e8">mainPageHasTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#aae487f3fd3ce36b104cb6b82e287cfaa">PageDef::title</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/definition/#adf0e1ff0eec62741a8ee5d768589ab01">Definition::getDefColumn</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#acd024899a0d21128490483d8cce009a1">PageDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a6d750d1618399ff76e2fbc0d4b74e62f">PageDef::getSubPages</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1d56f22de057d96035949f029dd6e4e8">mainPageHasTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#aae487f3fd3ce36b104cb6b82e287cfaa">PageDef::title</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -2904,7 +2953,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1878 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1878 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2931,9 +2981,11 @@ Definition at line 1878 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -2962,7 +3014,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2984,9 +3037,11 @@ Definition at line 1448 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a> and <a href="#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>.
+<p>References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a> and <a href="#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>.</p>
 
-Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.
+
+<p>Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.</p>
+
 </div>
 </div>
 
@@ -3015,7 +3070,8 @@ Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir
 
 
 
-Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3037,9 +3093,11 @@ Definition at line 1463 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a> and <a href="#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>.
+<p>References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/definition/#a00915f52f3b708bec07aab2b44f03d34">Definition::docFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#a26a4a6e3578aa6c81b2d6d77a1ce694f">Definition::docLine</a> and <a href="#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -3063,7 +3121,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1412 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1412 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3106,9 +3165,11 @@ Definition at line 1412 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#adbe53b15923a143881154dd7c0f04f9b">Definition::getDefFileExtension</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.</p>
 
-Referenced by <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a> and <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>.
+
+<p>Referenced by <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a> and <a href="#a4f1e96e7c65daf0f86a31c45077697c4">getSQLDescCompound</a>.</p>
+
 </div>
 </div>
 
@@ -3137,7 +3198,8 @@ Referenced by <a href="#a309fe09ee4c594f158d4e9873ca1e6b6">getSQLDesc</a> and <a
 
 
 
-Definition at line 1214 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1214 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3161,9 +3223,11 @@ Definition at line 1214 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a7b91ef07fa780f5b7c37c73863df5e11">table\_schema</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a7b91ef07fa780f5b7c37c73863df5e11">table_schema</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -3192,7 +3256,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1231 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1231 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3216,9 +3281,11 @@ Definition at line 1231 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a9b595d98aef36283b3ea75fdd312ed5c">view\_schema</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a9b595d98aef36283b3ea75fdd312ed5c">view_schema</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -3247,7 +3314,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3278,9 +3346,11 @@ Definition at line 1097 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aaa15ddcfdb06a535a3398f1dc73d336d">ArgumentList::empty</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef\_param\_insert</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param\_insert</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#aaa15ddcfdb06a535a3398f1dc73d336d">ArgumentList::empty</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef_param_insert</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param_insert</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -3309,7 +3379,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3392,9 +3463,11 @@ Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#acc52d012d093df1adede055164f69dc9">ArgumentList::begin</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a215181845c0d9f0525806a4165c4f552">ArgumentList::end</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef\_param\_insert</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param\_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param\_select</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a4d651caeb995400fad17d4ab4a020a3a">ArgumentList::size</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#acc52d012d093df1adede055164f69dc9">ArgumentList::begin</a>, <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a215181845c0d9f0525806a4165c4f552">ArgumentList::end</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef_param_insert</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param_select</a>, <a href="/web-doxygen/docs/api/classes/argumentlist/#a4d651caeb995400fad17d4ab4a020a3a">ArgumentList::size</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -3423,7 +3496,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3451,9 +3525,11 @@ Definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="#a669c1f1c7bd2b5cfe3bc3e9294e81be9">xrefs\_insert</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="#a669c1f1c7bd2b5cfe3bc3e9294e81be9">xrefs_insert</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a> and <a href="#ae10406df98d50bc1f5d58c0be3427202">insertMemberReference</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a> and <a href="#ae10406df98d50bc1f5d58c0be3427202">insertMemberReference</a>.</p>
+
 </div>
 </div>
 
@@ -3482,7 +3558,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3499,7 +3576,8 @@ Definition at line 1011 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a> and <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a> and <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>.</p>
+
 </div>
 </div>
 
@@ -3528,7 +3606,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3555,9 +3634,11 @@ Definition at line 910 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ab3954473f4ed653652992317306a884b">path\_insert</a>, <a href="#ae8c2b376b75f41e8807c6db20df8de47">path\_select</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8c90a81fbaf02ad9af7387f3ed1c20c1">stripFromPath</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ab3954473f4ed653652992317306a884b">path_insert</a>, <a href="#ae8c2b376b75f41e8807c6db20df8de47">path_select</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8c90a81fbaf02ad9af7387f3ed1c20c1">stripFromPath</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.</p>
+
 </div>
 </div>
 
@@ -3581,7 +3662,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3608,9 +3690,11 @@ Definition at line 948 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/structs/refid/#a4eebe0fd7dffced627148d23da169ad0">Refid::created</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#a3f9a714e57e3f2d5b40ca9e2b5e1edf2">refid\_insert</a>, <a href="#af21d2af0294b7e22f02b098a43ec276d">refid\_select</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/structs/refid/#a4eebe0fd7dffced627148d23da169ad0">Refid::created</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#a3f9a714e57e3f2d5b40ca9e2b5e1edf2">refid_insert</a>, <a href="#af21d2af0294b7e22f02b098a43ec276d">refid_select</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#ae10406df98d50bc1f5d58c0be3427202">insertMemberReference</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.
+
+<p>Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMembers</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#ae10406df98d50bc1f5d58c0be3427202">insertMemberReference</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.</p>
+
 </div>
 </div>
 
@@ -3639,7 +3723,8 @@ Referenced by <a href="#a92be09d6ea0ae352da3d441abed04f30">associateAllClassMemb
 
 
 
-Definition at line 968 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 968 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3653,9 +3738,11 @@ Definition at line 968 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#ad5786eb5fdd727a497982eb3b0901680">memberdef\_exists</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#ad5786eb5fdd727a497982eb3b0901680">memberdef_exists</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -3684,7 +3771,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 975 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 975 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3699,9 +3787,11 @@ Definition at line 975 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>, <a href="#a2aef529ba9a8abda7c5dbe9f9c2b183b">memberdef\_incomplete</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>, <a href="#a2aef529ba9a8abda7c5dbe9f9c2b183b">memberdef_incomplete</a>, <a href="/web-doxygen/docs/api/structs/refid/#a903566363990a0b5295f2e8e6816f50c">Refid::refid</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -3730,7 +3820,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 2543 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 2543 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3780,9 +3871,11 @@ Definition at line 2543 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -3811,7 +3904,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3826,7 +3920,8 @@ Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -3855,7 +3950,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 1149 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1149 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3875,9 +3971,11 @@ Definition at line 1149 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/structs/sqlstmt/#a0fcb633ba93d1ad47b5072781ac76bb8">SqlStmt::query</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.</p>
 
-Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+
+<p>Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -3906,7 +4004,8 @@ Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>
 
 
 
-Definition at line 1162 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1162 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3945,9 +4044,11 @@ Definition at line 1162 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#a162bb86dfaf3254e93b1274353cd1cbf">compounddef\_exists</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef\_insert</a>, <a href="#a33e0611a73afb936b8c97c6812e64029">compoundref\_insert</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9c15b3b9b3db6bf609838c68c915d80a">incl\_insert</a>, <a href="#a1e3e98a7897963c61baf003aab5fecfa">incl\_select</a>, <a href="#a7ff598f38ef2dad027845c7abaa65592">member\_insert</a>, <a href="#ad5786eb5fdd727a497982eb3b0901680">memberdef\_exists</a>, <a href="#a2aef529ba9a8abda7c5dbe9f9c2b183b">memberdef\_incomplete</a>, <a href="#a044bf3040887411b780222535ef94942">memberdef\_insert</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef\_param\_insert</a>, <a href="#a9dd6736df9437b0372601f0fc9256cdc">memberdef\_update\_decl</a>, <a href="#a996b41f0018348eb70cb369999032333">memberdef\_update\_def</a>, <a href="#ac593dfdd38adfad8de3e87c2405f65b2">meta\_insert</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param\_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param\_select</a>, <a href="#ab3954473f4ed653652992317306a884b">path\_insert</a>, <a href="#ae8c2b376b75f41e8807c6db20df8de47">path\_select</a>, <a href="#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a>, <a href="#a3f9a714e57e3f2d5b40ca9e2b5e1edf2">refid\_insert</a>, <a href="#af21d2af0294b7e22f02b098a43ec276d">refid\_select</a>, <a href="#a6ef03b7de5c740c3ad04b46fee17e6e0">reimplements\_insert</a> and <a href="#a669c1f1c7bd2b5cfe3bc3e9294e81be9">xrefs\_insert</a>.
+<p>References <a href="#a162bb86dfaf3254e93b1274353cd1cbf">compounddef_exists</a>, <a href="#af3ea29d4c1a5d7adfb8e60de9a471f5f">compounddef_insert</a>, <a href="#a33e0611a73afb936b8c97c6812e64029">compoundref_insert</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9c15b3b9b3db6bf609838c68c915d80a">incl_insert</a>, <a href="#a1e3e98a7897963c61baf003aab5fecfa">incl_select</a>, <a href="#a7ff598f38ef2dad027845c7abaa65592">member_insert</a>, <a href="#ad5786eb5fdd727a497982eb3b0901680">memberdef_exists</a>, <a href="#a2aef529ba9a8abda7c5dbe9f9c2b183b">memberdef_incomplete</a>, <a href="#a044bf3040887411b780222535ef94942">memberdef_insert</a>, <a href="#a9fd0d6eb855cc81bc77248083bc52316">memberdef_param_insert</a>, <a href="#a9dd6736df9437b0372601f0fc9256cdc">memberdef_update_decl</a>, <a href="#a996b41f0018348eb70cb369999032333">memberdef_update_def</a>, <a href="#ac593dfdd38adfad8de3e87c2405f65b2">meta_insert</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param_select</a>, <a href="#ab3954473f4ed653652992317306a884b">path_insert</a>, <a href="#ae8c2b376b75f41e8807c6db20df8de47">path_select</a>, <a href="#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a>, <a href="#a3f9a714e57e3f2d5b40ca9e2b5e1edf2">refid_insert</a>, <a href="#af21d2af0294b7e22f02b098a43ec276d">refid_select</a>, <a href="#a6ef03b7de5c740c3ad04b46fee17e6e0">reimplements_insert</a> and <a href="#a669c1f1c7bd2b5cfe3bc3e9294e81be9">xrefs_insert</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -3976,7 +4077,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 930 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 930 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3995,9 +4097,11 @@ Definition at line 930 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="#ac593dfdd38adfad8de3e87c2405f65b2">meta\_insert</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea44749712dbec183e983dcd78a7736c41">Date</a>, <a href="/web-doxygen/docs/api/files/src/datetime-h/#a20573bf423b169aa9100035b297c28fea8cf10d2341ed01492506085688270c1e">DateTime</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a28a0c3252d0f0f28c0611cbc3268b003">dateToString</a>, <a href="#ac593dfdd38adfad8de3e87c2405f65b2">meta_insert</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
+
+<p>Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.</p>
+
 </div>
 </div>
 
@@ -4026,7 +4130,8 @@ Referenced by <a href="#ae5b36a2f93dadba9f8c7d762564154e1">generateSqlite3</a>.
 
 
 
-Definition at line 892 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 892 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4051,9 +4156,11 @@ Definition at line 892 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/sqlstmt/#a20465204d0f4d947d8df06808d62d3ee">SqlStmt::db</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/structs/sqlstmt/#a780c9b733b885100df0aa733b0c66a37">SqlStmt::stmt</a>.</p>
 
-Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>, <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+
+<p>Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>, <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a>, <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a>, <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a>, <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a>, <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -4082,7 +4189,8 @@ Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a>, 
 
 
 
-Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4101,9 +4209,11 @@ Definition at line 1137 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -4132,7 +4242,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 1261 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1261 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4154,9 +4265,11 @@ Definition at line 1261 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -4185,7 +4298,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1276 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1276 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4204,9 +4318,11 @@ Definition at line 1276 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.
+
+<p>Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -4235,7 +4351,8 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 
 
 
-Definition at line 1339 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1339 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4254,9 +4371,11 @@ Definition at line 1339 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>.
+
+<p>Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>.</p>
+
 </div>
 </div>
 
@@ -4285,7 +4404,8 @@ Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir
 
 
 
-Definition at line 1327 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1327 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4304,9 +4424,11 @@ Definition at line 1327 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>.
+
+<p>Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>.</p>
+
 </div>
 </div>
 
@@ -4335,7 +4457,8 @@ Referenced by <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir
 
 
 
-Definition at line 1315 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1315 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4354,9 +4477,11 @@ Definition at line 1315 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>.
+
+<p>Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>.</p>
+
 </div>
 </div>
 
@@ -4385,7 +4510,8 @@ Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGro
 
 
 
-Definition at line 1288 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1288 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4404,9 +4530,11 @@ Definition at line 1288 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>.
+
+<p>Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>.</p>
+
 </div>
 </div>
 
@@ -4435,7 +4563,8 @@ Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGro
 
 
 
-Definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4457,9 +4586,11 @@ Definition at line 1351 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.
+
+<p>Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>.</p>
+
 </div>
 </div>
 
@@ -4488,7 +4619,8 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 
 
 
-Definition at line 1301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4509,9 +4641,11 @@ Definition at line 1301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains\_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>References <a href="#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="#a99ccc174540ee8c15b0f0c296dc5159e">contains_insert</a>, <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a>, <a href="/web-doxygen/docs/api/structs/refid/#a93bc6ab2eb0fd66836894b58b5d2ea76">Refid::rowid</a> and <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
 
-Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.
+
+<p>Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a> and <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>.</p>
+
 </div>
 </div>
 
@@ -4540,7 +4674,8 @@ Referenced by <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGro
 
 
 
-Definition at line 1397 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1397 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4552,9 +4687,11 @@ Definition at line 1397 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a409da33c248938e57ba2135777a38628">MemberDef::templateArguments</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a409da33c248938e57ba2135777a38628">MemberDef::templateArguments</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.
+
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>.</p>
+
 </div>
 </div>
 
@@ -4583,7 +4720,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 1367 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1367 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4620,9 +4758,11 @@ Definition at line 1367 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param\_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param\_select</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="#aeff7609bbf258f9fe7bb792def0251d6">param_insert</a>, <a href="#a5615e9549a34565e146c795f7879a70c">param_select</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#adbab9cdf5d958b7f7ac7b736428974dd">writeMemberTemplateLists</a>, <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a> and <a href="#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a>.
+
+<p>Referenced by <a href="#adbab9cdf5d958b7f7ac7b736428974dd">writeMemberTemplateLists</a>, <a href="#a751d93630bc7cb9fa396ce5322fc9aab">writeTemplateList</a> and <a href="#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a>.</p>
+
 </div>
 </div>
 
@@ -4651,7 +4791,8 @@ Referenced by <a href="#adbab9cdf5d958b7f7ac7b736428974dd">writeMemberTemplateLi
 
 
 
-Definition at line 1402 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1402 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4663,9 +4804,11 @@ Definition at line 1402 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/classdef/#aed4a0864e51e5a3ac616f6c8e10f56c6">ClassDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a201b8f24043f9b7c7cc59d55282f6d47">ClassDef::templateArguments</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/classdef/#aed4a0864e51e5a3ac616f6c8e10f56c6">ClassDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/classdef/#a201b8f24043f9b7c7cc59d55282f6d47">ClassDef::templateArguments</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a> and <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>.
+
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a> and <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>.</p>
+
 </div>
 </div>
 
@@ -4694,7 +4837,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 
 
 
-Definition at line 1407 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 1407 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4706,7 +4850,8 @@ Definition at line 1407 of file <a href="/web-doxygen/docs/api/files/src/sqlite3
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f995d74cc66d5399">ConceptDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a3dc85d76254ee240faaf13633a0639ba">ConceptDef::getTemplateParameterList</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f995d74cc66d5399">ConceptDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/conceptdef/#a3dc85d76254ee240faaf13633a0639ba">ConceptDef::getTemplateParameterList</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -4749,7 +4894,8 @@ References <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f
 </dd>
 </dl>
 
-Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4763,7 +4909,8 @@ Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -4787,7 +4934,8 @@ Referenced by <a href="#a19ff8cd8130e662be4112bc914f7b50b">compounddefExists</a>
 
 
 
-Definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4826,7 +4974,8 @@ Definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a3889d30b147517190ccd9c1ebb9ca785">generateSqlite3ForConcept</a>, <a href="#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#a44a2f9f4ba14ceb381c325b3438febd8">generateSqlite3ForGroup</a>, <a href="#a2b0628c4001ddb19730a764b29b0be44">generateSqlite3ForModule</a>, <a href="#ad5597180db00f8bb26d51d9b3b409241">generateSqlite3ForNamespace</a>, <a href="#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -4864,7 +5013,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 </dd>
 </dl>
 
-Definition at line 798 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 798 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4879,7 +5029,8 @@ Definition at line 798 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -4917,7 +5068,8 @@ Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForCla
 </dd>
 </dl>
 
-Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4932,7 +5084,8 @@ Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.
+<p>Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>, <a href="#a3b94451a3cd1a0d6cc44e2a9a2118481">writeInnerClasses</a>, <a href="#a46ef1ad7fcb0bd63228beb9a14e7f4bd">writeInnerConcepts</a>, <a href="#ad1e096e657dc0a4918d8ad80ffa233a8">writeInnerDirs</a>, <a href="#a9e4b392824ade3c727f39d6717bdc97f">writeInnerFiles</a>, <a href="#a472ea2a1d309024f061e7d48d1dd3839">writeInnerGroups</a>, <a href="#a68dad0e13a83b4eb9046a6e6588a855f">writeInnerModules</a>, <a href="#a597b4509789d2af90e78fe008fa832ab">writeInnerNamespaces</a> and <a href="#a4b9d2814806d6388bddc5f4c141d8fbf">writeInnerPages</a>.</p>
+
 </div>
 </div>
 
@@ -4970,7 +5123,8 @@ Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>
 </dd>
 </dl>
 
-Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4985,7 +5139,8 @@ Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5021,7 +5176,8 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 </dd>
 </dl>
 
-Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5034,7 +5190,8 @@ Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5072,7 +5229,8 @@ Referenced by <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFil
 </dd>
 </dl>
 
-Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5087,7 +5245,8 @@ Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5122,7 +5281,8 @@ Referenced by <a href="#affa42bdf0b91c838fe0215b4e6afb7b5">associateMember</a> a
 </dd>
 </dl>
 
-Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5134,7 +5294,8 @@ Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5172,7 +5333,8 @@ Referenced by <a href="#a06d5fa6f8acbfef6705314884b6e6800">memberdefExists</a> a
 </dd>
 </dl>
 
-Definition at line 591 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 591 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5187,7 +5349,8 @@ Definition at line 591 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5211,7 +5374,8 @@ Referenced by <a href="#a2a696974b4a7902e4137be55d5337d20">memberdefIncomplete</
 
 
 
-Definition at line 599 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 599 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5340,7 +5504,8 @@ Definition at line 599 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5378,7 +5543,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 </dd>
 </dl>
 
-Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5393,7 +5559,8 @@ Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5436,7 +5603,8 @@ Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefinePar
 </dd>
 </dl>
 
-Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5456,7 +5624,8 @@ Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5499,7 +5668,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 </dd>
 </dl>
 
-Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5519,7 +5689,8 @@ Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5557,7 +5728,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 </dd>
 </dl>
 
-Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5572,7 +5744,8 @@ Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>.
+<p>Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a0e33b2ef2c8bf323a8a2f1d4bb13a5ca">recordMetadata</a>.</p>
+
 </div>
 </div>
 
@@ -5610,7 +5783,8 @@ Referenced by <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>
 </dd>
 </dl>
 
-Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5625,7 +5799,8 @@ Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+<p>Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -5667,7 +5842,8 @@ Referenced by <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefinePar
 </dd>
 </dl>
 
-Definition at line 806 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 806 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5686,7 +5862,8 @@ Definition at line 806 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.
+<p>Referenced by <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a> and <a href="#a8f2bd54985a7da4e6c800829305bece1">writeTemplateArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -5724,7 +5901,8 @@ Referenced by <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionP
 </dd>
 </dl>
 
-Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5739,7 +5917,8 @@ Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5774,7 +5953,8 @@ Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a
 </dd>
 </dl>
 
-Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5786,7 +5966,8 @@ Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5824,7 +6005,8 @@ Referenced by <a href="#a5335bb36c398920d8075493f1aedc119">insertPath</a> and <a
 </dd>
 </dl>
 
-Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5839,7 +6021,8 @@ Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5874,7 +6057,8 @@ Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <
 </dd>
 </dl>
 
-Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5886,7 +6070,8 @@ Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5924,7 +6109,8 @@ Referenced by <a href="#a9557f25eb205a966e712f8a709d73b5f">insertRefid</a> and <
 </dd>
 </dl>
 
-Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5939,7 +6125,8 @@ Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -5963,7 +6150,8 @@ Referenced by <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMem
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6195,7 +6383,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/sqlite3ge
 </div>
 
 
-Referenced by <a href="#a2413f906680d7e55e863d1f4d7385a84">initializeTables</a>.
+<p>Referenced by <a href="#a2413f906680d7e55e863d1f4d7385a84">initializeTables</a>.</p>
+
 </div>
 </div>
 
@@ -6219,7 +6408,8 @@ Referenced by <a href="#a2413f906680d7e55e863d1f4d7385a84">initializeTables</a>.
 
 
 
-Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6432,7 +6622,8 @@ Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>.
+<p>Referenced by <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>.</p>
+
 </div>
 </div>
 
@@ -6470,7 +6661,8 @@ Referenced by <a href="#aa9037481dd7efb932a1f5dc142922330">initializeViews</a>.
 </dd>
 </dl>
 
-Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6485,7 +6677,8 @@ Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.
+<p>Referenced by <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference</a> and <a href="#a5c243ba2fe5dbbef9eae72870cb045ff">prepareStatements</a>.</p>
+
 </div>
 </div>
 
@@ -6515,7 +6708,8 @@ Referenced by <a href="#a204b468b29a5d8ae8cf305cc08766eb7">insertMemberReference
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6524,7 +6718,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/sqlite3ge
 </div>
 
 
-Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/classes/textgeneratorsqlite3impl/#a0e2b894cd2ac80ba0d240f864f5a301e">TextGeneratorSqlite3Impl::writeBreak</a>.
+<p>Referenced by <a href="#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#ae7139b08c0c942d65c6bcb8402a8b142">generateSqlite3ForFile</a>, <a href="#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="#aaba2817dbf5f4afbbba5998976dbdab4">step</a> and <a href="/web-doxygen/docs/api/classes/textgeneratorsqlite3impl/#a0e2b894cd2ac80ba0d240f864f5a301e">TextGeneratorSqlite3Impl::writeBreak</a>.</p>
+
 </div>
 </div>
 

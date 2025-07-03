@@ -353,7 +353,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -395,7 +396,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -433,7 +435,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>.</p>
+
 </div>
 </div>
 
@@ -457,7 +460,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e907
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -480,7 +484,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
+
 </div>
 </div>
 
@@ -510,7 +515,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -546,7 +552,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -656,7 +663,8 @@ Definition at line 1606 of file <a href="/web-doxygen/docs/api/files/src/doctoke
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -685,7 +693,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 
 
 
-Definition at line 1585 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1585 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -713,7 +722,8 @@ Definition at line 1585 of file <a href="/web-doxygen/docs/api/files/src/doctoke
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a7efd18a96a64ecaf750637a6e2d37259">SectionInfo::setFileName</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a08bfd415d3da30cd7db439f3f7c7312c">SectionInfo::setType</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; T, Hash, KeyEqual, Map &gt;::find</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a7efd18a96a64ecaf750637a6e2d37259">SectionInfo::setFileName</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a08bfd415d3da30cd7db439f3f7c7312c">SectionInfo::setType</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -742,7 +752,8 @@ References <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4f
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 </div>
 </div>
 
@@ -766,7 +777,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2038,7 +2050,8 @@ Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2083,7 +2096,8 @@ Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/doctoke
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2092,7 +2106,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a60f7798b2a14de4350512176374a2228">initMethodProtection</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a07ca80df8cb26c1c11d0cb22e326b01d">CitationManager::insertCrossReferencesForBibFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10db0467ec67569096d637bf01">endBrief</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a60f7798b2a14de4350512176374a2228">initMethodProtection</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#a07ca80df8cb26c1c11d0cb22e326b01d">CitationManager::insertCrossReferencesForBibFile</a>.</p>
+
 </div>
 </div>
 
@@ -2116,7 +2131,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#abc7e7b10d
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2147,7 +2163,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2178,7 +2195,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2209,7 +2227,8 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/doctoken
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2240,7 +2259,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2271,7 +2291,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2302,7 +2323,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

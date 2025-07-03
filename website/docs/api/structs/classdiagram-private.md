@@ -77,7 +77,8 @@ struct ClassDiagram::Private { ... }
 </table>
 
 
-Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/diagram
 
 
 
-Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/diagram
 </div>
 
 
-References <a href="#af0ce06942397a9d84a8f8a9273a3081a">base</a> and <a href="#ac32be3e3d223dc276c8762a833455c50">super</a>.
+<p>References <a href="#af0ce06942397a9d84a8f8a9273a3081a">base</a> and <a href="#ac32be3e3d223dc276c8762a833455c50">super</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#af0ce06942397a9d84a8f8a9273a3081a">base</a> and <a href="#a
 
 
 
-Definition at line 1042 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 1042 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 1042 of file <a href="/web-doxygen/docs/api/files/src/diagram
 </div>
 
 
-Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.
+<p>Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.
 
 
 
-Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 1043 of file <a href="/web-doxygen/docs/api/files/src/diagram
 </div>
 
 
-Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.
+<p>Referenced by <a href="#a04f02aced893dd13f99d76113ab7e0f9">Private</a>.</p>
+
 </div>
 </div>
 

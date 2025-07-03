@@ -139,7 +139,7 @@ struct Markdown::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Process a HTML tag. <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">More...</a>
+<p>Process a HTML tag. <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -179,7 +179,7 @@ Process a HTML tag. <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-process single emphasis <a href="#a0bb20b07bce14eca215477b9ec05adbd">More...</a>
+<p>process single emphasis <a href="#a0bb20b07bce14eca215477b9ec05adbd">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -193,7 +193,7 @@ process single emphasis <a href="#a0bb20b07bce14eca215477b9ec05adbd">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-process double emphasis <a href="#abbb763f2449b932ef3468560e30a0478">More...</a>
+<p>process double emphasis <a href="#abbb763f2449b932ef3468560e30a0478">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -207,7 +207,7 @@ process double emphasis <a href="#abbb763f2449b932ef3468560e30a0478">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Parsing triple emphasis. <a href="#a4041a1e946c4402894bfff49b611e63b">More...</a>
+<p>Parsing triple emphasis. <a href="#a4041a1e946c4402894bfff49b611e63b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -221,7 +221,7 @@ Parsing triple emphasis. <a href="#a4041a1e946c4402894bfff49b611e63b">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Process ndash and mdashes. <a href="#adafbef72995b1327272b82a2b2075480">More...</a>
+<p>Process ndash and mdashes. <a href="#adafbef72995b1327272b82a2b2075480">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -235,7 +235,7 @@ Process ndash and mdashes. <a href="#adafbef72995b1327272b82a2b2075480">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Process quoted section "...", can contain one embedded newline. <a href="#a0f211ac431de2f23ca4874c125ab1551">More...</a>
+<p>Process quoted section "...", can contain one embedded newline. <a href="#a0f211ac431de2f23ca4874c125ab1551">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -249,7 +249,7 @@ Process quoted section "...", can contain one embedded newline. <a href="#a0f211
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0) <a href="#a42dc4e1d481af0574e750df55678d54d">More...</a>
+<p><span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0) <a href="#a42dc4e1d481af0574e750df55678d54d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -289,7 +289,7 @@ Process quoted section "...", can contain one embedded newline. <a href="#a0f211
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-looks for the next emph char, skipping other constructs, and stopping when either it is found, or we are at the end of a paragraph. <a href="#a5b661698b94e4b37748ee38025784690">More...</a>
+<p>looks for the next emph char, skipping other constructs, and stopping when either it is found, or we are at the end of a paragraph. <a href="#a5b661698b94e4b37748ee38025784690">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -342,7 +342,7 @@ looks for the next emph char, skipping other constructs, and stopping when eithe
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns whether the line is a setext-style hdr underline <a href="#a5628c6052a120856d53921f8746d0251">More...</a>
+<p>returns whether the line is a setext-style hdr underline <a href="#a5628c6052a120856d53921f8746d0251">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -527,7 +527,8 @@ returns whether the line is a setext-style hdr underline <a href="#a5628c6052a12
 </table>
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -553,7 +554,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -595,7 +597,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -647,7 +650,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/markdown
 
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -667,9 +671,11 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a5411339961a1e433bf9b59570c97fa6a">g\_doxy\_nbsp</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ab90a38f35e109b0e55a693490232d93d">g\_utf8\_nbsp</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f036f6a3327478acbd75">Portable::strnstr</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a5411339961a1e433bf9b59570c97fa6a">g_doxy_nbsp</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ab90a38f35e109b0e55a693490232d93d">g_utf8_nbsp</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f036f6a3327478acbd75">Portable::strnstr</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a> and <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>.
+
+<p>Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a> and <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>.</p>
+
 </div>
 </div>
 
@@ -693,7 +699,8 @@ Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand
 
 
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -731,9 +738,11 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="#a778a4f710c8847455c0685dba1736c8b">fileName</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a282543ddcf48b1b7cf7d2921573d453d">AnchorGenerator::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#a98d598fd49a59a5fd0b3eef5d2a35193">lineNr</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="#a778a4f710c8847455c0685dba1736c8b">fileName</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a282543ddcf48b1b7cf7d2921573d453d">AnchorGenerator::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#a98d598fd49a59a5fd0b3eef5d2a35193">lineNr</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
 
-Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
+
+<p>Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -755,9 +764,10 @@ Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <
 </div>
 <div class="doxyMemberDoc">
 
-looks for the next emph char, skipping other constructs, and stopping when either it is found, or we are at the end of a paragraph.
+<p>looks for the next emph char, skipping other constructs, and stopping when either it is found, or we are at the end of a paragraph.</p>
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -876,9 +886,11 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acb2def26524ecd4c96d000b854dee831">ignoreCloseEmphChar</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acb2def26524ecd4c96d000b854dee831">ignoreCloseEmphChar</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.
+
+<p>Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.</p>
+
 </div>
 </div>
 
@@ -902,7 +914,8 @@ Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>,
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -981,9 +994,11 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#afc4de25503fad3bbfadba71ff6e7581a">isNewline</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#afc4de25503fad3bbfadba71ff6e7581a">isNewline</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.</p>
+
 </div>
 </div>
 
@@ -1007,7 +1022,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1081,9 +1097,11 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>, <a href="#a5e73fa22df79d3f15db2f1824d64f08c">indentLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>, <a href="#a5e73fa22df79d3f15db2f1824d64f08c">indentLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a>.
+
+<p>Referenced by <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -1107,7 +1125,8 @@ Referenced by <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrR
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1183,9 +1202,11 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>.
+
+<p>Referenced by <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>.</p>
+
 </div>
 </div>
 
@@ -1207,9 +1228,10 @@ Referenced by <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>,
 </div>
 <div class="doxyMemberDoc">
 
-returns whether the line is a setext-style hdr underline
+<p>returns whether the line is a setext-style hdr underline</p>
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1252,9 +1274,11 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="#a5e73fa22df79d3f15db2f1824d64f08c">indentLevel</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="#a5e73fa22df79d3f15db2f1824d64f08c">indentLevel</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -1278,7 +1302,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 
 
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1555,9 +1580,11 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>.
+
+<p>Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>.</p>
+
 </div>
 </div>
 
@@ -1581,7 +1608,8 @@ Referenced by <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand
 
 
 
-Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1793,7 +1821,8 @@ Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a918fa8a25e6bc30b364b55bc19a5dafd">codeBlockIndent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a76c8e357497a35b016ee0289e26ee0dd">isCodeBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a7b54fef3d70eef54bd49dda068709f43">isEmptyLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a4808ea595b45102dac19491e80d2ac9c">isEndOfList</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acea395582e617dd69781da74f320161e">isFencedCodeBlock</a>, <a href="#a5628c6052a120856d53921f8746d0251">isHeaderline</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3712f14d18ec5d547f7c55413abdb9fb">isLinkRef</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#aefadebc5df285d25ef8121a87639323e">isTableBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a5dd95f5138a9eb830f708bf8f669e89b">linkRefs</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="#a79fd3fae285ba1f1beeb84c8e858bf46">writeCodeBlock</a>, <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>, <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a> and <a href="#a21b82aade2e5a369ec438f0cd49f8107">writeTableBlock</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a918fa8a25e6bc30b364b55bc19a5dafd">codeBlockIndent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a76c8e357497a35b016ee0289e26ee0dd">isCodeBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a7b54fef3d70eef54bd49dda068709f43">isEmptyLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a4808ea595b45102dac19491e80d2ac9c">isEndOfList</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acea395582e617dd69781da74f320161e">isFencedCodeBlock</a>, <a href="#a5628c6052a120856d53921f8746d0251">isHeaderline</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3712f14d18ec5d547f7c55413abdb9fb">isLinkRef</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#aefadebc5df285d25ef8121a87639323e">isTableBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a5dd95f5138a9eb830f708bf8f669e89b">linkRefs</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="#a79fd3fae285ba1f1beeb84c8e858bf46">writeCodeBlock</a>, <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>, <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a> and <a href="#a21b82aade2e5a369ec438f0cd49f8107">writeTableBlock</a>.</p>
+
 </div>
 </div>
 
@@ -1815,9 +1844,10 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 </div>
 <div class="doxyMemberDoc">
 
-<span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0)
+<p><span class="doxyComputerOutput"> ` </span> parsing a code span (assuming codespan != 0)</p>
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1884,7 +1914,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a5ba50f3a46a2d635f06fbc600356ee4a">escapeSpecialChars</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a5ba50f3a46a2d635f06fbc600356ee4a">escapeSpecialChars</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -1908,7 +1939,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1964,7 +1996,8 @@ Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#aebe67bf622b3e6fa702be02ee5087910">extraChar</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acda15964dfc7b413ab5abb3fca10a1ef">isOpenEmphChar</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#aebe67bf622b3e6fa702be02ee5087910">extraChar</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acda15964dfc7b413ab5abb3fca10a1ef">isOpenEmphChar</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -1986,9 +2019,10 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 </div>
 <div class="doxyMemberDoc">
 
-process single emphasis
+<p>process single emphasis</p>
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2028,9 +2062,11 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.
+
+<p>Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.</p>
+
 </div>
 </div>
 
@@ -2052,9 +2088,10 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> a
 </div>
 <div class="doxyMemberDoc">
 
-process double emphasis
+<p>process double emphasis</p>
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2090,9 +2127,11 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.
+
+<p>Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> and <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>.</p>
+
 </div>
 </div>
 
@@ -2114,12 +2153,14 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a> a
 </div>
 <div class="doxyMemberDoc">
 
-Parsing triple emphasis.
+<p>Parsing triple emphasis.</p>
 
 
-Finds the first closing tag, and delegates to the other emph
+<p>Finds the first closing tag, and delegates to the other emph</p>
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2187,9 +2228,11 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="#a5b661698b94e4b37748ee38025784690">findEmphasisChar</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a>.
+
+<p>Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a>.</p>
+
 </div>
 </div>
 
@@ -2213,7 +2256,8 @@ Referenced by <a href="#a9ac768dc126226996971e96ef20923aa">processEmphasis</a>.
 
 
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2226,7 +2270,8 @@ Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -2248,19 +2293,22 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 </div>
 <div class="doxyMemberDoc">
 
-Process a HTML tag.
+<p>Process a HTML tag.</p>
 
 
-Note that
+<p>Note that</p>
+
 
 
 <pre><code>..
 </code></pre>
 
 
-are treated specially, in the sense that all code inside is written unprocessed
+<p>are treated specially, in the sense that all code inside is written unprocessed</p>
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2357,9 +2405,11 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a> and <a href="#a7ef2d648f867a25fac44f095b89630c6">processHtmlTag</a>.
+
+<p>Referenced by <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a> and <a href="#a7ef2d648f867a25fac44f095b89630c6">processHtmlTag</a>.</p>
+
 </div>
 </div>
 
@@ -2383,7 +2433,8 @@ Referenced by <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a> and
 
 
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2419,9 +2470,11 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="#afbee8604b9f0ac5704c3ee99a7f4c7b9">actions</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="#afbee8604b9f0ac5704c3ee99a7f4c7b9">actions</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
+
+<p>Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.</p>
+
 </div>
 </div>
 
@@ -2445,7 +2498,8 @@ Referenced by <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>,
 
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2883,7 +2937,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a54e3a84d24e7a6e688ebd6b46a566544">AnchorGenerator::addPrefixIfNeeded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="#a778a4f710c8847455c0685dba1736c8b">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a7062fae1e1507b5c093fe5b71a866371">Doxygen::imageNameLinkedMap</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a08dc4d7f652408d7fc2eaba792796cb1">Portable::isAbsolutePath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#aa7bd4cf0e93293d4c3bf057b53f02063">FileInfo::isReadable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7bc01022af843db19fb19614d340ba66">isURL</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a5dd95f5138a9eb830f708bf8f669e89b">linkRefs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ab44dce28d2b68c6514acbe2415a8a4d7">SectionType::MinLevel</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8d6ace0deb439b916b9f97f54a6c9cc2">QCString::simplifyWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="#a1213861d8af699057686e457bce66509">writeMarkdownImage</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a54e3a84d24e7a6e688ebd6b46a566544">AnchorGenerator::addPrefixIfNeeded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="#a778a4f710c8847455c0685dba1736c8b">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a7062fae1e1507b5c093fe5b71a866371">Doxygen::imageNameLinkedMap</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a08dc4d7f652408d7fc2eaba792796cb1">Portable::isAbsolutePath</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#aa7bd4cf0e93293d4c3bf057b53f02063">FileInfo::isReadable</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7bc01022af843db19fb19614d340ba66">isURL</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a5dd95f5138a9eb830f708bf8f669e89b">linkRefs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ab44dce28d2b68c6514acbe2415a8a4d7">SectionType::MinLevel</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8d6ace0deb439b916b9f97f54a6c9cc2">QCString::simplifyWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="#a1213861d8af699057686e457bce66509">writeMarkdownImage</a>.</p>
+
 </div>
 </div>
 
@@ -2905,9 +2960,10 @@ References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd
 </div>
 <div class="doxyMemberDoc">
 
-Process ndash and mdashes.
+<p>Process ndash and mdashes.</p>
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2955,7 +3011,8 @@ Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -2979,7 +3036,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3145,7 +3203,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32f3ae19472e55905bc21e27835568d5">isBlockQuote</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a7b54fef3d70eef54bd49dda068709f43">isEmptyLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a4808ea595b45102dac19491e80d2ac9c">isEndOfList</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acea395582e617dd69781da74f320161e">isFencedCodeBlock</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a77c877f20c7388af72f6a936072b5109">qisspace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="#a2a97ed987f163573d91e6a46363c99de">writeBlockQuote</a> and <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#aad2fb530e3d19a77de38a8c1b633b786">findEndOfLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32f3ae19472e55905bc21e27835568d5">isBlockQuote</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a7b54fef3d70eef54bd49dda068709f43">isEmptyLine</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a4808ea595b45102dac19491e80d2ac9c">isEndOfList</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acea395582e617dd69781da74f320161e">isFencedCodeBlock</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a77c877f20c7388af72f6a936072b5109">qisspace</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="#a2a97ed987f163573d91e6a46363c99de">writeBlockQuote</a> and <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>.</p>
+
 </div>
 </div>
 
@@ -3167,9 +3226,10 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 </div>
 <div class="doxyMemberDoc">
 
-Process quoted section "...", can contain one embedded newline.
+<p>Process quoted section "...", can contain one embedded newline.</p>
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3197,7 +3257,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -3221,7 +3282,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3301,9 +3363,11 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a2e37305849fa544aff8f399a6f41c7b1">isSpecialCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#a6d7d4814ead5c919439c6b2d681e2ce7">isBlockCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a2e37305849fa544aff8f399a6f41c7b1">isSpecialCommand</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a19faae287d13ccea75b1d5a0eb110d97">qstrncmp</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.
+
+<p>Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.</p>
+
 </div>
 </div>
 
@@ -3327,7 +3391,8 @@ Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3450,9 +3515,11 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1917523a9eee16ade8021a9135d5e1da">decrLevel</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acb9b9cc222a09dc4b31c86cf18cd68df">g\_quotationHeaderMap</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad1f1abe1811f3c45c5b4ee867c15989f">isHRuler</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1917523a9eee16ade8021a9135d5e1da">decrLevel</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acb9b9cc222a09dc4b31c86cf18cd68df">g_quotationHeaderMap</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad1f1abe1811f3c45c5b4ee867c15989f">isHRuler</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad0a6b598945a869cd184d17fe1f16812">isListMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.
+
+<p>Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.</p>
+
 </div>
 </div>
 
@@ -3476,7 +3543,8 @@ Referenced by <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3549,9 +3617,11 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a918fa8a25e6bc30b364b55bc19a5dafd">codeBlockIndent</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ae22648d9504bbec4b64a0c33260fbe4f">skipOverFileAndLineCommands</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a918fa8a25e6bc30b364b55bc19a5dafd">codeBlockIndent</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ae22648d9504bbec4b64a0c33260fbe4f">skipOverFileAndLineCommands</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -3575,7 +3645,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3605,9 +3676,11 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>.</p>
+
 </div>
 </div>
 
@@ -3631,7 +3704,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 
 
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3681,9 +3755,11 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3d4cb7f7e85f41df2eab7827e3bec33e">escapeDoubleQuotes</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad5f8f274225faad69b969f4828376f06">getFilteredImageAttributes</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a3d4cb7f7e85f41df2eab7827e3bec33e">escapeDoubleQuotes</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad5f8f274225faad69b969f4828376f06">getFilteredImageAttributes</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
+
+<p>Referenced by <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.</p>
+
 </div>
 </div>
 
@@ -3707,7 +3783,8 @@ Referenced by <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3765,9 +3842,11 @@ Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a228aefe349d4d8c9272c606c9fbc8c81">hasLineBreak</a>, <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad1f1abe1811f3c45c5b4ee867c15989f">isHRuler</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a228aefe349d4d8c9272c606c9fbc8c81">hasLineBreak</a>, <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#ad1f1abe1811f3c45c5b4ee867c15989f">isHRuler</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#ae77523c9ecd298b11cdcdc8fae693a33">SectionType::Paragraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a16a0139dc8140f1c1626f46db559dac6">SectionType::Section</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afe5ca7520c54e7d647adb55a910b53cd">SectionType::Subparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a53adf06c99d78c4fcf4a8e4a1366c401">SectionType::Subsection</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#afc5a4c3df18d1ff4855525a78069b63b">SectionType::Subsubparagraph</a>, <a href="/web-doxygen/docs/api/classes/sectiontype/#a5f6dc2a0df2c922d077db4211dcec9d1">SectionType::Subsubsection</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -3791,7 +3870,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3997,9 +4077,11 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726afed76d6718c0a44a25c5e19ae8fb51d1">AlignCenter</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a291bdf1a2284d5648efc75ee78fbeb4c">AlignLeft</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a4258b9785acff3438d08d41ddb4439d9">AlignNone</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a4758d977046d9c084a0eaf7434fd29e1">AlignRight</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a90640de61c785c42e3dc3787610b18eb">findTableColumns</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a53933ee56e6d62357cc60bde3156f544">markersToAlignment</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726afed76d6718c0a44a25c5e19ae8fb51d1">AlignCenter</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a291bdf1a2284d5648efc75ee78fbeb4c">AlignLeft</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a4258b9785acff3438d08d41ddb4439d9">AlignNone</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#acdfaca60ec19c0265bac2692d7982726a4758d977046d9c084a0eaf7434fd29e1">AlignRight</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a90640de61c785c42e3dc3787610b18eb">findTableColumns</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a53933ee56e6d62357cc60bde3156f544">markersToAlignment</a>, <a href="#a13ea88c6a2b91303ba3be08d61bd17df">out</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
+
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -4029,7 +4111,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>.
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4038,7 +4121,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>.
+<p>Referenced by <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>.</p>
+
 </div>
 </div>
 
@@ -4062,7 +4146,8 @@ Referenced by <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>.
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4071,7 +4156,8 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
+<p>Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.</p>
+
 </div>
 </div>
 
@@ -4095,7 +4181,8 @@ Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a> an
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4104,7 +4191,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <a href="#a5628c6052a120856d53921f8746d0251">isHeaderline</a>.
+<p>Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <a href="#a5628c6052a120856d53921f8746d0251">isHeaderline</a>.</p>
+
 </div>
 </div>
 
@@ -4128,7 +4216,8 @@ Referenced by <a href="#aa8a42c32241bc89aa626ce55c23b7df5">isAtxHeader</a> and <
 
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4137,7 +4226,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>.
+<p>Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>.</p>
+
 </div>
 </div>
 
@@ -4161,7 +4251,8 @@ Referenced by <a href="#a46231fc8d72391f38170f184dd956ed1">extractTitleId</a>.
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4170,7 +4261,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.
+<p>Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>.</p>
+
 </div>
 </div>
 
@@ -4194,7 +4286,8 @@ Referenced by <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a> and
 
 
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4203,7 +4296,8 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Referenced by <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>, <a href="#a42dc4e1d481af0574e750df55678d54d">processCodeSpan</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>, <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>, <a href="#adafbef72995b1327272b82a2b2075480">processNmdash</a>, <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>, <a href="#a0f211ac431de2f23ca4874c125ab1551">processQuoted</a>, <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>, <a href="#a2a97ed987f163573d91e6a46363c99de">writeBlockQuote</a>, <a href="#a79fd3fae285ba1f1beeb84c8e858bf46">writeCodeBlock</a>, <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>, <a href="#a1213861d8af699057686e457bce66509">writeMarkdownImage</a>, <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a> and <a href="#a21b82aade2e5a369ec438f0cd49f8107">writeTableBlock</a>.
+<p>Referenced by <a href="#a681582d0e894782b9509baa541931151">addStrEscapeUtf8Nbsp</a>, <a href="#a9835402c2d15b122de1c3ba4180ebd58">processBlocks</a>, <a href="#a42dc4e1d481af0574e750df55678d54d">processCodeSpan</a>, <a href="#a0bb20b07bce14eca215477b9ec05adbd">processEmphasis1</a>, <a href="#abbb763f2449b932ef3468560e30a0478">processEmphasis2</a>, <a href="#a4041a1e946c4402894bfff49b611e63b">processEmphasis3</a>, <a href="#aa4f4085dfd3e73ae354c7cfd6fa69faf">processHtmlTagWrite</a>, <a href="#ac0a9e3273eb76713a9e197d5be61e11a">processInline</a>, <a href="#a9b99b7f5084eb08d7ffe43f3fbe79d69">processLink</a>, <a href="#adafbef72995b1327272b82a2b2075480">processNmdash</a>, <a href="#a9792322da9173be90556ef009d37afa4">processQuotations</a>, <a href="#a0f211ac431de2f23ca4874c125ab1551">processQuoted</a>, <a href="#a43b1695a69a83037471e5445c7c940ce">processSpecialCommand</a>, <a href="#a2a97ed987f163573d91e6a46363c99de">writeBlockQuote</a>, <a href="#a79fd3fae285ba1f1beeb84c8e858bf46">writeCodeBlock</a>, <a href="#a494fc3fc6c848a37caa06e5d85854ffe">writeFencedCodeBlock</a>, <a href="#a1213861d8af699057686e457bce66509">writeMarkdownImage</a>, <a href="#af7ceebe6b90c368816a6d9bd0ca501c0">writeOneLineHeaderOrRuler</a> and <a href="#a21b82aade2e5a369ec438f0cd49f8107">writeTableBlock</a>.</p>
+
 </div>
 </div>
 

@@ -166,7 +166,8 @@ struct StyleData { ... }
 </table>
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -197,9 +198,11 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
 
-References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a> and <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>.
+
+<p>References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a> and <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>.</p>
+
 </div>
 </div>
 
@@ -223,7 +226,8 @@ References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a> and <a hr
 
 
 
-Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>, definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>, definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +249,8 @@ Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a href="#afb8d293d6b6162f687f6d753e9221729">m\_definition</a>, <a href="#a443c5942e29a67d8410ed800671c3d0b">m\_index</a>, <a href="#af7b4270cec917791d56b70ff1c5606e3">m\_reference</a>, <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a7ce4348d587548a514b1e698abed1a54">s\_clause</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>.
+<p>References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a href="#afb8d293d6b6162f687f6d753e9221729">m_definition</a>, <a href="#a443c5942e29a67d8410ed800671c3d0b">m_index</a>, <a href="#af7b4270cec917791d56b70ff1c5606e3">m_reference</a>, <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a7ce4348d587548a514b1e698abed1a54">s_clause</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>.</p>
+
 </div>
 </div>
 
@@ -280,7 +285,8 @@ References <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a href=
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -289,9 +295,11 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Reference <a href="#afb8d293d6b6162f687f6d753e9221729">m\_definition</a>.
+<p>Reference <a href="#afb8d293d6b6162f687f6d753e9221729">m_definition</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="#a0b065b8e48e6258fdc607f8b362ded48">StyleData</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="#a0b065b8e48e6258fdc607f8b362ded48">StyleData</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.</p>
+
 </div>
 </div>
 
@@ -320,7 +328,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -329,9 +338,11 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Reference <a href="#a443c5942e29a67d8410ed800671c3d0b">m\_index</a>.
+<p>Reference <a href="#a443c5942e29a67d8410ed800671c3d0b">m_index</a>.</p>
 
-Referenced by <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a>.
+
+<p>Referenced by <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a>.</p>
+
 </div>
 </div>
 
@@ -360,7 +371,8 @@ Referenced by <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a>.
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -369,9 +381,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Reference <a href="#af7b4270cec917791d56b70ff1c5606e3">m\_reference</a>.
+<p>Reference <a href="#af7b4270cec917791d56b70ff1c5606e3">m_reference</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7467e3f0f800ca5303ce1e6e473cdcfe">RTFDocVisitor::getStyle</a>, <a href="#a0b065b8e48e6258fdc607f8b362ded48">StyleData</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0ef2c5ba6133eba8203a1">RTFGenerator::beginRTFDocument</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a7467e3f0f800ca5303ce1e6e473cdcfe">RTFDocVisitor::getStyle</a>, <a href="#a0b065b8e48e6258fdc607f8b362ded48">StyleData</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.</p>
+
 </div>
 </div>
 
@@ -395,7 +409,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/rtfgenerator/#aaaed62b7c9e0
 
 
 
-Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>, definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>, definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp">rtfstyle.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -422,9 +437,11 @@ Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a778df6e3e0962fc37bdbbb8cf4dced15">index</a>, <a href="#afb8d293d6b6162f687f6d753e9221729">m\_definition</a>, <a href="#a443c5942e29a67d8410ed800671c3d0b">m\_index</a>, <a href="#af7b4270cec917791d56b70ff1c5606e3">m\_reference</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a7ce4348d587548a514b1e698abed1a54">s\_clause</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="#a778df6e3e0962fc37bdbbb8cf4dced15">index</a>, <a href="#afb8d293d6b6162f687f6d753e9221729">m_definition</a>, <a href="#a443c5942e29a67d8410ed800671c3d0b">m_index</a>, <a href="#af7b4270cec917791d56b70ff1c5606e3">m_reference</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a7ce4348d587548a514b1e698abed1a54">s_clause</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a1a60858edb01bcbd780025cecdf65c8f">loadStylesheet</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a1a60858edb01bcbd780025cecdf65c8f">loadStylesheet</a>.</p>
+
 </div>
 </div>
 
@@ -454,7 +471,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a1a60858edb
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -463,7 +481,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.
+<p>Referenced by <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.</p>
+
 </div>
 </div>
 
@@ -487,7 +506,8 @@ Referenced by <a href="#acae6677bf1fd21e0b3b0607243d3f01a">definition</a>, <a hr
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -496,7 +516,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="#a778df6e3e0962fc37bdbbb8cf4dced15">index</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.
+<p>Referenced by <a href="#a778df6e3e0962fc37bdbbb8cf4dced15">index</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.</p>
+
 </div>
 </div>
 
@@ -520,7 +541,8 @@ Referenced by <a href="#a778df6e3e0962fc37bdbbb8cf4dced15">index</a>, <a href="#
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-h">rtfstyle.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -529,7 +551,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/rtfstyle-
 </div>
 
 
-Referenced by <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.
+<p>Referenced by <a href="#af5bfe4b887b11e7daba3c3648697e031">reference</a>, <a href="#a7a9ef51c3d04534f0d123bc771ab3367">setStyle</a> and <a href="#afa4e839cadb0aa89001d0a3b45845ce9">StyleData</a>.</p>
+
 </div>
 </div>
 

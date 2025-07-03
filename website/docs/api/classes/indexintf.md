@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IndexIntf` Class Reference
 
-Abstract interface for index generators. <a href="#details">More...</a>
+<p>Abstract interface for index generators. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class IndexIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A class that generates docset files. <a href="/web-doxygen/docs/api/classes/docsets/#details">More...</a>
+<p>A class that generates docset files. <a href="/web-doxygen/docs/api/classes/docsets/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -68,7 +68,7 @@ A class that generates docset files. <a href="/web-doxygen/docs/api/classes/docs
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Generator for Eclipse help files. <a href="/web-doxygen/docs/api/classes/eclipsehelp/#details">More...</a>
+<p>Generator for Eclipse help files. <a href="/web-doxygen/docs/api/classes/eclipsehelp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -82,7 +82,7 @@ Generator for Eclipse help files. <a href="/web-doxygen/docs/api/classes/eclipse
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a>
+<p>A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -96,7 +96,7 @@ A class that generates a dynamic tree view side panel. <a href="/web-doxygen/doc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A class that generated the HTML Help specific files. <a href="/web-doxygen/docs/api/classes/htmlhelp/#details">More...</a>
+<p>A class that generated the HTML Help specific files. <a href="/web-doxygen/docs/api/classes/htmlhelp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -256,9 +256,10 @@ A class that generated the HTML Help specific files. <a href="/web-doxygen/docs/
 
 ## Description {#details}
 
-Abstract interface for index generators.
+<p>Abstract interface for index generators.</p>
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -284,11 +285,14 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#af3a85835b196e67c4e674fbf53bee806">addContentsItem</a>.
 
-Referenced by <a href="#af3a85835b196e67c4e674fbf53bee806">addContentsItem</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a67dc4e5b8c648a8bd0636a54841c79f4">IndexList::addContentsItem</a>.
+<p>Reference <a href="#af3a85835b196e67c4e674fbf53bee806">addContentsItem</a>.</p>
+
+
+<p>Referenced by <a href="#af3a85835b196e67c4e674fbf53bee806">addContentsItem</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a67dc4e5b8c648a8bd0636a54841c79f4">IndexList::addContentsItem</a>.</p>
+
 </div>
 </div>
 
@@ -312,11 +316,14 @@ Referenced by <a href="#af3a85835b196e67c4e674fbf53bee806">addContentsItem</a> a
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#a2b3132671a4c688f5f687a69258936b2">addImageFile</a>.
 
-Referenced by <a href="#a2b3132671a4c688f5f687a69258936b2">addImageFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#aac3c1b70be363f488269cd9054cc7621">IndexList::addImageFile</a>.
+<p>Reference <a href="#a2b3132671a4c688f5f687a69258936b2">addImageFile</a>.</p>
+
+
+<p>Referenced by <a href="#a2b3132671a4c688f5f687a69258936b2">addImageFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#aac3c1b70be363f488269cd9054cc7621">IndexList::addImageFile</a>.</p>
+
 </div>
 </div>
 
@@ -340,11 +347,14 @@ Referenced by <a href="#a2b3132671a4c688f5f687a69258936b2">addImageFile</a> and 
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#ad3e0b2c34ae7993147c8ba2230197a52">addIndexFile</a>.
 
-Referenced by <a href="#ad3e0b2c34ae7993147c8ba2230197a52">addIndexFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a85b310bcd8bd41aa67eba20c39210a0f">IndexList::addIndexFile</a>.
+<p>Reference <a href="#ad3e0b2c34ae7993147c8ba2230197a52">addIndexFile</a>.</p>
+
+
+<p>Referenced by <a href="#ad3e0b2c34ae7993147c8ba2230197a52">addIndexFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a85b310bcd8bd41aa67eba20c39210a0f">IndexList::addIndexFile</a>.</p>
+
 </div>
 </div>
 
@@ -368,11 +378,14 @@ Referenced by <a href="#ad3e0b2c34ae7993147c8ba2230197a52">addIndexFile</a> and 
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#a9d173d7ac4c6f979d95f7b0dc1231415">addIndexItem</a>.
 
-Referenced by <a href="#a9d173d7ac4c6f979d95f7b0dc1231415">addIndexItem</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#afdb8f0434f6e648c6836872121f61917">IndexList::addIndexItem</a>.
+<p>Reference <a href="#a9d173d7ac4c6f979d95f7b0dc1231415">addIndexItem</a>.</p>
+
+
+<p>Referenced by <a href="#a9d173d7ac4c6f979d95f7b0dc1231415">addIndexItem</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#afdb8f0434f6e648c6836872121f61917">IndexList::addIndexItem</a>.</p>
+
 </div>
 </div>
 
@@ -396,11 +409,14 @@ Referenced by <a href="#a9d173d7ac4c6f979d95f7b0dc1231415">addIndexItem</a> and 
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#adf6128baf1a24ab479c6541724e0ac2f">addStyleSheetFile</a>.
 
-Referenced by <a href="#adf6128baf1a24ab479c6541724e0ac2f">addStyleSheetFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a18b2beeb1826949562e6fd25edd5228f">IndexList::addStyleSheetFile</a>.
+<p>Reference <a href="#adf6128baf1a24ab479c6541724e0ac2f">addStyleSheetFile</a>.</p>
+
+
+<p>Referenced by <a href="#adf6128baf1a24ab479c6541724e0ac2f">addStyleSheetFile</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a18b2beeb1826949562e6fd25edd5228f">IndexList::addStyleSheetFile</a>.</p>
+
 </div>
 </div>
 
@@ -424,11 +440,14 @@ Referenced by <a href="#adf6128baf1a24ab479c6541724e0ac2f">addStyleSheetFile</a>
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#a920918399556e9afd4d927de3d1f4247">decContentsDepth</a>.
 
-Referenced by <a href="#a920918399556e9afd4d927de3d1f4247">decContentsDepth</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a4bad65cd2fadab4529bbfe5df78cc019">IndexList::decContentsDepth</a>.
+<p>Reference <a href="#a920918399556e9afd4d927de3d1f4247">decContentsDepth</a>.</p>
+
+
+<p>Referenced by <a href="#a920918399556e9afd4d927de3d1f4247">decContentsDepth</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a4bad65cd2fadab4529bbfe5df78cc019">IndexList::decContentsDepth</a>.</p>
+
 </div>
 </div>
 
@@ -452,11 +471,14 @@ Referenced by <a href="#a920918399556e9afd4d927de3d1f4247">decContentsDepth</a> 
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#aa5532a767c4ac41167d014209b2ea8d7">finalize</a>.
 
-Referenced by <a href="#aa5532a767c4ac41167d014209b2ea8d7">finalize</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#af04e11231983acb4dbf381e809bfa178">IndexList::finalize</a>.
+<p>Reference <a href="#aa5532a767c4ac41167d014209b2ea8d7">finalize</a>.</p>
+
+
+<p>Referenced by <a href="#aa5532a767c4ac41167d014209b2ea8d7">finalize</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#af04e11231983acb4dbf381e809bfa178">IndexList::finalize</a>.</p>
+
 </div>
 </div>
 
@@ -480,11 +502,14 @@ Referenced by <a href="#aa5532a767c4ac41167d014209b2ea8d7">finalize</a> and <a h
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#ac5ff1647bcf1cc65543258df162a0a7c">incContentsDepth</a>.
 
-Referenced by <a href="#ac5ff1647bcf1cc65543258df162a0a7c">incContentsDepth</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#ac6af95293030206c0224260e9b1d7aca">IndexList::incContentsDepth</a>.
+<p>Reference <a href="#ac5ff1647bcf1cc65543258df162a0a7c">incContentsDepth</a>.</p>
+
+
+<p>Referenced by <a href="#ac5ff1647bcf1cc65543258df162a0a7c">incContentsDepth</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#ac6af95293030206c0224260e9b1d7aca">IndexList::incContentsDepth</a>.</p>
+
 </div>
 </div>
 
@@ -508,11 +533,14 @@ Referenced by <a href="#ac5ff1647bcf1cc65543258df162a0a7c">incContentsDepth</a> 
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
 
-Reference <a href="#a0e46b4afa0ed269e2d089c8444590515">initialize</a>.
 
-Referenced by <a href="#a0e46b4afa0ed269e2d089c8444590515">initialize</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a104b016afa73759d65b08f6c1cced210">IndexList::initialize</a>.
+<p>Reference <a href="#a0e46b4afa0ed269e2d089c8444590515">initialize</a>.</p>
+
+
+<p>Referenced by <a href="#a0e46b4afa0ed269e2d089c8444590515">initialize</a> and <a href="/web-doxygen/docs/api/classes/indexlist/#a104b016afa73759d65b08f6c1cced210">IndexList::initialize</a>.</p>
+
 </div>
 </div>
 

@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Generic code parser. <a href="/web-doxygen/docs/api/classes/filecodeparser/#details">More...</a>
+<p>Generic code parser. <a href="/web-doxygen/docs/api/classes/filecodeparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

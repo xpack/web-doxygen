@@ -81,7 +81,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp">entry.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -90,7 +91,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/entry-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/entry/#a8283ac849b1f02ff82ca2ff28253db98">Entry::Entry</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a> and <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry::\~Entry</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/entry/#a8283ac849b1f02ff82ca2ff28253db98">Entry::Entry</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a> and <a href="/web-doxygen/docs/api/classes/entry/#ace080276d727881acfee7197b85f0b65">Entry::~Entry</a>.</p>
+
 </div>
 </div>
 

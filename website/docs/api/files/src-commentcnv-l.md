@@ -236,7 +236,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-copies string <em>s</em> with length <em>len</em> to the output, while replacing any alias commands found in the string. <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">More...</a>
+<p>copies string <em>s</em> with length <em>len</em> to the output, while replacing any alias commands found in the string. <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -354,7 +354,7 @@ copies string <em>s</em> with length <em>len</em> to the output, while replacing
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the section of text, in between a pair of markers. <a href="#a21f1fbe9d036424f63e72aad296ccfdc">More...</a>
+<p>Returns the section of text, in between a pair of markers. <a href="#a21f1fbe9d036424f63e72aad296ccfdc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -368,7 +368,7 @@ Returns the section of text, in between a pair of markers. <a href="#a21f1fbe9d0
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">More...</a>
+<p>Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -473,7 +473,8 @@ Converts the comments in a file. <a href="#a4706ae57556b5cab395e8d2c8ec666b9">Mo
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -515,7 +516,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 
 
 
-Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -528,7 +530,8 @@ Definition at line 1575 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>.</p>
+
 </div>
 </div>
 
@@ -558,7 +561,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae5755
 
 
 
-Definition at line 1513 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1513 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -580,9 +584,11 @@ Definition at line 1513 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
 
-Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
+
+<p>Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.</p>
+
 </div>
 </div>
 
@@ -604,10 +610,11 @@ Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Converts the comments in a file.
+<p>Converts the comments in a file.</p>
 
 
-This function does three things:
+<p>This function does three things:</p>
+
 
 <ol class="doxyList" type="1">
 <li>It converts multi-line C++ style comment blocks (that are aligned) to C style comment blocks (if MULTILINE_CPP_IS_BRIEF is set to NO).</li>
@@ -615,7 +622,8 @@ This function does three things:
 <li>It handles conditional sections (cond...endcond blocks)</li>
 </ol>
 
-Definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -704,9 +712,11 @@ Definition at line 1964 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="#ac28578b1034a1f4803dd53216ab2bfda">clearCommentStack</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daf158610d0a0e6dd08ec7cab215168fa5">Debug::CommentCnv</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaec9b8e3dfee836d4621c2cca9514037">Debug::Lex\_commentcnv</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a6788d979220d7bcd5ed1eaf232060e29">commentcnvYY\_CondCtx::lineNr</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#ae1eed597f41d62965e72a0f1a4961d4d">commentcnvYY\_CondCtx::sectionId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a9a7bd1b3d14701eb97c03f3ef34deff1">yylex</a>.
+<p>References <a href="#ac28578b1034a1f4803dd53216ab2bfda">clearCommentStack</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daf158610d0a0e6dd08ec7cab215168fa5">Debug::CommentCnv</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#acb642f5212285f22eca041cbf6a927c1">convertFileNameFortranParserCode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaec9b8e3dfee836d4621c2cca9514037">Debug::Lex_commentcnv</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a6788d979220d7bcd5ed1eaf232060e29">commentcnvYY_CondCtx::lineNr</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#ae1eed597f41d62965e72a0f1a4961d4d">commentcnvYY_CondCtx::sectionId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a9a7bd1b3d14701eb97c03f3ef34deff1">yylex</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.</p>
+
 </div>
 </div>
 
@@ -736,7 +746,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b4
 
 
 
-Definition at line 1528 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1528 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -785,9 +796,11 @@ Definition at line 1528 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
 
-Referenced by <a href="#a6af10d5bb9a436e8d3b74fefb86034ea">copyToOutput</a>, <a href="#a514e0fc34f72927bb6d0ad62e0eca7b3">insertCommentStart</a>, <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>, <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a> and <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
+
+<p>Referenced by <a href="#a6af10d5bb9a436e8d3b74fefb86034ea">copyToOutput</a>, <a href="#a514e0fc34f72927bb6d0ad62e0eca7b3">insertCommentStart</a>, <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>, <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a> and <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.</p>
+
 </div>
 </div>
 
@@ -817,7 +830,8 @@ Referenced by <a href="#a6af10d5bb9a436e8d3b74fefb86034ea">copyToOutput</a>, <a 
 
 
 
-Definition at line 1570 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1570 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -829,7 +843,8 @@ Definition at line 1570 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>.
+<p>Reference <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>.</p>
+
 </div>
 </div>
 
@@ -858,7 +873,8 @@ Reference <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>.
 
 
 
-Definition at line 1594 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1594 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -882,7 +898,8 @@ Definition at line 1594 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a4a056399be29b38e047fb83f1d0682fa">commentcnvYY\_CondCtx::skip</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/structs/commentcnvyy-condctx/#a4a056399be29b38e047fb83f1d0682fa">commentcnvYY_CondCtx::skip</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -909,18 +926,20 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 <div class="doxyMemberDoc">
 
-Returns the section of text, in between a pair of markers.
+<p>Returns the section of text, in between a pair of markers.</p>
 
 
-Full lines are returned, excluding the lines on which the markers appear.
+<p>Full lines are returned, excluding the lines on which the markers appear.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd>routine <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a></dd>
+<dd><p>routine <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a></p></dd>
 </dl>
 
 
-Definition at line 1643 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1643 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -969,9 +988,11 @@ Definition at line 1643 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
 
-Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.
+
+<p>Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.</p>
+
 </div>
 </div>
 
@@ -1001,7 +1022,8 @@ Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1037,7 +1059,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/commentc
 
 
 
-Definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1072,7 +1095,8 @@ Definition at line 1611 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a0ec58197ab496c7ea5a9be5edb5d6073">startCondSection</a>.
+<p>Reference <a href="#a0ec58197ab496c7ea5a9be5edb5d6073">startCondSection</a>.</p>
+
 </div>
 </div>
 
@@ -1101,7 +1125,8 @@ Reference <a href="#a0ec58197ab496c7ea5a9be5edb5d6073">startCondSection</a>.
 
 
 
-Definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1167,9 +1192,11 @@ Definition at line 1685 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>.
+<p>Reference <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>.</p>
 
-Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.
+
+<p>Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.</p>
+
 </div>
 </div>
 
@@ -1198,7 +1225,8 @@ Referenced by <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.
 
 
 
-Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1269,7 +1297,8 @@ Definition at line 1401 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c8581feb03e123f09d5">SectionType::MaxLevel</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -1298,7 +1327,8 @@ References <a href="/web-doxygen/docs/api/classes/sectiontype/#a2f832ab2bf817c85
 
 
 
-Definition at line 1744 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1744 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1411,7 +1441,8 @@ Definition at line 1744 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ae1bf779155bea73ec696cba27e640e66">Doxygen::exampleNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="#a21f1fbe9d036424f63e72aad296ccfdc">extractBlock</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="#a514e0fc34f72927bb6d0ad62e0eca7b3">insertCommentStart</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#ab7840bb4fca4b3d9938c1b3f0e1352ef">FileInfo::isFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70d0b468521b0304252fb659f3b15e24">showFileDefMatches</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn\_doc\_error</a> and <a href="#ae7e51116e747d3390e7a6cfc6532834c">YY\_BUF\_SIZE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ae1bf779155bea73ec696cba27e640e66">Doxygen::exampleNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="#a21f1fbe9d036424f63e72aad296ccfdc">extractBlock</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="#a514e0fc34f72927bb6d0ad62e0eca7b3">insertCommentStart</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#ab7840bb4fca4b3d9938c1b3f0e1352ef">FileInfo::isFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a29dc16dcef3e9ca42657dcf3bfd8d53a">lineBlock</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a70d0b468521b0304252fb659f3b15e24">showFileDefMatches</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac853c00269498870dfefa8185f2ee79a">QCString::view</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn_doc_error</a> and <a href="#ae7e51116e747d3390e7a6cfc6532834c">YY_BUF_SIZE</a>.</p>
+
 </div>
 </div>
 
@@ -1438,9 +1469,10 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f
 </div>
 <div class="doxyMemberDoc">
 
-copies string <em>s</em> with length <em>len</em> to the output, while replacing any alias commands found in the string.
+<p>copies string <em>s</em> with length <em>len</em> to the output, while replacing any alias commands found in the string.</p>
 
-Definition at line 1853 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1853 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1516,7 +1548,8 @@ Definition at line 1853 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a6b8eb655dd98d5b700055fc5ae0440dc">resolveAliasCmd</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a6bd7b0c2ab29fbcc02a4d17b39fb285b">substituteStringView</a>.
+<p>References <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>, <a href="/web-doxygen/docs/api/files/src/aliases-cpp/#a6b8eb655dd98d5b700055fc5ae0440dc">resolveAliasCmd</a> and <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a6bd7b0c2ab29fbcc02a4d17b39fb285b">substituteStringView</a>.</p>
+
 </div>
 </div>
 
@@ -1545,7 +1578,8 @@ References <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a hre
 
 
 
-Definition at line 1933 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1933 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1577,9 +1611,11 @@ Definition at line 1933 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="#a2b4acd8f05e7bebf0528ec710692f758">computeIndent</a>, <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a78caf41f8a8faa0b9acff1d672b192c0">replaceCommentMarker</a>.
+<p>References <a href="#a2b4acd8f05e7bebf0528ec710692f758">computeIndent</a>, <a href="#a2314542f53572b0bab685a608ea5b249">copyToOutput</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a78caf41f8a8faa0b9acff1d672b192c0">replaceCommentMarker</a>.</p>
 
-Referenced by <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a> and <a href="#a6458e40b3ca285dc65cd5df59d63e5a5">stateToString</a>.
+
+<p>Referenced by <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a> and <a href="#a6458e40b3ca285dc65cd5df59d63e5a5">stateToString</a>.</p>
+
 </div>
 </div>
 
@@ -1608,7 +1644,8 @@ Referenced by <a href="#a7d6c5be747e636417e19cc8dbbaa38b9">replaceAliases</a> an
 
 
 
-Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1662,7 +1699,8 @@ Definition at line 1466 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
+<p>Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.</p>
+
 </div>
 </div>
 
@@ -1691,7 +1729,8 @@ Referenced by <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
 
 
 
-Definition at line 1581 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1581 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1711,9 +1750,11 @@ Definition at line 1581 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/condparser/#af254c02cc742b034cf62a9846b7b9749">CondParser::parse</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/condparser/#af254c02cc742b034cf62a9846b7b9749">CondParser::parse</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a332228bad6aeea89cff9fe039cf62738">handleCondSectionId</a>.
+
+<p>Referenced by <a href="#a332228bad6aeea89cff9fe039cf62738">handleCondSectionId</a>.</p>
+
 </div>
 </div>
 
@@ -1742,9 +1783,11 @@ Referenced by <a href="#a332228bad6aeea89cff9fe039cf62738">handleCondSectionId</
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
 
-Reference <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
+
+<p>Reference <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.</p>
+
 </div>
 </div>
 
@@ -1768,7 +1811,8 @@ Reference <a href="#a43d00492ecd78767dd0bf065cc3b8f9a">replaceComment</a>.
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2951,7 +2995,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/commentc
 
 
 
-Definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2996,7 +3041,8 @@ Definition at line 1923 of file <a href="/web-doxygen/docs/api/files/src/comment
 
 
 
-Definition at line 19 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 19 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3005,7 +3051,8 @@ Definition at line 19 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a4e7dce846ca75b58d7010c2855a84ed6">parsePrototype</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4e7dce846ca75b58d7010c2855a84ed6">parsePrototype</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab0ed44ca62a9c1f9a33f3be549b9bd2f">DocTokenizer::pushContext</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a692163c1902febf3d5dc44644e851f26">readIncludeFile</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a> and <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a4e7dce846ca75b58d7010c2855a84ed6">parsePrototype</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a4e7dce846ca75b58d7010c2855a84ed6">parsePrototype</a>, <a href="/web-doxygen/docs/api/classes/doctokenizer/#ab0ed44ca62a9c1f9a33f3be549b9bd2f">DocTokenizer::pushContext</a>, <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a692163c1902febf3d5dc44644e851f26">readIncludeFile</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a> and <a href="#acb71ba8a95e7beb78c1e3a685d8696ed">readIncludeFile</a>.</p>
+
 </div>
 </div>
 
@@ -3029,7 +3076,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a4e7dce846ca
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3060,7 +3108,8 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/commentc
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3091,7 +3140,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3122,7 +3172,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

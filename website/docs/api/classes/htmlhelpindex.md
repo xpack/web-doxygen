@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlHelpIndex` Class Reference
 
-A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="#details">More...</a>
+<p>A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -142,9 +142,10 @@ class HtmlHelpIndex { ... }
 
 ## Description {#details}
 
-A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order.
+<p>A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order.</p>
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -171,9 +172,11 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Constructs a new <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> index
+<p>Constructs a new <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> index</p>
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -184,9 +187,11 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#a628c35fd57a70fd8325d8fcac8f65103">m\_recoder</a>.
+<p>Reference <a href="#a628c35fd57a70fd8325d8fcac8f65103">m_recoder</a>.</p>
 
-Referenced by <a href="#a0b68b2ca104803c3a6dc76a18aa05f13">\~HtmlHelpIndex</a>.
+
+<p>Referenced by <a href="#a0b68b2ca104803c3a6dc76a18aa05f13">~HtmlHelpIndex</a>.</p>
+
 </div>
 </div>
 
@@ -217,11 +222,14 @@ Referenced by <a href="#a0b68b2ca104803c3a6dc76a18aa05f13">\~HtmlHelpIndex</a>.
 
 
 
-Destroys the <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> index
+<p>Destroys the <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> index</p>
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
 
-Reference <a href="#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
+
+<p>Reference <a href="#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a>.</p>
+
 </div>
 </div>
 
@@ -252,7 +260,8 @@ Reference <a href="#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a>.
 
 
 
-Stores an item in the index if it is not already present. Items are stored in alphabetical order, by sorting on the concatenation of <em>level1</em> and <em>level2</em> (if present).
+<p>Stores an item in the index if it is not already present. Items are stored in alphabetical order, by sorting on the concatenation of <em>level1</em> and <em>level2</em> (if present).</p>
+
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -260,33 +269,34 @@ Stores an item in the index if it is not already present. Items are stored in al
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">level1</td>
-<td class="doxyParamItemDescription">the string at level 1 in the index.</td>
+<td class="doxyParamItemDescription"><p>the string at level 1 in the index.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">level2</td>
-<td class="doxyParamItemDescription">the string at level 2 in the index (or 0 if not applicable).</td>
+<td class="doxyParamItemDescription"><p>the string at level 2 in the index (or 0 if not applicable).</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">url</td>
-<td class="doxyParamItemDescription">the url of the documentation (without .html extension).</td>
+<td class="doxyParamItemDescription"><p>the url of the documentation (without .html extension).</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">anchor</td>
-<td class="doxyParamItemDescription">the anchor of the documentation within the page.</td>
+<td class="doxyParamItemDescription"><p>the anchor of the documentation within the page.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">hasLink</td>
-<td class="doxyParamItemDescription">if true, the url (without anchor) can be used in the level1 item, when writing the header of a list of level2 items.</td>
+<td class="doxyParamItemDescription"><p>if true, the url (without anchor) can be used in the level1 item, when writing the header of a list of level2 items.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">reversed</td>
-<td class="doxyParamItemDescription">TRUE if level1 is the member name and level2 the compound name.</td>
+<td class="doxyParamItemDescription"><p>TRUE if level1 is the member name and level2 the compound name.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -316,7 +326,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m\_map</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m_map</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
+
 </div>
 </div>
 
@@ -345,7 +356,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -354,7 +366,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m\_map</a>.
+<p>Reference <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m_map</a>.</p>
+
 </div>
 </div>
 
@@ -379,9 +392,11 @@ Reference <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m\_map</a>.
 
 
 
-Writes the sorted list of index items into a html like list.
+<p>Writes the sorted list of index items into a html like list.</p>
 
-An list of calls with <span class="doxyComputerOutput">name = level1,level2</span> as follows:
+
+<p>An list of calls with <span class="doxyComputerOutput">name = level1,level2</span> as follows:</p>
+
 
 
 <pre><code>  a1,b1
@@ -393,7 +408,8 @@ An list of calls with <span class="doxyComputerOutput">name = level1,level2</spa
 </code></pre>
 
 
-Will result in the following list:
+<p>Will result in the following list:</p>
+
 
 
 <pre><code>  a1       -&gt; link to url if hasLink==TRUE
@@ -408,7 +424,8 @@ Will result in the following list:
 </code></pre>
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -514,7 +531,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#a360a61caf065b5b140e9275aa2253a8b">convertToHtmlAndTruncate</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m\_map</a>, <a href="#a628c35fd57a70fd8325d8fcac8f65103">m\_recoder</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp\_sort</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#a360a61caf065b5b140e9275aa2253a8b">convertToHtmlAndTruncate</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp/#aa9dc1225d5dff26cbdf7521f3d2d5ebe">field2URL</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="#ab8f0ee0b1ceeaecd88427d7416f3f7d2">m_map</a>, <a href="#a628c35fd57a70fd8325d8fcac8f65103">m_recoder</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp_sort</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -544,7 +562,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -553,7 +572,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a70d9d3885e2b3e6a8587e6c59e02afa0">addItem</a>, <a href="#a0d8b9fea4dc8f00945e141c0621fa6b1">size</a> and <a href="#a90f49f18773a8f5949d7908575996e71">writeFields</a>.
+<p>Referenced by <a href="#a70d9d3885e2b3e6a8587e6c59e02afa0">addItem</a>, <a href="#a0d8b9fea4dc8f00945e141c0621fa6b1">size</a> and <a href="#a90f49f18773a8f5949d7908575996e71">writeFields</a>.</p>
+
 </div>
 </div>
 
@@ -577,7 +597,8 @@ Referenced by <a href="#a70d9d3885e2b3e6a8587e6c59e02afa0">addItem</a>, <a href=
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -586,7 +607,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a> and <a href="#a90f49f18773a8f5949d7908575996e71">writeFields</a>.
+<p>Referenced by <a href="#aa41b0639266dc74951a9a77732749e56">HtmlHelpIndex</a> and <a href="#a90f49f18773a8f5949d7908575996e71">writeFields</a>.</p>
+
 </div>
 </div>
 

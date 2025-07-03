@@ -185,7 +185,8 @@ class DefinitionAliasImpl { ... }
 </table>
 
 
-Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -211,7 +212,8 @@ Definition at line 304 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1881 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1881 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -223,7 +225,8 @@ Declaration at line 307 of file <a href="/web-doxygen/docs/api/files/src/definit
 </div>
 
 
-References <a href="#ad3335938c0fb3f300036e664a9292fe5">m\_def</a>, <a href="#a6717eb1c9ebc5995e53161ace900a995">m\_scope</a> and <a href="#a9c529b304828a58dde379c54da9d1af6">m\_symbolName</a>.
+<p>References <a href="#ad3335938c0fb3f300036e664a9292fe5">m_def</a>, <a href="#a6717eb1c9ebc5995e53161ace900a995">m_scope</a> and <a href="#a9c529b304828a58dde379c54da9d1af6">m_symbolName</a>.</p>
+
 </div>
 </div>
 
@@ -258,7 +261,8 @@ References <a href="#ad3335938c0fb3f300036e664a9292fe5">m\_def</a>, <a href="#a6
 
 
 
-Declaration at line 308 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1886 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 308 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1886 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -297,7 +301,8 @@ Declaration at line 308 of file <a href="/web-doxygen/docs/api/files/src/definit
 
 
 
-Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1906 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1906 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -309,7 +314,8 @@ Declaration at line 312 of file <a href="/web-doxygen/docs/api/files/src/definit
 </div>
 
 
-References <a href="#ad3335938c0fb3f300036e664a9292fe5">m\_def</a>, <a href="#a9c529b304828a58dde379c54da9d1af6">m\_symbolName</a> and <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a19333e44397bbe89c9c283e0b1181f86">removeFromMap</a>.
+<p>References <a href="#ad3335938c0fb3f300036e664a9292fe5">m_def</a>, <a href="#a9c529b304828a58dde379c54da9d1af6">m_symbolName</a> and <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a19333e44397bbe89c9c283e0b1181f86">removeFromMap</a>.</p>
+
 </div>
 </div>
 
@@ -333,7 +339,8 @@ References <a href="#ad3335938c0fb3f300036e664a9292fe5">m\_def</a>, <a href="#a9
 
 
 
-Declaration at line 311 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1890 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 311 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1890 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -356,7 +363,8 @@ Declaration at line 311 of file <a href="/web-doxygen/docs/api/files/src/definit
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fcda9166d21abaf8d785c378c5">addToMap</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="#ad3335938c0fb3f300036e664a9292fe5">m\_def</a>, <a href="#a765809a9738abcab01e70b0e3d867187">m\_qualifiedName</a>, <a href="#a6717eb1c9ebc5995e53161ace900a995">m\_scope</a> and <a href="#a9c529b304828a58dde379c54da9d1af6">m\_symbolName</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fcda9166d21abaf8d785c378c5">addToMap</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="#ad3335938c0fb3f300036e664a9292fe5">m_def</a>, <a href="#a765809a9738abcab01e70b0e3d867187">m_qualifiedName</a>, <a href="#a6717eb1c9ebc5995e53161ace900a995">m_scope</a> and <a href="#a9c529b304828a58dde379c54da9d1af6">m_symbolName</a>.</p>
+
 </div>
 </div>
 
@@ -380,7 +388,8 @@ References <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a29d1f8fcda9
 
 
 
-Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1916 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1916 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -392,7 +401,8 @@ Declaration at line 313 of file <a href="/web-doxygen/docs/api/files/src/definit
 </div>
 
 
-Reference <a href="#a765809a9738abcab01e70b0e3d867187">m\_qualifiedName</a>.
+<p>Reference <a href="#a765809a9738abcab01e70b0e3d867187">m_qualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -416,7 +426,8 @@ Reference <a href="#a765809a9738abcab01e70b0e3d867187">m\_qualifiedName</a>.
 
 
 
-Declaration at line 314 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1911 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Declaration at line 314 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>, definition at line 1911 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -428,7 +439,8 @@ Declaration at line 314 of file <a href="/web-doxygen/docs/api/files/src/definit
 </div>
 
 
-Reference <a href="#a765809a9738abcab01e70b0e3d867187">m\_qualifiedName</a>.
+<p>Reference <a href="#a765809a9738abcab01e70b0e3d867187">m_qualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -458,7 +470,8 @@ Reference <a href="#a765809a9738abcab01e70b0e3d867187">m\_qualifiedName</a>.
 
 
 
-Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -467,7 +480,8 @@ Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a>, <a href="#ac69a03632c6a5af839e26c104329623f">deinit</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.
+<p>Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a>, <a href="#ac69a03632c6a5af839e26c104329623f">deinit</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.</p>
+
 </div>
 </div>
 
@@ -491,7 +505,8 @@ Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</
 
 
 
-Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -500,7 +515,8 @@ Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>, <a href="#a6f2d163cd7cb80213e25fb579d6954dd">name</a> and <a href="#a7299ae69c73abb03e1c8bd2d33b89520">qualifiedName</a>.
+<p>Referenced by <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>, <a href="#a6f2d163cd7cb80213e25fb579d6954dd">name</a> and <a href="#a7299ae69c73abb03e1c8bd2d33b89520">qualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -524,7 +540,8 @@ Referenced by <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>, <a href="#a
 
 
 
-Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -533,7 +550,8 @@ Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.
+<p>Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.</p>
+
 </div>
 </div>
 
@@ -557,7 +575,8 @@ Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</
 
 
 
-Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -566,7 +585,8 @@ Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a>, <a href="#ac69a03632c6a5af839e26c104329623f">deinit</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.
+<p>Referenced by <a href="#a4e5f461d46edf07f24c264d07fb0ffd3">DefinitionAliasImpl</a>, <a href="#ac69a03632c6a5af839e26c104329623f">deinit</a> and <a href="#ac8f280c992abc7b4cc4b47cb31a5c383">init</a>.</p>
+
 </div>
 </div>
 

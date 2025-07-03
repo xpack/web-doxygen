@@ -43,7 +43,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper struct holding the properties of a edge in a dot graph. <a href="/web-doxygen/docs/api/structs/edgeproperties/#details">More...</a>
+<p>Helper struct holding the properties of a edge in a dot graph. <a href="/web-doxygen/docs/api/structs/edgeproperties/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -251,7 +251,8 @@ Helper struct holding the properties of a edge in a dot graph. <a href="/web-dox
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -276,9 +277,11 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9fe392105dac20e1759dcb1d6">common\_attributes</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#a3f65f51eefb97cf188587b56115d973a">DotNode::writeBox</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9fe392105dac20e1759dcb1d6">common_attributes</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#a3f65f51eefb97cf188587b56115d973a">DotNode::writeBox</a>.</p>
+
 </div>
 </div>
 
@@ -307,7 +310,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a120714f9
 
 
 
-Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -326,9 +330,11 @@ Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/dotnode-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a7c8413e57275811">DotNode::writeLabel</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a7c8413e57275811">DotNode::writeLabel</a>.</p>
+
 </div>
 </div>
 
@@ -357,7 +363,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -443,9 +450,11 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dotnode-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">DotNode::List</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a6bc845933b52f07e32502d844a9b2794">DotNode::convertLabel</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#acd975dffca58fc0d6bbcae4b37e280eda4ee29ca12c7d126654bd0e5275de6135">DotNode::List</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a>.</p>
 
-Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a7c8413e57275811">DotNode::writeLabel</a>.
+
+<p>Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a> and <a href="/web-doxygen/docs/api/classes/dotnode/#ae7a5c86a2927e880a7c8413e57275811">DotNode::writeLabel</a>.</p>
+
 </div>
 </div>
 
@@ -496,7 +505,8 @@ Referenced by <a href="#ad9725fc182452b9ca7142e0c7c896bf9">writeBoxMemberList</a
 </dd>
 </dl>
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -558,9 +568,11 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </dl>
 
 
-mapping from protection levels to color names
+<p>mapping from protection levels to color names</p>
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -616,7 +628,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </dd>
 </dl>
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -628,7 +641,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.</p>
+
 </div>
 </div>
 
@@ -669,7 +683,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -725,7 +740,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </dd>
 </dl>
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -786,7 +802,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </dd>
 </dl>
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -842,7 +859,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </dd>
 </dl>
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -854,7 +872,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.</p>
+
 </div>
 </div>
 
@@ -895,7 +914,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 </dd>
 </dl>
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -936,7 +956,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 
 
 
-Definition at line 920 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 920 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

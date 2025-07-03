@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a LaTeX formula as found in the documentation. <a href="/web-doxygen/docs/api/classes/formula/#details">More...</a>
+<p>Class representing a LaTeX formula as found in the documentation. <a href="/web-doxygen/docs/api/classes/formula/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

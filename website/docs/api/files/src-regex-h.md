@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a>
+<p>Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -60,7 +60,7 @@ Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/n
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/#details">More...</a>
+<p>Class representing a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ Class representing a regular expression. <a href="/web-doxygen/docs/api/classes/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Object representing the match results of a capture range. <a href="/web-doxygen/docs/api/classes/reg/submatch/#details">More...</a>
+<p>Object representing the match results of a capture range. <a href="/web-doxygen/docs/api/classes/reg/submatch/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,7 +88,7 @@ Object representing the match results of a capture range. <a href="/web-doxygen/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Object representing the matching results. <a href="/web-doxygen/docs/api/classes/reg/match/#details">More...</a>
+<p>Object representing the matching results. <a href="/web-doxygen/docs/api/classes/reg/match/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -102,7 +102,7 @@ Object representing the matching results. <a href="/web-doxygen/docs/api/classes
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class to iterate through matches. <a href="/web-doxygen/docs/api/classes/reg/iterator/#details">More...</a>
+<p>Class to iterate through matches. <a href="/web-doxygen/docs/api/classes/reg/iterator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

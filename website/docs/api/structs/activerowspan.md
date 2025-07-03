@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ActiveRowSpan` Struct Reference
 
-Helper class to compute the grid for an HTML style table. <a href="#details">More...</a>
+<p>Helper class to compute the grid for an HTML style table. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -78,9 +78,10 @@ struct ActiveRowSpan { ... }
 
 ## Description {#details}
 
-Helper class to compute the grid for an HTML style table.
+<p>Helper class to compute the grid for an HTML style table.</p>
 
-Definition at line 2275 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Definition at line 2275 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -111,7 +112,8 @@ Definition at line 2275 of file <a href="/web-doxygen/docs/api/files/src/docnode
 
 
 
-Definition at line 2277 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Definition at line 2277 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -120,7 +122,8 @@ Definition at line 2277 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="#aa7def8c2ba701ed3f6092a63e74926fe">column</a> and <a href="#a50d079de9d4998e9214da5cc8d44c630">rowsLeft</a>.
+<p>References <a href="#aa7def8c2ba701ed3f6092a63e74926fe">column</a> and <a href="#a50d079de9d4998e9214da5cc8d44c630">rowsLeft</a>.</p>
+
 </div>
 </div>
 
@@ -150,7 +153,8 @@ References <a href="#aa7def8c2ba701ed3f6092a63e74926fe">column</a> and <a href="
 
 
 
-Definition at line 2279 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Definition at line 2279 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +163,8 @@ Definition at line 2279 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#aa8eb2a837eb6f17206d67f5cec6b27b2">ActiveRowSpan</a>.
+<p>Referenced by <a href="#aa8eb2a837eb6f17206d67f5cec6b27b2">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 
@@ -183,7 +188,8 @@ Referenced by <a href="#aa8eb2a837eb6f17206d67f5cec6b27b2">ActiveRowSpan</a>.
 
 
 
-Definition at line 2278 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Definition at line 2278 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -192,7 +198,8 @@ Definition at line 2278 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#aa8eb2a837eb6f17206d67f5cec6b27b2">ActiveRowSpan</a>.
+<p>Referenced by <a href="#aa8eb2a837eb6f17206d67f5cec6b27b2">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 

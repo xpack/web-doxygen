@@ -56,7 +56,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This class stores information about an inheritance relation. <a href="/web-doxygen/docs/api/structs/baseinfo/#details">More...</a>
+<p>This class stores information about an inheritance relation. <a href="/web-doxygen/docs/api/structs/baseinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ This class stores information about an inheritance relation. <a href="/web-doxyg
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="/web-doxygen/docs/api/structs/taginfo/#details">More...</a>
+<p>This struct is used to capture the tag file information for an <a href="/web-doxygen/docs/api/classes/entry">Entry</a>. <a href="/web-doxygen/docs/api/structs/taginfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -84,7 +84,7 @@ This struct is used to capture the tag file information for an <a href="/web-dox
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Represents an unstructured piece of information, about an entity found in the sources. <a href="/web-doxygen/docs/api/classes/entry/#details">More...</a>
+<p>Represents an unstructured piece of information, about an entity found in the sources. <a href="/web-doxygen/docs/api/classes/entry/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -182,7 +182,8 @@ Represents an unstructured piece of information, about an entity found in the so
 
 
 
-Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -238,7 +239,8 @@ Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/entry-h"
 </dd>
 </dl>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -290,7 +292,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/entry-h">
 </dd>
 </dl>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -339,7 +342,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/entry-h">
 </dd>
 </dl>
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/entry-h">entry.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

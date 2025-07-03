@@ -45,7 +45,8 @@ struct SysTimeKeeper::TimeData { ... }
 </table>
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/portable-
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

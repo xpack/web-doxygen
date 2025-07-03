@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ConstraintClassDef` Struct Reference
 
-Class that contains information about a type constraint relations. <a href="#details">More...</a>
+<p>Class that contains information about a type constraint relations. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ struct ConstraintClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class definition that this relation uses. <a href="#a19b68e8a482c234e891caf07a74608ef">More...</a>
+<p>Class definition that this relation uses. <a href="#a19b68e8a482c234e891caf07a74608ef">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ Class definition that this relation uses. <a href="#a19b68e8a482c234e891caf07a74
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Dictionary of member types names that form the edge labels of the constraint relation. <a href="#a57c368314075b446f998c4c140d570a1">More...</a>
+<p>Dictionary of member types names that form the edge labels of the constraint relation. <a href="#a57c368314075b446f998c4c140d570a1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,9 +104,10 @@ Dictionary of member types names that form the edge labels of the constraint rel
 
 ## Description {#details}
 
-Class that contains information about a type constraint relations.
+<p>Class that contains information about a type constraint relations.</p>
 
-Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -137,7 +138,8 @@ Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/classdef
 
 
 
-Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -146,7 +148,8 @@ Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/classdef
 </div>
 
 
-Reference <a href="#a19b68e8a482c234e891caf07a74608ef">classDef</a>.
+<p>Reference <a href="#a19b68e8a482c234e891caf07a74608ef">classDef</a>.</p>
+
 </div>
 </div>
 
@@ -181,7 +184,8 @@ Reference <a href="#a19b68e8a482c234e891caf07a74608ef">classDef</a>.
 
 
 
-Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,7 +200,8 @@ Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/classdef
 </div>
 
 
-References <a href="#a57c368314075b446f998c4c140d570a1">accessors</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a57c368314075b446f998c4c140d570a1">accessors</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -224,9 +229,10 @@ References <a href="#a57c368314075b446f998c4c140d570a1">accessors</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Dictionary of member types names that form the edge labels of the constraint relation.
+<p>Dictionary of member types names that form the edge labels of the constraint relation.</p>
 
-Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -235,7 +241,8 @@ Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/classdef
 </div>
 
 
-Referenced by <a href="#aa0de42a40a226e9f3373d90386d9d271">addAccessor</a>.
+<p>Referenced by <a href="#aa0de42a40a226e9f3373d90386d9d271">addAccessor</a>.</p>
+
 </div>
 </div>
 
@@ -257,9 +264,10 @@ Referenced by <a href="#aa0de42a40a226e9f3373d90386d9d271">addAccessor</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Class definition that this relation uses.
+<p>Class definition that this relation uses.</p>
 
-Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -268,7 +276,8 @@ Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/classdef
 </div>
 
 
-Referenced by <a href="#a511b92d880437fdff407845cc372ca1d">ConstraintClassDef</a>.
+<p>Referenced by <a href="#a511b92d880437fdff407845cc372ca1d">ConstraintClassDef</a>.</p>
+
 </div>
 </div>
 

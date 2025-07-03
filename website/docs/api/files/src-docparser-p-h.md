@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `docparser_p.h` File Reference
 
-Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>. <a href="#details">More...</a>
+<p>Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -60,7 +60,7 @@ Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Parser's context to store all global variables. <a href="/web-doxygen/docs/api/structs/docparsercontext/#details">More...</a>
+<p>Parser's context to store all global variables. <a href="/web-doxygen/docs/api/structs/docparsercontext/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -265,7 +265,7 @@ Parser's context to store all global variables. <a href="/web-doxygen/docs/api/s
 
 ## Description {#details}
 
-Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
 
 <div class="doxySectionDef">
 
@@ -291,7 +291,8 @@ Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -322,7 +323,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -353,7 +355,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -396,9 +399,11 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/docparser
 
 
 
-Returns TRUE iff node n is a child of a html list item node
+<p>Returns TRUE iff node n is a child of a html list item node</p>
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -415,9 +420,11 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a>.</p>
+
 </div>
 </div>
 
@@ -446,7 +453,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 
 
-Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -463,9 +471,11 @@ Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.</p>
+
 </div>
 </div>
 
@@ -494,7 +504,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 
 
-Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -511,9 +522,11 @@ Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.</p>
+
 </div>
 </div>
 
@@ -543,9 +556,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 
 
 
-Returns TRUE iff node n is a child of a html list item node
+<p>Returns TRUE iff node n is a child of a html list item node</p>
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -562,9 +577,11 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docparser/#abf46a000544ae1a4f45df6430cd3e6bf">DocParser::handleStyleArgument</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docparser/#abf46a000544ae1a4f45df6430cd3e6bf">DocParser::handleStyleArgument</a>.</p>
+
 </div>
 </div>
 
@@ -594,9 +611,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 
 
-Returns TRUE iff node n is a child of a ordered html list node
+<p>Returns TRUE iff node n is a child of a ordered html list node</p>
 
-Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -617,9 +636,11 @@ Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.</p>
+
 </div>
 </div>
 
@@ -649,9 +670,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 
 
-Returns TRUE iff node n is a child of a preformatted node
+<p>Returns TRUE iff node n is a child of a preformatted node</p>
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -668,9 +691,11 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a185dc0176f6cd4c40526308d7a3f9905">isPreformatted</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a185dc0176f6cd4c40526308d7a3f9905">isPreformatted</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1daa2914afd2bc3e72af">DocParser::defaultHandleToken</a> and <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1daa2914afd2bc3e72af">DocParser::defaultHandleToken</a> and <a href="/web-doxygen/docs/api/classes/docpara/#aafc94d2ed7856e4a11e404e2ee05fb40">DocPara::parse</a>.</p>
+
 </div>
 </div>
 
@@ -699,7 +724,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1da
 
 
 
-Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -716,9 +742,11 @@ Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d79a1a43fbaabae3483b2e6b">filterLatexString</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.</p>
+
 </div>
 </div>
 
@@ -748,9 +776,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a96afd525d7
 
 
 
-Returns TRUE iff node n is a child of a unordered html list node
+<p>Returns TRUE iff node n is a child of a unordered html list node</p>
 
-Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -771,9 +801,11 @@ Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a00e869c50ba4a1783724e11d45870c44">DocHtmlList::Unordered</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a00e869c50ba4a1783724e11d45870c44">DocHtmlList::Unordered</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767c66089ba24f0afe">DocPara::handleHtmlEndTag</a> and <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>.</p>
+
 </div>
 </div>
 
@@ -802,7 +834,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#aef70041ddeb0e5767
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/docparser-p-h">docparser_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -814,7 +847,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/docparse
 </div>
 
 
-Referenced by <a href="#a66b237bbac35526d7fa7b944ca815088">insidePRE</a>.
+<p>Referenced by <a href="#a66b237bbac35526d7fa7b944ca815088">insidePRE</a>.</p>
+
 </div>
 </div>
 

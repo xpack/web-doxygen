@@ -41,7 +41,7 @@ class ConceptLinkedRefMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedrefmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -83,7 +83,8 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 </table>
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -109,7 +110,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/conceptde
 
 
 
-Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>, definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>, definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>.</p>
+
 </div>
 </div>
 
@@ -154,7 +157,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 
 
-Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>, definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>, definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -171,7 +175,8 @@ Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/outputlist/#a7c8d844390c3ab106b675144baa48fc7">OutputList::endMemberList</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 

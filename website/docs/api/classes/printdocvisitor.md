@@ -938,9 +938,11 @@ class PrintDocVisitor { ... }
 
 
 
-Visitor implementation for pretty printing
+<p>Visitor implementation for pretty printing</p>
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -971,7 +973,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -980,7 +983,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1d814e9886c337689b4fc6596c0c181">m\_indent</a>, <a href="#a680a5aa72ec2ddf44166d9ab1336690f">m\_insidePre</a> and <a href="#acf31423703be843808a84497c42ff08e">m\_needsEnter</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1d814e9886c337689b4fc6596c0c181">m_indent</a>, <a href="#a680a5aa72ec2ddf44166d9ab1336690f">m_insidePre</a> and <a href="#acf31423703be843808a84497c42ff08e">m_needsEnter</a>.</p>
+
 </div>
 </div>
 
@@ -1015,7 +1019,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1028,7 +1033,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1057,7 +1063,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1070,7 +1077,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1099,7 +1107,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1119,7 +1128,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3efa8f4e7d9fce2352023">DocWhiteSpace::chars</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="#a680a5aa72ec2ddf44166d9ab1336690f">m\_insidePre</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3efa8f4e7d9fce2352023">DocWhiteSpace::chars</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="#a680a5aa72ec2ddf44166d9ab1336690f">m_insidePre</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -1148,7 +1158,8 @@ References <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3ef
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1169,7 +1180,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ad8a01097bbc33683b24dc0ddd198f958">HtmlEntityMapper::utf8</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ad8a01097bbc33683b24dc0ddd198f958">HtmlEntityMapper::utf8</a>.</p>
+
 </div>
 </div>
 
@@ -1198,7 +1210,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1219,7 +1232,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -1248,7 +1262,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1261,7 +1276,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.</p>
+
 </div>
 </div>
 
@@ -1290,7 +1306,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1303,7 +1320,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
+<p>Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>.</p>
+
 </div>
 </div>
 
@@ -1332,7 +1350,8 @@ Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1345,7 +1364,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
+<p>Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>.</p>
+
 </div>
 </div>
 
@@ -1374,7 +1394,8 @@ Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1443,7 +1464,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/printdocv
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.</p>
+
 </div>
 </div>
 
@@ -1472,7 +1494,8 @@ References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1517,7 +1540,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.</p>
+
 </div>
 </div>
 
@@ -1546,7 +1570,8 @@ References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369
 
 
 
-Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1559,7 +1584,8 @@ Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d00ed52d8eee959">DocAnchor::anchor</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d00ed52d8eee959">DocAnchor::anchor</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -1588,7 +1614,8 @@ References <a href="/web-doxygen/docs/api/classes/docanchor/#aa2b10316da4800824d
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1621,7 +1648,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ad2dce3078cd4a33bf3923066b2c79957">DocInclude::file</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a135bf24f61094b5ccd0f11184a689105">DocInclude::isBlock</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ad2dce3078cd4a33bf3923066b2c79957">DocInclude::file</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a135bf24f61094b5ccd0f11184a689105">DocInclude::isBlock</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.</p>
+
 </div>
 </div>
 
@@ -1650,7 +1678,8 @@ References <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547a
 
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1671,7 +1700,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a981a766f9067d8f850ef3c191433c2c0">DocIncOperator::Line</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ade13cdced8ba724a6c9cbadb813da27f">DocIncOperator::pattern</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a2be537d3ba19e566040ed7b346beee19">DocIncOperator::SkipLine</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ad22086824c941ff3099faa8c45f3a02a">DocIncOperator::type</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970ae2a2f1290dfe2ddc9b5d24999cc153a9">DocIncOperator::Until</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a981a766f9067d8f850ef3c191433c2c0">DocIncOperator::Line</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ade13cdced8ba724a6c9cbadb813da27f">DocIncOperator::pattern</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a2be537d3ba19e566040ed7b346beee19">DocIncOperator::SkipLine</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ad22086824c941ff3099faa8c45f3a02a">DocIncOperator::type</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970ae2a2f1290dfe2ddc9b5d24999cc153a9">DocIncOperator::Until</a>.</p>
+
 </div>
 </div>
 
@@ -1700,7 +1730,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1713,7 +1744,8 @@ Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/docformula/#a639835af31171584bbf72eab82d7f162">DocFormula::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.
+<p>References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/docformula/#a639835af31171584bbf72eab82d7f162">DocFormula::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.</p>
+
 </div>
 </div>
 
@@ -1742,7 +1774,8 @@ References <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a hre
 
 
 
-Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1755,7 +1788,8 @@ Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docindexentry/#ac267b515c9df901ab1505e070931996c">DocIndexEntry::entry</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docindexentry/#ac267b515c9df901ab1505e070931996c">DocIndexEntry::entry</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
+
 </div>
 </div>
 
@@ -1784,7 +1818,8 @@ References <a href="/web-doxygen/docs/api/classes/docindexentry/#ac267b515c9df90
 
 
 
-Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1797,7 +1832,8 @@ Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
+<p>Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>.</p>
+
 </div>
 </div>
 
@@ -1826,7 +1862,8 @@ Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
 
 
 
-Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1855,7 +1892,8 @@ Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doccite/#acb79082b3765794abb193fcef75b1b2e">DocCite::anchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae5f235deff96cbae64d906842654abea">DocCite::ref</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/doccite/#acb79082b3765794abb193fcef75b1b2e">DocCite::anchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ae5f235deff96cbae64d906842654abea">DocCite::ref</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.</p>
+
 </div>
 </div>
 
@@ -1884,7 +1922,8 @@ References <a href="/web-doxygen/docs/api/classes/doccite/#acb79082b3765794abb19
 
 
 
-Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1897,7 +1936,8 @@ Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
+<p>Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>.</p>
+
 </div>
 </div>
 
@@ -1926,7 +1966,8 @@ Reference <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>.
 
 
 
-Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1956,7 +1997,8 @@ Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -1985,7 +2027,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2013,7 +2056,8 @@ Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked\_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked\_x</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked_x</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2042,7 +2086,8 @@ References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c
 
 
 
-Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2058,7 +2103,8 @@ Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2087,7 +2133,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2103,7 +2150,8 @@ Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2132,7 +2180,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2175,7 +2224,8 @@ Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.</p>
+
 </div>
 </div>
 
@@ -2204,7 +2254,8 @@ References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d
 
 
 
-Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2220,7 +2271,8 @@ Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2249,7 +2301,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2265,7 +2318,8 @@ Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2294,7 +2348,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2313,7 +2368,8 @@ Definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a>.</p>
+
 </div>
 </div>
 
@@ -2342,7 +2398,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2362,7 +2419,8 @@ Definition at line 411 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2391,7 +2449,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2426,7 +2485,8 @@ Definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2455,7 +2515,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981
 
 
 
-Definition at line 450 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 450 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2476,7 +2537,8 @@ Definition at line 450 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2505,7 +2567,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa
 
 
 
-Definition at line 463 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 463 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2521,7 +2584,8 @@ Definition at line 463 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2550,7 +2614,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2566,7 +2631,8 @@ Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2595,7 +2661,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 479 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 479 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2611,7 +2678,8 @@ Definition at line 479 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2640,7 +2708,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2661,7 +2730,8 @@ Definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef927d4b4a32ffa2ec17d">DocHtmlTable::caption</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a8885013add9c26d1ddf36d1412bbd6f9">DocHtmlTable::numColumns</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef927d4b4a32ffa2ec17d">DocHtmlTable::caption</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a8885013add9c26d1ddf36d1412bbd6f9">DocHtmlTable::numColumns</a>, <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2690,7 +2760,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmltable/#a93e3d4a5878ef92
 
 
 
-Definition at line 500 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 500 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2706,7 +2777,8 @@ Definition at line 500 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2735,7 +2807,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2751,7 +2824,8 @@ Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcell/#ace62c55c933434c4f451847fede71851">DocHtmlCell::isHeading</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcell/#ace62c55c933434c4f451847fede71851">DocHtmlCell::isHeading</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2780,7 +2854,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2796,7 +2871,8 @@ Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2825,7 +2901,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 524 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 524 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2841,7 +2918,8 @@ Definition at line 524 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2870,7 +2948,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 532 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 532 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2886,7 +2965,8 @@ Definition at line 532 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a5413d17bd302ad2e43057488bdd96175">DocHRef::url</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/dochref/#a5413d17bd302ad2e43057488bdd96175">DocHRef::url</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2915,7 +2995,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2936,7 +3017,8 @@ Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#a1ed7df1e844ba1aabe4919ed41e784bf">DocHtmlSummary::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#a1ed7df1e844ba1aabe4919ed41e784bf">DocHtmlSummary::attribs</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2965,7 +3047,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlsummary/#a1ed7df1e844ba
 
 
 
-Definition at line 553 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 553 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2991,7 +3074,8 @@ Definition at line 553 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3020,7 +3104,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3036,7 +3121,8 @@ Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3065,7 +3151,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3090,7 +3177,8 @@ Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea725d162f5603b60f365bad17013c5d5a">DocImage::DocBook</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a434782653279e9f1d823656d48fe3e26">DocImage::height</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea11831c0ddc505e031751197b1bab0623">DocImage::Html</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docimage/#ae52199cbb5da4e10ccb3a9b53c4978ac">DocImage::isInlineImage</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaa40720221c0f30f373e9b3a9ec9711e5">DocImage::Latex</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a0c62b3e12569fac905243b891a62d81a">DocImage::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaf742255bd9dc963b18e768c2b7fb7d70">DocImage::Rtf</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a4a7abc635cfbbb0824b1a482b6cb42e9">DocImage::type</a>, <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a79d36f165096668a3d6631efb6e0b4f0">DocImage::width</a> and <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ead2e9647950376dfa87071aa9913b703f">DocImage::Xml</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea725d162f5603b60f365bad17013c5d5a">DocImage::DocBook</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a434782653279e9f1d823656d48fe3e26">DocImage::height</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ea11831c0ddc505e031751197b1bab0623">DocImage::Html</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docimage/#ae52199cbb5da4e10ccb3a9b53c4978ac">DocImage::isInlineImage</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaa40720221c0f30f373e9b3a9ec9711e5">DocImage::Latex</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a0c62b3e12569fac905243b891a62d81a">DocImage::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93eaf742255bd9dc963b18e768c2b7fb7d70">DocImage::Rtf</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a4a7abc635cfbbb0824b1a482b6cb42e9">DocImage::type</a>, <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>, <a href="/web-doxygen/docs/api/classes/docimage/#a79d36f165096668a3d6631efb6e0b4f0">DocImage::width</a> and <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d470c5335be93ead2e9647950376dfa87071aa9913b703f">DocImage::Xml</a>.</p>
+
 </div>
 </div>
 
@@ -3119,7 +3207,8 @@ References <a href="/web-doxygen/docs/api/classes/docimage/#aaa49d1dad195745ff9d
 
 
 
-Definition at line 596 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 596 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3135,7 +3224,8 @@ Definition at line 596 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3164,7 +3254,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3180,7 +3271,8 @@ Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3209,7 +3301,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3225,7 +3318,8 @@ Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3254,7 +3348,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3270,7 +3365,8 @@ Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae48977f85ee8fa8bdf1e85bf963913c6">DocDiagramFileBase::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3299,7 +3395,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3316,7 +3413,8 @@ Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb53216fc9fa26bf61">DocLink::anchor</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a39a863f3f56d0247210911c2381e39f2">DocLink::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a927a404f81961d4545e5ad41e0c4d35a">DocLink::ref</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb53216fc9fa26bf61">DocLink::anchor</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a39a863f3f56d0247210911c2381e39f2">DocLink::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/doclink/#a927a404f81961d4545e5ad41e0c4d35a">DocLink::ref</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3345,7 +3443,8 @@ References <a href="/web-doxygen/docs/api/classes/doclink/#a12c7fd0cd735e1fb5321
 
 
 
-Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3367,7 +3466,8 @@ Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4835b5d7130a">DocRef::anchor</a>, <a href="/web-doxygen/docs/api/classes/docref/#a83619a74c9fc8be97545a13521d5a126">DocRef::file</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docref/#ab1f49243161d41850208e8fde53bd9a5">DocRef::ref</a>, <a href="/web-doxygen/docs/api/classes/docref/#aac58be3cf79d893f928d00006a082d35">DocRef::refToAnchor</a>, <a href="/web-doxygen/docs/api/classes/docref/#ae6fd639341aca7aa93aba2d50f0ff874">DocRef::refToSection</a>, <a href="/web-doxygen/docs/api/classes/docref/#a7f42be6ae37c6e1cfebab418fe6c50c7">DocRef::refToTable</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4835b5d7130a">DocRef::anchor</a>, <a href="/web-doxygen/docs/api/classes/docref/#a83619a74c9fc8be97545a13521d5a126">DocRef::file</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docref/#ab1f49243161d41850208e8fde53bd9a5">DocRef::ref</a>, <a href="/web-doxygen/docs/api/classes/docref/#aac58be3cf79d893f928d00006a082d35">DocRef::refToAnchor</a>, <a href="/web-doxygen/docs/api/classes/docref/#ae6fd639341aca7aa93aba2d50f0ff874">DocRef::refToSection</a>, <a href="/web-doxygen/docs/api/classes/docref/#a7f42be6ae37c6e1cfebab418fe6c50c7">DocRef::refToTable</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3396,7 +3496,8 @@ References <a href="/web-doxygen/docs/api/classes/docref/#a020050a7e2b6bd6438db4
 
 
 
-Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3412,7 +3513,8 @@ Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a66a669e5594d41dd50d2c9ebbebc85e7">DocSecRefItem::target</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a66a669e5594d41dd50d2c9ebbebc85e7">DocSecRefItem::target</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3441,7 +3543,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3457,7 +3560,8 @@ Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3486,7 +3590,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3511,7 +3616,8 @@ Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growvector/#a4e81684f665c9a1a38b5e16cfbe31d41">GrowVector&lt; T &gt;::empty</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growvector/#a4e81684f665c9a1a38b5e16cfbe31d41">GrowVector&lt; T &gt;::empty</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a>.</p>
+
 </div>
 </div>
 
@@ -3540,7 +3646,8 @@ References <a href="/web-doxygen/docs/api/classes/growvector/#a4e81684f665c9a1a3
 
 
 
-Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3565,7 +3672,8 @@ Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aaceeaf36c7f8e7c3a4e47a68453fd130e">DocParamSect::Unknown</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aaceeaf36c7f8e7c3a4e47a68453fd130e">DocParamSect::Unknown</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3594,7 +3702,8 @@ References <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22
 
 
 
-Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3611,7 +3720,8 @@ Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f130d2b3a3cee3e4b5">DocXRefItem::anchor</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#ab4fe34f455483d8db30c22030115bfdf">DocXRefItem::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f130d2b3a3cee3e4b5">DocXRefItem::anchor</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#ab4fe34f455483d8db30c22030115bfdf">DocXRefItem::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3640,7 +3750,8 @@ References <a href="/web-doxygen/docs/api/classes/docxrefitem/#a60de194481baf1f1
 
 
 
-Definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3656,7 +3767,8 @@ Definition at line 710 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73cda323769f8ee3aa7957">DocInternalRef::anchor</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#a770f32c338d58af80aa1db5eee306138">DocInternalRef::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73cda323769f8ee3aa7957">DocInternalRef::anchor</a>, <a href="/web-doxygen/docs/api/classes/docinternalref/#a770f32c338d58af80aa1db5eee306138">DocInternalRef::file</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3685,7 +3797,8 @@ References <a href="/web-doxygen/docs/api/classes/docinternalref/#ae0ccb4c91d73c
 
 
 
-Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3701,7 +3814,8 @@ Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3730,7 +3844,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3746,7 +3861,8 @@ Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3775,7 +3891,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 734 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 734 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3791,7 +3908,8 @@ Definition at line 734 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3820,7 +3938,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3836,7 +3955,8 @@ Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.
+<p>References <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a684a3c285fe974e5e799dbdf1c582bf2">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3872,7 +3992,8 @@ References <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a hre
 
 
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3887,7 +4008,8 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.
+<p>Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3922,7 +4044,8 @@ Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a hr
 
 
 
-Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3936,9 +4059,11 @@ Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1d814e9886c337689b4fc6596c0c181">m\_indent</a> and <a href="#acf31423703be843808a84497c42ff08e">m\_needsEnter</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ac1d814e9886c337689b4fc6596c0c181">m_indent</a> and <a href="#acf31423703be843808a84497c42ff08e">m_needsEnter</a>.</p>
 
-Referenced by <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a> and <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a>.
+
+<p>Referenced by <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a> and <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a>.</p>
+
 </div>
 </div>
 
@@ -3967,7 +4092,8 @@ Referenced by <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a>, <a 
 
 
 
-Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3980,9 +4106,11 @@ Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#acf31423703be843808a84497c42ff08e">m\_needsEnter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#acf31423703be843808a84497c42ff08e">m_needsEnter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a14a6612be847086cb768fefabb79991f">operator()</a>, <a href="#afe433f28083f19e3e5d52d79f47cda34">operator()</a>, <a href="#a8b0c3df81502ad08c0887a26b78061c2">operator()</a>, <a href="#ad7ff8cee58044fc117f9dea3be38d4c7">operator()</a>, <a href="#a9ae905178b07d818e6c4f35eefe80609">operator()</a>, <a href="#a193a00ab964a64974f8207a0da1f51d3">operator()</a>, <a href="#a7dee669b470d18608669baf684a2e707">operator()</a>, <a href="#a4f6c2fb7c0ced2e00742581755c53255">operator()</a>, <a href="#aae1439d9c0fb59cabb3e462a46940d0a">operator()</a>, <a href="#a2d5e3028b9cb94fd52e873e5c4a04411">operator()</a>, <a href="#a0282b0ec74141ff9121fde61cb81b19e">operator()</a>, <a href="#a4f6ce21360e568eab5bfb75b86e7b0aa">operator()</a>, <a href="#a3db4919bff573649528a826a8f75f1f1">operator()</a>, <a href="#a16438c4825791e03c8103b1ffd167c22">operator()</a>, <a href="#a74df130d679f1d46a7896f8400ac51b6">operator()</a>, <a href="#a2deab2ec9a790301cf75ade1ec9bf02a">operator()</a>, <a href="#aed18dc85fa4e2c986036d240902b70cc">operator()</a> and <a href="#a1189a4bc09f26b09b5809fb5382b0a0c">operator()</a>.
+
+<p>Referenced by <a href="#a14a6612be847086cb768fefabb79991f">operator()</a>, <a href="#afe433f28083f19e3e5d52d79f47cda34">operator()</a>, <a href="#a8b0c3df81502ad08c0887a26b78061c2">operator()</a>, <a href="#ad7ff8cee58044fc117f9dea3be38d4c7">operator()</a>, <a href="#a9ae905178b07d818e6c4f35eefe80609">operator()</a>, <a href="#a193a00ab964a64974f8207a0da1f51d3">operator()</a>, <a href="#a7dee669b470d18608669baf684a2e707">operator()</a>, <a href="#a4f6c2fb7c0ced2e00742581755c53255">operator()</a>, <a href="#aae1439d9c0fb59cabb3e462a46940d0a">operator()</a>, <a href="#a2d5e3028b9cb94fd52e873e5c4a04411">operator()</a>, <a href="#a0282b0ec74141ff9121fde61cb81b19e">operator()</a>, <a href="#a4f6ce21360e568eab5bfb75b86e7b0aa">operator()</a>, <a href="#a3db4919bff573649528a826a8f75f1f1">operator()</a>, <a href="#a16438c4825791e03c8103b1ffd167c22">operator()</a>, <a href="#a74df130d679f1d46a7896f8400ac51b6">operator()</a>, <a href="#a2deab2ec9a790301cf75ade1ec9bf02a">operator()</a>, <a href="#aed18dc85fa4e2c986036d240902b70cc">operator()</a> and <a href="#a1189a4bc09f26b09b5809fb5382b0a0c">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4011,7 +4139,8 @@ Referenced by <a href="#a14a6612be847086cb768fefabb79991f">operator()</a>, <a hr
 
 
 
-Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4024,9 +4153,11 @@ Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a> and <a href="#ac1d814e9886c337689b4fc6596c0c181">m\_indent</a>.
+<p>References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a> and <a href="#ac1d814e9886c337689b4fc6596c0c181">m_indent</a>.</p>
 
-Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a3ad488448307ccde3303915e92c56a69">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#af3cf02029125082792d5718aba631a43">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.
+
+<p>Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a3ad488448307ccde3303915e92c56a69">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#af3cf02029125082792d5718aba631a43">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4055,7 +4186,8 @@ Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a hr
 
 
 
-Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4068,9 +4200,11 @@ Definition at line 764 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a> and <a href="#ac1d814e9886c337689b4fc6596c0c181">m\_indent</a>.
+<p>References <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a> and <a href="#ac1d814e9886c337689b4fc6596c0c181">m_indent</a>.</p>
 
-Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a3ad488448307ccde3303915e92c56a69">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#af3cf02029125082792d5718aba631a43">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.
+
+<p>Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a href="#ab5133a625c11856cb35bcd33160f5f3c">operator()</a>, <a href="#a3d0936ff077c5a7bec4ac06a7d1ee763">operator()</a>, <a href="#aae01a9e39e11d84ea627568988bd2754">operator()</a>, <a href="#a1ac1a7a6905624908ed5af405589ced4">operator()</a>, <a href="#a2e4fa9b5c3e8b3747672679f5fd7ff0e">operator()</a>, <a href="#a1e75d31cfe9811d236500dee172870cc">operator()</a>, <a href="#ab8ac25c7310c1f2ad95e401967404efa">operator()</a>, <a href="#a70d5defc4901d6b8d318a20cd8e67348">operator()</a>, <a href="#aded2c6788a165df8b73c3e0c0e384f1d">operator()</a>, <a href="#a9b58cfff11bb9d3bee01020f847b7e25">operator()</a>, <a href="#aced90253c233a0d8f62b5466429408f0">operator()</a>, <a href="#a699f603f3208cebae8295fe330963979">operator()</a>, <a href="#a98adb13be89d3cf7a38d437f0651e757">operator()</a>, <a href="#afca508aaeaec816fd6bd99e2c9c1211a">operator()</a>, <a href="#ae8203e86d70920c6710eb8b83be0ff1b">operator()</a>, <a href="#a9c72fa42dfa620a7e76e87796cc796f8">operator()</a>, <a href="#a781c65343949306e386679f695721435">operator()</a>, <a href="#ad4c0764dcc811dec5e635dbd8b3d441f">operator()</a>, <a href="#a599267857ea61050ef29d9e5a834cad6">operator()</a>, <a href="#a6ba2a392ae9bdd19b4bc6f54b7b4aeff">operator()</a>, <a href="#a64fdcaf512e042702ba950eccb8a515c">operator()</a>, <a href="#a8f86d589ca4a487d829014e0c4e2f260">operator()</a>, <a href="#aca171b3e885e7a76e89a8c56ab946c49">operator()</a>, <a href="#a3ad488448307ccde3303915e92c56a69">operator()</a>, <a href="#a6a1887d8cac48132d1f0b4db97d4f9e8">operator()</a>, <a href="#aeee572a2e3f060ab8343bcc4dc587d63">operator()</a>, <a href="#a8aae96f31793267582a0ad596592b27e">operator()</a>, <a href="#acb70232f5bd9c569609750457e242832">operator()</a>, <a href="#a97c71f1cee8f241d83abe6a68a5c98a6">operator()</a>, <a href="#a8af211f97fb664a7e78e6916d9475b66">operator()</a>, <a href="#a92edb31fee768e3a1567f80c2edc5f7d">operator()</a>, <a href="#ab51a5d1cedc08eafa4890edc2d4cd4e1">operator()</a>, <a href="#a518bc8958a513f48c2301d6b89d569cf">operator()</a>, <a href="#af3cf02029125082792d5718aba631a43">operator()</a>, <a href="#a1302af218f73141f01cbc50e9704e8b6">operator()</a>, <a href="#a3f9f48b51b28d6e6e5ae6b7cc28bdb46">operator()</a>, <a href="#a3efe87d5293fef6e35c3f21703e274bf">operator()</a>, <a href="#a727af4b9f0c58bf1a56bc0db15ce947a">operator()</a> and <a href="#a8ada83e970e62ab6d53cf20aaa658a8d">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4100,7 +4234,8 @@ Referenced by <a href="#abe9f9bf4477044e81bd41f42d89a93d2">operator()</a>, <a hr
 
 
 
-Definition at line 776 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 776 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4109,7 +4244,8 @@ Definition at line 776 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Referenced by <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent\_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent\_pre</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.
+<p>Referenced by <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#afbd49992048e059667e1b60023f5b71d">indent_post</a>, <a href="#ae0a1eed7cd4c67d14ed2b97130511250">indent_pre</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.</p>
+
 </div>
 </div>
 
@@ -4133,7 +4269,8 @@ Referenced by <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="
 
 
 
-Definition at line 778 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 778 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4142,7 +4279,8 @@ Definition at line 778 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Referenced by <a href="#aed18dc85fa4e2c986036d240902b70cc">operator()</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.
+<p>Referenced by <a href="#aed18dc85fa4e2c986036d240902b70cc">operator()</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.</p>
+
 </div>
 </div>
 
@@ -4166,7 +4304,8 @@ Referenced by <a href="#aed18dc85fa4e2c986036d240902b70cc">operator()</a> and <a
 
 
 
-Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.
+<p>Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/printdocvisitor-h">printdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4175,7 +4314,8 @@ Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/printdoc
 </div>
 
 
-Referenced by <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent\_leaf</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.
+<p>Referenced by <a href="#a845dbd3ae2411806af834800ba1c0c5d">indent</a>, <a href="#a08f938ae14c9102bb86ad51eab58a2b4">indent_leaf</a> and <a href="#a67435323587e5a301e8839b42c2112f2">PrintDocVisitor</a>.</p>
+
 </div>
 </div>
 

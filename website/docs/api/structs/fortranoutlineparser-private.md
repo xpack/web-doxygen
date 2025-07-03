@@ -90,7 +90,8 @@ struct FortranOutlineParser::Private { ... }
 </table>
 
 
-Definition at line 3329 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3329 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 3329 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 3334 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3334 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -136,7 +138,8 @@ Definition at line 3334 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a04acd996bd4b1125f80d12669ddfd27b">extra</a>, <a href="#a80536a5e3f6b3715553d3c0c108e4c1f">format</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da091a33c7c46121c2ed6ca91caf90462e">Debug::Lex\_fortranscanner</a> and <a href="#a9fceca25b1c7e5269c23ec7b3cbfaef7">yyscanner</a>.
+<p>References <a href="#a04acd996bd4b1125f80d12669ddfd27b">extra</a>, <a href="#a80536a5e3f6b3715553d3c0c108e4c1f">format</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da091a33c7c46121c2ed6ca91caf90462e">Debug::Lex_fortranscanner</a> and <a href="#a9fceca25b1c7e5269c23ec7b3cbfaef7">yyscanner</a>.</p>
+
 </div>
 </div>
 
@@ -166,7 +169,8 @@ References <a href="#a04acd996bd4b1125f80d12669ddfd27b">extra</a>, <a href="#a80
 
 
 
-Definition at line 3332 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3332 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +179,8 @@ Definition at line 3332 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
+<p>Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.</p>
+
 </div>
 </div>
 
@@ -199,7 +204,8 @@ Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
 
 
 
-Definition at line 3333 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3333 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -208,7 +214,8 @@ Definition at line 3333 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
+<p>Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.</p>
+
 </div>
 </div>
 
@@ -232,7 +239,8 @@ Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
 
 
 
-Definition at line 3331 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3331 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -241,7 +249,8 @@ Definition at line 3331 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.
+<p>Referenced by <a href="#a775249ff6240140781b373d7c12de338">Private</a>.</p>
+
 </div>
 </div>
 

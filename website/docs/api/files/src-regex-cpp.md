@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a>
+<p>Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/namespaces/reg/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -60,7 +60,7 @@ Namespace for the regular expression functions. <a href="/web-doxygen/docs/api/n
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a>
+<p>Class representing a token in the compiled regular expression token stream. <a href="/web-doxygen/docs/api/classes/reg/ptoken/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ Class representing a token in the compiled regular expression token stream. <a h
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/private/#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="/web-doxygen/docs/api/classes/reg/ex/private/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -140,7 +140,8 @@ Class representing a token in the compiled regular expression token stream. <a h
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -171,7 +172,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

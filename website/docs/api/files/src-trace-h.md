@@ -57,7 +57,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper class to trace an entry statement at creation and another one at destruction. <a href="/web-doxygen/docs/api/classes/autotrace/#details">More...</a>
+<p>Helper class to trace an entry statement at creation and another one at destruction. <a href="/web-doxygen/docs/api/classes/autotrace/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -265,7 +265,8 @@ Helper class to trace an entry statement at creation and another one at destruct
 
 
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -280,9 +281,11 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a5cba80b7682f3c7fb87a3a34c9b9cef8">g\_tracer</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a5cba80b7682f3c7fb87a3a34c9b9cef8">g_tracer</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f01f3ca33f0c1e062153fbf59c552a3">stopDoxygen</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f01f3ca33f0c1e062153fbf59c552a3">stopDoxygen</a>.</p>
+
 </div>
 </div>
 
@@ -306,7 +309,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -343,9 +347,11 @@ Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a5cba80b7682f3c7fb87a3a34c9b9cef8">g\_tracer</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a5cba80b7682f3c7fb87a3a34c9b9cef8">g_tracer</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.</p>
+
 </div>
 </div>
 
@@ -375,7 +381,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 
 
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>, definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/trace-cpp">trace.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,7 +391,8 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/autotrace/#acfa6eaddb2b7bfd6bfca73321b80e8ba">AutoTrace::add</a>, <a href="/web-doxygen/docs/api/classes/autotrace/#a232c02242ad1c8822d71ce108ee0c084">AutoTrace::AutoTrace</a>, <a href="/web-doxygen/docs/api/classes/autotrace/#a121e03a3e610d9d91e97aca3aee4aef3">AutoTrace::AutoTrace</a>, <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a2654f31d3e6657458883d0efb1a474c5">exitTracing</a>, <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a94476ca22ba9fc237ecdad6bf2a4c5e8">initTracing</a> and <a href="/web-doxygen/docs/api/classes/autotrace/#a63ff9e892c88faa5df232fb42a551d45">AutoTrace::\~AutoTrace</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/autotrace/#acfa6eaddb2b7bfd6bfca73321b80e8ba">AutoTrace::add</a>, <a href="/web-doxygen/docs/api/classes/autotrace/#a232c02242ad1c8822d71ce108ee0c084">AutoTrace::AutoTrace</a>, <a href="/web-doxygen/docs/api/classes/autotrace/#a121e03a3e610d9d91e97aca3aee4aef3">AutoTrace::AutoTrace</a>, <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a2654f31d3e6657458883d0efb1a474c5">exitTracing</a>, <a href="/web-doxygen/docs/api/files/src/trace-cpp/#a94476ca22ba9fc237ecdad6bf2a4c5e8">initTracing</a> and <a href="/web-doxygen/docs/api/classes/autotrace/#a63ff9e892c88faa5df232fb42a551d45">AutoTrace::~AutoTrace</a>.</p>
+
 </div>
 </div>
 
@@ -414,7 +422,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/autotrace/#acfa6eaddb2b7bfd
 
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -445,7 +454,8 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 
 
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -476,7 +486,8 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 
 
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -507,7 +518,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/trace-h"
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -538,7 +550,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -569,7 +582,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -600,7 +614,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 
 
 
-Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -631,7 +646,8 @@ Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -662,7 +678,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/trace-h">trace.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -671,7 +688,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/trace-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acf309728fac71ec225044c1afe6ae9f7">computeVerifiedDotPath</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acf309728fac71ec225044c1afe6ae9f7">computeVerifiedDotPath</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.</p>
+
 </div>
 </div>
 

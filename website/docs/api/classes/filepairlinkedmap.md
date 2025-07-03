@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FilePairLinkedMap` Class Reference
 
-A linked map of file pairs. <a href="#details">More...</a>
+<p>A linked map of file pairs. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class FilePairLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,9 +52,10 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 
 ## Description {#details}
 
-A linked map of file pairs.
+<p>A linked map of file pairs.</p>
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 
 <hr/>
 

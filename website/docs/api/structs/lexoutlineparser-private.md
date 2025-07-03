@@ -58,7 +58,8 @@ struct LexOutlineParser::Private { ... }
 </table>
 
 
-Definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 997 of file <a href="/web-doxygen/docs/api/files/src/lexscann
 
 
 
-Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 1000 of file <a href="/web-doxygen/docs/api/files/src/lexscan
 
 
 
-Definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.
+<p>Definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/lexscanner-l">lexscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -178,7 +178,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,9 +207,11 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a60d30e2e6c2496b226540c48f7a6fca7">g\_dotFontPath</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#a60d30e2e6c2496b226540c48f7a6fca7">g_dotFontPath</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>.</p>
+
 </div>
 </div>
 
@@ -237,7 +240,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -257,9 +261,11 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">
 </div>
 
 
-References <a href="#a60d30e2e6c2496b226540c48f7a6fca7">g\_dotFontPath</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.
+<p>References <a href="#a60d30e2e6c2496b226540c48f7a6fca7">g_dotFontPath</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>.</p>
+
 </div>
 </div>
 
@@ -283,7 +289,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e
 
 
 
-Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -332,9 +339,11 @@ Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aa225ccd454acbadc5b6a23d9534e574f">DotRunner::addJob</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a251399cde30dd4c356bbd5634c6eb472">Config\_getEnumAsString</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#a2c9b6af873f263c04913504d0f420274">DotRunner::preventCleanUp</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aa225ccd454acbadc5b6a23d9534e574f">DotRunner::addJob</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a251399cde30dd4c356bbd5634c6eb472">Config_getEnumAsString</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#a2c9b6af873f263c04913504d0f420274">DotRunner::preventCleanUp</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5e78b0ed5635b833b739d63dafe452ff">DocbookDocVisitor::startDotFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa197e546b10f737e78020b97fdf23cb9">LatexDocVisitor::startDotFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0bf39b3fd2c1a92324de55df8009ed60">DocbookDocVisitor::writeDotFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3264ee5213c549e45cd13604e62e7719">HtmlDocVisitor::writeDotFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a286a80b0680a1b0defb947466bea6762">RTFDocVisitor::writeDotFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5e78b0ed5635b833b739d63dafe452ff">DocbookDocVisitor::startDotFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa197e546b10f737e78020b97fdf23cb9">LatexDocVisitor::startDotFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0bf39b3fd2c1a92324de55df8009ed60">DocbookDocVisitor::writeDotFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3264ee5213c549e45cd13604e62e7719">HtmlDocVisitor::writeDotFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a286a80b0680a1b0defb947466bea6762">RTFDocVisitor::writeDotFile</a>.</p>
+
 </div>
 </div>
 
@@ -359,7 +368,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5e78b0e
 
 
 
-Writes user defined image map to the output.
+<p>Writes user defined image map to the output.</p>
+
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -367,45 +377,46 @@ Writes user defined image map to the output.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">t</td>
-<td class="doxyParamItemDescription">text stream to write to</td>
+<td class="doxyParamItemDescription"><p>text stream to write to</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">inFile</td>
-<td class="doxyParamItemDescription">just the basename part of the filename</td>
+<td class="doxyParamItemDescription"><p>just the basename part of the filename</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">outDir</td>
-<td class="doxyParamItemDescription">output directory</td>
+<td class="doxyParamItemDescription"><p>output directory</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">relPath</td>
-<td class="doxyParamItemDescription">relative path the to root of the output dir</td>
+<td class="doxyParamItemDescription"><p>relative path the to root of the output dir</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">baseName</td>
-<td class="doxyParamItemDescription">the base name of the output files</td>
+<td class="doxyParamItemDescription"><p>the base name of the output files</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">context</td>
-<td class="doxyParamItemDescription">the scope in which this graph is found (for resolving links)</td>
+<td class="doxyParamItemDescription"><p>the scope in which this graph is found (for resolving links)</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">graphId</td>
-<td class="doxyParamItemDescription">a unique id for this graph, use for dynamic sections</td>
+<td class="doxyParamItemDescription"><p>a unique id for this graph, use for dynamic sections</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">srcFile</td>
-<td class="doxyParamItemDescription">the source file</td>
+<td class="doxyParamItemDescription"><p>the source file</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">srcLine</td>
-<td class="doxyParamItemDescription">the line number in the source file</td>
+<td class="doxyParamItemDescription"><p>the line number in the source file</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -462,9 +473,11 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aa225ccd454acbadc5b6a23d9534e574f">DotRunner::addJob</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#aac97171a3985fd07e09fef2a25819a16">DotFilePatcher::addSVGConversion</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a0859a9bfd6a7b6bafc7050d9f3aef046">TextStream::empty</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="#a8e61450eb94b16e866568ad3aed2d9f1">MAP\_CMD</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#a2c9b6af873f263c04913504d0f420274">DotRunner::preventCleanUp</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b1817e1d1de1732e4c4f9069c">DotFilePatcher::writeSVGFigureLink</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aa225ccd454acbadc5b6a23d9534e574f">DotRunner::addJob</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#aac97171a3985fd07e09fef2a25819a16">DotFilePatcher::addSVGConversion</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a0859a9bfd6a7b6bafc7050d9f3aef046">TextStream::empty</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="#a8e61450eb94b16e866568ad3aed2d9f1">MAP_CMD</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#a2c9b6af873f263c04913504d0f420274">DotRunner::preventCleanUp</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#ae41b4e8b1817e1d1de1732e4c4f9069c">DotFilePatcher::writeSVGFigureLink</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3264ee5213c549e45cd13604e62e7719">HtmlDocVisitor::writeDotFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3264ee5213c549e45cd13604e62e7719">HtmlDocVisitor::writeDotFile</a>.</p>
+
 </div>
 </div>
 
@@ -499,7 +512,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3264ee5213
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -508,7 +522,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">
 </div>
 
 
-Referenced by <a href="#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> and <a href="#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a>.
+<p>Referenced by <a href="#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> and <a href="#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a>.</p>
+
 </div>
 </div>
 
@@ -537,7 +552,8 @@ Referenced by <a href="#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> an
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -546,7 +562,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a250e1025f4793941521d21081df9511f">DotManager::createFilePatcher</a> and <a href="/web-doxygen/docs/api/classes/dotmanager/#affaee30a9c348252f29053e3dc53c77f">DotManager::createRunner</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a250e1025f4793941521d21081df9511f">DotManager::createFilePatcher</a> and <a href="/web-doxygen/docs/api/classes/dotmanager/#affaee30a9c348252f29053e3dc53c77f">DotManager::createRunner</a>.</p>
+
 </div>
 </div>
 
@@ -576,7 +593,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a250e1025f47939
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">dot.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -585,7 +603,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dot-cpp">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a> and <a href="#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a> and <a href="#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.</p>
+
 </div>
 </div>
 

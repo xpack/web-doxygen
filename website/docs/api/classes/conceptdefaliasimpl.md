@@ -349,7 +349,8 @@ class ConceptDefAliasImpl { ... }
 </table>
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -380,7 +381,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/conceptde
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -390,7 +392,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; ConceptDef &gt;::DefinitionAliasMixin</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; ConceptDef &gt;::init</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; ConceptDef &gt;::DefinitionAliasMixin</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; ConceptDef &gt;::init</a>.</p>
+
 </div>
 </div>
 
@@ -425,7 +428,8 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -434,7 +438,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; ConceptDef &gt;::deinit</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; ConceptDef &gt;::deinit</a>.</p>
+
 </div>
 </div>
 
@@ -471,9 +476,11 @@ Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9
 
 
 
-Returns the anchor within a page where this item can be found
+<p>Returns the anchor within a page where this item can be found</p>
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -483,7 +490,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -514,9 +522,11 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Used for syntax highlighting symbol class
+<p>Used for syntax highlighting symbol class</p>
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -526,7 +536,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -557,9 +568,11 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca7
 
 
 
-Use this for dynamic inspection of the type of the derived class
+<p>Use this for dynamic inspection of the type of the derived class</p>
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -568,7 +581,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>.</p>
+
 </div>
 </div>
 
@@ -599,9 +613,11 @@ Reference <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf7
 
 
 
-Returns the name of the definition as it appears in the output
+<p>Returns the name of the definition as it appears in the output</p>
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -611,7 +627,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a> and <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -640,7 +657,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac17
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -649,9 +667,11 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; ConceptDef &gt;::getAlias</a>, <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#a8aca54b155c35ee664b836f60a6f3af3">toConceptDef</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; ConceptDef &gt;::getAlias</a>, <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#a8aca54b155c35ee664b836f60a6f3af3">toConceptDef</a>.</p>
 
-Referenced by <a href="#a3fd09c405fe01ce70bb3a99cf730868f">anchor</a>, <a href="#a7ab7913e0417208a4910c69c5f4fbbb4">codeSymbolType</a>, <a href="#a643c0701173303e22e01d600aee2d119">displayName</a>, <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>, <a href="#aa671cbcf01bbf8c35cf41d13ac9d6893">getFileDef</a>, <a href="#a522e825388ef007a54952f47999dc4f1">getModuleDef</a>, <a href="#a431f10112903420524c8ed80e3977b75">getNamespaceDef</a>, <a href="#a2568c49778e6417b9bfd729faecbd8b3">getOutputFileBase</a>, <a href="#ada336bffb7556bec4919c4e22b61b5a9">getReference</a>, <a href="#a9671c75fea49e1cbf0d24f70cfdb5649">getTemplateParameterList</a>, <a href="#a62b03a6340cf9cba13660cd2ee4f788c">groupId</a>, <a href="#a779cb6cecef73ed77f3753ab2d5133ca">hasDetailedDescription</a>, <a href="#a748463776e82566bf28a107112c91906">includeInfo</a>, <a href="#a6e1277dac905c15297702f979b78f424">initializer</a>, <a href="#a56cd612dd2c4890a7ef6ebbf60eb4958">isLinkable</a>, <a href="#a63e173702a3ebb1504dadf4cd8441357">isLinkableInProject</a>, <a href="#af22bbabcd73b75d167a3fbc50374a0ea">isReference</a>, <a href="#ac743fbe417cb5acf1f79e6369f357720">title</a> and <a href="#aa2734a1141fc21435d070d167ac98048">writeDeclarationLink</a>.
+
+<p>Referenced by <a href="#a3fd09c405fe01ce70bb3a99cf730868f">anchor</a>, <a href="#a7ab7913e0417208a4910c69c5f4fbbb4">codeSymbolType</a>, <a href="#a643c0701173303e22e01d600aee2d119">displayName</a>, <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a>, <a href="#aa671cbcf01bbf8c35cf41d13ac9d6893">getFileDef</a>, <a href="#a522e825388ef007a54952f47999dc4f1">getModuleDef</a>, <a href="#a431f10112903420524c8ed80e3977b75">getNamespaceDef</a>, <a href="#a2568c49778e6417b9bfd729faecbd8b3">getOutputFileBase</a>, <a href="#ada336bffb7556bec4919c4e22b61b5a9">getReference</a>, <a href="#a9671c75fea49e1cbf0d24f70cfdb5649">getTemplateParameterList</a>, <a href="#a62b03a6340cf9cba13660cd2ee4f788c">groupId</a>, <a href="#a779cb6cecef73ed77f3753ab2d5133ca">hasDetailedDescription</a>, <a href="#a748463776e82566bf28a107112c91906">includeInfo</a>, <a href="#a6e1277dac905c15297702f979b78f424">initializer</a>, <a href="#a56cd612dd2c4890a7ef6ebbf60eb4958">isLinkable</a>, <a href="#a63e173702a3ebb1504dadf4cd8441357">isLinkableInProject</a>, <a href="#af22bbabcd73b75d167a3fbc50374a0ea">isReference</a>, <a href="#ac743fbe417cb5acf1f79e6369f357720">title</a> and <a href="#aa2734a1141fc21435d070d167ac98048">writeDeclarationLink</a>.</p>
+
 </div>
 </div>
 
@@ -681,7 +701,8 @@ Referenced by <a href="#a3fd09c405fe01ce70bb3a99cf730868f">anchor</a>, <a href="
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -691,7 +712,8 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f995d74cc66d5399">ConceptDef::getFileDef</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aeb0ed9ee2cbf2c93f995d74cc66d5399">ConceptDef::getFileDef</a>.</p>
+
 </div>
 </div>
 
@@ -721,7 +743,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -731,7 +754,8 @@ Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aa22d1722d752a5036bbf9e7740ce627f">ConceptDef::getModuleDef</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aa22d1722d752a5036bbf9e7740ce627f">ConceptDef::getModuleDef</a>.</p>
+
 </div>
 </div>
 
@@ -761,7 +785,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -771,7 +796,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a9c3f2f2547ecee0747b50d7fc06e04ef">ConceptDef::getNamespaceDef</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a9c3f2f2547ecee0747b50d7fc06e04ef">ConceptDef::getNamespaceDef</a>.</p>
+
 </div>
 </div>
 
@@ -802,9 +828,11 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.
+<p>Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.</p>
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -814,7 +842,8 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.</p>
+
 </div>
 </div>
 
@@ -845,9 +874,11 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-If this definition was imported via a tag file, this function returns the tagfile for the external project. This can be translated into an external link target via Doxygen::tagDestinationDict
+<p>If this definition was imported via a tag file, this function returns the tagfile for the external project. This can be translated into an external link target via Doxygen::tagDestinationDict</p>
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -857,7 +888,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>.</p>
+
 </div>
 </div>
 
@@ -887,7 +919,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -897,7 +930,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a3dc85d76254ee240faaf13633a0639ba">ConceptDef::getTemplateParameterList</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a3dc85d76254ee240faaf13633a0639ba">ConceptDef::getTemplateParameterList</a>.</p>
+
 </div>
 </div>
 
@@ -927,7 +961,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -937,7 +972,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#ad913c61003e396a42d00f5a95cbbbeaf">ConceptDef::groupId</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#ad913c61003e396a42d00f5a95cbbbeaf">ConceptDef::groupId</a>.</p>
+
 </div>
 </div>
 
@@ -967,7 +1003,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -977,7 +1014,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#accb00801461a766bf65806e07f241faa">ConceptDef::hasDetailedDescription</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#accb00801461a766bf65806e07f241faa">ConceptDef::hasDetailedDescription</a>.</p>
+
 </div>
 </div>
 
@@ -1007,7 +1045,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1017,7 +1056,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a4a1c84ee0b30b5f9ccd3df69135b57b8">ConceptDef::includeInfo</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a4a1c84ee0b30b5f9ccd3df69135b57b8">ConceptDef::includeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -1047,7 +1087,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1057,7 +1098,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a1d3f52dc1f9634dfa1f1c0702f918e81">ConceptDef::initializer</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a1d3f52dc1f9634dfa1f1c0702f918e81">ConceptDef::initializer</a>.</p>
+
 </div>
 </div>
 
@@ -1088,9 +1130,11 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.
+<p>Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1100,7 +1144,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.</p>
+
 </div>
 </div>
 
@@ -1131,9 +1176,11 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item within this project.
+<p>Returns TRUE iff it is possible to link to this item within this project.</p>
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1143,7 +1190,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.</p>
+
 </div>
 </div>
 
@@ -1174,9 +1222,11 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Returns TRUE if this definition is imported via a tag file.
+<p>Returns TRUE if this definition is imported via a tag file.</p>
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1186,7 +1236,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>.</p>
+
 </div>
 </div>
 
@@ -1216,7 +1267,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1226,7 +1278,8 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aa525b7f265d7f3d5ccb94b368cd2386f">ConceptDef::title</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#aa525b7f265d7f3d5ccb94b368cd2386f">ConceptDef::title</a>.</p>
+
 </div>
 </div>
 
@@ -1256,7 +1309,8 @@ References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a hr
 
 
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp">conceptdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1267,7 +1321,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/conceptd
 </div>
 
 
-References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a825b1919254a35b14906922cc2fb2c60">ConceptDef::writeDeclarationLink</a>.
+<p>References <a href="#ab1feaee394182b5b6c31dc504e2bdd88">getCdAlias</a> and <a href="/web-doxygen/docs/api/classes/conceptdef/#a825b1919254a35b14906922cc2fb2c60">ConceptDef::writeDeclarationLink</a>.</p>
+
 </div>
 </div>
 

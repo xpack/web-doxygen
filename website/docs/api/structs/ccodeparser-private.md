@@ -58,7 +58,8 @@ struct CCodeParser::Private { ... }
 </table>
 
 
-Definition at line 4060 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 4060 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 4060 of file <a href="/web-doxygen/docs/api/files/src/code-l"
 
 
 
-Definition at line 4063 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 4063 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 4063 of file <a href="/web-doxygen/docs/api/files/src/code-l"
 
 
 
-Definition at line 4062 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 4062 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

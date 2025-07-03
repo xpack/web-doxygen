@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ManDocVisitor` Class Reference
 
-Concrete visitor implementation for LaTeX output. <a href="#details">More...</a>
+<p>Concrete visitor implementation for LaTeX output. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ManDocVisitor { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper base class for functionality shared by all visitors. <a href="/web-doxygen/docs/api/classes/docvisitor/#details">More...</a>
+<p>Helper base class for functionality shared by all visitors. <a href="/web-doxygen/docs/api/classes/docvisitor/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -995,9 +995,10 @@ Helper base class for functionality shared by all visitors. <a href="/web-doxyge
 
 ## Description {#details}
 
-Concrete visitor implementation for LaTeX output.
+<p>Concrete visitor implementation for LaTeX output.</p>
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -1023,7 +1024,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvis
 
 
 
-Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1037,7 +1039,8 @@ Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m\_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m\_insidePre</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m\_langExt</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m_insidePre</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m_langExt</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1067,7 +1070,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1081,7 +1085,8 @@ Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a> and <a href="/web-doxygen/docs/api/classes/docword/#af9ecbc2daa4fb051a07c510ab0a7d461">DocWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1105,7 +1110,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1121,7 +1127,8 @@ Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="/web-doxygen/docs/api/classes/doclinkedword/#a99a9908a9068fadb25871975cc41a507">DocLinkedWord::word</a>.</p>
+
 </div>
 </div>
 
@@ -1145,7 +1152,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1167,7 +1175,8 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3efa8f4e7d9fce2352023">DocWhiteSpace::chars</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m\_insidePre</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/docwhitespace/#a9e8fbf6c6ca3efa8f4e7d9fce2352023">DocWhiteSpace::chars</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m_insidePre</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1191,7 +1200,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 
 
 
-Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1214,7 +1224,8 @@ Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ae69bb690ab38e84854b912b68e71cf79">HtmlEntityMapper::man</a> and <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#a9170301bb5ed20abd90f396a53e3e1f7">HtmlEntityMapper::instance</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/htmlentitymapper/#ae69bb690ab38e84854b912b68e71cf79">HtmlEntityMapper::man</a> and <a href="/web-doxygen/docs/api/classes/docsymbol/#a904ef70c86c562216950a0fbfc423f84">DocSymbol::symbol</a>.</p>
+
 </div>
 </div>
 
@@ -1238,7 +1249,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1260,7 +1272,8 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a07de0cec2007bc102188a656a354b8b9">DocEmoji::index</a>, <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a6b4ebc91738fb8f8af7459346a86f49b">EmojiEntityMapper::instance</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docemoji/#a5c754f3d5f362c43008fe6bf6d11147a">DocEmoji::name</a> and <a href="/web-doxygen/docs/api/classes/emojientitymapper/#a33137ef11c5d63f6f7d7a27c01db943e">EmojiEntityMapper::name</a>.</p>
+
 </div>
 </div>
 
@@ -1284,7 +1297,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1298,7 +1312,8 @@ Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="/web-doxygen/docs/api/classes/docurl/#a06354fa0923e369dc58da474622528a0">DocURL::url</a>.</p>
+
 </div>
 </div>
 
@@ -1322,7 +1337,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1336,7 +1352,8 @@ Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1360,7 +1377,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1375,7 +1393,8 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1399,7 +1418,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1474,7 +1494,8 @@ Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m\_insidePre</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a807d9b8b8360cb61511e5ea56237c306">DocStyleChange::Bold</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ae4330ac7dbaf5ee725a5813109f1854a">DocStyleChange::Center</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a4fd52aeff707aa62ec5f03f5cca312e6">DocStyleChange::Cite</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad1c85e30cf1da2bdb0de2f1fe2690aa2">DocStyleChange::Code</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a0417c5d59bbd1a5c8fb87853ae58dc63">DocStyleChange::Del</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afd9182e9d7bff25af5c122b0dbc41fb1">DocStyleChange::Div</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#ac8a8c808b962cc17665ab52937b8bd78">DocStyleChange::enable</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad4de98733a18ab2f074935240873fdae">DocStyleChange::Ins</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a8c32aed981a8fef9dab678551395440d">DocStyleChange::Italic</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ad048174170b3f3fc9aa377ef27324a97">DocStyleChange::Kbd</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a9f8f69bc7068b52c3a58c132226d8dd1">m_insidePre</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a170e0ef8c35d36cb6d94c9210373a817">DocStyleChange::Preformatted</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a55596f97583b8bab6927a66ea8f869d5">DocStyleChange::S</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a78ba2b4ff14390fbf298b4d232a469bc">DocStyleChange::Small</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277ab8e6f97aabed0d46a7cb62007fbb825f">DocStyleChange::Span</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277afbc227d38530df65d31a768c8c68a54e">DocStyleChange::Strike</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a56d079390f264e34af453a015bd2e2c9">DocStyleChange::style</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a5b36fd18bd9fcf1410577a6958997438">DocStyleChange::Subscript</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a7883a437d4ca4973a9cb59231980004f">DocStyleChange::Superscript</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a6779a1e8815fc7b3a0a95e05166b5e85">DocStyleChange::Typewriter</a> and <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39228c90693491a56d277a75800ad1019038b22142b5a760df10a4">DocStyleChange::Underline</a>.</p>
+
 </div>
 </div>
 
@@ -1498,7 +1519,8 @@ References <a href="/web-doxygen/docs/api/classes/docstylechange/#a97757d2d85c39
 
 
 
-Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1563,7 +1585,8 @@ Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a58a8316261706c1b74b8396742bf86b8">DocVerbatim::context</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a77801c92a718d54461dd551f0c5ed235">DocVerbatim::exampleFile</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6d584858761afb81c76d1c85e19438e9">getLanguageFromCodeLang</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a56e82d369d1af07c80e299d33a5836ea">DocVerbatim::isExample</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a330cfad3caad6395b0afe3ebbf7d3dcf">DocVerbatim::language</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m\_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m\_langExt</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a5237d98c668e1c746648c77e62e18fe4">DocVerbatim::Code</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a58a8316261706c1b74b8396742bf86b8">DocVerbatim::context</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a18bd2b8d2df70a8423919cf6dd4d33e1">DocVerbatim::DocbookOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a792fd26984aba5cab5b5bc235d705bd1">DocVerbatim::Dot</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a77801c92a718d54461dd551f0c5ed235">DocVerbatim::exampleFile</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6d584858761afb81c76d1c85e19438e9">getLanguageFromCodeLang</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a8abc5ca69c3762e97cffaacc244457f1">DocVerbatim::HtmlOnly</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a56e82d369d1af07c80e299d33a5836ea">DocVerbatim::isExample</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a2b815ee5bcc8575d0bd8f2eec2eff302">DocVerbatim::JavaDocCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac7616766260c93e27d7490271ef110a4">DocVerbatim::JavaDocLiteral</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a330cfad3caad6395b0afe3ebbf7d3dcf">DocVerbatim::language</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ac5a4818987c756de7d336c3d7ad04173">DocVerbatim::LatexOnly</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m_langExt</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a578f19d38fb29903c3f55aea4f76bccb">DocVerbatim::ManOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36aa841d77afafe62444561766f255fda8b">DocVerbatim::Msc</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a3291e7fae70d3ccc1ee0e306d7150012">DocVerbatim::PlantUML</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a53b96b0c5ba74d8884669c178eb88bf9">DocVerbatim::RtfOnly</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a7570e40ac3f0b1bb946c81aa1f384d2f">DocVerbatim::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#a643407838e6684602459062da9f9d2ec">DocVerbatim::type</a>, <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36a6c1b77a564f7f47346627a07de09c251">DocVerbatim::Verbatim</a> and <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369b95f4e34fb11fa36ad30f4dea69d46825ffdf21d1748e3715">DocVerbatim::XmlOnly</a>.</p>
+
 </div>
 </div>
 
@@ -1587,7 +1610,8 @@ References <a href="/web-doxygen/docs/api/classes/docverbatim/#ad8c770dcf2e62369
 
 
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1621,7 +1645,8 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1721,7 +1746,8 @@ Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docinclude/#a0a32ad9c12a12a6664dd90ba2c141c26">DocInclude::blockId</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#afe43ae68ec1e5cb184ab7a3e63b40556">DocInclude::context</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a9541ad25c955f690e228a07e6d1c0093">DocInclude::exampleFile</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a1201f943eb5e45821291843810df8a51">DocInclude::extension</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ad2dce3078cd4a33bf3923066b2c79957">DocInclude::file</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a6b0cbb8f093db7897882856c9172886e">CodeFragmentManager::instance</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#af001e0f412f5189fc3f7105b402996d6">DocInclude::isExample</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m\_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a6d2679020b534464d254f0dea85cded1">DocInclude::stripCodeComments</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ab2a402fcaf6d3c4ecce0cd7647c0e339">DocInclude::text</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ae9583c0c22fe5031fc50b95cbabef0c0">DocInclude::trimLeft</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docinclude/#a0a32ad9c12a12a6664dd90ba2c141c26">DocInclude::blockId</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#afe43ae68ec1e5cb184ab7a3e63b40556">DocInclude::context</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaef9a97c613611ae895729e6f78c1fc83">DocInclude::DocbookInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafae754cf246a0a671e43c28d1b36c87d9b">DocInclude::DontInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa784c71fd6745f7f5a294b7855d8fea0a">DocInclude::DontIncWithLines</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a9541ad25c955f690e228a07e6d1c0093">DocInclude::exampleFile</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a1201f943eb5e45821291843810df8a51">DocInclude::extension</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ad2dce3078cd4a33bf3923066b2c79957">DocInclude::file</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaa5ea0461256f384958038fb6f8df3859">DocInclude::HtmlInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa2cc6c9824f61c186c983be390d3506a3">DocInclude::Include</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa952cf9f1f8a7019693e43d6dd9230073">DocInclude::IncWithLines</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a6b0cbb8f093db7897882856c9172886e">CodeFragmentManager::instance</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#af001e0f412f5189fc3f7105b402996d6">DocInclude::isExample</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa46758ee2c283cdfe24b17c2d2f11e8ee">DocInclude::LatexInclude</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa135c7c87665378652c597d57710d60a1">DocInclude::ManInclude</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/codefragmentmanager/#a1aa709870f1258a753c2b952f95175be">CodeFragmentManager::parseCodeFragment</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafafca5fb43380888ff488a49bfc4f32cfd">DocInclude::RtfInclude</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa00513d2ab0b78aa7aed51fb4ad1e3439">DocInclude::Snippet</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafa727f8845240d3fbdb08261d2ee34eabe">DocInclude::SnippetWithLines</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a6d2679020b534464d254f0dea85cded1">DocInclude::stripCodeComments</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ab2a402fcaf6d3c4ecce0cd7647c0e339">DocInclude::text</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#ae9583c0c22fe5031fc50b95cbabef0c0">DocInclude::trimLeft</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a8e9f5167c504937dedc7ffac6a454514">DocInclude::type</a>, <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafaaad4241a3cd52aa23aebf58063e2f610">DocInclude::VerbInclude</a> and <a href="/web-doxygen/docs/api/classes/docinclude/#a72aa0fd397546547aadf356348ff3eafadb264a40d447ec379aa1e80af933cf68">DocInclude::XmlInclude</a>.</p>
+
 </div>
 </div>
 
@@ -1745,7 +1771,8 @@ References <a href="/web-doxygen/docs/api/classes/docinclude/#a0a32ad9c12a12a666
 
 
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1813,7 +1840,8 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docincoperator/#ab59377a5d6002c488ebfaeff4c8f2e64">DocIncOperator::context</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ab5e78827022d8466df9e7bfb189bc8e8">DocIncOperator::exampleFile</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a7c06a4a5f871ce72f41d72f7b1452736">DocIncOperator::includeFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#aff7da518608143cfc4d53bee4be28ecb">DocIncOperator::isExample</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ad5fc63c8a8ab2ebb0359443aba890802">DocIncOperator::isFirst</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a3aa61fa6f30b556886cf8460ed9e0a3c">DocIncOperator::isLast</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ab9499d4c8335483abbface712143d69f">DocIncOperator::line</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m\_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m\_langExt</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#afaec23aad7de1e76aab6a441d70c9119">DocVisitor::popHidden</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a54bb9f229fa8660eb70dd68e87fdfd9d">DocVisitor::pushHidden</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#aea2218e2b49020af7c643b1b6b9204ac">DocIncOperator::showLineNo</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a3948f96579d9147908c2a1c06207e270">DocIncOperator::stripCodeComments</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a91b44df290fd25ebcc9125227b593ece">DocIncOperator::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ad22086824c941ff3099faa8c45f3a02a">DocIncOperator::type</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docincoperator/#ab59377a5d6002c488ebfaeff4c8f2e64">DocIncOperator::context</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ab5e78827022d8466df9e7bfb189bc8e8">DocIncOperator::exampleFile</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a1ec90584b36968b4eef801a5becb0522">DocVisitor::getCodeParser</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a7c06a4a5f871ce72f41d72f7b1452736">DocIncOperator::includeFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#aff7da518608143cfc4d53bee4be28ecb">DocIncOperator::isExample</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ad5fc63c8a8ab2ebb0359443aba890802">DocIncOperator::isFirst</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a3aa61fa6f30b556886cf8460ed9e0a3c">DocIncOperator::isLast</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ab9499d4c8335483abbface712143d69f">DocIncOperator::line</a>, <a href="#aa76a7b803ad442dc3748062f0db1c869">m_ci</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#aaa9bec6cb0fa3914b92e7b17d989acd4">m_langExt</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/codeparserinterface/#a250f197dbdf763805425256ed96f37d8">CodeParserInterface::parseCode</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#afaec23aad7de1e76aab6a441d70c9119">DocVisitor::popHidden</a>, <a href="/web-doxygen/docs/api/classes/docvisitor/#a54bb9f229fa8660eb70dd68e87fdfd9d">DocVisitor::pushHidden</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#aea2218e2b49020af7c643b1b6b9204ac">DocIncOperator::showLineNo</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#ae7a155da5a206f51e93edc166bd64970a170db94965a90854526b0be5273d59b8">DocIncOperator::Skip</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a3948f96579d9147908c2a1c06207e270">DocIncOperator::stripCodeComments</a>, <a href="/web-doxygen/docs/api/classes/docincoperator/#a91b44df290fd25ebcc9125227b593ece">DocIncOperator::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/classes/docincoperator/#ad22086824c941ff3099faa8c45f3a02a">DocIncOperator::type</a>.</p>
+
 </div>
 </div>
 
@@ -1837,7 +1865,8 @@ References <a href="/web-doxygen/docs/api/classes/docincoperator/#ab59377a5d6002
 
 
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 413 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1850,7 +1879,8 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="/web-doxygen/docs/api/classes/docformula/#a4744feabb05063f6019698f2b47a960c">DocFormula::text</a>.</p>
+
 </div>
 </div>
 
@@ -1874,7 +1904,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1907,7 +1938,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 423 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1940,7 +1972,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 427 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1967,7 +2000,8 @@ Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7bb1b955f2f6ba">DocCite::file</a>, <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/doccite/#aafaea054e0d069a474232f1cb3a5092e">DocCite::option</a> and <a href="/web-doxygen/docs/api/classes/doccite/#aba1e595baf53edff52edf749074abce8">DocCite::target</a>.</p>
+
 </div>
 </div>
 
@@ -1991,7 +2025,8 @@ References <a href="/web-doxygen/docs/api/classes/doccite/#ae842d125098f64d7ee7b
 
 
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 447 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2004,7 +2039,8 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756cfd4653d4e4f676f5d">DocSeparator::chars</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756cfd4653d4e4f676f5d">DocSeparator::chars</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -2028,7 +2064,8 @@ References <a href="/web-doxygen/docs/api/classes/docseparator/#a7de00e3032b756c
 
 
 
-Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 458 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2044,7 +2081,8 @@ Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2068,7 +2106,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2112,7 +2151,8 @@ Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked\_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked\_x</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a97c36a5afc2ae0435319e9b203befe53">DocAutoList::Checked_X</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a4dc2d6867c4a095b4e80a4d81522a9b8">DocAutoList::Checked_x</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a479dfc09c9f638c9bdead57868c5a3b8">DocAutoList::isEnumList</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a2d307e9d399d0209c30a717f07d81ee2">DocAutoListItem::itemNumber</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c20474f5a6fbcb145a93580c9edb988c5c77a1897aa31e0721">DocAutoList::Unchecked</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2136,7 +2176,8 @@ References <a href="/web-doxygen/docs/api/classes/docautolist/#a6c707b00eeb9280c
 
 
 
-Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 504 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2159,7 +2200,8 @@ Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docpara/#a32a474477c8d44117a82964eeac50e53">DocPara::isLast</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docpara/#a32a474477c8d44117a82964eeac50e53">DocPara::isLast</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2183,7 +2225,8 @@ References <a href="/web-doxygen/docs/api/classes/docpara/#a32a474477c8d44117a82
 
 
 
-Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2195,7 +2238,8 @@ Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2219,7 +2263,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 525 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 525 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2288,7 +2333,8 @@ Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae3e95855fe383d4767691416f122bda8">DocSimpleSect::Attention</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba93b679802935bef0edcd5d13787c93d7">DocSimpleSect::Author</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3e7dc72d1c6e9b0fd204ec7db9c47f6a">DocSimpleSect::Authors</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba2e0c7884fe9de17cc8ec29cc8c445fa1">DocSimpleSect::Copyright</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba7ebb3d39104e4023d8f64d46e9166305">DocSimpleSect::Date</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba41b0b8fb01484d80c09aa19866ab18f5">DocSimpleSect::Important</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baa5d61ff7b823df12aa9a3895342561b8">DocSimpleSect::Invar</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bada884137c8ff6a93503a9c561d5c35d0">DocSimpleSect::Note</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba10f52cafbfab59b29c286ac5d38251c8">DocSimpleSect::Post</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba68b35aae9972a5f2f4b739edb91db575">DocSimpleSect::Pre</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bae7ac2742a06bed8be1747d68ec4af980">DocSimpleSect::Rcs</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba71e7bd96894c8ce74ca64456d34d3939">DocSimpleSect::Remark</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9bafbc7207cbd14361819ce4f2c8c33595d">DocSimpleSect::Return</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba3bca11381a4eecb0a155993159e1f471">DocSimpleSect::See</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9babede06022ff92538707861de74d9fdb5">DocSimpleSect::Since</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#abbbcd2151b9e3b29fea64118e99b0b61">DocSimpleSect::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a1ea4e7672816ad91cf567b2000f1a65c">DocSimpleSect::type</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba9fea43f94c363209267026e3cf9583c6">DocSimpleSect::Unknown</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba0cdc5e6cf3a4156f2e4cb80d267ea87d">DocSimpleSect::User</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9baf32673a5f516e2100d41b917f37cfdf1">DocSimpleSect::Version</a>, <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d819b347f74a6769a9ba407aa635cc75a80b3e222e307c43c988">DocSimpleSect::Warning</a>.</p>
+
 </div>
 </div>
 
@@ -2312,7 +2358,8 @@ References <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3b9f9dd4952f3d
 
 
 
-Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2325,7 +2372,8 @@ Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2349,7 +2397,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a> and <a href=
 
 
 
-Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2368,7 +2417,8 @@ Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2392,7 +2442,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2415,7 +2466,8 @@ Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docsimplelistitem/#a5cf88bdd86a58c836a938a20e13cf5c8">DocSimpleListItem::paragraph</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -2439,7 +2491,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d
 
 
 
-Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2462,7 +2515,8 @@ Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeacd2d1422bccc2e2b">DocSection::level</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docsection/#ac1429596005eb07ca96d2a0f832e4019">DocSection::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2486,7 +2540,8 @@ References <a href="/web-doxygen/docs/api/classes/docsection/#a86d69300a2a90eeac
 
 
 
-Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2522,7 +2577,8 @@ Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a315b274dea4ad591fa35bf486b251f55">m\_listItemInfo</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="#aaca268157a9ae4dba58321631aafaf66">maxIndentLevels</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981eb3207a150f6781f">DocHtmlList::attribs</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a315b274dea4ad591fa35bf486b251f55">m_listItemInfo</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="#aaca268157a9ae4dba58321631aafaf66">maxIndentLevels</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2546,7 +2602,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllist/#a5bd8c9fdf0acc981
 
 
 
-Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2608,7 +2665,8 @@ Declaration at line 75 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6e984969913a70c9b67da588f68b8a14">integerToAlpha</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3603e3a5f6710fd96b6c634f9e2de708">integerToRoman</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a315b274dea4ad591fa35bf486b251f55">m\_listItemInfo</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="#aaca268157a9ae4dba58321631aafaf66">maxIndentLevels</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa4cebd3711ee5a0aaa7a7">DocHtmlListItem::attribs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a6e984969913a70c9b67da588f68b8a14">integerToAlpha</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3603e3a5f6710fd96b6c634f9e2de708">integerToRoman</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a315b274dea4ad591fa35bf486b251f55">m_listItemInfo</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="#aaca268157a9ae4dba58321631aafaf66">maxIndentLevels</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#af05523650adffbefb14392d8f9f23487a8642714056eb3abfd3972a5dec674042">DocHtmlList::Ordered</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dochtmllist/#ab92254aca59f20ebb04f85b0ffd92020">DocHtmlList::type</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2632,7 +2690,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmllistitem/#a2c0badd651aa
 
 
 
-Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2650,7 +2709,8 @@ Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2674,7 +2734,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 732 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 732 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2691,7 +2752,8 @@ Declaration at line 77 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2715,7 +2777,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2730,7 +2793,8 @@ Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2754,7 +2818,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 750 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 750 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2766,7 +2831,8 @@ Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2790,7 +2856,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2802,7 +2869,8 @@ Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2826,7 +2894,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 760 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2838,7 +2907,8 @@ Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2862,7 +2932,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2874,7 +2945,8 @@ Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2898,7 +2970,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 770 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2910,7 +2983,8 @@ Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2934,7 +3008,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2949,7 +3024,8 @@ Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -2973,7 +3049,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2987,7 +3064,8 @@ Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3011,7 +3089,8 @@ References <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#a
 
 
 
-Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3043,7 +3122,8 @@ Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/dochtmldetails/#ab353fa87425d140b051dea0fdbfded23">DocHtmlDetails::summary</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/dochtmldetails/#ab353fa87425d140b051dea0fdbfded23">DocHtmlDetails::summary</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3067,7 +3147,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3086,7 +3167,8 @@ Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d6acd6838fa21404263">DocHtmlHeader::level</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3110,7 +3192,8 @@ References <a href="/web-doxygen/docs/api/classes/dochtmlheader/#af8e82a4c504c1d
 
 
 
-Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3143,7 +3226,8 @@ Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3176,7 +3260,8 @@ Declaration at line 89 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3209,7 +3294,8 @@ Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3242,7 +3328,8 @@ Declaration at line 91 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3275,7 +3362,8 @@ Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3290,7 +3378,8 @@ Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3314,7 +3403,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3330,7 +3420,8 @@ Declaration at line 94 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docref/#a5c24ebdffb560b02af49504d3d5b8eb1">DocRef::targetTitle</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3354,7 +3445,8 @@ References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/we
 
 
 
-Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3374,7 +3466,8 @@ Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3398,7 +3491,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d
 
 
 
-Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3415,7 +3509,8 @@ Declaration at line 96 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m\_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a14c58a82f8994fede554dc42d6efd1ce">m_indent</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3439,7 +3534,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3477,7 +3573,8 @@ Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aab35f5129b2fc6fa21358b0d1f1e8ac48">DocParamSect::Exception</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aadd6d8ac7d3bbca9c02eeaf0667dc898d">DocParamSect::Param</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aad057fa7d7e908eb6f2aab26e1c9cd7ca">DocParamSect::RetVal</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#a402e8723e8b9f22c5ffa84046224d51aa171c52c00ef0e893e8622dcf37db20e0">DocParamSect::TemplateParam</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#afcb0666a1b93ac69a56ab22179827d8a">DocParamSect::type</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3501,7 +3598,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df08
 
 
 
-Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 918 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3530,7 +3628,8 @@ Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a96270035f29eb07f50ed8c0c2acda9d3">DocParamList::isLast</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#aea61e6129350589c862ceb0f75d5f9a9">DocParamList::paragraphs</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a96270035f29eb07f50ed8c0c2acda9d3">DocParamList::isLast</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#aea61e6129350589c862ceb0f75d5f9a9">DocParamList::paragraphs</a>, <a href="/web-doxygen/docs/api/classes/docparamlist/#a543cac8da19b4edaa5eb0c7deeba2455">DocParamList::parameters</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -3554,7 +3653,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3582,7 +3682,8 @@ Declaration at line 99 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/classes/docxrefitem/#af174176c1e034a106469af615e09854e">DocXRefItem::title</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3606,7 +3707,8 @@ References <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="/we
 
 
 
-Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 961 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 961 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3621,7 +3723,8 @@ Declaration at line 100 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 </div>
 
 
-References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3645,7 +3748,8 @@ References <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 969 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 969 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3657,7 +3761,8 @@ Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3681,7 +3786,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 974 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 974 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3704,7 +3810,8 @@ Declaration at line 102 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 </div>
 
 
-References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m\_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>References <a href="#a7c4d50d6aca1907932aa2102deed79de">m_firstCol</a>, <a href="#a19093acb1d57b5023cc26ebf81986862">m_hide</a>, <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3728,7 +3835,8 @@ References <a href="#a7c4d50d6aca1907932aa2102deed79de">m\_firstCol</a>, <a href
 
 
 
-Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 990 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3761,7 +3869,8 @@ Declaration at line 103 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 
 
 
-Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 994 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 994 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3773,7 +3882,8 @@ Declaration at line 104 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 </div>
 
 
-Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
+<p>Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.</p>
+
 </div>
 </div>
 
@@ -3803,7 +3913,8 @@ Reference <a href="#adf00e7b84564cbfef3e73f19ed470d63">visitChildren</a>.
 
 
 
-Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.
+<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>, definition at line 999 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-cpp">mandocvisitor.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3831,9 +3942,11 @@ Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/mandocv
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a5f6a193c724ec88ff68967702b73ca7d">m_t</a>.</p>
 
-Referenced by <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.
+
+<p>Referenced by <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3863,7 +3976,8 @@ Referenced by <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a hr
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3878,7 +3992,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#a846f20e5b255bd0f0cb15a519618c810">operator()</a>, <a href="#a54571770faa432eca6b9f45798e5c270">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a36a33acdda18c57a81a33a31883b6b51">operator()</a>, <a href="#a0de17f04f63f6e2ce8b0d362a023d90c">operator()</a>, <a href="#a020f68cb0200ee90447176b9a176195e">operator()</a>, <a href="#aeffe8b8d83060eca96b20ba5f5a87e4b">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a01005dd006d8e9cb51497b43e2c2db0b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#a1c5f9f27f1b4dd3ff3135a1faaa6ddd0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a2cd8b41c0d97340deb2646fb6e3bc981">operator()</a>, <a href="#a713081a0d41c7dec260ddf2b0b7566b3">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.
+<p>Referenced by <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#a846f20e5b255bd0f0cb15a519618c810">operator()</a>, <a href="#a54571770faa432eca6b9f45798e5c270">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a36a33acdda18c57a81a33a31883b6b51">operator()</a>, <a href="#a0de17f04f63f6e2ce8b0d362a023d90c">operator()</a>, <a href="#a020f68cb0200ee90447176b9a176195e">operator()</a>, <a href="#aeffe8b8d83060eca96b20ba5f5a87e4b">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a01005dd006d8e9cb51497b43e2c2db0b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#a1c5f9f27f1b4dd3ff3135a1faaa6ddd0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a2cd8b41c0d97340deb2646fb6e3bc981">operator()</a>, <a href="#a713081a0d41c7dec260ddf2b0b7566b3">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3908,7 +4023,8 @@ Referenced by <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a hr
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3917,7 +4033,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a> and <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a> and <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3941,7 +4058,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3950,7 +4068,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -3974,7 +4093,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3983,7 +4103,8 @@ Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#a36acbaa3b88d11ce458d0987ce393685">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa48f89c9aade30cdf2894a4e0aa69f1a">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#a713081a0d41c7dec260ddf2b0b7566b3">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#a36acbaa3b88d11ce458d0987ce393685">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa48f89c9aade30cdf2894a4e0aa69f1a">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#a713081a0d41c7dec260ddf2b0b7566b3">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>, <a href="#a717055210b0bdcd869a71a36a62690cc">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4007,7 +4128,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4016,7 +4138,8 @@ Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a> and <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a> and <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4040,7 +4163,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4049,7 +4173,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a> and <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a> and <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4073,7 +4198,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4082,7 +4208,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a> and <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>.
+<p>Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a> and <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4106,7 +4233,8 @@ Referenced by <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a
 
 
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4115,7 +4243,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>.
+<p>Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4139,7 +4268,8 @@ Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4148,7 +4278,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#a36acbaa3b88d11ce458d0987ce393685">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a0de17f04f63f6e2ce8b0d362a023d90c">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa48f89c9aade30cdf2894a4e0aa69f1a">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.
+<p>Referenced by <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="#ae196a1929c47ffea2e32ab8d321943d5">ManDocVisitor</a>, <a href="#a0f090ff971f194f7e0f26eccc6dc3e35">operator()</a>, <a href="#a4c5beb634b87459054e96cfa6e07717a">operator()</a>, <a href="#a718bc15298af2003de3afb45ee5a9794">operator()</a>, <a href="#ae151cc7686cf768f2e7e91002bac8dcc">operator()</a>, <a href="#a36acbaa3b88d11ce458d0987ce393685">operator()</a>, <a href="#aa2df84b2d5419625e00bd41061f2444d">operator()</a>, <a href="#a5c6dea7aa28aac1737579ae55868059c">operator()</a>, <a href="#ae2f911cbb8030ff42a96e838476e249f">operator()</a>, <a href="#ae9f3fdd3602427ba34e23a0e79ffcf64">operator()</a>, <a href="#abe102e24c2324f00273af856a3577c60">operator()</a>, <a href="#a9dc07bea7c5f6f69559f84793b9193a9">operator()</a>, <a href="#ade7989c5d873c1601edf487ddd90daec">operator()</a>, <a href="#aa515f7b48fa75a22c9e1173511e8cb88">operator()</a>, <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a>, <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>, <a href="#a0de17f04f63f6e2ce8b0d362a023d90c">operator()</a>, <a href="#a103c34bd91c4bf67cadfca22f2b61466">operator()</a>, <a href="#a611ec420e06726e8061f4fe83c3f8a6f">operator()</a>, <a href="#a157978a326c9f3952142064c0bc0f22c">operator()</a>, <a href="#a2e1ae1428205bcf6e4cdebb9ae20ede4">operator()</a>, <a href="#a65162a3a4705ffa6dc6315ca0b785db4">operator()</a>, <a href="#a1385e8fb9c9effec554143178bd5f5ac">operator()</a>, <a href="#a541113c556c1afc2e6107999d3e18bd4">operator()</a>, <a href="#a9becdb1d4b3096f9081710f0c6c14e80">operator()</a>, <a href="#af21bb817afa0823ea94983a1d86aea4b">operator()</a>, <a href="#a4cfc3d202bc44676a3830b4ec33a35f0">operator()</a>, <a href="#aad6d88a7940699bbb17fa4648d6007a9">operator()</a>, <a href="#ab9a9717a4dd573bbfeda26508bda3491">operator()</a>, <a href="#aaa1c588d1549ecec64db696b44247951">operator()</a>, <a href="#aa48f89c9aade30cdf2894a4e0aa69f1a">operator()</a>, <a href="#aa9077004871b7326c313f59f59942b81">operator()</a>, <a href="#aad902c41e3df81277b2bf6f1e95f466d">operator()</a>, <a href="#a8bf41fa80034e1477e1017f19f89d4de">operator()</a>, <a href="#a3135258f772ad9dcb6c936b55f913543">operator()</a>, <a href="#afb7a0185345e8311efd7d18827dbe43b">operator()</a>, <a href="#aff22dba562419dc8b2498e0a3864df37">operator()</a>, <a href="#aff3cb0ea5dd2ee90d238e8689a34e0da">operator()</a>, <a href="#a315f64205ff8e9d75ddd63e31f068269">operator()</a> and <a href="#a70abcda93ed50a2ffbdacf0f1d973c39">operator()</a>.</p>
+
 </div>
 </div>
 
@@ -4183,7 +4314,8 @@ Referenced by <a href="#a72964fa569229687454f00fe4dc4ab45">filter</a>, <a href="
 
 
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4192,7 +4324,8 @@ Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 </div>
 
 
-Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>.
+<p>Referenced by <a href="#aef0c0f7241f4095ca450dc4b56554a86">operator()</a> and <a href="#a4ce763b29a44b5b477602993c33842b9">operator()</a>.</p>
+
 </div>
 </div>
 

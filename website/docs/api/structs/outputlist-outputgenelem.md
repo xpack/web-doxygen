@@ -141,7 +141,8 @@ struct OutputList::OutputGenElem { ... }
 </table>
 
 
-Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -173,7 +174,8 @@ Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/outputli
 
 
 
-Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -182,9 +184,11 @@ Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Reference <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a>.
+<p>Reference <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a>.</p>
 
-Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a> and <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a>.
+
+<p>Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a> and <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a>.</p>
+
 </div>
 </div>
 
@@ -213,7 +217,8 @@ Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a> and <a 
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -226,7 +231,8 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.
+<p>References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +267,8 @@ References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a
 
 
 
-Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -278,7 +285,8 @@ Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.
+<p>References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a0cccf76e743722b3abedc9106b1d8152">intf</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.</p>
+
 </div>
 </div>
 
@@ -313,7 +321,8 @@ References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a>, <a href="#a
 
 
 
-Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -322,7 +331,8 @@ Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a> and <a href="#aa32c82630fc16b83b4925744420f0d6b">enabledStack</a>.
+<p>References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a> and <a href="#aa32c82630fc16b83b4925744420f0d6b">enabledStack</a>.</p>
+
 </div>
 </div>
 
@@ -352,7 +362,8 @@ References <a href="#a8f0a79681a684027e4db44b3cb7b7500">enabled</a> and <a href=
 
 
 
-Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -361,7 +372,8 @@ Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a>, <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a> and <a href="#afdfd6c09a87d2b3f2f82fef1773064c7">setEnabled</a>.
+<p>Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a>, <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a> and <a href="#afdfd6c09a87d2b3f2f82fef1773064c7">setEnabled</a>.</p>
+
 </div>
 </div>
 
@@ -385,7 +397,8 @@ Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a>, <a hre
 
 
 
-Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -394,7 +407,8 @@ Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#afdfd6c09a87d2b3f2f82fef1773064c7">setEnabled</a>.
+<p>Referenced by <a href="#afdfd6c09a87d2b3f2f82fef1773064c7">setEnabled</a>.</p>
+
 </div>
 </div>
 
@@ -418,7 +432,8 @@ Referenced by <a href="#afdfd6c09a87d2b3f2f82fef1773064c7">setEnabled</a>.
 
 
 
-Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -427,7 +442,8 @@ Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a>, <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.
+<p>Referenced by <a href="#a214ab216cf86227161871c767e25894a">operator=</a>, <a href="#a2574275bc562aee534dea2d0d69ada1b">OutputGenElem</a> and <a href="#a0ff15d48f2ef2dd3c4331f3b52ce7af8">OutputGenElem</a>.</p>
+
 </div>
 </div>
 

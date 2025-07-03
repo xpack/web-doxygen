@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TextGeneratorOLImpl` Class Reference
 
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream. <a href="#details">More...</a>
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class TextGeneratorOLImpl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a>
+<p>Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,9 +135,10 @@ Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/a
 
 ## Description {#details}
 
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream.
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream.</p>
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -163,7 +164,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/util-h">u
 
 
 
-Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -174,7 +176,8 @@ Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
+<p>Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m_ol</a>.</p>
+
 </div>
 </div>
 
@@ -209,7 +212,8 @@ Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
 
 
 
-Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -225,7 +229,8 @@ Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
+<p>Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m_ol</a>.</p>
+
 </div>
 </div>
 
@@ -254,7 +259,8 @@ Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
 
 
 
-Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -269,7 +275,8 @@ Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
+<p>Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m_ol</a>.</p>
+
 </div>
 </div>
 
@@ -298,7 +305,8 @@ Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
 
 
 
-Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>, definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -333,7 +341,8 @@ Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
+<p>Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m_ol</a>.</p>
+
 </div>
 </div>
 
@@ -363,7 +372,8 @@ Reference <a href="#abac06004fff3ce6dd9fa5b3b2931bc35">m\_ol</a>.
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -372,7 +382,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/util-h">u
 </div>
 
 
-Referenced by <a href="#a37f94d1d2f7ce361ed9a652c1e916c77">TextGeneratorOLImpl</a>, <a href="#a7c90aa4a3d435a4db351adb94ac62128">writeBreak</a>, <a href="#abd5e4e731db512c6e98795c56d323f30">writeLink</a> and <a href="#add80058c326a14b48f31afbdd73d2402">writeString</a>.
+<p>Referenced by <a href="#a37f94d1d2f7ce361ed9a652c1e916c77">TextGeneratorOLImpl</a>, <a href="#a7c90aa4a3d435a4db351adb94ac62128">writeBreak</a>, <a href="#abd5e4e731db512c6e98795c56d323f30">writeLink</a> and <a href="#add80058c326a14b48f31afbdd73d2402">writeString</a>.</p>
+
 </div>
 </div>
 

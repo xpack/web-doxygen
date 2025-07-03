@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper struct representing a RGBA color. <a href="/web-doxygen/docs/api/structs/color/#details">More...</a>
+<p>Helper struct representing a RGBA color. <a href="/web-doxygen/docs/api/structs/color/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -202,7 +202,8 @@ Helper struct representing a RGBA color. <a href="/web-doxygen/docs/api/structs/
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -239,7 +240,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -248,7 +250,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.</p>
+
 </div>
 </div>
 
@@ -294,7 +297,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 </dd>
 </dl>
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -317,7 +321,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.</p>
+
 </div>
 </div>
 
@@ -341,7 +346,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -350,7 +356,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.</p>
+
 </div>
 </div>
 
@@ -396,7 +403,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 </dd>
 </dl>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -420,7 +428,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bdba0bf433f6c30">Image::stringLength</a>, <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a> and <a href="/web-doxygen/docs/api/classes/image/#a9548b8956604519c4260cbdaf7854792">Image::writeString</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bdba0bf433f6c30">Image::stringLength</a>, <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a> and <a href="/web-doxygen/docs/api/classes/image/#a9548b8956604519c4260cbdaf7854792">Image::writeString</a>.</p>
+
 </div>
 </div>
 
@@ -444,7 +453,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#af25a570683d7f6392bd
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -534,7 +544,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959fb666c8b878984">Image::writeChar</a>.</p>
+
 </div>
 </div>
 
@@ -558,7 +569,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/image/#ac240de8981834ae959f
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -567,7 +579,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 

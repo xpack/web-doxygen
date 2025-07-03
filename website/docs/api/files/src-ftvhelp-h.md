@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a>
+<p>A class that generates a dynamic tree view side panel. <a href="/web-doxygen/docs/api/classes/ftvhelp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -123,7 +123,8 @@ A class that generates a dynamic tree view side panel. <a href="/web-doxygen/doc
 </dd>
 </dl>
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h">ftvhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -132,7 +133,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#add40a3a8212464c4914efbeba3d529a1">writeMenuData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#add40a3a8212464c4914efbeba3d529a1">writeMenuData</a>.</p>
+
 </div>
 </div>
 

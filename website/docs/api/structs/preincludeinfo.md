@@ -129,7 +129,8 @@ struct PreIncludeInfo { ... }
 </table>
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +174,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 </div>
 
 
-References <a href="#a15f1159eaf981c7035b440feb08c9097">fileName</a>, <a href="#a93cde6f5e2447df45c8991ad86373331">fromFileDef</a>, <a href="#a7abe6b0ce0ef0e7b6e87eba42d487000">imported</a>, <a href="#acb77d5cf199cdeea923b57db4fbdb9c0">includeName</a>, <a href="#a4ccb1f370e869617fe3faafdf943edf5">local</a> and <a href="#a19fae3f028e545eaa6e9b79e376188b8">toFileDef</a>.
+<p>References <a href="#a15f1159eaf981c7035b440feb08c9097">fileName</a>, <a href="#a93cde6f5e2447df45c8991ad86373331">fromFileDef</a>, <a href="#a7abe6b0ce0ef0e7b6e87eba42d487000">imported</a>, <a href="#acb77d5cf199cdeea923b57db4fbdb9c0">includeName</a>, <a href="#a4ccb1f370e869617fe3faafdf943edf5">local</a> and <a href="#a19fae3f028e545eaa6e9b79e376188b8">toFileDef</a>.</p>
+
 </div>
 </div>
 
@@ -202,7 +205,8 @@ References <a href="#a15f1159eaf981c7035b440feb08c9097">fileName</a>, <a href="#
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -211,7 +215,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -235,7 +240,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -244,7 +250,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -268,7 +275,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -277,7 +285,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -301,7 +310,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,7 +320,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -334,7 +345,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -343,7 +355,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -367,7 +380,8 @@ Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +390,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/pre-l">p
 </div>
 
 
-Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.
+<p>Referenced by <a href="#a8ef659db864f11ef7574f65f737a30b4">PreIncludeInfo</a>.</p>
+
 </div>
 </div>
 

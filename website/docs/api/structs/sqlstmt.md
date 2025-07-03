@@ -71,7 +71,8 @@ struct SqlStmt { ... }
 </table>
 
 
-Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -97,7 +98,8 @@ Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 
 
 
-Definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -106,7 +108,8 @@ Definition at line 511 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
+
 </div>
 </div>
 
@@ -130,7 +133,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3
 
 
 
-Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -139,7 +143,8 @@ Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a>.</p>
+
 </div>
 </div>
 
@@ -163,7 +168,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3
 
 
 
-Definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.
+<p>Definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp">sqlite3gen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +178,8 @@ Definition at line 510 of file <a href="/web-doxygen/docs/api/files/src/sqlite3g
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#af69029d3e47b3f8a0515b21e6562e6d7">bindIntParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a31980a5e7ccfb3be84828d1c106c4d1a">bindTextParameter</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a0ee82255bd720e88690c7cac3581f1df">prepareStatement</a> and <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aaba2817dbf5f4afbbba5998976dbdab4">step</a>.</p>
+
 </div>
 </div>
 

@@ -64,7 +64,8 @@ class AutoTimeKeeper { ... }
 </table>
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/portable-
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -104,7 +106,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#a4bb2350f48a1ce554f4499edbd8ba8ec">SysTimeKeeper::start</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#a4bb2350f48a1ce554f4499edbd8ba8ec">SysTimeKeeper::start</a>.</p>
+
 </div>
 </div>
 
@@ -139,7 +142,8 @@ References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b3
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -148,7 +152,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#a46b40aa916ae6873c566c85a88dd9f96">SysTimeKeeper::stop</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#a46b40aa916ae6873c566c85a88dd9f96">SysTimeKeeper::stop</a>.</p>
+
 </div>
 </div>
 

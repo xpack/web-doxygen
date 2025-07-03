@@ -64,7 +64,8 @@ struct CommentCtx { ... }
 </table>
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -105,7 +107,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Reference <a href="#aa806b54f9e0d1c31a51106ef2fa4389f">lineNr</a>.
+<p>Reference <a href="#aa806b54f9e0d1c31a51106ef2fa4389f">lineNr</a>.</p>
+
 </div>
 </div>
 
@@ -135,7 +138,8 @@ Reference <a href="#aa806b54f9e0d1c31a51106ef2fa4389f">lineNr</a>.
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/commentcnv-l">commentcnv.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -144,7 +148,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/commentcn
 </div>
 
 
-Referenced by <a href="#a6fafdb4c8671ecd020f5d5aba7091388">CommentCtx</a>.
+<p>Referenced by <a href="#a6fafdb4c8671ecd020f5d5aba7091388">CommentCtx</a>.</p>
+
 </div>
 </div>
 

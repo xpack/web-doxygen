@@ -96,7 +96,8 @@ struct anonymous_namespace{tagreader.cpp}::CompoundFactory { ... }
 </table>
 
 
-Definition at line 1087 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1087 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -122,7 +123,8 @@ Definition at line 1087 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1089 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1089 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,7 +166,8 @@ Definition at line 1089 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1090 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1090 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -173,7 +176,8 @@ Definition at line 1090 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-References <a href="#ae5cec2e1a4a245a468ff72abc31850ca">make\_instance</a> and <a href="#a77aecc8d65afef377e620d7d67df94b2">state</a>.
+<p>References <a href="#ae5cec2e1a4a245a468ff72abc31850ca">make_instance</a> and <a href="#a77aecc8d65afef377e620d7d67df94b2">state</a>.</p>
+
 </div>
 </div>
 
@@ -203,7 +207,8 @@ References <a href="#ae5cec2e1a4a245a468ff72abc31850ca">make\_instance</a> and <
 
 
 
-Definition at line 1092 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1092 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -212,7 +217,8 @@ Definition at line 1092 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.
+<p>Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.</p>
+
 </div>
 </div>
 
@@ -236,7 +242,8 @@ Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.
 
 
 
-Definition at line 1091 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1091 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +252,8 @@ Definition at line 1091 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.
+<p>Referenced by <a href="#a1fd9ab19f73b6027e5982e944b84b894">CompoundFactory</a>.</p>
+
 </div>
 </div>
 

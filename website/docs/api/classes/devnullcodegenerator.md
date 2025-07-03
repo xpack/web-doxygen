@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DevNullCodeGenerator` Class Reference
 
-Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="#details">More...</a>
+<p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DevNullCodeGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
+<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -305,9 +305,10 @@ Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcod
 
 ## Description {#details}
 
-Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything.
+<p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything.</p>
 
-Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -339,7 +340,8 @@ Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +378,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -413,7 +416,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -450,7 +454,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -487,7 +492,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -524,7 +530,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -561,7 +568,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -598,7 +606,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -635,7 +644,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -672,7 +682,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -709,7 +720,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -746,7 +758,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -783,7 +796,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -820,7 +834,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -857,7 +872,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -866,7 +882,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3abbb93ef26e3c101ff11cdd21cab08a94">Null</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3abbb93ef26e3c101ff11cdd21cab08a94">Null</a>.</p>
+
 </div>
 </div>
 
@@ -896,7 +913,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -933,7 +951,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -973,7 +992,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1011,7 +1031,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/devnullge
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/devnullgen-h">devnullgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

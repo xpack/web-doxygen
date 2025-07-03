@@ -135,7 +135,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,9 +160,11 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
 
-Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
+
+<p>Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.</p>
+
 </div>
 </div>
 
@@ -190,7 +193,8 @@ Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,7 +209,8 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#accfbeaf0954a9bf961a17b0c7e243763">makeFileName</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#accfbeaf0954a9bf961a17b0c7e243763">makeFileName</a>.</p>
+
 </div>
 </div>
 

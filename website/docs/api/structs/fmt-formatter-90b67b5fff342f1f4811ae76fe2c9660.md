@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `formatter` Struct Template Reference
 
-adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a> <a href="#details">More...</a>
+<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a> <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -70,9 +70,10 @@ struct fmt::formatter&lt;MethodTypes&gt; { ... }
 
 ## Description {#details}
 
-adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a>
+<p>adds support for formatting <a href="/web-doxygen/docs/api/files/src/types-h/#a0872178db42722c310fe6117189ed441">MethodTypes</a></p>
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -103,7 +104,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/message-
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/message-h">message.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -114,7 +116,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/message-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a77df23cf91cf59df5e7edf9f887daa7c">to\_string</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a77df23cf91cf59df5e7edf9f887daa7c">to_string</a>.</p>
+
 </div>
 </div>
 

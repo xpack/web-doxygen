@@ -51,7 +51,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Singleton that manages plantuml relation actions. <a href="/web-doxygen/docs/api/classes/plantumlmanager/#details">More...</a>
+<p>Singleton that manages plantuml relation actions. <a href="/web-doxygen/docs/api/classes/plantumlmanager/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -117,7 +117,8 @@ Singleton that manages plantuml relation actions. <a href="/web-doxygen/docs/api
 
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -148,7 +149,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

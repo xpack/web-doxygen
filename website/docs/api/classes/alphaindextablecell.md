@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `AlphaIndexTableCell` Class Reference
 
-Class representing a cell in the alphabetical class index. <a href="#details">More...</a>
+<p>Class representing a cell in the alphabetical class index. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -162,9 +162,10 @@ class AlphaIndexTableCell { ... }
 
 ## Description {#details}
 
-Class representing a cell in the alphabetical class index.
+<p>Class representing a cell in the alphabetical class index.</p>
 
-Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -195,7 +196,8 @@ Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/index-c
 
 
 
-Definition at line 2232 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2232 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -207,7 +209,8 @@ Definition at line 2232 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-References <a href="#a358b5b0788a40dfef0ee570aa05e56cb">letter</a>, <a href="#ad48eb2cdd7d75b5b046b9362d914ec56">m\_class</a>, <a href="#aa9253614f800886e2746408311e9f751">m\_col</a>, <a href="#a147943a92e60f32a19bd6bd94c7d8747">m\_letter</a>, <a href="#a40850222586d301d294518afaadbe64e">m\_row</a> and <a href="#a1c49351a1bc2c590b1561a2f65566a17">row</a>.
+<p>References <a href="#a358b5b0788a40dfef0ee570aa05e56cb">letter</a>, <a href="#ad48eb2cdd7d75b5b046b9362d914ec56">m_class</a>, <a href="#aa9253614f800886e2746408311e9f751">m_col</a>, <a href="#a147943a92e60f32a19bd6bd94c7d8747">m_letter</a>, <a href="#a40850222586d301d294518afaadbe64e">m_row</a> and <a href="#a1c49351a1bc2c590b1561a2f65566a17">row</a>.</p>
+
 </div>
 </div>
 
@@ -242,7 +245,8 @@ References <a href="#a358b5b0788a40dfef0ee570aa05e56cb">letter</a>, <a href="#ad
 
 
 
-Definition at line 2237 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2237 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -251,7 +255,8 @@ Definition at line 2237 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Reference <a href="#ad48eb2cdd7d75b5b046b9362d914ec56">m\_class</a>.
+<p>Reference <a href="#ad48eb2cdd7d75b5b046b9362d914ec56">m_class</a>.</p>
+
 </div>
 </div>
 
@@ -280,7 +285,8 @@ Reference <a href="#ad48eb2cdd7d75b5b046b9362d914ec56">m\_class</a>.
 
 
 
-Definition at line 2240 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2240 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -289,7 +295,8 @@ Definition at line 2240 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Reference <a href="#aa9253614f800886e2746408311e9f751">m\_col</a>.
+<p>Reference <a href="#aa9253614f800886e2746408311e9f751">m_col</a>.</p>
+
 </div>
 </div>
 
@@ -318,7 +325,8 @@ Reference <a href="#aa9253614f800886e2746408311e9f751">m\_col</a>.
 
 
 
-Definition at line 2238 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2238 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -327,9 +335,11 @@ Definition at line 2238 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Reference <a href="#a147943a92e60f32a19bd6bd94c7d8747">m\_letter</a>.
+<p>Reference <a href="#a147943a92e60f32a19bd6bd94c7d8747">m_letter</a>.</p>
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a>.
+
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a>.</p>
+
 </div>
 </div>
 
@@ -358,7 +368,8 @@ Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</
 
 
 
-Definition at line 2239 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2239 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -367,9 +378,11 @@ Definition at line 2239 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Reference <a href="#a40850222586d301d294518afaadbe64e">m\_row</a>.
+<p>Reference <a href="#a40850222586d301d294518afaadbe64e">m_row</a>.</p>
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a>.
+
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a>.</p>
+
 </div>
 </div>
 
@@ -399,7 +412,8 @@ Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</
 
 
 
-Definition at line 2244 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2244 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -408,7 +422,8 @@ Definition at line 2244 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a2d50bbbf2a8fcb4b949aac9123df9009">classDef</a>.
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a2d50bbbf2a8fcb4b949aac9123df9009">classDef</a>.</p>
+
 </div>
 </div>
 
@@ -432,7 +447,8 @@ Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</
 
 
 
-Definition at line 2246 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2246 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -441,7 +457,8 @@ Definition at line 2246 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a3faaa897f1d67548f2abd49c3d074c7f">column</a>.
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a3faaa897f1d67548f2abd49c3d074c7f">column</a>.</p>
+
 </div>
 </div>
 
@@ -465,7 +482,8 @@ Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</
 
 
 
-Definition at line 2243 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2243 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -474,7 +492,8 @@ Definition at line 2243 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a358b5b0788a40dfef0ee570aa05e56cb">letter</a>.
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a358b5b0788a40dfef0ee570aa05e56cb">letter</a>.</p>
+
 </div>
 </div>
 
@@ -498,7 +517,8 @@ Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</
 
 
 
-Definition at line 2245 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 2245 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -507,7 +527,8 @@ Definition at line 2245 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a1c49351a1bc2c590b1561a2f65566a17">row</a>.
+<p>Referenced by <a href="#a442c5fb9dc262ebac60bb67c5b539bda">AlphaIndexTableCell</a> and <a href="#a1c49351a1bc2c590b1561a2f65566a17">row</a>.</p>
+
 </div>
 </div>
 

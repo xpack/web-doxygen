@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `MemberNameLinkedMap` Class Reference
 
-Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="#details">More...</a>
+<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class MemberNameLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -71,9 +71,10 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 
 ## Description {#details}
 
-Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects.
+<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects.</p>
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -104,7 +105,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/membernam
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/membername-h">membername.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -131,7 +133,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/membernam
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/membername/#ada97200941011de3b6714f39df5fc29c">MemberName::begin</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#a6150feb21a667df3826df38c1a0878fa">LinkedMap&lt; MemberName &gt;::del</a>, <a href="/web-doxygen/docs/api/classes/membername/#ad47e17450a0c958521210bfcf27e05d2">MemberName::empty</a>, <a href="/web-doxygen/docs/api/classes/membername/#ae3020460ff555c0e59434bfe512f8fbd">MemberName::end</a>, <a href="/web-doxygen/docs/api/classes/membername/#a78d241ba177183be74c63376c382a5fc">MemberName::erase</a> and <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; MemberName &gt;::find</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/membername/#ada97200941011de3b6714f39df5fc29c">MemberName::begin</a>, <a href="/web-doxygen/docs/api/classes/linkedmap/#a6150feb21a667df3826df38c1a0878fa">LinkedMap&lt; MemberName &gt;::del</a>, <a href="/web-doxygen/docs/api/classes/membername/#ad47e17450a0c958521210bfcf27e05d2">MemberName::empty</a>, <a href="/web-doxygen/docs/api/classes/membername/#ae3020460ff555c0e59434bfe512f8fbd">MemberName::end</a>, <a href="/web-doxygen/docs/api/classes/membername/#a78d241ba177183be74c63376c382a5fc">MemberName::erase</a> and <a href="/web-doxygen/docs/api/classes/linkedmap/#ad7659775b7de962b4fe0921456baf4f4">LinkedMap&lt; MemberName &gt;::find</a>.</p>
+
 </div>
 </div>
 

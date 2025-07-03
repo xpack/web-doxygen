@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `UseEntry` Class Reference
 
-data of an use-statement <a href="#details">More...</a>
+<p>data of an use-statement <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -59,9 +59,10 @@ class UseEntry { ... }
 
 ## Description {#details}
 
-data of an use-statement
+<p>data of an use-statement</p>
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -87,7 +88,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -118,7 +120,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/fortranco
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -127,7 +130,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.</p>
+
 </div>
 </div>
 

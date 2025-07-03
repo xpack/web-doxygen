@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `EdgeProperties` Struct Reference
 
-Helper struct holding the properties of a edge in a dot graph. <a href="#details">More...</a>
+<p>Helper struct holding the properties of a edge in a dot graph. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -72,9 +72,10 @@ struct EdgeProperties { ... }
 
 ## Description {#details}
 
-Helper struct holding the properties of a edge in a dot graph.
+<p>Helper struct holding the properties of a edge in a dot graph.</p>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -100,7 +101,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -109,7 +111,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.</p>
+
 </div>
 </div>
 
@@ -133,7 +136,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -142,7 +146,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.</p>
+
 </div>
 </div>
 
@@ -166,7 +171,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotnode-cpp">dotnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +181,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotnode-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotnode/#aeb01acd1ef9dbeb87e35e7eae24143b1">DotNode::writeArrow</a>.</p>
+
 </div>
 </div>
 

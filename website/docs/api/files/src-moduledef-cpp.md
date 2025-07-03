@@ -187,7 +187,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -224,7 +225,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -237,7 +239,8 @@ Definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduled
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a31ba3cfbe898329d92215b8314227b0d">ClassDefImpl::moveTo</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a263db4e9ffc625509018045b0345b31c">MemberDefImpl::moveTo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a31ba3cfbe898329d92215b8314227b0d">ClassDefImpl::moveTo</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a263db4e9ffc625509018045b0345b31c">MemberDefImpl::moveTo</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +264,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 
 
 
-Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -302,7 +306,8 @@ Definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1169 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1169 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -312,7 +317,8 @@ Definition at line 1169 of file <a href="/web-doxygen/docs/api/files/src/moduled
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a6e2ffe69d7a921c13b6d0e16918a250d">ModuleManager::addClassToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a6698b2bf23de9dc94a27ad7b898c205b">ModuleManager::addConceptToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a5c564c642161994958220628ac58aef8">ModuleManager::addHeader</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#af2e02d3fa979bbdad8d4995915a9f834">ModuleManager::addImport</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a0c75f10f5345207329e3468f53416b55">ModuleManager::addListReferences</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a92f20a151f253a36ec65c90e3da01a81">ModuleManager::addMembersToMemberGroup</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a8eaf52205769b3910d40de52c5eefd51">ModuleManager::addMemberToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#abd67a3f8ef0181d7a4179931452449df">ModuleManager::collectExportedSymbols</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a56ebe7e944c71ea43b47da0b331789ab">ModuleManager::collectExportedSymbolsRecursively</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a5d5dfdf8729dadf9a45fa931f88d94ac">ModuleManager::countMembers</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#af3b3d835cba0b9c103a0f5c274a0ac44">ModuleManager::distributeMemberGroupDocumentation</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#ab8e165a10a456a00a6735f9a7ae4d74a">ModuleManager::findSectionsInDocumentation</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a9a5ccba7154d90c27699bad5517f8b18">ModuleManager::resolvePartitions</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#abe59aee08bdd26b109a69b54f6e018ab">ModuleManager::resolvePartitionsRecursively</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a45ab9d867637b915d193705ede03cc32">ModuleManager::sortMemberLists</a> and <a href="/web-doxygen/docs/api/classes/modulelinkedrefmap/#aebc005e13bdcb448da76f4b43b2ea72e">ModuleLinkedRefMap::writeDeclaration</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a6e2ffe69d7a921c13b6d0e16918a250d">ModuleManager::addClassToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a6698b2bf23de9dc94a27ad7b898c205b">ModuleManager::addConceptToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a5c564c642161994958220628ac58aef8">ModuleManager::addHeader</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#af2e02d3fa979bbdad8d4995915a9f834">ModuleManager::addImport</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a0c75f10f5345207329e3468f53416b55">ModuleManager::addListReferences</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a92f20a151f253a36ec65c90e3da01a81">ModuleManager::addMembersToMemberGroup</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a8eaf52205769b3910d40de52c5eefd51">ModuleManager::addMemberToModule</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#abd67a3f8ef0181d7a4179931452449df">ModuleManager::collectExportedSymbols</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a56ebe7e944c71ea43b47da0b331789ab">ModuleManager::collectExportedSymbolsRecursively</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a5d5dfdf8729dadf9a45fa931f88d94ac">ModuleManager::countMembers</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#af3b3d835cba0b9c103a0f5c274a0ac44">ModuleManager::distributeMemberGroupDocumentation</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#ab8e165a10a456a00a6735f9a7ae4d74a">ModuleManager::findSectionsInDocumentation</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a9a5ccba7154d90c27699bad5517f8b18">ModuleManager::resolvePartitions</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#abe59aee08bdd26b109a69b54f6e018ab">ModuleManager::resolvePartitionsRecursively</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a45ab9d867637b915d193705ede03cc32">ModuleManager::sortMemberLists</a> and <a href="/web-doxygen/docs/api/classes/modulelinkedrefmap/#aebc005e13bdcb448da76f4b43b2ea72e">ModuleLinkedRefMap::writeDeclaration</a>.</p>
+
 </div>
 </div>
 
@@ -342,7 +348,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a6e2ffe69d7a
 
 
 
-Definition at line 1175 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1175 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

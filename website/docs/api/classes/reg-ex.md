@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Ex` Class Reference
 
-Class representing a regular expression. <a href="#details">More...</a>
+<p>Class representing a regular expression. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class reg::Ex { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Matching algorithm. <a href="#a8c11e4a47acf40a6747e2709961acdf9">More...</a>
+<p>Matching algorithm. <a href="#a8c11e4a47acf40a6747e2709961acdf9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -61,7 +61,7 @@ Matching algorithm. <a href="#a8c11e4a47acf40a6747e2709961acdf9">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates a regular expression object given the pattern as a string. <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">More...</a>
+<p>Creates a regular expression object given the pattern as a string. <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -81,7 +81,7 @@ Creates a regular expression object given the pattern as a string. <a href="#a54
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Destroys the regular expression object. <a href="#a197664abdebf160b5b621c3a78c01cf7">More...</a>
+<p>Destroys the regular expression object. <a href="#a197664abdebf160b5b621c3a78c01cf7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -101,7 +101,7 @@ Destroys the regular expression object. <a href="#a197664abdebf160b5b621c3a78c01
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Check if a given string matches this regular expression. <a href="#a45dcd4878848bcefa4894aa48a2d9b83">More...</a>
+<p>Check if a given string matches this regular expression. <a href="#a45dcd4878848bcefa4894aa48a2d9b83">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -144,12 +144,14 @@ Check if a given string matches this regular expression. <a href="#a45dcd4878848
 
 ## Description {#details}
 
-Class representing a regular expression.
+<p>Class representing a regular expression.</p>
 
 
-It has a similar API as <span class="doxyComputerOutput">std::regex</span>, but is much faster (and also somewhat more limited).
+<p>It has a similar API as <span class="doxyComputerOutput">std::regex</span>, but is much faster (and also somewhat more limited).</p>
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -178,7 +180,7 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/regex-h">
 </div>
 <div class="doxyMemberDoc">
 
-Matching algorithm.
+<p>Matching algorithm.</p>
 
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
@@ -199,7 +201,8 @@ Matching algorithm.
 </dd>
 </dl>
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -237,12 +240,14 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/regex-h">
 </div>
 <div class="doxyMemberDoc">
 
-Creates a regular expression object given the pattern as a string.
+<p>Creates a regular expression object given the pattern as a string.</p>
 
 
-Two modes of matching are supported: RegEx and Wildcard
+<p>Two modes of matching are supported: RegEx and Wildcard</p>
 
-The following special characters are supported in <a href="#a8c11e4a47acf40a6747e2709961acdf9aaa3c0312d71dacb7f28dd70f21d32ac0">Mode::RegEx</a> mode.
+
+<p>The following special characters are supported in <a href="#a8c11e4a47acf40a6747e2709961acdf9aaa3c0312d71dacb7f28dd70f21d32ac0">Mode::RegEx</a> mode.</p>
+
 
 <ul class="doxyList ">
 <li><span class="doxyComputerOutput">c</span> matches character <span class="doxyComputerOutput">c</span></li>
@@ -268,7 +273,8 @@ The following special characters are supported in <a href="#a8c11e4a47acf40a6747
 <li><span class="doxyComputerOutput">\xHH</span> matches a hexadecimal character, e.g. <span class="doxyComputerOutput">\xA0</span> matches character code 160.</li>
 </ul>
 
-A character range can be used to match a character that falls inside a range (or set of ranges). Within the opening <span class="doxyComputerOutput">\[</span> and closing <span class="doxyComputerOutput">\]</span> brackets of a character ranges the following is supported:
+<p>A character range can be used to match a character that falls inside a range (or set of ranges). Within the opening <span class="doxyComputerOutput">[</span> and closing <span class="doxyComputerOutput">]</span> brackets of a character ranges the following is supported:</p>
+
 
 <ul class="doxyList ">
 <li><span class="doxyComputerOutput">^</span> if at the start of the range, a character matches if it is <em>not</em> in the range, e.g. <span class="doxyComputerOutput">[^\d]</span> matches any character not a digit</li>
@@ -276,19 +282,23 @@ A character range can be used to match a character that falls inside a range (or
 <li><span class="doxyComputerOutput">\s</span>, <span class="doxyComputerOutput">\d</span>, <span class="doxyComputerOutput">\a</span>, and <span class="doxyComputerOutput">\w</span> as explained above.</li>
 </ul>
 
+
 :::info
-that special characters <span class="doxyComputerOutput">.</span>, <span class="doxyComputerOutput">\*</span>, <span class="doxyComputerOutput">?</span>, <span class="doxyComputerOutput">$</span>, <span class="doxyComputerOutput">+</span>, <span class="doxyComputerOutput">\[</span> do not have a special meaning in a character range. <span class="doxyComputerOutput">^</span> only has a special meaning as the first character.
+<p>that special characters <span class="doxyComputerOutput">.</span>, <span class="doxyComputerOutput">*</span>, <span class="doxyComputerOutput">?</span>, <span class="doxyComputerOutput">$</span>, <span class="doxyComputerOutput">+</span>, <span class="doxyComputerOutput">[</span> do not have a special meaning in a character range. <span class="doxyComputerOutput">^</span> only has a special meaning as the first character.</p>
 :::
 
 
+
 :::info
-that capture ranges cannot be nested, and <span class="doxyComputerOutput">\*</span>, <span class="doxyComputerOutput">+</span>, and <span class="doxyComputerOutput">?</span> do not work on capture ranges. e.g. <span class="doxyComputerOutput">(abd)?</span> is not valid. If multiple capture ranges are specified then some character has to be in between them, e.g. this does not work <span class="doxyComputerOutput">(.\*)(a.\*)</span>, but this does <span class="doxyComputerOutput">(.\*)a(.\*)</span>.
+<p>that capture ranges cannot be nested, and <span class="doxyComputerOutput">*</span>, <span class="doxyComputerOutput">+</span>, and <span class="doxyComputerOutput">?</span> do not work on capture ranges. e.g. <span class="doxyComputerOutput">(abd)?</span> is not valid. If multiple capture ranges are specified then some character has to be in between them, e.g. this does not work <span class="doxyComputerOutput">(.*)(a.*)</span>, but this does <span class="doxyComputerOutput">(.*)a(.*)</span>.</p>
 :::
 
 
-In Wildcard mode <span class="doxyComputerOutput">\*</span> is used to match any sequence of zero or more characters. The character <span class="doxyComputerOutput">?</span> can be used to match an optional character. Character ranges are also supported, but other characters like <span class="doxyComputerOutput">$</span> and <span class="doxyComputerOutput">+</span> are just treated as literal characters.
+<p>In Wildcard mode <span class="doxyComputerOutput">*</span> is used to match any sequence of zero or more characters. The character <span class="doxyComputerOutput">?</span> can be used to match an optional character. Character ranges are also supported, but other characters like <span class="doxyComputerOutput">$</span> and <span class="doxyComputerOutput">+</span> are just treated as literal characters.</p>
 
-Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -305,9 +315,11 @@ Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>, <a href="#a8c11e4a47acf40a6747e2709961acdf9aaa3c0312d71dacb7f28dd70f21d32ac0">RegEx</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a470992837f9356c9ed07fb0913072ac2">reg::wildcard2regex</a>.
+<p>References <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>, <a href="#a8c11e4a47acf40a6747e2709961acdf9aaa3c0312d71dacb7f28dd70f21d32ac0">RegEx</a> and <a href="/web-doxygen/docs/api/namespaces/reg/#a470992837f9356c9ed07fb0913072ac2">reg::wildcard2regex</a>.</p>
 
-Referenced by <a href="#a197664abdebf160b5b621c3a78c01cf7">\~Ex</a>.
+
+<p>Referenced by <a href="#a197664abdebf160b5b621c3a78c01cf7">~Ex</a>.</p>
+
 </div>
 </div>
 
@@ -335,14 +347,17 @@ Referenced by <a href="#a197664abdebf160b5b621c3a78c01cf7">\~Ex</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Destroys the regular expression object.
+<p>Destroys the regular expression object.</p>
 
 
-Frees resources.
+<p>Frees resources.</p>
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
 
-References <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a> and <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
+
+<p>References <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a> and <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>.</p>
+
 </div>
 </div>
 
@@ -372,7 +387,8 @@ References <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a> and <a href="#a45
 
 
 
-Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,9 +400,11 @@ Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/regex-h
 </div>
 
 
-Reference <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>.
+<p>Reference <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0ab63cb2f20e16fa82b9b687d2b4b00">genericPatternMatch</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8f45edef0c9f7b3b0468e6fdb7cef71">getFilterFromList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0ab63cb2f20e16fa82b9b687d2b4b00">genericPatternMatch</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8f45edef0c9f7b3b0468e6fdb7cef71">getFilterFromList</a>.</p>
+
 </div>
 </div>
 
@@ -408,7 +426,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0ab63cb2f20e1
 </div>
 <div class="doxyMemberDoc">
 
-Check if a given string matches this regular expression.
+<p>Check if a given string matches this regular expression.</p>
 
 
 <dl class="doxyParamsList">
@@ -417,15 +435,15 @@ Check if a given string matches this regular expression.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">str</td>
-<td class="doxyParamItemDescription">The input string to match against.</td>
+<td class="doxyParamItemDescription"><p>The input string to match against.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">match</td>
-<td class="doxyParamItemDescription">The match object to hold the matching results.</td>
+<td class="doxyParamItemDescription"><p>The match object to hold the matching results.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">pos</td>
-<td class="doxyParamItemDescription">The position in the string at which to start the match.</td>
+<td class="doxyParamItemDescription"><p>The position in the string at which to start the match.</p></td>
 </tr>
 </table>
 </dd>
@@ -433,11 +451,12 @@ Check if a given string matches this regular expression.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>true iff a match is found. Details are stored in the match object.</dd>
+<dd><p>true iff a match is found. Details are stored in the match object.</p></dd>
 </dl>
 
 
-Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>, definition at line 706 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -479,9 +498,11 @@ Declaration at line 108 of file <a href="/web-doxygen/docs/api/files/src/regex-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a> and <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a> and <a href="#a22ceaa4b6fdbc31b5f65db3f03aadd89">p</a>.</p>
 
-Referenced by <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a64421aecc141803690cdb0d6d235354b">reg::match</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#abd83bf57cdc053d40135b7c8f211f2b9">reg::match</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ab6913d787be9fe9992c8804af851fab9">reg::replace</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a4d1ef4b86632c8deaa796bf008205ff9">reg::search</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="#a197664abdebf160b5b621c3a78c01cf7">\~Ex</a>.
+
+<p>Referenced by <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a64421aecc141803690cdb0d6d235354b">reg::match</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#abd83bf57cdc053d40135b7c8f211f2b9">reg::match</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ab6913d787be9fe9992c8804af851fab9">reg::replace</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a4d1ef4b86632c8deaa796bf008205ff9">reg::search</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="#a197664abdebf160b5b621c3a78c01cf7">~Ex</a>.</p>
+
 </div>
 </div>
 
@@ -511,7 +532,8 @@ Referenced by <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>, <a href="/
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -520,7 +542,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a>, <a href="#ab26ac71412d978b0a03ac996da2beb74">isValid</a> and <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>.
+<p>Referenced by <a href="#a54ed63c6793f8b7f2e026c26f12d4e67">Ex</a>, <a href="#ab26ac71412d978b0a03ac996da2beb74">isValid</a> and <a href="#a45dcd4878848bcefa4894aa48a2d9b83">match</a>.</p>
+
 </div>
 </div>
 

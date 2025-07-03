@@ -40,7 +40,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A class representing a macro definition. <a href="/web-doxygen/docs/api/classes/define/#details">More...</a>
+<p>A class representing a macro definition. <a href="/web-doxygen/docs/api/classes/define/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -60,7 +60,7 @@ A class representing a macro definition. <a href="/web-doxygen/docs/api/classes/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-List of all macro definitions. <a href="#ab12649134897cf8c6af2e297e58f60a3">More...</a>
+<p>List of all macro definitions. <a href="#ab12649134897cf8c6af2e297e58f60a3">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -105,9 +105,10 @@ List of all macro definitions. <a href="#ab12649134897cf8c6af2e297e58f60a3">More
 </div>
 <div class="doxyMemberDoc">
 
-List of all macro definitions.
+<p>List of all macro definitions.</p>
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -138,7 +139,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

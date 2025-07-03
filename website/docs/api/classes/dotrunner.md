@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotRunner` Class Reference
 
-Helper class to run dot from doxygen from multiple threads. <a href="#details">More...</a>
+<p>Helper class to run dot from doxygen from multiple threads. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotRunner { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates a runner for a dot <em>file</em>. <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">More...</a>
+<p>Creates a runner for a dot <em>file</em>. <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -61,7 +61,7 @@ Creates a runner for a dot <em>file</em>. <a href="#a8ba6e4b47e6ce736e0bb5f79ad5
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds an additional job to the run. <a href="#aa225ccd454acbadc5b6a23d9534e574f">More...</a>
+<p>Adds an additional job to the run. <a href="#aa225ccd454acbadc5b6a23d9534e574f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -75,7 +75,7 @@ Adds an additional job to the run. <a href="#aa225ccd454acbadc5b6a23d9534e574f">
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Prevent cleanup of the dot file (for user provided dot files) <a href="#a2c9b6af873f263c04913504d0f420274">More...</a>
+<p>Prevent cleanup of the dot file (for user provided dot files) <a href="#a2c9b6af873f263c04913504d0f420274">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ Prevent cleanup of the dot file (for user provided dot files) <a href="#a2c9b6af
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Runs dot for all jobs added. <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">More...</a>
+<p>Runs dot for all jobs added. <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -203,9 +203,10 @@ Runs dot for all jobs added. <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">More..
 
 ## Description {#details}
 
-Helper class to run dot from doxygen from multiple threads.
+<p>Helper class to run dot from doxygen from multiple threads.</p>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -229,9 +230,10 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 <div class="doxyMemberDoc">
 
-Creates a runner for a dot <em>file</em>.
+<p>Creates a runner for a dot <em>file</em>.</p>
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +248,8 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/dotrunne
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a1c2f7b08f473697c06b3ce70a225209c">m\_cleanUp</a>, <a href="#af1a045e6793a7e3e33d5c71ad891a964">m\_dotExe</a>, <a href="#a12014e4db074427453f9dd360a48ccd5">m\_file</a> and <a href="#a288a73cb08cf736dae7d49dc6440c139">m\_md5Hash</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="#a1c2f7b08f473697c06b3ce70a225209c">m_cleanUp</a>, <a href="#af1a045e6793a7e3e33d5c71ad891a964">m_dotExe</a>, <a href="#a12014e4db074427453f9dd360a48ccd5">m_file</a> and <a href="#a288a73cb08cf736dae7d49dc6440c139">m_md5Hash</a>.</p>
+
 </div>
 </div>
 
@@ -274,12 +277,14 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 </div>
 <div class="doxyMemberDoc">
 
-Adds an additional job to the run.
+<p>Adds an additional job to the run.</p>
 
 
-Performing multiple jobs one file can be faster.
+<p>Performing multiple jobs one file can be faster.</p>
 
-Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -301,9 +306,11 @@ Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotrunne
 </div>
 
 
-Reference <a href="#adcd62e844b3bec774046dc22fd973d71">m\_jobs</a>.
+<p>Reference <a href="#adcd62e844b3bec774046dc22fd973d71">m_jobs</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -332,7 +339,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -341,7 +349,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Reference <a href="#a288a73cb08cf736dae7d49dc6440c139">m\_md5Hash</a>.
+<p>Reference <a href="#a288a73cb08cf736dae7d49dc6440c139">m_md5Hash</a>.</p>
+
 </div>
 </div>
 
@@ -368,9 +377,10 @@ Reference <a href="#a288a73cb08cf736dae7d49dc6440c139">m\_md5Hash</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Prevent cleanup of the dot file (for user provided dot files)
+<p>Prevent cleanup of the dot file (for user provided dot files)</p>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -379,9 +389,11 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Reference <a href="#a1c2f7b08f473697c06b3ce70a225209c">m\_cleanUp</a>.
+<p>Reference <a href="#a1c2f7b08f473697c06b3ce70a225209c">m_cleanUp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -403,9 +415,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887cc
 </div>
 <div class="doxyMemberDoc">
 
-Runs dot for all jobs added.
+<p>Runs dot for all jobs added.</p>
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -495,9 +508,11 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotrunne
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ecc3800fb7d2590c6cf0c0f6a">checkPngResult</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err\_full</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a5cba77d157c52ffaef77df9fb2782230">getBaseNameOfOutput</a>, <a href="#a1c2f7b08f473697c06b3ce70a225209c">m\_cleanUp</a>, <a href="#af1a045e6793a7e3e33d5c71ad891a964">m\_dotExe</a>, <a href="#a12014e4db074427453f9dd360a48ccd5">m\_file</a>, <a href="#adcd62e844b3bec774046dc22fd973d71">m\_jobs</a>, <a href="#a288a73cb08cf736dae7d49dc6440c139">m\_md5Hash</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#aea20ab8f782b45746f1e20f5d0b565e6">MAX\_LATEX\_GRAPH\_SIZE</a>, <a href="#aec96a0d40271cb4f17bf0290e145d74b">readBoundingBox</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a394e935b6fd1899b26f8987f89a4cbfb">Portable::unlink</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ecc3800fb7d2590c6cf0c0f6a">checkPngResult</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aeeea1c30323e9f0c650090553516bc25">err_full</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a5cba77d157c52ffaef77df9fb2782230">getBaseNameOfOutput</a>, <a href="#a1c2f7b08f473697c06b3ce70a225209c">m_cleanUp</a>, <a href="#af1a045e6793a7e3e33d5c71ad891a964">m_dotExe</a>, <a href="#a12014e4db074427453f9dd360a48ccd5">m_file</a>, <a href="#adcd62e844b3bec774046dc22fd973d71">m_jobs</a>, <a href="#a288a73cb08cf736dae7d49dc6440c139">m_md5Hash</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#aea20ab8f782b45746f1e20f5d0b565e6">MAX_LATEX_GRAPH_SIZE</a>, <a href="#aec96a0d40271cb4f17bf0290e145d74b">readBoundingBox</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a394e935b6fd1899b26f8987f89a4cbfb">Portable::unlink</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e9debe6c7fa45a129bb">DotManager::run</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#aee48308a96887ccde586df24f0b73ca4">writeDotGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -527,7 +542,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotmanager/#a3b34d4c3e0ab9e
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -536,7 +552,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a href="#a2c9b6af873f263c04913504d0f420274">preventCleanUp</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.
+<p>Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a href="#a2c9b6af873f263c04913504d0f420274">preventCleanUp</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.</p>
+
 </div>
 </div>
 
@@ -560,7 +577,8 @@ Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a hre
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -569,7 +587,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.
+<p>Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.</p>
+
 </div>
 </div>
 
@@ -593,7 +612,8 @@ Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a 
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -602,7 +622,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.
+<p>Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.</p>
+
 </div>
 </div>
 
@@ -626,7 +647,8 @@ Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a> and <a 
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -635,7 +657,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#aa225ccd454acbadc5b6a23d9534e574f">addJob</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.
+<p>Referenced by <a href="#aa225ccd454acbadc5b6a23d9534e574f">addJob</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.</p>
+
 </div>
 </div>
 
@@ -659,7 +682,8 @@ Referenced by <a href="#aa225ccd454acbadc5b6a23d9534e574f">addJob</a> and <a hre
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -668,7 +692,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a href="#ad82151becd0923b5ad9e59c53c722923">getMd5Hash</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.
+<p>Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a href="#ad82151becd0923b5ad9e59c53c722923">getMd5Hash</a> and <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a>.</p>
+
 </div>
 </div>
 
@@ -703,7 +728,8 @@ Referenced by <a href="#a8ba6e4b47e6ce736e0bb5f79ad5231bb">DotRunner</a>, <a hre
 
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -828,9 +854,11 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotrunne
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ac7978878c5e2989e9739423aa06f805a">extractBoundingBox</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ac7978878c5e2989e9739423aa06f805a">extractBoundingBox</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.</p>
 
-Referenced by <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a> and <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a1e56aa086c8135c76d84de764845c20e">DotFilePatcher::writeVecGfxFigure</a>.
+
+<p>Referenced by <a href="#ac1afaee16ddd8bf0bc6b18aaed6b44fd">run</a> and <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a1e56aa086c8135c76d84de764845c20e">DotFilePatcher::writeVecGfxFigure</a>.</p>
+
 </div>
 </div>
 

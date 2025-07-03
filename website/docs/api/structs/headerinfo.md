@@ -90,7 +90,8 @@ struct HeaderInfo { ... }
 </table>
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -131,7 +133,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 </div>
 
 
-References <a href="#aadb5cc580d8f717af5e5bb6d7a1bb104">fileName</a>, <a href="#a448280742a2df4f4fd5b93462798432c">headerName</a> and <a href="#a720a057cad515ab806f6de193c6ee560">isSystem</a>.
+<p>References <a href="#aadb5cc580d8f717af5e5bb6d7a1bb104">fileName</a>, <a href="#a448280742a2df4f4fd5b93462798432c">headerName</a> and <a href="#a720a057cad515ab806f6de193c6ee560">isSystem</a>.</p>
+
 </div>
 </div>
 
@@ -161,7 +164,8 @@ References <a href="#aadb5cc580d8f717af5e5bb6d7a1bb104">fileName</a>, <a href="#
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -170,7 +174,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 </div>
 
 
-Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
+<p>Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.</p>
+
 </div>
 </div>
 
@@ -194,7 +199,8 @@ Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -203,7 +209,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 </div>
 
 
-Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
+<p>Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.</p>
+
 </div>
 </div>
 
@@ -227,7 +234,8 @@ Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,7 +244,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 </div>
 
 
-Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.
+<p>Referenced by <a href="#a7f7aea34c365532ab2bd373a69ea8655">HeaderInfo</a>.</p>
+
 </div>
 </div>
 

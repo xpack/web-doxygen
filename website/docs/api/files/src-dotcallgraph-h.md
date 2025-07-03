@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Representation of an call graph. <a href="/web-doxygen/docs/api/classes/dotcallgraph/#details">More...</a>
+<p>Representation of an call graph. <a href="/web-doxygen/docs/api/classes/dotcallgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -91,7 +91,8 @@ Representation of an call graph. <a href="/web-doxygen/docs/api/classes/dotcallg
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotcallgraph-h">dotcallgraph.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotcallgraph-h">dotcallgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

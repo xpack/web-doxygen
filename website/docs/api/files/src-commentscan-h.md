@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `commentscan.h` File Reference
 
-Interface for the comment block scanner. <a href="#details">More...</a>
+<p>Interface for the comment block scanner. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -80,7 +80,7 @@ Interface for the comment block scanner. <a href="#details">More...</a>
 
 ## Description {#details}
 
-Interface for the comment block scanner.
+<p>Interface for the comment block scanner.</p>
 
 <div class="doxySectionDef">
 
@@ -106,7 +106,8 @@ Interface for the comment block scanner.
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

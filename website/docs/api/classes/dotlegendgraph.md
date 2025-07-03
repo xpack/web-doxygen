@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotLegendGraph` Class Reference
 
-Representation of a legend explaining the meaning of boxes, arrows, and colors. <a href="#details">More...</a>
+<p>Representation of a legend explaining the meaning of boxes, arrows, and colors. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotLegendGraph { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
+<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -116,9 +116,10 @@ A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</
 
 ## Description {#details}
 
-Representation of a legend explaining the meaning of boxes, arrows, and colors.
+<p>Representation of a legend explaining the meaning of boxes, arrows, and colors.</p>
 
-Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>.
+<p>Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -144,7 +145,8 @@ Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/dotlegend
 
 
 
-Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,9 +166,11 @@ Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotlegen
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dotgraph/#a00a105210cfc45c863c9cdc3ffbf846b">DotGraph::absBaseName</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a241721d514fbcc695b83683c2be89018">DotGraph::absImgName</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="/web-doxygen/docs/api/classes/dotmanager/#af6eb5ac505738992f7440e4a5948997f">DotManager::instance</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dotgraph/#a00a105210cfc45c863c9cdc3ffbf846b">DotGraph::absBaseName</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a241721d514fbcc695b83683c2be89018">DotGraph::absImgName</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab1cc08326518f249ccae693a16f6a10d">getDotImageExtension</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="/web-doxygen/docs/api/classes/dotmanager/#af6eb5ac505738992f7440e4a5948997f">DotManager::instance</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a256c275d3b654245e85d7c04e8f417b9">writeGraphInfo</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a256c275d3b654245e85d7c04e8f417b9">writeGraphInfo</a>.</p>
+
 </div>
 </div>
 
@@ -201,7 +205,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#a256c275d3b654
 
 
 
-Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -234,7 +239,8 @@ Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/dotlegen
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a9d0f6d0fe9c95c9cb09769b9879db1ff">CallGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m\_theGraph</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#ad1c9b1e1192faac2bf956a6a3043be0c">DotNode::placeholderUrl</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b78366a17c9f1bda96523fa75948fda661fec9a2342cec45646e544">BITMAP</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72a9d0f6d0fe9c95c9cb09769b9879db1ff">CallGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m_theGraph</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#ad1c9b1e1192faac2bf956a6a3043be0c">DotNode::placeholderUrl</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.</p>
+
 </div>
 </div>
 
@@ -263,7 +269,8 @@ References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#ac60ef98d62b7836
 
 
 
-Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.
+<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -302,7 +309,8 @@ Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotlegen
 
 
 
-Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-h">dotlegendgraph.h</a>, definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/dotlegendgraph-cpp">dotlegendgraph.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

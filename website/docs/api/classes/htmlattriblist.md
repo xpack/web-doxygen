@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlAttribList` Class Reference
 
-Class representing a list of HTML attributes. <a href="#details">More...</a>
+<p>Class representing a list of HTML attributes. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -78,9 +78,10 @@ class HtmlAttribList { ... }
 
 ## Description {#details}
 
-Class representing a list of HTML attributes.
+<p>Class representing a list of HTML attributes.</p>
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -111,7 +112,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -132,9 +134,11 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a> and <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a> and <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed35896d1c9e47d264d12a85">HtmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed35896d1c9e47d264d12a85">HtmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -163,7 +167,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,9 +210,11 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af2c6ce63224938d2b3956b3e068bfa8a">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab06971ee32204757c136a8239efbe14c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a6185cb6e624208c3f4ffc97ac506b992">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ae8045f0e970c89316252774afa7ba6e7">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3185ae1b9ec057a569c7fe2028bde639">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a57828df222d35104882456ca963de01b">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa58041765d9fdcee90946dacbeb78486">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a26419facc6206c5d26e4973ffe74e364">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aed1aaa1f3a2968aab022220e3472b438">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ad1853fe217d1db39ead0b09185688cca">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a4f71b7f0fd9236e38d92839fe07e9cb9">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a8b1f0d351532074efc4bc79b3da7b4c4">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa913c394c4823af2ed130551750922fe">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a7403c2c1184b33f47de3b9257b929e41">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#acc9d92c357105ee35917a0ef6a1a847d">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ace45195acd5464fbc29281fd8d44c66d">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed35896d1c9e47d264d12a85">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aad17706c575aed161325cc59a01003f7">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a1c6b1244f9d0fc6df4f0d66e505e5437">HtmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af2c6ce63224938d2b3956b3e068bfa8a">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab06971ee32204757c136a8239efbe14c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a6185cb6e624208c3f4ffc97ac506b992">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ae8045f0e970c89316252774afa7ba6e7">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a3185ae1b9ec057a569c7fe2028bde639">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a57828df222d35104882456ca963de01b">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa58041765d9fdcee90946dacbeb78486">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a26419facc6206c5d26e4973ffe74e364">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aed1aaa1f3a2968aab022220e3472b438">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ad1853fe217d1db39ead0b09185688cca">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a4f71b7f0fd9236e38d92839fe07e9cb9">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a8b1f0d351532074efc4bc79b3da7b4c4">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa913c394c4823af2ed130551750922fe">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a7403c2c1184b33f47de3b9257b929e41">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#acc9d92c357105ee35917a0ef6a1a847d">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ace45195acd5464fbc29281fd8d44c66d">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ac4fd6827ed35896d1c9e47d264d12a85">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aad17706c575aed161325cc59a01003f7">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a1c6b1244f9d0fc6df4f0d66e505e5437">HtmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 

@@ -77,7 +77,8 @@ struct DotGroupCollaboration::Link { ... }
 </table>
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-References <a href="#aaea36ab56bf3845f2f60805a434b3262">label</a> and <a href="#a73dde739c55a41c9fd8cd2786dcc4f28">url</a>.
+<p>References <a href="#aaea36ab56bf3845f2f60805a434b3262">label</a> and <a href="#a73dde739c55a41c9fd8cd2786dcc4f28">url</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#aaea36ab56bf3845f2f60805a434b3262">label</a> and <a href="#
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.
+<p>Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.
+<p>Referenced by <a href="#aff5493ac2bf0b5badaa6eea804dabfbc">Link</a>.</p>
+
 </div>
 </div>
 

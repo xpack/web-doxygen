@@ -95,7 +95,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -104,7 +105,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a> and <a href="/web-doxygen/docs/api/structs/htags/#a0ce955dfddd8473bce6373e92532f12e">Htags::path2URL</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a> and <a href="/web-doxygen/docs/api/structs/htags/#a0ce955dfddd8473bce6373e92532f12e">Htags::path2URL</a>.</p>
+
 </div>
 </div>
 
@@ -133,7 +135,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308ce
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp">htags.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -142,7 +145,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/htags-cpp
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a91a5a1322fbff8f8ad136a3372964512">Htags::loadFilemap</a> and <a href="/web-doxygen/docs/api/structs/htags/#a0ce955dfddd8473bce6373e92532f12e">Htags::path2URL</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/htags/#a91a5a1322fbff8f8ad136a3372964512">Htags::loadFilemap</a> and <a href="/web-doxygen/docs/api/structs/htags/#a0ce955dfddd8473bce6373e92532f12e">Htags::path2URL</a>.</p>
+
 </div>
 </div>
 

@@ -101,7 +101,7 @@ struct fortranscannerYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Input string for prepass of line cont. '&amp;'. <a href="#a419c359a616d196e499eb66fc252b892">More...</a>
+<p>Input string for prepass of line cont. '&amp;'. <a href="#a419c359a616d196e499eb66fc252b892">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -115,7 +115,7 @@ Input string for prepass of line cont. '&amp;'. <a href="#a419c359a616d196e499eb
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5161a4">More...</a>
+<p>Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5161a4">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -649,7 +649,7 @@ Input string after command separator ';'. <a href="#a3365df3e84881def5c62ea5cbc5
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Accumulated modifiers of current statement, eg variable declaration. <a href="#a8253dba2876cdbafcd3c392b3f4e64e8">More...</a>
+<p>Accumulated modifiers of current statement, eg variable declaration. <a href="#a8253dba2876cdbafcd3c392b3f4e64e8">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -663,7 +663,7 @@ Accumulated modifiers of current statement, eg variable declaration. <a href="#a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Holds program scope-&gt;symbol name-&gt;symbol modifiers. <a href="#a1b0675f5b1906df12b15359acf46fe3d">More...</a>
+<p>Holds program scope-&gt;symbol name-&gt;symbol modifiers. <a href="#a1b0675f5b1906df12b15359acf46fe3d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -703,7 +703,7 @@ Holds program scope-&gt;symbol name-&gt;symbol modifiers. <a href="#a1b0675f5b19
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-counter for the number of main programs in this file <a href="#ae604d4642c3ae343ac91644cd0a48ac7">More...</a>
+<p>counter for the number of main programs in this file <a href="#ae604d4642c3ae343ac91644cd0a48ac7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -726,7 +726,8 @@ counter for the number of main programs in this file <a href="#ae604d4642c3ae343
 </table>
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -752,7 +753,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -783,7 +785,8 @@ Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -814,7 +817,8 @@ Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -845,7 +849,8 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -876,7 +881,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -907,7 +913,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -938,7 +945,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -969,7 +977,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1000,7 +1009,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1031,7 +1041,8 @@ Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1062,7 +1073,8 @@ Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1091,9 +1103,10 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-Accumulated modifiers of current statement, eg variable declaration.
+<p>Accumulated modifiers of current statement, eg variable declaration.</p>
 
-Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1124,7 +1137,8 @@ Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1155,7 +1169,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1186,7 +1201,8 @@ Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1217,7 +1233,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1248,7 +1265,8 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1279,7 +1297,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1310,7 +1329,8 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1341,7 +1361,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1372,7 +1393,8 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1403,7 +1425,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1434,7 +1457,8 @@ Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1465,7 +1489,8 @@ Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1496,7 +1521,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1527,7 +1553,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1558,7 +1585,8 @@ Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1589,7 +1617,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1620,7 +1649,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1651,7 +1681,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1682,7 +1713,8 @@ Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1713,7 +1745,8 @@ Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1744,7 +1777,8 @@ Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1775,7 +1809,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1806,7 +1841,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1835,9 +1871,10 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-Input string for prepass of line cont. '&amp;'.
+<p>Input string for prepass of line cont. '&amp;'.</p>
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1866,9 +1903,10 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-Input string after command separator ';'.
+<p>Input string after command separator ';'.</p>
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1899,7 +1937,8 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1930,7 +1969,8 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1961,7 +2001,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1992,7 +2033,8 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2023,7 +2065,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2052,9 +2095,10 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-counter for the number of main programs in this file
+<p>counter for the number of main programs in this file</p>
 
-Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2083,9 +2127,10 @@ Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-Holds program scope-&gt;symbol name-&gt;symbol modifiers.
+<p>Holds program scope-&gt;symbol name-&gt;symbol modifiers.</p>
 
-Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2116,7 +2161,8 @@ Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2147,7 +2193,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2178,7 +2225,8 @@ Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2209,7 +2257,8 @@ Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2240,7 +2289,8 @@ Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2271,7 +2321,8 @@ Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2302,7 +2353,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2333,7 +2385,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2364,7 +2417,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

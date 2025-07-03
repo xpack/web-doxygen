@@ -64,7 +64,8 @@ struct CharAroundSpace { ... }
 </table>
 
 
-Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 537 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 
 
 
-Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 </div>
 
 
-References <a href="#a9f874e448a5fc7480da8958bc6b90c20">charMap</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>References <a href="#a9f874e448a5fc7480da8958bc6b90c20">charMap</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -160,7 +163,8 @@ References <a href="#a9f874e448a5fc7480da8958bc6b90c20">charMap</a> and <a href=
 
 
 
-Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +173,8 @@ Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 </div>
 
 
-Referenced by <a href="#a87993e7a5f9850b46ea77092fe036468">CharAroundSpace</a>.
+<p>Referenced by <a href="#a87993e7a5f9850b46ea77092fe036468">CharAroundSpace</a>.</p>
+
 </div>
 </div>
 

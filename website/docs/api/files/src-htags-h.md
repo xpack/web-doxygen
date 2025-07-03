@@ -30,7 +30,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This class is a namespace for HTAGS related functions. <a href="/web-doxygen/docs/api/structs/htags/#details">More...</a>
+<p>This class is a namespace for HTAGS related functions. <a href="/web-doxygen/docs/api/structs/htags/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

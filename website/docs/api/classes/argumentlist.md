@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ArgumentList` Class Reference
 
-This class represents an function or template argument list. <a href="#details">More...</a>
+<p>This class represents an function or template argument list. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -635,12 +635,14 @@ class ArgumentList { ... }
 
 ## Description {#details}
 
-This class represents an function or template argument list.
+<p>This class represents an function or template argument list.</p>
 
 
-This class also stores some information about member that is typically put after the argument list, such as whether the member is const, volatile or pure virtual.
+<p>This class also stores some information about member that is typically put after the argument list, such as whether the member is const, volatile or pure virtual.</p>
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -666,7 +668,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/arguments
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -697,7 +700,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/arguments
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -728,7 +732,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/arguments
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -770,7 +775,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/arguments
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -779,9 +785,11 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>.</p>
+
 </div>
 </div>
 
@@ -810,7 +818,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -819,7 +828,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -848,7 +858,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -857,7 +868,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -886,7 +898,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -895,7 +908,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -924,7 +938,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -933,9 +948,11 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::\_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="#a3d2726240dff68120149845452e1d1ec">hasDocumentation</a>, <a href="#ab8454af348e4028ae2f003ef1f082369">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="#a3d2726240dff68120149845452e1d1ec">hasDocumentation</a>, <a href="#ab8454af348e4028ae2f003ef1f082369">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -964,7 +981,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -973,7 +991,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -1002,7 +1021,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1011,7 +1031,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -1040,7 +1061,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1049,7 +1071,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -1078,7 +1101,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1087,9 +1111,11 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>.
+
+<p>Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>.</p>
+
 </div>
 </div>
 
@@ -1118,7 +1144,8 @@ Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>.
 
 
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1127,9 +1154,11 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a348da6c9775a091fb9ec0468bc154457">m\_constSpecifier</a>.
+<p>Reference <a href="#a348da6c9775a091fb9ec0468bc154457">m_constSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -1158,7 +1187,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1167,9 +1197,11 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa4009560979330b7c6fb2cb3">findGlobalMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aa2b4c58062de6e3075936abc6c29dd7e">getTemplateArgumentsFromName</a>, <a href="#a2ed5c45b3909206446aaac4f1ab6d640">hasParameters</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1dc6b9f0a9cc58498da6f8d4ffe120c1">insertTemplateSpecifierInScope</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ab40d758b9f5159a2d26d0b59efe7e36d">searchTemplateSpecs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5f86911d03ddead5c20dc99ef4828d17">tempArgListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a02dbcdb9b0f5e4fc26ff2e2700f6aa4f">MemberDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a368ff211eb2074462c875f024ed1c3e3">writeTypeConstraints</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12b6dc9dc1885d61542b87b">addClassToContext</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab72aa92f752458fe8b7b855b75cc5598">buildFunctionList</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ad426893f12b2bc919bc61b3d95e8f471">DocParser::checkArgumentName</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f3c855d0eed91d3e4f728d4beff4080">computeTemplateClassRelations</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa4009560979330b7c6fb2cb3">findGlobalMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aa2b4c58062de6e3075936abc6c29dd7e">getTemplateArgumentsFromName</a>, <a href="#a2ed5c45b3909206446aaac4f1ab6d640">hasParameters</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a6ff307313c1b28d89ef63fef3590ad36">insertMemberDefineParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1dc6b9f0a9cc58498da6f8d4ffe120c1">insertTemplateSpecifierInScope</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ac5a5776af3b729d35a46d06054bc84da">isVarWithConstructor</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#a0327bf0462f4c2efcdc2103a587e560e">makeQualifiedNameWithTemplateParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ab40d758b9f5159a2d26d0b59efe7e36d">searchTemplateSpecs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5f86911d03ddead5c20dc99ef4828d17">tempArgListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a02dbcdb9b0f5e4fc26ff2e2700f6aa4f">MemberDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a368ff211eb2074462c875f024ed1c3e3">writeTypeConstraints</a>.</p>
+
 </div>
 </div>
 
@@ -1198,7 +1230,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a00bea66ca12
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1207,9 +1240,11 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::\_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="#a3d2726240dff68120149845452e1d1ec">hasDocumentation</a>, <a href="#ab8454af348e4028ae2f003ef1f082369">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07bb6a55566b5941239d23a">MemberDefImpl::_writeTemplatePrefix</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ada5b9e6fb75b1e07ba0602b2b40229db">MemberDefImpl::copyArgumentNames</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a55c1d02b9b69cd2fe313413575cc3d2c">generateDEFForMember</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="#a3d2726240dff68120149845452e1d1ec">hasDocumentation</a>, <a href="#ab8454af348e4028ae2f003ef1f082369">hasTemplateDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#acbd23ce837bcb562fbf5909c28e3ee06">MemberDefImpl::resolveUnnamedParameters</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a8974bb194ed8b33e8f81653c8aacf6">substituteTemplateArgumentsInString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6da766398ce7fc4fd2aa252bc2f695b6">substituteTemplatesInString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a916ded3150c496785b98bbd5c2bee442">transferArgumentDocumentation</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -1238,7 +1273,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a8a682f90e07
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1247,7 +1283,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -1276,7 +1313,8 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1285,9 +1323,11 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>.</p>
+
 </div>
 </div>
 
@@ -1316,7 +1356,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bb
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1325,7 +1366,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
+
 </div>
 </div>
 
@@ -1350,11 +1392,14 @@ Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
 
 
 
-Does any argument of this list have documentation?
+<p>Does any argument of this list have documentation?</p>
 
-the argument list is documented if one of its arguments is documented
 
-Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>, definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/arguments-cpp">arguments.cpp</a>.
+<p>the argument list is documented if one of its arguments is documented</p>
+
+
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>, definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/arguments-cpp">arguments.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1366,9 +1411,11 @@ Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-References <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a> and <a href="/web-doxygen/docs/api/structs/argument/#aca66c2b989361c43f7e1adfe9d7f125d">Argument::hasDocumentation</a>.
+<p>References <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a> and <a href="/web-doxygen/docs/api/structs/argument/#aca66c2b989361c43f7e1adfe9d7f125d">Argument::hasDocumentation</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae53504faf9e304d72ec1f2e38f3c9013">inlineArgListToDoc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae53504faf9e304d72ec1f2e38f3c9013">inlineArgListToDoc</a>.</p>
+
 </div>
 </div>
 
@@ -1398,9 +1445,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae53504faf9e304
 
 
 
-Does this list have zero or more parameters
+<p>Does this list have zero or more parameters</p>
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1412,9 +1461,11 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-References <a href="#aaa15ddcfdb06a535a3398f1dc73d336d">empty</a> and <a href="#a851fc0cb705a74527270303f54e59667">m\_noParameters</a>.
+<p>References <a href="#aaa15ddcfdb06a535a3398f1dc73d336d">empty</a> and <a href="#a851fc0cb705a74527270303f54e59667">m_noParameters</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a0e2b9604ce397bbe6984cf81775f4fda">addTemplateArgumentList</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a9ca249e8052f477d893edfc767948fcf">VhdlDocGen::writeFunctionProto</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a31b60db653850e1be9084b27153e6758">VhdlDocGen::writeProcessProto</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ade547304a708b89e5a5f55f7fb9db151">writeTemplateArgumentList</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a99c857205029d5e52c0a7c26f18ef3ed">VhdlDocGen::writeVHDLDeclaration</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a0e2b9604ce397bbe6984cf81775f4fda">addTemplateArgumentList</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac0e3122b4e6e26ee38ef45f59aaecf05">MemberDefImpl::detectUndocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a9ca249e8052f477d893edfc767948fcf">VhdlDocGen::writeFunctionProto</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a31b60db653850e1be9084b27153e6758">VhdlDocGen::writeProcessProto</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ade547304a708b89e5a5f55f7fb9db151">writeTemplateArgumentList</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a99c857205029d5e52c0a7c26f18ef3ed">VhdlDocGen::writeVHDLDeclaration</a>.</p>
+
 </div>
 </div>
 
@@ -1439,11 +1490,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 
 
 
-Does any template argument of this list have documentation?
+<p>Does any template argument of this list have documentation?</p>
 
-the template argument list is documented if one of its template arguments is documented
 
-Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>, definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/arguments-cpp">arguments.cpp</a>.
+<p>the template argument list is documented if one of its template arguments is documented</p>
+
+
+<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>, definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/arguments-cpp">arguments.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1455,9 +1509,11 @@ Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-References <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a> and <a href="/web-doxygen/docs/api/structs/argument/#ae3866d29516dff9ac0eb3a40b09db5a8">Argument::hasTemplateDocumentation</a>.
+<p>References <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a> and <a href="/web-doxygen/docs/api/structs/argument/#ae3866d29516dff9ac0eb3a40b09db5a8">Argument::hasTemplateDocumentation</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7cb019e5059fa4aa866434f8c310c210">inlineTemplateArgListToDoc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7cb019e5059fa4aa866434f8c310c210">inlineTemplateArgListToDoc</a>.</p>
+
 </div>
 </div>
 
@@ -1486,7 +1542,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7cb019e5059fa4
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1495,9 +1552,11 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a0deabbcbae6887ffce741eb58f319b16">m\_isDeleted</a>.
+<p>Reference <a href="#a0deabbcbae6887ffce741eb58f319b16">m_isDeleted</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1526,7 +1585,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1535,9 +1595,11 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a851fc0cb705a74527270303f54e59667">m\_noParameters</a>.
+<p>Reference <a href="#a851fc0cb705a74527270303f54e59667">m_noParameters</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1566,7 +1628,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1575,9 +1638,11 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a9c9feef4874f6313782f791bcf202a13">m\_pureSpecifier</a>.
+<p>Reference <a href="#a9c9feef4874f6313782f791bcf202a13">m_pureSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1606,7 +1671,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1615,9 +1681,11 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defdca68d716cface04a9b9aa37e">addSTLClass</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#aa9daed7f8f5651e85aaa17885e61134c">anonymous_namespace{tagreader.cpp}::TagFileParser::buildClassEntry</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1646,7 +1714,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/stlsupport-cpp/#a7137defd
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1655,9 +1724,11 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m\_refQualifier</a>.
+<p>Reference <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m_refQualifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -1686,7 +1757,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1705,7 +1777,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/arguments
 </div>
 
 
-References <a href="#aaea73e4e41b4659443b1b5cdd525dd1f">clear</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a348da6c9775a091fb9ec0468bc154457">m\_constSpecifier</a>, <a href="#a0deabbcbae6887ffce741eb58f319b16">m\_isDeleted</a>, <a href="#a851fc0cb705a74527270303f54e59667">m\_noParameters</a>, <a href="#a9c9feef4874f6313782f791bcf202a13">m\_pureSpecifier</a>, <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m\_refQualifier</a>, <a href="#a10e8b361749f3d20d000e80955238c2e">m\_trailingReturnType</a>, <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m\_volatileSpecifier</a> and <a href="/web-doxygen/docs/api/files/src/arguments-h/#a4f78d801ad01da94c75f928280228884a6adf97f83acf6453d4a6a4b1070f3754">None</a>.
+<p>References <a href="#aaea73e4e41b4659443b1b5cdd525dd1f">clear</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a348da6c9775a091fb9ec0468bc154457">m_constSpecifier</a>, <a href="#a0deabbcbae6887ffce741eb58f319b16">m_isDeleted</a>, <a href="#a851fc0cb705a74527270303f54e59667">m_noParameters</a>, <a href="#a9c9feef4874f6313782f791bcf202a13">m_pureSpecifier</a>, <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m_refQualifier</a>, <a href="#a10e8b361749f3d20d000e80955238c2e">m_trailingReturnType</a>, <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m_volatileSpecifier</a> and <a href="/web-doxygen/docs/api/files/src/arguments-h/#a4f78d801ad01da94c75f928280228884a6adf97f83acf6453d4a6a4b1070f3754">None</a>.</p>
+
 </div>
 </div>
 
@@ -1734,7 +1807,8 @@ References <a href="#aaea73e4e41b4659443b1b5cdd525dd1f">clear</a>, <a href="/web
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1743,9 +1817,11 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a348da6c9775a091fb9ec0468bc154457">m\_constSpecifier</a>.
+<p>Reference <a href="#a348da6c9775a091fb9ec0468bc154457">m_constSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1774,7 +1850,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1783,9 +1860,11 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a0deabbcbae6887ffce741eb58f319b16">m\_isDeleted</a>.
+<p>Reference <a href="#a0deabbcbae6887ffce741eb58f319b16">m_isDeleted</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1814,7 +1893,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1823,9 +1903,11 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a851fc0cb705a74527270303f54e59667">m\_noParameters</a>.
+<p>Reference <a href="#a851fc0cb705a74527270303f54e59667">m_noParameters</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1854,7 +1936,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1863,9 +1946,11 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a9c9feef4874f6313782f791bcf202a13">m\_pureSpecifier</a>.
+<p>Reference <a href="#a9c9feef4874f6313782f791bcf202a13">m_pureSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1894,7 +1979,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1903,9 +1989,11 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m\_refQualifier</a>.
+<p>Reference <a href="#a5e9c07bc193ee177d91a806d3db3aae2">m_refQualifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1934,7 +2022,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1943,9 +2032,11 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a10e8b361749f3d20d000e80955238c2e">m\_trailingReturnType</a>.
+<p>Reference <a href="#a10e8b361749f3d20d000e80955238c2e">m_trailingReturnType</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -1974,7 +2065,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1983,9 +2075,11 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m\_volatileSpecifier</a>.
+<p>Reference <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m_volatileSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>.</p>
+
 </div>
 </div>
 
@@ -2014,7 +2108,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d0262277
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2023,9 +2118,11 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m\_args</a>.
+<p>Reference <a href="#a49823c3de63572710ede8d6a3070ee9a">m_args</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a33fa889d7e70cd1c2cab56a16790d9b5">FlowChart::alignFuncProc</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa4009560979330b7c6fb2cb3">findGlobalMember</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a8741a4a807c8e1808f82c08f00152a2f">GroupDefImpl::insertMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#aee87f24daab068f794ea908f33a86c3f">VhdlDocGen::writeFuncProcDocu</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a9ca249e8052f477d893edfc767948fcf">VhdlDocGen::writeFunctionProto</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4ab757dead7796d93d5a534ae1c11e69">VhdlDocGen::writeProcedureProto</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9cd55b82e9bde25d70f247">addMemberFunction</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a33fa889d7e70cd1c2cab56a16790d9b5">FlowChart::alignFuncProc</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a9ca6efdbb8e10b7908ad6906f26ff1bd">DocParser::checkUnOrMultipleDocumentedParams</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#abaf3303e28a7a9e34bdcfbe4bfc893cb">combineDeclarationAndDefinition</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a5dc8c4afa4009560979330b7c6fb2cb3">findGlobalMember</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a8741a4a807c8e1808f82c08f00152a2f">GroupDefImpl::insertMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a3a9064a0bd3f19c550c68c5839dec5a6">insertMemberFunctionParams</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a294b2f8587b6f511bac156c5e945ff34">matchTemplateArguments</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abfa0499109cd76100ecdad2fa752ed3b">mergeArguments</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#aee87f24daab068f794ea908f33a86c3f">VhdlDocGen::writeFuncProcDocu</a>, <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a9ca249e8052f477d893edfc767948fcf">VhdlDocGen::writeFunctionProto</a> and <a href="/web-doxygen/docs/api/classes/vhdldocgen/#a4ab757dead7796d93d5a534ae1c11e69">VhdlDocGen::writeProcedureProto</a>.</p>
+
 </div>
 </div>
 
@@ -2054,7 +2151,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3a9544cc7b9
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2063,9 +2161,11 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a10e8b361749f3d20d000e80955238c2e">m\_trailingReturnType</a>.
+<p>Reference <a href="#a10e8b361749f3d20d000e80955238c2e">m_trailingReturnType</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a31cfb988a49ee5b4f6e0f64dded34507">MemberDefImpl::warnIfUndocumentedParams</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a31cfb988a49ee5b4f6e0f64dded34507">MemberDefImpl::warnIfUndocumentedParams</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -2094,7 +2194,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2103,9 +2204,11 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Reference <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m\_volatileSpecifier</a>.
+<p>Reference <a href="#a8a2f26fdab07c5bf8ac52651fb8e1229">m_volatileSpecifier</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0b0e684f768a380d2db">argListToString</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a1d2fc28014f00de3422ac4b7a68b868a">PerlModGenerator::generatePerlModForMember</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ae37a1510e5c7b3f007b41d8f8c152e9f">generateSqlite3ForMember</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#abb22b874f40605b95d50a182262feddb">generateXMLForMember</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a78739b1ab728bbecd4d3e54ae90bbbce">matchArguments2</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3f7d02622777ba912fcf5896be16c013">substituteTemplatesInArgList</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a5109f6f8128e0b9169ac9b8ebe29ba64">writeDefArgumentList</a>.</p>
+
 </div>
 </div>
 
@@ -2135,7 +2238,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9d5c2a3aefbda0
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2144,7 +2248,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#acc1e900dbe37733434eef1d805ee61ba">at</a>, <a href="#a3c47f644dbc3f4fb61e018889a744f81">at</a>, <a href="#a016f5a9b5431ebac34a2697258a1c085">back</a>, <a href="#a4a3cefc0a494e7375c9f072b5728b06f">back</a>, <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#ad9b04e3aa2b824b84d3242043c7128fe">begin</a>, <a href="#a46a3bc9367f1790feba9500d7c60493a">cbegin</a>, <a href="#a43bbf946be0bd313a11ccb8f06a88f62">cend</a>, <a href="#aaea73e4e41b4659443b1b5cdd525dd1f">clear</a>, <a href="#aaa15ddcfdb06a535a3398f1dc73d336d">empty</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a>, <a href="#a18c70e7e30584e7f94635d578c8f767e">end</a>, <a href="#a3c86608e0790d8d86314bf4bc24936c2">front</a>, <a href="#ae85e611936b54f49f6a173c486391c35">front</a>, <a href="#aa80c14f74871d9274671a9e33ac3c870">push\_back</a> and <a href="#a4d651caeb995400fad17d4ab4a020a3a">size</a>.
+<p>Referenced by <a href="#acc1e900dbe37733434eef1d805ee61ba">at</a>, <a href="#a3c47f644dbc3f4fb61e018889a744f81">at</a>, <a href="#a016f5a9b5431ebac34a2697258a1c085">back</a>, <a href="#a4a3cefc0a494e7375c9f072b5728b06f">back</a>, <a href="#acc52d012d093df1adede055164f69dc9">begin</a>, <a href="#ad9b04e3aa2b824b84d3242043c7128fe">begin</a>, <a href="#a46a3bc9367f1790feba9500d7c60493a">cbegin</a>, <a href="#a43bbf946be0bd313a11ccb8f06a88f62">cend</a>, <a href="#aaea73e4e41b4659443b1b5cdd525dd1f">clear</a>, <a href="#aaa15ddcfdb06a535a3398f1dc73d336d">empty</a>, <a href="#a215181845c0d9f0525806a4165c4f552">end</a>, <a href="#a18c70e7e30584e7f94635d578c8f767e">end</a>, <a href="#a3c86608e0790d8d86314bf4bc24936c2">front</a>, <a href="#ae85e611936b54f49f6a173c486391c35">front</a>, <a href="#aa80c14f74871d9274671a9e33ac3c870">push_back</a> and <a href="#a4d651caeb995400fad17d4ab4a020a3a">size</a>.</p>
+
 </div>
 </div>
 
@@ -2169,9 +2274,11 @@ Referenced by <a href="#acc1e900dbe37733434eef1d805ee61ba">at</a>, <a href="#a3c
 
 
 
-Does the member modify the state of the class?
+<p>Does the member modify the state of the class?</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2180,7 +2287,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#a72440ac7985da3c0c465134bc0ddd2d5">constSpecifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#aaa8cb70709cb79c37f5c9ffdf6ea82d9">setConstSpecifier</a>.
+<p>Referenced by <a href="#a72440ac7985da3c0c465134bc0ddd2d5">constSpecifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#aaa8cb70709cb79c37f5c9ffdf6ea82d9">setConstSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -2205,9 +2313,11 @@ Referenced by <a href="#a72440ac7985da3c0c465134bc0ddd2d5">constSpecifier</a>, <
 
 
 
-method with =delete
+<p>method with =delete</p>
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2216,7 +2326,8 @@ Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#a483b5375dcb5f02a27c8d5808ab7a7e9">isDeleted</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#ab6d26192d62941751a6c0d53163fee4f">setIsDeleted</a>.
+<p>Referenced by <a href="#a483b5375dcb5f02a27c8d5808ab7a7e9">isDeleted</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#ab6d26192d62941751a6c0d53163fee4f">setIsDeleted</a>.</p>
+
 </div>
 </div>
 
@@ -2241,9 +2352,11 @@ Referenced by <a href="#a483b5375dcb5f02a27c8d5808ab7a7e9">isDeleted</a>, <a hre
 
 
 
-is it an explicit empty list
+<p>is it an explicit empty list</p>
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2252,7 +2365,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#a2ed5c45b3909206446aaac4f1ab6d640">hasParameters</a>, <a href="#a17fe630d07d1579382657bde568ee0db">noParameters</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#add72bfdcd9da1cf65f419c062a16ce6d">setNoParameters</a>.
+<p>Referenced by <a href="#a2ed5c45b3909206446aaac4f1ab6d640">hasParameters</a>, <a href="#a17fe630d07d1579382657bde568ee0db">noParameters</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#add72bfdcd9da1cf65f419c062a16ce6d">setNoParameters</a>.</p>
+
 </div>
 </div>
 
@@ -2277,9 +2391,11 @@ Referenced by <a href="#a2ed5c45b3909206446aaac4f1ab6d640">hasParameters</a>, <a
 
 
 
-Is this a pure virtual member?
+<p>Is this a pure virtual member?</p>
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2288,7 +2404,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#a20632203b62a0d845730849def34561f">pureSpecifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#a4dc90f086eb52e42816d5f2f813ed358">setPureSpecifier</a>.
+<p>Referenced by <a href="#a20632203b62a0d845730849def34561f">pureSpecifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#a4dc90f086eb52e42816d5f2f813ed358">setPureSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -2313,9 +2430,11 @@ Referenced by <a href="#a20632203b62a0d845730849def34561f">pureSpecifier</a>, <a
 
 
 
-C++11 ref qualifier
+<p>C++11 ref qualifier</p>
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2324,7 +2443,8 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#a10a0f5f25aa7f3c97ac071169c85e4ac">refQualifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#aaae8c33d0b5b20d86407af80d4e1c713">setRefQualifier</a>.
+<p>Referenced by <a href="#a10a0f5f25aa7f3c97ac071169c85e4ac">refQualifier</a>, <a href="#af63051a24ce92667516c4f9a80e08619">reset</a> and <a href="#aaae8c33d0b5b20d86407af80d4e1c713">setRefQualifier</a>.</p>
+
 </div>
 </div>
 
@@ -2349,9 +2469,11 @@ Referenced by <a href="#a10a0f5f25aa7f3c97ac071169c85e4ac">refQualifier</a>, <a 
 
 
 
-C++11 style Trailing return type?
+<p>C++11 style Trailing return type?</p>
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2360,7 +2482,8 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>, <a href="#a2a4aee2018dc2a3ca82bd152966949b1">setTrailingReturnType</a> and <a href="#a4cb7b4a29cb7e4564014d024f8de9bc5">trailingReturnType</a>.
+<p>Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>, <a href="#a2a4aee2018dc2a3ca82bd152966949b1">setTrailingReturnType</a> and <a href="#a4cb7b4a29cb7e4564014d024f8de9bc5">trailingReturnType</a>.</p>
+
 </div>
 </div>
 
@@ -2385,9 +2508,11 @@ Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>, <a href="#
 
 
 
-Is the member volatile?
+<p>Is the member volatile?</p>
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2396,7 +2521,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/argument
 </div>
 
 
-Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>, <a href="#af15b01fcff4f0be4ed8c40200752c8f3">setVolatileSpecifier</a> and <a href="#ad03f25174e81a42a617a15195a8867b0">volatileSpecifier</a>.
+<p>Referenced by <a href="#af63051a24ce92667516c4f9a80e08619">reset</a>, <a href="#af15b01fcff4f0be4ed8c40200752c8f3">setVolatileSpecifier</a> and <a href="#ad03f25174e81a42a617a15195a8867b0">volatileSpecifier</a>.</p>
+
 </div>
 </div>
 

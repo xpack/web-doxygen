@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ThreadPool` Class Reference
 
-Class managing a pool of worker threads. <a href="#details">More...</a>
+<p>Class managing a pool of worker threads. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class ThreadPool { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-start N threads in the thread pool. <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">More...</a>
+<p>start N threads in the thread pool. <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -87,7 +87,7 @@ start N threads in the thread pool. <a href="#a786db3b3e0aac5ca3e43c37025ab22b0"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-deletes the thread pool by finishing all threads <a href="#a44d3d2ab618970605e684efc216655eb">More...</a>
+<p>deletes the thread pool by finishing all threads <a href="#a44d3d2ab618970605e684efc216655eb">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -142,7 +142,7 @@ deletes the thread pool by finishing all threads <a href="#a44d3d2ab618970605e68
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Queue the callable function <em>f</em> for the threads to execute. <a href="#a90398abffcd9d81901195160315b1bc9">More...</a>
+<p>Queue the callable function <em>f</em> for the threads to execute. <a href="#a90398abffcd9d81901195160315b1bc9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,7 @@ Queue the callable function <em>f</em> for the threads to execute. <a href="#a90
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-finish enques a "stop the thread" message for every thread, then waits for them to finish <a href="#a1fc76489de6e11c259ccf8f072fe135d">More...</a>
+<p>finish enques a "stop the thread" message for every thread, then waits for them to finish <a href="#a1fc76489de6e11c259ccf8f072fe135d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -244,12 +244,14 @@ finish enques a "stop the thread" message for every thread, then waits for them 
 
 ## Description {#details}
 
-Class managing a pool of worker threads.
+<p>Class managing a pool of worker threads.</p>
 
 
-Work can be queued by passing a function to <a href="#a90398abffcd9d81901195160315b1bc9">queue()</a>. A future will be returned that can be used to obtain the result of the function after execution.
+<p>Work can be queued by passing a function to <a href="#a90398abffcd9d81901195160315b1bc9">queue()</a>. A future will be returned that can be used to obtain the result of the function after execution.</p>
 
-Usage example:
+
+<p>Usage example:</p>
+
 
 <div class="doxyProgramListing">
 
@@ -268,7 +270,8 @@ Usage example:
 </div>
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -297,9 +300,10 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/threadpoo
 </div>
 <div class="doxyMemberDoc">
 
-start N threads in the thread pool.
+<p>start N threads in the thread pool.</p>
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -320,9 +324,11 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/threadpoo
 </div>
 
 
-References <a href="#aa297cb723c1d6d8ac4fad073fd9ccfa0">m\_finished</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.
+<p>References <a href="#aa297cb723c1d6d8ac4fad073fd9ccfa0">m_finished</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.</p>
 
-Referenced by <a href="#afec5f97d2b512da75aa10897ef12a2a8">operator=</a>, <a href="#ad979aa170c8c04f5fb5f1d941ef9d5a2">operator=</a>, <a href="#a8af7ebd9779dcab6e0a48f80e8962d08">ThreadPool</a> and <a href="#ad1bbb23b57e3ae24cdc7df015c49fba1">ThreadPool</a>.
+
+<p>Referenced by <a href="#afec5f97d2b512da75aa10897ef12a2a8">operator=</a>, <a href="#ad979aa170c8c04f5fb5f1d941ef9d5a2">operator=</a>, <a href="#a8af7ebd9779dcab6e0a48f80e8962d08">ThreadPool</a> and <a href="#ad1bbb23b57e3ae24cdc7df015c49fba1">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -351,9 +357,11 @@ Referenced by <a href="#afec5f97d2b512da75aa10897ef12a2a8">operator=</a>, <a hre
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
 
-Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+
+<p>Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -382,9 +390,11 @@ Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
 
-Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+
+<p>Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -417,9 +427,10 @@ Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
 </div>
 <div class="doxyMemberDoc">
 
-deletes the thread pool by finishing all threads
+<p>deletes the thread pool by finishing all threads</p>
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -431,7 +442,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/threadpoo
 </div>
 
 
-Reference <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>.
+<p>Reference <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>.</p>
+
 </div>
 </div>
 
@@ -466,9 +478,11 @@ Reference <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>.
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
 
-Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+
+<p>Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -497,9 +511,11 @@ Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
 
-Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+
+<p>Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -532,9 +548,10 @@ Reference <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
 </div>
 <div class="doxyMemberDoc">
 
-finish enques a "stop the thread" message for every thread, then waits for them to finish
+<p>finish enques a "stop the thread" message for every thread, then waits for them to finish</p>
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -555,9 +572,11 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m\_cond</a>, <a href="#aa297cb723c1d6d8ac4fad073fd9ccfa0">m\_finished</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m\_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m\_work</a>.
+<p>References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m_cond</a>, <a href="#aa297cb723c1d6d8ac4fad073fd9ccfa0">m_finished</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m_work</a>.</p>
 
-Referenced by <a href="#a44d3d2ab618970605e684efc216655eb">\~ThreadPool</a>.
+
+<p>Referenced by <a href="#a44d3d2ab618970605e684efc216655eb">~ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -585,12 +604,14 @@ Referenced by <a href="#a44d3d2ab618970605e684efc216655eb">\~ThreadPool</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Queue the callable function <em>f</em> for the threads to execute.
+<p>Queue the callable function <em>f</em> for the threads to execute.</p>
 
 
-A future of the return type of the function is returned to capture the result.
+<p>A future of the return type of the function is returned to capture the result.</p>
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -618,9 +639,11 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/threadpoo
 </div>
 
 
-References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m\_cond</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m\_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m\_work</a>.
+<p>References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m_cond</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m_work</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adc2cc0c0248747e3608de552a9947cfb">computeTooltipTexts</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0cb7d6c9c783e1376142dbe33d01f821">generateDocsForClassList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a57a6bc5421d2bc55208fa100ee7d4a0b">generateFileDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e238a458b7a64ef221973a4">generateNamespaceClassDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#af69cff788100ddb682f88658018d3969">parseFilesMultiThreading</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adc2cc0c0248747e3608de552a9947cfb">computeTooltipTexts</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0cb7d6c9c783e1376142dbe33d01f821">generateDocsForClassList</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a57a6bc5421d2bc55208fa100ee7d4a0b">generateFileDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a6d0fb628b1fc96844bb2836317a3ce5a">generateFileSources</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a61b713e61e238a458b7a64ef221973a4">generateNamespaceClassDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#af69cff788100ddb682f88658018d3969">parseFilesMultiThreading</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -655,7 +678,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#adc2cc0c0248
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -685,9 +709,11 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m\_cond</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m\_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m\_work</a>.
+<p>References <a href="#aea3e5ca7e471639fdd30c8bde0670616">m_cond</a>, <a href="#a8111098c66bef75793ca4f954c46b7c2">m_mutex</a> and <a href="#a7779e4d1698359b2057d696a7d162f57">m_work</a>.</p>
 
-Referenced by <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+
+<p>Referenced by <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -717,7 +743,8 @@ Referenced by <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
 
 
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -726,7 +753,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.
+<p>Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.</p>
+
 </div>
 </div>
 
@@ -750,7 +778,8 @@ Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -759,7 +788,8 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a> and <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.
+<p>Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a> and <a href="#a786db3b3e0aac5ca3e43c37025ab22b0">ThreadPool</a>.</p>
+
 </div>
 </div>
 
@@ -783,7 +813,8 @@ Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a> and <a hre
 
 
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -792,7 +823,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.
+<p>Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.</p>
+
 </div>
 </div>
 
@@ -816,7 +848,8 @@ Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/threadpool-h">threadpool.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -825,7 +858,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/threadpo
 </div>
 
 
-Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.
+<p>Referenced by <a href="#a1fc76489de6e11c259ccf8f072fe135d">finish</a>, <a href="#a90398abffcd9d81901195160315b1bc9">queue</a> and <a href="#a630a5230a8d6a8ba5c11b88ccc91c32b">threadTask</a>.</p>
+
 </div>
 </div>
 

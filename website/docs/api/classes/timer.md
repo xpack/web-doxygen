@@ -77,7 +77,8 @@ class Timer { ... }
 </table>
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/debug-cp
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -123,7 +125,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/debug-cp
 </div>
 
 
-Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
+<p>Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m_startTime</a>.</p>
+
 </div>
 </div>
 
@@ -152,7 +155,8 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,7 +168,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/debug-cp
 </div>
 
 
-Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
+<p>Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m_startTime</a>.</p>
+
 </div>
 </div>
 
@@ -194,7 +199,8 @@ Reference <a href="#a4d1bd480e339ce43c46e0ccbad7fe0b6">m\_startTime</a>.
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/debug-cpp">debug.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -203,7 +209,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/debug-cp
 </div>
 
 
-Referenced by <a href="#a9b89127c8224e7fb787da4f11ef8d364">elapsedTimeS</a> and <a href="#a3a8b5272198d029779dc9302a54305a8">start</a>.
+<p>Referenced by <a href="#a9b89127c8224e7fb787da4f11ef8d364">elapsedTimeS</a> and <a href="#a3a8b5272198d029779dc9302a54305a8">start</a>.</p>
+
 </div>
 </div>
 

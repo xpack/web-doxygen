@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocCite` Class Reference
 
-Node representing a citation of some bibliographic reference. <a href="#details">More...</a>
+<p>Node representing a citation of some bibliographic reference. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocCite { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
+<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -252,9 +252,10 @@ Abstract node interface with type information. <a href="/web-doxygen/docs/api/cl
 
 ## Description {#details}
 
-Node representing a citation of some bibliographic reference.
+<p>Node representing a citation of some bibliographic reference.</p>
 
-Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -280,7 +281,8 @@ Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 
 
 
-Declaration at line 247 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Declaration at line 247 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -323,7 +325,8 @@ Declaration at line 247 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/citationmanager/#a10ba17e783f502c2998a7432c84fd462">CitationManager::anchorPrefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8e04495ad97c6aab7960cc989e3f8c67">convertNameToFile</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade05cab342d2aec59e05a3b7ec166a19">CitationManager::fileName</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a2904843bbc4e5d707386d5dce049692e">CitationManager::find</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a73b0f4274d2fcf8f2486f0178203d369">CiteInfo::label</a>, <a href="#a1985709e0f736b7148c936a44ad0375b">m\_anchor</a>, <a href="#acd033679522c44c8269ccf204682948c">m\_file</a>, <a href="#ad69189f1156125ffd3290a538104cc11">m\_option</a>, <a href="#ab876dfb86e5405f526341c08d59ac5c5">m\_ref</a>, <a href="#a7deaa43265db210216da1ab031156762">m\_relPath</a>, <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m\_target</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="#aba1e595baf53edff52edf749074abce8">target</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a529432d49773c937493ebfedcdb27cbb">CiteInfo::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn\_doc\_error</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/citationmanager/#a10ba17e783f502c2998a7432c84fd462">CitationManager::anchorPrefix</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aca68c0d4ac8df0838e209fb5300f7be3">ASSERT</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8e04495ad97c6aab7960cc989e3f8c67">convertNameToFile</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#ade05cab342d2aec59e05a3b7ec166a19">CitationManager::fileName</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a2904843bbc4e5d707386d5dce049692e">CitationManager::find</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a73b0f4274d2fcf8f2486f0178203d369">CiteInfo::label</a>, <a href="#a1985709e0f736b7148c936a44ad0375b">m_anchor</a>, <a href="#acd033679522c44c8269ccf204682948c">m_file</a>, <a href="#ad69189f1156125ffd3290a538104cc11">m_option</a>, <a href="#ab876dfb86e5405f526341c08d59ac5c5">m_ref</a>, <a href="#a7deaa43265db210216da1ab031156762">m_relPath</a>, <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m_target</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>, <a href="#aba1e595baf53edff52edf749074abce8">target</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a529432d49773c937493ebfedcdb27cbb">CiteInfo::text</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#affeb66895cdcfb6b1eb0eba2daafba89">warn_doc_error</a>.</p>
+
 </div>
 </div>
 
@@ -358,7 +361,8 @@ References <a href="/web-doxygen/docs/api/classes/citationmanager/#a10ba17e783f5
 
 
 
-Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -367,9 +371,11 @@ Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#a1985709e0f736b7148c936a44ad0375b">m\_anchor</a>.
+<p>Reference <a href="#a1985709e0f736b7148c936a44ad0375b">m_anchor</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -398,7 +404,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0
 
 
 
-Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -407,9 +414,11 @@ Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#acd033679522c44c8269ccf204682948c">m\_file</a>.
+<p>Reference <a href="#acd033679522c44c8269ccf204682948c">m_file</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -433,7 +442,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0
 
 
 
-Declaration at line 254 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.
+<p>Declaration at line 254 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>, definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -460,9 +470,11 @@ Declaration at line 254 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/citationmanager/#a2904843bbc4e5d707386d5dce049692e">CitationManager::find</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="#ad69189f1156125ffd3290a538104cc11">m\_option</a>, <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m\_target</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a63247d43d110f14a0525d73e9f012d3e">CiteInfo::shortAuthor</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a529432d49773c937493ebfedcdb27cbb">CiteInfo::text</a> and <a href="/web-doxygen/docs/api/structs/citeinfo/#ad3b0c7d19be5846fae0feb7cac35c049">CiteInfo::year</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/citationmanager/#a2904843bbc4e5d707386d5dce049692e">CitationManager::find</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a4934f7fbd6a387b7cc2ea0a12a2e04b5">CitationManager::instance</a>, <a href="#ad69189f1156125ffd3290a538104cc11">m_option</a>, <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m_target</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a63247d43d110f14a0525d73e9f012d3e">CiteInfo::shortAuthor</a>, <a href="/web-doxygen/docs/api/structs/citeinfo/#a529432d49773c937493ebfedcdb27cbb">CiteInfo::text</a> and <a href="/web-doxygen/docs/api/structs/citeinfo/#ad3b0c7d19be5846fae0feb7cac35c049">CiteInfo::year</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -491,7 +503,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0
 
 
 
-Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -500,9 +513,11 @@ Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#ad69189f1156125ffd3290a538104cc11">m\_option</a>.
+<p>Reference <a href="#ad69189f1156125ffd3290a538104cc11">m_option</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -531,7 +546,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0
 
 
 
-Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -540,9 +556,11 @@ Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#ab876dfb86e5405f526341c08d59ac5c5">m\_ref</a>.
+<p>Reference <a href="#ab876dfb86e5405f526341c08d59ac5c5">m_ref</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -571,7 +589,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba60315
 
 
 
-Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -580,9 +599,11 @@ Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#a7deaa43265db210216da1ab031156762">m\_relPath</a>.
+<p>Reference <a href="#a7deaa43265db210216da1ab031156762">m_relPath</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -611,7 +632,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba60315
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -620,9 +642,11 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m\_target</a>.
+<p>Reference <a href="#a60cd128ade66b941cb7b29b58e9a3c0a">m_target</a>.</p>
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5b206a0c1382df26146e64cde69d1085">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a73cba6031502ee804823f22bceee63b6">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a718bc15298af2003de3afb45ee5a9794">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a91c4bac8e040dd09f551e84422be0330">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#afe433f28083f19e3e5d52d79f47cda34">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8b41cc5c80471d8cbb6fb7a8bbd55bf2">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a31e19a340fe2392303f138f3d0d046f0">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -652,7 +676,8 @@ Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href=
 
 
 
-Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -661,7 +686,8 @@ Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#acb79082b3765794abb193fcef75b1b2e">anchor</a> and <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>.
+<p>Referenced by <a href="#acb79082b3765794abb193fcef75b1b2e">anchor</a> and <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>.</p>
+
 </div>
 </div>
 
@@ -685,7 +711,8 @@ Referenced by <a href="#acb79082b3765794abb193fcef75b1b2e">anchor</a> and <a hre
 
 
 
-Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -694,7 +721,8 @@ Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#ae842d125098f64d7ee7bb1b955f2f6ba">file</a>.
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#ae842d125098f64d7ee7bb1b955f2f6ba">file</a>.</p>
+
 </div>
 </div>
 
@@ -718,7 +746,8 @@ Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a hr
 
 
 
-Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -727,7 +756,8 @@ Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="#a294548216265b2291dfb8654750d4920">getText</a> and <a href="#aafaea054e0d069a474232f1cb3a5092e">option</a>.
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="#a294548216265b2291dfb8654750d4920">getText</a> and <a href="#aafaea054e0d069a474232f1cb3a5092e">option</a>.</p>
+
 </div>
 </div>
 
@@ -751,7 +781,8 @@ Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href=
 
 
 
-Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -760,7 +791,8 @@ Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#ae5f235deff96cbae64d906842654abea">ref</a>.
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#ae5f235deff96cbae64d906842654abea">ref</a>.</p>
+
 </div>
 </div>
 
@@ -784,7 +816,8 @@ Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a hr
 
 
 
-Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -793,7 +826,8 @@ Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#a9d9d6c80250e7a9d18216a3eea4375ac">relPath</a>.
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a href="#a9d9d6c80250e7a9d18216a3eea4375ac">relPath</a>.</p>
+
 </div>
 </div>
 
@@ -817,7 +851,8 @@ Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a> and <a hr
 
 
 
-Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -826,7 +861,8 @@ Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="#a294548216265b2291dfb8654750d4920">getText</a> and <a href="#aba1e595baf53edff52edf749074abce8">target</a>.
+<p>Referenced by <a href="#ac4ad900c3524f1e1451d26329e285acf">DocCite</a>, <a href="#a294548216265b2291dfb8654750d4920">getText</a> and <a href="#aba1e595baf53edff52edf749074abce8">target</a>.</p>
+
 </div>
 </div>
 

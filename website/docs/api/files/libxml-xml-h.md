@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Event handlers that can installed by the client and called while parsing a XML document. <a href="/web-doxygen/docs/api/classes/xmlhandlers/#details">More...</a>
+<p>Event handlers that can installed by the client and called while parsing a XML document. <a href="/web-doxygen/docs/api/classes/xmlhandlers/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

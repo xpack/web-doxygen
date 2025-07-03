@@ -45,7 +45,8 @@ struct LatexDocVisitor::LatexListItemInfo { ... }
 </table>
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

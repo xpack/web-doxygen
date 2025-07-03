@@ -133,7 +133,7 @@ struct codeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-the code fragment as text <a href="#a98d559227d3997932f482cd32815ac6f">More...</a>
+<p>the code fragment as text <a href="#a98d559227d3997932f482cd32815ac6f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -147,7 +147,7 @@ the code fragment as text <a href="#a98d559227d3997932f482cd32815ac6f">More...</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-read offset during parsing <a href="#abc494e931744747f1a9af70ce9a646b6">More...</a>
+<p>read offset during parsing <a href="#abc494e931744747f1a9af70ce9a646b6">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -187,7 +187,7 @@ read offset during parsing <a href="#abc494e931744747f1a9af70ce9a646b6">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-number of line in the code fragment <a href="#ae0fa88f20cb79b9a1c87825e36617a27">More...</a>
+<p>number of line in the code fragment <a href="#ae0fa88f20cb79b9a1c87825e36617a27">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -201,7 +201,7 @@ number of line in the code fragment <a href="#ae0fa88f20cb79b9a1c87825e36617a27"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-current line number <a href="#ac610a765b75eae27ee09129d395be2f3">More...</a>
+<p>current line number <a href="#ac610a765b75eae27ee09129d395be2f3">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -228,7 +228,7 @@ current line number <a href="#ac610a765b75eae27ee09129d395be2f3">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8">More...</a>
+<p>for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -359,7 +359,7 @@ for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-1 if bracket starts a scope, <a href="#a581583ddfc8f0b8ce6a7292c79953d1f">More...</a>
+<p>1 if bracket starts a scope, <a href="#a581583ddfc8f0b8ce6a7292c79953d1f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1097,7 +1097,8 @@ for CSharp files scoped namespace { <a href="#af72379e46f95f8d21225e6f48eba33d8"
 </table>
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -1123,7 +1124,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/code-l">c
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1160,7 +1162,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1191,7 +1194,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1222,7 +1226,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1253,7 +1258,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1284,7 +1290,8 @@ Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1315,7 +1322,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1346,7 +1354,8 @@ Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1377,7 +1386,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/code-l">c
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1418,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1439,7 +1450,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1470,7 +1482,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1501,7 +1514,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1532,7 +1546,8 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1563,7 +1578,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1594,7 +1610,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1625,7 +1642,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1656,7 +1674,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1687,7 +1706,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1718,7 +1738,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1749,7 +1770,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1780,7 +1802,8 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1811,7 +1834,8 @@ Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1842,7 +1866,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1873,7 +1898,8 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1904,7 +1930,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1935,7 +1962,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1966,7 +1994,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1997,7 +2026,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2028,7 +2058,8 @@ Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2059,7 +2090,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2090,7 +2122,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2121,7 +2154,8 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2152,7 +2186,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2183,7 +2218,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2212,9 +2248,10 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-number of line in the code fragment
+<p>number of line in the code fragment</p>
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2243,9 +2280,10 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-read offset during parsing
+<p>read offset during parsing</p>
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2274,9 +2312,10 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-the code fragment as text
+<p>the code fragment as text</p>
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2307,7 +2346,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2338,7 +2378,8 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2369,7 +2410,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2400,7 +2442,8 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2431,7 +2474,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2462,7 +2506,8 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2493,7 +2538,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2524,7 +2570,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2555,7 +2602,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2586,7 +2634,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2617,7 +2666,8 @@ Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2648,7 +2698,8 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2679,7 +2730,8 @@ Definition at line 150 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2710,7 +2762,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2741,7 +2794,8 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2772,7 +2826,8 @@ Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2803,7 +2858,8 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2834,7 +2890,8 @@ Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2865,7 +2922,8 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2896,7 +2954,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2927,7 +2986,8 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2958,7 +3018,8 @@ Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2989,7 +3050,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3020,7 +3082,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3051,7 +3114,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3082,7 +3146,8 @@ Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3113,7 +3178,8 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3144,7 +3210,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3173,9 +3240,10 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-1 if bracket starts a scope,
+<p>1 if bracket starts a scope,</p>
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3206,7 +3274,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3237,7 +3306,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3268,7 +3338,8 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3297,9 +3368,10 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-for CSharp files scoped namespace {
+<p>for CSharp files scoped namespace {</p>
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3330,7 +3402,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3361,7 +3434,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3392,7 +3466,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3423,7 +3498,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3454,7 +3530,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3485,7 +3562,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3516,7 +3594,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3547,7 +3626,8 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3578,7 +3658,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 
 
 
-Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3607,9 +3688,10 @@ Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/code-l">
 </div>
 <div class="doxyMemberDoc">
 
-current line number
+<p>current line number</p>
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/code-l">code.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

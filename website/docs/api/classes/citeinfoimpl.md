@@ -36,7 +36,7 @@ class CiteInfoImpl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details">More...</a>
+<p>Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -220,7 +220,8 @@ Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details"
 </table>
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -251,7 +252,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -261,7 +263,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-References <a href="#a62d86288cd90fcf3bc64d5709c0b58ec">label</a>, <a href="#a2f8f1502d3781dd27a17ef370e1ead9e">m\_label</a>, <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m\_shortAuthor</a>, <a href="#a74c65d323840f81d3d9c44ca47dc547d">m\_text</a>, <a href="#a900782696dce2d2b55a6a697af634621">m\_year</a> and <a href="#a631a50e7a8e5be06af617c591975c19d">text</a>.
+<p>References <a href="#a62d86288cd90fcf3bc64d5709c0b58ec">label</a>, <a href="#a2f8f1502d3781dd27a17ef370e1ead9e">m_label</a>, <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m_shortAuthor</a>, <a href="#a74c65d323840f81d3d9c44ca47dc547d">m_text</a>, <a href="#a900782696dce2d2b55a6a697af634621">m_year</a> and <a href="#a631a50e7a8e5be06af617c591975c19d">text</a>.</p>
+
 </div>
 </div>
 
@@ -297,7 +300,8 @@ References <a href="#a62d86288cd90fcf3bc64d5709c0b58ec">label</a>, <a href="#a2f
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -306,9 +310,11 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a2f8f1502d3781dd27a17ef370e1ead9e">m\_label</a>.
+<p>Reference <a href="#a2f8f1502d3781dd27a17ef370e1ead9e">m_label</a>.</p>
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.
+
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.</p>
+
 </div>
 </div>
 
@@ -337,7 +343,8 @@ Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -346,7 +353,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m\_shortAuthor</a>.
+<p>Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m_shortAuthor</a>.</p>
+
 </div>
 </div>
 
@@ -375,7 +383,8 @@ Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m\_shortAuthor</a>.
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,7 +393,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a74c65d323840f81d3d9c44ca47dc547d">m\_text</a>.
+<p>Reference <a href="#a74c65d323840f81d3d9c44ca47dc547d">m_text</a>.</p>
+
 </div>
 </div>
 
@@ -413,7 +423,8 @@ Reference <a href="#a74c65d323840f81d3d9c44ca47dc547d">m\_text</a>.
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -422,7 +433,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a900782696dce2d2b55a6a697af634621">m\_year</a>.
+<p>Reference <a href="#a900782696dce2d2b55a6a697af634621">m_year</a>.</p>
+
 </div>
 </div>
 
@@ -452,7 +464,8 @@ Reference <a href="#a900782696dce2d2b55a6a697af634621">m\_year</a>.
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -461,7 +474,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m\_shortAuthor</a>.
+<p>Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m_shortAuthor</a>.</p>
+
 </div>
 </div>
 
@@ -491,7 +505,8 @@ Reference <a href="#a6648032c63d4e3d7e9d4d9d20da5479b">m\_shortAuthor</a>.
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -500,9 +515,11 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a74c65d323840f81d3d9c44ca47dc547d">m\_text</a>.
+<p>Reference <a href="#a74c65d323840f81d3d9c44ca47dc547d">m_text</a>.</p>
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.
+
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.</p>
+
 </div>
 </div>
 
@@ -532,7 +549,8 @@ Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>.
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -541,7 +559,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Reference <a href="#a900782696dce2d2b55a6a697af634621">m\_year</a>.
+<p>Reference <a href="#a900782696dce2d2b55a6a697af634621">m_year</a>.</p>
+
 </div>
 </div>
 
@@ -571,7 +590,8 @@ Reference <a href="#a900782696dce2d2b55a6a697af634621">m\_year</a>.
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -580,7 +600,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a> and <a href="#a62d86288cd90fcf3bc64d5709c0b58ec">label</a>.
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a> and <a href="#a62d86288cd90fcf3bc64d5709c0b58ec">label</a>.</p>
+
 </div>
 </div>
 
@@ -604,7 +625,8 @@ Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a> and 
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -613,7 +635,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#ae0d88bbb3bdfd15a2476e88a8eab1944">setShortAuthor</a> and <a href="#ad5ec47accd3fcc7681811cb6ef5e74e9">shortAuthor</a>.
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#ae0d88bbb3bdfd15a2476e88a8eab1944">setShortAuthor</a> and <a href="#ad5ec47accd3fcc7681811cb6ef5e74e9">shortAuthor</a>.</p>
+
 </div>
 </div>
 
@@ -637,7 +660,8 @@ Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a 
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -646,7 +670,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#a12e4bd452233001e56c6da6c847f787e">setText</a> and <a href="#a631a50e7a8e5be06af617c591975c19d">text</a>.
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#a12e4bd452233001e56c6da6c847f787e">setText</a> and <a href="#a631a50e7a8e5be06af617c591975c19d">text</a>.</p>
+
 </div>
 </div>
 
@@ -670,7 +695,8 @@ Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a 
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -679,7 +705,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#ad95aa9be138fd43021854060cf9f9db2">setYear</a> and <a href="#a707341c8cc8ddf86a226810404e97a7b">year</a>.
+<p>Referenced by <a href="#ab3b713fffdd7af40a9d905f1b52bf9fb">CiteInfoImpl</a>, <a href="#ad95aa9be138fd43021854060cf9f9db2">setYear</a> and <a href="#a707341c8cc8ddf86a226810404e97a7b">year</a>.</p>
+
 </div>
 </div>
 

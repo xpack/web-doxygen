@@ -45,7 +45,8 @@ class ModuleList { ... }
 </table>
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
 
 <hr/>
 

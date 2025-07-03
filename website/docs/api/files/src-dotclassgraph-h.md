@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Representation of a class inheritance or dependency graph. <a href="/web-doxygen/docs/api/classes/dotclassgraph/#details">More...</a>
+<p>Representation of a class inheritance or dependency graph. <a href="/web-doxygen/docs/api/classes/dotclassgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -91,7 +91,8 @@ Representation of a class inheritance or dependency graph. <a href="/web-doxygen
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/dotclassgraph-h">dotclassgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

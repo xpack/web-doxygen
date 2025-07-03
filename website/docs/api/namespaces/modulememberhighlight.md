@@ -112,7 +112,8 @@ namespace ModuleMemberHighlight { ... }
 </dd>
 </dl>
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/index-h">index.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `LayoutDocEntryMemberDecl` Struct Reference
 
-Represents of a member declaration list with configurable title and subtitle. <a href="#details">More...</a>
+<p>Represents of a member declaration list with configurable title and subtitle. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ struct LayoutDocEntryMemberDecl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class representing a piece of a documentation page. <a href="/web-doxygen/docs/api/structs/layoutdocentry/#details">More...</a>
+<p>Base class representing a piece of a documentation page. <a href="/web-doxygen/docs/api/structs/layoutdocentry/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -219,9 +219,10 @@ Base class representing a piece of a documentation page. <a href="/web-doxygen/d
 
 ## Description {#details}
 
-Represents of a member declaration list with configurable title and subtitle.
+<p>Represents of a member declaration list with configurable title and subtitle.</p>
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -252,7 +253,8 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -263,7 +265,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-References <a href="#a71c695113b496329bb063adff33aab57">id</a>, <a href="#a2fa48da6fd2dc22d4b1b54ed95bf44db">m\_id</a>, <a href="#ac7d4e950a3e302a54fe13cf47fe8c021">m\_subscript</a>, <a href="#af52cd75d27400907a9aee577dd5475b1">m\_title</a>, <a href="#a49b52eceaf06d040e1e69933ce82034e">m\_visible</a> and <a href="#a9a03c58c4e1d6e007eabd27834106db4">type</a>.
+<p>References <a href="#a71c695113b496329bb063adff33aab57">id</a>, <a href="#a2fa48da6fd2dc22d4b1b54ed95bf44db">m_id</a>, <a href="#ac7d4e950a3e302a54fe13cf47fe8c021">m_subscript</a>, <a href="#af52cd75d27400907a9aee577dd5475b1">m_title</a>, <a href="#a49b52eceaf06d040e1e69933ce82034e">m_visible</a> and <a href="#a9a03c58c4e1d6e007eabd27834106db4">type</a>.</p>
+
 </div>
 </div>
 
@@ -299,7 +302,8 @@ References <a href="#a71c695113b496329bb063adff33aab57">id</a>, <a href="#a2fa48
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -308,9 +312,11 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Reference <a href="#a2fa48da6fd2dc22d4b1b54ed95bf44db">m\_id</a>.
+<p>Reference <a href="#a2fa48da6fd2dc22d4b1b54ed95bf44db">m_id</a>.</p>
 
-Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>.
+
+<p>Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>.</p>
+
 </div>
 </div>
 
@@ -340,7 +346,8 @@ Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberD
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -371,7 +378,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 
 
 
-Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line 1791 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line 1791 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -383,9 +391,11 @@ Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/layout-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/layout-cpp/#af079449c7fca1ffd687c7b964cceb15c">extractLanguageSpecificTitle</a> and <a href="#ac7d4e950a3e302a54fe13cf47fe8c021">m\_subscript</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/layout-cpp/#af079449c7fca1ffd687c7b964cceb15c">extractLanguageSpecificTitle</a> and <a href="#ac7d4e950a3e302a54fe13cf47fe8c021">m_subscript</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -409,7 +419,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036
 
 
 
-Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line 1786 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>, definition at line 1786 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -421,9 +432,11 @@ Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/layout-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/layout-cpp/#af079449c7fca1ffd687c7b964cceb15c">extractLanguageSpecificTitle</a> and <a href="#af52cd75d27400907a9aee577dd5475b1">m\_title</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/layout-cpp/#af079449c7fca1ffd687c7b964cceb15c">extractLanguageSpecificTitle</a> and <a href="#af52cd75d27400907a9aee577dd5475b1">m_title</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad9ade8c43232b499c51f41859454a664">ClassDefImpl::writeAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ae6e1b872b3bbe57b824a2ce8983f7038">FileDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#af9ce6d925ff37249d1a59874ac14fc49">GroupDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a301d6ac11841a0bf0b420e8c47d402a5">ModuleDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#aab158675591976d0b50ca51071b7a761">NamespaceDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad28ce13d37a783efc856e85b0cdb791c">ClassDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a26fe21b32c7e96c3c50f8cfd2e06e89f">FileDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a1cd6f5eb27ef6ca1ded4532bd38323b0">GroupDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#ad9a159e7a8e4ed36a862252a284e0d24">ModuleDefImpl::writeSummaryLinks</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#af7fd110aa3bb86ad68c64ff39239d8fd">NamespaceDefImpl::writeSummaryLinks</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad9ade8c43232b499c51f41859454a664">ClassDefImpl::writeAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ae6e1b872b3bbe57b824a2ce8983f7038">FileDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#af9ce6d925ff37249d1a59874ac14fc49">GroupDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a301d6ac11841a0bf0b420e8c47d402a5">ModuleDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#aab158675591976d0b50ca51071b7a761">NamespaceDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad28ce13d37a783efc856e85b0cdb791c">ClassDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a26fe21b32c7e96c3c50f8cfd2e06e89f">FileDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a1cd6f5eb27ef6ca1ded4532bd38323b0">GroupDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#ad9a159e7a8e4ed36a862252a284e0d24">ModuleDefImpl::writeSummaryLinks</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#af7fd110aa3bb86ad68c64ff39239d8fd">NamespaceDefImpl::writeSummaryLinks</a>.</p>
+
 </div>
 </div>
 
@@ -453,7 +466,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -462,9 +476,11 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Reference <a href="#a49b52eceaf06d040e1e69933ce82034e">m\_visible</a>.
+<p>Reference <a href="#a49b52eceaf06d040e1e69933ce82034e">m_visible</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a57b6528e8c47fc04f0ca3aa71fbb1dcb">ModuleDefImpl::writeTagFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a57b6528e8c47fc04f0ca3aa71fbb1dcb">ModuleDefImpl::writeTagFile</a>.</p>
+
 </div>
 </div>
 
@@ -494,7 +510,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a57b6528e8c4
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -503,7 +520,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a4a1478cb4a1ba9d12204b6061241a6ec">ClassDefImpl::countAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a65da06e287af8337fb13d15a3e976cc8">ModuleDefImpl::countVisibleMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a2629ab8d1e500f052c39bde8a52711af">ClassDefImpl::setAnonymousEnumType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad9ade8c43232b499c51f41859454a664">ClassDefImpl::writeAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a6e1ed35b84f6375897482fc8b753affd">ClassDefImpl::writeDeclaration</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ae6e1b872b3bbe57b824a2ce8983f7038">FileDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#af9ce6d925ff37249d1a59874ac14fc49">GroupDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a301d6ac11841a0bf0b420e8c47d402a5">ModuleDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#aab158675591976d0b50ca51071b7a761">NamespaceDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a98f02f28ab5ec9b1a51543a7ef4ba1ab">writeModuleMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad28ce13d37a783efc856e85b0cdb791c">ClassDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a26fe21b32c7e96c3c50f8cfd2e06e89f">FileDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a1cd6f5eb27ef6ca1ded4532bd38323b0">GroupDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#ad9a159e7a8e4ed36a862252a284e0d24">ModuleDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#af7fd110aa3bb86ad68c64ff39239d8fd">NamespaceDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a3d1a9e0be346811184a93c9337e12f93">ClassDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a6426eeffa8f2ff5b40e5c0a24f82ea46">FileDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a610be194f2a4ad7dbcee5265e45b9058">GroupDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a57b6528e8c47fc04f0ca3aa71fbb1dcb">ModuleDefImpl::writeTagFile</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a4bbc6ca08fcd6e9ccbfd15cdf3bfbf1d">NamespaceDefImpl::writeTagFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a4a1478cb4a1ba9d12204b6061241a6ec">ClassDefImpl::countAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a65da06e287af8337fb13d15a3e976cc8">ModuleDefImpl::countVisibleMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a80477acfb036d1755b9b393698cd8f69">ClassDefImpl::getTitleForMemberListType</a>, <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a2629ab8d1e500f052c39bde8a52711af">ClassDefImpl::setAnonymousEnumType</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad9ade8c43232b499c51f41859454a664">ClassDefImpl::writeAdditionalInheritedMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a6e1ed35b84f6375897482fc8b753affd">ClassDefImpl::writeDeclaration</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ae6e1b872b3bbe57b824a2ce8983f7038">FileDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#af9ce6d925ff37249d1a59874ac14fc49">GroupDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a301d6ac11841a0bf0b420e8c47d402a5">ModuleDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#aab158675591976d0b50ca51071b7a761">NamespaceDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae849568cb2c125f1d3a89a41e3ded5d7">ClassDefImpl::writeDocumentationContents</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a568422fd73419e4985d3782a874439d0">ClassDefImpl::writeInlineDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a98f02f28ab5ec9b1a51543a7ef4ba1ab">writeModuleMembers</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#ad28ce13d37a783efc856e85b0cdb791c">ClassDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a26fe21b32c7e96c3c50f8cfd2e06e89f">FileDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a1cd6f5eb27ef6ca1ded4532bd38323b0">GroupDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#ad9a159e7a8e4ed36a862252a284e0d24">ModuleDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#af7fd110aa3bb86ad68c64ff39239d8fd">NamespaceDefImpl::writeSummaryLinks</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a3d1a9e0be346811184a93c9337e12f93">ClassDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a6426eeffa8f2ff5b40e5c0a24f82ea46">FileDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a610be194f2a4ad7dbcee5265e45b9058">GroupDefImpl::writeTagFile</a>, <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a57b6528e8c47fc04f0ca3aa71fbb1dcb">ModuleDefImpl::writeTagFile</a> and <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#a4bbc6ca08fcd6e9ccbfd15cdf3bfbf1d">NamespaceDefImpl::writeTagFile</a>.</p>
+
 </div>
 </div>
 
@@ -533,7 +551,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a4a1478cb4a1b
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -542,7 +561,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Referenced by <a href="#a71c695113b496329bb063adff33aab57">id</a> and <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>.
+<p>Referenced by <a href="#a71c695113b496329bb063adff33aab57">id</a> and <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a>.</p>
+
 </div>
 </div>
 
@@ -566,7 +586,8 @@ Referenced by <a href="#a71c695113b496329bb063adff33aab57">id</a> and <a href="#
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -575,7 +596,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#ac0d8d0be507c58dd5c3fe02fd986369b">subtitle</a>.
+<p>Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#ac0d8d0be507c58dd5c3fe02fd986369b">subtitle</a>.</p>
+
 </div>
 </div>
 
@@ -599,7 +621,8 @@ Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberD
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -608,7 +631,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#a20f84bd3015b092b218ec7eb7f66897e">title</a>.
+<p>Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#a20f84bd3015b092b218ec7eb7f66897e">title</a>.</p>
+
 </div>
 </div>
 
@@ -632,7 +656,8 @@ Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberD
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/layout-h">layout.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -641,7 +666,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/layout-h
 </div>
 
 
-Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#ac9f3acff053b51cf124a14d36f4eb64b">visible</a>.
+<p>Referenced by <a href="#a1801867aa743007220fc55e216183d34">LayoutDocEntryMemberDecl</a> and <a href="#ac9f3acff053b51cf124a14d36f4eb64b">visible</a>.</p>
+
 </div>
 </div>
 

@@ -129,7 +129,8 @@ struct DocLexerContext { ... }
 </table>
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -170,7 +172,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-References <a href="#af642c9d98d61a5f08c615d79a0c4fcd1">autoListLevel</a>, <a href="#ad213136475bcdea433cfb13e30ec5f2e">inputPos</a>, <a href="#a2635bb7ec48f95756b72f5ce53d19500">inputString</a>, <a href="#af2e9a68a5dac05327ccc406c1a8e2669">rule</a>, <a href="#aff59ac36da3634c543277ef8b5575aca">state</a> and <a href="#a24d036164334e9185f473bbc24a865a9">token</a>.
+<p>References <a href="#af642c9d98d61a5f08c615d79a0c4fcd1">autoListLevel</a>, <a href="#ad213136475bcdea433cfb13e30ec5f2e">inputPos</a>, <a href="#a2635bb7ec48f95756b72f5ce53d19500">inputString</a>, <a href="#af2e9a68a5dac05327ccc406c1a8e2669">rule</a>, <a href="#aff59ac36da3634c543277ef8b5575aca">state</a> and <a href="#a24d036164334e9185f473bbc24a865a9">token</a>.</p>
+
 </div>
 </div>
 
@@ -200,7 +203,8 @@ References <a href="#af642c9d98d61a5f08c615d79a0c4fcd1">autoListLevel</a>, <a hr
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -209,7 +213,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 
@@ -233,7 +238,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -242,7 +248,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 
@@ -266,7 +273,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -275,7 +283,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 
@@ -299,7 +308,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -308,7 +318,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 
@@ -332,7 +343,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -341,7 +353,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 
@@ -365,7 +378,8 @@ Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-l">doctokenizer.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -374,7 +388,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.
+<p>Referenced by <a href="#adea932b01c5c23ea0d08df4d0220d560">DocLexerContext</a>.</p>
+
 </div>
 </div>
 

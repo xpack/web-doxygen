@@ -58,7 +58,8 @@ struct CommentScanner::Private { ... }
 </table>
 
 
-Definition at line 4697 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 4697 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 4697 of file <a href="/web-doxygen/docs/api/files/src/comment
 
 
 
-Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 4700 of file <a href="/web-doxygen/docs/api/files/src/comment
 
 
 
-Definition at line 4699 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 4699 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

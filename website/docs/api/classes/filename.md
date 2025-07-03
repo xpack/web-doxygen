@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FileName` Class Reference
 
-Class representing all files with a certain base name. <a href="#details">More...</a>
+<p>Class representing all files with a certain base name. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -155,9 +155,10 @@ class FileName { ... }
 
 ## Description {#details}
 
-Class representing all files with a certain base name.
+<p>Class representing all files with a certain base name.</p>
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -188,7 +189,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/filename-
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -197,7 +199,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-References <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m\_fName</a>, <a href="#abacd1385f37913de5257403f0c80d8ee">m\_name</a> and <a href="#a1dbfce58743f807b8076e99ebd76f585">m\_pathName</a>.
+<p>References <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m_fName</a>, <a href="#abacd1385f37913de5257403f0c80d8ee">m_name</a> and <a href="#a1dbfce58743f807b8076e99ebd76f585">m_pathName</a>.</p>
+
 </div>
 </div>
 
@@ -232,7 +235,8 @@ References <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m\_fName</a>, <a href="#
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -241,7 +245,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Reference <a href="#abacd1385f37913de5257403f0c80d8ee">m\_name</a>.
+<p>Reference <a href="#abacd1385f37913de5257403f0c80d8ee">m_name</a>.</p>
+
 </div>
 </div>
 
@@ -270,7 +275,8 @@ Reference <a href="#abacd1385f37913de5257403f0c80d8ee">m\_name</a>.
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -279,7 +285,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Reference <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m\_fName</a>.
+<p>Reference <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m_fName</a>.</p>
+
 </div>
 </div>
 
@@ -308,7 +315,8 @@ Reference <a href="#a9326d5d4bffbbdf8aa7b074d2dde9fed">m\_fName</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -317,7 +325,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Reference <a href="#a1dbfce58743f807b8076e99ebd76f585">m\_pathName</a>.
+<p>Reference <a href="#a1dbfce58743f807b8076e99ebd76f585">m_pathName</a>.</p>
+
 </div>
 </div>
 
@@ -347,7 +356,8 @@ Reference <a href="#a1dbfce58743f807b8076e99ebd76f585">m\_pathName</a>.
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -356,7 +366,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#aea60bd790ae0d85f32e45012037f8179">fullName</a>.
+<p>Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#aea60bd790ae0d85f32e45012037f8179">fullName</a>.</p>
+
 </div>
 </div>
 
@@ -380,7 +391,8 @@ Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a h
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -389,7 +401,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#a6d2360fc171cd55eb3087d214ed588e3">fileName</a>.
+<p>Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#a6d2360fc171cd55eb3087d214ed588e3">fileName</a>.</p>
+
 </div>
 </div>
 
@@ -413,7 +426,8 @@ Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a h
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -422,7 +436,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#a44177c39b03e97607e775aa86b173b8e">path</a>.
+<p>Referenced by <a href="#a7a0e19ccc71dc3cb33ba5973b710c83d">FileName</a> and <a href="#a44177c39b03e97607e775aa86b173b8e">path</a>.</p>
+
 </div>
 </div>
 

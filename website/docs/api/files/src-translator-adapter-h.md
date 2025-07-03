@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a>
+<p>Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -193,7 +193,7 @@ Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/tran
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adapter class for languages that only contain translations up to version 1.8.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#details">More...</a>
+<p>Adapter class for languages that only contain translations up to version 1.8.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -207,7 +207,7 @@ Adapter class for languages that only contain translations up to version 1.8.0. 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a>
+<p>Adapter class for languages that only contain translations up to version 1.7.5. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -221,7 +221,7 @@ Adapter class for languages that only contain translations up to version 1.7.5. 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adapter class for languages that only contain translations up to version 1.6.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#details">More...</a>
+<p>Adapter class for languages that only contain translations up to version 1.6.0. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -235,7 +235,7 @@ Adapter class for languages that only contain translations up to version 1.6.0. 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adapter class for languages that only contain translations up to version 1.4.6. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#details">More...</a>
+<p>Adapter class for languages that only contain translations up to version 1.4.6. <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Color` Struct Reference
 
-Helper struct representing a RGBA color. <a href="#details">More...</a>
+<p>Helper struct representing a RGBA color. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -85,9 +85,10 @@ struct Color { ... }
 
 ## Description {#details}
 
-Helper struct representing a RGBA color.
+<p>Helper struct representing a RGBA color.</p>
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -113,7 +114,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -144,7 +146,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +178,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,7 +210,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/image-cpp
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/image-cpp">image.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

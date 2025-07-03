@@ -122,7 +122,8 @@ struct FTVHelp::Private { ... }
 </table>
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -153,7 +154,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -162,7 +164,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-References <a href="#a935339dbb3248e848d361fb86e47e6c3">indentNodes</a> and <a href="#ac83fdd9fca39565239818f9fcb9bba65">topLevelIndex</a>.
+<p>References <a href="#a935339dbb3248e848d361fb86e47e6c3">indentNodes</a> and <a href="#ac83fdd9fca39565239818f9fcb9bba65">topLevelIndex</a>.</p>
+
 </div>
 </div>
 
@@ -192,7 +195,8 @@ References <a href="#a935339dbb3248e848d361fb86e47e6c3">indentNodes</a> and <a h
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +250,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="#ac83fdd9fca39565239818f9fcb9bba65">topLevelIndex</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad3f3c94bc6e432d34fa1a51db3b7d5e2">externalLinkTarget</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a4e52d619e02e6a48b41aa65affcac398">node2URL</a>, <a href="#ac83fdd9fca39565239818f9fcb9bba65">topLevelIndex</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -270,7 +275,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -418,9 +424,11 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a7db9cd15a920c0bfc3b396a6a1fa1584">compoundIcon</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a31f59f9826bff33dfe4a46af159daa4b">folderId</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c157228188e339625da475">generateBriefDoc</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aa1a81456e5d00c9e3c4ff4d9f3e3c123">generateIndent</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#af9cb5d8af596e5b9eb054f0b3a5c7e67">generateIndentLabel</a>, <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#adfe5e615942afd900cff9f219424d5a5">generateLink</a>, <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab7ecf3e26ca026ed20af225f332e5fe7">Definition::getSourceFileBase</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea0ba15b6d48eae8c895349de38f0a0091">Definition::TypeDir</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a7db9cd15a920c0bfc3b396a6a1fa1584">compoundIcon</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a31f59f9826bff33dfe4a46af159daa4b">folderId</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c157228188e339625da475">generateBriefDoc</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aa1a81456e5d00c9e3c4ff4d9f3e3c123">generateIndent</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#af9cb5d8af596e5b9eb054f0b3a5c7e67">generateIndentLabel</a>, <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#adfe5e615942afd900cff9f219424d5a5">generateLink</a>, <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab7ecf3e26ca026ed20af225f332e5fe7">Definition::getSourceFileBase</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a4114c484f3ccea1048608b9caa9f51de">toFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea0ba15b6d48eae8c895349de38f0a0091">Definition::TypeDir</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea203462c7d34ced15beac624562c2708e">Definition::TypeFile</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.</p>
 
-Referenced by <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>.
+
+<p>Referenced by <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>.</p>
+
 </div>
 </div>
 
@@ -450,7 +458,8 @@ Referenced by <a href="#a0bed14c4bee93963b64e37bb6532aad8">generateTree</a>.
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -481,7 +490,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -490,7 +500,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.
+<p>Referenced by <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.</p>
+
 </div>
 </div>
 
@@ -514,7 +525,8 @@ Referenced by <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp">ftvhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -523,7 +535,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/ftvhelp-
 </div>
 
 
-Referenced by <a href="#a2ffca7a7650eddd1fc37799566ba38f5">generateLink</a> and <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.
+<p>Referenced by <a href="#a2ffca7a7650eddd1fc37799566ba38f5">generateLink</a> and <a href="#af6e46eaa1767ebd284e972a18888681c">Private</a>.</p>
+
 </div>
 </div>
 

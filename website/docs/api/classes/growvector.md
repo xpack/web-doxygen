@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `GrowVector` Class Template Reference
 
-std::vector like container optimized for pushing elements to the back. <a href="#details">More...</a>
+<p>std::vector like container optimized for pushing elements to the back. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -105,7 +105,7 @@ class GrowVector&lt;T&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns an iterator to the beginning <a href="#ab6e73da285a472b346e8f26ce4b586ac">More...</a>
+<p>returns an iterator to the beginning <a href="#ab6e73da285a472b346e8f26ce4b586ac">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -122,7 +122,7 @@ returns an iterator to the beginning <a href="#ab6e73da285a472b346e8f26ce4b586ac
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns an iterator to the beginning <a href="#ac248c0617386cc52cbc2bc5d1ab172e1">More...</a>
+<p>returns an iterator to the beginning <a href="#ac248c0617386cc52cbc2bc5d1ab172e1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -139,7 +139,7 @@ returns an iterator to the beginning <a href="#ac248c0617386cc52cbc2bc5d1ab172e1
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns an iterator to the end <a href="#a26fb83991248fa063b6076dc9b456f10">More...</a>
+<p>returns an iterator to the end <a href="#a26fb83991248fa063b6076dc9b456f10">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,7 @@ returns an iterator to the end <a href="#a26fb83991248fa063b6076dc9b456f10">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns an iterator to the end <a href="#a95c3c05d7dfe0c5ec5795c4250262c18">More...</a>
+<p>returns an iterator to the end <a href="#a95c3c05d7dfe0c5ec5795c4250262c18">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -173,7 +173,7 @@ returns an iterator to the end <a href="#a95c3c05d7dfe0c5ec5795c4250262c18">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns the number of elements <a href="#a2579ab76c81ca4fa987a413fb4c057d1">More...</a>
+<p>returns the number of elements <a href="#a2579ab76c81ca4fa987a413fb4c057d1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -190,7 +190,7 @@ returns the number of elements <a href="#a2579ab76c81ca4fa987a413fb4c057d1">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-adds an element to the end <a href="#a24ce2eda38553d4b9ba2956fb37d3397">More...</a>
+<p>adds an element to the end <a href="#a24ce2eda38553d4b9ba2956fb37d3397">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -207,7 +207,7 @@ adds an element to the end <a href="#a24ce2eda38553d4b9ba2956fb37d3397">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-constructs an element in-place at the end <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">More...</a>
+<p>constructs an element in-place at the end <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -224,7 +224,7 @@ constructs an element in-place at the end <a href="#a7a92b9894590a7470f2f9ebd2d7
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-removes the last element <a href="#a47b0fff0a3347fd5134ff7f121511d5f">More...</a>
+<p>removes the last element <a href="#a47b0fff0a3347fd5134ff7f121511d5f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -241,7 +241,7 @@ removes the last element <a href="#a47b0fff0a3347fd5134ff7f121511d5f">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access specified element <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">More...</a>
+<p>access specified element <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -258,7 +258,7 @@ access specified element <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access specified element <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">More...</a>
+<p>access specified element <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -275,7 +275,7 @@ access specified element <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access the first element <a href="#ad097d3d024ed9fa293f9099352309a25">More...</a>
+<p>access the first element <a href="#ad097d3d024ed9fa293f9099352309a25">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -292,7 +292,7 @@ access the first element <a href="#ad097d3d024ed9fa293f9099352309a25">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access the first element <a href="#a3a31c743f240001ebc7e68fe509b4282">More...</a>
+<p>access the first element <a href="#a3a31c743f240001ebc7e68fe509b4282">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -309,7 +309,7 @@ access the first element <a href="#a3a31c743f240001ebc7e68fe509b4282">More...</a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access the last element <a href="#a32ffacabb2c328729f4e6ead6d96a4ad">More...</a>
+<p>access the last element <a href="#a32ffacabb2c328729f4e6ead6d96a4ad">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -326,7 +326,7 @@ access the last element <a href="#a32ffacabb2c328729f4e6ead6d96a4ad">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-access the last element <a href="#a661b6fe9802d516bcadc905dba93194f">More...</a>
+<p>access the last element <a href="#a661b6fe9802d516bcadc905dba93194f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -343,7 +343,7 @@ access the last element <a href="#a661b6fe9802d516bcadc905dba93194f">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-checks whether the container is empty <a href="#a4e81684f665c9a1a38b5e16cfbe31d41">More...</a>
+<p>checks whether the container is empty <a href="#a4e81684f665c9a1a38b5e16cfbe31d41">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -360,7 +360,7 @@ checks whether the container is empty <a href="#a4e81684f665c9a1a38b5e16cfbe31d4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-clears the contents <a href="#a198715b8f95bc34cb020ae11170470f7">More...</a>
+<p>clears the contents <a href="#a198715b8f95bc34cb020ae11170470f7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -469,18 +469,23 @@ clears the contents <a href="#a198715b8f95bc34cb020ae11170470f7">More...</a>
 
 ## Description {#details}
 
-std::vector like container optimized for pushing elements to the back.
+<p>std::vector like container optimized for pushing elements to the back.</p>
 
 
-It differs from std::vector in that it can grow without invalidating pointers to its members just like std::deque and std::list.
+<p>It differs from std::vector in that it can grow without invalidating pointers to its members just like std::deque and std::list.</p>
 
-It differs from std::deque in that the value can be incomplete just like std::vector.
 
-It differs from std::list in that it does not need to allocate each node separately and provides random access to its members.
+<p>It differs from std::deque in that the value can be incomplete just like std::vector.</p>
 
-It is implemented as a vector of chunks where each chunk is a fixed capacity vector of T.
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>It differs from std::list in that it does not need to allocate each node separately and provides random access to its members.</p>
+
+
+<p>It is implemented as a vector of chunks where each chunk is a fixed capacity vector of T.</p>
+
+
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -507,7 +512,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -539,7 +545,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -577,7 +584,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -618,9 +626,10 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 <div class="doxyMemberDoc">
 
-access specified element
+<p>access specified element</p>
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -629,7 +638,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::chunkBits</a>, <a href="#abe6e97ff69ec6efd6f9daad783ee98c2">GrowVector&lt; T &gt;::chunkMask</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::chunkBits</a>, <a href="#abe6e97ff69ec6efd6f9daad783ee98c2">GrowVector&lt; T &gt;::chunkMask</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
+
 </div>
 </div>
 
@@ -657,9 +667,10 @@ References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::c
 </div>
 <div class="doxyMemberDoc">
 
-access specified element
+<p>access specified element</p>
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -668,7 +679,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::chunkBits</a>, <a href="#abe6e97ff69ec6efd6f9daad783ee98c2">GrowVector&lt; T &gt;::chunkMask</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::chunkBits</a>, <a href="#abe6e97ff69ec6efd6f9daad783ee98c2">GrowVector&lt; T &gt;::chunkMask</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
+
 </div>
 </div>
 
@@ -696,9 +708,10 @@ References <a href="#ab5c3a57d662f3663bb79fe3b77787378">GrowVector&lt; T &gt;::c
 </div>
 <div class="doxyMemberDoc">
 
-access the last element
+<p>access the last element</p>
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -707,9 +720,11 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ab004ed65c6ab11f6ca2a4caee610bb49">DocParser::handleStyleEnter</a> and <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docparser/#ab004ed65c6ab11f6ca2a4caee610bb49">DocParser::handleStyleEnter</a> and <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>.</p>
+
 </div>
 </div>
 
@@ -737,9 +752,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8
 </div>
 <div class="doxyMemberDoc">
 
-access the last element
+<p>access the last element</p>
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -748,7 +764,8 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
+
 </div>
 </div>
 
@@ -776,9 +793,10 @@ Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\
 </div>
 <div class="doxyMemberDoc">
 
-returns an iterator to the beginning
+<p>returns an iterator to the beginning</p>
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -813,9 +831,10 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 <div class="doxyMemberDoc">
 
-returns an iterator to the beginning
+<p>returns an iterator to the beginning</p>
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -850,9 +869,10 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 <div class="doxyMemberDoc">
 
-clears the contents
+<p>clears the contents</p>
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -861,9 +881,11 @@ Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a71dd66dcbef8ad6aa74feb1e87e2a06b">flattenParagraphs</a> and <a href="/web-doxygen/docs/api/structs/docnodelist/#a6bb13c84c8ad84d77584f6a3ec24a2a9">DocNodeList::move\_append</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a71dd66dcbef8ad6aa74feb1e87e2a06b">flattenParagraphs</a> and <a href="/web-doxygen/docs/api/structs/docnodelist/#a6bb13c84c8ad84d77584f6a3ec24a2a9">DocNodeList::move_append</a>.</p>
+
 </div>
 </div>
 
@@ -891,9 +913,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a71dd66dcbef
 </div>
 <div class="doxyMemberDoc">
 
-constructs an element in-place at the end
+<p>constructs an element in-place at the end</p>
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -906,7 +929,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a> and <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make\_room</a>.
+<p>References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a> and <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make_room</a>.</p>
+
 </div>
 </div>
 
@@ -934,9 +958,10 @@ References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m
 </div>
 <div class="doxyMemberDoc">
 
-checks whether the container is empty
+<p>checks whether the container is empty</p>
 
-Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -945,9 +970,11 @@ Definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1daa2914afd2bc3e72af">DocParser::defaultHandleToken</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae1cf61673450bd090b7035f44b55d6ac">DocDiagramFileBase::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docimage/#af627e9312a4cc758736ebaff6619990e">DocImage::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docvhdlflow/#a2c68c88e4d8b744c79fbee1936aaf0c2">DocVhdlFlow::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="/web-doxygen/docs/api/classes/doctitle/#ae27763e0e3579fbd9d2d67e7fbebda47">DocTitle::hasTitle</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a004ec58b69c71d43ebf4424b04dc5779">DocPara::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docroot/#ade1a2bc91120fb42b66313298b37199d">DocRoot::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doctext/#adeed56e5d1701811126f1bd221412ef2">DocText::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#ac231c8ffe50ea474d33cacd7c3d14b77">DocHtmlRow::isHeading</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a2ef300f18d17dba697499319c88c8eb7">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a3ad488448307ccde3303915e92c56a69">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ab528e49d6e133ca42c29bb46bdc3cbec">DocParamSect::parse</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3e4b28664b6fe921f89c934f9d2f4ba0">DocSimpleSect::parse</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae33bb7d70b15676b9244be8de396edc0">DocSimpleSect::parseXml</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1daa2914afd2bc3e72af">DocParser::defaultHandleToken</a>, <a href="/web-doxygen/docs/api/classes/docdiagramfilebase/#ae1cf61673450bd090b7035f44b55d6ac">DocDiagramFileBase::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docimage/#af627e9312a4cc758736ebaff6619990e">DocImage::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docvhdlflow/#a2c68c88e4d8b744c79fbee1936aaf0c2">DocVhdlFlow::hasCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#af54b6d5c031b011dd3877d68bce47455">DocRef::hasLinkText</a>, <a href="/web-doxygen/docs/api/classes/doctitle/#ae27763e0e3579fbd9d2d67e7fbebda47">DocTitle::hasTitle</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a004ec58b69c71d43ebf4424b04dc5779">DocPara::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/docroot/#ade1a2bc91120fb42b66313298b37199d">DocRoot::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/doctext/#adeed56e5d1701811126f1bd221412ef2">DocText::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#ac231c8ffe50ea474d33cacd7c3d14b77">DocHtmlRow::isHeading</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a2ef300f18d17dba697499319c88c8eb7">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a85d9cb1979f0d09164d205bfd447b494">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a104c3ca52ddda7596a073155996e8214">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a3ad488448307ccde3303915e92c56a69">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a4ff7d5a66db3412ce103eeb44fee565c">XmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/docparamsect/#ab528e49d6e133ca42c29bb46bdc3cbec">DocParamSect::parse</a>, <a href="/web-doxygen/docs/api/classes/docsimplesect/#a3e4b28664b6fe921f89c934f9d2f4ba0">DocSimpleSect::parse</a> and <a href="/web-doxygen/docs/api/classes/docsimplesect/#ae33bb7d70b15676b9244be8de396edc0">DocSimpleSect::parseXml</a>.</p>
+
 </div>
 </div>
 
@@ -975,9 +1002,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#a105e51dc946d1da
 </div>
 <div class="doxyMemberDoc">
 
-returns an iterator to the end
+<p>returns an iterator to the end</p>
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -986,9 +1014,11 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Reference <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.
+<p>Reference <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>.</p>
+
 </div>
 </div>
 
@@ -1016,9 +1046,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005b
 </div>
 <div class="doxyMemberDoc">
 
-returns an iterator to the end
+<p>returns an iterator to the end</p>
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1027,7 +1058,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Reference <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.
+<p>Reference <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.</p>
+
 </div>
 </div>
 
@@ -1055,9 +1087,10 @@ Reference <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::si
 </div>
 <div class="doxyMemberDoc">
 
-access the first element
+<p>access the first element</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1066,9 +1099,11 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dochtmltable/#afc50242564e265147b101926f1efce5e">DocHtmlTable::firstRow</a> and <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab3dc4aca49387c2801b733951162e52c">DocbookDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dochtmltable/#afc50242564e265147b101926f1efce5e">DocHtmlTable::firstRow</a> and <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab3dc4aca49387c2801b733951162e52c">DocbookDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -1096,9 +1131,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dochtmltable/#afc50242564e2
 </div>
 <div class="doxyMemberDoc">
 
-access the first element
+<p>access the first element</p>
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1107,7 +1143,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
+
 </div>
 </div>
 
@@ -1135,9 +1172,10 @@ Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\
 </div>
 <div class="doxyMemberDoc">
 
-removes the last element
+<p>removes the last element</p>
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1153,9 +1191,11 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>Reference <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9eda818d4ba6098329">DocPara::handleXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a88f642289a7ff2d625c726cc4777b989">DocAutoListItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docinternal/#ad783a8507dd1e64ad38a889d9fa7a851">DocInternal::parse</a>, <a href="/web-doxygen/docs/api/classes/docroot/#a860207dd6bee34648ddbfd55e3ddaff8">DocRoot::parse</a> and <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1c560815a145aea3">DocPara::handleCommand</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a2c5971c7bbbb5bd01e02ac7d93600281">DocPara::handleFile</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a6a11ee69fcc75e0c8ce4fddd8cd15d16">DocPara::handleHtmlStartTag</a>, <a href="/web-doxygen/docs/api/classes/docpara/#ae14027652a29ff9eda818d4ba6098329">DocPara::handleXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a6d276e7995db319294ea1fb2bc76459e">DocParser::internalValidatingParseDoc</a>, <a href="/web-doxygen/docs/api/classes/docautolistitem/#a88f642289a7ff2d625c726cc4777b989">DocAutoListItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docinternal/#ad783a8507dd1e64ad38a889d9fa7a851">DocInternal::parse</a>, <a href="/web-doxygen/docs/api/classes/docroot/#a860207dd6bee34648ddbfd55e3ddaff8">DocRoot::parse</a> and <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>.</p>
+
 </div>
 </div>
 
@@ -1183,9 +1223,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docpara/#a1e432b15eb1a56ba1
 </div>
 <div class="doxyMemberDoc">
 
-adds an element to the end
+<p>adds an element to the end</p>
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1198,7 +1239,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a> and <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make\_room</a>.
+<p>References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a> and <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make_room</a>.</p>
+
 </div>
 </div>
 
@@ -1226,9 +1268,10 @@ References <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m
 </div>
 <div class="doxyMemberDoc">
 
-returns the number of elements
+<p>returns the number of elements</p>
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1241,9 +1284,11 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-References <a href="#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>References <a href="#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="#a26fb83991248fa063b6076dc9b456f10">GrowVector&lt; T &gt;::end</a>, <a href="#a95c3c05d7dfe0c5ec5795c4250262c18">GrowVector&lt; T &gt;::end</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#ac8411351d60c38dd457f0d118b1a3ab3">DocHtmlRow::numCells</a> and <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a>.
+
+<p>Referenced by <a href="#a26fb83991248fa063b6076dc9b456f10">GrowVector&lt; T &gt;::end</a>, <a href="#a95c3c05d7dfe0c5ec5795c4250262c18">GrowVector&lt; T &gt;::end</a>, <a href="/web-doxygen/docs/api/classes/docpara/#a7c235343a063e005bfee6c68b14a835e">DocPara::handleIncludeOperator</a>, <a href="/web-doxygen/docs/api/classes/dochtmlrow/#ac8411351d60c38dd457f0d118b1a3ab3">DocHtmlRow::numCells</a> and <a href="/web-doxygen/docs/api/classes/dochtmltable/#a197727d94413c8a39461bb9008d57390">DocHtmlTable::numRows</a>.</p>
+
 </div>
 </div>
 
@@ -1279,7 +1324,8 @@ Referenced by <a href="#a26fb83991248fa063b6076dc9b456f10">GrowVector&lt; T &gt;
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1295,9 +1341,11 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-References <a href="#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m\_chunks</a>.
+<p>References <a href="#a47759ca4db6dd81e364fea79107c9749">GrowVector&lt; T &gt;::chunkSize</a> and <a href="#aa61eea0024352265278288084cb02cd3">GrowVector&lt; T &gt;::m_chunks</a>.</p>
 
-Referenced by <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt; T &gt;::emplace\_back</a> and <a href="#a24ce2eda38553d4b9ba2956fb37d3397">GrowVector&lt; T &gt;::push\_back</a>.
+
+<p>Referenced by <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt; T &gt;::emplace_back</a> and <a href="#a24ce2eda38553d4b9ba2956fb37d3397">GrowVector&lt; T &gt;::push_back</a>.</p>
+
 </div>
 </div>
 
@@ -1328,7 +1376,8 @@ Referenced by <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt; T &gt;
 
 
 
-Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1337,7 +1386,8 @@ Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/growvect
 </div>
 
 
-Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a>, <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>, <a href="#a32ffacabb2c328729f4e6ead6d96a4ad">GrowVector&lt; T &gt;::back</a>, <a href="#a661b6fe9802d516bcadc905dba93194f">GrowVector&lt; T &gt;::back</a>, <a href="#a198715b8f95bc34cb020ae11170470f7">GrowVector&lt; T &gt;::clear</a>, <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt; T &gt;::emplace\_back</a>, <a href="#a4e81684f665c9a1a38b5e16cfbe31d41">GrowVector&lt; T &gt;::empty</a>, <a href="#ad097d3d024ed9fa293f9099352309a25">GrowVector&lt; T &gt;::front</a>, <a href="#a3a31c743f240001ebc7e68fe509b4282">GrowVector&lt; T &gt;::front</a>, <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make\_room</a>, <a href="#a47b0fff0a3347fd5134ff7f121511d5f">GrowVector&lt; T &gt;::pop\_back</a>, <a href="#a24ce2eda38553d4b9ba2956fb37d3397">GrowVector&lt; T &gt;::push\_back</a> and <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.
+<p>Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a>, <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>, <a href="#a32ffacabb2c328729f4e6ead6d96a4ad">GrowVector&lt; T &gt;::back</a>, <a href="#a661b6fe9802d516bcadc905dba93194f">GrowVector&lt; T &gt;::back</a>, <a href="#a198715b8f95bc34cb020ae11170470f7">GrowVector&lt; T &gt;::clear</a>, <a href="#a7a92b9894590a7470f2f9ebd2d7cda7b">GrowVector&lt; T &gt;::emplace_back</a>, <a href="#a4e81684f665c9a1a38b5e16cfbe31d41">GrowVector&lt; T &gt;::empty</a>, <a href="#ad097d3d024ed9fa293f9099352309a25">GrowVector&lt; T &gt;::front</a>, <a href="#a3a31c743f240001ebc7e68fe509b4282">GrowVector&lt; T &gt;::front</a>, <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make_room</a>, <a href="#a47b0fff0a3347fd5134ff7f121511d5f">GrowVector&lt; T &gt;::pop_back</a>, <a href="#a24ce2eda38553d4b9ba2956fb37d3397">GrowVector&lt; T &gt;::push_back</a> and <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.</p>
+
 </div>
 </div>
 
@@ -1373,7 +1423,8 @@ Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1382,7 +1433,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a> and <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>.
+<p>Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a> and <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>.</p>
+
 </div>
 </div>
 
@@ -1412,7 +1464,8 @@ Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1421,7 +1474,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a> and <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>.
+<p>Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;::at</a> and <a href="#a15b7d4cd0af1fd8e902d1dab16f14e23">GrowVector&lt; T &gt;::at</a>.</p>
+
 </div>
 </div>
 
@@ -1451,7 +1505,8 @@ Referenced by <a href="#a5a248ca3d1565b83dd4e9a19557eab8e">GrowVector&lt; T &gt;
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1460,7 +1515,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/growvector/chunk/#a7920149181815d91225b896d6a9cd9d5">GrowVector&lt; T &gt;::Chunk::Chunk</a>, <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make\_room</a> and <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/growvector/chunk/#a7920149181815d91225b896d6a9cd9d5">GrowVector&lt; T &gt;::Chunk::Chunk</a>, <a href="#a3a607b38460ee306c3f66bf27e65f25e">GrowVector&lt; T &gt;::make_room</a> and <a href="#a2579ab76c81ca4fa987a413fb4c057d1">GrowVector&lt; T &gt;::size</a>.</p>
+
 </div>
 </div>
 

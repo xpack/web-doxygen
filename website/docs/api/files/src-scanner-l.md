@@ -477,7 +477,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Slice states. <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
+<p>Slice states. <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -621,7 +621,8 @@ Slice states. <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -664,9 +665,11 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/scanner-l
 
 
 
-Update the argument <em>name</em> with additional <em>type</em> info. For K&amp;R style function the type is found <em>after</em> the argument list, so this routine in needed to fix up.
+<p>Update the argument <em>name</em> with additional <em>type</em> info. For K&amp;R style function the type is found <em>after</em> the argument list, so this routine in needed to fix up.</p>
 
-Definition at line 7925 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+
+<p>Definition at line 7925 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -700,7 +703,8 @@ Definition at line 7925 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
+
 </div>
 </div>
 
@@ -729,7 +733,8 @@ References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703ac
 
 
 
-Definition at line 7668 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7668 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -784,9 +789,11 @@ Definition at line 7668 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Returns TRUE iff the yyextra-&gt;current entry could be a K&amp;R style C function
+<p>Returns TRUE iff the yyextra-&gt;current entry could be a K&amp;R style C function</p>
 
-Definition at line 7805 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+
+<p>Definition at line 7805 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -807,7 +814,8 @@ Definition at line 7805 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
+
 </div>
 </div>
 
@@ -837,7 +845,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 7627 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7627 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -859,7 +868,8 @@ Definition at line 7627 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
+
 </div>
 </div>
 
@@ -888,7 +898,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078
 
 
 
-Definition at line 7727 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7727 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -910,7 +921,8 @@ Definition at line 7727 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>.</p>
+
 </div>
 </div>
 
@@ -939,7 +951,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 
 
-Definition at line 7642 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7642 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -954,7 +967,8 @@ Definition at line 7642 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
+
 </div>
 </div>
 
@@ -983,7 +997,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475d
 
 
 
-Definition at line 7650 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7650 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -996,7 +1011,8 @@ Definition at line 7650 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
+
 </div>
 </div>
 
@@ -1020,7 +1036,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505
 
 
 
-Definition at line 7954 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7954 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1039,7 +1056,8 @@ Definition at line 7954 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
+
 </div>
 </div>
 
@@ -1069,7 +1087,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 
 
 
-Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1105,7 +1124,8 @@ Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/scanner-
 
 
 
-Definition at line 8005 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8005 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1172,7 +1192,8 @@ Definition at line 8005 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -1201,7 +1222,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 8065 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8065 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1271,7 +1293,8 @@ Definition at line 8065 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
+
 </div>
 </div>
 
@@ -1300,7 +1323,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 7574 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7574 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1325,7 +1349,8 @@ Definition at line 7574 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -1355,7 +1380,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 
 
-Definition at line 7656 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7656 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1374,7 +1400,8 @@ Definition at line 7656 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a> and <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a> and <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>.</p>
+
 </div>
 </div>
 
@@ -1403,7 +1430,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 
 
 
-Definition at line 7550 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7550 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1434,7 +1462,8 @@ Definition at line 7550 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -1463,7 +1492,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 7604 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7604 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1493,7 +1523,8 @@ Definition at line 7604 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
+
 </div>
 </div>
 
@@ -1522,7 +1553,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078
 
 
 
-Definition at line 7754 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7754 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1538,7 +1570,8 @@ Definition at line 7754 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1567,7 +1600,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 
 
 
-Definition at line 7985 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7985 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1594,7 +1628,8 @@ Definition at line 7985 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.</p>
+
 </div>
 </div>
 
@@ -1623,7 +1658,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bc
 
 
 
-Definition at line 8131 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8131 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1748,7 +1784,8 @@ Definition at line 8131 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>.</p>
+
 </div>
 </div>
 
@@ -1777,7 +1814,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 8251 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8251 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1877,7 +1915,8 @@ Definition at line 8251 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="#a3fce7881f8abccce45e272427b94c0b1">setContext</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a99344d48bf61e8b0948b39680259cf11">guessSection</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/files/src/docnode-h/#aa08872da61afee56859056e5a0612633">parent</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="#a3fce7881f8abccce45e272427b94c0b1">setContext</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -1906,7 +1945,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 8346 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 8346 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1962,7 +2002,8 @@ Definition at line 8346 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY\_BUF\_SIZE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#ae7e51116e747d3390e7a6cfc6532834c">YY_BUF_SIZE</a>.</p>
+
 </div>
 </div>
 
@@ -1991,7 +2032,8 @@ References <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a39
 
 
 
-Definition at line 7787 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7787 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2040,7 +2082,8 @@ Definition at line 7787 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 7765 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7765 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2067,9 +2110,11 @@ Definition at line 7765 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>.</p>
 
-Referenced by <a href="#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a>.
+
+<p>Referenced by <a href="#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -2098,7 +2143,8 @@ Referenced by <a href="#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a>.
 
 
 
-Definition at line 7819 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7819 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2121,7 +2167,8 @@ Definition at line 7819 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>.</p>
+
 </div>
 </div>
 
@@ -2150,7 +2197,8 @@ Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475da
 
 
 
-Definition at line 7836 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7836 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2240,7 +2288,8 @@ Definition at line 7836 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -2269,7 +2318,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f000
 
 
 
-Definition at line 7968 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7968 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2318,7 +2368,8 @@ Definition at line 7968 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 7746 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7746 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2331,7 +2382,8 @@ Definition at line 7746 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -2360,7 +2412,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d446
 
 
 
-Definition at line 7714 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7714 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2379,7 +2432,8 @@ Definition at line 7714 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>.</p>
+
 </div>
 </div>
 
@@ -2408,7 +2462,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7
 
 
 
-Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 </div>
 </div>
 
@@ -2437,7 +2492,8 @@ Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/scanner-
 
 
 
-Definition at line 7595 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7595 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2480,7 +2536,8 @@ Definition at line 7595 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 7701 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7701 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2499,7 +2556,8 @@ Definition at line 7701 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.</p>
+
 </div>
 </div>
 
@@ -2528,7 +2586,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e973332
 
 
 
-Definition at line 7689 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7689 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2547,7 +2606,8 @@ Definition at line 7689 of file <a href="/web-doxygen/docs/api/files/src/scanner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
+
 </div>
 </div>
 
@@ -2569,12 +2629,14 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b5
 </div>
 <div class="doxyMemberDoc">
 
-Slice states.
+<p>Slice states.</p>
 
 
-Prototype scanner states comment parsing states C++20 concepts Object-C Deprecated C++20 modules
+<p>Prototype scanner states comment parsing states C++20 concepts Object-C Deprecated C++20 modules</p>
 
-Definition at line 501 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+
+<p>Definition at line 501 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9642,7 +9704,8 @@ Definition at line 501 of file <a href="/web-doxygen/docs/api/files/src/scanner-
 
 
 
-Definition at line 7536 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 7536 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9690,7 +9753,8 @@ Definition at line 7536 of file <a href="/web-doxygen/docs/api/files/src/scanner
 
 
 
-Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9721,7 +9785,8 @@ Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/scanner-
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9752,7 +9817,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/scanner-l
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9783,7 +9849,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/scanner-l
 
 
 
-Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.
+<p>Definition at line 22 of file <a href="/web-doxygen/docs/api/files/src/scanner-l">scanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

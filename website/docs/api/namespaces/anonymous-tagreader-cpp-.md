@@ -62,7 +62,7 @@ namespace { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Information about an linkable anchor. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/taganchorinfo/#details">More...</a>
+<p>Information about an linkable anchor. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/taganchorinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -76,7 +76,7 @@ Information about an linkable anchor. <a href="/web-doxygen/docs/api/classes/ano
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for class specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#details">More...</a>
+<p>Container for class specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagclassinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ Container for class specific info that can be read from a tagfile. <a href="/web
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for all compound types. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#details">More...</a>
+<p>Base class for all compound types. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagcompoundinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,7 +104,7 @@ Base class for all compound types. <a href="/web-doxygen/docs/api/structs/anonym
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Variant class that holds a unique pointer to one of the specific container types. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#details">More...</a>
+<p>Variant class that holds a unique pointer to one of the specific container types. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagcompoundvariant/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -118,7 +118,7 @@ Variant class that holds a unique pointer to one of the specific container types
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for concept specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#details">More...</a>
+<p>Container for concept specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagconceptinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -132,7 +132,7 @@ Container for concept specific info that can be read from a tagfile. <a href="/w
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for directory specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#details">More...</a>
+<p>Container for directory specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagdirinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -146,7 +146,7 @@ Container for directory specific info that can be read from a tagfile. <a href="
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for enum values that are scoped within an enum. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagenumvalueinfo/#details">More...</a>
+<p>Container for enum values that are scoped within an enum. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagenumvalueinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -160,7 +160,7 @@ Container for enum values that are scoped within an enum. <a href="/web-doxygen/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for file specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#details">More...</a>
+<p>Container for file specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagfileinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -174,7 +174,7 @@ Container for file specific info that can be read from a tagfile. <a href="/web-
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Tag file parser. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#details">More...</a>
+<p>Tag file parser. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -188,7 +188,7 @@ Tag file parser. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagr
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for group specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#details">More...</a>
+<p>Container for group specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/taggroupinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -202,7 +202,7 @@ Container for group specific info that can be read from a tagfile. <a href="/web
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for include info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagincludeinfo/#details">More...</a>
+<p>Container for include info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagincludeinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -216,7 +216,7 @@ Container for include info that can be read from a tagfile. <a href="/web-doxyge
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for member specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagmemberinfo/#details">More...</a>
+<p>Container for member specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagmemberinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -230,7 +230,7 @@ Container for member specific info that can be read from a tagfile. <a href="/we
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for module specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#details">More...</a>
+<p>Container for module specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagmoduleinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -244,7 +244,7 @@ Container for module specific info that can be read from a tagfile. <a href="/we
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for namespace specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#details">More...</a>
+<p>Container for namespace specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagnamespaceinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -258,7 +258,7 @@ Container for namespace specific info that can be read from a tagfile. <a href="
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for package specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#details">More...</a>
+<p>Container for package specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpackageinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -272,7 +272,7 @@ Container for package specific info that can be read from a tagfile. <a href="/w
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container for page specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#details">More...</a>
+<p>Container for page specific info that can be read from a tagfile. <a href="/web-doxygen/docs/api/structs/anonymous-namespace-tagreader-cpp-/tagpageinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -493,7 +493,8 @@ Container for page specific info that can be read from a tagfile. <a href="/web-
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -524,7 +525,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -555,7 +557,8 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -586,7 +589,8 @@ Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -617,7 +621,8 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -648,7 +653,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -679,7 +685,8 @@ Definition at line 143 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -710,7 +717,8 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -741,7 +749,8 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -778,7 +787,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/tagreade
 
 
 
-Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -812,7 +822,8 @@ Definition at line 1049 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1044 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1044 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -885,7 +896,8 @@ Definition at line 1044 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </dd>
 </dl>
 
-Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -915,7 +927,8 @@ Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous\_namespace{tagreader.cpp}::TagFileParser::startCompound</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab17fadda7f7d30dce3d68f186aaed55d">anonymous_namespace{tagreader.cpp}::TagFileParser::startCompound</a>.</p>
+
 </div>
 </div>
 
@@ -980,7 +993,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 </dd>
 </dl>
 
-Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1018,7 +1032,8 @@ Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous\_namespace{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous\_namespace{tagreader.cpp}::TagFileParser::startElement</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a3e01aed32d5dbf43b922e4152b65b54f">anonymous_namespace{tagreader.cpp}::TagFileParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a487b3d40047a75c0612f66ab78f61d96">anonymous_namespace{tagreader.cpp}::TagFileParser::startElement</a>.</p>
+
 </div>
 </div>
 

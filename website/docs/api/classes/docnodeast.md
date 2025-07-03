@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocNodeAST` Class Reference
 
-Class representing the abstract syntax tree of a documentation block. <a href="#details">More...</a>
+<p>Class representing the abstract syntax tree of a documentation block. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocNodeAST { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-opaque representation of the abstract syntax tree (AST) <a href="/web-doxygen/docs/api/classes/idocnodeast/#details">More...</a>
+<p>opaque representation of the abstract syntax tree (AST) <a href="/web-doxygen/docs/api/classes/idocnodeast/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -111,9 +111,10 @@ opaque representation of the abstract syntax tree (AST) <a href="/web-doxygen/do
 
 ## Description {#details}
 
-Class representing the abstract syntax tree of a documentation block.
+<p>Class representing the abstract syntax tree of a documentation block.</p>
 
-Definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -145,7 +146,8 @@ Definition at line 1465 of file <a href="/web-doxygen/docs/api/files/src/docnode
 
 
 
-Definition at line 1471 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1471 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -157,7 +159,8 @@ Definition at line 1471 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
+<p>Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.</p>
+
 </div>
 </div>
 
@@ -193,7 +196,8 @@ Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
 
 
 
-Definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -217,7 +221,8 @@ Definition at line 1475 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
+<p>Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.</p>
+
 </div>
 </div>
 
@@ -247,7 +252,8 @@ Reference <a href="#a77e351cc54c344eac97ef21709f44305">root</a>.
 
 
 
-Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -256,7 +262,8 @@ Definition at line 1491 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Referenced by <a href="#ab573e4a616c8cf4677d233c90c65f79a">DocNodeAST</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c157228188e339625da475">generateBriefDoc</a>, <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="#a642834a987948f2245a0c0d05e350f91">isEmpty</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a4baf32d6d76de7c48ea865fe47496612">HtmlGenerator::writeDoc</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a81554a4af33adef2797ee4d3b663ea4c">LatexGenerator::writeDoc</a> and <a href="/web-doxygen/docs/api/classes/mangenerator/#a28523fdc2e54ee673f026bd6d46a7224">ManGenerator::writeDoc</a>.
+<p>Referenced by <a href="#ab573e4a616c8cf4677d233c90c65f79a">DocNodeAST</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#a53124fcb14c157228188e339625da475">generateBriefDoc</a>, <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="#a642834a987948f2245a0c0d05e350f91">isEmpty</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a4baf32d6d76de7c48ea865fe47496612">HtmlGenerator::writeDoc</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a81554a4af33adef2797ee4d3b663ea4c">LatexGenerator::writeDoc</a> and <a href="/web-doxygen/docs/api/classes/mangenerator/#a28523fdc2e54ee673f026bd6d46a7224">ManGenerator::writeDoc</a>.</p>
+
 </div>
 </div>
 

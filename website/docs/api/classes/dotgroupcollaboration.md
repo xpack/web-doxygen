@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotGroupCollaboration` Class Reference
 
-Representation of a group collaboration graph. <a href="#details">More...</a>
+<p>Representation of a group collaboration graph. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotGroupCollaboration { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a>
+<p>A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -341,9 +341,10 @@ A dot graph. <a href="/web-doxygen/docs/api/classes/dotgraph/#details">More...</
 
 ## Description {#details}
 
-Representation of a group collaboration graph.
+<p>Representation of a group collaboration graph.</p>
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -412,7 +413,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </dd>
 </dl>
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -457,7 +459,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 
 
 
-Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -477,7 +480,8 @@ Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="#adb242ac701301dbd4beb2ba011af5e43">m\_diskName</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m\_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea73cc1476bda793a">Definition::briefDescriptionAsTooltip</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2caedefd187d92eb8c4afe01d403456e">GroupDef::groupTitle</a>, <a href="#adb242ac701301dbd4beb2ba011af5e43">m_diskName</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -507,7 +511,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a5915353219702c6ea
 
 
 
-Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -523,7 +528,8 @@ Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>.
+<p>Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>.</p>
+
 </div>
 </div>
 
@@ -553,7 +559,8 @@ Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>.
 
 
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -565,9 +572,11 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a> and <a href="#a40cf87a24ee828fd3daf22d77bad7f23">numNodes</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a> and <a href="#a40cf87a24ee828fd3daf22d77bad7f23">numNodes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.</p>
+
 </div>
 </div>
 
@@ -591,7 +600,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae40
 
 
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -603,9 +613,11 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>.
+<p>Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.</p>
+
 </div>
 </div>
 
@@ -629,7 +641,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae40
 
 
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -641,9 +654,11 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>.
+<p>Reference <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>.</p>
 
-Referenced by <a href="#ac1db90341c93fc11a590f5403d2e18e5">isTooBig</a> and <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.
+
+<p>Referenced by <a href="#ac1db90341c93fc11a590f5403d2e18e5">isTooBig</a> and <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a6ac6dfccae4079d225ca50634529b384">GroupDefImpl::writeGroupGraph</a>.</p>
+
 </div>
 </div>
 
@@ -667,7 +682,8 @@ Referenced by <a href="#ac1db90341c93fc11a590f5403d2e18e5">isTooBig</a> and <a h
 
 
 
-Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -684,9 +700,11 @@ Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a8e161ad6a2fe2bb4cd58fccb1338f304">DotGraph::m\_doNotAddImageToIndex</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a8680135da08a5ef57cebe20060912dcca3135f4019bee015e2d1ae7f77f9f3f64">Html</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a8e161ad6a2fe2bb4cd58fccb1338f304">DotGraph::m_doNotAddImageToIndex</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ae6cbbb6ad88d59dec93692d8c6f70a07">DotGraph::writeGraph</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a640f85f2e2b3f829d6561aaed542d20b">DocbookGenerator::endGroupCollaboration</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aabf59d930dff9f6aa46e3e5674678a35">HtmlGenerator::endGroupCollaboration</a> and <a href="/web-doxygen/docs/api/classes/latexgenerator/#abfd430d5e5caa0536c58bc174a510cf0">LatexGenerator::endGroupCollaboration</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a640f85f2e2b3f829d6561aaed542d20b">DocbookGenerator::endGroupCollaboration</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aabf59d930dff9f6aa46e3e5674678a35">HtmlGenerator::endGroupCollaboration</a> and <a href="/web-doxygen/docs/api/classes/latexgenerator/#abfd430d5e5caa0536c58bc174a510cf0">LatexGenerator::endGroupCollaboration</a>.</p>
+
 </div>
 </div>
 
@@ -722,7 +740,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a640f85f2
 
 
 
-Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -757,7 +776,8 @@ Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="#a07de7ef68c8e29450010ffa684609401">m\_edges</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a352bf93d2d15ed13d368233c85892a9f">DotGraph::m\_graphFormat</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m\_rootNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m\_theGraph</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="#a60113bd74bebf89e32507a8e5a303715">writeGraphHeader</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-h/#a0c7c85309652245e03563b127f451f72ae40489cd1e7102e35469c937e05c8bba">Inheritance</a>, <a href="#a07de7ef68c8e29450010ffa684609401">m_edges</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a352bf93d2d15ed13d368233c85892a9f">DotGraph::m_graphFormat</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m_rootNode</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#ab5e616cb48fb662c41e80b713792bc58">DotGraph::m_theGraph</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a256ce4336c69cbb9b15e473afc456805">DotGraph::writeGraphFooter</a> and <a href="#a60113bd74bebf89e32507a8e5a303715">writeGraphHeader</a>.</p>
+
 </div>
 </div>
 
@@ -787,7 +807,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -799,7 +820,8 @@ Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-Reference <a href="#adb242ac701301dbd4beb2ba011af5e43">m\_diskName</a>.
+<p>Reference <a href="#adb242ac701301dbd4beb2ba011af5e43">m_diskName</a>.</p>
+
 </div>
 </div>
 
@@ -829,7 +851,8 @@ Reference <a href="#adb242ac701301dbd4beb2ba011af5e43">m\_diskName</a>.
 
 
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -841,7 +864,8 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ab85aa68cac9a9551d8076146f358355e">DotGraph::m\_baseName</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/classes/dotgraph/#ab85aa68cac9a9551d8076146f358355e">DotGraph::m_baseName</a>.</p>
+
 </div>
 </div>
 
@@ -871,7 +895,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414a
 
 
 
-Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -903,9 +928,11 @@ Declaration at line 80 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m\_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a2592b8669b2aba1c2f0476e1011d48cd">DotNode::markAsVisible</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.
+<p>References <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a2592b8669b2aba1c2f0476e1011d48cd">DotNode::markAsVisible</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.</p>
 
-Referenced by <a href="#a2cc4fd1745dd5af379937db46ac15761">addMemberList</a> and <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.
+
+<p>Referenced by <a href="#a2cc4fd1745dd5af379937db46ac15761">addMemberList</a> and <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.</p>
+
 </div>
 </div>
 
@@ -929,7 +956,8 @@ Referenced by <a href="#a2cc4fd1745dd5af379937db46ac15761">addMemberList</a> and
 
 
 
-Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -960,9 +988,11 @@ Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a07de7ef68c8e29450010ffa684609401">m\_edges</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#a07de7ef68c8e29450010ffa684609401">m_edges</a>.</p>
 
-Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a> and <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.
+
+<p>Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a> and <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.</p>
+
 </div>
 </div>
 
@@ -986,7 +1016,8 @@ Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMembe
 
 
 
-Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1004,9 +1035,11 @@ Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="/web-doxygen/docs/api/classes/membervector/#a8211803ee32d3deef9aafca1cc061101">MemberVector::empty</a>, <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp/#aa0dc283b279488f29402e4b9db1d1f30">makeURL</a> and <a href="#ab83aa11b8617398a50923c04c2541624a6a203a336e7cfcbd7aff57f2c73399cd">tmember</a>.
+<p>References <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="/web-doxygen/docs/api/classes/membervector/#a8211803ee32d3deef9aafca1cc061101">MemberVector::empty</a>, <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp/#aa0dc283b279488f29402e4b9db1d1f30">makeURL</a> and <a href="#ab83aa11b8617398a50923c04c2541624a6a203a336e7cfcbd7aff57f2c73399cd">tmember</a>.</p>
 
-Referenced by <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.
+
+<p>Referenced by <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1030,7 +1063,8 @@ Referenced by <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>.
 
 
 
-Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1130,9 +1164,11 @@ Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-References <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a>, <a href="#a2cc4fd1745dd5af379937db46ac15761">addMemberList</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a25362a91e571718de606e663975c6a1b">GroupDef::getDirs</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#ae1e55ed1172103ac1072cde37b3fd578">GroupDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m\_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m\_usedNodes</a>, <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp/#aa0dc283b279488f29402e4b9db1d1f30">makeURL</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a2592b8669b2aba1c2f0476e1011d48cd">DotNode::markAsVisible</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a>, <a href="#ab83aa11b8617398a50923c04c2541624ae9c350dfd0a91744d191b0c72c4aa90f">tclass</a>, <a href="#ab83aa11b8617398a50923c04c2541624a2e54350e7f5aadd30f553c402c9c0a82">tdir</a>, <a href="#ab83aa11b8617398a50923c04c2541624a7fa22c95ee2968afb94c0a0ea5699509">tfile</a>, <a href="#ab83aa11b8617398a50923c04c2541624a6e085e15ff653f37b1923a3c3053d11b">thierarchy</a>, <a href="#ab83aa11b8617398a50923c04c2541624ae29bf2589c994b4a77c5d8fcb4cc0ea1">tnamespace</a> and <a href="#ab83aa11b8617398a50923c04c2541624ad8208b1bd621d3b751e42e015d9ea21c">tpages</a>.
+<p>References <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a>, <a href="#a2cc4fd1745dd5af379937db46ac15761">addMemberList</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#aef4faee1d16e4f21bb649b73001e3261">DotGraph::DotNode</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#adc93620cc6002b6e7919565cb32b29ed">GroupDef::getClasses</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a25362a91e571718de606e663975c6a1b">GroupDef::getDirs</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a2cb0a3622503ad4232eabc2b7ff86753">GroupDef::getFiles</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#ae1e55ed1172103ac1072cde37b3fd578">GroupDef::getMemberList</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a9ac892052b696a7c561f7dfa7be68f72">GroupDef::getNamespaces</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a97d9ddba395f4c011a01966dc7a61568">GroupDef::getPages</a>, <a href="/web-doxygen/docs/api/classes/groupdef/#a29954976b38072020da6c0c0dbde6520">GroupDef::getSubGroups</a>, <a href="#a082a33c662fd404a5fb5073c34863af7">m_rootNode</a>, <a href="#a56c5879b481a9e2df4bce580767176ee">m_usedNodes</a>, <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp/#aa0dc283b279488f29402e4b9db1d1f30">makeURL</a>, <a href="/web-doxygen/docs/api/classes/dotnode/#a2592b8669b2aba1c2f0476e1011d48cd">DotNode::markAsVisible</a>, <a href="/web-doxygen/docs/api/classes/definition/#ab91d34cb9d5a993d3cae3356bc97232e">Definition::partOfGroups</a>, <a href="#ab83aa11b8617398a50923c04c2541624ae9c350dfd0a91744d191b0c72c4aa90f">tclass</a>, <a href="#ab83aa11b8617398a50923c04c2541624a2e54350e7f5aadd30f553c402c9c0a82">tdir</a>, <a href="#ab83aa11b8617398a50923c04c2541624a7fa22c95ee2968afb94c0a0ea5699509">tfile</a>, <a href="#ab83aa11b8617398a50923c04c2541624a6e085e15ff653f37b1923a3c3053d11b">thierarchy</a>, <a href="#ab83aa11b8617398a50923c04c2541624ae29bf2589c994b4a77c5d8fcb4cc0ea1">tnamespace</a> and <a href="#ab83aa11b8617398a50923c04c2541624ad8208b1bd621d3b751e42e015d9ea21c">tpages</a>.</p>
 
-Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>.
+
+<p>Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>.</p>
+
 </div>
 </div>
 
@@ -1156,7 +1192,8 @@ Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration
 
 
 
-Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>, definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-cpp">dotgroupcollaboration.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1169,9 +1206,11 @@ Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/dotgroup
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/dotgraph/#a4e1ec8b0e7ecc8e0d27c869e43d75640">DotGraph::writeGraphHeader</a>.</p>
 
-Referenced by <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>.
+
+<p>Referenced by <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1201,7 +1240,8 @@ Referenced by <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>.
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1210,7 +1250,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a> and <a href="#adcbee4b731f5695ac36a624fe4df0fd6">getBaseName</a>.
+<p>Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a> and <a href="#adcbee4b731f5695ac36a624fe4df0fd6">getBaseName</a>.</p>
+
 </div>
 </div>
 
@@ -1234,7 +1275,8 @@ Referenced by <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1243,7 +1285,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a> and <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>.
+<p>Referenced by <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a> and <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1267,7 +1310,8 @@ Referenced by <a href="#abf63a5af48b746aaa8638bfbb8d787b0">addEdge</a> and <a hr
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1276,7 +1320,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a> and <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>.
+<p>Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a> and <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>.</p>
+
 </div>
 </div>
 
@@ -1300,7 +1345,8 @@ Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMembe
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dotgroupcollaboration-h">dotgroupcollaboration.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1309,7 +1355,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/dotgroupc
 </div>
 
 
-Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>, <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>, <a href="#aff85d0009e3f7499e83ec7c346025a9e">isTrivial</a>, <a href="#a40cf87a24ee828fd3daf22d77bad7f23">numNodes</a> and <a href="#a8315009d3686b8d8801a31caf475e644">\~DotGroupCollaboration</a>.
+<p>Referenced by <a href="#ab6cc9aafe7eb910bca59ef9cea2dff14">addCollaborationMember</a>, <a href="#aec9c9ed7417986a64b442811c1fccd9f">buildGraph</a>, <a href="#a33f8dac0366f837a5880dc420d7c914d">computeTheGraph</a>, <a href="#a20ec74da8ed6727681b3ba3c61fffb42">DotGroupCollaboration</a>, <a href="#aff85d0009e3f7499e83ec7c346025a9e">isTrivial</a>, <a href="#a40cf87a24ee828fd3daf22d77bad7f23">numNodes</a> and <a href="#a8315009d3686b8d8801a31caf475e644">~DotGroupCollaboration</a>.</p>
+
 </div>
 </div>
 

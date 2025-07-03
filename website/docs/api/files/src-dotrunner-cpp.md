@@ -154,7 +154,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -190,9 +191,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.</p>
+
 </div>
 </div>
 
@@ -216,7 +219,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -230,9 +234,11 @@ Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/dotrunne
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.</p>
+
 </div>
 </div>
 
@@ -261,7 +267,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,9 +317,11 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a11984900bb9b207c7496404c65c40115">MAX\_LATEX\_GRAPH\_INCH</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab14881c67dae32902aa709517177e5ce">Dir::rename</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a11984900bb9b207c7496404c65c40115">MAX_LATEX_GRAPH_INCH</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab14881c67dae32902aa709517177e5ce">Dir::rename</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.</p>
+
 </div>
 </div>
 
@@ -342,7 +351,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -351,7 +361,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>.</p>
+
 </div>
 </div>
 
@@ -375,7 +386,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,7 +396,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
+<p>Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.</p>
+
 </div>
 </div>
 
@@ -408,7 +421,8 @@ Referenced by <a href="#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>.
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp">dotrunner.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -417,7 +431,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>.</p>
+
 </div>
 </div>
 

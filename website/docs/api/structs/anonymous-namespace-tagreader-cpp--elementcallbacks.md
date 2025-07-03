@@ -90,7 +90,8 @@ struct anonymous_namespace{tagreader.cpp}::ElementCallbacks { ... }
 </table>
 
 
-Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -116,7 +117,8 @@ Definition at line 1035 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1038 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1038 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -147,7 +149,8 @@ Definition at line 1038 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1037 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1037 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -184,7 +187,8 @@ Definition at line 1037 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -215,7 +219,8 @@ Definition at line 1041 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1040 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

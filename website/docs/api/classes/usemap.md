@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `UseMap` Class Reference
 
-module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="#details">More...</a>
+<p>module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive) <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,9 +41,10 @@ class UseMap { ... }
 
 ## Description {#details}
 
-module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive)
+<p>module name -&gt; list of ONLY/remote entries (module name = name of the module, which can be accessed via use-directive)</p>
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <hr/>
 

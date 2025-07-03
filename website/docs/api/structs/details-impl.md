@@ -54,7 +54,8 @@ struct details::Impl&lt;T, Ts&gt; { ... }
 </table>
 
 
-Definition at line 1345 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1345 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -88,7 +89,8 @@ Definition at line 1345 of file <a href="/web-doxygen/docs/api/files/src/docnode
 
 
 
-Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -100,9 +102,11 @@ Definition at line 1347 of file <a href="/web-doxygen/docs/api/files/src/docnode
 </div>
 
 
-Reference <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds\_one\_of\_alternatives</a>.
+<p>Reference <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds_one_of_alternatives</a>.</p>
 
-Referenced by <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds\_one\_of\_alternatives</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds\_one\_of\_alternatives</a>.
+
+<p>Referenced by <a href="#a0fd4278ad6e530e3ed836849026072b6">details::Impl&lt; T, Ts &gt;::holds_one_of_alternatives</a> and <a href="/web-doxygen/docs/api/files/src/docnode-h/#a1c1632e37b281677f09baa3acce082cf">holds_one_of_alternatives</a>.</p>
+
 </div>
 </div>
 

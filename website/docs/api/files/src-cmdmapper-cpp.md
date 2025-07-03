@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a>
+<p>Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -132,7 +132,8 @@ Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/a
 
 
 
-Definition at line 18 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
+<p>Definition at line 18 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -312,7 +313,8 @@ Definition at line 18 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper
 
 
 
-Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
 </div>
 </div>
 
@@ -341,7 +343,8 @@ Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -452,7 +455,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 
 
 
-Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-cpp">cmdmapper.cpp</a>.</p>
+
 </div>
 </div>
 

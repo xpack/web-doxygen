@@ -484,7 +484,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -607,9 +608,11 @@ Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8c9a34fe614f8c55edc60deaf0143f47">MemberDef::isDefine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a6b92d5888d4ff0b4ef5acc80d9ac76c7">MemberDef::isDictionary</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afa1ed0ba61a371a22b21dbd4d538e06c">MemberDef::isEnumValue</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a50b37ee8d3c1b7b10c2f38a6b8ca165f">MemberDef::isEvent</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1b388162e65708a87857b9605cb63591">MemberDef::isForeign</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a19a22a7e9394cf6e49ab6156274461d3">MemberDef::isFriend</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5e6ace25ee464a601e1b3f2b8016ddad">MemberDef::isFunction</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a273e3f09760e57d718ee9d3c66f73eaa">MemberDef::isRelated</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a2f97f032bc09463bf950820e6431fdc5">MemberDef::isSequence</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a02d2e041a0c3a89c0968b20869aa1981">MemberDef::isSignal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4db9f074e1f02c5dbf901d120fd433aa">MemberDef::isSlot</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4bd8f9b14007a57f53918a21258c284e">MemberDef::isTypedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a9368511f65b06e6124a24bc5ac4614b2">SEARCH\_INDEX\_ALL</a>, <a href="#a5d27e0da63dddb1a4b6e2d7189e76f29">SEARCH\_INDEX\_DEFINES</a>, <a href="#a6e38beca02798ea3f80b04610a3972c9">SEARCH\_INDEX\_DICTIONARIES</a>, <a href="#a5d6c3a6eae28e6c2bc54b47445cd29da">SEARCH\_INDEX\_ENUMS</a>, <a href="#abc0dad59614a39f0edbc9ced149460fc">SEARCH\_INDEX\_ENUMVALUES</a>, <a href="#a554c8171a88f5708c79daa8d3d400c3b">SEARCH\_INDEX\_EVENTS</a>, <a href="#ac4fe1eb6160aaca1f68ad96d8ec3637e">SEARCH\_INDEX\_FUNCTIONS</a>, <a href="#abb8fc9a0778bf0439e72aa92bc4e17b3">SEARCH\_INDEX\_PROPERTIES</a>, <a href="#ae391b4f2722baf8355d5d57e4cbfc18e">SEARCH\_INDEX\_RELATED</a>, <a href="#aba6c587eec13873de5ccd7900181bbaf">SEARCH\_INDEX\_SEQUENCES</a>, <a href="#a07ec16842dddf537e26d2c8ddd368dfc">SEARCH\_INDEX\_TYPEDEFS</a>, <a href="#acb2ab2e86ce7e805d62b1f4020ffabbe">SEARCH\_INDEX\_VARIABLES</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8c9a34fe614f8c55edc60deaf0143f47">MemberDef::isDefine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a6b92d5888d4ff0b4ef5acc80d9ac76c7">MemberDef::isDictionary</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afa1ed0ba61a371a22b21dbd4d538e06c">MemberDef::isEnumValue</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a50b37ee8d3c1b7b10c2f38a6b8ca165f">MemberDef::isEvent</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a1b388162e65708a87857b9605cb63591">MemberDef::isForeign</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a19a22a7e9394cf6e49ab6156274461d3">MemberDef::isFriend</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5e6ace25ee464a601e1b3f2b8016ddad">MemberDef::isFunction</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ad03b3f6196640021e3c44d7b1eb9e924">ClassDef::isImplicitTemplateInstance</a>, <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a273e3f09760e57d718ee9d3c66f73eaa">MemberDef::isRelated</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a2f97f032bc09463bf950820e6431fdc5">MemberDef::isSequence</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a02d2e041a0c3a89c0968b20869aa1981">MemberDef::isSignal</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4db9f074e1f02c5dbf901d120fd433aa">MemberDef::isSlot</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a4bd8f9b14007a57f53918a21258c284e">MemberDef::isTypedef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a9368511f65b06e6124a24bc5ac4614b2">SEARCH_INDEX_ALL</a>, <a href="#a5d27e0da63dddb1a4b6e2d7189e76f29">SEARCH_INDEX_DEFINES</a>, <a href="#a6e38beca02798ea3f80b04610a3972c9">SEARCH_INDEX_DICTIONARIES</a>, <a href="#a5d6c3a6eae28e6c2bc54b47445cd29da">SEARCH_INDEX_ENUMS</a>, <a href="#abc0dad59614a39f0edbc9ced149460fc">SEARCH_INDEX_ENUMVALUES</a>, <a href="#a554c8171a88f5708c79daa8d3d400c3b">SEARCH_INDEX_EVENTS</a>, <a href="#ac4fe1eb6160aaca1f68ad96d8ec3637e">SEARCH_INDEX_FUNCTIONS</a>, <a href="#abb8fc9a0778bf0439e72aa92bc4e17b3">SEARCH_INDEX_PROPERTIES</a>, <a href="#ae391b4f2722baf8355d5d57e4cbfc18e">SEARCH_INDEX_RELATED</a>, <a href="#aba6c587eec13873de5ccd7900181bbaf">SEARCH_INDEX_SEQUENCES</a>, <a href="#a07ec16842dddf537e26d2c8ddd368dfc">SEARCH_INDEX_TYPEDEFS</a>, <a href="#acb2ab2e86ce7e805d62b1f4020ffabbe">SEARCH_INDEX_VARIABLES</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb4e5ea7ab8257b599dc267">addToIndices</a> and <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb4e5ea7ab8257b599dc267">addToIndices</a> and <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -633,7 +636,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab60f2f0badb
 
 
 
-Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -832,9 +836,11 @@ Definition at line 330 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939ad14369c9a6f5e3977c0e02714a4beba8">ClassDef::Exception</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6c68c48d8e3dac65c86b39ab838a5f9e">Doxygen::functionNameLinkedMap</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a6ff6e3b1bbf7e59a752826880e148528">ClassDef::Interface</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#adc3a52f780a8b6a6f0653e357b09af6b">Doxygen::memberNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="#a9368511f65b06e6124a24bc5ac4614b2">SEARCH\_INDEX\_ALL</a>, <a href="#ad3b9d29762c49d2c4bbbd41d1c68ef19">SEARCH\_INDEX\_CLASSES</a>, <a href="#a2f1322801c56c84718a0f7d48b5c6440">SEARCH\_INDEX\_CONCEPTS</a>, <a href="#af3db0d7a7669630aeb78349739f220c6">SEARCH\_INDEX\_EXCEPTIONS</a>, <a href="#a635a2e92df604e5ed0332bb06c9669e2">SEARCH\_INDEX\_FILES</a>, <a href="#aa4dc6b2cb5cea965a6ce59a25dce26bf">SEARCH\_INDEX\_GROUPS</a>, <a href="#aae106f76bc369a5aa7f17b79d2f9757a">SEARCH\_INDEX\_INTERFACES</a>, <a href="#acb71c79ae14776eadb788ce6b88be7c2">SEARCH\_INDEX\_MODULES</a>, <a href="#a1d0249b3f2f15dd1b5e881df00836626">SEARCH\_INDEX\_NAMESPACES</a>, <a href="#a6e92885b1759155d51e72752b11ba92e">SEARCH\_INDEX\_PAGES</a>, <a href="#a08084793220763202eb3dd7d8fba24df">SEARCH\_INDEX\_STRUCTS</a>, <a href="#a1b616091b56e2ca65f7966157c4a1493">splitSearchTokens</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939adbed80de6b389027e03afb5abb06f2c9">ClassDef::Struct</a>.
+<p>References <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a5f4b7acdd27a42865b4832e4e7ffe82c">Doxygen::classLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a0de9b52b3098ea1a4bee5e248e8287c8">Doxygen::conceptLinkedMap</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939ad14369c9a6f5e3977c0e02714a4beba8">ClassDef::Exception</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a6c68c48d8e3dac65c86b39ab838a5f9e">Doxygen::functionNameLinkedMap</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#afd89d49084b42d085e9d40fc2636da9c">Doxygen::groupLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a31a5a5856417ba3f05eccaf1f85e9958">Doxygen::inputNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/modulemanager/#a4f48cf5d05907a6acc4b9c6ddec752b7">ModuleManager::instance</a>, <a href="/web-doxygen/docs/api/classes/sectionmanager/#afcf31c2b2bad467541c924342b08773d">SectionManager::instance</a>, <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939a6ff6e3b1bbf7e59a752826880e148528">ClassDef::Interface</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a2cc3616eca3e3c550a211d8b1eaf4661">Doxygen::mainPage</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#adc3a52f780a8b6a6f0653e357b09af6b">Doxygen::memberNameLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a033b4829afda05c5eef5cd54749b19bf">Doxygen::namespaceLinkedMap</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#abd2756663a014ee48e1660d32a48cac5">Doxygen::pageLinkedMap</a>, <a href="#a9368511f65b06e6124a24bc5ac4614b2">SEARCH_INDEX_ALL</a>, <a href="#ad3b9d29762c49d2c4bbbd41d1c68ef19">SEARCH_INDEX_CLASSES</a>, <a href="#a2f1322801c56c84718a0f7d48b5c6440">SEARCH_INDEX_CONCEPTS</a>, <a href="#af3db0d7a7669630aeb78349739f220c6">SEARCH_INDEX_EXCEPTIONS</a>, <a href="#a635a2e92df604e5ed0332bb06c9669e2">SEARCH_INDEX_FILES</a>, <a href="#aa4dc6b2cb5cea965a6ce59a25dce26bf">SEARCH_INDEX_GROUPS</a>, <a href="#aae106f76bc369a5aa7f17b79d2f9757a">SEARCH_INDEX_INTERFACES</a>, <a href="#acb71c79ae14776eadb788ce6b88be7c2">SEARCH_INDEX_MODULES</a>, <a href="#a1d0249b3f2f15dd1b5e881df00836626">SEARCH_INDEX_NAMESPACES</a>, <a href="#a6e92885b1759155d51e72752b11ba92e">SEARCH_INDEX_PAGES</a>, <a href="#a08084793220763202eb3dd7d8fba24df">SEARCH_INDEX_STRUCTS</a>, <a href="#a1b616091b56e2ca65f7966157c4a1493">splitSearchTokens</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/classes/classdef/#ae70cf86d35fe954a94c566fbcfc87939adbed80de6b389027e03afb5abb06f2c9">ClassDef::Struct</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -858,7 +864,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -870,7 +877,8 @@ Definition at line 864 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Reference <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a>.
+<p>Reference <a href="#a57a96fc8cede02982b9c649865b0172c">g_searchIndexInfo</a>.</p>
+
 </div>
 </div>
 
@@ -900,9 +908,11 @@ Reference <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a>.
 
 
 
-helper function to simplify the given title string, and fill a list of start positions for the start of each word in the simplified title string.
+<p>helper function to simplify the given title string, and fill a list of start positions for the start of each word in the simplified title string.</p>
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -975,9 +985,11 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a747c587f5fee7b891e52909aa309323e">QCString::resize</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a747c587f5fee7b891e52909aa309323e">QCString::resize</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1006,7 +1018,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 522 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 522 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1075,9 +1088,11 @@ Definition at line 522 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g_searchIndexInfo</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>.</p>
 
-Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.
+
+<p>Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1101,7 +1116,8 @@ Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearch
 
 
 
-Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1170,9 +1186,11 @@ Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g\_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aba6653be2d238e1fc793706547950107">getProjectId</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a> and <a href="#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#a57a96fc8cede02982b9c649865b0172c">g_searchIndexInfo</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aba6653be2d238e1fc793706547950107">getProjectId</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>, <a href="#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a> and <a href="#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -1201,7 +1219,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1416,9 +1435,11 @@ Definition at line 584 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a544a0639c73042b305889ab13476fb24">SectionInfo::definition</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a84093d8cc48b4734f6e603de33d398d5">SectionInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af589ca13a0dec56fb92038c9b2488208">MemberDef::isCallable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a913ddc11cbf4d2e8433da4974c54543b">SectionInfo::lineNr</a>, <a href="/web-doxygen/docs/api/classes/definition/#a089d345e288212dc9ceb08ca1d80b4db">Definition::localName</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a56019937eddafde2ba6df46dff4e1bef">SectionInfo::ref</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8366efce20df1bf0f096d6296189e474">MemberDef::resolveAlias</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>, <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#a7697e578ee832ee5d8e992bf6dc93617">toPageDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a544a0639c73042b305889ab13476fb24">SectionInfo::definition</a>, <a href="/web-doxygen/docs/api/classes/definition/#a526c39074637d4b17a3f67df56d961ff">Definition::definitionType</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a84093d8cc48b4734f6e603de33d398d5">SectionInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a747a6ad366ae4d5d42f0c551079d0bf5">filterTitle</a>, <a href="/web-doxygen/docs/api/classes/definition/#a7ea253be90981d4a6f0cfdb6dff1d2fd">Definition::getBodyDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#a0dda9f50f2f9754e6341a10373eafec7">Definition::getLanguage</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aab590e3dd52a9375bb3afe31dc6f8609">getLanguageSpecificSeparator</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabf5ee4ca8de43bbcc5cd5736f150e5">Definition::getOuterScope</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a70414f815dfe6f9b6605380312f0dbc2">Doxygen::globalScope</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#af589ca13a0dec56fb92038c9b2488208">MemberDef::isCallable</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a3028bd10d3288ef120bd833e0ebc57ab">SectionInfo::label</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a913ddc11cbf4d2e8433da4974c54543b">SectionInfo::lineNr</a>, <a href="/web-doxygen/docs/api/classes/definition/#a089d345e288212dc9ceb08ca1d80b4db">Definition::localName</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>, <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#a56019937eddafde2ba6df46dff4e1bef">SectionInfo::ref</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a8366efce20df1bf0f096d6296189e474">MemberDef::resolveAlias</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>, <a href="/web-doxygen/docs/api/classes/sectioninfo/#ac6aefd1d628bbdb94dc3b8e176a72f9b">SectionInfo::title</a>, <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#ac7e9d22a4c24e745c1ab16d0af527da2">toClassDef</a>, <a href="/web-doxygen/docs/api/files/src/groupdef-cpp/#a81b6ac5e79beed572376b9aebfa96da5">toGroupDef</a>, <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>, <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>, <a href="/web-doxygen/docs/api/files/src/pagedef-cpp/#a7697e578ee832ee5d8e992bf6dc93617">toPageDef</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eade4f51e436ce466a886244c7a4c373eb">Definition::TypeGroup</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaabb46c37c736d27a367f4ea582a667ca">Definition::TypePage</a>.</p>
 
-Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.
+
+<p>Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1453,7 +1474,8 @@ Referenced by <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearch
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1493,7 +1515,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>, <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>, <a href="#aba52996aa70fad6e119fdf1f8b9b6a06">getSearchIndices</a>, <a href="#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a> and <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>, <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>, <a href="#aba52996aa70fad6e119fdf1f8b9b6a06">getSearchIndices</a>, <a href="#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a> and <a href="#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1523,7 +1546,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1532,7 +1556,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a> and <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a> and <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1556,7 +1581,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1565,7 +1591,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1589,7 +1616,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1598,7 +1626,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1622,7 +1651,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1631,7 +1661,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1655,7 +1686,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1664,7 +1696,8 @@ Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1688,7 +1721,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1697,7 +1731,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1721,7 +1756,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1730,7 +1766,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1754,7 +1791,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1763,7 +1801,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1787,7 +1826,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1796,7 +1836,8 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1820,7 +1861,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1829,7 +1871,8 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1853,7 +1896,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1862,7 +1906,8 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1886,7 +1931,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1895,7 +1941,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1919,7 +1966,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1928,7 +1976,8 @@ Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1952,7 +2001,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1961,7 +2011,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1985,7 +2036,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1994,7 +2046,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2018,7 +2071,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2027,7 +2081,8 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2051,7 +2106,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2060,7 +2116,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2084,7 +2141,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2093,7 +2151,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2117,7 +2176,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2126,7 +2186,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2150,7 +2211,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2159,7 +2221,8 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.
+<p>Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2183,7 +2246,8 @@ Referenced by <a href="#a2634e192e6fb1db99bb22fb62a9e8c0f">createJavaScriptSearc
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2192,7 +2256,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -2216,7 +2281,8 @@ Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchInde
 
 
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp">searchindex_js.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2225,7 +2291,8 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.
+<p>Referenced by <a href="#a04f8dba009adb568081909d56c207bc3">addMemberToSearchIndex</a>.</p>
+
 </div>
 </div>
 

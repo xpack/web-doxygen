@@ -45,7 +45,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper class representing the stack of items considered while resolving the scope. <a href="/web-doxygen/docs/api/classes/accessstack/#details">More...</a>
+<p>Helper class representing the stack of items considered while resolving the scope. <a href="/web-doxygen/docs/api/classes/accessstack/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -59,7 +59,7 @@ Helper class representing the stack of items considered while resolving the scop
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Element in the stack. <a href="/web-doxygen/docs/api/structs/accessstack/accesselem/#details">More...</a>
+<p>Element in the stack. <a href="/web-doxygen/docs/api/structs/accessstack/accesselem/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -273,7 +273,8 @@ Element in the stack. <a href="/web-doxygen/docs/api/structs/accessstack/accesse
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -304,7 +305,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/symbolre
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -335,7 +337,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/symbolre
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -377,7 +380,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/symbolre
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -391,9 +395,11 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaf800f6440d7e8a836e74392eaff70281">Definition::TypePackage</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eafa4d5f6cdc4791da57411cbcc8fa7654">Definition::TypeClass</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eab81085ea4bc42491ffd8fc61145fbe5a">Definition::TypeConcept</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea3a91bc6cdee1a47194d4e8be5ff00156">Definition::TypeModule</a>, <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8eaf800f6440d7e8a836e74392eaff70281">Definition::TypePackage</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>.</p>
+
 </div>
 </div>
 
@@ -428,7 +434,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -437,7 +444,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41fdc2a524c5339afd35c067a828459d">SymbolResolver::Private::getResolvedSymbolRec</a> and <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a3aea62dc3d2f6c0e0109e5aefc155a41">SymbolResolver::Private::getResolvedTypeRec</a>.</p>
+
 </div>
 </div>
 
@@ -466,7 +474,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a41
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -475,7 +484,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a551a021a6f4d4732e5181f8041375066">SymbolResolver::Private::newResolveTypedef</a>.</p>
+
 </div>
 </div>
 
@@ -504,7 +514,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a55
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -513,7 +524,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a763d03603a7b427c9f02719fb95b2c30">SymbolResolver::Private::substTypedef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a763d03603a7b427c9f02719fb95b2c30">SymbolResolver::Private::substTypedef</a>.</p>
+
 </div>
 </div>
 
@@ -542,7 +554,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -551,7 +564,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a763d03603a7b427c9f02719fb95b2c30">SymbolResolver::Private::substTypedef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a763d03603a7b427c9f02719fb95b2c30">SymbolResolver::Private::substTypedef</a>.</p>
+
 </div>
 </div>
 
@@ -581,7 +595,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolresolver/private/#a76
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -612,7 +627,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -643,7 +659,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/symbolres
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/symbolresolver-cpp">symbolresolver.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

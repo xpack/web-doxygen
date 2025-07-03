@@ -82,7 +82,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.
+<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -113,7 +114,8 @@ Definition at line 16 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-
 
 
 
-Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.
+<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/src/fileinfo-cpp">fileinfo.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

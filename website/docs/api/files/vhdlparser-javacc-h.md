@@ -245,7 +245,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -276,7 +277,8 @@ Definition at line 21 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -307,7 +309,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 22 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 22 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -338,7 +341,8 @@ Definition at line 22 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -375,7 +379,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -412,7 +417,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 12 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 12 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -421,7 +427,8 @@ Definition at line 12 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/readerstream/#abf4b092336679c6e09dffb1e6ebf7638">ReaderStream::read</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/readerstream/#abf4b092336679c6e09dffb1e6ebf7638">ReaderStream::read</a>.</p>
+
 </div>
 </div>
 
@@ -445,7 +452,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/readerstream/#abf4b09233667
 
 
 
-Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -476,7 +484,8 @@ Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -507,7 +516,8 @@ Definition at line 16 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -538,7 +548,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

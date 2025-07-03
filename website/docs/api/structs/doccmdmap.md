@@ -90,7 +90,8 @@ struct DocCmdMap { ... }
 </table>
 
 
-Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/comments
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-References <a href="#af819abbea48c5ed9c466986e97cb9c75">handler</a>, <a href="#ae79f2f0a8d2bc3c8ea431583a0bfe046">sectionHandling</a> and <a href="#a04aa6755366c1737ea0dd809199726ee">spacing</a>.
+<p>References <a href="#af819abbea48c5ed9c466986e97cb9c75">handler</a>, <a href="#ae79f2f0a8d2bc3c8ea431583a0bfe046">sectionHandling</a> and <a href="#a04aa6755366c1737ea0dd809199726ee">spacing</a>.</p>
+
 </div>
 </div>
 
@@ -160,7 +163,8 @@ References <a href="#af819abbea48c5ed9c466986e97cb9c75">handler</a>, <a href="#a
 
 
 
-Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +173,8 @@ Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
+<p>Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.</p>
+
 </div>
 </div>
 
@@ -193,7 +198,8 @@ Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
 
 
 
-Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -202,7 +208,8 @@ Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
+<p>Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.</p>
+
 </div>
 </div>
 
@@ -226,7 +233,8 @@ Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
 
 
 
-Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -235,7 +243,8 @@ Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.
+<p>Referenced by <a href="#a706b9802b59db797c4239097bc42072d">DocCmdMap</a>.</p>
+
 </div>
 </div>
 

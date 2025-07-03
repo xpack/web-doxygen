@@ -41,7 +41,7 @@ class MarkdownOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a>
+<p>Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -99,7 +99,7 @@ Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/o
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a0cb95204f0f91c085e6a9808efb2ebdc">More...</a>
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a0cb95204f0f91c085e6a9808efb2ebdc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -113,7 +113,7 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a69493ea3c18566cbc3813c1b7a787321">More...</a>
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a69493ea3c18566cbc3813c1b7a787321">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,7 +127,7 @@ Returns TRUE if the language identified by <em>extension</em> needs the C prepro
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Callback function called by the comment block scanner. <a href="#ac673a30488ede0451a6a28601ece560f">More...</a>
+<p>Callback function called by the comment block scanner. <a href="#ac673a30488ede0451a6a28601ece560f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,8 @@ Callback function called by the comment block scanner. <a href="#ac673a30488ede0
 </table>
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -182,7 +183,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/markdown-
 
 
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3621 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3621 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -193,7 +195,8 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Reference <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>.
+<p>Reference <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>.</p>
+
 </div>
 </div>
 
@@ -223,7 +226,8 @@ Reference <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>.
 
 
 
-Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3625 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3625 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -266,16 +270,17 @@ Declaration at line 50 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 <div class="doxyMemberDoc">
 
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.</p>
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></dd>
+<dd><p><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></p></dd>
 </dl>
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -284,7 +289,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/markdown-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -311,7 +317,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </div>
 <div class="doxyMemberDoc">
 
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.</p>
 
 
 <dl class="doxyParamsList">
@@ -320,25 +326,26 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription">The full name of the file.</td>
+<td class="doxyParamItemDescription"><p>The full name of the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileBuf</td>
-<td class="doxyParamItemDescription">The contents of the file (zero terminated).</td>
+<td class="doxyParamItemDescription"><p>The contents of the file (zero terminated).</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] root</td>
-<td class="doxyParamItemDescription">The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</td>
+<td class="doxyParamItemDescription"><p>The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] clangParser</td>
-<td class="doxyParamItemDescription">The clang translation unit parser object or nullptr if disabled.</td>
+<td class="doxyParamItemDescription"><p>The clang translation unit parser object or nullptr if disabled.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3629 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3629 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -493,7 +500,8 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611a7e256e56ac82ab7e84c0a827a6f87530">explicitMainPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611afac4940bb70ae7157485b0a935d65548">explicitOtherPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611ae2813323b951a15b22babe5224d9dabe">explicitPage</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ac2acb2b59eeab5ffb2405f30b3c56476">Markdown::extractPageTitle</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a282543ddcf48b1b7cf7d2921573d453d">AnchorGenerator::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a9ef42eb1068c60ccbe59ef0024ed1c90">isExplicitPage</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da4e7a964cec1d0423c74ab7045c1f6f6d">Debug::Markdown</a>, <a href="/web-doxygen/docs/api/files/src/markdown-h/#a0a158f67dd586087dac0e968ea384f09">markdownFileNameToId</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611aed049ce087485c91fc2610599aebd142">notExplicit</a>, <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ab176950dfe9ce90a45af5db61b5acf88">Markdown::setIndentLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8c90a81fbaf02ad9af7387f3ed1c20c1">stripFromPath</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a419394d9b5a9a18d4465ce4017f646d0">QCString::endsWith</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611a7e256e56ac82ab7e84c0a827a6f87530">explicitMainPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611afac4940bb70ae7157485b0a935d65548">explicitOtherPage</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611ae2813323b951a15b22babe5224d9dabe">explicitPage</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ac2acb2b59eeab5ffb2405f30b3c56476">Markdown::extractPageTitle</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a282543ddcf48b1b7cf7d2921573d453d">AnchorGenerator::instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a9ef42eb1068c60ccbe59ef0024ed1c90">isExplicitPage</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da4e7a964cec1d0423c74ab7045c1f6f6d">Debug::Markdown</a>, <a href="/web-doxygen/docs/api/files/src/markdown-h/#a0a158f67dd586087dac0e968ea384f09">markdownFileNameToId</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a32bd5ad1ca53505df49807d933ab3611aed049ce087485c91fc2610599aebd142">notExplicit</a>, <a href="#ae7e3150da2e63dfdddf40fbec779b9b5">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ab176950dfe9ce90a45af5db61b5acf88">Markdown::setIndentLevel</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a957be37e3b98707fc7e8daeff18e391b">QCString::size</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a8c90a81fbaf02ad9af7387f3ed1c20c1">stripFromPath</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -520,12 +528,14 @@ References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd
 </div>
 <div class="doxyMemberDoc">
 
-Callback function called by the comment block scanner.
+<p>Callback function called by the comment block scanner.</p>
 
 
-It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.
+<p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3777 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.
+
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>, definition at line 3777 of file <a href="/web-doxygen/docs/api/files/src/markdown-cpp">markdown.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -537,7 +547,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/markdown
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a>.</p>
+
 </div>
 </div>
 
@@ -567,7 +578,8 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d4090
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/markdown-h">markdown.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -576,7 +588,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/markdown-
 </div>
 
 
-Referenced by <a href="#a8fb5ef90db1a3302c0bc0e06e684d880">MarkdownOutlineParser</a> and <a href="#a0cb95204f0f91c085e6a9808efb2ebdc">parseInput</a>.
+<p>Referenced by <a href="#a8fb5ef90db1a3302c0bc0e06e684d880">MarkdownOutlineParser</a> and <a href="#a0cb95204f0f91c085e6a9808efb2ebdc">parseInput</a>.</p>
+
 </div>
 </div>
 

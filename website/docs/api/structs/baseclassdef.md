@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `BaseClassDef` Struct Reference
 
-Class that contains information about an inheritance relation. <a href="#details">More...</a>
+<p>Class that contains information about an inheritance relation. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ struct BaseClassDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class definition that this relation inherits from. <a href="#a2a62f0f7057f4cd514f3d1417191ff26">More...</a>
+<p>Class definition that this relation inherits from. <a href="#a2a62f0f7057f4cd514f3d1417191ff26">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ Class definition that this relation inherits from. <a href="#a2a62f0f7057f4cd514
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-name used in the inheritance list (may be a typedef name instead of the class name) <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">More...</a>
+<p>name used in the inheritance list (may be a typedef name instead of the class name) <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,7 +88,7 @@ name used in the inheritance list (may be a typedef name instead of the class na
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private. <a href="#ab5a986f56300bfa53f7c4cff58196294">More...</a>
+<p><a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private. <a href="#ab5a986f56300bfa53f7c4cff58196294">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -102,7 +102,7 @@ name used in the inheritance list (may be a typedef name instead of the class na
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Virtualness of the inheritance relation: Normal, or Virtual. <a href="#a844100c6fcd90233e01e52fc92107464">More...</a>
+<p>Virtualness of the inheritance relation: Normal, or Virtual. <a href="#a844100c6fcd90233e01e52fc92107464">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -116,7 +116,7 @@ Virtualness of the inheritance relation: Normal, or Virtual. <a href="#a844100c6
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Template arguments used for the base class. <a href="#a2b8a712d468d70c6c80b5c07f49711ae">More...</a>
+<p>Template arguments used for the base class. <a href="#a2b8a712d468d70c6c80b5c07f49711ae">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -127,9 +127,10 @@ Template arguments used for the base class. <a href="#a2b8a712d468d70c6c80b5c07f
 
 ## Description {#details}
 
-Class that contains information about an inheritance relation.
+<p>Class that contains information about an inheritance relation.</p>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -170,7 +172,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-References <a href="#a2a62f0f7057f4cd514f3d1417191ff26">classDef</a>, <a href="#ab5a986f56300bfa53f7c4cff58196294">prot</a>, <a href="#a2b8a712d468d70c6c80b5c07f49711ae">templSpecifiers</a>, <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">usedName</a> and <a href="#a844100c6fcd90233e01e52fc92107464">virt</a>.
+<p>References <a href="#a2a62f0f7057f4cd514f3d1417191ff26">classDef</a>, <a href="#ab5a986f56300bfa53f7c4cff58196294">prot</a>, <a href="#a2b8a712d468d70c6c80b5c07f49711ae">templSpecifiers</a>, <a href="#ae7703a5a743ee3b6c066d8037fc71f4e">usedName</a> and <a href="#a844100c6fcd90233e01e52fc92107464">virt</a>.</p>
+
 </div>
 </div>
 
@@ -198,9 +201,10 @@ References <a href="#a2a62f0f7057f4cd514f3d1417191ff26">classDef</a>, <a href="#
 </div>
 <div class="doxyMemberDoc">
 
-Class definition that this relation inherits from.
+<p>Class definition that this relation inherits from.</p>
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -209,7 +213,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a24a546c83a0d35d0f034b822def5e2d7">ClassDefImpl::writeInheritanceGraph</a>.
+<p>Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#afee2d528ad3660fd6ab8de9e42ac6752">computeMemberRelationsForBaseClass</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a24a546c83a0d35d0f034b822def5e2d7">ClassDefImpl::writeInheritanceGraph</a>.</p>
+
 </div>
 </div>
 
@@ -231,9 +236,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>, <a 
 </div>
 <div class="doxyMemberDoc">
 
-<a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private.
+<p><a href="/web-doxygen/docs/api/files/src/types-h/#a90e352184df58cd09455fe9996cd4ded">Protection</a> level of the inheritance relation: Public, Protected, or Private.</p>
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -242,7 +248,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa1221bfb5b21c047427a269f0caef930">writeInheritanceSpecifier</a>.
+<p>Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa1221bfb5b21c047427a269f0caef930">writeInheritanceSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -264,9 +271,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and 
 </div>
 <div class="doxyMemberDoc">
 
-Template arguments used for the base class.
+<p>Template arguments used for the base class.</p>
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -275,7 +283,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a24a546c83a0d35d0f034b822def5e2d7">ClassDefImpl::writeInheritanceGraph</a>.
+<p>Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/classes/classdefimpl/#a24a546c83a0d35d0f034b822def5e2d7">ClassDefImpl::writeInheritanceGraph</a>.</p>
+
 </div>
 </div>
 
@@ -297,9 +306,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and 
 </div>
 <div class="doxyMemberDoc">
 
-name used in the inheritance list (may be a typedef name instead of the class name)
+<p>name used in the inheritance list (may be a typedef name instead of the class name)</p>
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -308,7 +318,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>.
+<p>Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>.</p>
+
 </div>
 </div>
 
@@ -330,9 +341,10 @@ Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Virtualness of the inheritance relation: Normal, or Virtual.
+<p>Virtualness of the inheritance relation: Normal, or Virtual.</p>
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -341,7 +353,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa1221bfb5b21c047427a269f0caef930">writeInheritanceSpecifier</a>.
+<p>Referenced by <a href="#a20901e8922d1379dd9343fde68dca5a9">BaseClassDef</a> and <a href="/web-doxygen/docs/api/files/src/classdef-cpp/#aa1221bfb5b21c047427a269f0caef930">writeInheritanceSpecifier</a>.</p>
+
 </div>
 </div>
 

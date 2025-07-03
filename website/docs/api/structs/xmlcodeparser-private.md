@@ -58,7 +58,8 @@ struct XMLCodeParser::Private { ... }
 </table>
 
 
-Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 392 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

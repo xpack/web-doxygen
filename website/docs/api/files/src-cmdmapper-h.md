@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a>
+<p>Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/api/namespaces/mappers/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -58,7 +58,7 @@ Namespace for the doxygen and HTML command mappers. <a href="/web-doxygen/docs/a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a mapping from command names to command IDs. <a href="/web-doxygen/docs/api/classes/mapper/#details">More...</a>
+<p>Class representing a mapping from command names to command IDs. <a href="/web-doxygen/docs/api/classes/mapper/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -147,7 +147,8 @@ Class representing a mapping from command names to command IDs. <a href="/web-do
 
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -872,7 +873,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper
 </dd>
 </dl>
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1408,7 +1410,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper
 </dd>
 </dl>
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

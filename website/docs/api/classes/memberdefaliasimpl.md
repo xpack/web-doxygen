@@ -2786,7 +2786,8 @@ class MemberDefAliasImpl { ... }
 </table>
 
 
-Definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -2817,7 +2818,8 @@ Definition at line 528 of file <a href="/web-doxygen/docs/api/files/src/memberde
 
 
 
-Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2827,7 +2829,8 @@ Definition at line 531 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; MemberDef &gt;::DefinitionAliasMixin</a>, <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; MemberDef &gt;::init</a> and <a href="#af0580c92f90390b7c815b4ef15aae072">m\_memberGroup</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; MemberDef &gt;::DefinitionAliasMixin</a>, <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; MemberDef &gt;::init</a> and <a href="#af0580c92f90390b7c815b4ef15aae072">m_memberGroup</a>.</p>
+
 </div>
 </div>
 
@@ -2862,7 +2865,8 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da
 
 
 
-Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2871,7 +2875,8 @@ Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; MemberDef &gt;::deinit</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; MemberDef &gt;::deinit</a>.</p>
+
 </div>
 </div>
 
@@ -2907,7 +2912,8 @@ Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9
 
 
 
-Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2917,7 +2923,8 @@ Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a19e35fd33e87d41ebfe413d9ec63a44b">MemberDef::accessorClass</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a19e35fd33e87d41ebfe413d9ec63a44b">MemberDef::accessorClass</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -2948,9 +2955,11 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a19e35fd33e87d41ebf
 
 
 
-Returns the anchor within a page where this item can be found
+<p>Returns the anchor within a page where this item can be found</p>
 
-Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2960,7 +2969,8 @@ Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -2990,7 +3000,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3000,7 +3011,8 @@ Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3030,7 +3042,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba276
 
 
 
-Definition at line 849 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 849 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3040,7 +3053,8 @@ Definition at line 849 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d27f60e93c3c780e">MemberDef::argumentList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3070,7 +3084,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a515503656a6cffb2d2
 
 
 
-Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3080,7 +3095,8 @@ Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2c1e65e965c6d39">MemberDef::bitfieldString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3111,9 +3127,11 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a79b45e3c4c595bebe2
 
 
 
-Returns the brief description of this definition. This can include commands.
+<p>Returns the brief description of this definition. This can include commands.</p>
 
-Definition at line 919 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 919 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3123,7 +3141,8 @@ Definition at line 919 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ffd981a38c2b5f188">Definition::briefDescription</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3153,7 +3172,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a8ca2bb51665eab1ff
 
 
 
-Definition at line 905 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 905 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3163,7 +3183,8 @@ Definition at line 905 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a4d88b32a0ffb15971a56e67dd0fbf21b">MemberDef::category</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a4d88b32a0ffb15971a56e67dd0fbf21b">MemberDef::category</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3193,7 +3214,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a4d88b32a0ffb15971a
 
 
 
-Definition at line 907 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 907 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3203,7 +3225,8 @@ Definition at line 907 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#aea0734fcbde2539f921faf4461fd1833">MemberDef::categoryRelation</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#aea0734fcbde2539f921faf4461fd1833">MemberDef::categoryRelation</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3234,9 +3257,11 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#aea0734fcbde2539f92
 
 
 
-Used for syntax highlighting symbol class
+<p>Used for syntax highlighting symbol class</p>
 
-Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3246,7 +3271,8 @@ Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3276,7 +3302,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca7
 
 
 
-Definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3287,7 +3314,8 @@ Definition at line 940 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a9cb144dad9c39430ac79b10a7ac18d9c">MemberDef::createTemplateInstanceMember</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a9cb144dad9c39430ac79b10a7ac18d9c">MemberDef::createTemplateInstanceMember</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3317,7 +3345,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a9cb144dad9c39430ac
 
 
 
-Definition at line 558 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 558 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3327,7 +3356,8 @@ Definition at line 558 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a1003f3dd9b61ac1d8e115600f8ffaa06">MemberDef::declaration</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a1003f3dd9b61ac1d8e115600f8ffaa06">MemberDef::declaration</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3357,7 +3387,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a1003f3dd9b61ac1d8e
 
 
 
-Definition at line 851 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 851 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3367,7 +3398,8 @@ Definition at line 851 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385a962aefd88c313">MemberDef::declArgumentList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3397,7 +3429,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#af0d0461390544ad385
 
 
 
-Definition at line 543 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 543 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3408,7 +3441,8 @@ Definition at line 543 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a792961c33915b95213d78c7366c9dcb3">createMemberDefAlias</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a9fa006e6df908d4b1a998f48e06ffd14">DefinitionAliasMixin&lt; MemberDef &gt;::getScope</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a792961c33915b95213d78c7366c9dcb3">createMemberDefAlias</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a9fa006e6df908d4b1a998f48e06ffd14">DefinitionAliasMixin&lt; MemberDef &gt;::getScope</a>.</p>
+
 </div>
 </div>
 
@@ -3438,7 +3472,8 @@ References <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#a792961c33915
 
 
 
-Definition at line 560 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 560 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3448,7 +3483,8 @@ Definition at line 560 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a1bc15da1d36aef0514a095c9ff485618">MemberDef::definition</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a1bc15da1d36aef0514a095c9ff485618">MemberDef::definition</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3478,7 +3514,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a1bc15da1d36aef0514
 
 
 
-Definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3488,7 +3525,8 @@ Definition at line 855 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#ad43afec960b7c0d7e76a1b7eec3d0e3a">MemberDef::definitionTemplateParameterLists</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#ad43afec960b7c0d7e76a1b7eec3d0e3a">MemberDef::definitionTemplateParameterLists</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3519,9 +3557,11 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#ad43afec960b7c0d7e7
 
 
 
-Use this for dynamic inspection of the type of the derived class
+<p>Use this for dynamic inspection of the type of the derived class</p>
 
-Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3530,9 +3570,11 @@ Definition at line 536 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#ac33051a770f2ef83bae5f0255a0efceb">definitionType</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>.
+<p>References <a href="#ac33051a770f2ef83bae5f0255a0efceb">definitionType</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea422b8b811bcf8869a67732f9829d005b">Definition::TypeMember</a>.</p>
 
-Referenced by <a href="#ac33051a770f2ef83bae5f0255a0efceb">definitionType</a>.
+
+<p>Referenced by <a href="#ac33051a770f2ef83bae5f0255a0efceb">definitionType</a>.</p>
+
 </div>
 </div>
 
@@ -3562,7 +3604,8 @@ Referenced by <a href="#ac33051a770f2ef83bae5f0255a0efceb">definitionType</a>.
 
 
 
-Definition at line 938 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 938 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3599,7 +3642,8 @@ Definition at line 938 of file <a href="/web-doxygen/docs/api/files/src/memberde
 
 
 
-Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3609,7 +3653,8 @@ Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a655ea55d777fb3ae96319be96f56323d">MemberDef::displayDefinition</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a655ea55d777fb3ae96319be96f56323d">MemberDef::displayDefinition</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3640,9 +3685,11 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a655ea55d777fb3ae96
 
 
 
-Returns the name of the definition as it appears in the output
+<p>Returns the name of the definition as it appears in the output</p>
 
-Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3652,7 +3699,8 @@ Definition at line 909 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac174cf71b3e11d06ac">Definition::displayName</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -3683,9 +3731,11 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac4741f70f06baac17
 
 
 
-Returns the detailed description of this definition
+<p>Returns the detailed description of this definition</p>
 
-Definition at line 917 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 917 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3695,7 +3745,8 @@ Definition at line 917 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc3795b02c9b5125a">Definition::documentation</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3725,7 +3776,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#abdafb43ac7208aedc
 
 
 
-Definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3735,7 +3787,8 @@ Definition at line 841 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a1e08adab7ea5d97208e8662165d89995">MemberDef::enumBaseType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a1e08adab7ea5d97208e8662165d89995">MemberDef::enumBaseType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3765,7 +3818,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a1e08adab7ea5d97208
 
 
 
-Definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3775,7 +3829,8 @@ Definition at line 839 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4b12a187c8a90ca">MemberDef::enumFieldList</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3805,7 +3860,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a4df0bef52b6d1d15a4
 
 
 
-Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3815,7 +3871,8 @@ Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f94a19fd2121d155de4865cf7c2fa81">MemberDef::excpString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f94a19fd2121d155de4865cf7c2fa81">MemberDef::excpString</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3845,7 +3902,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f94a19fd2121d155d
 
 
 
-Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3855,7 +3913,8 @@ Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a53ca4dbd8b0975ce3bf393a52a15e435">MemberDef::extraTypeChars</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a53ca4dbd8b0975ce3bf393a52a15e435">MemberDef::extraTypeChars</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3885,7 +3944,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a53ca4dbd8b0975ce3b
 
 
 
-Definition at line 921 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 921 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3895,7 +3955,8 @@ Definition at line 921 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f47ca16628b42880b0aaa0a684c4a47">MemberDef::fieldType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f47ca16628b42880b0aaa0a684c4a47">MemberDef::fieldType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3925,7 +3986,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a2f47ca16628b42880b
 
 
 
-Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3935,7 +3997,8 @@ Definition at line 857 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#aaaddfdfb06c2122a283d4afc01bd78a8">MemberDef::formalTemplateArguments</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#aaaddfdfb06c2122a283d4afc01bd78a8">MemberDef::formalTemplateArguments</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -3965,7 +4028,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#aaaddfdfb06c2122a28
 
 
 
-Definition at line 865 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 865 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3975,7 +4039,8 @@ Definition at line 865 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a485884aca7071b99f7e0c8af2781a126">MemberDef::fromAnonymousMember</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a485884aca7071b99f7e0c8af2781a126">MemberDef::fromAnonymousMember</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4005,7 +4070,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a485884aca7071b99f7
 
 
 
-Definition at line 863 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 863 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4015,7 +4081,8 @@ Definition at line 863 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a2b1e297724aaf4e8bca3424d72ae9129">MemberDef::fromAnonymousScope</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a2b1e297724aaf4e8bca3424d72ae9129">MemberDef::fromAnonymousScope</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4045,7 +4112,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a2b1e297724aaf4e8bc
 
 
 
-Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4055,7 +4123,8 @@ Definition at line 833 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a020685b10037e71388d08925716ffdd5">MemberDef::getAnonymousEnumType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a020685b10037e71388d08925716ffdd5">MemberDef::getAnonymousEnumType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4085,7 +4154,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a020685b10037e71388
 
 
 
-Definition at line 895 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 895 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4095,7 +4165,8 @@ Definition at line 895 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a101fb5ed20d2c97e877e0f7b8ef07740">MemberDef::getCachedResolvedTypedef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a101fb5ed20d2c97e877e0f7b8ef07740">MemberDef::getCachedResolvedTypedef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4125,7 +4196,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a101fb5ed20d2c97e87
 
 
 
-Definition at line 893 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 893 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4135,7 +4207,8 @@ Definition at line 893 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a799ea114bacbfab8f6b8eb4e63564484">MemberDef::getCachedTypedefTemplSpec</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a799ea114bacbfab8f6b8eb4e63564484">MemberDef::getCachedTypedefTemplSpec</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4165,7 +4238,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a799ea114bacbfab8f6
 
 
 
-Definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4175,7 +4249,8 @@ Definition at line 891 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a2d86b14ef7e0bae448c4ab6cb0e0bedc">MemberDef::getCachedTypedefVal</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a2d86b14ef7e0bae448c4ab6cb0e0bedc">MemberDef::getCachedTypedefVal</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4205,7 +4280,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a2d86b14ef7e0bae448
 
 
 
-Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4215,7 +4291,8 @@ Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4245,7 +4322,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aaca
 
 
 
-Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4255,7 +4333,8 @@ Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aacaeecf40a1146995">MemberDef::getClassDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4285,7 +4364,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a33ff70edee6691aaca
 
 
 
-Definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4295,7 +4375,8 @@ Definition at line 887 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a90092536a05578d258ca1381e3176c88">MemberDef::getClassDefOfAnonymousType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a90092536a05578d258ca1381e3176c88">MemberDef::getClassDefOfAnonymousType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4325,7 +4406,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a90092536a05578d258
 
 
 
-Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4335,7 +4417,8 @@ Definition at line 929 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a73180115a82af3a943f4bb34b1cc0df3">MemberDef::getDeclColumn</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a73180115a82af3a943f4bb34b1cc0df3">MemberDef::getDeclColumn</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4365,7 +4448,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a73180115a82af3a943
 
 
 
-Definition at line 925 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 925 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4375,7 +4459,8 @@ Definition at line 925 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a9fcd7ce509544c84675118e28d7f6c8c">MemberDef::getDeclFileName</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a9fcd7ce509544c84675118e28d7f6c8c">MemberDef::getDeclFileName</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4405,7 +4490,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a9fcd7ce509544c8467
 
 
 
-Definition at line 927 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 927 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4415,7 +4501,8 @@ Definition at line 927 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a6d8d6ea6270c9f8a0e5250a3408014c1">MemberDef::getDeclLine</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a6d8d6ea6270c9f8a0e5250a3408014c1">MemberDef::getDeclLine</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4445,7 +4532,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a6d8d6ea6270c9f8a0e
 
 
 
-Definition at line 911 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 911 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4455,7 +4543,8 @@ Definition at line 911 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a6f41851957c71761afa7afe4faf4a476">MemberDef::getDeclType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a6f41851957c71761afa7afe4faf4a476">MemberDef::getDeclType</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4485,7 +4574,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a6f41851957c71761af
 
 
 
-Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4495,7 +4585,8 @@ Definition at line 837 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#af99e46c3a8716075dfcb6debf428e44f">MemberDef::getEnumScope</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#af99e46c3a8716075dfcb6debf428e44f">MemberDef::getEnumScope</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4525,7 +4616,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#af99e46c3a8716075df
 
 
 
-Definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4535,7 +4627,8 @@ Definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#af11ea2d4093d08b9ca4147b6e10b1c7b">MemberDef::getExamples</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#af11ea2d4093d08b9ca4147b6e10b1c7b">MemberDef::getExamples</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4565,7 +4658,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#af11ea2d4093d08b9ca
 
 
 
-Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4575,7 +4669,8 @@ Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4605,7 +4700,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925
 
 
 
-Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4615,7 +4711,8 @@ Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925236105029ee823">MemberDef::getFileDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4645,7 +4742,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a5036fd8ee16b186925
 
 
 
-Definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4655,7 +4753,8 @@ Definition at line 903 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a347b09058c4ebdded074d8030ad53bb1">MemberDef::getGroupAlias</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a347b09058c4ebdded074d8030ad53bb1">MemberDef::getGroupAlias</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4685,7 +4784,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a347b09058c4ebdded0
 
 
 
-Definition at line 609 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 609 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4695,7 +4795,8 @@ Definition at line 609 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4725,7 +4826,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385
 
 
 
-Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4735,7 +4837,8 @@ Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385bbdaf7fe927e67">MemberDef::getGroupDef</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4765,7 +4868,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a43566d882fc7994385
 
 
 
-Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4775,7 +4879,8 @@ Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e8102ee9a3380c0746">MemberDef::getGroupFileName</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4805,7 +4910,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#acb9da3d6b3e2f3e810
 
 
 
-Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4815,7 +4921,8 @@ Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9475e1d243560b1">MemberDef::getGroupHasDocs</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4845,7 +4952,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a01cb4b118d46ca86b9
 
 
 
-Definition at line 613 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 613 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4855,7 +4963,8 @@ Definition at line 613 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a978540c0d48bca7">MemberDef::getGroupPri</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4885,7 +4994,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a9ed95e7cef3948c6a9
 
 
 
-Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4895,7 +5005,8 @@ Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b88e981aebc789bd">MemberDef::getGroupStartLine</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4925,7 +5036,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#a5d3b273949bc92e2b8
 
 
 
-Definition at line 913 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 913 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4935,7 +5047,8 @@ Definition at line 913 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#ad4402807338308bd8d09e8e11592159d">MemberDef::getLabels</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#ad4402807338308bd8d09e8e11592159d">MemberDef::getLabels</a> and <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -4964,7 +5077,8 @@ References <a href="/web-doxygen/docs/api/classes/memberdef/#ad4402807338308bd8d
 
 
 
-Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4973,9 +5087,11 @@ Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; MemberDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; MemberDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>.</p>
 
-Referenced by <a href="#a72d1ae7f30aa8073a2790546df7771be">accessorClass</a>, <a href="#aafc07f99d9ef9e68b50d5f6ac3e8abdb">anchor</a>, <a href="#a08d9e1d8330ee820835e987f3b98962e">argsString</a>, <a href="#a92f40ce21a3c575393ba368299fd58c3">argumentList</a>, <a href="#ac1e54f5fb27478d640a2154263307537">bitfieldString</a>, <a href="#a82714d65144b5bd2a3e7d1a72cc7fac7">briefDescription</a>, <a href="#aefe87e3b1995f22580baef73bc18ae87">category</a>, <a href="#ab8cb3810e35cf002b88959976940bd3e">categoryRelation</a>, <a href="#ad314d46af7fb5ffa9187a7f9fc455488">codeSymbolType</a>, <a href="#a8eca027c06effdb42b1430454b23ea3e">createTemplateInstanceMember</a>, <a href="#a5e914a4e75e59e36cf75c30fe30327ec">declaration</a>, <a href="#a7cff2146a8053a3738816b623393b1b8">declArgumentList</a>, <a href="#a304d98a7f2677037f3ca7f4a3efd73ed">deepCopy</a>, <a href="#ac0fd29713adf9549df9a34b6a2967580">definition</a>, <a href="#a39b927ee978d3883e8ed5fc2bf38f2f2">definitionTemplateParameterLists</a>, <a href="#aa0c005ebaf14fa477a5d390f7a847ad6">displayDefinition</a>, <a href="#af537f8de444f8775612f8fadea0b152b">displayName</a>, <a href="#afaf6b17a5a0437507eb29b7d9c9dfb88">documentation</a>, <a href="#a13268b641bd88ab5c4b0c2383ba0ee96">enumBaseType</a>, <a href="#a75727879881005eede9e7704dec38eda">enumFieldList</a>, <a href="#a7ff2e26cbc7fff4007003e80bbd2b1e4">excpString</a>, <a href="#a9154aea0867b94b58ee1697ae34e9ff6">extraTypeChars</a>, <a href="#adb081738161e6790884541dd1c7ad02e">fieldType</a>, <a href="#addb17b4c5f207a2f1a16e13a700e6b13">formalTemplateArguments</a>, <a href="#ad37f141fe0e429548fbf39c2bc666963">fromAnonymousMember</a>, <a href="#a8969ab606ff87df184d152b53d88b0ed">fromAnonymousScope</a>, <a href="#ae8d8e0492f0a91e2925423f6a633a110">getAnonymousEnumType</a>, <a href="#a3f5720971a6dee2e968ac2983afc141a">getCachedResolvedTypedef</a>, <a href="#a6e0309dc66ff64486a0000ae6167e00d">getCachedTypedefTemplSpec</a>, <a href="#a01fffd763b95e60cae965442fdb7514f">getCachedTypedefVal</a>, <a href="#a0e9cbc6be94f72a334915a282cc08fb7">getClassDef</a>, <a href="#ab8eea721f3aa95df70f1043e7faf6eed">getClassDef</a>, <a href="#a3e0a738dbdd23f3d5cfee1d062445957">getClassDefOfAnonymousType</a>, <a href="#a7c5ecf31b6fd716d944cafe5b53979e1">getDeclColumn</a>, <a href="#a07931b122f9dd393677ffda5602bc6ed">getDeclFileName</a>, <a href="#a61c55530f12aea9c3e08d04e3eadd6d2">getDeclLine</a>, <a href="#a804bd46b5a52c8575481fb624b8547d1">getDeclType</a>, <a href="#ab999a273e404ddf9b8b632abb5529f92">getEnumScope</a>, <a href="#a596a17921233981cd696d63d02ccc699">getExamples</a>, <a href="#ada88b8880faa38132256facd594e93ce">getFileDef</a>, <a href="#a3db8f23e821810a68d5862a4edb2e1a7">getFileDef</a>, <a href="#a292ff53c2fa2152fc4fa42d4770d9f78">getGroupAlias</a>, <a href="#a87103a76bfb3ee34f2f5c794deb57218">getGroupDef</a>, <a href="#a06196ddb8d78a9b3b0be360d4c5f6040">getGroupDef</a>, <a href="#a909fc518eb5f236c31b795bdbe83f504">getGroupFileName</a>, <a href="#a0e95c9ab5e53215fe88a0bdb955e2057">getGroupHasDocs</a>, <a href="#a70392e3c846970ae8998fc73ce7c651c">getGroupPri</a>, <a href="#a2f43ab6d4c849233c196d13f2587f862">getGroupStartLine</a>, <a href="#a8db83ee6d1d2710a78503e41d396507c">getLabels</a>, <a href="#a53f3e7c45fa9a19cf606d647fca28c59">getMemberGroupId</a>, <a href="#a687d7ece548efc0a6e72a19a42007f69">getMemberSpecifiers</a>, <a href="#ad1fb19b6d2781949ca12e1bcaa2ed6db">getModuleDef</a>, <a href="#a046459b2b68cc6f96813987348f9204e">getNamespaceDef</a>, <a href="#a0328c146fc737528b93513f308edda07">getNamespaceDef</a>, <a href="#a1cf6d7c9b436a5b5700373a8d5b61244">getOutputFileBase</a>, <a href="#afe7f40e5bd1f8834db5aaa1e279fbaac">getQualifiers</a>, <a href="#a2ea6cf823c8913af0fd5eb3ecfa2820c">getReadAccessor</a>, <a href="#a69c5c225aed0fda1cade45f05eb8bbab">getReference</a>, <a href="#a9039f553e11e28d05033b4c01cfb21cb">getScopeString</a>, <a href="#ace20f8697f19e6cea5b9e44a680e7a5b">getSectionList</a>, <a href="#ab171a05efe0ae922f1e24062abd22fec">getVhdlSpecifiers</a>, <a href="#ac17beff31ab5ad4fa465a6678c8b33af">getWriteAccessor</a>, <a href="#a13111733c39026d50bd3d9e77ac91de7">hasCallerGraph</a>, <a href="#a5fc46db1625f76cf8a476464cd977346">hasCallGraph</a>, <a href="#a7e1cbf70cc0a3f5d4ede4c201f703f46">hasDetailedDescription</a>, <a href="#a5c283cd8fc754c07d4fc74642f5952c6">hasDocumentation</a>, <a href="#a887ae58010826340b5a8baa90dac5399">hasDocumentedEnumValues</a>, <a href="#a008e1603baccff8ed237b5e2f7f48187">hasEnumValues</a>, <a href="#a050b6bbc860537476077acf0ddd41607">hasExamples</a>, <a href="#aef54d46cb50db54bec407b7a7971f916">hasInlineSource</a>, <a href="#a6dfba642cd34a8030c01902314b04d4c">hasMultiLineInitializer</a>, <a href="#a5b3cf21d00cb08db4605f096ea5ae4be">hasOneLineInitializer</a>, <a href="#aec509883bb7a11931e92c2ee82ab6825">hasReferencedByRelation</a>, <a href="#aa2a8260106f48a674532b6674e1f9298">hasReferencesRelation</a>, <a href="#a334f42f54c33dbd13522c72341f8118f">hasUserDocumentation</a>, <a href="#a12381afac14d7c04e46df5cd22448b55">inheritsDocsFrom</a>, <a href="#a65c251bb0f5de24cc7f782ed613d4a8d">initializer</a>, <a href="#a4fba2943f72c2c0dfc84f5e3cb03d0ef">initializerLines</a>, <a href="#aa5ad593619ebd10a3006621a00019d6f">isAbstract</a>, <a href="#a8f182e36e119dff587236b3a871ab455">isAddable</a>, <a href="#a2bdd15518a7ee43e74f1853d70954738">isAssign</a>, <a href="#a9b26a58c44485f3b143e1875608df3b7">isAttribute</a>, <a href="#a88bfd21b61e03473699ad4b5910bba12">isBound</a>, <a href="#afc0c264f685f863503df65d73f95ae35">isBriefSectionVisible</a>, <a href="#a7d662b1a73e920faeed40353f04df636">isCallable</a>, <a href="#a0136ee914c222e758546b392fafcbf0d">isConstEval</a>, <a href="#a4f2752fc11a291bf8fdfe6f7b8692741">isConstExpr</a>, <a href="#a1399569b43dfd1c393e7f6e77e57f889">isConstInit</a>, <a href="#a0b8adddde5852864b2d575efa0a032c3">isConstrained</a>, <a href="#ad62cf94641abcd059fa096dd3d6ad3a2">isConstructor</a>, <a href="#a5ff4f04f25516d058fd30376c09a5bac">isCopy</a>, <a href="#aeeef328c05231823ac28da16ba60f4ce">isCSharpProperty</a>, <a href="#ac5bd4be3b80929b82985af9f0edc1694">isDCOP</a>, <a href="#a97c729c512f427963bb13faf683b55fb">isDefault</a>, <a href="#a7db1617b509719669ee0fb56528d0fb3">isDefine</a>, <a href="#abbce9968be6df80c888df12102bd6506">isDelete</a>, <a href="#a25888f22b6d1bff3a673037227bdd3ca">isDeleted</a>, <a href="#a87c0c2413e48cb7c7a77eda21ed09926">isDestructor</a>, <a href="#acc4219b5317f63f91f9cee316579270b">isDetailedSectionVisible</a>, <a href="#a3ce1cd28cfbd15ff7468935f84234bd8">isDictionary</a>, <a href="#a7020e05a62880c040e10562dc615171d">isDocsForDefinition</a>, <a href="#a4c0be8aef27f0c52dd50512aaced7c18">isDocumentedFriendClass</a>, <a href="#a62405f8dbaeb86c640d3722258012d7a">isEnumerate</a>, <a href="#afa5b0e54433dba91af71b7ccb6e3a4ff">isEnumStruct</a>, <a href="#ae6151a1b1d568af457f7238b614d2558">isEnumValue</a>, <a href="#abf5953e094eb4634e00f620dd761aa11">isEvent</a>, <a href="#ad208e902d32a2755051c5c0dfca0e31c">isExplicit</a>, <a href="#a4652266d30b41d8e8439bc3b84a12807">isExternal</a>, <a href="#a1458a2afb0c7cb635888bf082417f148">isFinal</a>, <a href="#aad36172f74a65417d266c070a692b8df">isForeign</a>, <a href="#ad77c9110cef6649a2da3ee4b8d969ca8">isFriend</a>, <a href="#a28fb4c6f314f7562e7020884f8a98158">isFriendClass</a>, <a href="#a7e246b28429a866b93cc5cba2efa9c06">isFriendToHide</a>, <a href="#af0747f22d1735bdc8ff1826e3373a1b5">isFunction</a>, <a href="#a970d9105d969a974966f986e2b4f7348">isFunctionOrSignalSlot</a>, <a href="#a8d25384df617106167b8219d0a903bc9">isFunctionPtr</a>, <a href="#a755c0ff5a72f45da656e7c128729b5ef">isGettable</a>, <a href="#aaf2c3cd1c5be7ca69a96953266571502">isImplementation</a>, <a href="#a589d384c25ad38975d3a3d1cd75e0133">isInitonly</a>, <a href="#aa1f1d51208383f2c81fd4c4d5a0fc478">isInline</a>, <a href="#ab41876df031ccf541e3938c9378a1d29">isLinkable</a>, <a href="#a7def4f49ba28396a0e1e5bcd6c3bc1c9">isLinkableInProject</a>, <a href="#aec44aaf8241ba26741e2fea6e2966a41">isMaybeAmbiguous</a>, <a href="#ab320224993c7aa32f199213aae3a13db">isMaybeDefault</a>, <a href="#a507a2e8f5189db220046ec9eba425b0d">isMaybeVoid</a>, <a href="#ad7d3f80b8d2a91e9b94dda4fce12e189">isMutable</a>, <a href="#ae6912fde0d29f2ec38854eddf40e4028">isNew</a>, <a href="#a8802beb0983afad477fe8448f09a1836">isNoDiscard</a>, <a href="#aa03b6d02d98fd30acc7df09ba5893bea">isNoExcept</a>, <a href="#ac11dede9f1d533589bcc263b838a776e">isNonAtomic</a>, <a href="#ace019d70ff0c8254bef4aa56ceb3a0fc">isNotFriend</a>, <a href="#aa42b95dd3caf3e01a2be33f9f759ed77">isObjCMethod</a>, <a href="#a77456de8cef37bf10fa93b498fc9a1b8">isObjCProperty</a>, <a href="#a1cbaad4c6e93b2b64b8c0a6bc6ae39cd">isOptional</a>, <a href="#aabc01d50cd14e53abba3a296f8be58d1">isOverride</a>, <a href="#a25bc5921a289bee18e0565da07a9d0d6">isPrivateGettable</a>, <a href="#aa95344595e0dcd6ba9d02cde3b3a03a4">isPrivateSettable</a>, <a href="#a4ac81474a1ebc01260b7491390ee4128">isProperty</a>, <a href="#a5ba255038b64148283080b54d1d5fb2f">isProtectedGettable</a>, <a href="#ab66e2650f487bc524f5141f5a0813077">isProtectedSettable</a>, <a href="#a9a3eb9ee7d26eaf24573549b9aefecf4">isPrototype</a>, <a href="#a3a7c437c3828695f29752a5f31248658">isPublished</a>, <a href="#a7402786b99b7f04456f80573da94f025">isRaisable</a>, <a href="#abd6af4902118a2b7ff610312e416b399">isReadable</a>, <a href="#ab67c7ae917805e8f25cef32df3cc48ff">isReadonly</a>, <a href="#a678ba0f9fcc9bca4da2579ecb1665745">isReference</a>, <a href="#ac58e88197be888fa19664ae1e77850f1">isReimplementedBy</a>, <a href="#aab165191f96c1133cdb92eb7d5e4b1db">isRelated</a>, <a href="#aa202b519e1e4762ee11142ddbc393364">isRelatedOrFriend</a>, <a href="#a206cd0c0eb498fbfa66bdc2a207e2bf2">isRemovable</a>, <a href="#a1fd086462901b0dfc2eb04c94965d68b">isRequired</a>, <a href="#afa154f7b3999d8f1cd8ed1b29beb4b8d">isRetain</a>, <a href="#aa9967681dec57fe3e0f083ea236aeebc">isSealed</a>, <a href="#a3c80869d42d2f59a9ad001f85b7df8d4">isSequence</a>, <a href="#a0abefa5c2e8fe6ce87ec8516c7c0f0ed">isSettable</a>, <a href="#a26320cf7689c4d20e74be1da6d8f80c9">isSignal</a>, <a href="#a39377a7a9eeafa5b719a32611bc55b0c">isSliceLocal</a>, <a href="#aba9933110de3e136262dd61e6378fd2d">isSlot</a>, <a href="#aa8100dfae56865b75c0b8f2bdcf36cb4">isStatic</a>, <a href="#aa3114a7bc21087a094c223464902f7de">isStrong</a>, <a href="#a2969ee1363bb112bfb9482eedf8e2a01">isStrongEnumValue</a>, <a href="#ace8d6b166d0994f5971774ecf7f914da">isTemplateSpecialization</a>, <a href="#ad668b3f180e3fbddbd1a7cbff94d9b5b">isTransient</a>, <a href="#a1f85ea333f42181b416753f52439afcf">isTypeAlias</a>, <a href="#a9e5c7b14984d6b058605c47bd467a888">isTypedef</a>, <a href="#a709a9fa50b5fbd6c976118306f35694a">isTypedefValCached</a>, <a href="#a30ecc7761226752f24e6d492af6d6f8b">isUNOProperty</a>, <a href="#a750ddf88331742ad530fae31b78f9096">isUnretained</a>, <a href="#a3d7922bda533b87314d09283b9d5dcc8">isVariable</a>, <a href="#ad7c4fcca4a0164a66ceb4c0b55ecbaf6">isWeak</a>, <a href="#a4bc49cdab0c9376d6e4e9d8d29b839a3">isWritable</a>, <a href="#a5ce6334345bc14e98b2f83c128af6660">livesInsideEnum</a>, <a href="#a26b742f8a11431dcdb61d8d0841a23b8">memberDeclaration</a>, <a href="#a9ce42bf45bd30e09601a09b23e6e13bb">memberDefinition</a>, <a href="#ab3e12b6cb50e36955c0e0362f4d45648">memberType</a>, <a href="#a8e41d8cfbade9b6a17d48c823dc11cd5">memberTypeName</a>, <a href="#abb67fd2efc756d9cb53d7851ea2b6485">name</a>, <a href="#ad75c8fefd89d01096facb351c34e31ef">numberOfFlowKeyWords</a>, <a href="#a855d6a793487f48c561e3b2bf01ec07d">objCMethodName</a>, <a href="#aba0c7bf5ac1c402b002393ec5321f391">protection</a>, <a href="#aff8755c8aac3c5a18dce4ecd121e8fb1">qualifiedName</a>, <a href="#ab14ffecb13ba23fe06ee22a858ff083b">reimplementedBy</a>, <a href="#a1623c7801402bbcdc4dc0a1912d20c03">reimplements</a>, <a href="#af9821d9750e9656468d1ae8e4ad1c175">relatedAlso</a>, <a href="#ad7d83acc0b3a60293cd0977280388285">requiresClause</a>, <a href="#ae3aef5565dcc71e315cb041bd67aeae0">resolveAlias</a>, <a href="#ad803ee7f541c5034d68015c9d23df501">resolveAlias</a>, <a href="#af778660d0ae437277f50370242772766">sourceRefName</a>, <a href="#afdd265b9ac0946266fa37ff7e857bf57">templateArguments</a>, <a href="#a413f31e4d616a724c917698ac8c8c1a3">templateMaster</a>, <a href="#a959f313af181818940511b0fd4bdc09e">typeConstraints</a>, <a href="#ace92d8d5ef32aaaa9f2db11acc7f6175">typeString</a>, <a href="#a95a1eb3d3f08bcdfcf8e69053003eeb5">virtualness</a>, <a href="#af6090bc5e816e9d9183b770c853ff4ad">visibleInIndex</a>, <a href="#ace02aaabe60838f7e8cd349bc4d132c0">writeDeclaration</a>, <a href="#ac9d1ca230c04570fdb23923c0b2a421b">writeEnumDeclaration</a> and <a href="#a631a6b4069c839eeb964ceaba0c012ed">writeLink</a>.
+
+<p>Referenced by <a href="#a72d1ae7f30aa8073a2790546df7771be">accessorClass</a>, <a href="#aafc07f99d9ef9e68b50d5f6ac3e8abdb">anchor</a>, <a href="#a08d9e1d8330ee820835e987f3b98962e">argsString</a>, <a href="#a92f40ce21a3c575393ba368299fd58c3">argumentList</a>, <a href="#ac1e54f5fb27478d640a2154263307537">bitfieldString</a>, <a href="#a82714d65144b5bd2a3e7d1a72cc7fac7">briefDescription</a>, <a href="#aefe87e3b1995f22580baef73bc18ae87">category</a>, <a href="#ab8cb3810e35cf002b88959976940bd3e">categoryRelation</a>, <a href="#ad314d46af7fb5ffa9187a7f9fc455488">codeSymbolType</a>, <a href="#a8eca027c06effdb42b1430454b23ea3e">createTemplateInstanceMember</a>, <a href="#a5e914a4e75e59e36cf75c30fe30327ec">declaration</a>, <a href="#a7cff2146a8053a3738816b623393b1b8">declArgumentList</a>, <a href="#a304d98a7f2677037f3ca7f4a3efd73ed">deepCopy</a>, <a href="#ac0fd29713adf9549df9a34b6a2967580">definition</a>, <a href="#a39b927ee978d3883e8ed5fc2bf38f2f2">definitionTemplateParameterLists</a>, <a href="#aa0c005ebaf14fa477a5d390f7a847ad6">displayDefinition</a>, <a href="#af537f8de444f8775612f8fadea0b152b">displayName</a>, <a href="#afaf6b17a5a0437507eb29b7d9c9dfb88">documentation</a>, <a href="#a13268b641bd88ab5c4b0c2383ba0ee96">enumBaseType</a>, <a href="#a75727879881005eede9e7704dec38eda">enumFieldList</a>, <a href="#a7ff2e26cbc7fff4007003e80bbd2b1e4">excpString</a>, <a href="#a9154aea0867b94b58ee1697ae34e9ff6">extraTypeChars</a>, <a href="#adb081738161e6790884541dd1c7ad02e">fieldType</a>, <a href="#addb17b4c5f207a2f1a16e13a700e6b13">formalTemplateArguments</a>, <a href="#ad37f141fe0e429548fbf39c2bc666963">fromAnonymousMember</a>, <a href="#a8969ab606ff87df184d152b53d88b0ed">fromAnonymousScope</a>, <a href="#ae8d8e0492f0a91e2925423f6a633a110">getAnonymousEnumType</a>, <a href="#a3f5720971a6dee2e968ac2983afc141a">getCachedResolvedTypedef</a>, <a href="#a6e0309dc66ff64486a0000ae6167e00d">getCachedTypedefTemplSpec</a>, <a href="#a01fffd763b95e60cae965442fdb7514f">getCachedTypedefVal</a>, <a href="#a0e9cbc6be94f72a334915a282cc08fb7">getClassDef</a>, <a href="#ab8eea721f3aa95df70f1043e7faf6eed">getClassDef</a>, <a href="#a3e0a738dbdd23f3d5cfee1d062445957">getClassDefOfAnonymousType</a>, <a href="#a7c5ecf31b6fd716d944cafe5b53979e1">getDeclColumn</a>, <a href="#a07931b122f9dd393677ffda5602bc6ed">getDeclFileName</a>, <a href="#a61c55530f12aea9c3e08d04e3eadd6d2">getDeclLine</a>, <a href="#a804bd46b5a52c8575481fb624b8547d1">getDeclType</a>, <a href="#ab999a273e404ddf9b8b632abb5529f92">getEnumScope</a>, <a href="#a596a17921233981cd696d63d02ccc699">getExamples</a>, <a href="#ada88b8880faa38132256facd594e93ce">getFileDef</a>, <a href="#a3db8f23e821810a68d5862a4edb2e1a7">getFileDef</a>, <a href="#a292ff53c2fa2152fc4fa42d4770d9f78">getGroupAlias</a>, <a href="#a87103a76bfb3ee34f2f5c794deb57218">getGroupDef</a>, <a href="#a06196ddb8d78a9b3b0be360d4c5f6040">getGroupDef</a>, <a href="#a909fc518eb5f236c31b795bdbe83f504">getGroupFileName</a>, <a href="#a0e95c9ab5e53215fe88a0bdb955e2057">getGroupHasDocs</a>, <a href="#a70392e3c846970ae8998fc73ce7c651c">getGroupPri</a>, <a href="#a2f43ab6d4c849233c196d13f2587f862">getGroupStartLine</a>, <a href="#a8db83ee6d1d2710a78503e41d396507c">getLabels</a>, <a href="#a53f3e7c45fa9a19cf606d647fca28c59">getMemberGroupId</a>, <a href="#a687d7ece548efc0a6e72a19a42007f69">getMemberSpecifiers</a>, <a href="#ad1fb19b6d2781949ca12e1bcaa2ed6db">getModuleDef</a>, <a href="#a046459b2b68cc6f96813987348f9204e">getNamespaceDef</a>, <a href="#a0328c146fc737528b93513f308edda07">getNamespaceDef</a>, <a href="#a1cf6d7c9b436a5b5700373a8d5b61244">getOutputFileBase</a>, <a href="#afe7f40e5bd1f8834db5aaa1e279fbaac">getQualifiers</a>, <a href="#a2ea6cf823c8913af0fd5eb3ecfa2820c">getReadAccessor</a>, <a href="#a69c5c225aed0fda1cade45f05eb8bbab">getReference</a>, <a href="#a9039f553e11e28d05033b4c01cfb21cb">getScopeString</a>, <a href="#ace20f8697f19e6cea5b9e44a680e7a5b">getSectionList</a>, <a href="#ab171a05efe0ae922f1e24062abd22fec">getVhdlSpecifiers</a>, <a href="#ac17beff31ab5ad4fa465a6678c8b33af">getWriteAccessor</a>, <a href="#a13111733c39026d50bd3d9e77ac91de7">hasCallerGraph</a>, <a href="#a5fc46db1625f76cf8a476464cd977346">hasCallGraph</a>, <a href="#a7e1cbf70cc0a3f5d4ede4c201f703f46">hasDetailedDescription</a>, <a href="#a5c283cd8fc754c07d4fc74642f5952c6">hasDocumentation</a>, <a href="#a887ae58010826340b5a8baa90dac5399">hasDocumentedEnumValues</a>, <a href="#a008e1603baccff8ed237b5e2f7f48187">hasEnumValues</a>, <a href="#a050b6bbc860537476077acf0ddd41607">hasExamples</a>, <a href="#aef54d46cb50db54bec407b7a7971f916">hasInlineSource</a>, <a href="#a6dfba642cd34a8030c01902314b04d4c">hasMultiLineInitializer</a>, <a href="#a5b3cf21d00cb08db4605f096ea5ae4be">hasOneLineInitializer</a>, <a href="#aec509883bb7a11931e92c2ee82ab6825">hasReferencedByRelation</a>, <a href="#aa2a8260106f48a674532b6674e1f9298">hasReferencesRelation</a>, <a href="#a334f42f54c33dbd13522c72341f8118f">hasUserDocumentation</a>, <a href="#a12381afac14d7c04e46df5cd22448b55">inheritsDocsFrom</a>, <a href="#a65c251bb0f5de24cc7f782ed613d4a8d">initializer</a>, <a href="#a4fba2943f72c2c0dfc84f5e3cb03d0ef">initializerLines</a>, <a href="#aa5ad593619ebd10a3006621a00019d6f">isAbstract</a>, <a href="#a8f182e36e119dff587236b3a871ab455">isAddable</a>, <a href="#a2bdd15518a7ee43e74f1853d70954738">isAssign</a>, <a href="#a9b26a58c44485f3b143e1875608df3b7">isAttribute</a>, <a href="#a88bfd21b61e03473699ad4b5910bba12">isBound</a>, <a href="#afc0c264f685f863503df65d73f95ae35">isBriefSectionVisible</a>, <a href="#a7d662b1a73e920faeed40353f04df636">isCallable</a>, <a href="#a0136ee914c222e758546b392fafcbf0d">isConstEval</a>, <a href="#a4f2752fc11a291bf8fdfe6f7b8692741">isConstExpr</a>, <a href="#a1399569b43dfd1c393e7f6e77e57f889">isConstInit</a>, <a href="#a0b8adddde5852864b2d575efa0a032c3">isConstrained</a>, <a href="#ad62cf94641abcd059fa096dd3d6ad3a2">isConstructor</a>, <a href="#a5ff4f04f25516d058fd30376c09a5bac">isCopy</a>, <a href="#aeeef328c05231823ac28da16ba60f4ce">isCSharpProperty</a>, <a href="#ac5bd4be3b80929b82985af9f0edc1694">isDCOP</a>, <a href="#a97c729c512f427963bb13faf683b55fb">isDefault</a>, <a href="#a7db1617b509719669ee0fb56528d0fb3">isDefine</a>, <a href="#abbce9968be6df80c888df12102bd6506">isDelete</a>, <a href="#a25888f22b6d1bff3a673037227bdd3ca">isDeleted</a>, <a href="#a87c0c2413e48cb7c7a77eda21ed09926">isDestructor</a>, <a href="#acc4219b5317f63f91f9cee316579270b">isDetailedSectionVisible</a>, <a href="#a3ce1cd28cfbd15ff7468935f84234bd8">isDictionary</a>, <a href="#a7020e05a62880c040e10562dc615171d">isDocsForDefinition</a>, <a href="#a4c0be8aef27f0c52dd50512aaced7c18">isDocumentedFriendClass</a>, <a href="#a62405f8dbaeb86c640d3722258012d7a">isEnumerate</a>, <a href="#afa5b0e54433dba91af71b7ccb6e3a4ff">isEnumStruct</a>, <a href="#ae6151a1b1d568af457f7238b614d2558">isEnumValue</a>, <a href="#abf5953e094eb4634e00f620dd761aa11">isEvent</a>, <a href="#ad208e902d32a2755051c5c0dfca0e31c">isExplicit</a>, <a href="#a4652266d30b41d8e8439bc3b84a12807">isExternal</a>, <a href="#a1458a2afb0c7cb635888bf082417f148">isFinal</a>, <a href="#aad36172f74a65417d266c070a692b8df">isForeign</a>, <a href="#ad77c9110cef6649a2da3ee4b8d969ca8">isFriend</a>, <a href="#a28fb4c6f314f7562e7020884f8a98158">isFriendClass</a>, <a href="#a7e246b28429a866b93cc5cba2efa9c06">isFriendToHide</a>, <a href="#af0747f22d1735bdc8ff1826e3373a1b5">isFunction</a>, <a href="#a970d9105d969a974966f986e2b4f7348">isFunctionOrSignalSlot</a>, <a href="#a8d25384df617106167b8219d0a903bc9">isFunctionPtr</a>, <a href="#a755c0ff5a72f45da656e7c128729b5ef">isGettable</a>, <a href="#aaf2c3cd1c5be7ca69a96953266571502">isImplementation</a>, <a href="#a589d384c25ad38975d3a3d1cd75e0133">isInitonly</a>, <a href="#aa1f1d51208383f2c81fd4c4d5a0fc478">isInline</a>, <a href="#ab41876df031ccf541e3938c9378a1d29">isLinkable</a>, <a href="#a7def4f49ba28396a0e1e5bcd6c3bc1c9">isLinkableInProject</a>, <a href="#aec44aaf8241ba26741e2fea6e2966a41">isMaybeAmbiguous</a>, <a href="#ab320224993c7aa32f199213aae3a13db">isMaybeDefault</a>, <a href="#a507a2e8f5189db220046ec9eba425b0d">isMaybeVoid</a>, <a href="#ad7d3f80b8d2a91e9b94dda4fce12e189">isMutable</a>, <a href="#ae6912fde0d29f2ec38854eddf40e4028">isNew</a>, <a href="#a8802beb0983afad477fe8448f09a1836">isNoDiscard</a>, <a href="#aa03b6d02d98fd30acc7df09ba5893bea">isNoExcept</a>, <a href="#ac11dede9f1d533589bcc263b838a776e">isNonAtomic</a>, <a href="#ace019d70ff0c8254bef4aa56ceb3a0fc">isNotFriend</a>, <a href="#aa42b95dd3caf3e01a2be33f9f759ed77">isObjCMethod</a>, <a href="#a77456de8cef37bf10fa93b498fc9a1b8">isObjCProperty</a>, <a href="#a1cbaad4c6e93b2b64b8c0a6bc6ae39cd">isOptional</a>, <a href="#aabc01d50cd14e53abba3a296f8be58d1">isOverride</a>, <a href="#a25bc5921a289bee18e0565da07a9d0d6">isPrivateGettable</a>, <a href="#aa95344595e0dcd6ba9d02cde3b3a03a4">isPrivateSettable</a>, <a href="#a4ac81474a1ebc01260b7491390ee4128">isProperty</a>, <a href="#a5ba255038b64148283080b54d1d5fb2f">isProtectedGettable</a>, <a href="#ab66e2650f487bc524f5141f5a0813077">isProtectedSettable</a>, <a href="#a9a3eb9ee7d26eaf24573549b9aefecf4">isPrototype</a>, <a href="#a3a7c437c3828695f29752a5f31248658">isPublished</a>, <a href="#a7402786b99b7f04456f80573da94f025">isRaisable</a>, <a href="#abd6af4902118a2b7ff610312e416b399">isReadable</a>, <a href="#ab67c7ae917805e8f25cef32df3cc48ff">isReadonly</a>, <a href="#a678ba0f9fcc9bca4da2579ecb1665745">isReference</a>, <a href="#ac58e88197be888fa19664ae1e77850f1">isReimplementedBy</a>, <a href="#aab165191f96c1133cdb92eb7d5e4b1db">isRelated</a>, <a href="#aa202b519e1e4762ee11142ddbc393364">isRelatedOrFriend</a>, <a href="#a206cd0c0eb498fbfa66bdc2a207e2bf2">isRemovable</a>, <a href="#a1fd086462901b0dfc2eb04c94965d68b">isRequired</a>, <a href="#afa154f7b3999d8f1cd8ed1b29beb4b8d">isRetain</a>, <a href="#aa9967681dec57fe3e0f083ea236aeebc">isSealed</a>, <a href="#a3c80869d42d2f59a9ad001f85b7df8d4">isSequence</a>, <a href="#a0abefa5c2e8fe6ce87ec8516c7c0f0ed">isSettable</a>, <a href="#a26320cf7689c4d20e74be1da6d8f80c9">isSignal</a>, <a href="#a39377a7a9eeafa5b719a32611bc55b0c">isSliceLocal</a>, <a href="#aba9933110de3e136262dd61e6378fd2d">isSlot</a>, <a href="#aa8100dfae56865b75c0b8f2bdcf36cb4">isStatic</a>, <a href="#aa3114a7bc21087a094c223464902f7de">isStrong</a>, <a href="#a2969ee1363bb112bfb9482eedf8e2a01">isStrongEnumValue</a>, <a href="#ace8d6b166d0994f5971774ecf7f914da">isTemplateSpecialization</a>, <a href="#ad668b3f180e3fbddbd1a7cbff94d9b5b">isTransient</a>, <a href="#a1f85ea333f42181b416753f52439afcf">isTypeAlias</a>, <a href="#a9e5c7b14984d6b058605c47bd467a888">isTypedef</a>, <a href="#a709a9fa50b5fbd6c976118306f35694a">isTypedefValCached</a>, <a href="#a30ecc7761226752f24e6d492af6d6f8b">isUNOProperty</a>, <a href="#a750ddf88331742ad530fae31b78f9096">isUnretained</a>, <a href="#a3d7922bda533b87314d09283b9d5dcc8">isVariable</a>, <a href="#ad7c4fcca4a0164a66ceb4c0b55ecbaf6">isWeak</a>, <a href="#a4bc49cdab0c9376d6e4e9d8d29b839a3">isWritable</a>, <a href="#a5ce6334345bc14e98b2f83c128af6660">livesInsideEnum</a>, <a href="#a26b742f8a11431dcdb61d8d0841a23b8">memberDeclaration</a>, <a href="#a9ce42bf45bd30e09601a09b23e6e13bb">memberDefinition</a>, <a href="#ab3e12b6cb50e36955c0e0362f4d45648">memberType</a>, <a href="#a8e41d8cfbade9b6a17d48c823dc11cd5">memberTypeName</a>, <a href="#abb67fd2efc756d9cb53d7851ea2b6485">name</a>, <a href="#ad75c8fefd89d01096facb351c34e31ef">numberOfFlowKeyWords</a>, <a href="#a855d6a793487f48c561e3b2bf01ec07d">objCMethodName</a>, <a href="#aba0c7bf5ac1c402b002393ec5321f391">protection</a>, <a href="#aff8755c8aac3c5a18dce4ecd121e8fb1">qualifiedName</a>, <a href="#ab14ffecb13ba23fe06ee22a858ff083b">reimplementedBy</a>, <a href="#a1623c7801402bbcdc4dc0a1912d20c03">reimplements</a>, <a href="#af9821d9750e9656468d1ae8e4ad1c175">relatedAlso</a>, <a href="#ad7d83acc0b3a60293cd0977280388285">requiresClause</a>, <a href="#ae3aef5565dcc71e315cb041bd67aeae0">resolveAlias</a>, <a href="#ad803ee7f541c5034d68015c9d23df501">resolveAlias</a>, <a href="#af778660d0ae437277f50370242772766">sourceRefName</a>, <a href="#afdd265b9ac0946266fa37ff7e857bf57">templateArguments</a>, <a href="#a413f31e4d616a724c917698ac8c8c1a3">templateMaster</a>, <a href="#a959f313af181818940511b0fd4bdc09e">typeConstraints</a>, <a href="#ace92d8d5ef32aaaa9f2db11acc7f6175">typeString</a>, <a href="#a95a1eb3d3f08bcdfcf8e69053003eeb5">virtualness</a>, <a href="#af6090bc5e816e9d9183b770c853ff4ad">visibleInIndex</a>, <a href="#ace02aaabe60838f7e8cd349bc4d132c0">writeDeclaration</a>, <a href="#ac9d1ca230c04570fdb23923c0b2a421b">writeEnumDeclaration</a> and <a href="#a631a6b4069c839eeb964ceaba0c012ed">writeLink</a>.</p>
+
 </div>
 </div>
 
@@ -5004,7 +5120,8 @@ Referenced by <a href="#a72d1ae7f30aa8073a2790546df7771be">accessorClass</a>, <a
 
 
 
-Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5013,7 +5130,8 @@ Definition at line 539 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; MemberDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; MemberDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/memberdef-cpp/#af5b90e1ee6115fc2c7c6ce672c3dd157">toMemberDef</a>.</p>
+
 </div>
 </div>
 
@@ -5043,7 +5161,8 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a6997092
 
 
 
-Definition at line 861 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 861 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5053,7 +5172,8 @@ Definition at line 861 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m\_memberGroup</a>.
+<p>Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m_memberGroup</a>.</p>
+
 </div>
 </div>
 
@@ -5083,7 +5203,8 @@ Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m\_memberGroup</a>.
 
 
 
-Definition at line 859 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 859 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5093,7 +5214,8 @@ Definition at line 859 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6b67777af87af494e32dfec9d881da5d">MemberDef::getMemberGroupId</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6b67777af87af494e32dfec9d881da5d">MemberDef::getMemberGroupId</a>.</p>
+
 </div>
 </div>
 
@@ -5123,7 +5245,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5133,7 +5256,8 @@ Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab3e5d2e532ebe2a0f45fe1a945fb4269">MemberDef::getMemberSpecifiers</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab3e5d2e532ebe2a0f45fe1a945fb4269">MemberDef::getMemberSpecifiers</a>.</p>
+
 </div>
 </div>
 
@@ -5163,7 +5287,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 595 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 595 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5173,7 +5298,8 @@ Definition at line 595 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8c3b6809f49a66d7d3f99f4b40ae6d47">MemberDef::getModuleDef</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8c3b6809f49a66d7d3f99f4b40ae6d47">MemberDef::getModuleDef</a>.</p>
+
 </div>
 </div>
 
@@ -5203,7 +5329,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5213,7 +5340,8 @@ Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>.</p>
+
 </div>
 </div>
 
@@ -5243,7 +5371,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5253,7 +5382,8 @@ Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a900cace4959b6cad9e6aa58e8283195f">MemberDef::getNamespaceDef</a>.</p>
+
 </div>
 </div>
 
@@ -5284,9 +5414,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.
+<p>Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.</p>
 
-Definition at line 552 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 552 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5296,7 +5428,8 @@ Definition at line 552 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.</p>
+
 </div>
 </div>
 
@@ -5326,7 +5459,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 881 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 881 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5336,7 +5470,8 @@ Definition at line 881 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a78ea63aa23ada7ecd6d8c59163c3dadf">MemberDef::getQualifiers</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a78ea63aa23ada7ecd6d8c59163c3dadf">MemberDef::getQualifiers</a>.</p>
+
 </div>
 </div>
 
@@ -5366,7 +5501,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5376,7 +5512,8 @@ Definition at line 605 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab8d7b70952b14c1f6af79a16f122a6c9">MemberDef::getReadAccessor</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab8d7b70952b14c1f6af79a16f122a6c9">MemberDef::getReadAccessor</a>.</p>
+
 </div>
 </div>
 
@@ -5407,9 +5544,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-If this definition was imported via a tag file, this function returns the tagfile for the external project. This can be translated into an external link target via Doxygen::tagDestinationDict
+<p>If this definition was imported via a tag file, this function returns the tagfile for the external project. This can be translated into an external link target via Doxygen::tagDestinationDict</p>
 
-Definition at line 554 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 554 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5419,7 +5558,8 @@ Definition at line 554 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>.</p>
+
 </div>
 </div>
 
@@ -5449,7 +5589,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5459,7 +5600,8 @@ Definition at line 885 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a68246f42d892a0cd4e1b5248d8f8f947">MemberDef::getScopeString</a>.</p>
+
 </div>
 </div>
 
@@ -5489,7 +5631,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5499,7 +5642,8 @@ Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab001f5a231830270bac7da746201c02e">MemberDef::getSectionList</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab001f5a231830270bac7da746201c02e">MemberDef::getSectionList</a>.</p>
+
 </div>
 </div>
 
@@ -5529,7 +5673,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5539,7 +5684,8 @@ Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5cd379d53915c1fafe22420d04d26aa4">MemberDef::getVhdlSpecifiers</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5cd379d53915c1fafe22420d04d26aa4">MemberDef::getVhdlSpecifiers</a>.</p>
+
 </div>
 </div>
 
@@ -5569,7 +5715,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 607 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 607 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5579,7 +5726,8 @@ Definition at line 607 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7638dcb798738c331ba2c2567118ceb6">MemberDef::getWriteAccessor</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7638dcb798738c331ba2c2567118ceb6">MemberDef::getWriteAccessor</a>.</p>
+
 </div>
 </div>
 
@@ -5609,7 +5757,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 869 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 869 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5619,7 +5768,8 @@ Definition at line 869 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a9e0b1dcd40b111eea088027193c2e411">MemberDef::hasCallerGraph</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a9e0b1dcd40b111eea088027193c2e411">MemberDef::hasCallerGraph</a>.</p>
+
 </div>
 </div>
 
@@ -5649,7 +5799,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 867 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 867 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5659,7 +5810,8 @@ Definition at line 867 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4f8eeb9656c15d74956b893e5cef255d">MemberDef::hasCallGraph</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4f8eeb9656c15d74956b893e5cef255d">MemberDef::hasCallGraph</a>.</p>
+
 </div>
 </div>
 
@@ -5689,7 +5841,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5699,7 +5852,8 @@ Definition at line 817 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a091d243bd31c95a34233e364dfdd9f5d">MemberDef::hasDetailedDescription</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a091d243bd31c95a34233e364dfdd9f5d">MemberDef::hasDetailedDescription</a>.</p>
+
 </div>
 </div>
 
@@ -5730,15 +5884,17 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns TRUE iff the definition is documented (which could be generated documentation)
+<p>Returns TRUE iff the definition is documented (which could be generated documentation)</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a334f42f54c33dbd13522c72341f8118f">hasUserDocumentation()</a></dd>
+<dd><p><a href="#a334f42f54c33dbd13522c72341f8118f">hasUserDocumentation()</a></p></dd>
 </dl>
 
 
-Definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5748,7 +5904,8 @@ Definition at line 807 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a81f5c355e27d6e159e1598be748aa4de">Definition::hasDocumentation</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a81f5c355e27d6e159e1598be748aa4de">Definition::hasDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -5778,7 +5935,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5788,7 +5946,8 @@ Definition at line 831 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a152281092758c092ff3aa7954ab94f23">MemberDef::hasDocumentedEnumValues</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a152281092758c092ff3aa7954ab94f23">MemberDef::hasDocumentedEnumValues</a>.</p>
+
 </div>
 </div>
 
@@ -5818,7 +5977,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 879 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 879 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5828,7 +5988,8 @@ Definition at line 879 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a870e7856099eb3a263255703c14b65ad">MemberDef::hasEnumValues</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a870e7856099eb3a263255703c14b65ad">MemberDef::hasEnumValues</a>.</p>
+
 </div>
 </div>
 
@@ -5858,7 +6019,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5868,7 +6030,8 @@ Definition at line 843 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1decd0941a5f9a2cc919a811be9e7d56">MemberDef::hasExamples</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1decd0941a5f9a2cc919a811be9e7d56">MemberDef::hasExamples</a>.</p>
+
 </div>
 </div>
 
@@ -5898,7 +6061,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 875 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 875 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5908,7 +6072,8 @@ Definition at line 875 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a779bcddb2e508d5bf7300d17376caf04">MemberDef::hasInlineSource</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a779bcddb2e508d5bf7300d17376caf04">MemberDef::hasInlineSource</a>.</p>
+
 </div>
 </div>
 
@@ -5938,7 +6103,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5948,7 +6114,8 @@ Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab0edc949c11ffd04ae0f79b8850b1586">MemberDef::hasMultiLineInitializer</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab0edc949c11ffd04ae0f79b8850b1586">MemberDef::hasMultiLineInitializer</a>.</p>
+
 </div>
 </div>
 
@@ -5978,7 +6145,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 773 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 773 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5988,7 +6156,8 @@ Definition at line 773 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa7bcaaff6e07e660a124d779a1300218">MemberDef::hasOneLineInitializer</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa7bcaaff6e07e660a124d779a1300218">MemberDef::hasOneLineInitializer</a>.</p>
+
 </div>
 </div>
 
@@ -6018,7 +6187,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 873 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 873 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6028,7 +6198,8 @@ Definition at line 873 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abc1862f5e87a67541a4c40403a95fd81">MemberDef::hasReferencedByRelation</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abc1862f5e87a67541a4c40403a95fd81">MemberDef::hasReferencedByRelation</a>.</p>
+
 </div>
 </div>
 
@@ -6058,7 +6229,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 871 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 871 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6068,7 +6240,8 @@ Definition at line 871 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a3aedaf487c755d4749b10fa95729a2af">MemberDef::hasReferencesRelation</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a3aedaf487c755d4749b10fa95729a2af">MemberDef::hasReferencesRelation</a>.</p>
+
 </div>
 </div>
 
@@ -6099,9 +6272,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns TRUE iff the definition is documented by the user.
+<p>Returns TRUE iff the definition is documented by the user.</p>
 
-Definition at line 809 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 809 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6111,7 +6286,8 @@ Definition at line 809 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a8e40fb6177bff36be33dab825d7e8188">Definition::hasUserDocumentation</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a8e40fb6177bff36be33dab825d7e8188">Definition::hasUserDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -6141,7 +6317,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6151,7 +6328,8 @@ Definition at line 901 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2500af3692e4b00d42868603d2da26e9">MemberDef::inheritsDocsFrom</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2500af3692e4b00d42868603d2da26e9">MemberDef::inheritsDocsFrom</a>.</p>
+
 </div>
 </div>
 
@@ -6181,7 +6359,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6191,7 +6370,8 @@ Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afe9302d711e627fdd4e9eb7c393ceeb5">MemberDef::initializer</a>.</p>
+
 </div>
 </div>
 
@@ -6221,7 +6401,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6231,7 +6412,8 @@ Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aeed70a711fa3e8b02bcc7d5ae34fb92a">MemberDef::initializerLines</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aeed70a711fa3e8b02bcc7d5ae34fb92a">MemberDef::initializerLines</a>.</p>
+
 </div>
 </div>
 
@@ -6261,7 +6443,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6271,7 +6454,8 @@ Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af1601490373728611996a958bbfc38d3">MemberDef::isAbstract</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af1601490373728611996a958bbfc38d3">MemberDef::isAbstract</a>.</p>
+
 </div>
 </div>
 
@@ -6301,7 +6485,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6311,7 +6496,8 @@ Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a496b02cff3e89cc59eab5139a9211475">MemberDef::isAddable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a496b02cff3e89cc59eab5139a9211475">MemberDef::isAddable</a>.</p>
+
 </div>
 </div>
 
@@ -6341,7 +6527,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6351,7 +6538,8 @@ Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a09bc44df807bfe787766e6268b991732">MemberDef::isAssign</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a09bc44df807bfe787766e6268b991732">MemberDef::isAssign</a>.</p>
+
 </div>
 </div>
 
@@ -6381,7 +6569,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6391,7 +6580,8 @@ Definition at line 741 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62780d0d926b1c17801dbba81921336a">MemberDef::isAttribute</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62780d0d926b1c17801dbba81921336a">MemberDef::isAttribute</a>.</p>
+
 </div>
 </div>
 
@@ -6421,7 +6611,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6431,7 +6622,8 @@ Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a86bb29ff5f9e049343bdb990b08ff9a3">MemberDef::isBound</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a86bb29ff5f9e049343bdb990b08ff9a3">MemberDef::isBound</a>.</p>
+
 </div>
 </div>
 
@@ -6461,7 +6653,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 813 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 813 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6471,7 +6664,8 @@ Definition at line 813 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad1902fdf699e7983c0dfc20a0e8192da">MemberDef::isBriefSectionVisible</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad1902fdf699e7983c0dfc20a0e8192da">MemberDef::isBriefSectionVisible</a>.</p>
+
 </div>
 </div>
 
@@ -6501,7 +6695,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6511,7 +6706,8 @@ Definition at line 777 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af589ca13a0dec56fb92038c9b2488208">MemberDef::isCallable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af589ca13a0dec56fb92038c9b2488208">MemberDef::isCallable</a>.</p>
+
 </div>
 </div>
 
@@ -6541,7 +6737,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6551,7 +6748,8 @@ Definition at line 789 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0268c2546b2d46b5ef741b91306ace53">MemberDef::isConstEval</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0268c2546b2d46b5ef741b91306ace53">MemberDef::isConstEval</a>.</p>
+
 </div>
 </div>
 
@@ -6581,7 +6779,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 787 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 787 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6591,7 +6790,8 @@ Definition at line 787 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a01c5790de4e5ac8861bc89bd0a76c7a3">MemberDef::isConstExpr</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a01c5790de4e5ac8861bc89bd0a76c7a3">MemberDef::isConstExpr</a>.</p>
+
 </div>
 </div>
 
@@ -6621,7 +6821,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6631,7 +6832,8 @@ Definition at line 791 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a28140ddb3c4306995afe94d972cf7674">MemberDef::isConstInit</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a28140ddb3c4306995afe94d972cf7674">MemberDef::isConstInit</a>.</p>
+
 </div>
 </div>
 
@@ -6661,7 +6863,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6671,7 +6874,8 @@ Definition at line 749 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a80a42e55d42df534c9da463015872d41">MemberDef::isConstrained</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a80a42e55d42df534c9da463015872d41">MemberDef::isConstrained</a>.</p>
+
 </div>
 </div>
 
@@ -6701,7 +6905,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6711,7 +6916,8 @@ Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a196a099fba755a0586625635e40e9c58">MemberDef::isConstructor</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a196a099fba755a0586625635e40e9c58">MemberDef::isConstructor</a>.</p>
+
 </div>
 </div>
 
@@ -6741,7 +6947,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6751,7 +6958,8 @@ Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6548961c5a9f2003ec5425bea0249ad2">MemberDef::isCopy</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6548961c5a9f2003ec5425bea0249ad2">MemberDef::isCopy</a>.</p>
+
 </div>
 </div>
 
@@ -6781,7 +6989,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 767 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 767 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6791,7 +7000,8 @@ Definition at line 767 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a48fb7997900b202912af886e2ccc8381">MemberDef::isCSharpProperty</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a48fb7997900b202912af886e2ccc8381">MemberDef::isCSharpProperty</a>.</p>
+
 </div>
 </div>
 
@@ -6821,7 +7031,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6831,7 +7042,8 @@ Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ada93aac0fade61cc0018d94967e2a8e0">MemberDef::isDCOP</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ada93aac0fade61cc0018d94967e2a8e0">MemberDef::isDCOP</a>.</p>
+
 </div>
 </div>
 
@@ -6861,7 +7073,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 735 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 735 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6871,7 +7084,8 @@ Definition at line 735 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2693c2e5c943567acd971d7e15dc4304">MemberDef::isDefault</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2693c2e5c943567acd971d7e15dc4304">MemberDef::isDefault</a>.</p>
+
 </div>
 </div>
 
@@ -6901,7 +7115,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6911,7 +7126,8 @@ Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8c9a34fe614f8c55edc60deaf0143f47">MemberDef::isDefine</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8c9a34fe614f8c55edc60deaf0143f47">MemberDef::isDefine</a>.</p>
+
 </div>
 </div>
 
@@ -6941,7 +7157,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 737 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 737 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6951,7 +7168,8 @@ Definition at line 737 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a21681601f9f6a421ca2a174d17841d06">MemberDef::isDelete</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a21681601f9f6a421ca2a174d17841d06">MemberDef::isDelete</a>.</p>
+
 </div>
 </div>
 
@@ -6981,7 +7199,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 811 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 811 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -6991,7 +7210,8 @@ Definition at line 811 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2cf88b64d5de77c0fc51c4a0c57003f7">MemberDef::isDeleted</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2cf88b64d5de77c0fc51c4a0c57003f7">MemberDef::isDeleted</a>.</p>
+
 </div>
 </div>
 
@@ -7021,7 +7241,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7031,7 +7252,8 @@ Definition at line 771 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0807e7d46f56761eb33db77778289c11">MemberDef::isDestructor</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0807e7d46f56761eb33db77778289c11">MemberDef::isDestructor</a>.</p>
+
 </div>
 </div>
 
@@ -7061,7 +7283,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7071,7 +7294,8 @@ Definition at line 815 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af860d239096a51aeec8ff95d5ac0b0dd">MemberDef::isDetailedSectionVisible</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af860d239096a51aeec8ff95d5ac0b0dd">MemberDef::isDetailedSectionVisible</a>.</p>
+
 </div>
 </div>
 
@@ -7101,7 +7325,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7111,7 +7336,8 @@ Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6b92d5888d4ff0b4ef5acc80d9ac76c7">MemberDef::isDictionary</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6b92d5888d4ff0b4ef5acc80d9ac76c7">MemberDef::isDictionary</a>.</p>
+
 </div>
 </div>
 
@@ -7141,7 +7367,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7151,7 +7378,8 @@ Definition at line 835 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a842ff86c34c3ae387d995e2597be8118">MemberDef::isDocsForDefinition</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a842ff86c34c3ae387d995e2597be8118">MemberDef::isDocsForDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -7181,7 +7409,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 821 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 821 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7191,7 +7420,8 @@ Definition at line 821 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2766e32f6704305ce66b9cf6766d4e5b">MemberDef::isDocumentedFriendClass</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2766e32f6704305ce66b9cf6766d4e5b">MemberDef::isDocumentedFriendClass</a>.</p>
+
 </div>
 </div>
 
@@ -7221,7 +7451,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 639 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 639 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7231,7 +7462,8 @@ Definition at line 639 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab99e728441f3ce7d5784ad6fb6df18f2">MemberDef::isEnumerate</a>.</p>
+
 </div>
 </div>
 
@@ -7261,7 +7493,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7271,7 +7504,8 @@ Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a30da3b2d7800741fb6c09a37069d6372">MemberDef::isEnumStruct</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a30da3b2d7800741fb6c09a37069d6372">MemberDef::isEnumStruct</a>.</p>
+
 </div>
 </div>
 
@@ -7301,7 +7535,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 641 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 641 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7311,7 +7546,8 @@ Definition at line 641 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afa1ed0ba61a371a22b21dbd4d538e06c">MemberDef::isEnumValue</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afa1ed0ba61a371a22b21dbd4d538e06c">MemberDef::isEnumValue</a>.</p>
+
 </div>
 </div>
 
@@ -7341,7 +7577,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7351,7 +7588,8 @@ Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a50b37ee8d3c1b7b10c2f38a6b8ca165f">MemberDef::isEvent</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a50b37ee8d3c1b7b10c2f38a6b8ca165f">MemberDef::isEvent</a>.</p>
+
 </div>
 </div>
 
@@ -7381,7 +7619,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7391,7 +7630,8 @@ Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0aa8429875443e986e04e34624c5c0c8">MemberDef::isExplicit</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0aa8429875443e986e04e34624c5c0c8">MemberDef::isExplicit</a>.</p>
+
 </div>
 </div>
 
@@ -7421,7 +7661,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 731 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 731 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7431,7 +7672,8 @@ Definition at line 731 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62a3294a87e2a6e2ff4a2d52bfd3187a">MemberDef::isExternal</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62a3294a87e2a6e2ff4a2d52bfd3187a">MemberDef::isExternal</a>.</p>
+
 </div>
 </div>
 
@@ -7461,7 +7703,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7471,7 +7714,8 @@ Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aef0c62b7d85f8eff11657f9a7e3f87f4">MemberDef::isFinal</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aef0c62b7d85f8eff11657f9a7e3f87f4">MemberDef::isFinal</a>.</p>
+
 </div>
 </div>
 
@@ -7501,7 +7745,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7511,7 +7756,8 @@ Definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1b388162e65708a87857b9605cb63591">MemberDef::isForeign</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1b388162e65708a87857b9605cb63591">MemberDef::isForeign</a>.</p>
+
 </div>
 </div>
 
@@ -7541,7 +7787,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7551,7 +7798,8 @@ Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a19a22a7e9394cf6e49ab6156274461d3">MemberDef::isFriend</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a19a22a7e9394cf6e49ab6156274461d3">MemberDef::isFriend</a>.</p>
+
 </div>
 </div>
 
@@ -7581,7 +7829,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 819 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 819 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7591,7 +7840,8 @@ Definition at line 819 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af48614022a9d54e68ca09db0cafbf2c2">MemberDef::isFriendClass</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af48614022a9d54e68ca09db0cafbf2c2">MemberDef::isFriendClass</a>.</p>
+
 </div>
 </div>
 
@@ -7621,7 +7871,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7631,7 +7882,8 @@ Definition at line 795 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a88104421cb961405baa312d0bd1f009f">MemberDef::isFriendToHide</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a88104421cb961405baa312d0bd1f009f">MemberDef::isFriendToHide</a>.</p>
+
 </div>
 </div>
 
@@ -7661,7 +7913,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7671,7 +7924,8 @@ Definition at line 649 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5e6ace25ee464a601e1b3f2b8016ddad">MemberDef::isFunction</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5e6ace25ee464a601e1b3f2b8016ddad">MemberDef::isFunction</a>.</p>
+
 </div>
 </div>
 
@@ -7701,7 +7955,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 799 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 799 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7711,7 +7966,8 @@ Definition at line 799 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abd18512439916b8cb1fc1f7a43ebc6b5">MemberDef::isFunctionOrSignalSlot</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abd18512439916b8cb1fc1f7a43ebc6b5">MemberDef::isFunctionOrSignalSlot</a>.</p>
+
 </div>
 </div>
 
@@ -7741,7 +7997,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7751,7 +8008,8 @@ Definition at line 651 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a9795a9ed4f86eca5ce5d39e88d21d36e">MemberDef::isFunctionPtr</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a9795a9ed4f86eca5ce5d39e88d21d36e">MemberDef::isFunctionPtr</a>.</p>
+
 </div>
 </div>
 
@@ -7781,7 +8039,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7791,7 +8050,8 @@ Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aba4783c1fa6a84a2beb2b4dad7000616">MemberDef::isGettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aba4783c1fa6a84a2beb2b4dad7000616">MemberDef::isGettable</a>.</p>
+
 </div>
 </div>
 
@@ -7821,7 +8081,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7831,7 +8092,8 @@ Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa5cec965870198c96a14371c694b2027">MemberDef::isImplementation</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa5cec965870198c96a14371c694b2027">MemberDef::isImplementation</a>.</p>
+
 </div>
 </div>
 
@@ -7861,7 +8123,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7871,7 +8134,8 @@ Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a02a894331323ad650cd3b748ce9d604b">MemberDef::isInitonly</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a02a894331323ad650cd3b748ce9d604b">MemberDef::isInitonly</a>.</p>
+
 </div>
 </div>
 
@@ -7901,7 +8165,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7911,7 +8176,8 @@ Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a509e150708bb48d4bafaa1146cf1eadc">MemberDef::isInline</a>.</p>
+
 </div>
 </div>
 
@@ -7942,9 +8208,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.
+<p>Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.</p>
 
-Definition at line 805 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 805 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7954,7 +8222,8 @@ Definition at line 805 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.</p>
+
 </div>
 </div>
 
@@ -7985,9 +8254,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item within this project.
+<p>Returns TRUE iff it is possible to link to this item within this project.</p>
 
-Definition at line 803 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 803 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -7997,7 +8268,8 @@ Definition at line 803 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.</p>
+
 </div>
 </div>
 
@@ -8027,7 +8299,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8037,7 +8310,8 @@ Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a581d0d2acf3c99191e1a5f3cb5f95ce6">MemberDef::isMaybeAmbiguous</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a581d0d2acf3c99191e1a5f3cb5f95ce6">MemberDef::isMaybeAmbiguous</a>.</p>
+
 </div>
 </div>
 
@@ -8067,7 +8341,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8077,7 +8352,8 @@ Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a735ac6b44a83924b761bdac676eb4184">MemberDef::isMaybeDefault</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a735ac6b44a83924b761bdac676eb4184">MemberDef::isMaybeDefault</a>.</p>
+
 </div>
 </div>
 
@@ -8107,7 +8383,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8117,7 +8394,8 @@ Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a18b343dd677e74a1ecb5723fbb746395">MemberDef::isMaybeVoid</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a18b343dd677e74a1ecb5723fbb746395">MemberDef::isMaybeVoid</a>.</p>
+
 </div>
 </div>
 
@@ -8147,7 +8425,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8157,7 +8436,8 @@ Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af448f46a30d6337ef678db352dd244e3">MemberDef::isMutable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#af448f46a30d6337ef678db352dd244e3">MemberDef::isMutable</a>.</p>
+
 </div>
 </div>
 
@@ -8187,7 +8467,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8197,7 +8478,8 @@ Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0ceb921ed3647329a26b0c9ce434658d">MemberDef::isNew</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0ceb921ed3647329a26b0c9ce434658d">MemberDef::isNew</a>.</p>
+
 </div>
 </div>
 
@@ -8227,7 +8509,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8237,7 +8520,8 @@ Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ac2fda10e3128c3e735e5b24132037033">MemberDef::isNoDiscard</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ac2fda10e3128c3e735e5b24132037033">MemberDef::isNoDiscard</a>.</p>
+
 </div>
 </div>
 
@@ -8267,7 +8551,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8277,7 +8562,8 @@ Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a06ea035c8de361f0ba253fc45e3303f0">MemberDef::isNoExcept</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a06ea035c8de361f0ba253fc45e3303f0">MemberDef::isNoExcept</a>.</p>
+
 </div>
 </div>
 
@@ -8307,7 +8593,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8317,7 +8604,8 @@ Definition at line 709 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8981c87afa75a323943f727919c2669c">MemberDef::isNonAtomic</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a8981c87afa75a323943f727919c2669c">MemberDef::isNonAtomic</a>.</p>
+
 </div>
 </div>
 
@@ -8347,7 +8635,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 797 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 797 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8357,7 +8646,8 @@ Definition at line 797 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad8a677f4f48e4bf01762fc024a230092">MemberDef::isNotFriend</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad8a677f4f48e4bf01762fc024a230092">MemberDef::isNotFriend</a>.</p>
+
 </div>
 </div>
 
@@ -8387,7 +8677,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8397,7 +8688,8 @@ Definition at line 763 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a146e2a27f8eee953b076a03e42ecf2b4">MemberDef::isObjCMethod</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a146e2a27f8eee953b076a03e42ecf2b4">MemberDef::isObjCMethod</a>.</p>
+
 </div>
 </div>
 
@@ -8427,7 +8719,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8437,7 +8730,8 @@ Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aae943a44f4314a00a9572d0fa5e364e7">MemberDef::isObjCProperty</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aae943a44f4314a00a9572d0fa5e364e7">MemberDef::isObjCProperty</a>.</p>
+
 </div>
 </div>
 
@@ -8467,7 +8761,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8477,7 +8772,8 @@ Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab41ecacc3c433253d893d6baded01de0">MemberDef::isOptional</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab41ecacc3c433253d893d6baded01de0">MemberDef::isOptional</a>.</p>
+
 </div>
 </div>
 
@@ -8507,7 +8803,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8517,7 +8814,8 @@ Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a3a02263fa1b55949b87c237f452d081c">MemberDef::isOverride</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a3a02263fa1b55949b87c237f452d081c">MemberDef::isOverride</a>.</p>
+
 </div>
 </div>
 
@@ -8547,7 +8845,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8557,7 +8856,8 @@ Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a594fe47b12073b186b7f1e4d8e2b1d56">MemberDef::isPrivateGettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a594fe47b12073b186b7f1e4d8e2b1d56">MemberDef::isPrivateGettable</a>.</p>
+
 </div>
 </div>
 
@@ -8587,7 +8887,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8597,7 +8898,8 @@ Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a787020ca6fc65ea0cc13f5721d166420">MemberDef::isPrivateSettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a787020ca6fc65ea0cc13f5721d166420">MemberDef::isPrivateSettable</a>.</p>
+
 </div>
 </div>
 
@@ -8627,7 +8929,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8637,7 +8940,8 @@ Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afd4a6cd84468b885049120e767b017fc">MemberDef::isProperty</a>.</p>
+
 </div>
 </div>
 
@@ -8667,7 +8971,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8677,7 +8982,8 @@ Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa69883d56b1adfe457130d7c96873ba7">MemberDef::isProtectedGettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa69883d56b1adfe457130d7c96873ba7">MemberDef::isProtectedGettable</a>.</p>
+
 </div>
 </div>
 
@@ -8707,7 +9013,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8717,7 +9024,8 @@ Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa51dd090dc6e2d111145cc04e9e3f7fe">MemberDef::isProtectedSettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa51dd090dc6e2d111145cc04e9e3f7fe">MemberDef::isProtectedSettable</a>.</p>
+
 </div>
 </div>
 
@@ -8747,7 +9055,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8757,7 +9066,8 @@ Definition at line 847 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afa756b712f45e7800617808f708c2876">MemberDef::isPrototype</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#afa756b712f45e7800617808f708c2876">MemberDef::isPrototype</a>.</p>
+
 </div>
 </div>
 
@@ -8787,7 +9097,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8797,7 +9108,8 @@ Definition at line 759 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a92b07d194b0db97594df0116577e9fbf">MemberDef::isPublished</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a92b07d194b0db97594df0116577e9fbf">MemberDef::isPublished</a>.</p>
+
 </div>
 </div>
 
@@ -8827,7 +9139,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8837,7 +9150,8 @@ Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7e0e45a5885e55221f756a8e3153fb8a">MemberDef::isRaisable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7e0e45a5885e55221f756a8e3153fb8a">MemberDef::isRaisable</a>.</p>
+
 </div>
 </div>
 
@@ -8867,7 +9181,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8877,7 +9192,8 @@ Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>.</p>
+
 </div>
 </div>
 
@@ -8907,7 +9223,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8917,7 +9234,8 @@ Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abf0cad08f28ef0b4e73fd13baefa56a8">MemberDef::isReadable</a>.</p>
+
 </div>
 </div>
 
@@ -8948,9 +9266,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns TRUE if this definition is imported via a tag file.
+<p>Returns TRUE if this definition is imported via a tag file.</p>
 
-Definition at line 923 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 923 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -8960,7 +9280,8 @@ Definition at line 923 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ae1c69242fea84675cf9a07b0ba22f52f">Definition::isReference</a>.</p>
+
 </div>
 </div>
 
@@ -8990,7 +9311,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9000,7 +9322,8 @@ Definition at line 827 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a88908e0048f8220fea8ce3a116adc415">MemberDef::isReimplementedBy</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a88908e0048f8220fea8ce3a116adc415">MemberDef::isReimplementedBy</a>.</p>
+
 </div>
 </div>
 
@@ -9030,7 +9353,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 663 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 663 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9040,7 +9364,8 @@ Definition at line 663 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a273e3f09760e57d718ee9d3c66f73eaa">MemberDef::isRelated</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a273e3f09760e57d718ee9d3c66f73eaa">MemberDef::isRelated</a>.</p>
+
 </div>
 </div>
 
@@ -9070,7 +9395,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 801 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 801 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9080,7 +9406,8 @@ Definition at line 801 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2dd3ac8d3848d07104ad3e3e35590f3a">MemberDef::isRelatedOrFriend</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2dd3ac8d3848d07104ad3e3e35590f3a">MemberDef::isRelatedOrFriend</a>.</p>
+
 </div>
 </div>
 
@@ -9110,7 +9437,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9120,7 +9448,8 @@ Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7ebd90ccb692199c14ef91526df6d534">MemberDef::isRemovable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7ebd90ccb692199c14ef91526df6d534">MemberDef::isRemovable</a>.</p>
+
 </div>
 </div>
 
@@ -9150,7 +9479,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 707 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 707 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9160,7 +9490,8 @@ Definition at line 707 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62549140ec2a398af9b6a72c63aad7d5">MemberDef::isRequired</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a62549140ec2a398af9b6a72c63aad7d5">MemberDef::isRequired</a>.</p>
+
 </div>
 </div>
 
@@ -9190,7 +9521,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 715 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 715 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9200,7 +9532,8 @@ Definition at line 715 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4902c8d45c53057b6b421a22821d999b">MemberDef::isRetain</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4902c8d45c53057b6b421a22821d999b">MemberDef::isRetain</a>.</p>
+
 </div>
 </div>
 
@@ -9230,7 +9563,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9240,7 +9574,8 @@ Definition at line 727 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1b3f4fc396e748b60fd3f4057f0bba21">MemberDef::isSealed</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a1b3f4fc396e748b60fd3f4057f0bba21">MemberDef::isSealed</a>.</p>
+
 </div>
 </div>
 
@@ -9270,7 +9605,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9280,7 +9616,8 @@ Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2f97f032bc09463bf950820e6431fdc5">MemberDef::isSequence</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a2f97f032bc09463bf950820e6431fdc5">MemberDef::isSequence</a>.</p>
+
 </div>
 </div>
 
@@ -9310,7 +9647,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9320,7 +9658,8 @@ Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a44b6a11c61d72073dcfc17d85a303ac5">MemberDef::isSettable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a44b6a11c61d72073dcfc17d85a303ac5">MemberDef::isSettable</a>.</p>
+
 </div>
 </div>
 
@@ -9350,7 +9689,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9360,7 +9700,8 @@ Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a02d2e041a0c3a89c0968b20869aa1981">MemberDef::isSignal</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a02d2e041a0c3a89c0968b20869aa1981">MemberDef::isSignal</a>.</p>
+
 </div>
 </div>
 
@@ -9390,7 +9731,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9400,7 +9742,8 @@ Definition at line 783 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae2109d4aac7f6350a75dadc71ddc55f1">MemberDef::isSliceLocal</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae2109d4aac7f6350a75dadc71ddc55f1">MemberDef::isSliceLocal</a>.</p>
+
 </div>
 </div>
 
@@ -9430,7 +9773,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9440,7 +9784,8 @@ Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4db9f074e1f02c5dbf901d120fd433aa">MemberDef::isSlot</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4db9f074e1f02c5dbf901d120fd433aa">MemberDef::isSlot</a>.</p>
+
 </div>
 </div>
 
@@ -9470,7 +9815,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9480,7 +9826,8 @@ Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a73354ecea5b876ab8d59724b080189b4">MemberDef::isStatic</a>.</p>
+
 </div>
 </div>
 
@@ -9510,7 +9857,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9520,7 +9868,8 @@ Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#adbdbd0e3d3630af579a02e97e162a328">MemberDef::isStrong</a>.</p>
+
 </div>
 </div>
 
@@ -9550,7 +9899,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 779 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 779 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9560,7 +9910,8 @@ Definition at line 779 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5b99e725308ea15248722f69611844aa">MemberDef::isStrongEnumValue</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5b99e725308ea15248722f69611844aa">MemberDef::isStrongEnumValue</a>.</p>
+
 </div>
 </div>
 
@@ -9590,7 +9941,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 761 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 761 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9600,7 +9952,8 @@ Definition at line 761 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a784f1e1160f33e552720b3e90638811c">MemberDef::isTemplateSpecialization</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a784f1e1160f33e552720b3e90638811c">MemberDef::isTemplateSpecialization</a>.</p>
+
 </div>
 </div>
 
@@ -9630,7 +9983,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 751 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 751 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9640,7 +9994,8 @@ Definition at line 751 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aafb531645493ceda329fc922748401be">MemberDef::isTransient</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aafb531645493ceda329fc922748401be">MemberDef::isTransient</a>.</p>
+
 </div>
 </div>
 
@@ -9670,7 +10025,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9680,7 +10036,8 @@ Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6ebab5c76a587caadf8f3079729625fd">MemberDef::isTypeAlias</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a6ebab5c76a587caadf8f3079729625fd">MemberDef::isTypeAlias</a>.</p>
+
 </div>
 </div>
 
@@ -9710,7 +10067,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9720,7 +10078,8 @@ Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4bd8f9b14007a57f53918a21258c284e">MemberDef::isTypedef</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a4bd8f9b14007a57f53918a21258c284e">MemberDef::isTypedef</a>.</p>
+
 </div>
 </div>
 
@@ -9750,7 +10109,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 889 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 889 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9760,7 +10120,8 @@ Definition at line 889 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7f317162cd72dbfd6829ee85aec91170">MemberDef::isTypedefValCached</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a7f317162cd72dbfd6829ee85aec91170">MemberDef::isTypedefValCached</a>.</p>
+
 </div>
 </div>
 
@@ -9790,7 +10151,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9800,7 +10162,8 @@ Definition at line 743 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae4cae75d9163036f5bc9a232dc880812">MemberDef::isUNOProperty</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae4cae75d9163036f5bc9a232dc880812">MemberDef::isUNOProperty</a>.</p>
+
 </div>
 </div>
 
@@ -9830,7 +10193,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9840,7 +10204,8 @@ Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aca8123dc4361300613c03c9d5a5e8883">MemberDef::isUnretained</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aca8123dc4361300613c03c9d5a5e8883">MemberDef::isUnretained</a>.</p>
+
 </div>
 </div>
 
@@ -9870,7 +10235,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9880,7 +10246,8 @@ Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad7b6f788b487058e9e6ac65b092479b9">MemberDef::isVariable</a>.</p>
+
 </div>
 </div>
 
@@ -9910,7 +10277,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9920,7 +10288,8 @@ Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ac14124f33e6513789346a840f5e49385">MemberDef::isWeak</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ac14124f33e6513789346a840f5e49385">MemberDef::isWeak</a>.</p>
+
 </div>
 </div>
 
@@ -9950,7 +10319,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -9960,7 +10330,8 @@ Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a562a056cb102eb78ad78fffe455a2db9">MemberDef::isWritable</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a562a056cb102eb78ad78fffe455a2db9">MemberDef::isWritable</a>.</p>
+
 </div>
 </div>
 
@@ -9990,7 +10361,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 781 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 781 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10000,7 +10372,8 @@ Definition at line 781 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a746d9cacb5bd7eed7e99697ad6c8314b">MemberDef::livesInsideEnum</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a746d9cacb5bd7eed7e99697ad6c8314b">MemberDef::livesInsideEnum</a>.</p>
+
 </div>
 </div>
 
@@ -10030,7 +10403,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 899 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 899 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10040,7 +10414,8 @@ Definition at line 899 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a160b1eb96684b652bd0611e78d8fe831">MemberDef::memberDeclaration</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a160b1eb96684b652bd0611e78d8fe831">MemberDef::memberDeclaration</a>.</p>
+
 </div>
 </div>
 
@@ -10070,7 +10445,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 897 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 897 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10080,7 +10456,8 @@ Definition at line 897 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0b88c6841076c450863bc9b57e5068d1">MemberDef::memberDefinition</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0b88c6841076c450863bc9b57e5068d1">MemberDef::memberDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -10110,7 +10487,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10120,7 +10498,8 @@ Definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#abbdaf88716807e7ff82ed7502cde51fc">MemberDef::memberType</a>.</p>
+
 </div>
 </div>
 
@@ -10150,7 +10529,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10160,7 +10540,8 @@ Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aca314e25245ec3b08f1a55068c2fbeff">MemberDef::memberTypeName</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aca314e25245ec3b08f1a55068c2fbeff">MemberDef::memberTypeName</a>.</p>
+
 </div>
 </div>
 
@@ -10190,7 +10571,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 546 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 546 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10228,9 +10610,11 @@ Definition at line 546 of file <a href="/web-doxygen/docs/api/files/src/memberde
 
 
 
-Returns the name of the definition
+<p>Returns the name of the definition</p>
 
-Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10240,7 +10624,8 @@ Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
+
 </div>
 </div>
 
@@ -10270,7 +10655,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10280,7 +10666,8 @@ Definition at line 793 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a23dc837ee131aa1642a61efd24764032">MemberDef::numberOfFlowKeyWords</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a23dc837ee131aa1642a61efd24764032">MemberDef::numberOfFlowKeyWords</a>.</p>
+
 </div>
 </div>
 
@@ -10310,7 +10697,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10320,7 +10708,8 @@ Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa7228a0cbd28108dfab580c17d3f2751">MemberDef::objCMethodName</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa7228a0cbd28108dfab580c17d3f2751">MemberDef::objCMethodName</a>.</p>
+
 </div>
 </div>
 
@@ -10350,7 +10739,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10360,7 +10750,8 @@ Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ab266b88c02dd8d5089b29d501b412c5d">MemberDef::protection</a>.</p>
+
 </div>
 </div>
 
@@ -10391,9 +10782,11 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Returns the fully qualified name of this definition
+<p>Returns the fully qualified name of this definition</p>
 
-Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+
+<p>Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10403,7 +10796,8 @@ Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -10433,7 +10827,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10443,7 +10838,8 @@ Definition at line 825 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5cdaf0953a164c3e6d7831a39c072e71">MemberDef::reimplementedBy</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a5cdaf0953a164c3e6d7831a39c072e71">MemberDef::reimplementedBy</a>.</p>
+
 </div>
 </div>
 
@@ -10473,7 +10869,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10483,7 +10880,8 @@ Definition at line 823 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a735862f449c091668f1fc86004aab3a2">MemberDef::reimplements</a>.</p>
+
 </div>
 </div>
 
@@ -10513,7 +10911,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 829 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 829 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10523,7 +10922,8 @@ Definition at line 829 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad00728f58f71b2b8baf6f9913c7651ae">MemberDef::relatedAlso</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ad00728f58f71b2b8baf6f9913c7651ae">MemberDef::relatedAlso</a>.</p>
+
 </div>
 </div>
 
@@ -10553,7 +10953,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 931 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 931 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10563,7 +10964,8 @@ Definition at line 931 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a07a3159272913d2f0f441761a28ee674">MemberDef::requiresClause</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a07a3159272913d2f0f441761a28ee674">MemberDef::requiresClause</a>.</p>
+
 </div>
 </div>
 
@@ -10593,7 +10995,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10602,7 +11005,8 @@ Definition at line 540 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -10632,7 +11036,8 @@ Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
 
 
 
-Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10641,7 +11046,8 @@ Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
+<p>Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.</p>
+
 </div>
 </div>
 
@@ -10671,7 +11077,8 @@ Reference <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a>.
 
 
 
-Definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10680,7 +11087,8 @@ Definition at line 939 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m\_memberGroup</a>.
+<p>Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m_memberGroup</a>.</p>
+
 </div>
 </div>
 
@@ -10710,7 +11118,8 @@ Reference <a href="#af0580c92f90390b7c815b4ef15aae072">m\_memberGroup</a>.
 
 
 
-Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10720,7 +11129,8 @@ Definition at line 877 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a64c6a04cf0c6d2ebf56ed6959ce1f89d">MemberDef::sourceRefName</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a64c6a04cf0c6d2ebf56ed6959ce1f89d">MemberDef::sourceRefName</a>.</p>
+
 </div>
 </div>
 
@@ -10750,7 +11160,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10760,7 +11171,8 @@ Definition at line 853 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a409da33c248938e57ba2135777a38628">MemberDef::templateArguments</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a409da33c248938e57ba2135777a38628">MemberDef::templateArguments</a>.</p>
+
 </div>
 </div>
 
@@ -10790,7 +11202,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 883 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 883 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10800,7 +11213,8 @@ Definition at line 883 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aaa1f125e42e876b4e552f71a4748b42f">MemberDef::templateMaster</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aaa1f125e42e876b4e552f71a4748b42f">MemberDef::templateMaster</a>.</p>
+
 </div>
 </div>
 
@@ -10830,7 +11244,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 915 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 915 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10840,7 +11255,8 @@ Definition at line 915 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa01306dc1e488d40d7b3b600091e4ec9">MemberDef::typeConstraints</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#aa01306dc1e488d40d7b3b600091e4ec9">MemberDef::typeConstraints</a>.</p>
+
 </div>
 </div>
 
@@ -10870,7 +11286,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10880,7 +11297,8 @@ Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a0032c6e040cdec6d9c52dc75a790a884">MemberDef::typeString</a>.</p>
+
 </div>
 </div>
 
@@ -10910,7 +11328,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10920,7 +11339,8 @@ Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#ae450a2be776cc5d05726bab8354f6d62">MemberDef::virtualness</a>.</p>
+
 </div>
 </div>
 
@@ -10950,7 +11370,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 933 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 933 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -10960,7 +11381,8 @@ Definition at line 933 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a341567c872ef0f346b59c1dd84c49a57">MemberDef::visibleInIndex</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a341567c872ef0f346b59c1dd84c49a57">MemberDef::visibleInIndex</a>.</p>
+
 </div>
 </div>
 
@@ -10990,7 +11412,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 936 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 936 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11027,7 +11450,8 @@ Definition at line 936 of file <a href="/web-doxygen/docs/api/files/src/memberde
 
 
 
-Definition at line 937 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 937 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11064,7 +11488,8 @@ Definition at line 937 of file <a href="/web-doxygen/docs/api/files/src/memberde
 
 
 
-Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11078,7 +11503,8 @@ Definition at line 944 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a21917a4770d64cc6a97a6b2c81c45312">MemberDef::writeDeclaration</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a21917a4770d64cc6a97a6b2c81c45312">MemberDef::writeDeclaration</a>.</p>
+
 </div>
 </div>
 
@@ -11108,7 +11534,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11121,7 +11548,8 @@ Definition at line 950 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a19bbaeceb1a5834827c03aaf6cac4e3f">MemberDef::writeEnumDeclaration</a>.
+<p>References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#a19bbaeceb1a5834827c03aaf6cac4e3f">MemberDef::writeEnumDeclaration</a>.</p>
+
 </div>
 </div>
 
@@ -11151,7 +11579,8 @@ References <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a hr
 
 
 
-Definition at line 955 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 955 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11165,7 +11594,8 @@ Definition at line 955 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#acbb488146339ce401624a13e908c95ab">MemberDef::writeLink</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#aa35f82a07125e195a28330a8b761dd53">getMdAlias</a> and <a href="/web-doxygen/docs/api/classes/memberdef/#acbb488146339ce401624a13e908c95ab">MemberDef::writeLink</a>.</p>
+
 </div>
 </div>
 
@@ -11195,7 +11625,8 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 
 
 
-Definition at line 962 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.
+<p>Definition at line 962 of file <a href="/web-doxygen/docs/api/files/src/memberdef-cpp">memberdef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -11204,7 +11635,8 @@ Definition at line 962 of file <a href="/web-doxygen/docs/api/files/src/memberde
 </div>
 
 
-Referenced by <a href="#af02d6377c7e2ebc8c21e417b07d9914f">getMemberGroup</a>, <a href="#ab93c6ccca2745c025e062eb867588ec4">MemberDefAliasImpl</a> and <a href="#a22fe62cdfb137fc595537831170ad9f4">setMemberGroup</a>.
+<p>Referenced by <a href="#af02d6377c7e2ebc8c21e417b07d9914f">getMemberGroup</a>, <a href="#ab93c6ccca2745c025e062eb867588ec4">MemberDefAliasImpl</a> and <a href="#a22fe62cdfb137fc595537831170ad9f4">setMemberGroup</a>.</p>
+
 </div>
 </div>
 

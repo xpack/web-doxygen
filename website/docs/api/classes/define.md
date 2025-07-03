@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Define` Class Reference
 
-A class representing a macro definition. <a href="#details">More...</a>
+<p>A class representing a macro definition. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -207,9 +207,10 @@ class Define { ... }
 
 ## Description {#details}
 
-A class representing a macro definition.
+<p>A class representing a macro definition.</p>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -235,7 +236,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -244,7 +246,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -268,7 +271,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -277,7 +281,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -301,7 +306,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,7 +316,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.</p>
+
 </div>
 </div>
 
@@ -334,7 +341,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -343,7 +351,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>.</p>
+
 </div>
 </div>
 
@@ -367,7 +376,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +386,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -400,7 +411,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -409,7 +421,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -433,7 +446,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -442,7 +456,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -466,7 +481,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -475,7 +491,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -499,7 +516,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -508,7 +526,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a157d33872a9501263b2b34cc7ced0ffa">addMacroDefinition</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -532,7 +551,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -541,7 +561,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.</p>
+
 </div>
 </div>
 
@@ -565,7 +586,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -574,7 +596,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0c7b842ecd1f25b0">expandExpression</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -598,7 +621,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a1bc8b7f200b9267b0
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -607,7 +631,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a37deceebb857c5178f2ae90e8da172f2">isDefined</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a37deceebb857c5178f2ae90e8da172f2">isDefined</a>.</p>
+
 </div>
 </div>
 
@@ -631,7 +656,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a37deceebb857c5178
 
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/define-h">define.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -640,7 +666,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/define-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a207d66f561747d53a0df54a5019cc45b">addDefine</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#af18da14aec7b354ada7376e24ca5e6ec">replaceFunctionMacro</a>.</p>
+
 </div>
 </div>
 

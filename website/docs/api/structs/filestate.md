@@ -136,7 +136,8 @@ struct FileState { ... }
 </table>
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -162,7 +163,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -193,7 +195,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -224,7 +227,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -233,7 +237,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf4551e57a2a3650a552">readIncludeFile</a>.</p>
+
 </div>
 </div>
 
@@ -257,7 +262,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pre-l/#a9af0795be28dcf455
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -288,7 +294,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -319,7 +326,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -350,7 +358,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -381,7 +390,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pr
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/pre-l">pre.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

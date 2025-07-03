@@ -64,7 +64,8 @@ class ExampleList { ... }
 </table>
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/example-h
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h">example.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -116,7 +118,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/example-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a> and <a href="/web-doxygen/docs/api/structs/example/#a3ff74d2063cc9dc8b836ce95e79af75d">Example::name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a> and <a href="/web-doxygen/docs/api/structs/example/#a3ff74d2063cc9dc8b836ce95e79af75d">Example::name</a>.</p>
+
 </div>
 </div>
 

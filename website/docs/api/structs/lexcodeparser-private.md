@@ -58,7 +58,8 @@ struct LexCodeParser::Private { ... }
 </table>
 
 
-Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 1170 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 1173 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1173 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 1173 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1172 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

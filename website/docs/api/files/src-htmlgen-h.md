@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Generator for HTML code fragments. <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#details">More...</a>
+<p>Generator for HTML code fragments. <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -63,7 +63,7 @@ Generator for HTML code fragments. <a href="/web-doxygen/docs/api/classes/htmlco
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Generator for HTML output. <a href="/web-doxygen/docs/api/classes/htmlgenerator/#details">More...</a>
+<p>Generator for HTML output. <a href="/web-doxygen/docs/api/classes/htmlgenerator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

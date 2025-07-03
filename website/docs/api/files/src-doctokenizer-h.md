@@ -52,7 +52,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Data associated with a token used by the comment block parser. <a href="/web-doxygen/docs/api/structs/tokeninfo/#details">More...</a>
+<p>Data associated with a token used by the comment block parser. <a href="/web-doxygen/docs/api/structs/tokeninfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -207,7 +207,8 @@ Data associated with a token used by the comment block parser. <a href="/web-dox
 </dd>
 </dl>
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -284,7 +285,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </dd>
 </dl>
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -321,7 +323,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to_string</a>.</p>
+
 </div>
 </div>
 
@@ -345,7 +348,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +380,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -407,7 +412,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -459,7 +465,8 @@ Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </dd>
 </dl>
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokenizer-h">doctokenizer.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -482,7 +489,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/doctokeni
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to\_string</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/token/#a8ee4f27b53b3d10e00d897e2aca4fb4f">Token::to_string</a>.</p>
+
 </div>
 </div>
 

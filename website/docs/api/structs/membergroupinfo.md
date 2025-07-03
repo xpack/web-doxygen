@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `MemberGroupInfo` Struct Reference
 
-Data collected for a member group. <a href="#details">More...</a>
+<p>Data collected for a member group. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -135,9 +135,10 @@ struct MemberGroupInfo { ... }
 
 ## Description {#details}
 
-Data collected for a member group.
+<p>Data collected for a member group.</p>
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -163,7 +164,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/membergr
 
 
 
-Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.
+<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>, definition at line 290 of file <a href="/web-doxygen/docs/api/files/src/membergroup-cpp">membergroup.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +177,8 @@ Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/memberg
 </div>
 
 
-Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m\_sli</a>.
+<p>Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m_sli</a>.</p>
+
 </div>
 </div>
 
@@ -205,7 +208,8 @@ Reference <a href="#a1b5b7c6bb2bec975d22aea0a17ddb193">m\_sli</a>.
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,7 +240,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/membergr
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -267,7 +272,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/membergr
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -298,7 +304,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/membergr
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -329,7 +336,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/membergr
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -338,7 +346,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/membergr
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a>.</p>
+
 </div>
 </div>
 
@@ -362,7 +371,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -371,7 +381,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/membergr
 </div>
 
 
-Referenced by <a href="#ad29533ce08fd08e8998b941a2a79f066">setRefItems</a>.
+<p>Referenced by <a href="#ad29533ce08fd08e8998b941a2a79f066">setRefItems</a>.</p>
+
 </div>
 </div>
 

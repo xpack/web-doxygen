@@ -108,7 +108,8 @@ struct PlantumlContent { ... }
 </table>
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -139,7 +140,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -149,7 +151,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-References <a href="#ae524c2dcc6627afc48c7330d075e644f">content</a>, <a href="#a7fa27a91f9b6267a46abcea77b867c18">outDir</a>, <a href="#a4c6687d2b665f51f631ac384e197394b">srcFile</a> and <a href="#a4aa74c2430af8576d46aff1758a3a68b">srcLine</a>.
+<p>References <a href="#ae524c2dcc6627afc48c7330d075e644f">content</a>, <a href="#a7fa27a91f9b6267a46abcea77b867c18">outDir</a>, <a href="#a4c6687d2b665f51f631ac384e197394b">srcFile</a> and <a href="#a4aa74c2430af8576d46aff1758a3a68b">srcLine</a>.</p>
+
 </div>
 </div>
 
@@ -179,7 +182,8 @@ References <a href="#ae524c2dcc6627afc48c7330d075e644f">content</a>, <a href="#a
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -188,7 +192,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
+<p>Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.</p>
+
 </div>
 </div>
 
@@ -212,7 +217,8 @@ Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -221,7 +227,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
+<p>Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.</p>
+
 </div>
 </div>
 
@@ -245,7 +252,8 @@ Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -254,7 +262,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
+<p>Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.</p>
+
 </div>
 </div>
 
@@ -278,7 +287,8 @@ Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -287,7 +297,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.
+<p>Referenced by <a href="#afadd2d0f1a42d9a092b4a68d98f544b6">PlantumlContent</a>.</p>
+
 </div>
 </div>
 

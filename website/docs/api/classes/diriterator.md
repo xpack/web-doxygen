@@ -346,7 +346,8 @@ class DirIterator { ... }
 </table>
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -372,7 +373,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -403,7 +405,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -434,7 +437,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -465,7 +469,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -496,7 +501,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -537,7 +543,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 <div class="doxyMemberDoc">
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -549,7 +556,8 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.
+<p>Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.</p>
+
 </div>
 </div>
 
@@ -572,7 +580,8 @@ Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.
 <div class="doxyMemberDoc">
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -581,9 +590,11 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 </div>
 
 
-Reference <a href="#a9c037aa57ccb12f75092ea55062c933e">Dir</a>.
+<p>Reference <a href="#a9c037aa57ccb12f75092ea55062c933e">Dir</a>.</p>
 
-Referenced by <a href="#a9c037aa57ccb12f75092ea55062c933e">Dir</a>.
+
+<p>Referenced by <a href="#a9c037aa57ccb12f75092ea55062c933e">Dir</a>.</p>
+
 </div>
 </div>
 
@@ -611,7 +622,8 @@ Referenced by <a href="#a9c037aa57ccb12f75092ea55062c933e">Dir</a>.
 <div class="doxyMemberDoc">
 
 
-Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -623,7 +635,8 @@ Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.
+<p>Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.</p>
+
 </div>
 </div>
 
@@ -646,7 +659,8 @@ Reference <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>.
 <div class="doxyMemberDoc">
 
 
-Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -658,7 +672,8 @@ Declaration at line 60 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -681,7 +696,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 <div class="doxyMemberDoc">
 
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -693,7 +709,8 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -723,7 +740,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 
 
 
-Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -737,9 +755,11 @@ Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
 
-Referenced by <a href="#ab6c94b68ae7d5509e621425954c7fc50">begin</a>, <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>, <a href="#aeb4e1054c2150c4d5f159876a91266a9">DirIterator</a>, <a href="#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#acde2fab844e4f384c5d715f06f0835f4">operator!=</a>, <a href="#a21357cd7836791a40ecd6db98fa864f2">operator++</a>, <a href="#aa6af63e61d1cd8a695c70210d1200696">operator=</a>, <a href="#aa0c1406fad2fbd8ede290b7ba0874130">operator=</a> and <a href="#a9285cecfcff40959eed73e1da7d139da">operator==</a>.
+
+<p>Referenced by <a href="#ab6c94b68ae7d5509e621425954c7fc50">begin</a>, <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>, <a href="#aeb4e1054c2150c4d5f159876a91266a9">DirIterator</a>, <a href="#ad0550a128905c4e07b633d437992b002">end</a>, <a href="#acde2fab844e4f384c5d715f06f0835f4">operator!=</a>, <a href="#a21357cd7836791a40ecd6db98fa864f2">operator++</a>, <a href="#aa6af63e61d1cd8a695c70210d1200696">operator=</a>, <a href="#aa0c1406fad2fbd8ede290b7ba0874130">operator=</a> and <a href="#a9285cecfcff40959eed73e1da7d139da">operator==</a>.</p>
+
 </div>
 </div>
 
@@ -763,7 +783,8 @@ Referenced by <a href="#ab6c94b68ae7d5509e621425954c7fc50">begin</a>, <a href="#
 
 
 
-Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -777,7 +798,8 @@ Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -807,7 +829,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 
 
 
-Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -818,7 +841,8 @@ Declaration at line 67 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -842,7 +866,8 @@ Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
 
 
 
-Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -853,7 +878,8 @@ Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -883,7 +909,8 @@ Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
 
 
 
-Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -922,7 +949,8 @@ Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -935,7 +963,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -959,7 +988,8 @@ Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -972,7 +1002,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -996,7 +1027,8 @@ Reference <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
 
 
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1010,7 +1042,8 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -1034,7 +1067,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 
 
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1052,7 +1086,8 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -1076,7 +1111,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 
 
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>, definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1091,7 +1127,8 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/dir-h">d
 </div>
 
 
-References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.
+<p>References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a href="#a9cc9594d5fab0c475a2de2db483f13a9">p</a>.</p>
+
 </div>
 </div>
 
@@ -1121,7 +1158,8 @@ References <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a> and <a h
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/dir-h">dir.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1130,7 +1168,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/dir-h">di
 </div>
 
 
-Referenced by <a href="#a0bee75c75ab8c043e77564196f39bff7">DirIterator</a>, <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>, <a href="#a0a049e2a4e5b8b273e56b0bcbdf32cf4">DirIterator</a>, <a href="#aeb4e1054c2150c4d5f159876a91266a9">DirIterator</a>, <a href="#acde2fab844e4f384c5d715f06f0835f4">operator!=</a>, <a href="#a54db35ff62b7ab4045a593b92ac8780d">operator\*</a>, <a href="#a21357cd7836791a40ecd6db98fa864f2">operator++</a>, <a href="#a6956f8bf3894639348454cb62784c74f">operator-&gt;</a>, <a href="#aa6af63e61d1cd8a695c70210d1200696">operator=</a>, <a href="#aa0c1406fad2fbd8ede290b7ba0874130">operator=</a> and <a href="#a9285cecfcff40959eed73e1da7d139da">operator==</a>.
+<p>Referenced by <a href="#a0bee75c75ab8c043e77564196f39bff7">DirIterator</a>, <a href="#a182f1c600812106e59ee2c27aef102bc">DirIterator</a>, <a href="#a0a049e2a4e5b8b273e56b0bcbdf32cf4">DirIterator</a>, <a href="#aeb4e1054c2150c4d5f159876a91266a9">DirIterator</a>, <a href="#acde2fab844e4f384c5d715f06f0835f4">operator!=</a>, <a href="#a54db35ff62b7ab4045a593b92ac8780d">operator*</a>, <a href="#a21357cd7836791a40ecd6db98fa864f2">operator++</a>, <a href="#a6956f8bf3894639348454cb62784c74f">operator-&gt;</a>, <a href="#aa6af63e61d1cd8a695c70210d1200696">operator=</a>, <a href="#aa0c1406fad2fbd8ede290b7ba0874130">operator=</a> and <a href="#a9285cecfcff40959eed73e1da7d139da">operator==</a>.</p>
+
 </div>
 </div>
 

@@ -361,7 +361,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -403,7 +404,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l
 
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -443,7 +445,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -476,7 +479,8 @@ Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>.</p>
+
 </div>
 </div>
 
@@ -506,9 +510,11 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385
 
 
 
-counts the number of lines in the input
+<p>counts the number of lines in the input</p>
 
-Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+
+<p>Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -561,7 +567,8 @@ Definition at line 368 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -576,7 +583,8 @@ Definition at line 310 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.</p>
+
 </div>
 </div>
 
@@ -605,7 +613,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 
 
-Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -650,7 +659,8 @@ Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -686,7 +696,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -708,7 +719,8 @@ Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.</p>
+
 </div>
 </div>
 
@@ -737,7 +749,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 
 
 
-Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -760,7 +773,8 @@ Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -790,9 +804,11 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902d
 
 
 
-start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -847,7 +863,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.</p>
+
 </div>
 </div>
 
@@ -876,7 +893,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda20158
 
 
 
-Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -891,7 +909,8 @@ Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.</p>
+
 </div>
 </div>
 
@@ -920,7 +939,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 </div>
 </div>
 
@@ -944,7 +964,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1059,7 +1080,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1109,7 +1131,8 @@ Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1140,7 +1163,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1171,7 +1195,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1202,7 +1227,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1233,7 +1259,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/xmlcode-l">xmlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -316,7 +316,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-First pass comment processing. <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#details">More...</a>
+<p>First pass comment processing. <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -343,7 +343,7 @@ First pass comment processing. <a href="/web-doxygen/docs/api/files/src/commentc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Interface for the comment block scanner. <a href="/web-doxygen/docs/api/files/src/commentscan-h/#details">More...</a>
+<p>Interface for the comment block scanner. <a href="/web-doxygen/docs/api/files/src/commentscan-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -500,7 +500,7 @@ Interface for the comment block scanner. <a href="/web-doxygen/docs/api/files/sr
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#details">More...</a>
+<p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="/web-doxygen/docs/api/files/src/constexp-p-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -995,7 +995,7 @@ Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/d
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>. <a href="/web-doxygen/docs/api/files/src/docparser-p-h/#details">More...</a>
+<p>Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser-cpp">docparser.cpp</a> and <a href="/web-doxygen/docs/api/files/src/docnode-cpp">docnode.cpp</a>. <a href="/web-doxygen/docs/api/files/src/docparser-p-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -1958,7 +1958,7 @@ Private header shared between <a href="/web-doxygen/docs/api/files/src/docparser
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This file contains functions for the various index pages. <a href="/web-doxygen/docs/api/files/src/index-cpp/#details">More...</a>
+<p>This file contains functions for the various index pages. <a href="/web-doxygen/docs/api/files/src/index-cpp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2167,7 +2167,7 @@ This file contains functions for the various index pages. <a href="/web-doxygen/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-main entry point for doxygen <a href="/web-doxygen/docs/api/files/src/main-cpp/#details">More...</a>
+<p>main entry point for doxygen <a href="/web-doxygen/docs/api/files/src/main-cpp/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2610,7 +2610,7 @@ main entry point for doxygen <a href="/web-doxygen/docs/api/files/src/main-cpp/#
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/namespaces/portable">Portable</a> versions of functions that are platform dependent. <a href="/web-doxygen/docs/api/files/src/portable-h/#details">More...</a>
+<p><a href="/web-doxygen/docs/api/namespaces/portable">Portable</a> versions of functions that are platform dependent. <a href="/web-doxygen/docs/api/files/src/portable-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -2975,7 +2975,7 @@ main entry point for doxygen <a href="/web-doxygen/docs/api/files/src/main-cpp/#
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Web server based search engine. <a href="/web-doxygen/docs/api/files/src/searchindex-h/#details">More...</a>
+<p>Web server based search engine. <a href="/web-doxygen/docs/api/files/src/searchindex-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3002,7 +3002,7 @@ Web server based search engine. <a href="/web-doxygen/docs/api/files/src/searchi
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Javascript based search engine. <a href="/web-doxygen/docs/api/files/src/searchindex-js-h/#details">More...</a>
+<p>Javascript based search engine. <a href="/web-doxygen/docs/api/files/src/searchindex-js-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3159,7 +3159,7 @@ Javascript based search engine. <a href="/web-doxygen/docs/api/files/src/searchi
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Some helper functions for std::string. <a href="/web-doxygen/docs/api/files/src/stringutil-h/#details">More...</a>
+<p>Some helper functions for std::string. <a href="/web-doxygen/docs/api/files/src/stringutil-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3472,7 +3472,7 @@ Some helper functions for std::string. <a href="/web-doxygen/docs/api/files/src/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Danish translation. <a href="/web-doxygen/docs/api/files/src/translator-dk-h/#details">More...</a>
+<p>Danish translation. <a href="/web-doxygen/docs/api/files/src/translator-dk-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3941,7 +3941,7 @@ Danish translation. <a href="/web-doxygen/docs/api/files/src/translator-dk-h/#de
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This file contains a number of basic enums and types. <a href="/web-doxygen/docs/api/files/src/types-h/#details">More...</a>
+<p>This file contains a number of basic enums and types. <a href="/web-doxygen/docs/api/files/src/types-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3968,7 +3968,7 @@ This file contains a number of basic enums and types. <a href="/web-doxygen/docs
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Various UTF8 related helper functions. <a href="/web-doxygen/docs/api/files/src/utf8-h/#details">More...</a>
+<p>Various UTF8 related helper functions. <a href="/web-doxygen/docs/api/files/src/utf8-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -3995,7 +3995,7 @@ Various UTF8 related helper functions. <a href="/web-doxygen/docs/api/files/src/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A bunch of utility functions. <a href="/web-doxygen/docs/api/files/src/util-h/#details">More...</a>
+<p>A bunch of utility functions. <a href="/web-doxygen/docs/api/files/src/util-h/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

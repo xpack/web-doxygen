@@ -342,7 +342,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 350 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -360,7 +361,8 @@ Definition at line 350 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Reference <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.
+<p>Reference <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.</p>
+
 </div>
 </div>
 
@@ -389,7 +391,8 @@ Reference <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.
 
 
 
-Definition at line 329 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -417,7 +420,8 @@ Definition at line 329 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-References <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a> and <a href="#a72d9fa05d2ff7e5534d336cd1c98242f">trimSpaces</a>.
+<p>References <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a> and <a href="#a72d9fa05d2ff7e5534d336cd1c98242f">trimSpaces</a>.</p>
+
 </div>
 </div>
 
@@ -446,7 +450,8 @@ References <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a> and <a h
 
 
 
-Definition at line 286 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -487,7 +492,8 @@ Definition at line 286 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Reference <a href="#a9548ad823958af7d01d61abd1d703074">checkAndUpdatePath</a>.
+<p>Reference <a href="#a9548ad823958af7d01d61abd1d703074">checkAndUpdatePath</a>.</p>
+
 </div>
 </div>
 
@@ -516,7 +522,8 @@ Reference <a href="#a9548ad823958af7d01d61abd1d703074">checkAndUpdatePath</a>.
 
 
 
-Definition at line 263 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -546,9 +553,11 @@ Definition at line 263 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a> and <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.</p>
 
-Referenced by <a href="#a91f823e4482e3b6edc2624ad2d2acd32">addElement</a>.
+
+<p>Referenced by <a href="#a91f823e4482e3b6edc2624ad2d2acd32">addElement</a>.</p>
+
 </div>
 </div>
 
@@ -577,7 +586,8 @@ Referenced by <a href="#a91f823e4482e3b6edc2624ad2d2acd32">addElement</a>.
 
 
 
-Definition at line 245 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -620,7 +630,8 @@ Definition at line 245 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 254 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -663,7 +674,8 @@ Definition at line 254 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 380 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 380 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -718,7 +730,8 @@ Definition at line 380 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-References <a href="#a95276bd5baa3dd1edf716a19699064da">entities\_dec</a>, <a href="#ad16a9bef332d1d0cae146f99189b9bf0">entities\_enc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#a9474822ffc0025e35130850abb689384">num\_entities</a> and <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.
+<p>References <a href="#a95276bd5baa3dd1edf716a19699064da">entities_dec</a>, <a href="#ad16a9bef332d1d0cae146f99189b9bf0">entities_enc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#a9474822ffc0025e35130850abb689384">num_entities</a> and <a href="#a6207ba2d15395f88f479b1b8a61ee94c">reportError</a>.</p>
+
 </div>
 </div>
 
@@ -747,7 +760,8 @@ References <a href="#a95276bd5baa3dd1edf716a19699064da">entities\_dec</a>, <a hr
 
 
 
-Definition at line 361 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 361 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -767,9 +781,11 @@ Definition at line 361 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>.</p>
 
-Referenced by <a href="#a913359da3a99f2248abc9f0121a74702">addAttribute</a>, <a href="#a609e2594cdfa14bd64b0218e708c83ae">addCharacters</a>, <a href="#a9548ad823958af7d01d61abd1d703074">checkAndUpdatePath</a>, <a href="/web-doxygen/docs/api/classes/xmlparser/#ad9b0a380760223431fbb84d35a8f12e9">XMLParser::parse</a> and <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
+
+<p>Referenced by <a href="#a913359da3a99f2248abc9f0121a74702">addAttribute</a>, <a href="#a609e2594cdfa14bd64b0218e708c83ae">addCharacters</a>, <a href="#a9548ad823958af7d01d61abd1d703074">checkAndUpdatePath</a>, <a href="/web-doxygen/docs/api/classes/xmlparser/#ad9b0a380760223431fbb84d35a8f12e9">XMLParser::parse</a> and <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.</p>
+
 </div>
 </div>
 
@@ -798,7 +814,8 @@ Referenced by <a href="#a913359da3a99f2248abc9f0121a74702">addAttribute</a>, <a 
 
 
 
-Definition at line 320 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -814,7 +831,8 @@ Definition at line 320 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Referenced by <a href="#a609e2594cdfa14bd64b0218e708c83ae">addCharacters</a>.
+<p>Referenced by <a href="#a609e2594cdfa14bd64b0218e708c83ae">addCharacters</a>.</p>
+
 </div>
 </div>
 
@@ -838,7 +856,8 @@ Referenced by <a href="#a609e2594cdfa14bd64b0218e708c83ae">addCharacters</a>.
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -990,7 +1009,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 230 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1045,7 +1065,8 @@ Definition at line 230 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 375 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 375 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1054,7 +1075,8 @@ Definition at line 375 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
+<p>Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.</p>
+
 </div>
 </div>
 
@@ -1083,7 +1105,8 @@ Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
 
 
 
-Definition at line 374 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 374 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1092,7 +1115,8 @@ Definition at line 374 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
+<p>Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.</p>
+
 </div>
 </div>
 
@@ -1121,7 +1145,8 @@ Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
 
 
 
-Definition at line 376 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 376 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1130,7 +1155,8 @@ Definition at line 376 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 </div>
 
 
-Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
+<p>Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.</p>
+
 </div>
 </div>
 
@@ -1160,7 +1186,8 @@ Referenced by <a href="#aa52888e930f47681f9a1e04a004461ad">processData</a>.
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1191,7 +1218,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l"
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1222,7 +1250,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l"
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1253,7 +1282,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l"
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

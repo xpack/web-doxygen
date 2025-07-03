@@ -41,7 +41,7 @@ class FileNameFn { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-used as hash function <a href="#a66c2a1871d0033e87ef374c8204a54ce">More...</a>
+<p>used as hash function <a href="#a66c2a1871d0033e87ef374c8204a54ce">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ used as hash function <a href="#a66c2a1871d0033e87ef374c8204a54ce">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-used as equal operator <a href="#a63b6f6b9369310cfcdc4255df8f2022b">More...</a>
+<p>used as equal operator <a href="#a63b6f6b9369310cfcdc4255df8f2022b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -87,9 +87,11 @@ used as equal operator <a href="#a63b6f6b9369310cfcdc4255df8f2022b">More...</a>
 
 
 
-Custom combined key compare and hash functor that uses a lower case string in case CASE\_SENSE\_NAMES is set to NO.
+<p>Custom combined key compare and hash functor that uses a lower case string in case CASE_SENSE_NAMES is set to NO.</p>
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -119,9 +121,10 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 <div class="doxyMemberDoc">
 
-used as hash function
+<p>used as hash function</p>
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -133,7 +136,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
+<p>Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.</p>
+
 </div>
 </div>
 
@@ -160,9 +164,10 @@ Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
 </div>
 <div class="doxyMemberDoc">
 
-used as equal operator
+<p>used as equal operator</p>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -174,7 +179,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
+<p>Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.</p>
+
 </div>
 </div>
 
@@ -209,7 +215,8 @@ Reference <a href="#a2ebf0e60c327814650a598a75ab06e4c">searchKey</a>.
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -226,9 +233,11 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/filename-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaefdc17b5414c3b2329297ff8c4e90a6">getCaseSenseNames</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a90000b3876f8ff0fed72d2c31ecdfe11">convertUTF8ToLower</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaefdc17b5414c3b2329297ff8c4e90a6">getCaseSenseNames</a>.</p>
 
-Referenced by <a href="#a66c2a1871d0033e87ef374c8204a54ce">operator()</a> and <a href="#a63b6f6b9369310cfcdc4255df8f2022b">operator()</a>.
+
+<p>Referenced by <a href="#a66c2a1871d0033e87ef374c8204a54ce">operator()</a> and <a href="#a63b6f6b9369310cfcdc4255df8f2022b">operator()</a>.</p>
+
 </div>
 </div>
 

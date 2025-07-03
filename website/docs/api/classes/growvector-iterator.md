@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Iterator` Class Template Reference
 
-bidirectional iterator <a href="#details">More...</a>
+<p>bidirectional iterator <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -318,9 +318,10 @@ class GrowVector::Iterator&lt;C, I&gt; { ... }
 
 ## Description {#details}
 
-bidirectional iterator
+<p>bidirectional iterator</p>
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -347,7 +348,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -379,7 +381,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -411,7 +414,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -443,7 +447,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -475,7 +480,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -516,7 +522,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 <div class="doxyMemberDoc">
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -551,7 +558,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 <div class="doxyMemberDoc">
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -594,7 +602,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -637,7 +646,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -674,7 +684,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -711,7 +722,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -748,7 +760,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -785,7 +798,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -822,7 +836,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -860,7 +875,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -869,7 +885,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/growvecto
 </div>
 
 
-Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;::Iterator&lt; GrowVector, T &gt;::operator!=</a> and <a href="#adf9a9358b475317bd816d7b47a0f5cd1">GrowVector&lt; T &gt;::Iterator&lt; GrowVector, T &gt;::operator==</a>.
+<p>Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;::Iterator&lt; GrowVector, T &gt;::operator!=</a> and <a href="#adf9a9358b475317bd816d7b47a0f5cd1">GrowVector&lt; T &gt;::Iterator&lt; GrowVector, T &gt;::operator==</a>.</p>
+
 </div>
 </div>
 
@@ -894,7 +911,8 @@ Referenced by <a href="#a27aed9f3ea67a677964fa51de28a5824">GrowVector&lt; T &gt;
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/growvector-h">growvector.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

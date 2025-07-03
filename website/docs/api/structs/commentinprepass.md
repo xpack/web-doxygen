@@ -77,7 +77,8 @@ struct CommentInPrepass { ... }
 </table>
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-References <a href="#a84b0d18b00f30aa819ec490f79e24018">column</a> and <a href="#a121d4cd80b9102d3c562acbef48952ca">str</a>.
+<p>References <a href="#a84b0d18b00f30aa819ec490f79e24018">column</a> and <a href="#a121d4cd80b9102d3c562acbef48952ca">str</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a84b0d18b00f30aa819ec490f79e24018">column</a> and <a href="
 
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-Referenced by <a href="#af6054092fbb3738893659caf7ee73388">CommentInPrepass</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a58823d73b17b4a3c6b782a7e14904c77">locatePrepassComment</a>.
+<p>Referenced by <a href="#af6054092fbb3738893659caf7ee73388">CommentInPrepass</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a58823d73b17b4a3c6b782a7e14904c77">locatePrepassComment</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#af6054092fbb3738893659caf7ee73388">CommentInPrepass</a> 
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-Referenced by <a href="#af6054092fbb3738893659caf7ee73388">CommentInPrepass</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.
+<p>Referenced by <a href="#af6054092fbb3738893659caf7ee73388">CommentInPrepass</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.</p>
+
 </div>
 </div>
 

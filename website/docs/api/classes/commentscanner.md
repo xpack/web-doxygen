@@ -79,7 +79,7 @@ class CommentScanner { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Invokes the comment block parser with the request to parse a single comment block. <a href="#a2e48aae075e2f44ddd785428b4099f4a">More...</a>
+<p>Invokes the comment block parser with the request to parse a single comment block. <a href="#a2e48aae075e2f44ddd785428b4099f4a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -199,7 +199,8 @@ Invokes the comment block parser with the request to parse a single comment bloc
 </table>
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -225,7 +226,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/commentsc
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4703 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4703 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -240,7 +242,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dacfc05ad911e454b3dfde1212b69d28ce">Debug::Lex\_commentscan</a> and <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dacfc05ad911e454b3dfde1212b69d28ce">Debug::Lex_commentscan</a> and <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -270,7 +273,8 @@ References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4711 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4711 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -282,7 +286,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -312,7 +317,8 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 
 
 
-Declaration at line 117 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4934 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 117 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4934 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -325,7 +331,8 @@ Declaration at line 117 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -349,7 +356,8 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 
 
 
-Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4916 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4916 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -362,7 +370,8 @@ Declaration at line 114 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -386,7 +395,8 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 
 
 
-Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4904 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4904 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -399,9 +409,11 @@ Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.</p>
+
 </div>
 </div>
 
@@ -425,7 +437,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b4
 
 
 
-Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4898 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4898 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -438,7 +451,8 @@ Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -462,7 +476,8 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 
 
 
-Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4922 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4922 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -475,7 +490,8 @@ Declaration at line 115 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -499,7 +515,8 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 
 
 
-Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4910 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4910 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -512,9 +529,11 @@ Declaration at line 113 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.</p>
+
 </div>
 </div>
 
@@ -538,7 +557,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b4
 
 
 
-Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4928 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4928 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -551,7 +571,8 @@ Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/comment
 </div>
 
 
-Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
+<p>Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.</p>
+
 </div>
 </div>
 
@@ -573,7 +594,7 @@ Reference <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Invokes the comment block parser with the request to parse a single comment block.
+<p>Invokes the comment block parser with the request to parse a single comment block.</p>
 
 
 <dl class="doxyParamsList">
@@ -582,55 +603,55 @@ Invokes the comment block parser with the request to parse a single comment bloc
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] parser</td>
-<td class="doxyParamItemDescription">The language parse that invoked this function. The comment block parse may invoke ParserInterface::parsePrototype() in order to parse the argument of a @fn command.</td>
+<td class="doxyParamItemDescription"><p>The language parse that invoked this function. The comment block parse may invoke ParserInterface::parsePrototype() in order to parse the argument of a @fn command.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] curEntry</td>
-<td class="doxyParamItemDescription">The <a href="/web-doxygen/docs/api/classes/entry">Entry</a> to which the comment block belongs. Any information (like documentation) that is found in the comment block will be stored in this entry.</td>
+<td class="doxyParamItemDescription"><p>The <a href="/web-doxygen/docs/api/classes/entry">Entry</a> to which the comment block belongs. Any information (like documentation) that is found in the comment block will be stored in this entry.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] comment</td>
-<td class="doxyParamItemDescription">A string representing the actual comment block. Note that leading *'s are already stripped from the comment block.</td>
+<td class="doxyParamItemDescription"><p>A string representing the actual comment block. Note that leading *'s are already stripped from the comment block.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription">The name of the file in which the comment is found. Mainly used for producing warnings.</td>
+<td class="doxyParamItemDescription"><p>The name of the file in which the comment is found. Mainly used for producing warnings.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] lineNr</td>
-<td class="doxyParamItemDescription">The line number at which the comment block was found. When the function returns it will be set to the last line parsed.</td>
+<td class="doxyParamItemDescription"><p>The line number at which the comment block was found. When the function returns it will be set to the last line parsed.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] isBrief</td>
-<td class="doxyParamItemDescription">TRUE iff this comment block represents a brief description.</td>
+<td class="doxyParamItemDescription"><p>TRUE iff this comment block represents a brief description.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] isJavadocStyle</td>
-<td class="doxyParamItemDescription">TRUE iff this comment block is in "Javadoc" style. This means that it starts as a brief description until the end of the sentences is found and then proceeds as a detailed description.</td>
+<td class="doxyParamItemDescription"><p>TRUE iff this comment block is in "Javadoc" style. This means that it starts as a brief description until the end of the sentences is found and then proceeds as a detailed description.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] isInbody</td>
-<td class="doxyParamItemDescription">TRUE iff this comment block is located in the body of a function.</td>
+<td class="doxyParamItemDescription"><p>TRUE iff this comment block is located in the body of a function.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] prot</td>
-<td class="doxyParamItemDescription">The protection level in which this comment block was found. Commands in the comment block may override this.</td>
+<td class="doxyParamItemDescription"><p>The protection level in which this comment block was found. Commands in the comment block may override this.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] position</td>
-<td class="doxyParamItemDescription">The character position within <em>comment</em> where the comment block starts. Typically used in case the comment block contains multiple structural commands.</td>
+<td class="doxyParamItemDescription"><p>The character position within <em>comment</em> where the comment block starts. Typically used in case the comment block contains multiple structural commands.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[out] newEntryNeeded</td>
-<td class="doxyParamItemDescription">Boolean that is TRUE if the comment block parser finds that a the comment block finishes the entry and a new one needs to be started.</td>
+<td class="doxyParamItemDescription"><p>Boolean that is TRUE if the comment block parser finds that a the comment block finishes the entry and a new one needs to be started.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] markdownEnabled</td>
-<td class="doxyParamItemDescription">Indicates if markdown specific processing should be done.</td>
+<td class="doxyParamItemDescription"><p>Indicates if markdown specific processing should be done.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] guards</td>
-<td class="doxyParamItemDescription">Tracks nested conditional sections (if,ifnot,..)</td>
+<td class="doxyParamItemDescription"><p>Tracks nested conditional sections (if,ifnot,..)</p></td>
 </tr>
 </table>
 </dd>
@@ -638,11 +659,12 @@ Invokes the comment block parser with the request to parse a single comment bloc
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>TRUE if the comment requires further processing. The parameter <em>newEntryNeeded</em> will typically be true in this case and <em>position</em> will indicate the offset inside the <em>comment</em> string where to proceed parsing. FALSE indicates no further processing is needed.</dd>
+<dd><p>TRUE if the comment requires further processing. The parameter <em>newEntryNeeded</em> will typically be true in this case and <em>position</em> will indicate the offset inside the <em>comment</em> string where to proceed parsing. FALSE indicates no further processing is needed.</p></dd>
 </dl>
 
 
-Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4716 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.
+<p>Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>, definition at line 4716 of file <a href="/web-doxygen/docs/api/files/src/commentscan-l">commentscan.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -779,9 +801,11 @@ Declaration at line 97 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO\_TRACE\_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#affc21459e67958aac09bcb4d942439d4">checkFormula</a>, <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ae8c2c4e6dab650ca0dbc32956838ddd9">comment</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dafeb3ede15e44e56c363351c25efd2504">Debug::CommentScan</a>, <a href="/web-doxygen/docs/api/classes/entry/#a180b5fdd7f3b963e4b0d2c4ea6e0b1b5">Entry::docLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8c71fbab856bc37ae54d2d369535b3b">getOverloadDocs</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dacfc05ad911e454b3dfde1212b69d28ce">Debug::Lex\_commentscan</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#acc0f0d2f60038c5acff5f6480bc80e45ab0588c8b5fb2c84034afe1809365f040">OutputBrief</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#acc0f0d2f60038c5acff5f6480bc80e45a7798ee65e8ba26c91dcea378c28347a6">OutputDoc</a>, <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a3de3cea0489d29101ce232bbc41789da">setOutput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0b372f3669056d6a88f41daeb3a3865">stripLeadingAndTrailingEmptyLines</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186ae309e5d84833a7111c361e657e75bc88">XRef\_None</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aacd050a578098847da993bc206dc7586">addOutput</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a81912d2a3d12aab7a9e546e5299e2e09">AUTO_TRACE_EXIT</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#affc21459e67958aac09bcb4d942439d4">checkFormula</a>, <a href="/web-doxygen/docs/api/files/src/vhdldocgen-cpp/#ae8c2c4e6dab650ca0dbc32956838ddd9">comment</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dafeb3ede15e44e56c363351c25efd2504">Debug::CommentScan</a>, <a href="/web-doxygen/docs/api/classes/entry/#a180b5fdd7f3b963e4b0d2c4ea6e0b1b5">Entry::docLine</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8c71fbab856bc37ae54d2d369535b3b">getOverloadDocs</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dacfc05ad911e454b3dfde1212b69d28ce">Debug::Lex_commentscan</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#acc0f0d2f60038c5acff5f6480bc80e45ab0588c8b5fb2c84034afe1809365f040">OutputBrief</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#acc0f0d2f60038c5acff5f6480bc80e45a7798ee65e8ba26c91dcea378c28347a6">OutputDoc</a>, <a href="#a7bf2d143820f6862f172772b3f22b98e">p</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a3de3cea0489d29101ce232bbc41789da">setOutput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad0b372f3669056d6a88f41daeb3a3865">stripLeadingAndTrailingEmptyLines</a>, <a href="/web-doxygen/docs/api/namespaces/trace/#a1859b0ba7161e012fecbd71dd4ec64d6">Trace::trunc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a30f370adb2525f6629a44ad8fb972186ae309e5d84833a7111c361e657e75bc88">XRef_None</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>.</p>
+
 </div>
 </div>
 
@@ -811,7 +835,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#a248b4
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/commentscan-h">commentscan.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -820,7 +845,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/comments
 </div>
 
 
-Referenced by <a href="#a109f854249ba68441071ceb95a4b159e">close</a>, <a href="#a4cc03eb4b903175c815dbbe1c9caa027">CommentScanner</a>, <a href="#a955869dba74b22b97c0e86bcdc4b544b">enterCompound</a>, <a href="#abd752e50202fc1d4d2929595b003c8c9">enterFile</a>, <a href="#a75f7ae2b80985063ee4a58fcb3ec2aec">initGroupInfo</a>, <a href="#a1c0c65d943ed68cacf891b2ec38db5fe">leaveCompound</a>, <a href="#ac7b5eed8e5966a5023d12fd9b31efb7d">leaveFile</a>, <a href="#a1dfece08838426aae997a4faa419cc6c">open</a>, <a href="#a2e48aae075e2f44ddd785428b4099f4a">parseCommentBlock</a> and <a href="#aa006b1543c5de0b520f2ee928e88871c">\~CommentScanner</a>.
+<p>Referenced by <a href="#a109f854249ba68441071ceb95a4b159e">close</a>, <a href="#a4cc03eb4b903175c815dbbe1c9caa027">CommentScanner</a>, <a href="#a955869dba74b22b97c0e86bcdc4b544b">enterCompound</a>, <a href="#abd752e50202fc1d4d2929595b003c8c9">enterFile</a>, <a href="#a75f7ae2b80985063ee4a58fcb3ec2aec">initGroupInfo</a>, <a href="#a1c0c65d943ed68cacf891b2ec38db5fe">leaveCompound</a>, <a href="#ac7b5eed8e5966a5023d12fd9b31efb7d">leaveFile</a>, <a href="#a1dfece08838426aae997a4faa419cc6c">open</a>, <a href="#a2e48aae075e2f44ddd785428b4099f4a">parseCommentBlock</a> and <a href="#aa006b1543c5de0b520f2ee928e88871c">~CommentScanner</a>.</p>
+
 </div>
 </div>
 

@@ -58,7 +58,8 @@ struct CodeFragmentManager::Private { ... }
 </table>
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

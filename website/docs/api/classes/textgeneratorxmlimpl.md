@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TextGeneratorXMLImpl` Class Reference
 
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream. <a href="#details">More...</a>
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class TextGeneratorXMLImpl { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a>
+<p>Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/api/classes/textgeneratorintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -130,9 +130,10 @@ Abstract interface for a hyperlinked text fragment. <a href="/web-doxygen/docs/a
 
 ## Description {#details}
 
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream.
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream.</p>
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -163,7 +164,8 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +174,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 </div>
 
 
-Reference <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a>.
+<p>Reference <a href="#a7d3e97ed90416a7221020dabe5835db3">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -208,7 +211,8 @@ Reference <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a>.
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +249,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -259,7 +264,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 </div>
 
 
-References <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#addab75b1cb249ffe90ab4624fe4aa530">writeXMLLink</a>.
+<p>References <a href="#a7d3e97ed90416a7221020dabe5835db3">m_t</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#addab75b1cb249ffe90ab4624fe4aa530">writeXMLLink</a>.</p>
+
 </div>
 </div>
 
@@ -289,7 +295,8 @@ References <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a> and <a href="/w
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -301,7 +308,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 </div>
 
 
-References <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ae0d4954a6f4474cd684e6a3901f3486c">writeXMLString</a>.
+<p>References <a href="#a7d3e97ed90416a7221020dabe5835db3">m_t</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ae0d4954a6f4474cd684e6a3901f3486c">writeXMLString</a>.</p>
+
 </div>
 </div>
 
@@ -331,7 +339,8 @@ References <a href="#a7d3e97ed90416a7221020dabe5835db3">m\_t</a> and <a href="/w
 
 
 
-Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp">xmlgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -340,7 +349,8 @@ Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/xmlgen-c
 </div>
 
 
-Referenced by <a href="#a21ae295b8602b19e66221621a5ad8fa2">TextGeneratorXMLImpl</a>, <a href="#a40c4980dd16a4546319097d3e46f449c">writeLink</a> and <a href="#a300d188dfee08150a9973dc59402e993">writeString</a>.
+<p>Referenced by <a href="#a21ae295b8602b19e66221621a5ad8fa2">TextGeneratorXMLImpl</a>, <a href="#a40c4980dd16a4546319097d3e46f449c">writeLink</a> and <a href="#a300d188dfee08150a9973dc59402e993">writeString</a>.</p>
+
 </div>
 </div>
 

@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details">More...</a>
+<p>Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ Citation-related data. <a href="/web-doxygen/docs/api/structs/citeinfo/#details"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Citation manager class. <a href="/web-doxygen/docs/api/classes/citationmanager/#details">More...</a>
+<p>Citation manager class. <a href="/web-doxygen/docs/api/classes/citationmanager/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

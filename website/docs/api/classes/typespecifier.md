@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TypeSpecifier` Class Reference
 
-Wrapper class for a number of boolean properties. <a href="#details">More...</a>
+<p>Wrapper class for a number of boolean properties. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -128,12 +128,14 @@ class TypeSpecifier { ... }
 
 ## Description {#details}
 
-Wrapper class for a number of boolean properties.
+<p>Wrapper class for a number of boolean properties.</p>
 
 
-The properties are packed together, and initialized to false.
+<p>The properties are packed together, and initialized to false.</p>
 
-Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+
+<p>Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -163,7 +165,8 @@ Definition at line 653 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 <div class="doxyMemberDoc">
 
 
-Definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +178,8 @@ Definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a4dc5b5d3a4fe7693a2982eb6de5dacfe">operator==</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.
+<p>References <a href="#a4dc5b5d3a4fe7693a2982eb6de5dacfe">operator==</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -203,7 +207,8 @@ References <a href="#a4dc5b5d3a4fe7693a2982eb6de5dacfe">operator==</a> and <a hr
 <div class="doxyMemberDoc">
 
 
-Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -219,9 +224,11 @@ Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE\_SPECIFIERS</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE_SPECIFIERS</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.</p>
 
-Referenced by <a href="#abf05eb3083ab16aea5ec98f06820f8a0">operator!=</a>.
+
+<p>Referenced by <a href="#abf05eb3083ab16aea5ec98f06820f8a0">operator!=</a>.</p>
+
 </div>
 </div>
 
@@ -256,7 +263,8 @@ Referenced by <a href="#abf05eb3083ab16aea5ec98f06820f8a0">operator!=</a>.
 
 
 
-Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -265,9 +273,11 @@ Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Reference <a href="#afbf2149359d4d4a0f9db4cd57e2b64a8">reset</a>.
+<p>Reference <a href="#afbf2149359d4d4a0f9db4cd57e2b64a8">reset</a>.</p>
 
-Referenced by <a href="#adc33a4d3e53f2ef1064cb32f0c3811e9">merge</a>, <a href="#abf05eb3083ab16aea5ec98f06820f8a0">operator!=</a> and <a href="#a4dc5b5d3a4fe7693a2982eb6de5dacfe">operator==</a>.
+
+<p>Referenced by <a href="#adc33a4d3e53f2ef1064cb32f0c3811e9">merge</a>, <a href="#abf05eb3083ab16aea5ec98f06820f8a0">operator!=</a> and <a href="#a4dc5b5d3a4fe7693a2982eb6de5dacfe">operator==</a>.</p>
+
 </div>
 </div>
 
@@ -302,7 +312,8 @@ Referenced by <a href="#adc33a4d3e53f2ef1064cb32f0c3811e9">merge</a>, <a href="#
 
 
 
-Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -316,7 +327,8 @@ Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE\_SPECIFIERS</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE_SPECIFIERS</a> and <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -345,7 +357,8 @@ References <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad71
 
 
 
-Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -354,7 +367,8 @@ Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Referenced by <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.
+<p>Referenced by <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.</p>
+
 </div>
 </div>
 
@@ -383,7 +397,8 @@ Referenced by <a href="#a3cf48bb190be47d496fd56c7ce9ddd40">TypeSpecifier</a>.
 
 
 
-Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -405,9 +420,11 @@ Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE\_SPECIFIERS</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/types-h/#a41aa73212f991bad715476690521886c">TYPE_SPECIFIERS</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/fmt/formatter-3bc0763cf07398a7c5644ce192ea65ea/#a5185feae6dcec945c021b1e40ced47f1">fmt::formatter&lt; TypeSpecifier &gt;::format</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a001e5e4b6b99ed83d3333cc3adf5afd2">printNavTree</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/fmt/formatter-3bc0763cf07398a7c5644ce192ea65ea/#a5185feae6dcec945c021b1e40ced47f1">fmt::formatter&lt; TypeSpecifier &gt;::format</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a001e5e4b6b99ed83d3333cc3adf5afd2">printNavTree</a>.</p>
+
 </div>
 </div>
 

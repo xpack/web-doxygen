@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Private` Class Reference
 
-<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class reg::Ex::Private { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates the private part. <a href="#aa3f746ba480aec926ff3b83fdebb197a">More...</a>
+<p>Creates the private part. <a href="#aa3f746ba480aec926ff3b83fdebb197a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -56,7 +56,7 @@ Creates the private part. <a href="#aa3f746ba480aec926ff3b83fdebb197a">More...</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching. <a href="#a5ae763e5ab5231eae1133e68093c49be">More...</a>
+<p>Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching. <a href="#a5ae763e5ab5231eae1133e68093c49be">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ Compiles a regular expression passed as a string into a stream of tokens that ca
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Internal matching routine. <a href="#acb10ddb380fa79ce0a346360feffce11">More...</a>
+<p>Internal matching routine. <a href="#acb10ddb380fa79ce0a346360feffce11">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,7 @@ Internal matching routine. <a href="#acb10ddb380fa79ce0a346360feffce11">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Flag indicating the expression was successfully compiled. <a href="#a3d43ef3d3304bc786d75340eac860780">More...</a>
+<p>Flag indicating the expression was successfully compiled. <a href="#a3d43ef3d3304bc786d75340eac860780">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,7 +104,7 @@ Flag indicating the expression was successfully compiled. <a href="#a3d43ef3d330
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The token stream representing the compiled regular expression. <a href="#afd98016e2bda56b81308bdc907569ead">More...</a>
+<p>The token stream representing the compiled regular expression. <a href="#afd98016e2bda56b81308bdc907569ead">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -118,7 +118,7 @@ The token stream representing the compiled regular expression. <a href="#afd9801
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The pattern string as passed by the user. <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">More...</a>
+<p>The pattern string as passed by the user. <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -129,9 +129,10 @@ The pattern string as passed by the user. <a href="#a68af93bd4fbea3f82ee8e36af3a
 
 ## Description {#details}
 
-<a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression.
+<p><a href="/web-doxygen/docs/api/classes/reg/ex/private">Private</a> members of a regular expression.</p>
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,9 +161,10 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 <div class="doxyMemberDoc">
 
-Creates the private part.
+<p>Creates the private part.</p>
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -174,7 +176,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="#afd98016e2bda56b81308bdc907569ead">data</a> and <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">pattern</a>.
+<p>References <a href="#afd98016e2bda56b81308bdc907569ead">data</a> and <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">pattern</a>.</p>
+
 </div>
 </div>
 
@@ -202,9 +205,10 @@ References <a href="#afd98016e2bda56b81308bdc907569ead">data</a> and <a href="#a
 </div>
 <div class="doxyMemberDoc">
 
-Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching.
+<p>Compiles a regular expression passed as a string into a stream of tokens that can be used for efficient searching.</p>
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -422,7 +426,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">reg::PToken::Alpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">reg::PToken::AlphaNum</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">reg::PToken::Any</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">reg::PToken::BeginCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">reg::PToken::BeginOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">reg::PToken::CharClass</a>, <a href="#afd98016e2bda56b81308bdc907569ead">data</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">reg::PToken::Digit</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a87557f11575c0ad78e4e28abedc13b6e">reg::PToken::End</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">reg::PToken::EndCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">reg::PToken::EndOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">reg::PToken::EndOfWord</a>, <a href="#a3d43ef3d3304bc786d75340eac860780">error</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">reg::PToken::NegCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">reg::PToken::Optional</a>, <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">pattern</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">reg::PToken::Star</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#ac897faa4d75c143ca24924a5754aa369">reg::PToken::value</a> and <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">reg::PToken::WhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">reg::PToken::Alpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">reg::PToken::AlphaNum</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">reg::PToken::Any</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">reg::PToken::BeginCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">reg::PToken::BeginOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ac1033972d40514e4ae13188bd76154a3">reg::PToken::CharClass</a>, <a href="#afd98016e2bda56b81308bdc907569ead">data</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">reg::PToken::Digit</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a87557f11575c0ad78e4e28abedc13b6e">reg::PToken::End</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">reg::PToken::EndCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">reg::PToken::EndOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">reg::PToken::EndOfWord</a>, <a href="#a3d43ef3d3304bc786d75340eac860780">error</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">reg::PToken::NegCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">reg::PToken::Optional</a>, <a href="#a68af93bd4fbea3f82ee8e36af3a6e68b">pattern</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">reg::PToken::Star</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#ac897faa4d75c143ca24924a5754aa369">reg::PToken::value</a> and <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">reg::PToken::WhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -444,7 +449,7 @@ References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7f
 </div>
 <div class="doxyMemberDoc">
 
-Internal matching routine.
+<p>Internal matching routine.</p>
 
 
 <dl class="doxyParamsList">
@@ -453,33 +458,34 @@ Internal matching routine.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tokenPos</td>
-<td class="doxyParamItemDescription">Offset into the token stream.</td>
+<td class="doxyParamItemDescription"><p>Offset into the token stream.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">tokenLen</td>
-<td class="doxyParamItemDescription">The length of the token stream.</td>
+<td class="doxyParamItemDescription"><p>The length of the token stream.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">str</td>
-<td class="doxyParamItemDescription">The input string to match against.</td>
+<td class="doxyParamItemDescription"><p>The input string to match against.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">match</td>
-<td class="doxyParamItemDescription">The object used to store the matching results.</td>
+<td class="doxyParamItemDescription"><p>The object used to store the matching results.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">pos</td>
-<td class="doxyParamItemDescription">The position in the input string to start with matching</td>
+<td class="doxyParamItemDescription"><p>The position in the input string to start with matching</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">level</td>
-<td class="doxyParamItemDescription">Recursion level (used for debugging)</td>
+<td class="doxyParamItemDescription"><p>Recursion level (used for debugging)</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -687,9 +693,11 @@ Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">reg::PToken::Alpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">reg::PToken::AlphaNum</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">reg::PToken::Any</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">reg::PToken::BeginCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">reg::PToken::BeginOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="#afd98016e2bda56b81308bdc907569ead">data</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">reg::PToken::Digit</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">reg::PToken::EndCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">reg::PToken::EndOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">reg::PToken::EndOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a93203bf3f74828336b477ea31fde1a1c">reg::PToken::from</a>, <a href="/web-doxygen/docs/api/classes/reg/match/#a9c65c2d340c94527959a847251d67d1e">reg::Match::init</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ae874a7238f39cd3a0510485027015ef5">reg::isalnum</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a10c804e03b6d547a3748c3042fd5120b">reg::isalpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#aef9ece1aec9504adcf4deb03d803c378">reg::PToken::isCharClass</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#af7ff1342d768df1b4b668b072a33863f">reg::isdigit</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ad6d291c9b035591b3bc2373dfbb14315">reg::isspace</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9648ec9cffa7fc0d1ef165fc5882a552">reg::PToken::kindStr</a>, <a href="/web-doxygen/docs/api/classes/reg/match/#ad3ac6e9dcc408056ba2e32861da9294e">reg::Match::length</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a>, <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">reg::PToken::NegCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">reg::PToken::Optional</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">reg::PToken::Star</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a2def1e14eeb96c08b25e4c906af071b6">reg::PToken::to</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#ac897faa4d75c143ca24924a5754aa369">reg::PToken::value</a> and <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">reg::PToken::WhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6132295fcf5570fb8b0a944ef322a598">reg::PToken::Alpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ace2517d5ebbfbacb523d54ac962ec398">reg::PToken::AlphaNum</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aed36a1ef76a59ee3f15180e0441188ad">reg::PToken::Any</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a34589c92a4e8ff59eb14c5536e760929">reg::PToken::asciiValue</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ae3d62aaae3ff1d7c42a73fb4e5c7770e">reg::PToken::BeginCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a6ed83ba4fb11c5a677335f0e3e60c153">reg::PToken::BeginOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0ab906a68270604e574f9efe7e4e04fb00">reg::PToken::BeginOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a76a40e4f974fd895a0a2598c1cee28b4">reg::PToken::Character</a>, <a href="#afd98016e2bda56b81308bdc907569ead">data</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a32adf79142f0a426b5e782fb7cd4cad3">DBG</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a83d25adab16b42ea36124318d7e6f4c1">reg::PToken::Digit</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7a8c9c3e0b4b26bfe0ac9f9eb0745666">reg::PToken::EndCapture</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a5d8c95ca9e91a87bd9c90b0f309fd740">reg::PToken::EndOfLine</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a0074dd6a055a769d905f34a741d19511">reg::PToken::EndOfWord</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a93203bf3f74828336b477ea31fde1a1c">reg::PToken::from</a>, <a href="/web-doxygen/docs/api/classes/reg/match/#a9c65c2d340c94527959a847251d67d1e">reg::Match::init</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ae874a7238f39cd3a0510485027015ef5">reg::isalnum</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a10c804e03b6d547a3748c3042fd5120b">reg::isalpha</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#aef9ece1aec9504adcf4deb03d803c378">reg::PToken::isCharClass</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#af7ff1342d768df1b4b668b072a33863f">reg::isdigit</a>, <a href="/web-doxygen/docs/api/files/src/markdown-cpp/#a243e6edb7617162067edc19f3f20bdb9">isIdChar</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#ad6d291c9b035591b3bc2373dfbb14315">reg::isspace</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a5b947291aff91a346d6526074989a9fa">reg::PToken::kind</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9648ec9cffa7fc0d1ef165fc5882a552">reg::PToken::kindStr</a>, <a href="/web-doxygen/docs/api/classes/reg/match/#ad3ac6e9dcc408056ba2e32861da9294e">reg::Match::length</a>, <a href="/web-doxygen/docs/api/classes/reg/ex/#a45dcd4878848bcefa4894aa48a2d9b83">reg::Ex::match</a>, <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a7751fdcc5884cd61bbf7c0e9ddc4d5b9">reg::PToken::NegCharClass</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0aebb061953c0454b2c8ee7b0ac615ebcd">reg::PToken::Optional</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a26f93e6e68e28a698377e941cb59f29a">reg::PToken::Star</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a2def1e14eeb96c08b25e4c906af071b6">reg::PToken::to</a>, <a href="/web-doxygen/docs/api/classes/reg/ptoken/#ac897faa4d75c143ca24924a5754aa369">reg::PToken::value</a> and <a href="/web-doxygen/docs/api/classes/reg/ptoken/#a9649bb8ecf7bd3f7faf60b56c6fa72f0a1043facb02056549cfa595ce3622fe77">reg::PToken::WhiteSpace</a>.</p>
 
-Referenced by <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>.
+
+<p>Referenced by <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -717,9 +725,10 @@ Referenced by <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a>.
 </div>
 <div class="doxyMemberDoc">
 
-The token stream representing the compiled regular expression.
+<p>The token stream representing the compiled regular expression.</p>
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -728,7 +737,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>, <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a> and <a href="#aa3f746ba480aec926ff3b83fdebb197a">Private</a>.
+<p>Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>, <a href="#acb10ddb380fa79ce0a346360feffce11">matchAt</a> and <a href="#aa3f746ba480aec926ff3b83fdebb197a">Private</a>.</p>
+
 </div>
 </div>
 
@@ -750,9 +760,10 @@ Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>, <a href=
 </div>
 <div class="doxyMemberDoc">
 
-Flag indicating the expression was successfully compiled.
+<p>Flag indicating the expression was successfully compiled.</p>
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -761,7 +772,8 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>.
+<p>Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>.</p>
+
 </div>
 </div>
 
@@ -783,9 +795,10 @@ Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a>.
 </div>
 <div class="doxyMemberDoc">
 
-The pattern string as passed by the user.
+<p>The pattern string as passed by the user.</p>
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-cpp">regex.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -794,7 +807,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-cp
 </div>
 
 
-Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a> and <a href="#aa3f746ba480aec926ff3b83fdebb197a">Private</a>.
+<p>Referenced by <a href="#a5ae763e5ab5231eae1133e68093c49be">compile</a> and <a href="#aa3f746ba480aec926ff3b83fdebb197a">Private</a>.</p>
+
 </div>
 </div>
 

@@ -126,7 +126,8 @@ class CodeFragmentManager { ... }
 </table>
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -152,7 +153,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 
 
 
-Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -163,9 +165,11 @@ Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/codefrag
 </div>
 
 
-Reference <a href="#ae86de07778bcb4412a419bb0dc1f47cd">p</a>.
+<p>Reference <a href="#ae86de07778bcb4412a419bb0dc1f47cd">p</a>.</p>
 
-Referenced by <a href="#a6b0cbb8f093db7897882856c9172886e">instance</a> and <a href="#aa265eeac1e211cdb969c3f0dc213ff6b">\~CodeFragmentManager</a>.
+
+<p>Referenced by <a href="#a6b0cbb8f093db7897882856c9172886e">instance</a> and <a href="#aa265eeac1e211cdb969c3f0dc213ff6b">~CodeFragmentManager</a>.</p>
+
 </div>
 </div>
 
@@ -195,9 +199,11 @@ Referenced by <a href="#a6b0cbb8f093db7897882856c9172886e">instance</a> and <a h
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.</p>
 
-Reference <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a>.
+
+<p>Reference <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a>.</p>
+
 </div>
 </div>
 
@@ -227,7 +233,8 @@ Reference <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a>.
 
 
 
-Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -335,9 +342,11 @@ Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/codefrag
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO\_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO\_TRACE\_ADD</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad4426e053bb11589c58bd5c6828817e2">getFileFilter</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ae86de07778bcb4412a419bb0dc1f47cd">p</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a19687ee2473747b1c587aa6c033daa6c">Doxygen::parseSourcesNeeded</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a1aff765143dc4bf8ef68f698234e10f6">Recorder</a>, <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166fa9eb6c282a2351da070e85fe63">OutputCodeRecorder::replay</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a210042a14f3a393be09c743c219126ae">AUTO_TRACE</a>, <a href="/web-doxygen/docs/api/files/src/docnode-cpp/#a05be586784f268b947ad777aa316c4e6">AUTO_TRACE_ADD</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/filedef-cpp/#a3d27ebc7a7c763172f0ed0a7d7d56026">createFileDef</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#add9c23cbe0868fc947a85d157087de02">FileInfo::dirPath</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad4426e053bb11589c58bd5c6828817e2">getFileFilter</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af18ed4687438f52f5c7fe9dfb226244c">getFileNameExtension</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a1b56719a14e986911d90aae56767dd5b">getLanguageFromFileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#ae86de07778bcb4412a419bb0dc1f47cd">p</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a3882f6ce51621c77d409060e46cae378">Doxygen::parserManager</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a19687ee2473747b1c587aa6c033daa6c">Doxygen::parseSourcesNeeded</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a1aff765143dc4bf8ef68f698234e10f6">Recorder</a>, <a href="/web-doxygen/docs/api/classes/outputcoderecorder/#a89166fa9eb6c282a2351da070e85fe63">OutputCodeRecorder::replay</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -367,7 +376,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +386,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/codefragm
 </div>
 
 
-Referenced by <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a> and <a href="#a1aa709870f1258a753c2b952f95175be">parseCodeFragment</a>.
+<p>Referenced by <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a> and <a href="#a1aa709870f1258a753c2b952f95175be">parseCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -411,7 +422,8 @@ Referenced by <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</
 
 
 
-Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefragment-h">codefragment.h</a>, definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/codefragment-cpp">codefragment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -424,9 +436,11 @@ Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/codefrag
 </div>
 
 
-Reference <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a>.
+<p>Reference <a href="#aab4632a864ea279b13117ba0ce00a80c">CodeFragmentManager</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a5826ce8044be2553216f205ef64ead74">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#abfd0aac31a863e63e61dc67da22a349c">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#ade1c6d00759ad30078d9f5a51cbfc009">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#a103c34bd91c4bf67cadfca22f2b61466">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#ac315ddf81b73a005764278a3c190d1a4">RTFDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#a32d2017f02e0835ea865360773ac1eda">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 

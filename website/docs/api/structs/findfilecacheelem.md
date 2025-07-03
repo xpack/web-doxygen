@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FindFileCacheElem` Struct Reference
 
-<a href="/web-doxygen/docs/api/classes/cache">Cache</a> element for the file name to <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> mapping cache. <a href="#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/cache">Cache</a> element for the file name to <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> mapping cache. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -78,9 +78,10 @@ struct FindFileCacheElem { ... }
 
 ## Description {#details}
 
-<a href="/web-doxygen/docs/api/classes/cache">Cache</a> element for the file name to <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> mapping cache.
+<p><a href="/web-doxygen/docs/api/classes/cache">Cache</a> element for the file name to <a href="/web-doxygen/docs/api/classes/filedef">FileDef</a> mapping cache.</p>
 
-Definition at line 3405 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 3405 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -111,7 +112,8 @@ Definition at line 3405 of file <a href="/web-doxygen/docs/api/files/src/util-cp
 
 
 
-Definition at line 3407 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 3407 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -120,7 +122,8 @@ Definition at line 3407 of file <a href="/web-doxygen/docs/api/files/src/util-cp
 </div>
 
 
-References <a href="#a39ee6985f0ee3593ee2d8d0b9e0f5006">fileDef</a> and <a href="#a380e1879b7462592ef5eb5c7289f5714">isAmbig</a>.
+<p>References <a href="#a39ee6985f0ee3593ee2d8d0b9e0f5006">fileDef</a> and <a href="#a380e1879b7462592ef5eb5c7289f5714">isAmbig</a>.</p>
+
 </div>
 </div>
 
@@ -150,7 +153,8 @@ References <a href="#a39ee6985f0ee3593ee2d8d0b9e0f5006">fileDef</a> and <a href=
 
 
 
-Definition at line 3408 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 3408 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +163,8 @@ Definition at line 3408 of file <a href="/web-doxygen/docs/api/files/src/util-cp
 </div>
 
 
-Referenced by <a href="#abe37384216a36e8e4e225ebb8b487dd7">FindFileCacheElem</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>.
+<p>Referenced by <a href="#abe37384216a36e8e4e225ebb8b487dd7">FindFileCacheElem</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>.</p>
+
 </div>
 </div>
 
@@ -183,7 +188,8 @@ Referenced by <a href="#abe37384216a36e8e4e225ebb8b487dd7">FindFileCacheElem</a>
 
 
 
-Definition at line 3409 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 3409 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -192,7 +198,8 @@ Definition at line 3409 of file <a href="/web-doxygen/docs/api/files/src/util-cp
 </div>
 
 
-Referenced by <a href="#abe37384216a36e8e4e225ebb8b487dd7">FindFileCacheElem</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>.
+<p>Referenced by <a href="#abe37384216a36e8e4e225ebb8b487dd7">FindFileCacheElem</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>.</p>
+
 </div>
 </div>
 

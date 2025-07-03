@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlHelp` Class Reference
 
-A class that generated the HTML Help specific files. <a href="#details">More...</a>
+<p>A class that generated the HTML Help specific files. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class HtmlHelp { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
+<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -315,12 +315,14 @@ Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/
 
 ## Description {#details}
 
-A class that generated the HTML Help specific files.
+<p>A class that generated the HTML Help specific files.</p>
 
 
-These files can be used with the Microsoft HTML Help workshop to generate compressed HTML files (.chm).
+<p>These files can be used with the Microsoft HTML Help workshop to generate compressed HTML files (.chm).</p>
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -565,9 +567,11 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 </dl>
 
 
-used in imageNumber param of HTMLHelp::addContentsItem() function to specify document icon in tree view. Writes &lt;param name="ImageNumber" value="xx"&gt; in .HHC file.
+<p>used in imageNumber param of HTMLHelp::addContentsItem() function to specify document icon in tree view. Writes &lt;param name="ImageNumber" value="xx"&gt; in .HHC file.</p>
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -627,9 +631,11 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 
 
 
-Constructs an html object. The object has to be <a href="#acf6cb7c477c71f2031b5831f979991d5">initialized</a> before it can be used.
+<p>Constructs an html object. The object has to be <a href="#acf6cb7c477c71f2031b5831f979991d5">initialized</a> before it can be used.</p>
 
-Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 361 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -638,9 +644,11 @@ Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
+<p>Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.</p>
 
-Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">\~HtmlHelp</a>.
+
+<p>Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">~HtmlHelp</a>.</p>
+
 </div>
 </div>
 
@@ -670,9 +678,11 @@ Referenced by <a href="#a53ff23898ba7e49de5ce6dba03675f82">\~HtmlHelp</a>.
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
 
-Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
+
+<p>Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.</p>
+
 </div>
 </div>
 
@@ -708,7 +718,8 @@ Reference <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>.
 
 
 
-Add an list item to the contents file.
+<p>Add an list item to the contents file.</p>
+
 
 <dl class="doxyParamsList">
 <dt class="doxyParamsTableTitle">Parameters</dt>
@@ -716,45 +727,46 @@ Add an list item to the contents file.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">isDir</td>
-<td class="doxyParamItemDescription">boolean indicating if this is a dir or file entry</td>
+<td class="doxyParamItemDescription"><p>boolean indicating if this is a dir or file entry</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">name</td>
-<td class="doxyParamItemDescription">the name of the item.</td>
+<td class="doxyParamItemDescription"><p>the name of the item.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">ref</td>
-<td class="doxyParamItemDescription">the URL of to the item.</td>
+<td class="doxyParamItemDescription"><p>the URL of to the item.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">file</td>
-<td class="doxyParamItemDescription">the file in which the item is defined.</td>
+<td class="doxyParamItemDescription"><p>the file in which the item is defined.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">anchor</td>
-<td class="doxyParamItemDescription">the anchor of the item.</td>
+<td class="doxyParamItemDescription"><p>the anchor of the item.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">separateIndex</td>
-<td class="doxyParamItemDescription">not used.</td>
+<td class="doxyParamItemDescription"><p>not used.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">addToNavIndex</td>
-<td class="doxyParamItemDescription">not used.</td>
+<td class="doxyParamItemDescription"><p>not used.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">def</td>
-<td class="doxyParamItemDescription">not used.</td>
+<td class="doxyParamItemDescription"><p>not used.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">nameAsHtml</td>
-<td class="doxyParamItemDescription">name parameter in HTML format</td>
+<td class="doxyParamItemDescription"><p>name parameter in HTML format</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -816,7 +828,8 @@ Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caaec1852e9e27b296742d6c36b9c416920">BOOK\_CLOSED</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caa3e9b105181d342b365fe4bdee8acf84b">TEXT</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caaec1852e9e27b296742d6c36b9c416920">BOOK_CLOSED</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a06ba0c2593b3fd5f103151bd342e206f">externalRef</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>, <a href="#a7fa2b031d786cb7a678e88809c2566caa3e9b105181d342b365fe4bdee8acf84b">TEXT</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -845,7 +858,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 629 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -857,7 +871,8 @@ Declaration at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -886,7 +901,8 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 
 
 
-Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 485 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -898,7 +914,8 @@ Declaration at line 83 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -927,7 +944,8 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 
 
 
-Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -954,7 +972,8 @@ Declaration at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -983,7 +1002,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -995,7 +1015,8 @@ Declaration at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -1025,15 +1046,17 @@ References <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-
 
 
 
-Decrease the level of the contents hierarchy. This will end the unnumber HTML list.
+<p>Decrease the level of the contents hierarchy. This will end the unnumber HTML list.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a></dd>
+<dd><p><a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth()</a></p></dd>
 </dl>
 
 
-Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1047,7 +1070,8 @@ Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
+<p>Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.</p>
+
 </div>
 </div>
 
@@ -1077,15 +1101,17 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-Finalizes the HTML help. This will finish and close the htmlhelp contents file and the htmlhelp index file.
+<p>Finalizes the HTML help. This will finish and close the htmlhelp contents file and the htmlhelp index file.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a></dd>
+<dd><p><a href="#acf6cb7c477c71f2031b5831f979991d5">initialize()</a></p></dd>
 </dl>
 
 
-Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 494 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1113,7 +1139,8 @@ Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
+<p>Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.</p>
+
 </div>
 </div>
 
@@ -1143,15 +1170,17 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-Increase the level of the contents hierarchy. This will start a new unnumbered HTML list in contents file.
+<p>Increase the level of the contents hierarchy. This will start a new unnumbered HTML list in contents file.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a></dd>
+<dd><p><a href="#ad76b300748e818d96676f0743738090d">decContentsDepth()</a></p></dd>
 </dl>
 
 
-Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1165,7 +1194,8 @@ Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
+<p>Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.</p>
+
 </div>
 </div>
 
@@ -1195,15 +1225,17 @@ Reference <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a>.
 
 
 
-This will create a contents file (index.hhc) and a index file (index.hhk) and write the header of those files. It also creates a project file (index.hhp)
+<p>This will create a contents file (index.hhc) and a index file (index.hhk) and write the header of those files. It also creates a project file (index.hhp)</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a></dd>
+<dd><p><a href="#a66375adceef242d73c6554bd7fba6cf7">finalize()</a></p></dd>
 </dl>
 
 
-Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>, definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1246,7 +1278,8 @@ Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#af2b3923cd07004204fb0c542100b28e8">hhcFileName</a>, <a href="#a110521fd634c3c63e47cfe47e210a848">hhkFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#af2b3923cd07004204fb0c542100b28e8">hhcFileName</a>, <a href="#a110521fd634c3c63e47cfe47e210a848">hhkFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a6508afcd62c3c90466a5003a52d1fcaa">p</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.</p>
+
 </div>
 </div>
 
@@ -1276,7 +1309,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb569
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 </div>
 </div>
 
@@ -1306,7 +1340,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1315,7 +1350,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 </div>
 
 
-Referenced by <a href="#a1503b3b4d76049d44a45452d44722d86">addContentsItem</a>, <a href="#a01a6226c4a4e8c587a78af168e5e3938">addImageFile</a>, <a href="#a06d4ceaf4d108051a76d49986f56b8a0">addIndexFile</a>, <a href="#a247f8e8a9f527f64cbd47875876ee62b">addIndexItem</a>, <a href="#ac6c55156ed17cff5a6cb350df9182d06">addStyleSheetFile</a>, <a href="#ad76b300748e818d96676f0743738090d">decContentsDepth</a>, <a href="#a66375adceef242d73c6554bd7fba6cf7">finalize</a>, <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>, <a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.
+<p>Referenced by <a href="#a1503b3b4d76049d44a45452d44722d86">addContentsItem</a>, <a href="#a01a6226c4a4e8c587a78af168e5e3938">addImageFile</a>, <a href="#a06d4ceaf4d108051a76d49986f56b8a0">addIndexFile</a>, <a href="#a247f8e8a9f527f64cbd47875876ee62b">addIndexItem</a>, <a href="#ac6c55156ed17cff5a6cb350df9182d06">addStyleSheetFile</a>, <a href="#ad76b300748e818d96676f0743738090d">decContentsDepth</a>, <a href="#a66375adceef242d73c6554bd7fba6cf7">finalize</a>, <a href="#a0d86f84971a446fc8c61c1a64f8eaaf8">HtmlHelp</a>, <a href="#aca0008f8813f28f23ca5bcaea25a7bec">incContentsDepth</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.</p>
+
 </div>
 </div>
 
@@ -1350,7 +1386,8 @@ Referenced by <a href="#a1503b3b4d76049d44a45452d44722d86">addContentsItem</a>, 
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1359,7 +1396,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.</p>
+
 </div>
 </div>
 
@@ -1388,7 +1426,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1397,7 +1436,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="#acf6cb7c477c71f2031b5831f979991d5">initialize</a>.</p>
+
 </div>
 </div>
 
@@ -1426,7 +1466,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e90871
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-h">htmlhelp.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1435,7 +1476,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>.</p>
+
 </div>
 </div>
 

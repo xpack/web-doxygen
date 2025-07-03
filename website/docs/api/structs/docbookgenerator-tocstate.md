@@ -71,7 +71,8 @@ struct DocbookGenerator::TocState { ... }
 </table>
 
 
-Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
+<p>Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -97,7 +98,8 @@ Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/docbookg
 
 
 
-Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
+<p>Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,8 @@ Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/docbookg
 
 
 
-Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
+<p>Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +162,8 @@ Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/docbookg
 
 
 
-Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.
+<p>Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/docbookgen-h">docbookgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -41,7 +41,7 @@ class vhdl::parser::TokenMgrError { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-No arg constructor. <a href="#a860806ee07d5e8223004cc4dae5386e9">More...</a>
+<p>No arg constructor. <a href="#a860806ee07d5e8223004cc4dae5386e9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ No arg constructor. <a href="#a860806ee07d5e8223004cc4dae5386e9">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Constructor with message and reason. <a href="#aa58e9b420bb0e53d5944cc96e8a8b349">More...</a>
+<p>Constructor with message and reason. <a href="#aa58e9b420bb0e53d5944cc96e8a8b349">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ Constructor with message and reason. <a href="#aa58e9b420bb0e53d5944cc96e8a8b349
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Full Constructor. <a href="#a73f6a2866b37dc073293f43eaafafdbf">More...</a>
+<p>Full Constructor. <a href="#a73f6a2866b37dc073293f43eaafafdbf">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ Full Constructor. <a href="#a73f6a2866b37dc073293f43eaafafdbf">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a detailed message for the Error when it is thrown by the token manager to indicate a lexical error. <a href="#a50f498a288427b988cd7021a977378f8">More...</a>
+<p>Returns a detailed message for the Error when it is thrown by the token manager to indicate a lexical error. <a href="#a50f498a288427b988cd7021a977378f8">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -103,7 +103,7 @@ Returns a detailed message for the Error when it is thrown by the token manager 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-You can also modify the body of this method to customize your error messages. <a href="#a17a5265b1c68b955c03c15e142346250">More...</a>
+<p>You can also modify the body of this method to customize your error messages. <a href="#a17a5265b1c68b955c03c15e142346250">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -123,7 +123,7 @@ You can also modify the body of this method to customize your error messages. <a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Indicates the reason why the exception is thrown. <a href="#ac142542be128305d21d59277db52eb93">More...</a>
+<p>Indicates the reason why the exception is thrown. <a href="#ac142542be128305d21d59277db52eb93">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -152,7 +152,8 @@ Indicates the reason why the exception is thrown. <a href="#ac142542be128305d21d
 </table>
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -176,9 +177,10 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 <div class="doxyMemberDoc">
 
-No arg constructor.
+<p>No arg constructor.</p>
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 </div>
 </div>
 
@@ -200,11 +202,13 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 <div class="doxyMemberDoc">
 
-Constructor with message and reason.
+<p>Constructor with message and reason.</p>
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
 
-Reference <a href="#a4dd946e2e5c74b2c9bcf818e66dd60e0">message</a>.
+
+<p>Reference <a href="#a4dd946e2e5c74b2c9bcf818e66dd60e0">message</a>.</p>
+
 </div>
 </div>
 
@@ -226,9 +230,10 @@ Reference <a href="#a4dd946e2e5c74b2c9bcf818e66dd60e0">message</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Full Constructor.
+<p>Full Constructor.</p>
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 </div>
 </div>
 
@@ -256,19 +261,22 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 <div class="doxyMemberDoc">
 
-You can also modify the body of this method to customize your error messages.
+<p>You can also modify the body of this method to customize your error messages.</p>
 
 
-For example, cases like LOOP\_DETECTED and INVALID\_LEXICAL\_STATE are not of end-users concern, so you can return something like :
+<p>For example, cases like LOOP_DETECTED and INVALID_LEXICAL_STATE are not of end-users concern, so you can return something like :</p>
+
 
 
 <pre><code>"Internal Error : Please file a bug report .... "
 </code></pre>
 
 
-from this method for such cases in the release version of your parser.
+<p>from this method for such cases in the release version of your parser.</p>
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 </div>
 </div>
 
@@ -290,12 +298,14 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 <div class="doxyMemberDoc">
 
-Returns a detailed message for the Error when it is thrown by the token manager to indicate a lexical error.
+<p>Returns a detailed message for the Error when it is thrown by the token manager to indicate a lexical error.</p>
 
 
-Parameters : EOFSeen : indicates if EOF caused the lexical error curLexState : lexical state in which this error occurred errorLine : line number when the error occurred errorColumn : column number when the error occurred errorAfter : prefix that was seen before this error occurred curchar : the offending character Note: You can customize the lexical error message by modifying this method.
+<p>Parameters : EOFSeen : indicates if EOF caused the lexical error curLexState : lexical state in which this error occurred errorLine : line number when the error occurred errorColumn : column number when the error occurred errorAfter : prefix that was seen before this error occurred curchar : the offending character Note: You can customize the lexical error message by modifying this method.</p>
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 </div>
 </div>
 
@@ -323,12 +333,14 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 <div class="doxyMemberDoc">
 
-Indicates the reason why the exception is thrown.
+<p>Indicates the reason why the exception is thrown.</p>
 
 
-It will have one of the above 4 values.
+<p>It will have one of the above 4 values.</p>
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -365,7 +377,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/vhdlparser/tokenmgrerror-h">TokenMgrError.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -374,7 +387,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/vhdlparser/to
 </div>
 
 
-Referenced by <a href="#aa58e9b420bb0e53d5944cc96e8a8b349">TokenMgrError</a>.
+<p>Referenced by <a href="#aa58e9b420bb0e53d5944cc96e8a8b349">TokenMgrError</a>.</p>
+
 </div>
 </div>
 

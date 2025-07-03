@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Iterator` Class Reference
 
-Class to iterate through matches. <a href="#details">More...</a>
+<p>Class to iterate through matches. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -112,7 +112,7 @@ class reg::Iterator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates an end-of-sequence iterator. <a href="#a87c2aec67346b247815d974cad0bfc2a">More...</a>
+<p>Creates an end-of-sequence iterator. <a href="#a87c2aec67346b247815d974cad0bfc2a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -126,7 +126,7 @@ Creates an end-of-sequence iterator. <a href="#a87c2aec67346b247815d974cad0bfc2a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search. <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">More...</a>
+<p>Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search. <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -185,7 +185,7 @@ Creates an iterator for input string <em>str</em>, using regular expression <em>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true if the iterators point to the same match (or both are end-of-sequence iterators) <a href="#ad00ffd6c0f81540663118248ca9f1aa3">More...</a>
+<p>Returns true if the iterators point to the same match (or both are end-of-sequence iterators) <a href="#ad00ffd6c0f81540663118248ca9f1aa3">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -199,7 +199,7 @@ Returns true if the iterators point to the same match (or both are end-of-sequen
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true if the iterators are not pointing to the same match. <a href="#af0ae906d2bb88ff783d099521209753f">More...</a>
+<p>Returns true if the iterators are not pointing to the same match. <a href="#af0ae906d2bb88ff783d099521209753f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -213,7 +213,7 @@ Returns true if the iterators are not pointing to the same match. <a href="#af0a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a reference to the current match. <a href="#a1554335044a2747390e3e94b7f220575">More...</a>
+<p>Returns a reference to the current match. <a href="#a1554335044a2747390e3e94b7f220575">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -227,7 +227,7 @@ Returns a reference to the current match. <a href="#a1554335044a2747390e3e94b7f2
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a pointer to the current match. <a href="#a8d0e5734c6f0d6026964916052bf35ac">More...</a>
+<p>Returns a pointer to the current match. <a href="#a8d0e5734c6f0d6026964916052bf35ac">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -241,7 +241,7 @@ Returns a pointer to the current match. <a href="#a8d0e5734c6f0d6026964916052bf3
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Advances the iterator to the next match. <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">More...</a>
+<p>Advances the iterator to the next match. <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -329,9 +329,10 @@ Advances the iterator to the next match. <a href="#a402252cc0f8cbd8dcda1a3b1dd04
 
 ## Description {#details}
 
-Class to iterate through matches.
+<p>Class to iterate through matches.</p>
 
-Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -357,7 +358,8 @@ Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -388,7 +390,8 @@ Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -419,7 +422,8 @@ Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -450,7 +454,8 @@ Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -481,7 +486,8 @@ Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -521,9 +527,10 @@ Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 <div class="doxyMemberDoc">
 
-Creates an end-of-sequence iterator.
+<p>Creates an end-of-sequence iterator.</p>
 
-Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -532,7 +539,8 @@ Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a>, <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">operator++</a> and <a href="#ad00ffd6c0f81540663118248ca9f1aa3">operator==</a>.
+<p>Referenced by <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a>, <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">operator++</a> and <a href="#ad00ffd6c0f81540663118248ca9f1aa3">operator==</a>.</p>
+
 </div>
 </div>
 
@@ -559,15 +567,17 @@ Referenced by <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a>, <a hr
 </div>
 <div class="doxyMemberDoc">
 
-Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search.
+<p>Creates an iterator for input string <em>str</em>, using regular expression <em>re</em> to search.</p>
+
 
 
 :::info
-the string and regular expression objects should remain valid while iterating.
+<p>the string and regular expression objects should remain valid while iterating.</p>
 :::
 
 
-Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -577,7 +587,8 @@ Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m\_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m\_str</a>.
+<p>References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -606,7 +617,8 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#
 
 
 
-Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 </div>
 </div>
 
@@ -635,7 +647,8 @@ Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 </div>
 </div>
 
@@ -664,7 +677,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 
 
 
-Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 </div>
 </div>
 
@@ -697,9 +711,10 @@ Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 <div class="doxyMemberDoc">
 
-Returns a pointer to the current match.
+<p>Returns a pointer to the current match.</p>
 
-Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -708,7 +723,8 @@ Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
+<p>Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m_match</a>.</p>
+
 </div>
 </div>
 
@@ -735,9 +751,10 @@ Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Returns true if the iterators are not pointing to the same match.
+<p>Returns true if the iterators are not pointing to the same match.</p>
 
-Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -746,7 +763,8 @@ Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>.
+<p>References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m_pos</a>.</p>
+
 </div>
 </div>
 
@@ -773,9 +791,10 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 </div>
 <div class="doxyMemberDoc">
 
-Returns a reference to the current match.
+<p>Returns a reference to the current match.</p>
 
-Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -784,7 +803,8 @@ Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
+<p>Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m_match</a>.</p>
+
 </div>
 </div>
 
@@ -811,9 +831,10 @@ Reference <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Advances the iterator to the next match.
+<p>Advances the iterator to the next match.</p>
 
-Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -822,7 +843,8 @@ Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a>.
+<p>References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a>.</p>
+
 </div>
 </div>
 
@@ -849,9 +871,10 @@ References <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href
 </div>
 <div class="doxyMemberDoc">
 
-Returns true if the iterators point to the same match (or both are end-of-sequence iterators)
+<p>Returns true if the iterators point to the same match (or both are end-of-sequence iterators)</p>
 
-Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -860,7 +883,8 @@ Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>.
+<p>References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m_pos</a>.</p>
+
 </div>
 </div>
 
@@ -895,7 +919,8 @@ References <a href="#a87c2aec67346b247815d974cad0bfc2a">Iterator</a> and <a href
 
 
 
-Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -915,9 +940,11 @@ Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m\_match</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m\_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m\_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m\_str</a>.
+<p>References <a href="#aa58bdff90e2e70b4f24af28daa8ce601">m_match</a>, <a href="#a51b9b1ce207fe269f65a68cb701d8cdf">m_pos</a>, <a href="#aebd291f5387d2877957ee97b04ec099c">m_re</a> and <a href="#a95fadf06dfffc63a2ce6996b7ad8e51c">m_str</a>.</p>
 
-Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">operator++</a>.
+
+<p>Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a href="#a402252cc0f8cbd8dcda1a3b1dd046a5f">operator++</a>.</p>
+
 </div>
 </div>
 
@@ -947,7 +974,8 @@ Referenced by <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a> and <a h
 
 
 
-Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -956,7 +984,8 @@ Definition at line 286 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a1554335044a2747390e3e94b7f220575">operator\*</a> and <a href="#a8d0e5734c6f0d6026964916052bf35ac">operator-&gt;</a>.
+<p>Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#a1554335044a2747390e3e94b7f220575">operator*</a> and <a href="#a8d0e5734c6f0d6026964916052bf35ac">operator-&gt;</a>.</p>
+
 </div>
 </div>
 
@@ -980,7 +1009,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href
 
 
 
-Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -989,7 +1019,8 @@ Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>, <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a> and <a href="#ad00ffd6c0f81540663118248ca9f1aa3">operator==</a>.
+<p>Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>, <a href="#af0ae906d2bb88ff783d099521209753f">operator!=</a> and <a href="#ad00ffd6c0f81540663118248ca9f1aa3">operator==</a>.</p>
+
 </div>
 </div>
 
@@ -1013,7 +1044,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a>, <a href
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1022,7 +1054,8 @@ Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>.
+<p>Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>.</p>
+
 </div>
 </div>
 
@@ -1046,7 +1079,8 @@ Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a h
 
 
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1055,7 +1089,8 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>.
+<p>Referenced by <a href="#af06b7b83aaebb6a7966f4232a613bfc3">findNext</a> and <a href="#abd6bea314f4c0b0b7f44fd80d4c1db20">Iterator</a>.</p>
+
 </div>
 </div>
 

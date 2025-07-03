@@ -263,7 +263,8 @@ class SectionType { ... }
 </table>
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -295,7 +296,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/section-h
 
 
 
-Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -304,7 +306,8 @@ Definition at line 43 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>.
+<p>Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m_level</a>.</p>
+
 </div>
 </div>
 
@@ -334,7 +337,8 @@ Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>.
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -343,7 +347,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>.
+<p>Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m_level</a>.</p>
+
 </div>
 </div>
 
@@ -379,7 +384,8 @@ Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>.
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -391,9 +397,11 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-References <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>, <a href="#a2f832ab2bf817c8581feb03e123f09d5">MaxLevel</a> and <a href="#ab44dce28d2b68c6514acbe2415a8a4d7">MinLevel</a>.
+<p>References <a href="#a32f1690324d5f6ed52e20a59c8121a86">m_level</a>, <a href="#a2f832ab2bf817c8581feb03e123f09d5">MaxLevel</a> and <a href="#ab44dce28d2b68c6514acbe2415a8a4d7">MinLevel</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#aea3a811bebf636bd4cd8abfa2c50d655">DefinitionImpl::hasSections</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#aea3a811bebf636bd4cd8abfa2c50d655">DefinitionImpl::hasSections</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -423,7 +431,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -432,9 +441,11 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m\_level</a>.
+<p>Reference <a href="#a32f1690324d5f6ed52e20a59c8121a86">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a2a7db7045021961de35c39ea7e1deb40">LatexDocVisitor::endLink</a> and <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a2a7db7045021961de35c39ea7e1deb40">LatexDocVisitor::endLink</a> and <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>.</p>
+
 </div>
 </div>
 
@@ -464,7 +475,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee3
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -473,7 +485,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="#a66ac9cce30551011fd940a18848743df">level</a>, <a href="#a34a21a31f606385f01f083c0eed8fb85">SectionType</a> and <a href="#abecb5b8d6b7f2c49a517c0d9185817fd">SectionType</a>.
+<p>Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="#a66ac9cce30551011fd940a18848743df">level</a>, <a href="#a34a21a31f606385f01f083c0eed8fb85">SectionType</a> and <a href="#abecb5b8d6b7f2c49a517c0d9185817fd">SectionType</a>.</p>
+
 </div>
 </div>
 
@@ -509,7 +522,8 @@ Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a hre
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -518,7 +532,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a04e4220513820012d31302361cf4f24d">anonymous\_namespace{tagreader.cpp}::TagFileParser::addDocAnchors</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a04e4220513820012d31302361cf4f24d">anonymous_namespace{tagreader.cpp}::TagFileParser::addDocAnchors</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a>.</p>
+
 </div>
 </div>
 
@@ -548,7 +563,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e2
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -557,7 +573,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a635a7915c47893c3aa1f40fbb9d288ac">handleToc</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#aa8a42c32241bc89aa626ce55c23b7df5">Markdown::Private::isAtxHeader</a>, <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#af45d3a0f94b1a775de47c0502e3308ef">parseIncludeOptions</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a635a7915c47893c3aa1f40fbb9d288ac">handleToc</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#aa8a42c32241bc89aa626ce55c23b7df5">Markdown::Private::isAtxHeader</a>, <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/commentcnv-l/#af45d3a0f94b1a775de47c0502e3308ef">parseIncludeOptions</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.</p>
+
 </div>
 </div>
 
@@ -587,7 +604,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904c
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -596,7 +614,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.
+<p>Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adae81723bf98cc11856ec916852cf089">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.</p>
+
 </div>
 </div>
 
@@ -626,7 +645,8 @@ Referenced by <a href="#a0f72f575ffbe5199995f7d5bd441af98">isSection</a>, <a hre
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -635,7 +655,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a> and <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>.</p>
+
 </div>
 </div>
 
@@ -665,7 +686,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -674,7 +696,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -704,7 +727,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -713,7 +737,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -743,7 +768,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -752,7 +778,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -782,7 +809,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -791,7 +819,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae911568c61ac4bb685022ae85bed4433">writeMemberList</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a> and <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae911568c61ac4bb685022ae85bed4433">writeMemberList</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a> and <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -821,7 +850,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -830,7 +860,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -860,7 +891,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -869,7 +901,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb09040f49038c4b0a999f23">HtmlGenerator::endSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a2c3eae0a840500bf1a1713cb0c56efd7">ManGenerator::endSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#aaba9d904cd1dd75b4778cc6c86ae27bb">handleSection</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae3bbc191d41c6566b7bafe7a063dd1ac">HtmlGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/latexgenerator/#a3d86ad6fe83fea8f3cb45c0e328ab7c8">LatexGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a4a1ddd2756e83bdc8f6c22c9d46dc01a">ManGenerator::startSection</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#ae4e5ba15b96993174f41a6269f233a6a">RTFGenerator::startSection</a> and <a href="/web-doxygen/docs/api/structs/markdown/private/#af7ceebe6b90c368816a6d9bd0ca501c0">Markdown::Private::writeOneLineHeaderOrRuler</a>.</p>
+
 </div>
 </div>
 
@@ -899,7 +932,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#aec484816eb0
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -908,7 +942,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a> and <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a> and <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>.</p>
+
 </div>
 </div>
 

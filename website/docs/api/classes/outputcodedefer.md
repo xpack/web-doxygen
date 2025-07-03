@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `OutputCodeDefer` Class Template Reference
 
-Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type. <a href="#details">More...</a>
+<p>Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -42,7 +42,7 @@ class OutputCodeDefer&lt;OutputCodeGen&gt; { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
+<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -406,12 +406,14 @@ Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcod
 
 ## Description {#details}
 
-Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type.
+<p>Helper template class which defers all methods of <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> to an existing object of the templated type.</p>
 
 
-This allows to add the same generator to multiple lists (one that owns the element, and others that refers to it).
+<p>This allows to add the same generator to multiple lists (one that owns the element, and others that refers to it).</p>
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -443,7 +445,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -487,7 +490,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -525,7 +529,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -563,7 +568,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -602,7 +608,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -641,7 +648,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -680,7 +688,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -719,7 +728,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -757,7 +767,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -795,7 +806,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -834,7 +846,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -873,7 +886,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -912,7 +926,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -951,7 +966,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -989,7 +1005,8 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1027,7 +1044,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1065,7 +1083,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1104,7 +1123,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1146,7 +1166,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1186,7 +1207,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1226,7 +1248,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/outputlis
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DualDirIterator` Class Template Reference
 
-helper class representing an iterator that can iterate forwards or backwards <a href="#details">More...</a>
+<p>helper class representing an iterator that can iterate forwards or backwards <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -179,9 +179,10 @@ class DualDirIterator&lt;C, I&gt; { ... }
 
 ## Description {#details}
 
-helper class representing an iterator that can iterate forwards or backwards
+<p>helper class representing an iterator that can iterate forwards or backwards</p>
 
-Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -213,7 +214,8 @@ Definition at line 559 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 
 
 
-Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -227,7 +229,8 @@ Definition at line 562 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="#aec819b73d1ab5d124e91e376a96557c7">DualDirIterator&lt; C, I &gt;::m\_container</a>, <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m\_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m\_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m\_rit</a>.
+<p>References <a href="#aec819b73d1ab5d124e91e376a96557c7">DualDirIterator&lt; C, I &gt;::m_container</a>, <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m_rit</a>.</p>
+
 </div>
 </div>
 
@@ -263,7 +266,8 @@ References <a href="#aec819b73d1ab5d124e91e376a96557c7">DualDirIterator&lt; C, I
 
 
 
-Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -275,7 +279,8 @@ Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m\_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m\_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m\_rit</a>.
+<p>References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m_rit</a>.</p>
+
 </div>
 </div>
 
@@ -305,7 +310,8 @@ References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I
 
 
 
-Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -317,7 +323,8 @@ Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m\_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m\_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m\_rit</a>.
+<p>References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m_rit</a>.</p>
+
 </div>
 </div>
 
@@ -353,7 +360,8 @@ References <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I
 
 
 
-Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -368,9 +376,11 @@ Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-References <a href="#aec819b73d1ab5d124e91e376a96557c7">DualDirIterator&lt; C, I &gt;::m\_container</a>, <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m\_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m\_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m\_rit</a>.
+<p>References <a href="#aec819b73d1ab5d124e91e376a96557c7">DualDirIterator&lt; C, I &gt;::m_container</a>, <a href="#a77c834a909aede3162f95ff478dc694f">DualDirIterator&lt; C, I &gt;::m_forward</a>, <a href="#aebec7abd6c90c22c837ad7d321f5a47b">DualDirIterator&lt; C, I &gt;::m_it</a> and <a href="#aad92bde29514b1eb15c84c2033a06416">DualDirIterator&lt; C, I &gt;::m_rit</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b48d335e036c9717ac00d">TreeDiagram::drawBoxes</a>.</p>
+
 </div>
 </div>
 
@@ -401,7 +411,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/treediagram/#a7916cd8dbb3b4
 
 
 
-Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -410,7 +421,8 @@ Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a> and <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>.
+<p>Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a> and <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>.</p>
+
 </div>
 </div>
 
@@ -435,7 +447,8 @@ Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C
 
 
 
-Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -444,7 +457,8 @@ Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator\*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.
+<p>Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.</p>
+
 </div>
 </div>
 
@@ -469,7 +483,8 @@ Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C
 
 
 
-Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -478,7 +493,8 @@ Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator\*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.
+<p>Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.</p>
+
 </div>
 </div>
 
@@ -503,7 +519,8 @@ Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C
 
 
 
-Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/diagram-cpp">diagram.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -512,7 +529,8 @@ Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/diagram-
 </div>
 
 
-Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator\*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.
+<p>Referenced by <a href="#a1373c495765f5f449d68ad5352290ffb">DualDirIterator&lt; C, I &gt;::atEnd</a>, <a href="#ab11a6e918725dcfe806978f3744e85aa">DualDirIterator&lt; C, I &gt;::DualDirIterator</a>, <a href="#aedcb6e69e2cc5ba14f50652be03a523a">DualDirIterator&lt; C, I &gt;::operator*</a> and <a href="#a14e6d78f7b7c31704e5ce390701dd0da">DualDirIterator&lt; C, I &gt;::operator++</a>.</p>
+
 </div>
 </div>
 

@@ -64,7 +64,8 @@ class KeywordHash { ... }
 </table>
 
 
-Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -95,7 +96,8 @@ Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 
 
 
-Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,9 +161,11 @@ Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 </div>
 
 
-References <a href="#aa4c39218b1d9789ab4beba8ffb08f85d">hash</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#adcb5e53d22730cfbca1e27236cd11aff">MAX\_HASH\_VALUE</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#a7073af2fa16b860b734ab4554eacf3c3">MIN\_WORD\_LENGTH</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.
+<p>References <a href="#aa4c39218b1d9789ab4beba8ffb08f85d">hash</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#adcb5e53d22730cfbca1e27236cd11aff">MAX_HASH_VALUE</a>, <a href="/web-doxygen/docs/api/files/src/defargs-l/#a7073af2fa16b860b734ab4554eacf3c3">MIN_WORD_LENGTH</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#acd9682a0a00b8d6f0c8c1e4c23153126">qstrcmp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/defargs-l/#aac9470d1061fbdc10e05184c45712c29">nameIsActuallyPartOfType</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/defargs-l/#aac9470d1061fbdc10e05184c45712c29">nameIsActuallyPartOfType</a>.</p>
+
 </div>
 </div>
 
@@ -197,7 +201,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/defargs-l/#aac9470d1061fb
 
 
 
-Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -251,7 +256,8 @@ Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 </div>
 
 
-Referenced by <a href="#ad9e74a09c57e4891e741ecf7ee23919e">find</a>.
+<p>Referenced by <a href="#ad9e74a09c57e4891e741ecf7ee23919e">find</a>.</p>
+
 </div>
 </div>
 

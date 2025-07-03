@@ -90,7 +90,8 @@ struct anonymous_namespace{tagreader.cpp}::TagFileParser::ClassNode { ... }
 </table>
 
 
-Definition at line 1005 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1005 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -121,7 +122,8 @@ Definition at line 1005 of file <a href="/web-doxygen/docs/api/files/src/tagread
 
 
 
-Definition at line 1007 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1007 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -130,7 +132,8 @@ Definition at line 1007 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Reference <a href="#a72183189bbcc12d213e16076a19ba02c">name</a>.
+<p>Reference <a href="#a72183189bbcc12d213e16076a19ba02c">name</a>.</p>
+
 </div>
 </div>
 
@@ -160,7 +163,8 @@ Reference <a href="#a72183189bbcc12d213e16076a19ba02c">name</a>.
 
 
 
-Definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +173,8 @@ Definition at line 1010 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
+
 </div>
 </div>
 
@@ -193,7 +198,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagread
 
 
 
-Definition at line 1008 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1008 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -202,7 +208,8 @@ Definition at line 1008 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="#aadd9729de53674ee8515c631e5e85b64">ClassNode</a>.
+<p>Referenced by <a href="#aadd9729de53674ee8515c631e5e85b64">ClassNode</a>.</p>
+
 </div>
 </div>
 
@@ -226,7 +233,8 @@ Referenced by <a href="#aadd9729de53674ee8515c631e5e85b64">ClassNode</a>.
 
 
 
-Definition at line 1009 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 1009 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -235,7 +243,8 @@ Definition at line 1009 of file <a href="/web-doxygen/docs/api/files/src/tagread
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous\_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#ab5bfa36a1a89d2e6f35ac34fc6b0af3d">anonymous_namespace{tagreader.cpp}::TagFileParser::buildClassTree</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>.</p>
+
 </div>
 </div>
 

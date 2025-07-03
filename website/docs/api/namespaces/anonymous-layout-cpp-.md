@@ -212,7 +212,8 @@ namespace { ... }
 
 
 
-Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -252,7 +253,8 @@ Definition at line 785 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -292,7 +294,8 @@ Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -334,7 +337,8 @@ Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -377,7 +381,8 @@ Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -420,7 +425,8 @@ Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -464,7 +470,8 @@ Definition at line 765 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -513,7 +520,8 @@ Definition at line 775 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1085,7 +1093,8 @@ Definition at line 790 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/layoutparser/#acbe58d70dfdb7b82544b3c6390a3ffa9">LayoutParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/layoutparser/#aec3d26d68ff653ee286a16533ba98560">LayoutParser::startElement</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/layoutparser/#acbe58d70dfdb7b82544b3c6390a3ffa9">LayoutParser::endElement</a> and <a href="/web-doxygen/docs/api/classes/layoutparser/#aec3d26d68ff653ee286a16533ba98560">LayoutParser::startElement</a>.</p>
+
 </div>
 </div>
 

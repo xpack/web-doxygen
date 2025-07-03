@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `LatexCodeGenerator` Class Reference
 
-Generator for LaTeX code fragments. <a href="#details">More...</a>
+<p>Generator for LaTeX code fragments. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class LatexCodeGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
+<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -622,9 +622,10 @@ Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcod
 
 ## Description {#details}
 
-Generator for LaTeX code fragments.
+<p>Generator for LaTeX code fragments.</p>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -650,7 +651,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -662,7 +664,8 @@ Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#ade3eec74bf4332c6f238448049a1fb78">m\_relPath</a>, <a href="#acc546ace986e41f11d76eb80ec753e04">m\_sourceFileName</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>References <a href="#ade3eec74bf4332c6f238448049a1fb78">m_relPath</a>, <a href="#acc546ace986e41f11d76eb80ec753e04">m_sourceFileName</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -686,7 +689,8 @@ References <a href="#ade3eec74bf4332c6f238448049a1fb78">m\_relPath</a>, <a href=
 
 
 
-Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -697,7 +701,8 @@ Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>Reference <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -733,7 +738,8 @@ Reference <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -769,7 +775,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -874,9 +881,11 @@ Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a9a7f04a1060dfff4cad9f82379053257">COPYCHAR</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-h/#a4ee99b7f4c3b954efce5bf4da1518b31">filterLatexString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m\_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m\_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>, <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m\_insideTabbing</a>, <a href="#a75979ed7ee6c1eb75b996e2bc370695b">m\_stripIndentAmount</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>, <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-h/#af8556c37f3acfa45992b8697930c501b">THREAD\_LOCAL</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a9a7f04a1060dfff4cad9f82379053257">COPYCHAR</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-h/#a4ee99b7f4c3b954efce5bf4da1518b31">filterLatexString</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a>, <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m_insideTabbing</a>, <a href="#a75979ed7ee6c1eb75b996e2bc370695b">m_stripIndentAmount</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>, <a href="#a76b404ceab074a0a056233427d993224">m_usedTableLevel</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-h/#af8556c37f3acfa45992b8697930c501b">THREAD_LOCAL</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a>.</p>
 
-Referenced by <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+
+<p>Referenced by <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -905,7 +914,8 @@ Referenced by <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a h
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -914,7 +924,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
+<p>Reference <a href="#a76b404ceab074a0a056233427d993224">m_usedTableLevel</a>.</p>
+
 </div>
 </div>
 
@@ -943,7 +954,8 @@ Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
 
 
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -958,7 +970,8 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>References <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -987,7 +1000,8 @@ References <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a> and <a h
 
 
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1005,9 +1019,11 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m\_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
 
-Referenced by <a href="#aaf84f3e3d479467862d91a7f5ce3b69d">endCodeFragment</a>.
+
+<p>Referenced by <a href="#aaf84f3e3d479467862d91a7f5ce3b69d">endCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -1037,7 +1053,8 @@ Referenced by <a href="#aaf84f3e3d479467862d91a7f5ce3b69d">endCodeFragment</a>.
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1073,7 +1090,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1086,7 +1104,8 @@ Declaration at line 56 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>References <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1115,7 +1134,8 @@ References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href=
 
 
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1127,7 +1147,8 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>.
+<p>Reference <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a>.</p>
+
 </div>
 </div>
 
@@ -1156,7 +1177,8 @@ Reference <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>.
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1165,7 +1187,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
+<p>Reference <a href="#a76b404ceab074a0a056233427d993224">m_usedTableLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1194,7 +1217,8 @@ Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1203,7 +1227,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m\_insideTabbing</a>.
+<p>Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m_insideTabbing</a>.</p>
+
 </div>
 </div>
 
@@ -1232,7 +1257,8 @@ Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m\_insideTabbing</a>.
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1241,7 +1267,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m\_insideTabbing</a>.
+<p>Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m_insideTabbing</a>.</p>
+
 </div>
 </div>
 
@@ -1265,7 +1292,8 @@ Reference <a href="#aebc26b6a2b2da44df2ab22e1f4a336da">m\_insideTabbing</a>.
 
 
 
-Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1277,7 +1305,8 @@ Declaration at line 68 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#ade3eec74bf4332c6f238448049a1fb78">m\_relPath</a>.
+<p>Reference <a href="#ade3eec74bf4332c6f238448049a1fb78">m_relPath</a>.</p>
+
 </div>
 </div>
 
@@ -1301,7 +1330,8 @@ Reference <a href="#ade3eec74bf4332c6f238448049a1fb78">m\_relPath</a>.
 
 
 
-Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1313,7 +1343,8 @@ Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#acc546ace986e41f11d76eb80ec753e04">m\_sourceFileName</a>.
+<p>Reference <a href="#acc546ace986e41f11d76eb80ec753e04">m_sourceFileName</a>.</p>
+
 </div>
 </div>
 
@@ -1342,7 +1373,8 @@ Reference <a href="#acc546ace986e41f11d76eb80ec753e04">m\_sourceFileName</a>.
 
 
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1354,7 +1386,8 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#a75979ed7ee6c1eb75b996e2bc370695b">m\_stripIndentAmount</a>.
+<p>Reference <a href="#a75979ed7ee6c1eb75b996e2bc370695b">m_stripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -1383,7 +1416,8 @@ Reference <a href="#a75979ed7ee6c1eb75b996e2bc370695b">m\_stripIndentAmount</a>.
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1392,7 +1426,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>Reference <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1421,7 +1456,8 @@ Reference <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
 
 
 
-Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1433,7 +1469,8 @@ Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a> and <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
+<p>References <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a> and <a href="#a76b404ceab074a0a056233427d993224">m_usedTableLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1462,7 +1499,8 @@ References <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a> and <a href="#a
 
 
 
-Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1480,7 +1518,8 @@ Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m\_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m\_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -1510,7 +1549,8 @@ References <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m\_col</a>, <a href="#ae
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1546,7 +1586,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1559,7 +1600,8 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>.
+<p>References <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a> and <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1588,7 +1630,8 @@ References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href=
 
 
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1600,7 +1643,8 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href="#a114e038b94b1d43e2eecb144f1e5b563">m\_stripCodeComments</a>.
+<p>References <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a> and <a href="#a114e038b94b1d43e2eecb144f1e5b563">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1629,7 +1673,8 @@ References <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a> and <a href=
 
 
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1641,7 +1686,8 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-Reference <a href="#a114e038b94b1d43e2eecb144f1e5b563">m\_stripCodeComments</a>.
+<p>Reference <a href="#a114e038b94b1d43e2eecb144f1e5b563">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1671,7 +1717,8 @@ Reference <a href="#a114e038b94b1d43e2eecb144f1e5b563">m\_stripCodeComments</a>.
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1680,7 +1727,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a08e3b0db5b64cd1da774369814896b78">Latex</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a08e3b0db5b64cd1da774369814896b78">Latex</a>.</p>
+
 </div>
 </div>
 
@@ -1709,7 +1757,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1718,7 +1767,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
+<p>Reference <a href="#a76b404ceab074a0a056233427d993224">m_usedTableLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1748,7 +1798,8 @@ Reference <a href="#a76b404ceab074a0a056233427d993224">m\_usedTableLevel</a>.
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1784,7 +1835,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1817,9 +1869,11 @@ Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m\_col</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
+<p>References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m_col</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.</p>
 
-Referenced by <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+
+<p>Referenced by <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1848,7 +1902,8 @@ Referenced by <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
 
 
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>, definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/latexgen-cpp">latexgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1901,7 +1956,8 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/latexgen
 </div>
 
 
-References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m\_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m\_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m\_hide</a>, <a href="#acc546ace986e41f11d76eb80ec753e04">m\_sourceFileName</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m\_t</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a>.
+<p>References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a6e3be3cc984b0d52998b0a5095a61aac">m_col</a>, <a href="#ae4ad9cdbf89db5b0fc4bcb3da17e6030">m_doxyCodeLineOpen</a>, <a href="#a1d93900983b074fe4382dd6e91420a44">m_hide</a>, <a href="#acc546ace986e41f11d76eb80ec753e04">m_sourceFileName</a>, <a href="#a14bde2340266057da59c0a5168c57e21">m_t</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a> and <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -1931,7 +1987,8 @@ References <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="/we
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1974,7 +2031,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 </div>
 </div>
 
@@ -1998,7 +2056,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 </div>
 </div>
 
@@ -2028,7 +2087,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2037,7 +2097,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2061,7 +2122,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2070,7 +2132,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2094,7 +2157,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2103,7 +2167,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a2817d014a128c1a2bdff10c582e0bfbb">endFontClass</a>, <a href="#a6e913afc392823753084448f5c62dc6e">endSpecialComment</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#a6d8204dc6e2eaa9bcbf319b6ff7eff94">startFontClass</a>, <a href="#a986a56ec2e0ddaf47a6e3691e9ae720b">startSpecialComment</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a2817d014a128c1a2bdff10c582e0bfbb">endFontClass</a>, <a href="#a6e913afc392823753084448f5c62dc6e">endSpecialComment</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#a6d8204dc6e2eaa9bcbf319b6ff7eff94">startFontClass</a>, <a href="#a986a56ec2e0ddaf47a6e3691e9ae720b">startSpecialComment</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2127,7 +2192,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2136,7 +2202,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#a2ac2521a9b24f1a783a729dde02f9bc4">insideTabbing</a> and <a href="#a22a237438e739e962bba1a51bf41b24a">setInsideTabbing</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#a2ac2521a9b24f1a783a729dde02f9bc4">insideTabbing</a> and <a href="#a22a237438e739e962bba1a51bf41b24a">setInsideTabbing</a>.</p>
+
 </div>
 </div>
 
@@ -2160,7 +2227,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2169,7 +2237,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a> and <a href="#a644dfa222652fa561dc841838100115b">setRelativePath</a>.
+<p>Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a> and <a href="#a644dfa222652fa561dc841838100115b">setRelativePath</a>.</p>
+
 </div>
 </div>
 
@@ -2193,7 +2262,8 @@ Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2202,7 +2272,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a>, <a href="#a5b8f6f300e6c8de9f20aa3eb9c1024be">setSourceFileName</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+<p>Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a>, <a href="#a5b8f6f300e6c8de9f20aa3eb9c1024be">setSourceFileName</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2226,7 +2297,8 @@ Referenced by <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2257,7 +2329,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2266,7 +2339,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#a986a56ec2e0ddaf47a6e3691e9ae720b">startSpecialComment</a> and <a href="#a70c4b399e4d3018628e0813c3a92167b">stripCodeComments</a>.
+<p>Referenced by <a href="#a986a56ec2e0ddaf47a6e3691e9ae720b">startSpecialComment</a> and <a href="#a70c4b399e4d3018628e0813c3a92167b">stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -2290,7 +2364,8 @@ Referenced by <a href="#a986a56ec2e0ddaf47a6e3691e9ae720b">startSpecialComment</
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2299,7 +2374,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a> and <a href="#a1f4663612155f6cd67929cee3120fa02">setStripIndentAmount</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a> and <a href="#a1f4663612155f6cd67929cee3120fa02">setStripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -2323,7 +2399,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a> and <a hre
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2332,7 +2409,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#aaf84f3e3d479467862d91a7f5ce3b69d">endCodeFragment</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a2817d014a128c1a2bdff10c582e0bfbb">endFontClass</a>, <a href="#a57a06015509fb9de74a0948a814b5342">LatexCodeGenerator</a>, <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a>, <a href="#a54d30e5bd138f1f19515130f7c723abc">setTextStream</a>, <a href="#a756ccfff7534033a522196ab842b5f0c">startCodeFragment</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#a6d8204dc6e2eaa9bcbf319b6ff7eff94">startFontClass</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#aaf84f3e3d479467862d91a7f5ce3b69d">endCodeFragment</a>, <a href="#ad6a36878e0fde7d9d23711fd7487edb8">endCodeLine</a>, <a href="#a2817d014a128c1a2bdff10c582e0bfbb">endFontClass</a>, <a href="#a57a06015509fb9de74a0948a814b5342">LatexCodeGenerator</a>, <a href="#a983453f1453adaf5b5bb732c746ea992">LatexCodeGenerator</a>, <a href="#a54d30e5bd138f1f19515130f7c723abc">setTextStream</a>, <a href="#a756ccfff7534033a522196ab842b5f0c">startCodeFragment</a>, <a href="#a8dfd2b046a17459f69b7d08e49349240">startCodeLine</a>, <a href="#a6d8204dc6e2eaa9bcbf319b6ff7eff94">startFontClass</a>, <a href="#ae073efd8b440046f245aaff6c56bc1f4">writeCodeLink</a> and <a href="#a41b0a17952879ed6de614c8bd4ff6c9f">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -2356,7 +2434,8 @@ Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/latexgen-h">latexgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2365,7 +2444,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/latexgen-
 </div>
 
 
-Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#aa2faf2e5a76f8a9162ba70022281bac9">decUsedTableLevel</a>, <a href="#af90f342ed41be750ffb1012b7ee08a6b">incUsedTableLevel</a>, <a href="#a756ccfff7534033a522196ab842b5f0c">startCodeFragment</a> and <a href="#a0f1f9ea1686cfb3c68bac2bbc5081f55">usedTableLevel</a>.
+<p>Referenced by <a href="#ace27d46d07e19112fc6ee3411915c8ea">codify</a>, <a href="#aa2faf2e5a76f8a9162ba70022281bac9">decUsedTableLevel</a>, <a href="#af90f342ed41be750ffb1012b7ee08a6b">incUsedTableLevel</a>, <a href="#a756ccfff7534033a522196ab842b5f0c">startCodeFragment</a> and <a href="#a0f1f9ea1686cfb3c68bac2bbc5081f55">usedTableLevel</a>.</p>
+
 </div>
 </div>
 

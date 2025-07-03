@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `SectionInfo` Class Reference
 
-class that provide information about a section. <a href="#details">More...</a>
+<p>class that provide information about a section. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -401,9 +401,10 @@ class SectionInfo { ... }
 
 ## Description {#details}
 
-class that provide information about a section.
+<p>class that provide information about a section.</p>
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -434,7 +435,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/section-h
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -449,7 +451,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-References <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href="#a3028bd10d3288ef120bd833e0ebc57ab">label</a>, <a href="#afbf60bb783ce4f773fbb77a59106d0db">level</a>, <a href="#a913ddc11cbf4d2e8433da4974c54543b">lineNr</a>, <a href="#a3291eabde05e3cef9dd71bada041431b">m\_fileName</a>, <a href="#a526cbd52bc6f956f4488149179d34372">m\_label</a>, <a href="#a1c6e860bf7c077be1140d1f367d27f03">m\_level</a>, <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m\_lineNr</a>, <a href="#a2f48af544805baa926ecbfef6ff8389b">m\_ref</a>, <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m\_title</a>, <a href="#a6829db7f71e758d57f9ddec32be4d354">m\_type</a>, <a href="#a56019937eddafde2ba6df46dff4e1bef">ref</a>, <a href="#ac6aefd1d628bbdb94dc3b8e176a72f9b">title</a> and <a href="#ad3818ca1a9c067d97176dcbaf7022d9e">type</a>.
+<p>References <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href="#a3028bd10d3288ef120bd833e0ebc57ab">label</a>, <a href="#afbf60bb783ce4f773fbb77a59106d0db">level</a>, <a href="#a913ddc11cbf4d2e8433da4974c54543b">lineNr</a>, <a href="#a3291eabde05e3cef9dd71bada041431b">m_fileName</a>, <a href="#a526cbd52bc6f956f4488149179d34372">m_label</a>, <a href="#a1c6e860bf7c077be1140d1f367d27f03">m_level</a>, <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m_lineNr</a>, <a href="#a2f48af544805baa926ecbfef6ff8389b">m_ref</a>, <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m_title</a>, <a href="#a6829db7f71e758d57f9ddec32be4d354">m_type</a>, <a href="#a56019937eddafde2ba6df46dff4e1bef">ref</a>, <a href="#ac6aefd1d628bbdb94dc3b8e176a72f9b">title</a> and <a href="#ad3818ca1a9c067d97176dcbaf7022d9e">type</a>.</p>
+
 </div>
 </div>
 
@@ -484,7 +487,8 @@ References <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href="#
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -493,9 +497,11 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#aaf9668d0510d24e07fe173dea728d492">m\_definition</a>.
+<p>Reference <a href="#aaf9668d0510d24e07fe173dea728d492">m_definition</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
+
 </div>
 </div>
 
@@ -524,7 +530,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -533,9 +540,11 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a3291eabde05e3cef9dd71bada041431b">m\_fileName</a>.
+<p>Reference <a href="#a3291eabde05e3cef9dd71bada041431b">m_fileName</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#a26024c34c8fc5cbe9ba0d57218e17f1f">DocHtmlCaption::DocHtmlCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#a26024c34c8fc5cbe9ba0d57218e17f1f">DocHtmlCaption::DocHtmlCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
+
 </div>
 </div>
 
@@ -564,7 +573,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -573,9 +583,11 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a9a3223e7833f2fd5d2c3415fa46160fc">m\_generated</a>.
+<p>Reference <a href="#a9a3223e7833f2fd5d2c3415fa46160fc">m_generated</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>.</p>
+
 </div>
 </div>
 
@@ -604,7 +616,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -613,9 +626,11 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a526cbd52bc6f956f4488149179d34372">m\_label</a>.
+<p>Reference <a href="#a526cbd52bc6f956f4488149179d34372">m_label</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/sectionrefs/#a916946003ecac73c064487bace9e4bde">SectionRefs::add</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912d3c3491c992ea5d60fd9d5">DefinitionImpl::addSectionsToDefinition</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#a26024c34c8fc5cbe9ba0d57218e17f1f">DocHtmlCaption::DocHtmlCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a0afd80ec501374a1cdbdf674ec967b79">DocbookGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c8a6327e1ce58e1d01bc05a1770e94b">HtmlGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/sectionrefs/#a916946003ecac73c064487bace9e4bde">SectionRefs::add</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912d3c3491c992ea5d60fd9d5">DefinitionImpl::addSectionsToDefinition</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/dochtmlcaption/#a26024c34c8fc5cbe9ba0d57218e17f1f">DocHtmlCaption::DocHtmlCaption</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a832a4486d71b72fba73e98a6dfdf33e4">resolveLink</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a0afd80ec501374a1cdbdf674ec967b79">DocbookGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c8a6327e1ce58e1d01bc05a1770e94b">HtmlGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ae2c24526468232c3a2c4f93669225392">writeGroupTreeNode</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -644,7 +659,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -653,9 +669,11 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a1c6e860bf7c077be1140d1f367d27f03">m\_level</a>.
+<p>Reference <a href="#a1c6e860bf7c077be1140d1f367d27f03">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a> and <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a> and <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>.</p>
+
 </div>
 </div>
 
@@ -684,7 +702,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -693,9 +712,11 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m\_lineNr</a>.
+<p>Reference <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m_lineNr</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
+
 </div>
 </div>
 
@@ -724,7 +745,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -733,9 +755,11 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a2f48af544805baa926ecbfef6ff8389b">m\_ref</a>.
+<p>Reference <a href="#a2f48af544805baa926ecbfef6ff8389b">m_ref</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#af9360a554b5e9b817c991a39445e2b39">addSection</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
+
 </div>
 </div>
 
@@ -764,7 +788,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -773,9 +798,11 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#aaf9668d0510d24e07fe173dea728d492">m\_definition</a>.
+<p>Reference <a href="#aaf9668d0510d24e07fe173dea728d492">m_definition</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912d3c3491c992ea5d60fd9d5">DefinitionImpl::addSectionsToDefinition</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912d3c3491c992ea5d60fd9d5">DefinitionImpl::addSectionsToDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -804,7 +831,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a3aae8d1912
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -813,9 +841,11 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a3291eabde05e3cef9dd71bada041431b">m\_fileName</a>.
+<p>Reference <a href="#a3291eabde05e3cef9dd71bada041431b">m_fileName</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ace65d9b91347502c11ccb43cf">processSection</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ace65d9b91347502c11ccb43cf">processSection</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -844,7 +874,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ac
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -853,7 +884,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a9a3223e7833f2fd5d2c3415fa46160fc">m\_generated</a>.
+<p>Reference <a href="#a9a3223e7833f2fd5d2c3415fa46160fc">m_generated</a>.</p>
+
 </div>
 </div>
 
@@ -882,7 +914,8 @@ Reference <a href="#a9a3223e7833f2fd5d2c3415fa46160fc">m\_generated</a>.
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -891,9 +924,11 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a1c6e860bf7c077be1140d1f367d27f03">m\_level</a>.
+<p>Reference <a href="#a1c6e860bf7c077be1140d1f367d27f03">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -922,7 +957,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef76
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -931,9 +967,11 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m\_lineNr</a>.
+<p>Reference <a href="#a068c3b8dc158aefcfe1d4befd98e0772">m_lineNr</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -962,7 +1000,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef76
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -971,9 +1010,11 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a2f48af544805baa926ecbfef6ff8389b">m\_ref</a>.
+<p>Reference <a href="#a2f48af544805baa926ecbfef6ff8389b">m_ref</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -1002,7 +1043,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef76
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1011,9 +1053,11 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m\_title</a>.
+<p>Reference <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m_title</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -1042,7 +1086,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1051,9 +1096,11 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a6829db7f71e758d57f9ddec32be4d354">m\_type</a>.
+<p>Reference <a href="#a6829db7f71e758d57f9ddec32be4d354">m_type</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ace65d9b91347502c11ccb43cf">processSection</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ace65d9b91347502c11ccb43cf">processSection</a> and <a href="/web-doxygen/docs/api/classes/sectionmanager/#aa01b0cef766ad1df71b59741da1d7d88">SectionManager::replace</a>.</p>
+
 </div>
 </div>
 
@@ -1082,7 +1129,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a4c2746ac
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1091,9 +1139,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m\_title</a>.
+<p>Reference <a href="#a95f6aee3c594e0ded25cef8dfa75665d">m_title</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a0151a88e0794af12a9e7932de2d7a928">PerlModGenerator::generatePerlModForPage</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a0151a88e0794af12a9e7932de2d7a928">PerlModGenerator::generatePerlModForPage</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#aeb4c1aeb9fc32917845d0d05a52cb478">generateSqlite3ForPage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/docsection/#a9b6c66c2f51de17bc5748754090c1e41">DocSection::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#afb6a683a89f794ddafb8f8fd1cb55fc9">DefinitionImpl::writeDocAnchorsToTagFile</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a9e4ef930abbc7603896a126a7744b6d9">GroupDefImpl::writePageDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -1122,7 +1172,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1131,9 +1182,11 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Reference <a href="#a6829db7f71e758d57f9ddec32be4d354">m\_type</a>.
+<p>Reference <a href="#a6829db7f71e758d57f9ddec32be4d354">m_type</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a42a2541faf3a23582c34b87fd29d4f57">DocbookGenerator::endTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae5a12bcaed78c969eac8b73cb19d798f">HtmlGenerator::endTocEntry</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#aea3a811bebf636bd4cd8abfa2c50d655">DefinitionImpl::hasSections</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a0afd80ec501374a1cdbdf674ec967b79">DocbookGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c8a6327e1ce58e1d01bc05a1770e94b">HtmlGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b1b5d7dda3b31a81a9df922">SectionManager::add</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#ad228018049ee398d0a544bb69756be3b">PageDefImpl::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a42a2541faf3a23582c34b87fd29d4f57">DocbookGenerator::endTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#ae5a12bcaed78c969eac8b73cb19d798f">HtmlGenerator::endTocEntry</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#aea3a811bebf636bd4cd8abfa2c50d655">DefinitionImpl::hasSections</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="/web-doxygen/docs/api/classes/docbookgenerator/#a0afd80ec501374a1cdbdf674ec967b79">DocbookGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c8a6327e1ce58e1d01bc05a1770e94b">HtmlGenerator::startTocEntry</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a1db6a60af2158f45fe57f1b9369f32ea">PageDefImpl::writeDocumentation</a> and <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -1163,7 +1216,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/sectionmanager/#afbb62a940b
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1172,7 +1226,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a544a0639c73042b305889ab13476fb24">definition</a> and <a href="#a6459848f44b8b1dab9454896de516554">setDefinition</a>.
+<p>Referenced by <a href="#a544a0639c73042b305889ab13476fb24">definition</a> and <a href="#a6459848f44b8b1dab9454896de516554">setDefinition</a>.</p>
+
 </div>
 </div>
 
@@ -1196,7 +1251,8 @@ Referenced by <a href="#a544a0639c73042b305889ab13476fb24">definition</a> and <a
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1205,7 +1261,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a7efd18a96a64ecaf750637a6e2d37259">setFileName</a>.
+<p>Referenced by <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a7efd18a96a64ecaf750637a6e2d37259">setFileName</a>.</p>
+
 </div>
 </div>
 
@@ -1229,7 +1286,8 @@ Referenced by <a href="#a84093d8cc48b4734f6e603de33d398d5">fileName</a>, <a href
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1238,7 +1296,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#aa473b1eb03f359482be5c417e1b4d38f">generated</a> and <a href="#a9b2d3fae95d959be9262ab81e42d925c">setGenerated</a>.
+<p>Referenced by <a href="#aa473b1eb03f359482be5c417e1b4d38f">generated</a> and <a href="#a9b2d3fae95d959be9262ab81e42d925c">setGenerated</a>.</p>
+
 </div>
 </div>
 
@@ -1262,7 +1321,8 @@ Referenced by <a href="#aa473b1eb03f359482be5c417e1b4d38f">generated</a> and <a 
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1271,7 +1331,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a3028bd10d3288ef120bd833e0ebc57ab">label</a> and <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>.
+<p>Referenced by <a href="#a3028bd10d3288ef120bd833e0ebc57ab">label</a> and <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>.</p>
+
 </div>
 </div>
 
@@ -1295,7 +1356,8 @@ Referenced by <a href="#a3028bd10d3288ef120bd833e0ebc57ab">label</a> and <a href
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1304,7 +1366,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#afbf60bb783ce4f773fbb77a59106d0db">level</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#aa7e45cd1d7cd916f81e00d9be20589af">setLevel</a>.
+<p>Referenced by <a href="#afbf60bb783ce4f773fbb77a59106d0db">level</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#aa7e45cd1d7cd916f81e00d9be20589af">setLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1328,7 +1391,8 @@ Referenced by <a href="#afbf60bb783ce4f773fbb77a59106d0db">level</a>, <a href="#
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1337,7 +1401,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a913ddc11cbf4d2e8433da4974c54543b">lineNr</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a3e0b6242d45e07de5babd061596d36e6">setLineNr</a>.
+<p>Referenced by <a href="#a913ddc11cbf4d2e8433da4974c54543b">lineNr</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a3e0b6242d45e07de5babd061596d36e6">setLineNr</a>.</p>
+
 </div>
 </div>
 
@@ -1361,7 +1426,8 @@ Referenced by <a href="#a913ddc11cbf4d2e8433da4974c54543b">lineNr</a>, <a href="
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1370,7 +1436,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a56019937eddafde2ba6df46dff4e1bef">ref</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a562a39c90036477bea91a2e05d3919cf">setReference</a>.
+<p>Referenced by <a href="#a56019937eddafde2ba6df46dff4e1bef">ref</a>, <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a> and <a href="#a562a39c90036477bea91a2e05d3919cf">setReference</a>.</p>
+
 </div>
 </div>
 
@@ -1394,7 +1461,8 @@ Referenced by <a href="#a56019937eddafde2ba6df46dff4e1bef">ref</a>, <a href="#a3
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1403,7 +1471,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="#ae3af1cf2a073f6019c0bde58d8a5bed9">setTitle</a> and <a href="#ac6aefd1d628bbdb94dc3b8e176a72f9b">title</a>.
+<p>Referenced by <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="#ae3af1cf2a073f6019c0bde58d8a5bed9">setTitle</a> and <a href="#ac6aefd1d628bbdb94dc3b8e176a72f9b">title</a>.</p>
+
 </div>
 </div>
 
@@ -1427,7 +1496,8 @@ Referenced by <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a h
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/section-h">section.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1436,7 +1506,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/section-h
 </div>
 
 
-Referenced by <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="#a08bfd415d3da30cd7db439f3f7c7312c">setType</a> and <a href="#ad3818ca1a9c067d97176dcbaf7022d9e">type</a>.
+<p>Referenced by <a href="#a34b7fad79a37da1a0e98487faa19c716">SectionInfo</a>, <a href="#a08bfd415d3da30cd7db439f3f7c7312c">setType</a> and <a href="#ad3818ca1a9c067d97176dcbaf7022d9e">type</a>.</p>
+
 </div>
 </div>
 

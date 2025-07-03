@@ -247,9 +247,11 @@ class FilterCache { ... }
 
 
 
-<a href="/web-doxygen/docs/api/classes/cache">Cache</a> for storing the result of filtering a file
+<p><a href="/web-doxygen/docs/api/classes/cache">Cache</a> for storing the result of filtering a file</p>
 
-Definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -275,7 +277,8 @@ Definition at line 530 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -317,7 +320,8 @@ Definition at line 538 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -326,9 +330,11 @@ Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#a9330d2904c228992b599ec62cf3442e0">m\_endPos</a>.
+<p>Reference <a href="#a9330d2904c228992b599ec62cf3442e0">m_endPos</a>.</p>
 
-Referenced by <a href="#a75634f3ff0bcd32cd82ba3d0fc8afbb3">instance</a>.
+
+<p>Referenced by <a href="#a75634f3ff0bcd32cd82ba3d0fc8afbb3">instance</a>.</p>
+
 </div>
 </div>
 
@@ -364,9 +370,11 @@ Referenced by <a href="#a75634f3ff0bcd32cd82ba3d0fc8afbb3">instance</a>.
 
 
 
-collects the part of file <em>fileName</em> starting at <em>startLine</em> and ending at <em>endLine</em> into buffer <em>str</em>. Applies filtering if FILTER\_SOURCE\_FILES is enabled and the file extension matches a filter. Caches file information so that subsequent extraction of blocks from the same file can be performed efficiently
+<p>collects the part of file <em>fileName</em> starting at <em>startLine</em> and ending at <em>endLine</em> into buffer <em>str</em>. Applies filtering if FILTER_SOURCE_FILES is enabled and the file extension matches a filter. Caches file information so that subsequent extraction of blocks from the same file can be performed efficiently</p>
 
-Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -382,9 +390,11 @@ Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad4426e053bb11589c58bd5c6828817e2">getFileFilter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad4426e053bb11589c58bd5c6828817e2">getFileFilter</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f1030c1ee4b259526cf6d46a7">readCodeFragment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f1030c1ee4b259526cf6d46a7">readCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -420,9 +430,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f
 
 
 
-computes the starting offset for each line for file <em>fileName</em>, whose contents should already be stored in buffer <em>str</em>.
+<p>computes the starting offset for each line for file <em>fileName</em>, whose contents should already be stored in buffer <em>str</em>.</p>
 
-Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -443,9 +455,11 @@ Definition at line 666 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m\_lineOffsets</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m_lineOffsets</a>.</p>
 
-Referenced by <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.
+
+<p>Referenced by <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.</p>
+
 </div>
 </div>
 
@@ -475,9 +489,11 @@ Referenced by <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.
 
 
 
-reads the fragment start at <em>startLine</em> and ending at <em>endLine</em> from file <em>fileName</em> into buffer <em>str</em>
+<p>reads the fragment start at <em>startLine</em> and ending at <em>endLine</em> from file <em>fileName</em> into buffer <em>str</em></p>
 
-Definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -508,9 +524,11 @@ Definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m\_lineOffsets</a>, <a href="#afd73c9ef7ca1d08c6c051f3076b44a1f">m\_mutex</a>, <a href="#a7c86623ce94e7e3129386f2c8553fb16">readFragmentFromFile</a>, <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m_lineOffsets</a>, <a href="#afd73c9ef7ca1d08c6c051f3076b44a1f">m_mutex</a>, <a href="#a7c86623ce94e7e3129386f2c8553fb16">readFragmentFromFile</a>, <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.
+
+<p>Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.</p>
+
 </div>
 </div>
 
@@ -539,7 +557,8 @@ Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.
 
 
 
-Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -628,9 +647,11 @@ Definition at line 556 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da8dbe64e9ab683833c1ea7252649058a3">Debug::ExtCmd</a>, <a href="/web-doxygen/docs/api/structs/filtercache/filtercacheitem/#a51a5eed73e6e5008821208437be7c088">FilterCache::FilterCacheItem::filePos</a>, <a href="/web-doxygen/docs/api/structs/filtercache/filtercacheitem/#a0c4e7b3028e05b8ad7b06e58436bf1b0">FilterCache::FilterCacheItem::fileSize</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ab044e0b3e178d1ba542e38a9c206d57a">Doxygen::filterDBFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da5e47cf9df9552fe30480288b70288d72">Debug::FilterOutput</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#ad92cbee1c6a87517ee25ce8fc5fa9657">m\_cache</a>, <a href="#a9330d2904c228992b599ec62cf3442e0">m\_endPos</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m\_lineOffsets</a>, <a href="#afd73c9ef7ca1d08c6c051f3076b44a1f">m\_mutex</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a6cde8cab8c3dc3397ea5c6030fbf6e84">Portable::pclose</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a15b92ac03be9e8f4d95d5e881342d83c">Portable::popen</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a7c86623ce94e7e3129386f2c8553fb16">readFragmentFromFile</a>, <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da8dbe64e9ab683833c1ea7252649058a3">Debug::ExtCmd</a>, <a href="/web-doxygen/docs/api/structs/filtercache/filtercacheitem/#a51a5eed73e6e5008821208437be7c088">FilterCache::FilterCacheItem::filePos</a>, <a href="/web-doxygen/docs/api/structs/filtercache/filtercacheitem/#a0c4e7b3028e05b8ad7b06e58436bf1b0">FilterCache::FilterCacheItem::fileSize</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#ab044e0b3e178d1ba542e38a9c206d57a">Doxygen::filterDBFileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da5e47cf9df9552fe30480288b70288d72">Debug::FilterOutput</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a4dbb08c3de409bd1a73be3da6d93ac57">Portable::fopen</a>, <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#ad92cbee1c6a87517ee25ce8fc5fa9657">m_cache</a>, <a href="#a9330d2904c228992b599ec62cf3442e0">m_endPos</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m_lineOffsets</a>, <a href="#afd73c9ef7ca1d08c6c051f3076b44a1f">m_mutex</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a6cde8cab8c3dc3397ea5c6030fbf6e84">Portable::pclose</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a15b92ac03be9e8f4d95d5e881342d83c">Portable::popen</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a7c86623ce94e7e3129386f2c8553fb16">readFragmentFromFile</a>, <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.
+
+<p>Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.</p>
+
 </div>
 </div>
 
@@ -660,9 +681,11 @@ Referenced by <a href="#aa5d001d30e4d16855d3656989947df29">getFileContents</a>.
 
 
 
-Returns the byte offset and size within a file of a fragment given the array of line offsets and the start and end line of the fragment.
+<p>Returns the byte offset and size within a file of a fragment given the array of line offsets and the start and end line of the fragment.</p>
 
-Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -681,7 +704,8 @@ Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a> and <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.
+<p>Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a> and <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.</p>
+
 </div>
 </div>
 
@@ -711,9 +735,11 @@ Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</
 
 
 
-Reads the fragment start at byte offset <em>startOffset</em> of file <em>fileName</em> into buffer <em>str</em>. Result will be a null terminated. If size==0 the whole file will be read and startOffset is ignored. If size&gt;0, size bytes will be read.
+<p>Reads the fragment start at byte offset <em>startOffset</em> of file <em>fileName</em> into buffer <em>str</em>. Result will be a null terminated. If size==0 the whole file will be read and startOffset is ignored. If size&gt;0, size bytes will be read.</p>
 
-Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -729,9 +755,11 @@ Definition at line 713 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.
+<p>Reference <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>.</p>
 
-Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.
+
+<p>Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -761,9 +789,11 @@ Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</
 
 
 
-Shrinks buffer <em>str</em> which should hold the contents of <em>fileName</em> to the fragment starting a line <em>startLine</em> and ending at line <em>endLine</em>
+<p>Shrinks buffer <em>str</em> which should hold the contents of <em>fileName</em> to the fragment starting a line <em>startLine</em> and ending at line <em>endLine</em></p>
 
-Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+
+<p>Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -784,9 +814,11 @@ Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#a9e1db762aaf71f44e596c234a11248c0">compileLineOffsets</a>, <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m\_lineOffsets</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a9e1db762aaf71f44e596c234a11248c0">compileLineOffsets</a>, <a href="#a2b04ae61006aa3e9ac0d44ded23f246d">getFragmentLocation</a>, <a href="#a3772d8fa456dcd1aa7fa7719552d06e1">m_lineOffsets</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.
+
+<p>Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -816,7 +848,8 @@ Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</
 
 
 
-Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -825,7 +858,8 @@ Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.
+<p>Referenced by <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -849,7 +883,8 @@ Referenced by <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</
 
 
 
-Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -858,7 +893,8 @@ Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a01f051d4654d2e0d8bb344cf3111b4be">FilterCache</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.
+<p>Referenced by <a href="#a01f051d4654d2e0d8bb344cf3111b4be">FilterCache</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -882,7 +918,8 @@ Referenced by <a href="#a01f051d4654d2e0d8bb344cf3111b4be">FilterCache</a> and <
 
 
 
-Definition at line 724 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 724 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -891,7 +928,8 @@ Definition at line 724 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a9e1db762aaf71f44e596c234a11248c0">compileLineOffsets</a>, <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a> and <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.
+<p>Referenced by <a href="#a9e1db762aaf71f44e596c234a11248c0">compileLineOffsets</a>, <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a>, <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a> and <a href="#a11addfe71baa15d57b1423b4aab53f76">shrinkBuffer</a>.</p>
+
 </div>
 </div>
 
@@ -915,7 +953,8 @@ Referenced by <a href="#a9e1db762aaf71f44e596c234a11248c0">compileLineOffsets</a
 
 
 
-Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -924,7 +963,8 @@ Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.
+<p>Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</a> and <a href="#ad313a32a960f39f775ebb6d5bc8c5fe1">getFileContentsPipe</a>.</p>
+
 </div>
 </div>
 
@@ -959,7 +999,8 @@ Referenced by <a href="#a5730ddb0e69085c4031028a2eb383f14">getFileContentsDisk</
 
 
 
-Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.
+<p>Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/definition-cpp">definition.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -972,9 +1013,11 @@ Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#a01f051d4654d2e0d8bb344cf3111b4be">FilterCache</a>.
+<p>Reference <a href="#a01f051d4654d2e0d8bb344cf3111b4be">FilterCache</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f1030c1ee4b259526cf6d46a7">readCodeFragment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a1b30645f1030c1ee4b259526cf6d46a7">readCodeFragment</a>.</p>
+
 </div>
 </div>
 

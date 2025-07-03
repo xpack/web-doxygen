@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TextStream` Class Reference
 
-Text streaming class that buffers data. <a href="#details">More...</a>
+<p>Text streaming class that buffers data. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class TextStream { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates an empty stream object. <a href="#ae33c7c2cef250c2e773c7eccae7c7243">More...</a>
+<p>Creates an empty stream object. <a href="#ae33c7c2cef250c2e773c7eccae7c7243">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ Creates an empty stream object. <a href="#ae33c7c2cef250c2e773c7eccae7c7243">Mor
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create a text stream object for writing to a std::ostream. <a href="#aa22b5c028814c2e880c258caff567184">More...</a>
+<p>Create a text stream object for writing to a std::ostream. <a href="#aa22b5c028814c2e880c258caff567184">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ Create a text stream object for writing to a std::ostream. <a href="#aa22b5c0288
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create a text stream, initializing the buffer with string <em>s</em>. <a href="#a6c4167493d760a72984d1de542d12a9a">More...</a>
+<p>Create a text stream, initializing the buffer with string <em>s</em>. <a href="#a6c4167493d760a72984d1de542d12a9a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,7 @@ Create a text stream, initializing the buffer with string <em>s</em>. <a href="#
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes any data that is buffered to the attached std::ostream. <a href="#aca4cd037475e8c6f85c2665fe16b7dfb">More...</a>
+<p>Writes any data that is buffered to the attached std::ostream. <a href="#aca4cd037475e8c6f85c2665fe16b7dfb">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -109,7 +109,7 @@ Writes any data that is buffered to the attached std::ostream. <a href="#aca4cd0
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a character to the stream. <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">More...</a>
+<p>Adds a character to the stream. <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -123,7 +123,7 @@ Adds a character to the stream. <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">Mor
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds an unsigned character to the stream. <a href="#aee6ef86e4ce8c8d1d2081352965f4018">More...</a>
+<p>Adds an unsigned character to the stream. <a href="#aee6ef86e4ce8c8d1d2081352965f4018">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -137,7 +137,7 @@ Adds an unsigned character to the stream. <a href="#aee6ef86e4ce8c8d1d2081352965
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds an unsigned character string to the stream. <a href="#a161c4ba7441ee81fc558817211cce4bc">More...</a>
+<p>Adds an unsigned character string to the stream. <a href="#a161c4ba7441ee81fc558817211cce4bc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -151,7 +151,7 @@ Adds an unsigned character string to the stream. <a href="#a161c4ba7441ee81fc558
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a C-style string to the stream. <a href="#a829e95bba078b91236e2df3ba3b61162">More...</a>
+<p>Adds a C-style string to the stream. <a href="#a829e95bba078b91236e2df3ba3b61162">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -165,7 +165,7 @@ Adds a C-style string to the stream. <a href="#a829e95bba078b91236e2df3ba3b61162
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> to the stream. <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">More...</a>
+<p>Adds a <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> to the stream. <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -179,7 +179,7 @@ Adds a <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> to the stre
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a std::string to the stream. <a href="#a25252516016426ddbb04481e4c40a798">More...</a>
+<p>Adds a std::string to the stream. <a href="#a25252516016426ddbb04481e4c40a798">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -193,7 +193,7 @@ Adds a std::string to the stream. <a href="#a25252516016426ddbb04481e4c40a798">M
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a signed short integer to the stream. <a href="#a766bcb2fcaf9fc615131e66a5fce2717">More...</a>
+<p>Adds a signed short integer to the stream. <a href="#a766bcb2fcaf9fc615131e66a5fce2717">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -207,7 +207,7 @@ Adds a signed short integer to the stream. <a href="#a766bcb2fcaf9fc615131e66a5f
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a unsigned short integer to the stream. <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">More...</a>
+<p>Adds a unsigned short integer to the stream. <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -221,7 +221,7 @@ Adds a unsigned short integer to the stream. <a href="#a2c5bb0c9e5ebab3bef398d1e
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a signed integer to the stream. <a href="#a4efd56716095f7c011ce6f5981446af9">More...</a>
+<p>Adds a signed integer to the stream. <a href="#a4efd56716095f7c011ce6f5981446af9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -235,7 +235,7 @@ Adds a signed integer to the stream. <a href="#a4efd56716095f7c011ce6f5981446af9
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a unsigned integer to the stream. <a href="#afe6fc03e6de6c855495af00f6f9b09a1">More...</a>
+<p>Adds a unsigned integer to the stream. <a href="#afe6fc03e6de6c855495af00f6f9b09a1">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -252,7 +252,7 @@ Adds a unsigned integer to the stream. <a href="#afe6fc03e6de6c855495af00f6f9b09
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a size_t integer to the stream. <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">More...</a>
+<p>Adds a size_t integer to the stream. <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -266,7 +266,7 @@ Adds a size_t integer to the stream. <a href="#a69bdd4e0a8262e78b9e624a359f05b7a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a float to the stream. <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">More...</a>
+<p>Adds a float to the stream. <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -280,7 +280,7 @@ Adds a float to the stream. <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">More...
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a double to the stream. <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">More...</a>
+<p>Adds a double to the stream. <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -300,7 +300,7 @@ Adds a double to the stream. <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">More..
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Sets or changes the std::ostream to write to. <a href="#a18a4ee87242fc2b8e31941a71e622fd2">More...</a>
+<p>Sets or changes the std::ostream to write to. <a href="#a18a4ee87242fc2b8e31941a71e622fd2">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -327,7 +327,7 @@ Sets or changes the std::ostream to write to. <a href="#a18a4ee87242fc2b8e31941a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the attached std::ostream object. <a href="#a1d61011a2d8962b0bdbec11483ae5790">More...</a>
+<p>Returns the attached std::ostream object. <a href="#a1d61011a2d8962b0bdbec11483ae5790">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -354,7 +354,7 @@ Returns the attached std::ostream object. <a href="#a1d61011a2d8962b0bdbec11483a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Adds a array of character to the stream. <a href="#aaa78941b7f04d95ca3be7d11073828f0">More...</a>
+<p>Adds a array of character to the stream. <a href="#aaa78941b7f04d95ca3be7d11073828f0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -368,7 +368,7 @@ Adds a array of character to the stream. <a href="#aaa78941b7f04d95ca3be7d110738
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Flushes the buffer. <a href="#a907937b613a56aa4124608b3a092b820">More...</a>
+<p>Flushes the buffer. <a href="#a907937b613a56aa4124608b3a092b820">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -382,7 +382,7 @@ Flushes the buffer. <a href="#a907937b613a56aa4124608b3a092b820">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Clears any buffered data. <a href="#afc87f49c9d496ce6409dd4e49226e11d">More...</a>
+<p>Clears any buffered data. <a href="#afc87f49c9d496ce6409dd4e49226e11d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -396,7 +396,7 @@ Clears any buffered data. <a href="#afc87f49c9d496ce6409dd4e49226e11d">More...</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return the contents of the buffer as a std::string object. <a href="#aca8457da22d874f4eb30b35ffe87ebd0">More...</a>
+<p>Return the contents of the buffer as a std::string object. <a href="#aca8457da22d874f4eb30b35ffe87ebd0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -410,7 +410,7 @@ Return the contents of the buffer as a std::string object. <a href="#aca8457da22
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Sets the buffer's contents to string <em>s</em>. <a href="#a6c42948b189c9d16fe5eb9ae12112e74">More...</a>
+<p>Sets the buffer's contents to string <em>s</em>. <a href="#a6c42948b189c9d16fe5eb9ae12112e74">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -424,7 +424,7 @@ Sets the buffer's contents to string <em>s</em>. <a href="#a6c42948b189c9d16fe5e
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Sets the buffer's contents to string <em>s</em> Any data already in the buffer will be flushed. <a href="#ad31970b450c75ccca13f56940853010e">More...</a>
+<p>Sets the buffer's contents to string <em>s</em> Any data already in the buffer will be flushed. <a href="#ad31970b450c75ccca13f56940853010e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -438,7 +438,7 @@ Sets the buffer's contents to string <em>s</em> Any data already in the buffer w
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true iff the buffer is empty. <a href="#a0859a9bfd6a7b6bafc7050d9f3aef046">More...</a>
+<p>Returns true iff the buffer is empty. <a href="#a0859a9bfd6a7b6bafc7050d9f3aef046">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -458,7 +458,7 @@ Returns true iff the buffer is empty. <a href="#a0859a9bfd6a7b6bafc7050d9f3aef04
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes a string representation of an integer to the buffer. <a href="#a42463de0e3fa4777714f8e8fc4f9355c">More...</a>
+<p>Writes a string representation of an integer to the buffer. <a href="#a42463de0e3fa4777714f8e8fc4f9355c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -546,12 +546,14 @@ Writes a string representation of an integer to the buffer. <a href="#a42463de0e
 
 ## Description {#details}
 
-Text streaming class that buffers data.
+<p>Text streaming class that buffers data.</p>
 
 
-Simpler version of std::ostringstream that has much better performance.
+<p>Simpler version of std::ostringstream that has much better performance.</p>
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -581,9 +583,10 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 <div class="doxyMemberDoc">
 
-Creates an empty stream object.
+<p>Creates an empty stream object.</p>
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -595,9 +598,11 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL\_CAPACITY</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL_CAPACITY</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">operator&lt;&lt;</a>, <a href="#a829e95bba078b91236e2df3ba3b61162">operator&lt;&lt;</a>, <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">operator&lt;&lt;</a>, <a href="#a25252516016426ddbb04481e4c40a798">operator&lt;&lt;</a>, <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">operator&lt;&lt;</a>, <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">operator&lt;&lt;</a>, <a href="#a4efd56716095f7c011ce6f5981446af9">operator&lt;&lt;</a>, <a href="#a766bcb2fcaf9fc615131e66a5fce2717">operator&lt;&lt;</a>, <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">operator&lt;&lt;</a>, <a href="#a161c4ba7441ee81fc558817211cce4bc">operator&lt;&lt;</a>, <a href="#aee6ef86e4ce8c8d1d2081352965f4018">operator&lt;&lt;</a>, <a href="#afe6fc03e6de6c855495af00f6f9b09a1">operator&lt;&lt;</a> and <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">operator&lt;&lt;</a>.
+
+<p>Referenced by <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">operator&lt;&lt;</a>, <a href="#a829e95bba078b91236e2df3ba3b61162">operator&lt;&lt;</a>, <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">operator&lt;&lt;</a>, <a href="#a25252516016426ddbb04481e4c40a798">operator&lt;&lt;</a>, <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">operator&lt;&lt;</a>, <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">operator&lt;&lt;</a>, <a href="#a4efd56716095f7c011ce6f5981446af9">operator&lt;&lt;</a>, <a href="#a766bcb2fcaf9fc615131e66a5fce2717">operator&lt;&lt;</a>, <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">operator&lt;&lt;</a>, <a href="#a161c4ba7441ee81fc558817211cce4bc">operator&lt;&lt;</a>, <a href="#aee6ef86e4ce8c8d1d2081352965f4018">operator&lt;&lt;</a>, <a href="#afe6fc03e6de6c855495af00f6f9b09a1">operator&lt;&lt;</a> and <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">operator&lt;&lt;</a>.</p>
+
 </div>
 </div>
 
@@ -625,15 +630,17 @@ Referenced by <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">operator&lt;&lt;</a>,
 </div>
 <div class="doxyMemberDoc">
 
-Create a text stream object for writing to a std::ostream.
+<p>Create a text stream object for writing to a std::ostream.</p>
+
 
 
 :::info
-data is buffered until <a href="#a907937b613a56aa4124608b3a092b820">flush()</a> is called or the object is destroyed.
+<p>data is buffered until <a href="#a907937b613a56aa4124608b3a092b820">flush()</a> is called or the object is destroyed.</p>
 :::
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -645,7 +652,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL\_CAPACITY</a>, <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a>.
+<p>References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL_CAPACITY</a>, <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m_s</a>.</p>
+
 </div>
 </div>
 
@@ -673,9 +681,10 @@ References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL\_CAPACITY</a>, <
 </div>
 <div class="doxyMemberDoc">
 
-Create a text stream, initializing the buffer with string <em>s</em>.
+<p>Create a text stream, initializing the buffer with string <em>s</em>.</p>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -687,7 +696,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL\_CAPACITY</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL_CAPACITY</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
+
 </div>
 </div>
 
@@ -720,9 +730,10 @@ References <a href="#aed326642b4edbab68d47dbd9c2f7901f">INITIAL\_CAPACITY</a> an
 </div>
 <div class="doxyMemberDoc">
 
-Writes any data that is buffered to the attached std::ostream.
+<p>Writes any data that is buffered to the attached std::ostream.</p>
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -731,7 +742,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-Reference <a href="#a907937b613a56aa4124608b3a092b820">flush</a>.
+<p>Reference <a href="#a907937b613a56aa4124608b3a092b820">flush</a>.</p>
+
 </div>
 </div>
 
@@ -764,9 +776,10 @@ Reference <a href="#a907937b613a56aa4124608b3a092b820">flush</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Adds a character to the stream.
+<p>Adds a character to the stream.</p>
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -779,7 +792,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -806,9 +820,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Adds an unsigned character to the stream.
+<p>Adds an unsigned character to the stream.</p>
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -821,7 +836,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -848,9 +864,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Adds an unsigned character string to the stream.
+<p>Adds an unsigned character string to the stream.</p>
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -871,7 +888,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -898,9 +916,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Adds a C-style string to the stream.
+<p>Adds a C-style string to the stream.</p>
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -913,7 +932,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -940,9 +960,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Adds a <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> to the stream.
+<p>Adds a <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> to the stream.</p>
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -955,7 +976,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -982,9 +1004,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>, <a href="
 </div>
 <div class="doxyMemberDoc">
 
-Adds a std::string to the stream.
+<p>Adds a std::string to the stream.</p>
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -997,7 +1020,8 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1024,9 +1048,10 @@ References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Adds a signed short integer to the stream.
+<p>Adds a signed short integer to the stream.</p>
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1039,7 +1064,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1066,9 +1092,10 @@ References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a
 </div>
 <div class="doxyMemberDoc">
 
-Adds a unsigned short integer to the stream.
+<p>Adds a unsigned short integer to the stream.</p>
 
-Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1081,7 +1108,8 @@ Definition at line 151 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1108,9 +1136,10 @@ References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a
 </div>
 <div class="doxyMemberDoc">
 
-Adds a signed integer to the stream.
+<p>Adds a signed integer to the stream.</p>
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1123,7 +1152,8 @@ Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1150,9 +1180,10 @@ References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a
 </div>
 <div class="doxyMemberDoc">
 
-Adds a unsigned integer to the stream.
+<p>Adds a unsigned integer to the stream.</p>
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1165,7 +1196,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1193,12 +1225,14 @@ References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a
 </div>
 <div class="doxyMemberDoc">
 
-Adds a size\_t integer to the stream.
+<p>Adds a size_t integer to the stream.</p>
 
 
-We use SFINAE to avoid a compiler error in case size\_t already matches the 'unsigned int' overload.
+<p>We use SFINAE to avoid a compiler error in case size_t already matches the 'unsigned int' overload.</p>
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1211,7 +1245,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1238,9 +1273,10 @@ References <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a> and <a
 </div>
 <div class="doxyMemberDoc">
 
-Adds a float to the stream.
+<p>Adds a float to the stream.</p>
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1253,7 +1289,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a2626411e76cafb7b0cc97ad259f37615">output\_double</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a2626411e76cafb7b0cc97ad259f37615">output_double</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1280,9 +1317,10 @@ References <a href="#a2626411e76cafb7b0cc97ad259f37615">output\_double</a> and <
 </div>
 <div class="doxyMemberDoc">
 
-Adds a double to the stream.
+<p>Adds a double to the stream.</p>
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1295,7 +1333,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a2626411e76cafb7b0cc97ad259f37615">output\_double</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.
+<p>References <a href="#a2626411e76cafb7b0cc97ad259f37615">output_double</a> and <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1328,9 +1367,10 @@ References <a href="#a2626411e76cafb7b0cc97ad259f37615">output\_double</a> and <
 </div>
 <div class="doxyMemberDoc">
 
-Clears any buffered data.
+<p>Clears any buffered data.</p>
 
-Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1342,7 +1382,8 @@ Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
+
 </div>
 </div>
 
@@ -1369,9 +1410,10 @@ Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Returns true iff the buffer is empty.
+<p>Returns true iff the buffer is empty.</p>
 
-Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1383,9 +1425,11 @@ Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93e17c4e30b815977a5c865">HtmlGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a174bf83fed06cf0780ec37022bfb931c">insertMapFile</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93e17c4e30b815977a5c865">HtmlGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a174bf83fed06cf0780ec37022bfb931c">insertMapFile</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -1414,7 +1458,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1426,7 +1471,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-Reference <a href="#a88c5744dd7d51305aa75034481a9baab">m\_f</a>.
+<p>Reference <a href="#a88c5744dd7d51305aa75034481a9baab">m_f</a>.</p>
+
 </div>
 </div>
 
@@ -1453,12 +1499,14 @@ Reference <a href="#a88c5744dd7d51305aa75034481a9baab">m\_f</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Flushes the buffer.
+<p>Flushes the buffer.</p>
 
 
-If a std::ostream is attached, the buffer's contents will be written to the stream.
+<p>If a std::ostream is attached, the buffer's contents will be written to the stream.</p>
 
-Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1478,9 +1526,11 @@ Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m\_f</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a>.
+<p>References <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m_f</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m_s</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbcf6279d70d38ee11b35ea55">FormulaManager::createLatexFile</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a>, <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>, <a href="#ad31970b450c75ccca13f56940853010e">str</a>, <a href="#a6c42948b189c9d16fe5eb9ae12112e74">str</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a66989e6892ad6bbb539241dedbfc4f9e">FlowChart::writeFlowChart</a> and <a href="#aca4cd037475e8c6f85c2665fe16b7dfb">\~TextStream</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbcf6279d70d38ee11b35ea55">FormulaManager::createLatexFile</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a>, <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>, <a href="#ad31970b450c75ccca13f56940853010e">str</a>, <a href="#a6c42948b189c9d16fe5eb9ae12112e74">str</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a66989e6892ad6bbb539241dedbfc4f9e">FlowChart::writeFlowChart</a> and <a href="#aca4cd037475e8c6f85c2665fe16b7dfb">~TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -1509,7 +1559,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1523,7 +1574,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m\_f</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a>.
+<p>References <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m_f</a> and <a href="#aa2cc389f03492be4163601478f0d9118">m_s</a>.</p>
+
 </div>
 </div>
 
@@ -1550,15 +1602,17 @@ References <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#a88
 </div>
 <div class="doxyMemberDoc">
 
-Sets or changes the std::ostream to write to.
+<p>Sets or changes the std::ostream to write to.</p>
+
 
 
 :::info
-Any data already buffered will be flushed.
+<p>Any data already buffered will be flushed.</p>
 :::
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1572,9 +1626,11 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-References <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m\_f</a>, <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.
+<p>References <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#a88c5744dd7d51305aa75034481a9baab">m_f</a>, <a href="#aa2cc389f03492be4163601478f0d9118">m_s</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.</p>
+
 </div>
 </div>
 
@@ -1601,9 +1657,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 </div>
 <div class="doxyMemberDoc">
 
-Return the contents of the buffer as a std::string object.
+<p>Return the contents of the buffer as a std::string object.</p>
 
-Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1615,9 +1672,11 @@ Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081b43164c747df76e55af9f">addConceptToContext</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1a6c7747b5e3263fe4e6b5">addMemberDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84e986afdbc14dcba2bcf3c">addVariableToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d637d9f99c1adef34aafe856">addVariableToFile</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a>, <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a8cb59745acc5f950c7fb14f28f4bfded">DotDirDeps::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a75c5c04dae25cb36a4715d0c49a4b196">DotGfxHierarchyTable::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a33f8dac0366f837a5880dc420d7c914d">DotGroupCollaboration::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotlegendgraph/#af02bfaa220696e0722080995d191d001">DotLegendGraph::computeTheGraph</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93e17c4e30b815977a5c865">HtmlGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a>, <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#aa474343ce62c6bd88db53d9924b223a0">getSearchBox</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a174bf83fed06cf0780ec37022bfb931c">insertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad32126ac958c2ac22491a47f6957935c">latexEscapeIndexChars</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#afd297d2d96747033593750c401bfe95e">latexEscapeLabelName</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a37bf597b522fe84aefa564de5b8489c2">latexEscapePDFString</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5b4eb46ed4177d10b053426f65925171">latexFilterURL</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a336a6313626a3a3931e2086fd507bedc">parseCommentAsText</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#aae9827c2942482734d1355ecddd0fa6d">templateSpec</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#aec66f0d2f6bb7fb2905bc14546af792b">SearchTerm::termEncoded</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a84317d2528b42fa86569b03c749c4d67">writeAnnotatedIndexGeneric</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac39a58bd916b4935b01c455139e5b7ad">writeConceptIndex</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad5e4237f97bd24dd695fe17757fd4894">writeHierarchicalExceptionIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad9ecde0657aa507c6867661b32867227">writeHierarchicalIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a54644bd1b33abadc0dde902ffb1a3823">writeHierarchicalInterfaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac799d77dfd71217b69bd642a39f5b0bb">writeModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4dc24ace0cd7831ca5accf9c98fb8812">writeNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4358eda73696cdd5f09ea53b317f4eee">writePageIndex</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a63db498aa23f4f344c482162bf88a93b">writeTopicIndex</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081b43164c747df76e55af9f">addConceptToContext</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7584c927ee1a6c7747b5e3263fe4e6b5">addMemberDocs</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0f2a35ddd84e986afdbc14dcba2bcf3c">addVariableToClass</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a704656a4d637d9f99c1adef34aafe856">addVariableToFile</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a15f2b9e1a8eeea607edeac8805528446">DotGraph::computeGraph</a>, <a href="/web-doxygen/docs/api/classes/dotdirdeps/#a8cb59745acc5f950c7fb14f28f4bfded">DotDirDeps::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#a75c5c04dae25cb36a4715d0c49a4b196">DotGfxHierarchyTable::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotgroupcollaboration/#a33f8dac0366f837a5880dc420d7c914d">DotGroupCollaboration::computeTheGraph</a>, <a href="/web-doxygen/docs/api/classes/dotlegendgraph/#af02bfaa220696e0722080995d191d001">DotLegendGraph::computeTheGraph</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5261de94ef3b325400ae7b7a0f71630a">convertToLaTeX</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a6e132b23d93e17c4e30b815977a5c865">HtmlGenerator::endClassDiagram</a>, <a href="/web-doxygen/docs/api/classes/entry/#a98c62e07d86951008cc8a0d60632c262">Entry::Entry</a>, <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp/#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa243c32e58b19c8d831a826a03bf3562">getMscImageMapFromFile</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#aa474343ce62c6bd88db53d9924b223a0">getSearchBox</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a088166e0f872cd290425780f4b5c45f6">getSQLDocBlock</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a174bf83fed06cf0780ec37022bfb931c">insertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad32126ac958c2ac22491a47f6957935c">latexEscapeIndexChars</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#afd297d2d96747033593750c401bfe95e">latexEscapeLabelName</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a37bf597b522fe84aefa564de5b8489c2">latexEscapePDFString</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5b4eb46ed4177d10b053426f65925171">latexFilterURL</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a24141a97ca3b089d108db4129d4047f6">parseCommentAsHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a336a6313626a3a3931e2086fd507bedc">parseCommentAsText</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/conceptdef-cpp/#aae9827c2942482734d1355ecddd0fa6d">templateSpec</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#aec66f0d2f6bb7fb2905bc14546af792b">SearchTerm::termEncoded</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a84317d2528b42fa86569b03c749c4d67">writeAnnotatedIndexGeneric</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac39a58bd916b4935b01c455139e5b7ad">writeConceptIndex</a>, <a href="/web-doxygen/docs/api/classes/conceptdefimpl/#aaa81776b056239d1cf7f84632a3eb5ae">ConceptDefImpl::writeDefinition</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#ada988a5303d67622cb43bd75c247fec2">writeDotImageMapFromFile</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a32155fdad3f4843c5d8743c037bf4846">writeFileIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad5e4237f97bd24dd695fe17757fd4894">writeHierarchicalExceptionIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ad9ecde0657aa507c6867661b32867227">writeHierarchicalIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a54644bd1b33abadc0dde902ffb1a3823">writeHierarchicalInterfaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#ac799d77dfd71217b69bd642a39f5b0bb">writeModuleIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4dc24ace0cd7831ca5accf9c98fb8812">writeNamespaceIndex</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#a4358eda73696cdd5f09ea53b317f4eee">writePageIndex</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a63db498aa23f4f344c482162bf88a93b">writeTopicIndex</a>.</p>
+
 </div>
 </div>
 
@@ -1644,12 +1703,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a115ebb5e081
 </div>
 <div class="doxyMemberDoc">
 
-Sets the buffer's contents to string <em>s</em>.
+<p>Sets the buffer's contents to string <em>s</em>.</p>
 
 
-Any data already in the buffer will be flushed.
+<p>Any data already in the buffer will be flushed.</p>
 
-Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+
+<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1662,7 +1723,8 @@ Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
+
 </div>
 </div>
 
@@ -1689,9 +1751,10 @@ References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#
 </div>
 <div class="doxyMemberDoc">
 
-Sets the buffer's contents to string <em>s</em> Any data already in the buffer will be flushed.
+<p>Sets the buffer's contents to string <em>s</em> Any data already in the buffer will be flushed.</p>
 
-Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1704,7 +1767,8 @@ Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
+
 </div>
 </div>
 
@@ -1731,16 +1795,17 @@ References <a href="#a907937b613a56aa4124608b3a092b820">flush</a> and <a href="#
 </div>
 <div class="doxyMemberDoc">
 
-Returns the attached std::ostream object.
+<p>Returns the attached std::ostream object.</p>
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream()</a></dd>
+<dd><p><a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream()</a></p></dd>
 </dl>
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1752,7 +1817,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-Reference <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a>.
+<p>Reference <a href="#aa2cc389f03492be4163601478f0d9118">m_s</a>.</p>
+
 </div>
 </div>
 
@@ -1779,7 +1845,7 @@ Reference <a href="#aa2cc389f03492be4163601478f0d9118">m\_s</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Adds a array of character to the stream.
+<p>Adds a array of character to the stream.</p>
 
 
 <dl class="doxyParamsList">
@@ -1788,17 +1854,18 @@ Adds a array of character to the stream.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">buf</td>
-<td class="doxyParamItemDescription">the character buffer</td>
+<td class="doxyParamItemDescription"><p>the character buffer</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">len</td>
-<td class="doxyParamItemDescription">the number of characters in the buffer to write</td>
+<td class="doxyParamItemDescription"><p>the number of characters in the buffer to write</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1810,9 +1877,11 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.</p>
+
 </div>
 </div>
 
@@ -1847,7 +1916,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369
 
 
 
-Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1861,9 +1931,11 @@ Definition at line 276 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">operator&lt;&lt;</a> and <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">operator&lt;&lt;</a>.
+
+<p>Referenced by <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">operator&lt;&lt;</a> and <a href="#a2b7107b1c22e3ec8488216d91aaeeeab">operator&lt;&lt;</a>.</p>
+
 </div>
 </div>
 
@@ -1890,7 +1962,7 @@ Referenced by <a href="#a59a3771bfe8030d4a2a2a4ac8d6aa13a">operator&lt;&lt;</a> 
 </div>
 <div class="doxyMemberDoc">
 
-Writes a string representation of an integer to the buffer.
+<p>Writes a string representation of an integer to the buffer.</p>
 
 
 <dl class="doxyParamsList">
@@ -1899,17 +1971,18 @@ Writes a string representation of an integer to the buffer.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">n</td>
-<td class="doxyParamItemDescription">the absolute value of the integer</td>
+<td class="doxyParamItemDescription"><p>the absolute value of the integer</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">neg</td>
-<td class="doxyParamItemDescription">indicates if the integer is negative</td>
+<td class="doxyParamItemDescription"><p>indicates if the integer is negative</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1930,9 +2003,11 @@ Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Reference <a href="#a588661b14e0e238906c63ee414a232ab">m\_buffer</a>.
+<p>Reference <a href="#a588661b14e0e238906c63ee414a232ab">m_buffer</a>.</p>
 
-Referenced by <a href="#a4efd56716095f7c011ce6f5981446af9">operator&lt;&lt;</a>, <a href="#a766bcb2fcaf9fc615131e66a5fce2717">operator&lt;&lt;</a>, <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">operator&lt;&lt;</a>, <a href="#afe6fc03e6de6c855495af00f6f9b09a1">operator&lt;&lt;</a> and <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">operator&lt;&lt;</a>.
+
+<p>Referenced by <a href="#a4efd56716095f7c011ce6f5981446af9">operator&lt;&lt;</a>, <a href="#a766bcb2fcaf9fc615131e66a5fce2717">operator&lt;&lt;</a>, <a href="#a69bdd4e0a8262e78b9e624a359f05b7a">operator&lt;&lt;</a>, <a href="#afe6fc03e6de6c855495af00f6f9b09a1">operator&lt;&lt;</a> and <a href="#a2c5bb0c9e5ebab3bef398d1e3ae3026b">operator&lt;&lt;</a>.</p>
+
 </div>
 </div>
 
@@ -1962,7 +2037,8 @@ Referenced by <a href="#a4efd56716095f7c011ce6f5981446af9">operator&lt;&lt;</a>,
 
 
 
-Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1971,7 +2047,8 @@ Definition at line 282 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Referenced by <a href="#afc87f49c9d496ce6409dd4e49226e11d">clear</a>, <a href="#a0859a9bfd6a7b6bafc7050d9f3aef046">empty</a>, <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">operator&lt;&lt;</a>, <a href="#a829e95bba078b91236e2df3ba3b61162">operator&lt;&lt;</a>, <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">operator&lt;&lt;</a>, <a href="#a25252516016426ddbb04481e4c40a798">operator&lt;&lt;</a>, <a href="#a161c4ba7441ee81fc558817211cce4bc">operator&lt;&lt;</a>, <a href="#aee6ef86e4ce8c8d1d2081352965f4018">operator&lt;&lt;</a>, <a href="#a2626411e76cafb7b0cc97ad259f37615">output\_double</a>, <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output\_int32</a>, <a href="#aca8457da22d874f4eb30b35ffe87ebd0">str</a>, <a href="#ad31970b450c75ccca13f56940853010e">str</a>, <a href="#a6c42948b189c9d16fe5eb9ae12112e74">str</a>, <a href="#a6c4167493d760a72984d1de542d12a9a">TextStream</a>, <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>, <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a> and <a href="#aaa78941b7f04d95ca3be7d11073828f0">write</a>.
+<p>Referenced by <a href="#afc87f49c9d496ce6409dd4e49226e11d">clear</a>, <a href="#a0859a9bfd6a7b6bafc7050d9f3aef046">empty</a>, <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af72300a280a492b7e0bd4fcd9fb7b7cd">operator&lt;&lt;</a>, <a href="#a829e95bba078b91236e2df3ba3b61162">operator&lt;&lt;</a>, <a href="#a6d31c2fb52c60b7f411f3b687fdb2840">operator&lt;&lt;</a>, <a href="#a25252516016426ddbb04481e4c40a798">operator&lt;&lt;</a>, <a href="#a161c4ba7441ee81fc558817211cce4bc">operator&lt;&lt;</a>, <a href="#aee6ef86e4ce8c8d1d2081352965f4018">operator&lt;&lt;</a>, <a href="#a2626411e76cafb7b0cc97ad259f37615">output_double</a>, <a href="#a42463de0e3fa4777714f8e8fc4f9355c">output_int32</a>, <a href="#aca8457da22d874f4eb30b35ffe87ebd0">str</a>, <a href="#ad31970b450c75ccca13f56940853010e">str</a>, <a href="#a6c42948b189c9d16fe5eb9ae12112e74">str</a>, <a href="#a6c4167493d760a72984d1de542d12a9a">TextStream</a>, <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a>, <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a> and <a href="#aaa78941b7f04d95ca3be7d11073828f0">write</a>.</p>
+
 </div>
 </div>
 
@@ -1995,7 +2072,8 @@ Referenced by <a href="#afc87f49c9d496ce6409dd4e49226e11d">clear</a>, <a href="#
 
 
 
-Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2004,7 +2082,8 @@ Definition at line 284 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Referenced by <a href="#ab74762855a83645704bbe8b79c53c614">file</a>, <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.
+<p>Referenced by <a href="#ab74762855a83645704bbe8b79c53c614">file</a>, <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a> and <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>.</p>
+
 </div>
 </div>
 
@@ -2028,7 +2107,8 @@ Referenced by <a href="#ab74762855a83645704bbe8b79c53c614">file</a>, <a href="#a
 
 
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2037,7 +2117,8 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/textstre
 </div>
 
 
-Referenced by <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a>, <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>, <a href="#a1d61011a2d8962b0bdbec11483ae5790">stream</a> and <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a>.
+<p>Referenced by <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#af285dfbd0040f7be9f3704738db024de">setFile</a>, <a href="#a18a4ee87242fc2b8e31941a71e622fd2">setStream</a>, <a href="#a1d61011a2d8962b0bdbec11483ae5790">stream</a> and <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a>.</p>
+
 </div>
 </div>
 
@@ -2072,7 +2153,8 @@ Referenced by <a href="#a907937b613a56aa4124608b3a092b820">flush</a>, <a href="#
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/textstream-h">textstream.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2081,7 +2163,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/textstrea
 </div>
 
 
-Referenced by <a href="#a6c4167493d760a72984d1de542d12a9a">TextStream</a>, <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a> and <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a>.
+<p>Referenced by <a href="#a6c4167493d760a72984d1de542d12a9a">TextStream</a>, <a href="#ae33c7c2cef250c2e773c7eccae7c7243">TextStream</a> and <a href="#aa22b5c028814c2e880c258caff567184">TextStream</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotAttributes` Class Reference
 
-Class representing an attribute list of a dot graph object. <a href="#details">More...</a>
+<p>Class representing an attribute list of a dot graph object. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DotAttributes { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates an instance of a DotAttribute list given its initial string representation. <a href="#aa87143b014cd674f622db1f2c2e0b28a">More...</a>
+<p>Creates an instance of a DotAttribute list given its initial string representation. <a href="#aa87143b014cd674f622db1f2c2e0b28a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -61,7 +61,7 @@ Creates an instance of a DotAttribute list given its initial string representati
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return the string representation of the attribute list. <a href="#aaee5c25bd25303a97739d3c43ee72449">More...</a>
+<p>Return the string representation of the attribute list. <a href="#aaee5c25bd25303a97739d3c43ee72449">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -104,9 +104,10 @@ Return the string representation of the attribute list. <a href="#aaee5c25bd2530
 
 ## Description {#details}
 
-Class representing an attribute list of a dot graph object.
+<p>Class representing an attribute list of a dot graph object.</p>
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -135,9 +136,10 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/dotattrib
 </div>
 <div class="doxyMemberDoc">
 
-Creates an instance of a DotAttribute list given its initial string representation.
+<p>Creates an instance of a DotAttribute list given its initial string representation.</p>
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -146,7 +148,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dotattrib
 </div>
 
 
-Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m\_input</a>.
+<p>Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m_input</a>.</p>
+
 </div>
 </div>
 
@@ -179,9 +182,10 @@ Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m\_input</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Return the string representation of the attribute list.
+<p>Return the string representation of the attribute list.</p>
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -190,9 +194,11 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/dotattrib
 </div>
 
 
-Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m\_input</a>.
+<p>Reference <a href="#aeb0354da75e7992d624891531ebef8e2">m_input</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#ad27e22c157d0c2d33414923d0a41c200">Config::updateObsolete</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#ad27e22c157d0c2d33414923d0a41c200">Config::updateObsolete</a>.</p>
+
 </div>
 </div>
 
@@ -222,9 +228,11 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#ad27e22c157d0c2d
 
 
 
-update a given attribute with a new value. If the attribute is not found a new attribute will be appended.
+<p>update a given attribute with a new value. If the attribute is not found a new attribute will be appended.</p>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.
+
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -277,9 +285,11 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotattrib
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aeb0354da75e7992d624891531ebef8e2">m\_input</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a77c877f20c7388af72f6a936072b5109">qisspace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#aeb0354da75e7992d624891531ebef8e2">m_input</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a77c877f20c7388af72f6a936072b5109">qisspace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af428b9307683dc2c090f7d837138b438">QCString::quoted</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a1ab01907c143c95a407993630bdfeba9">updateAttribute</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a1ab01907c143c95a407993630bdfeba9">updateAttribute</a>.</p>
+
 </div>
 </div>
 
@@ -309,7 +319,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a1ab01907c1
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/dotattributes-h">dotattributes.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +329,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/dotattrib
 </div>
 
 
-Referenced by <a href="#aa87143b014cd674f622db1f2c2e0b28a">DotAttributes</a>, <a href="#aaee5c25bd25303a97739d3c43ee72449">str</a> and <a href="#a379cba80b5c667d8d41d85426c4f5376">updateValue</a>.
+<p>Referenced by <a href="#aa87143b014cd674f622db1f2c2e0b28a">DotAttributes</a>, <a href="#aaee5c25bd25303a97739d3c43ee72449">str</a> and <a href="#a379cba80b5c667d8d41d85426c4f5376">updateValue</a>.</p>
+
 </div>
 </div>
 

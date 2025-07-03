@@ -1678,7 +1678,8 @@ class DefinitionMixin&lt;Base&gt; { ... }
 </table>
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -1711,9 +1712,11 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Create a new definition
+<p>Create a new definition</p>
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1725,9 +1728,11 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>, <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>, <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#aec5f32919542649a690cd311ec4bc7d6">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#a2b18a1e181f0001e50887bfb0e2f32a7">DefinitionMixin&lt; Base &gt;::operator=</a> and <a href="#a28ba90ab17bf7e21a396e8a5814dbd17">DefinitionMixin&lt; Base &gt;::operator=</a>.
+
+<p>Referenced by <a href="#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#aec5f32919542649a690cd311ec4bc7d6">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#a2b18a1e181f0001e50887bfb0e2f32a7">DefinitionMixin&lt; Base &gt;::operator=</a> and <a href="#a28ba90ab17bf7e21a396e8a5814dbd17">DefinitionMixin&lt; Base &gt;::operator=</a>.</p>
+
 </div>
 </div>
 
@@ -1757,7 +1762,8 @@ Referenced by <a href="#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt; B
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1766,7 +1772,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -1796,9 +1803,11 @@ References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
 
-Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>.
+
+<p>Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>.</p>
+
 </div>
 </div>
 
@@ -1834,7 +1843,8 @@ Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 </div>
 </div>
 
@@ -1870,7 +1880,8 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1879,7 +1890,8 @@ Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -1909,9 +1921,11 @@ References <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
 
-Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>.
+
+<p>Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>.</p>
+
 </div>
 </div>
 
@@ -1947,7 +1961,8 @@ Reference <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1957,7 +1972,8 @@ Definition at line 291 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.</p>
+
 </div>
 </div>
 
@@ -1987,7 +2003,8 @@ References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base
 
 
 
-Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1997,7 +2014,8 @@ Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2027,7 +2045,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2037,7 +2056,8 @@ Definition at line 245 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2067,7 +2087,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2077,7 +2098,8 @@ Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2107,7 +2129,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2117,7 +2140,8 @@ Definition at line 233 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2147,7 +2171,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2157,7 +2182,8 @@ Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2187,7 +2213,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2196,9 +2223,11 @@ Definition at line 175 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a73a802f4c5838f2ebe51f19aa9c2d8ea">abbreviate</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/definition-cpp/#a73a802f4c5838f2ebe51f19aa9c2d8ea">abbreviate</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3824166b5b2188e8d18fa4c29f220aa5">MemberDefImpl::briefDescription</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3824166b5b2188e8d18fa4c29f220aa5">MemberDefImpl::briefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -2228,7 +2257,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a3824166b5b2
 
 
 
-Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2237,7 +2267,8 @@ Definition at line 176 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2267,7 +2298,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2276,9 +2308,11 @@ Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>.
+
+<p>Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -2308,7 +2342,8 @@ Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; B
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2317,9 +2352,11 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>.
+
+<p>Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -2349,7 +2386,8 @@ Referenced by <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; B
 
 
 
-Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2359,7 +2397,8 @@ Definition at line 289 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2389,7 +2428,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2398,9 +2438,11 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a> and <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>.
+
+<p>Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a> and <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -2430,7 +2472,8 @@ Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; B
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2439,9 +2482,11 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a> and <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>.
+
+<p>Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a> and <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -2471,7 +2516,8 @@ Referenced by <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; B
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2480,9 +2526,11 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ace184e297580f096238b97fc6c2f14c7">MemberDefImpl::documentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ace184e297580f096238b97fc6c2f14c7">MemberDefImpl::documentation</a>.</p>
+
 </div>
 </div>
 
@@ -2512,7 +2560,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ace184e29758
 
 
 
-Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2521,7 +2570,8 @@ Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2551,7 +2601,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2560,7 +2611,8 @@ Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.</p>
+
 </div>
 </div>
 
@@ -2590,7 +2642,8 @@ References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base
 
 
 
-Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2599,7 +2652,8 @@ Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2629,7 +2683,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2638,7 +2693,8 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2668,7 +2724,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2677,7 +2734,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2707,7 +2765,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2716,9 +2775,11 @@ Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4dd50bd19a070adcdd48b71">ModuleDefImpl::mergeSymbolsFrom</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4dd50bd19a070adcdd48b71">ModuleDefImpl::mergeSymbolsFrom</a>.</p>
+
 </div>
 </div>
 
@@ -2748,7 +2809,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4d
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2757,9 +2819,11 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4dd50bd19a070adcdd48b71">ModuleDefImpl::mergeSymbolsFrom</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4dd50bd19a070adcdd48b71">ModuleDefImpl::mergeSymbolsFrom</a>.</p>
+
 </div>
 </div>
 
@@ -2789,7 +2853,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/moduledefimpl/#a74e7d2dfc4d
 
 
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2798,7 +2863,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2828,7 +2894,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2837,7 +2904,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2867,7 +2935,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2876,7 +2945,8 @@ Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2906,7 +2976,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2915,9 +2986,11 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a0164826d41cea9b086b19576f9d17e78">ClassDefImpl::getReference</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac86cd7aa5ce2d8d62ce8d8ab3fc035af">MemberDefImpl::getReference</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a0164826d41cea9b086b19576f9d17e78">ClassDefImpl::getReference</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#ac86cd7aa5ce2d8d62ce8d8ab3fc035af">MemberDefImpl::getReference</a>.</p>
+
 </div>
 </div>
 
@@ -2947,7 +3020,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a0164826d41ce
 
 
 
-Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2956,7 +3030,8 @@ Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -2986,7 +3061,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2995,7 +3071,8 @@ Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3025,7 +3102,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3034,7 +3112,8 @@ Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3064,7 +3143,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3073,7 +3153,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3103,7 +3184,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3112,9 +3194,11 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#afcb63a3b0089fb71f3f73a9b03c7fc31">ClassDefImpl::getSourceFileBase</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#afcb63a3b0089fb71f3f73a9b03c7fc31">ClassDefImpl::getSourceFileBase</a>.</p>
+
 </div>
 </div>
 
@@ -3144,7 +3228,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#afcb63a3b0089
 
 
 
-Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3153,7 +3238,8 @@ Definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3183,7 +3269,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3192,7 +3279,8 @@ Definition at line 196 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3222,7 +3310,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3231,7 +3320,8 @@ Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3261,7 +3351,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3270,9 +3361,11 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae29d1e189d9b89a28dd51f26cab22f80">ClassDefImpl::hasDocumentation</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#abd0635e8066f90ac2b0b7fe1e2e52f6f">MemberDefImpl::hasDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae29d1e189d9b89a28dd51f26cab22f80">ClassDefImpl::hasDocumentation</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#abd0635e8066f90ac2b0b7fe1e2e52f6f">MemberDefImpl::hasDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -3302,7 +3395,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#ae29d1e189d9b
 
 
 
-Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3311,7 +3405,8 @@ Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3341,7 +3436,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3351,7 +3447,8 @@ Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3381,7 +3478,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3391,7 +3489,8 @@ Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3421,7 +3520,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3430,7 +3530,8 @@ Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3460,7 +3561,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3469,9 +3571,11 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a42eb6508c403c170f82da3c1023acdd2">MemberDefImpl::hasUserDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a42eb6508c403c170f82da3c1023acdd2">MemberDefImpl::hasUserDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -3501,7 +3605,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a42eb6508c40
 
 
 
-Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3510,7 +3615,8 @@ Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3540,7 +3646,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3549,7 +3656,8 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3579,7 +3687,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3588,7 +3697,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3618,7 +3728,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3627,7 +3738,8 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3657,7 +3769,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3666,7 +3779,8 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -3696,7 +3810,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3705,7 +3820,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3735,7 +3851,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3744,7 +3861,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3774,7 +3892,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3783,7 +3902,8 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3813,7 +3933,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3822,7 +3943,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3852,7 +3974,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3861,7 +3984,8 @@ Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3891,7 +4015,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3900,9 +4025,11 @@ Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a6cfddb7b53727313068eaeb3d11cc47d">ClassDefImpl::isReference</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2e5d400dee873383aba9435ca6bf6560">MemberDefImpl::isReference</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a6cfddb7b53727313068eaeb3d11cc47d">ClassDefImpl::isReference</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2e5d400dee873383aba9435ca6bf6560">MemberDefImpl::isReference</a>.</p>
+
 </div>
 </div>
 
@@ -3932,7 +4059,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/classdefimpl/#a6cfddb7b5372
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3941,7 +4069,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -3971,7 +4100,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3980,7 +4110,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4010,7 +4141,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4019,7 +4151,8 @@ Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4049,7 +4182,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4059,7 +4193,8 @@ Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4089,7 +4224,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4099,7 +4235,8 @@ Definition at line 243 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4129,7 +4266,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4139,7 +4277,8 @@ Definition at line 241 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4169,7 +4308,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4179,7 +4319,8 @@ Definition at line 239 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4209,7 +4350,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4218,9 +4360,11 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="#a1f425520bda2df8a42b4a804806879cc">DefinitionMixin&lt; Base &gt;::\_setSymbolName</a>, <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a29f03d38a8c3a17ed8bfd7c7b45aedf0">GroupDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a665ab7cf57db208502f36d382cf88ce6">MemberDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#aa97380304b365c704f3198fc66efa73d">PageDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac43c4867446413fa46a4d1140f40eb9f">FileDefImpl::FileDefImpl</a>, <a href="#ac8df42dc069675f2835ab89b73015cfe">DefinitionMixin&lt; Base &gt;::findInnerCompound</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a864e550c852235c136046b55066365a6">FileDefImpl::name</a>, <a href="#a34b916976d8f272c97f00d74001fdd0c">DefinitionMixin&lt; Base &gt;::setId</a>, <a href="#abf40dcb168e2a970e68dabbcbde25ee6">DefinitionMixin&lt; Base &gt;::setLocalName</a> and <a href="#a7d64f115d59d2667225ea684dfd2aa9d">DefinitionMixin&lt; Base &gt;::setName</a>.
+
+<p>Referenced by <a href="#a1f425520bda2df8a42b4a804806879cc">DefinitionMixin&lt; Base &gt;::_setSymbolName</a>, <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="/web-doxygen/docs/api/classes/groupdefimpl/#a29f03d38a8c3a17ed8bfd7c7b45aedf0">GroupDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a665ab7cf57db208502f36d382cf88ce6">MemberDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/pagedefimpl/#aa97380304b365c704f3198fc66efa73d">PageDefImpl::displayName</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#ac43c4867446413fa46a4d1140f40eb9f">FileDefImpl::FileDefImpl</a>, <a href="#ac8df42dc069675f2835ab89b73015cfe">DefinitionMixin&lt; Base &gt;::findInnerCompound</a>, <a href="/web-doxygen/docs/api/classes/filedefimpl/#a864e550c852235c136046b55066365a6">FileDefImpl::name</a>, <a href="#a34b916976d8f272c97f00d74001fdd0c">DefinitionMixin&lt; Base &gt;::setId</a>, <a href="#abf40dcb168e2a970e68dabbcbde25ee6">DefinitionMixin&lt; Base &gt;::setLocalName</a> and <a href="#a7d64f115d59d2667225ea684dfd2aa9d">DefinitionMixin&lt; Base &gt;::setName</a>.</p>
+
 </div>
 </div>
 
@@ -4250,7 +4394,8 @@ Referenced by <a href="#a1f425520bda2df8a42b4a804806879cc">DefinitionMixin&lt; B
 
 
 
-Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4260,7 +4405,8 @@ Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4290,7 +4436,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4299,7 +4446,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4329,7 +4477,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4339,7 +4488,8 @@ Definition at line 281 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4369,7 +4519,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4378,9 +4529,11 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2321a445b1cd8afde4016715417435eb">MemberDefImpl::qualifiedName</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2321a445b1cd8afde4016715417435eb">MemberDefImpl::qualifiedName</a>.</p>
+
 </div>
 </div>
 
@@ -4410,7 +4563,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a2321a445b1c
 
 
 
-Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4420,7 +4574,8 @@ Definition at line 251 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4450,7 +4605,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4460,7 +4616,8 @@ Definition at line 231 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4490,7 +4647,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4500,7 +4658,8 @@ Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4530,7 +4689,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4540,9 +4700,11 @@ Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#a41226d110ae0c4514ec5d2acce3b5a1d">DefinitionMixin&lt; Base &gt;::briefFile</a>, <a href="#ae6d1d3c3703fd95217c72b5e09e6026b">DefinitionMixin&lt; Base &gt;::briefLine</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>References <a href="#a41226d110ae0c4514ec5d2acce3b5a1d">DefinitionMixin&lt; Base &gt;::briefFile</a>, <a href="#ae6d1d3c3703fd95217c72b5e09e6026b">DefinitionMixin&lt; Base &gt;::briefLine</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#af801e76c7e6cdaa106fb020538267e08">MemberDefImpl::setBriefDescription</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#af801e76c7e6cdaa106fb020538267e08">MemberDefImpl::setBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -4572,7 +4734,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#af801e76c7e6
 
 
 
-Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4582,7 +4745,8 @@ Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4612,7 +4776,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4622,9 +4787,11 @@ Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a>, <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a>, <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#aef47e534975880014a6514745e885a99">stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a56fca82d471e653da6daf3177a58a270">MemberDefImpl::setDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a56fca82d471e653da6daf3177a58a270">MemberDefImpl::setDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -4654,7 +4821,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a56fca82d471
 
 
 
-Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4664,7 +4832,8 @@ Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4694,7 +4863,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4704,9 +4874,11 @@ Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a18dbfa828cd48e261c2558ea4dcebb52">MemberDefImpl::setHidden</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a18dbfa828cd48e261c2558ea4dcebb52">MemberDefImpl::setHidden</a>.</p>
+
 </div>
 </div>
 
@@ -4736,7 +4908,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a18dbfa828cd
 
 
 
-Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4745,9 +4918,11 @@ Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>.</p>
+
 </div>
 </div>
 
@@ -4777,7 +4952,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bf
 
 
 
-Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4787,9 +4963,11 @@ Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>References <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a> and <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9c839795961099b7cc26d24b267910d7">MemberDefImpl::setInbodyDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9c839795961099b7cc26d24b267910d7">MemberDefImpl::setInbodyDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -4819,7 +4997,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a9c839795961
 
 
 
-Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4829,7 +5008,8 @@ Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4859,7 +5039,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4869,7 +5050,8 @@ Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.</p>
+
 </div>
 </div>
 
@@ -4899,7 +5081,8 @@ References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base
 
 
 
-Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4908,9 +5091,11 @@ Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.
+<p>References <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a> and <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#ad69defdcb3fb2c2d26fe2e5a15e8f723">NamespaceDefImpl::setName</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#ad69defdcb3fb2c2d26fe2e5a15e8f723">NamespaceDefImpl::setName</a>.</p>
+
 </div>
 </div>
 
@@ -4940,7 +5125,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/namespacedefimpl/#ad69defdc
 
 
 
-Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4950,7 +5136,8 @@ Definition at line 247 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -4980,7 +5167,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4990,9 +5178,11 @@ Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bfb6a6d27731b5290580c96">ModuleManager::addTagInfo</a>.</p>
+
 </div>
 </div>
 
@@ -5022,7 +5212,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/modulemanager/#a698e0a915bf
 
 
 
-Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5032,7 +5223,8 @@ Definition at line 237 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5062,7 +5254,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5071,7 +5264,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5101,7 +5295,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5111,7 +5306,8 @@ Definition at line 283 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5141,7 +5337,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5151,7 +5348,8 @@ Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5181,7 +5379,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5191,7 +5390,8 @@ Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5221,7 +5421,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5231,7 +5432,8 @@ Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5261,7 +5463,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5271,7 +5474,8 @@ Definition at line 275 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5301,7 +5505,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5311,7 +5516,8 @@ Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5341,7 +5547,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5351,7 +5558,8 @@ Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5381,7 +5589,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5391,7 +5600,8 @@ Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5421,7 +5631,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5431,7 +5642,8 @@ Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5461,7 +5673,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5471,7 +5684,8 @@ Definition at line 287 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5501,7 +5715,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5510,7 +5725,8 @@ Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5546,7 +5762,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5583,7 +5800,8 @@ Definition at line 297 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5592,7 +5810,8 @@ Definition at line 299 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m\_impl</a>.
+<p>Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base &gt;::m_impl</a>.</p>
+
 </div>
 </div>
 
@@ -5622,7 +5841,8 @@ Reference <a href="#ad289ca02baba6cbd480afa1e9bbc27c1">DefinitionMixin&lt; Base 
 
 
 
-Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5660,7 +5880,8 @@ Definition at line 298 of file <a href="/web-doxygen/docs/api/files/src/definiti
 
 
 
-Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.
+<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/definitionimpl-h">definitionimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5669,7 +5890,8 @@ Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/definiti
 </div>
 
 
-Referenced by <a href="#a1f425520bda2df8a42b4a804806879cc">DefinitionMixin&lt; Base &gt;::\_setSymbolName</a>, <a href="#a2a045a5eb349b5ed419a067c2d2fde96">DefinitionMixin&lt; Base &gt;::\_symbolName</a>, <a href="#a3e1056f3e52c899cbb2ea8b4b513748f">DefinitionMixin&lt; Base &gt;::addInnerCompound</a>, <a href="#a2367c2405cb856670d78d45053cbe2c7">DefinitionMixin&lt; Base &gt;::addSectionsToDefinition</a>, <a href="#a3bd511a0977bf2621a15edbe0d90ed32">DefinitionMixin&lt; Base &gt;::addSourceReferencedBy</a>, <a href="#a963c53f9395e89eb1c3a12e40cbf51b9">DefinitionMixin&lt; Base &gt;::addSourceReferences</a>, <a href="#a7dc1bbded3ac0ed218fff164f1da0504">DefinitionMixin&lt; Base &gt;::briefDescription</a>, <a href="#a33c52548681bf6be9ef52027adb53f83">DefinitionMixin&lt; Base &gt;::briefDescriptionAsTooltip</a>, <a href="#a41226d110ae0c4514ec5d2acce3b5a1d">DefinitionMixin&lt; Base &gt;::briefFile</a>, <a href="#ae6d1d3c3703fd95217c72b5e09e6026b">DefinitionMixin&lt; Base &gt;::briefLine</a>, <a href="#ab7826eed19f5c7c6f60b781f66a2c4cb">DefinitionMixin&lt; Base &gt;::computeTooltip</a>, <a href="#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a>, <a href="#ae8fdeb361a15e2342867d47936e0e5cd">DefinitionMixin&lt; Base &gt;::documentation</a>, <a href="#a023727ef82a91c6c1fa150409180851b">DefinitionMixin&lt; Base &gt;::externalReference</a>, <a href="#ac8df42dc069675f2835ab89b73015cfe">DefinitionMixin&lt; Base &gt;::findInnerCompound</a>, <a href="#accaec928eb70b0232fb7b1666cac3485">DefinitionMixin&lt; Base &gt;::getBodyDef</a>, <a href="#aeb503ebb52acc96c37bb3cd30190b72f">DefinitionMixin&lt; Base &gt;::getDefColumn</a>, <a href="#a3c8ff898904d67dbed89c16e4bc4210b">DefinitionMixin&lt; Base &gt;::getDefFileExtension</a>, <a href="#a110bf2aa0cf3af983ac301adb0483a2f">DefinitionMixin&lt; Base &gt;::getDefFileName</a>, <a href="#a016daf21744b5c79ec6232a7b247b042">DefinitionMixin&lt; Base &gt;::getDefLine</a>, <a href="#aa4c29fec74b7015e02a76354c268f1d6">DefinitionMixin&lt; Base &gt;::getEndBodyLine</a>, <a href="#aff16f5c631848265076805fa667fc43a">DefinitionMixin&lt; Base &gt;::getLanguage</a>, <a href="#a9205d504e802a7030d5f8408b0347176">DefinitionMixin&lt; Base &gt;::getOuterScope</a>, <a href="#a9de91e7b1badbba3573f6c1827eab01c">DefinitionMixin&lt; Base &gt;::getReference</a>, <a href="#a5e4ca19102a811875f1917b0caad407d">DefinitionMixin&lt; Base &gt;::getReferencedByMembers</a>, <a href="#a778beca21c8fde89bba352467dbcb655">DefinitionMixin&lt; Base &gt;::getReferencesMembers</a>, <a href="#adef316d429538b09212c34eda65a5cab">DefinitionMixin&lt; Base &gt;::getSectionRefs</a>, <a href="#a456387716bea5b3efb759ae28e016012">DefinitionMixin&lt; Base &gt;::getSourceAnchor</a>, <a href="#a6936f9ad8c00e760f0d3f2a9f71d8062">DefinitionMixin&lt; Base &gt;::getSourceFileBase</a>, <a href="#acf6ad305b67c683d1d30c51f6f1c2b62">DefinitionMixin&lt; Base &gt;::getStartBodyLine</a>, <a href="#ad17428050c735af6bf1adf5507f53e8f">DefinitionMixin&lt; Base &gt;::getStartDefLine</a>, <a href="#a2a93cd5cf5b0945e68de39ed6f7684df">DefinitionMixin&lt; Base &gt;::hasBriefDescription</a>, <a href="#afe3c1ea08436b40521d94878cadf9c0f">DefinitionMixin&lt; Base &gt;::hasDocumentation</a>, <a href="#ad372f7b60a11a8ca3a2ffa4a0ce12eb4">DefinitionMixin&lt; Base &gt;::hasSections</a>, <a href="#a8019928f9557a20ee13eb6d31e5e9943">DefinitionMixin&lt; Base &gt;::hasSourceReffedBy</a>, <a href="#ab3637501f75263f66aeeb56f088b9585">DefinitionMixin&lt; Base &gt;::hasSourceRefs</a>, <a href="#a3f6c82ff6cc6ccc6fc75c2399828e5ee">DefinitionMixin&lt; Base &gt;::hasSources</a>, <a href="#a0aaa947a6a57bf5c7698f8c854f7ebb9">DefinitionMixin&lt; Base &gt;::hasUserDocumentation</a>, <a href="#a5664b56e962bcc049e8a59cd3ffe5a68">DefinitionMixin&lt; Base &gt;::id</a>, <a href="#ad3ac9d5d6118dcce7ece8ca2b4cfbb25">DefinitionMixin&lt; Base &gt;::inbodyDocumentation</a>, <a href="#a0c0d049fa0196e7b240dcc35d349ab5b">DefinitionMixin&lt; Base &gt;::inbodyFile</a>, <a href="#ad667c5e00fe9063054fd9bf4d25b3b88">DefinitionMixin&lt; Base &gt;::inbodyLine</a>, <a href="#a4e8481d8676dbc4609b6164c38a3d106">DefinitionMixin&lt; Base &gt;::isAnonymous</a>, <a href="#ae1b90ef5245bf2fffa90b41da2f9f66e">DefinitionMixin&lt; Base &gt;::isArtificial</a>, <a href="#a1c14be8556addce7b154dc26059ecd5e">DefinitionMixin&lt; Base &gt;::isExported</a>, <a href="#ab5feda26fd74e0f0c430132b36942f4c">DefinitionMixin&lt; Base &gt;::isHidden</a>, <a href="#a1b4737d666571fd4e7868030a322b42f">DefinitionMixin&lt; Base &gt;::isLinkableViaGroup</a>, <a href="#a02af6a985756c345fcc5b94962c11213">DefinitionMixin&lt; Base &gt;::isReference</a>, <a href="#ab5e39836930c40293df64e90d435ef40">DefinitionMixin&lt; Base &gt;::isVisible</a>, <a href="#a180f4796532e181fc5bb1014c7a77d9a">DefinitionMixin&lt; Base &gt;::isVisibleInProject</a>, <a href="#aaef9557cbcd9ef70171b43669cbf69e4">DefinitionMixin&lt; Base &gt;::localName</a>, <a href="#a68421bb76ed3da467e074ecb06e5cf12">DefinitionMixin&lt; Base &gt;::makePartOfGroup</a>, <a href="#aa14c9f0a9553f1bf85c0a71c921e441c">DefinitionMixin&lt; Base &gt;::mergeReferencedBy</a>, <a href="#a6b8996a6213108c6d925e284d372bf26">DefinitionMixin&lt; Base &gt;::mergeReferences</a>, <a href="#abbbd4d57b3f9c4c6a1bf436a6418c499">DefinitionMixin&lt; Base &gt;::mergeRefItems</a>, <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>, <a href="#af64c20fb61ef66db149815f84ef20124">DefinitionMixin&lt; Base &gt;::navigationPathAsString</a>, <a href="#a2b18a1e181f0001e50887bfb0e2f32a7">DefinitionMixin&lt; Base &gt;::operator=</a>, <a href="#ac930798d5e2008a99386890ea44f8625">DefinitionMixin&lt; Base &gt;::partOfGroups</a>, <a href="#a923515abd1bebf6566f807b4dc2e02bd">DefinitionMixin&lt; Base &gt;::pathFragment</a>, <a href="#a47fbd183e7875e3446a5a5059fc3fc18">DefinitionMixin&lt; Base &gt;::qualifiedName</a>, <a href="#a6faed3bc5a08c5f991d1223b11f46bc7">DefinitionMixin&lt; Base &gt;::setArtificial</a>, <a href="#aa6dbecf61d4840467a33899011d0cb11">DefinitionMixin&lt; Base &gt;::setBodyDef</a>, <a href="#a09634fd6d1779376b3c53141ba3f3d26">DefinitionMixin&lt; Base &gt;::setBodySegment</a>, <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>, <a href="#ad1c72eb42ed909d2056c16f3bcbf960f">DefinitionMixin&lt; Base &gt;::setDefFile</a>, <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a>, <a href="#a71b4c90ca024920118d6da8ac61ea689">DefinitionMixin&lt; Base &gt;::setExported</a>, <a href="#adb72e3dd9d7e09222e8b351c744d844e">DefinitionMixin&lt; Base &gt;::setHidden</a>, <a href="#a34b916976d8f272c97f00d74001fdd0c">DefinitionMixin&lt; Base &gt;::setId</a>, <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>, <a href="#a513b45b150ca956112360ccf93f7cebd">DefinitionMixin&lt; Base &gt;::setLanguage</a>, <a href="#abf40dcb168e2a970e68dabbcbde25ee6">DefinitionMixin&lt; Base &gt;::setLocalName</a>, <a href="#a7d64f115d59d2667225ea684dfd2aa9d">DefinitionMixin&lt; Base &gt;::setName</a>, <a href="#a5701961a47f8f5336495771c8d3d611d">DefinitionMixin&lt; Base &gt;::setOuterScope</a>, <a href="#a5b7806d54dc3504a626078ac0d22dc19">DefinitionMixin&lt; Base &gt;::setReference</a>, <a href="#af1dfd6ae62c6a43f590645a80fc039a7">DefinitionMixin&lt; Base &gt;::setRefItems</a>, <a href="#a5d92005bf382f44874dc7b34196a1ac4">DefinitionMixin&lt; Base &gt;::symbolName</a>, <a href="#a8344f08e2dda50c48becfde382067b46">DefinitionMixin&lt; Base &gt;::toDefinitionImpl\_</a>, <a href="#afcd2841ebfa088d88d8624e5f54f1aa9">DefinitionMixin&lt; Base &gt;::writeDocAnchorsToTagFile</a>, <a href="#ab4f70a9c2798cb1b656a002e28af6a87">DefinitionMixin&lt; Base &gt;::writeInlineCode</a>, <a href="#a1920f150021e040075a423418fb0e85a">DefinitionMixin&lt; Base &gt;::writeNavigationPath</a>, <a href="#a48df7719d4f28f55162adc4b1064699b">DefinitionMixin&lt; Base &gt;::writePageNavigation</a>, <a href="#ad191384d79c44e12ae31ee900209c3c6">DefinitionMixin&lt; Base &gt;::writeQuickMemberLinks</a>, <a href="#a0922bcff85f540f991fd4e5fd3a68a02">DefinitionMixin&lt; Base &gt;::writeSourceDef</a>, <a href="#a91fa887054f1f3aafb9bb330491b8f84">DefinitionMixin&lt; Base &gt;::writeSourceReffedBy</a>, <a href="#a24663e9c959433e58e8e102ad4306814">DefinitionMixin&lt; Base &gt;::writeSourceRefs</a>, <a href="#ad951f2f7aef7a2408a8bafc08b7b5899">DefinitionMixin&lt; Base &gt;::writeSummaryLinks</a>, <a href="#ad12243a0430f318cbe3b499ca21c9e4b">DefinitionMixin&lt; Base &gt;::writeToc</a> and <a href="#a7080c8c1be27b05ba64f160655530571">DefinitionMixin&lt; Base &gt;::xrefListItems</a>.
+<p>Referenced by <a href="#a1f425520bda2df8a42b4a804806879cc">DefinitionMixin&lt; Base &gt;::_setSymbolName</a>, <a href="#a2a045a5eb349b5ed419a067c2d2fde96">DefinitionMixin&lt; Base &gt;::_symbolName</a>, <a href="#a3e1056f3e52c899cbb2ea8b4b513748f">DefinitionMixin&lt; Base &gt;::addInnerCompound</a>, <a href="#a2367c2405cb856670d78d45053cbe2c7">DefinitionMixin&lt; Base &gt;::addSectionsToDefinition</a>, <a href="#a3bd511a0977bf2621a15edbe0d90ed32">DefinitionMixin&lt; Base &gt;::addSourceReferencedBy</a>, <a href="#a963c53f9395e89eb1c3a12e40cbf51b9">DefinitionMixin&lt; Base &gt;::addSourceReferences</a>, <a href="#a7dc1bbded3ac0ed218fff164f1da0504">DefinitionMixin&lt; Base &gt;::briefDescription</a>, <a href="#a33c52548681bf6be9ef52027adb53f83">DefinitionMixin&lt; Base &gt;::briefDescriptionAsTooltip</a>, <a href="#a41226d110ae0c4514ec5d2acce3b5a1d">DefinitionMixin&lt; Base &gt;::briefFile</a>, <a href="#ae6d1d3c3703fd95217c72b5e09e6026b">DefinitionMixin&lt; Base &gt;::briefLine</a>, <a href="#ab7826eed19f5c7c6f60b781f66a2c4cb">DefinitionMixin&lt; Base &gt;::computeTooltip</a>, <a href="#a9b3cbc90a75238c4231cbaad9107f13f">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#aa314c6a73e812b62d5e991ebd695cdd1">DefinitionMixin&lt; Base &gt;::DefinitionMixin</a>, <a href="#a35745772d5cbc15835976d602ebae951">DefinitionMixin&lt; Base &gt;::docFile</a>, <a href="#ad46b34a786acf616797f7ea22c733fca">DefinitionMixin&lt; Base &gt;::docLine</a>, <a href="#ae8fdeb361a15e2342867d47936e0e5cd">DefinitionMixin&lt; Base &gt;::documentation</a>, <a href="#a023727ef82a91c6c1fa150409180851b">DefinitionMixin&lt; Base &gt;::externalReference</a>, <a href="#ac8df42dc069675f2835ab89b73015cfe">DefinitionMixin&lt; Base &gt;::findInnerCompound</a>, <a href="#accaec928eb70b0232fb7b1666cac3485">DefinitionMixin&lt; Base &gt;::getBodyDef</a>, <a href="#aeb503ebb52acc96c37bb3cd30190b72f">DefinitionMixin&lt; Base &gt;::getDefColumn</a>, <a href="#a3c8ff898904d67dbed89c16e4bc4210b">DefinitionMixin&lt; Base &gt;::getDefFileExtension</a>, <a href="#a110bf2aa0cf3af983ac301adb0483a2f">DefinitionMixin&lt; Base &gt;::getDefFileName</a>, <a href="#a016daf21744b5c79ec6232a7b247b042">DefinitionMixin&lt; Base &gt;::getDefLine</a>, <a href="#aa4c29fec74b7015e02a76354c268f1d6">DefinitionMixin&lt; Base &gt;::getEndBodyLine</a>, <a href="#aff16f5c631848265076805fa667fc43a">DefinitionMixin&lt; Base &gt;::getLanguage</a>, <a href="#a9205d504e802a7030d5f8408b0347176">DefinitionMixin&lt; Base &gt;::getOuterScope</a>, <a href="#a9de91e7b1badbba3573f6c1827eab01c">DefinitionMixin&lt; Base &gt;::getReference</a>, <a href="#a5e4ca19102a811875f1917b0caad407d">DefinitionMixin&lt; Base &gt;::getReferencedByMembers</a>, <a href="#a778beca21c8fde89bba352467dbcb655">DefinitionMixin&lt; Base &gt;::getReferencesMembers</a>, <a href="#adef316d429538b09212c34eda65a5cab">DefinitionMixin&lt; Base &gt;::getSectionRefs</a>, <a href="#a456387716bea5b3efb759ae28e016012">DefinitionMixin&lt; Base &gt;::getSourceAnchor</a>, <a href="#a6936f9ad8c00e760f0d3f2a9f71d8062">DefinitionMixin&lt; Base &gt;::getSourceFileBase</a>, <a href="#acf6ad305b67c683d1d30c51f6f1c2b62">DefinitionMixin&lt; Base &gt;::getStartBodyLine</a>, <a href="#ad17428050c735af6bf1adf5507f53e8f">DefinitionMixin&lt; Base &gt;::getStartDefLine</a>, <a href="#a2a93cd5cf5b0945e68de39ed6f7684df">DefinitionMixin&lt; Base &gt;::hasBriefDescription</a>, <a href="#afe3c1ea08436b40521d94878cadf9c0f">DefinitionMixin&lt; Base &gt;::hasDocumentation</a>, <a href="#ad372f7b60a11a8ca3a2ffa4a0ce12eb4">DefinitionMixin&lt; Base &gt;::hasSections</a>, <a href="#a8019928f9557a20ee13eb6d31e5e9943">DefinitionMixin&lt; Base &gt;::hasSourceReffedBy</a>, <a href="#ab3637501f75263f66aeeb56f088b9585">DefinitionMixin&lt; Base &gt;::hasSourceRefs</a>, <a href="#a3f6c82ff6cc6ccc6fc75c2399828e5ee">DefinitionMixin&lt; Base &gt;::hasSources</a>, <a href="#a0aaa947a6a57bf5c7698f8c854f7ebb9">DefinitionMixin&lt; Base &gt;::hasUserDocumentation</a>, <a href="#a5664b56e962bcc049e8a59cd3ffe5a68">DefinitionMixin&lt; Base &gt;::id</a>, <a href="#ad3ac9d5d6118dcce7ece8ca2b4cfbb25">DefinitionMixin&lt; Base &gt;::inbodyDocumentation</a>, <a href="#a0c0d049fa0196e7b240dcc35d349ab5b">DefinitionMixin&lt; Base &gt;::inbodyFile</a>, <a href="#ad667c5e00fe9063054fd9bf4d25b3b88">DefinitionMixin&lt; Base &gt;::inbodyLine</a>, <a href="#a4e8481d8676dbc4609b6164c38a3d106">DefinitionMixin&lt; Base &gt;::isAnonymous</a>, <a href="#ae1b90ef5245bf2fffa90b41da2f9f66e">DefinitionMixin&lt; Base &gt;::isArtificial</a>, <a href="#a1c14be8556addce7b154dc26059ecd5e">DefinitionMixin&lt; Base &gt;::isExported</a>, <a href="#ab5feda26fd74e0f0c430132b36942f4c">DefinitionMixin&lt; Base &gt;::isHidden</a>, <a href="#a1b4737d666571fd4e7868030a322b42f">DefinitionMixin&lt; Base &gt;::isLinkableViaGroup</a>, <a href="#a02af6a985756c345fcc5b94962c11213">DefinitionMixin&lt; Base &gt;::isReference</a>, <a href="#ab5e39836930c40293df64e90d435ef40">DefinitionMixin&lt; Base &gt;::isVisible</a>, <a href="#a180f4796532e181fc5bb1014c7a77d9a">DefinitionMixin&lt; Base &gt;::isVisibleInProject</a>, <a href="#aaef9557cbcd9ef70171b43669cbf69e4">DefinitionMixin&lt; Base &gt;::localName</a>, <a href="#a68421bb76ed3da467e074ecb06e5cf12">DefinitionMixin&lt; Base &gt;::makePartOfGroup</a>, <a href="#aa14c9f0a9553f1bf85c0a71c921e441c">DefinitionMixin&lt; Base &gt;::mergeReferencedBy</a>, <a href="#a6b8996a6213108c6d925e284d372bf26">DefinitionMixin&lt; Base &gt;::mergeReferences</a>, <a href="#abbbd4d57b3f9c4c6a1bf436a6418c499">DefinitionMixin&lt; Base &gt;::mergeRefItems</a>, <a href="#a084cf29cf38b39f8826f74300ec142a3">DefinitionMixin&lt; Base &gt;::name</a>, <a href="#af64c20fb61ef66db149815f84ef20124">DefinitionMixin&lt; Base &gt;::navigationPathAsString</a>, <a href="#a2b18a1e181f0001e50887bfb0e2f32a7">DefinitionMixin&lt; Base &gt;::operator=</a>, <a href="#ac930798d5e2008a99386890ea44f8625">DefinitionMixin&lt; Base &gt;::partOfGroups</a>, <a href="#a923515abd1bebf6566f807b4dc2e02bd">DefinitionMixin&lt; Base &gt;::pathFragment</a>, <a href="#a47fbd183e7875e3446a5a5059fc3fc18">DefinitionMixin&lt; Base &gt;::qualifiedName</a>, <a href="#a6faed3bc5a08c5f991d1223b11f46bc7">DefinitionMixin&lt; Base &gt;::setArtificial</a>, <a href="#aa6dbecf61d4840467a33899011d0cb11">DefinitionMixin&lt; Base &gt;::setBodyDef</a>, <a href="#a09634fd6d1779376b3c53141ba3f3d26">DefinitionMixin&lt; Base &gt;::setBodySegment</a>, <a href="#a8934a29fc121ab4bffaedd8e960713bc">DefinitionMixin&lt; Base &gt;::setBriefDescription</a>, <a href="#ad1c72eb42ed909d2056c16f3bcbf960f">DefinitionMixin&lt; Base &gt;::setDefFile</a>, <a href="#a57049ae0a543644fa13d44472098f7ae">DefinitionMixin&lt; Base &gt;::setDocumentation</a>, <a href="#a71b4c90ca024920118d6da8ac61ea689">DefinitionMixin&lt; Base &gt;::setExported</a>, <a href="#adb72e3dd9d7e09222e8b351c744d844e">DefinitionMixin&lt; Base &gt;::setHidden</a>, <a href="#a34b916976d8f272c97f00d74001fdd0c">DefinitionMixin&lt; Base &gt;::setId</a>, <a href="#a9dac0008b22397baee417797233657f4">DefinitionMixin&lt; Base &gt;::setInbodyDocumentation</a>, <a href="#a513b45b150ca956112360ccf93f7cebd">DefinitionMixin&lt; Base &gt;::setLanguage</a>, <a href="#abf40dcb168e2a970e68dabbcbde25ee6">DefinitionMixin&lt; Base &gt;::setLocalName</a>, <a href="#a7d64f115d59d2667225ea684dfd2aa9d">DefinitionMixin&lt; Base &gt;::setName</a>, <a href="#a5701961a47f8f5336495771c8d3d611d">DefinitionMixin&lt; Base &gt;::setOuterScope</a>, <a href="#a5b7806d54dc3504a626078ac0d22dc19">DefinitionMixin&lt; Base &gt;::setReference</a>, <a href="#af1dfd6ae62c6a43f590645a80fc039a7">DefinitionMixin&lt; Base &gt;::setRefItems</a>, <a href="#a5d92005bf382f44874dc7b34196a1ac4">DefinitionMixin&lt; Base &gt;::symbolName</a>, <a href="#a8344f08e2dda50c48becfde382067b46">DefinitionMixin&lt; Base &gt;::toDefinitionImpl_</a>, <a href="#afcd2841ebfa088d88d8624e5f54f1aa9">DefinitionMixin&lt; Base &gt;::writeDocAnchorsToTagFile</a>, <a href="#ab4f70a9c2798cb1b656a002e28af6a87">DefinitionMixin&lt; Base &gt;::writeInlineCode</a>, <a href="#a1920f150021e040075a423418fb0e85a">DefinitionMixin&lt; Base &gt;::writeNavigationPath</a>, <a href="#a48df7719d4f28f55162adc4b1064699b">DefinitionMixin&lt; Base &gt;::writePageNavigation</a>, <a href="#ad191384d79c44e12ae31ee900209c3c6">DefinitionMixin&lt; Base &gt;::writeQuickMemberLinks</a>, <a href="#a0922bcff85f540f991fd4e5fd3a68a02">DefinitionMixin&lt; Base &gt;::writeSourceDef</a>, <a href="#a91fa887054f1f3aafb9bb330491b8f84">DefinitionMixin&lt; Base &gt;::writeSourceReffedBy</a>, <a href="#a24663e9c959433e58e8e102ad4306814">DefinitionMixin&lt; Base &gt;::writeSourceRefs</a>, <a href="#ad951f2f7aef7a2408a8bafc08b7b5899">DefinitionMixin&lt; Base &gt;::writeSummaryLinks</a>, <a href="#ad12243a0430f318cbe3b499ca21c9e4b">DefinitionMixin&lt; Base &gt;::writeToc</a> and <a href="#a7080c8c1be27b05ba64f160655530571">DefinitionMixin&lt; Base &gt;::xrefListItems</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CitationManager` Class Reference
 
-Citation manager class. <a href="#details">More...</a>
+<p>Citation manager class. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class CitationManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Create the database, with an expected maximum of <em>size</em> entries. <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">More...</a>
+<p>Create the database, with an expected maximum of <em>size</em> entries. <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -80,7 +80,7 @@ Create the database, with an expected maximum of <em>size</em> entries. <a href=
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Insert a citation identified by <em>label</em> into the database. <a href="#acbc101ba2926c6324a479b572ff3c377">More...</a>
+<p>Insert a citation identified by <em>label</em> into the database. <a href="#acbc101ba2926c6324a479b572ff3c377">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,7 +94,7 @@ Insert a citation identified by <em>label</em> into the database. <a href="#acbc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return the citation info for a given <em>label</em>. <a href="#a2904843bbc4e5d707386d5dce049692e">More...</a>
+<p>Return the citation info for a given <em>label</em>. <a href="#a2904843bbc4e5d707386d5dce049692e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -108,7 +108,7 @@ Return the citation info for a given <em>label</em>. <a href="#a2904843bbc4e5d70
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Generate the citations page. <a href="#aeea4b3347215e1eb97b639c96a1dcadd">More...</a>
+<p>Generate the citations page. <a href="#aeea4b3347215e1eb97b639c96a1dcadd">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -122,7 +122,7 @@ Generate the citations page. <a href="#aeea4b3347215e1eb97b639c96a1dcadd">More..
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-clears the database <a href="#a5064df0802f4ce881cbe5d1d9757cc86">More...</a>
+<p>clears the database <a href="#a5064df0802f4ce881cbe5d1d9757cc86">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -136,7 +136,7 @@ clears the database <a href="#a5064df0802f4ce881cbe5d1d9757cc86">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-return TRUE if there are no citations. <a href="#ade88ab31021df991b8f2b6b31e9c24e4">More...</a>
+<p>return TRUE if there are no citations. <a href="#ade88ab31021df991b8f2b6b31e9c24e4">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -150,7 +150,7 @@ return TRUE if there are no citations. <a href="#ade88ab31021df991b8f2b6b31e9c24
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-lists the bibtex cite files in a comma separated list <a href="#a37a4055f986c73a8de48cd5d19bdd2dc">More...</a>
+<p>lists the bibtex cite files in a comma separated list <a href="#a37a4055f986c73a8de48cd5d19bdd2dc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -270,12 +270,14 @@ lists the bibtex cite files in a comma separated list <a href="#a37a4055f986c73a
 
 ## Description {#details}
 
-Citation manager class.
+<p>Citation manager class.</p>
 
 
-This class provides access do the database of bibliographic references through the bibtex backend.
+<p>This class provides access do the database of bibliographic references through the bibtex backend.</p>
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -299,9 +301,10 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/cite-h">c
 </div>
 <div class="doxyMemberDoc">
 
-Create the database, with an expected maximum of <em>size</em> entries.
+<p>Create the database, with an expected maximum of <em>size</em> entries.</p>
 
-Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -312,9 +315,11 @@ Declaration at line 116 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-Reference <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.
+<p>Reference <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.</p>
 
-Referenced by <a href="#a4934f7fbd6a387b7cc2ea0a12a2e04b5">instance</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">\~CitationManager</a>.
+
+<p>Referenced by <a href="#a4934f7fbd6a387b7cc2ea0a12a2e04b5">instance</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">~CitationManager</a>.</p>
+
 </div>
 </div>
 
@@ -349,9 +354,11 @@ Referenced by <a href="#a4934f7fbd6a387b7cc2ea0a12a2e04b5">instance</a> and <a h
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
-References <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a> and <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>.
+
+<p>References <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a> and <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>.</p>
+
 </div>
 </div>
 
@@ -381,7 +388,8 @@ References <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, <a 
 
 
 
-Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -393,7 +401,8 @@ Declaration at line 112 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -415,9 +424,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7
 </div>
 <div class="doxyMemberDoc">
 
-clears the database
+<p>clears the database</p>
 
-Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -429,9 +439,11 @@ Declaration at line 101 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-Reference <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.
+<p>Reference <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>.</p>
+
 </div>
 </div>
 
@@ -455,7 +467,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95
 
 
 
-Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -467,7 +480,8 @@ Declaration at line 111 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a> and <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a> and <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>.</p>
+
 </div>
 </div>
 
@@ -489,12 +503,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7
 </div>
 <div class="doxyMemberDoc">
 
-Return the citation info for a given <em>label</em>.
+<p>Return the citation info for a given <em>label</em>.</p>
 
 
-Ownership of the info stays with the manager.
+<p>Ownership of the info stays with the manager.</p>
 
-Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+
+<p>Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -511,9 +527,11 @@ Declaration at line 95 of file <a href="/web-doxygen/docs/api/files/src/cite-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>.</p>
+
 </div>
 </div>
 
@@ -535,9 +553,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7
 </div>
 <div class="doxyMemberDoc">
 
-Generate the citations page.
+<p>Generate the citations page.</p>
 
-Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -788,9 +807,11 @@ Declaration at line 98 of file <a href="/web-doxygen/docs/api/files/src/cite-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a118dacc3a4f140d0321d4fb170c8e8f6">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#acec8b941b54c02ca0bff82944d34cb5a">bibTmpDir</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da724abc65281c2d47105ebf8a31d6c397">Debug::Cite</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a32b8297da656a43a255a3a1b27c210b9">ResourceMgr::copyResource</a>, <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a>, <a href="/web-doxygen/docs/api/classes/entry/#ac02a6c1dd922221351f6de0286d48d77">Entry::doc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ade05cab342d2aec59e05a3b7ec166a19">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a883e572433098a2f3714d29ddc109fc8">getBibFile</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="#ade88ab31021df991b8f2b6b31e9c24e4">isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075e2f44ddd785428b4099f4a">CommentScanner::parseCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab0dd8833adb3178d976d3125955fbe8c">Dir::rmdir</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a118dacc3a4f140d0321d4fb170c8e8f6">addRelatedPage</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#acec8b941b54c02ca0bff82944d34cb5a">bibTmpDir</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da724abc65281c2d47105ebf8a31d6c397">Debug::Cite</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a32b8297da656a43a255a3a1b27c210b9">ResourceMgr::copyResource</a>, <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a>, <a href="/web-doxygen/docs/api/classes/entry/#ac02a6c1dd922221351f6de0286d48d77">Entry::doc</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#ade05cab342d2aec59e05a3b7ec166a19">fileName</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a883e572433098a2f3714d29ddc109fc8">getBibFile</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a02fb3176893696eaf659d680c8b08064">ResourceMgr::instance</a>, <a href="#ade88ab31021df991b8f2b6b31e9c24e4">isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/classes/dir/#a286f4b1852b489ffcc8b6837c7e6bd8e">Dir::mkdir</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075e2f44ddd785428b4099f4a">CommentScanner::parseCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab0dd8833adb3178d976d3125955fbe8c">Dir::rmdir</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ac148c3a57e84a2440c4e5aaa894586d9">split</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>, <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -812,9 +833,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 </div>
 <div class="doxyMemberDoc">
 
-Insert a citation identified by <em>label</em> into the database.
+<p>Insert a citation identified by <em>label</em> into the database.</p>
 
-Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -827,9 +849,11 @@ Declaration at line 90 of file <a href="/web-doxygen/docs/api/files/src/cite-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a2b8e4d926adebd224807ed5d9f0e3192">addCite</a> and <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a2b8e4d926adebd224807ed5d9f0e3192">addCite</a> and <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>.</p>
+
 </div>
 </div>
 
@@ -851,9 +875,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a2b8e4d926
 </div>
 <div class="doxyMemberDoc">
 
-return TRUE if there are no citations.
+<p>return TRUE if there are no citations.</p>
 
-Declaration at line 105 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 105 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -866,9 +891,11 @@ Declaration at line 105 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a> and <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList</a> and <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.</p>
 
-Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.
+
+<p>Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.</p>
+
 </div>
 </div>
 
@@ -890,9 +917,10 @@ Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>, <a 
 </div>
 <div class="doxyMemberDoc">
 
-lists the bibtex cite files in a comma separated list
+<p>lists the bibtex cite files in a comma separated list</p>
 
-Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -922,9 +950,11 @@ Declaration at line 109 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/cite-cpp/#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config\_getList</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a883e572433098a2f3714d29ddc109fc8">getBibFile</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/cite-cpp/#abcc2fda3b5de9ceebd210f6faaa349ec">bibTmpFile</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a15e896ce0b99792d1344b66af98928e7">Config_getList</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a883e572433098a2f3714d29ddc109fc8">getBibFile</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>.</p>
+
 </div>
 </div>
 
@@ -954,7 +984,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce
 
 
 
-Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1036,9 +1067,11 @@ Declaration at line 120 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a7aadcbc3d02fe6e01acf45d892cff0ba">GrowBuf::clear</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a98402aa01b6229891b70c079b6ce7b59">g\_formulaMarker</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a7aadcbc3d02fe6e01acf45d892cff0ba">GrowBuf::clear</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a307ffe8cbc4a4aa695900441d1df49f3">qsnprintf</a>.</p>
 
-Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">\~CitationManager</a>.
+
+<p>Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">~CitationManager</a>.</p>
+
 </div>
 </div>
 
@@ -1062,7 +1095,8 @@ Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and 
 
 
 
-Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1172,9 +1206,11 @@ Declaration at line 119 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="#a2904843bbc4e5d707386d5dce049692e">find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#acbc101ba2926c6324a479b572ff3c377">insert</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="#a2904843bbc4e5d707386d5dce049692e">find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#acbc101ba2926c6324a479b572ff3c377">insert</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/doctokenizer-l/#a6256e57feb94db36e0dd7c3c83c9180a">lineCount</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
 
-Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">\~CitationManager</a>.
+
+<p>Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">~CitationManager</a>.</p>
+
 </div>
 </div>
 
@@ -1198,7 +1234,8 @@ Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and 
 
 
 
-Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1225,9 +1262,11 @@ Declaration at line 121 of file <a href="/web-doxygen/docs/api/files/src/cite-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a98402aa01b6229891b70c079b6ce7b59">g\_formulaMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/files/src/cite-cpp/#a98402aa01b6229891b70c079b6ce7b59">g_formulaMarker</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="#a269b4218fe0f0e33894756bf6bd2cbef">p</a>.</p>
 
-Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">\~CitationManager</a>.
+
+<p>Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and <a href="#ab29bc39af01c05295bd91a354a6674ad">~CitationManager</a>.</p>
+
 </div>
 </div>
 
@@ -1257,7 +1296,8 @@ Referenced by <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a> and 
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1266,7 +1306,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/cite-h">
 </div>
 
 
-Referenced by <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, <a href="#a5064df0802f4ce881cbe5d1d9757cc86">clear</a>, <a href="#a2904843bbc4e5d707386d5dce049692e">find</a>, <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#acbc101ba2926c6324a479b572ff3c377">insert</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>, <a href="#ade88ab31021df991b8f2b6b31e9c24e4">isEmpty</a> and <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>.
+<p>Referenced by <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, <a href="#a5064df0802f4ce881cbe5d1d9757cc86">clear</a>, <a href="#a2904843bbc4e5d707386d5dce049692e">find</a>, <a href="#aeea4b3347215e1eb97b639c96a1dcadd">generatePage</a>, <a href="#af1366ac568f1a1620961826edd2e88e7">getFormulas</a>, <a href="#acbc101ba2926c6324a479b572ff3c377">insert</a>, <a href="#a07ca80df8cb26c1c11d0cb22e326b01d">insertCrossReferencesForBibFile</a>, <a href="#ade88ab31021df991b8f2b6b31e9c24e4">isEmpty</a> and <a href="#a5f5bce72519f9278f849a2c4cf936393">replaceFormulas</a>.</p>
+
 </div>
 </div>
 
@@ -1301,7 +1342,8 @@ Referenced by <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>, 
 
 
 
-Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>, definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1314,9 +1356,11 @@ Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/cite-h">
 </div>
 
 
-Reference <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>.
+<p>Reference <a href="#ace9a73a9c71111d88ec3eb90eeb92b26">CitationManager</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a2b8e4d926adebd224807ed5d9f0e3192">addCite</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a2b8e4d926adebd224807ed5d9f0e3192">addCite</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/classes/docanchor/#a7dbcc0b3d8792f7eb24a5586609bd020">DocAnchor::DocAnchor</a>, <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a7da6db1950d1eab0b3aad3535af34d9b">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a88217cd97b6eaa15a8c8f4a8c4757db1">TextDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ad17beb87ce167c3b4203b5260ff7b2a9">substituteLatexKeywords</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.</p>
+
 </div>
 </div>
 

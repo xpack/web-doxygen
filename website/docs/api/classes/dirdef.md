@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DirDef` Class Reference
 
-A model of a directory symbol. <a href="#details">More...</a>
+<p>A model of a directory symbol. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -54,7 +54,7 @@ class DirDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
+<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -415,9 +415,10 @@ The common base class of all entity definitions found in the sources. <a href="/
 
 ## Description {#details}
 
-A model of a directory symbol.
+<p>A model of a directory symbol.</p>
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -443,9 +444,11 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18ab19e549d3b603a716780">buildDirectories</a>.</p>
+
 </div>
 </div>
 
@@ -469,7 +472,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a9d5caa3df18a
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -493,9 +497,11 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 139 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>.</p>
+
 </div>
 </div>
 
@@ -519,7 +525,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 
 
 
-Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -543,7 +550,8 @@ Definition at line 141 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -567,9 +575,11 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568157c4b4b1c9a96af855d2b85">addDependencies</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568157c4b4b1c9a96af855d2b85">addDependencies</a>.</p>
+
 </div>
 </div>
 
@@ -593,9 +603,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3a3dbf9e7d5f519b845f">dirHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3a3dbf9e7d5f519b845f">dirHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -619,7 +631,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -643,7 +656,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -667,9 +681,11 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.</p>
+
 </div>
 </div>
 
@@ -693,7 +709,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -717,9 +734,11 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a20837cde372c359b1ce5070096d472e0">isAtMaxDepth</a> and <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a06bc59d070bef262bba33da842fde24c">DirDefImpl::setLevel</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a20837cde372c359b1ce5070096d472e0">isAtMaxDepth</a> and <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a06bc59d070bef262bba33da842fde24c">DirDefImpl::setLevel</a>.</p>
+
 </div>
 </div>
 
@@ -743,9 +762,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333345115c87ef3474369ba4">findDirDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333345115c87ef3474369ba4">findDirDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -769,9 +790,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a22fc3a59333
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>, <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a66144b339b4b4744d7d7ab092ed16e34">DirDefImpl::isParentOf</a>, <a href="#a813174b06fcb3d896bfb6eecec0a5b85">setParent</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a> and <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a8bb54d0765a6b45bf091337783b4680a">writePartialDirPath</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>, <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a66144b339b4b4744d7d7ab092ed16e34">DirDefImpl::isParentOf</a>, <a href="#a813174b06fcb3d896bfb6eecec0a5b85">setParent</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a> and <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a8bb54d0765a6b45bf091337783b4680a">writePartialDirPath</a>.</p>
+
 </div>
 </div>
 
@@ -795,7 +818,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 
 
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -819,9 +843,11 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Reference <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.
+
+<p>Reference <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>.</p>
+
 </div>
 </div>
 
@@ -845,9 +871,11 @@ Reference <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c
 
 
 
-Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 138 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a06bc59d070bef262bba33da842fde24c">DirDefImpl::setLevel</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a06bc59d070bef262bba33da842fde24c">DirDefImpl::setLevel</a>.</p>
+
 </div>
 </div>
 
@@ -871,11 +899,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a06bc59d070bef2
 
 
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Reference <a href="#a6ddd6f5e08f9a04cc43cf15e388bc2af">parent</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a29208422e0e3f2fb904e071fecd7986b">DirDefImpl::addSubDir</a>.
+<p>Reference <a href="#a6ddd6f5e08f9a04cc43cf15e388bc2af">parent</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a29208422e0e3f2fb904e071fecd7986b">DirDefImpl::addSubDir</a>.</p>
+
 </div>
 </div>
 
@@ -899,9 +930,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a29208422e0e3f2
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a868969982c8fee16854bcc7735cd977e">compareDirDefs</a>, <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a08a51ed53b0b61d7839aa40d04080f9d">DirDefImpl::createNewDir</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a> and <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a8bb54d0765a6b45bf091337783b4680a">writePartialDirPath</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568bc5b8825cfb9e367dd4">DirDefImpl::addUsesDependency</a>, <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a868969982c8fee16854bcc7735cd977e">compareDirDefs</a>, <a href="/web-doxygen/docs/api/classes/dirdefimpl/#a08a51ed53b0b61d7839aa40d04080f9d">DirDefImpl::createNewDir</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a8c294bd8cf4c31b846744d5e5ca845fa">drawClusterOpening</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a840611db0f9ff308b7167b3fd3e0c4d2">drawDirectory</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a> and <a href="/web-doxygen/docs/api/files/src/dirdef-cpp/#a8bb54d0765a6b45bf091337783b4680a">writePartialDirPath</a>.</p>
+
 </div>
 </div>
 
@@ -925,7 +958,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/dirdefimpl/#aa70e810938568b
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -949,7 +983,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -973,9 +1008,11 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3a3dbf9e7d5f519b845f">dirHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3a3dbf9e7d5f519b845f">dirHasVisibleChildren</a>, <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a96d60ce1da0cc36d049c1a2bbc174178">generateSqlite3ForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#acb884e6e6f8ac5068b23a6f7e9512441">writeDirTreeNode</a>.</p>
+
 </div>
 </div>
 
@@ -999,9 +1036,11 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/index-cpp/#ab4880c04672f3
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568157c4b4b1c9a96af855d2b85">addDependencies</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568157c4b4b1c9a96af855d2b85">addDependencies</a> and <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#ac4e7090b3ce2c42151afd6b83298096f">writeDotDirDepGraph</a>.</p>
+
 </div>
 </div>
 
@@ -1025,7 +1064,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#a4cae8568
 
 
 
-Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 
@@ -1049,7 +1089,8 @@ Definition at line 131 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/dirdef-h">dirdef.h</a>.</p>
+
 </div>
 </div>
 

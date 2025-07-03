@@ -20,64 +20,78 @@ toc_max_heading_level: 4
 
 
 
-Doxygen provides a large number of <a href="/web-doxygen/docs/pages/commands">special commands</a>, <a href="/web-doxygen/docs/pages/xmlcmds">XML commands</a>, and <a href="/web-doxygen/docs/pages/htmlcmds">HTML commands</a>. that can be used to enhance or structure the documentation inside a comment block. If you for some reason have a need to define new commands you can do so by means of an <em>alias</em> definition.
+<p>Doxygen provides a large number of <a href="/web-doxygen/docs/pages/commands">special commands</a>, <a href="/web-doxygen/docs/pages/xmlcmds">XML commands</a>, and <a href="/web-doxygen/docs/pages/htmlcmds">HTML commands</a>. that can be used to enhance or structure the documentation inside a comment block. If you for some reason have a need to define new commands you can do so by means of an <em>alias</em> definition.</p>
 
-The definition of an alias should be specified in the configuration file using the <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a> configuration tag.
+
+<p>The definition of an alias should be specified in the configuration file using the <a href="/web-doxygen/docs/pages/config/#cfg_aliases">ALIASES</a> configuration tag.</p>
+
 
 ## Simple aliases {#custcmd_simple}
 
 
-The simplest form of an alias is a simple substitution of the form
+<p>The simplest form of an alias is a simple substitution of the form</p>
+
 
 
 <pre><code> name=value
 </code></pre>
 
 
-For example defining the following alias:
+<p>For example defining the following alias:</p>
+
 
 
 <pre><code> ALIASES += sideeffect="\par Side Effects:^^"
 </code></pre>
 
 
-will allow you to put the command <span class="doxyComputerOutput">\\sideeffect</span> (or <span class="doxyComputerOutput">@sideeffect</span>) in the documentation, which will result in a user-defined paragraph with heading <b>Side Effects:</b>.
+<p>will allow you to put the command <span class="doxyComputerOutput">\sideeffect</span> (or <span class="doxyComputerOutput">@sideeffect</span>) in the documentation, which will result in a user-defined paragraph with heading <b>Side Effects:</b>.</p>
 
-Note that you cannot put <span class="doxyComputerOutput">\\n</span>'s in the value part of an alias to insert newlines (in the resulting output). You can put <span class="doxyComputerOutput">^^</span> in the value part of an alias to insert a newline as if a physical newline was in the original file.
 
-Note when you need a literal <span class="doxyComputerOutput">{</span> or <span class="doxyComputerOutput">}</span> or <span class="doxyComputerOutput">,</span> (or non default separator) in the value part of an alias you have to escape it by means of a backslash (<span class="doxyComputerOutput">\\</span>), this can lead to conflicts with the commands <span class="doxyComputerOutput">\\{</span> and <span class="doxyComputerOutput">\\}</span> for these it is advised to use the version <span class="doxyComputerOutput">@{</span> and <span class="doxyComputerOutput">@}</span> or use a double escape (<span class="doxyComputerOutput">\\\\{</span> and <span class="doxyComputerOutput">\\\\}</span>)
+<p>Note that you cannot put <span class="doxyComputerOutput">\n</span>'s in the value part of an alias to insert newlines (in the resulting output). You can put <span class="doxyComputerOutput">^^</span> in the value part of an alias to insert a newline as if a physical newline was in the original file.</p>
 
-Also note that you can redefine existing special commands if you wish.
 
-Some commands, such as <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\\xrefitem</a> are designed to be used in combination with aliases.
+<p>Note when you need a literal <span class="doxyComputerOutput">{</span> or <span class="doxyComputerOutput">}</span> or <span class="doxyComputerOutput">,</span> (or non default separator) in the value part of an alias you have to escape it by means of a backslash (<span class="doxyComputerOutput">\</span>), this can lead to conflicts with the commands <span class="doxyComputerOutput">\{</span> and <span class="doxyComputerOutput">\}</span> for these it is advised to use the version <span class="doxyComputerOutput">@{</span> and <span class="doxyComputerOutput">@}</span> or use a double escape (<span class="doxyComputerOutput">\\{</span> and <span class="doxyComputerOutput">\\}</span>)</p>
+
+
+<p>Also note that you can redefine existing special commands if you wish.</p>
+
+
+<p>Some commands, such as <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\xrefitem</a> are designed to be used in combination with aliases.</p>
+
 
 ## Aliases with arguments {#custcmd_complex}
 
 
-Aliases can also have one or more arguments. In the alias definition you then need to specify the number of arguments between curly braces. In the value part of the definition you can place <span class="doxyComputerOutput">\\x</span> markers, where '<span class="doxyComputerOutput">x</span>' represents the argument number starting with 1.
+<p>Aliases can also have one or more arguments. In the alias definition you then need to specify the number of arguments between curly braces. In the value part of the definition you can place <span class="doxyComputerOutput">\x</span> markers, where '<span class="doxyComputerOutput">x</span>' represents the argument number starting with 1.</p>
 
-Here is an example of an alias definition with a single argument:
+
+<p>Here is an example of an alias definition with a single argument:</p>
+
 
 
 <pre><code>ALIASES += l{1}="\ref \1"
 </code></pre>
 
 
-Inside a comment block you can use it as follows
+<p>Inside a comment block you can use it as follows</p>
+
 
 
 <pre><code>/** See \l{SomeClass} for more information. */
 </code></pre>
 
 
-which would be the same as writing
+<p>which would be the same as writing</p>
+
 
 
 <pre><code>/** See \ref SomeClass for more information. */
 </code></pre>
 
 
-Note that you can overload an alias by a version with multiple arguments, for instance:
+<p>Note that you can overload an alias by a version with multiple arguments, for instance:</p>
+
 
 
 <pre><code>ALIASES += l{1}="\ref \1"
@@ -85,25 +99,30 @@ ALIASES += l{2}="\ref \1 \"\2\""
 </code></pre>
 
 
-Note that the quotes inside the alias definition have to be escaped with a backslash.
+<p>Note that the quotes inside the alias definition have to be escaped with a backslash.</p>
 
-With these alias definitions, we can write
+
+<p>With these alias definitions, we can write</p>
+
 
 
 <pre><code>/** See \l{SomeClass,Some Text} for more information. */
 </code></pre>
 
 
-inside the comment block and it will expand to
+<p>inside the comment block and it will expand to</p>
+
 
 
 <pre><code>/** See \ref SomeClass "Some Text" for more information. */
 </code></pre>
 
 
-where the command with a single argument would still work as shown before.
+<p>where the command with a single argument would still work as shown before.</p>
 
-Aliases can also be expressed in terms of other aliases, e.g. a new command <span class="doxyComputerOutput">\\reminder</span> can be expressed as a <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\\xrefitem</a> via an intermediate <span class="doxyComputerOutput">\\xreflist</span> command as follows:
+
+<p>Aliases can also be expressed in terms of other aliases, e.g. a new command <span class="doxyComputerOutput">\reminder</span> can be expressed as a <a href="/web-doxygen/docs/pages/commands/#cmdxrefitem">\xrefitem</a> via an intermediate <span class="doxyComputerOutput">\xreflist</span> command as follows:</p>
+
 
 
 <pre><code>ALIASES += xreflist{3}="\xrefitem \1 \"\2\" \"\3\" "
@@ -111,16 +130,19 @@ ALIASES += reminder="\xreflist{reminders,Reminder,Reminders}"
 </code></pre>
 
 
-Note that if for aliases with more than one argument a comma is used as a separator, if you want to put a comma inside the command, you will need to escape it with a backslash, i.e.
+<p>Note that if for aliases with more than one argument a comma is used as a separator, if you want to put a comma inside the command, you will need to escape it with a backslash, i.e.</p>
+
 
 
 <pre><code>\l{SomeClass,Some text\, with an escaped comma}
 </code></pre>
 
 
-given the alias definition of <span class="doxyComputerOutput">\\l</span> in the example above.
+<p>given the alias definition of <span class="doxyComputerOutput">\l</span> in the example above.</p>
 
-By default the separator for arguments in an alias is a comma. However, for arguments with a lot of commas, such as templates of function definitions, escaping each comma can be cumbersome. To solve this, one can specify a different separator, directly after the parameter count, for example to use a semicolon as separator one can define the command as follows:
+
+<p>By default the separator for arguments in an alias is a comma. However, for arguments with a lot of commas, such as templates of function definitions, escaping each comma can be cumbersome. To solve this, one can specify a different separator, directly after the parameter count, for example to use a semicolon as separator one can define the command as follows:</p>
+
 
 
 <pre><code>ALIASES += xreflist{3;}="\xrefitem \1 \"\2\" \"\3\" "
@@ -128,7 +150,8 @@ ALIASES += reminder="\xreflist{reminders;Reminder;Reminders}"
 </code></pre>
 
 
-Note that also multi-character separators are allowed, i.e. the same example can be written using double pipe symbols as separator:
+<p>Note that also multi-character separators are allowed, i.e. the same example can be written using double pipe symbols as separator:</p>
+
 
 
 <pre><code>ALIASES += xreflist{3||}="\xrefitem \1 \"\2\" \"\3\" "
@@ -136,14 +159,16 @@ ALIASES += reminder="\xreflist{reminders||Reminder||Reminders}"
 </code></pre>
 
 
-The following characters are allowed to create separators:
+<p>The following characters are allowed to create separators:</p>
+
 
 
 <pre><code>!#$%&amp;,.?|;:'+=~`/
 </code></pre>
 
 
-Note that for each command and number of parameters, one can use a different separator. It is not recommended to select a different separator for same command however, as this may lead to ambiguity as to which command definition is to be used. Doxygen resolves such ambiguity by choosing the command which matches the most parameters. Consider the following, rather contrived example:
+<p>Note that for each command and number of parameters, one can use a different separator. It is not recommended to select a different separator for same command however, as this may lead to ambiguity as to which command definition is to be used. Doxygen resolves such ambiguity by choosing the command which matches the most parameters. Consider the following, rather contrived example:</p>
+
 
 
 <pre><code>ALIASES += v{2+}="Choose 2: '\1' and '\2'"
@@ -151,7 +176,8 @@ ALIASES += v{3;}="Choose 3: '\1', '\2', and '\3'"
 </code></pre>
 
 
-Then
+<p>Then</p>
+
 
 
 <pre><code>- \v{One+Two}
@@ -160,7 +186,8 @@ Then
 </code></pre>
 
 
-Will produce:
+<p>Will produce:</p>
+
 
 <ul class="doxyList ">
 <li>Choose 2: 'One' and 'Two'</li>
@@ -168,14 +195,17 @@ Will produce:
 <li>Choose 3: 'One+Two', 'Three', and 'Four'</li>
 </ul>
 
-For the last command both definitions of <span class="doxyComputerOutput">v</span> match, but the one with 3 parameters is selected as it matches more parameters.
+<p>For the last command both definitions of <span class="doxyComputerOutput">v</span> match, but the one with 3 parameters is selected as it matches more parameters.</p>
+
 
 ## Nesting custom command {#custcmd_nesting}
 
 
-You can use commands as arguments of aliases, including commands defined using aliases.
+<p>You can use commands as arguments of aliases, including commands defined using aliases.</p>
 
-As an example consider the following alias definitions
+
+<p>As an example consider the following alias definitions</p>
+
 
 
 <pre><code>ALIASES += Bold{1}="&lt;b&gt;\1&lt;/b&gt;"
@@ -183,14 +213,16 @@ ALIASES += Emph{1}="&lt;em&gt;\1&lt;/em&gt;"
 </code></pre>
 
 
-Inside a comment block you can now use:
+<p>Inside a comment block you can now use:</p>
+
 
 
 <pre><code>/** This is a \Bold{bold \Emph{and} Emphasized} text fragment. */
 </code></pre>
 
 
-which will expand to
+<p>which will expand to</p>
+
 
 
 <pre><code>/** This is a &lt;b&gt;bold &lt;em&gt;and&lt;/em&gt; Emphasized&lt;/b&gt; text fragment. */

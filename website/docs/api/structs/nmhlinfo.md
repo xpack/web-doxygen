@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `NmhlInfo` Struct Reference
 
-Helper class representing a namespace member in the navigation menu. <a href="#details">More...</a>
+<p>Helper class representing a namespace member in the navigation menu. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -78,9 +78,10 @@ struct NmhlInfo { ... }
 
 ## Description {#details}
 
-Helper class representing a namespace member in the navigation menu.
+<p>Helper class representing a namespace member in the navigation menu.</p>
 
-Definition at line 3445 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 3445 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -111,7 +112,8 @@ Definition at line 3445 of file <a href="/web-doxygen/docs/api/files/src/index-c
 
 
 
-Definition at line 3447 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 3447 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -120,7 +122,8 @@ Definition at line 3447 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-References <a href="#a065740eda2e359636dff74500e473095">fname</a> and <a href="#a4be729683c2b5b82be22d86c2c72739d">title</a>.
+<p>References <a href="#a065740eda2e359636dff74500e473095">fname</a> and <a href="#a4be729683c2b5b82be22d86c2c72739d">title</a>.</p>
+
 </div>
 </div>
 
@@ -150,7 +153,8 @@ References <a href="#a065740eda2e359636dff74500e473095">fname</a> and <a href="#
 
 
 
-Definition at line 3448 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 3448 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +163,8 @@ Definition at line 3448 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a600376a1b261fa6d498ce37b1037bcb6">writeNamespaceMemberIndexFiltered</a>.
+<p>Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#a600376a1b261fa6d498ce37b1037bcb6">writeNamespaceMemberIndexFiltered</a>.</p>
+
 </div>
 </div>
 
@@ -183,7 +188,8 @@ Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a> and <a h
 
 
 
-Definition at line 3449 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.
+<p>Definition at line 3449 of file <a href="/web-doxygen/docs/api/files/src/index-cpp">index.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -192,7 +198,8 @@ Definition at line 3449 of file <a href="/web-doxygen/docs/api/files/src/index-c
 </div>
 
 
-Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a>.
+<p>Referenced by <a href="#aed6ca37adbee7147e779f787ee2221e0">NmhlInfo</a>.</p>
+
 </div>
 </div>
 

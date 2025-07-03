@@ -142,7 +142,8 @@ struct EclipseHelp::Private { ... }
 </table>
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -173,7 +174,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +191,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.
+<p>References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.</p>
+
 </div>
 </div>
 
@@ -218,7 +221,8 @@ References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/we
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -233,7 +237,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-References <a href="#a2cc427c7e4f82ae438d2e3c1513f5d15">depth</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.
+<p>References <a href="#a2cc427c7e4f82ae438d2e3c1513f5d15">depth</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.</p>
+
 </div>
 </div>
 
@@ -262,7 +267,8 @@ References <a href="#a2cc427c7e4f82ae438d2e3c1513f5d15">depth</a> and <a href="#
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -279,7 +285,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a56a6b6c34fc1ec6efe9418de5dc2c48f">openTags</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.
+<p>References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a56a6b6c34fc1ec6efe9418de5dc2c48f">openTags</a> and <a href="#a905ed325be223fabbca0faa3422398bc">tocstream</a>.</p>
+
 </div>
 </div>
 
@@ -309,7 +316,8 @@ References <a href="#a6d85b70d6475d693474f191b914cabfe">endtag</a>, <a href="/we
 
 
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +326,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-Referenced by <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a>.
+<p>Referenced by <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a>.</p>
+
 </div>
 </div>
 
@@ -342,7 +351,8 @@ Referenced by <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a>.
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -351,7 +361,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a> and <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
+<p>Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a> and <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.</p>
+
 </div>
 </div>
 
@@ -375,7 +386,8 @@ Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a> and <a 
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,7 +396,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-Referenced by <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
+<p>Referenced by <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.</p>
+
 </div>
 </div>
 
@@ -408,7 +421,8 @@ Referenced by <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -439,7 +453,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/eclipsehelp-cpp">eclipsehelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -448,7 +463,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/eclipsehe
 </div>
 
 
-Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a>, <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a> and <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.
+<p>Referenced by <a href="#a12221dca31acf111429fa7fba8620cc5">closedTag</a>, <a href="#a1446a95aebdce81a2ff022537d22a993">indent</a> and <a href="#acc4a667c06a06048f0c8aaabe5a6ad66">openedTag</a>.</p>
+
 </div>
 </div>
 

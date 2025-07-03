@@ -42,7 +42,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A vector of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> object. <a href="/web-doxygen/docs/api/classes/membervector/#details">More...</a>
+<p>A vector of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> object. <a href="/web-doxygen/docs/api/classes/membervector/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -56,7 +56,7 @@ A vector of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> obje
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A list of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> objects as shown in documentation sections. <a href="/web-doxygen/docs/api/classes/memberlist/#details">More...</a>
+<p>A list of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> objects as shown in documentation sections. <a href="/web-doxygen/docs/api/classes/memberlist/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -135,7 +135,8 @@ A list of <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> object
 
 
 
-Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>, definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/memberlist-cpp">memberlist.cpp</a>.
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/memberlist-h">memberlist.h</a>, definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/memberlist-cpp">memberlist.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -179,9 +180,11 @@ Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/memberli
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a196a099fba755a0586625635e40e9c58">MemberDef::isConstructor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0807e7d46f56761eb33db77778289c11">MemberDef::isDestructor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp\_sort</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/memberdef/#adfae3b8f49644ba27669daa9412e14a3">MemberDef::argsString</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/definition/#a33fee836f24f8205eedbd21dd9d282e6">Definition::getDefFileName</a>, <a href="/web-doxygen/docs/api/classes/definition/#a47e34774622704853e238ee2e7ef2334">Definition::getDefLine</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a196a099fba755a0586625635e40e9c58">MemberDef::isConstructor</a>, <a href="/web-doxygen/docs/api/classes/memberdef/#a0807e7d46f56761eb33db77778289c11">MemberDef::isDestructor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a07e4a8b28f58e46b010e22651c87eb3c">qstricmp_sort</a> and <a href="/web-doxygen/docs/api/classes/definition/#ac3bc44bb9d5b4c8d1957f06222a5e0d7">Definition::qualifiedName</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/membervector/#a55bc8544d134138efb4a3aaf8518c32f">MemberVector::lessThan</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/membervector/#a55bc8544d134138efb4a3aaf8518c32f">MemberVector::lessThan</a>.</p>
+
 </div>
 </div>
 

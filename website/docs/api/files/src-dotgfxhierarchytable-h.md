@@ -41,7 +41,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Represents a graphical class hierarchy. <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#details">More...</a>
+<p>Represents a graphical class hierarchy. <a href="/web-doxygen/docs/api/classes/dotgfxhierarchytable/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -94,7 +94,8 @@ Represents a graphical class hierarchy. <a href="/web-doxygen/docs/api/classes/d
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/dotgfxhierarchytable-h">dotgfxhierarchytable.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

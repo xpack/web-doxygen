@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TextGeneratorIntf` Class Reference
 
-Abstract interface for a hyperlinked text fragment. <a href="#details">More...</a>
+<p>Abstract interface for a hyperlinked text fragment. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class TextGeneratorIntf { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream. <a href="/web-doxygen/docs/api/classes/textgeneratorolimpl/#details">More...</a>
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an OutputDocInterface stream. <a href="/web-doxygen/docs/api/classes/textgeneratorolimpl/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -68,7 +68,7 @@ Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGenerat
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream. <a href="/web-doxygen/docs/api/classes/textgeneratorxmlimpl/#details">More...</a>
+<p>Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGeneratorIntf</a> for an XML stream. <a href="/web-doxygen/docs/api/classes/textgeneratorxmlimpl/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -124,9 +124,10 @@ Implements <a href="/web-doxygen/docs/api/classes/textgeneratorintf">TextGenerat
 
 ## Description {#details}
 
-Abstract interface for a hyperlinked text fragment.
+<p>Abstract interface for a hyperlinked text fragment.</p>
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -152,11 +153,14 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/util-h">u
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
-Reference <a href="#a5367063112c94eece527eddf1cd9b978">writeBreak</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a5367063112c94eece527eddf1cd9b978">writeBreak</a>.
+<p>Reference <a href="#a5367063112c94eece527eddf1cd9b978">writeBreak</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a5367063112c94eece527eddf1cd9b978">writeBreak</a>.</p>
+
 </div>
 </div>
 
@@ -180,11 +184,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462a
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
-Reference <a href="#a68781abe25ca876aa94ec160bf3ce4fc">writeLink</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a68781abe25ca876aa94ec160bf3ce4fc">writeLink</a>.
+<p>Reference <a href="#a68781abe25ca876aa94ec160bf3ce4fc">writeLink</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a68781abe25ca876aa94ec160bf3ce4fc">writeLink</a>.</p>
+
 </div>
 </div>
 
@@ -208,11 +215,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462a
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
 
-Reference <a href="#a218bc73e1dfd3381fa21e7e6bdab4839">writeString</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a218bc73e1dfd3381fa21e7e6bdab4839">writeString</a>.
+<p>Reference <a href="#a218bc73e1dfd3381fa21e7e6bdab4839">writeString</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ae61ca16879462ab6bd55475fa265b251">linkifyText</a> and <a href="#a218bc73e1dfd3381fa21e7e6bdab4839">writeString</a>.</p>
+
 </div>
 </div>
 

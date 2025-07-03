@@ -103,7 +103,8 @@ struct LatexDocVisitor::ActiveRowSpan { ... }
 </table>
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -134,7 +135,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -144,7 +146,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 </div>
 
 
-References <a href="#a87755be84cd1a593d4e2b3a1aa09b949">cell</a>, <a href="#af39a5d5248845452b35637d2b546dc4c">colSpan</a>, <a href="#aa7861de062ade2224edc16c7da880ab8">column</a> and <a href="#adf99908d4f580429386410ab3f2cfd70">rowSpan</a>.
+<p>References <a href="#a87755be84cd1a593d4e2b3a1aa09b949">cell</a>, <a href="#af39a5d5248845452b35637d2b546dc4c">colSpan</a>, <a href="#aa7861de062ade2224edc16c7da880ab8">column</a> and <a href="#adf99908d4f580429386410ab3f2cfd70">rowSpan</a>.</p>
+
 </div>
 </div>
 
@@ -174,7 +177,8 @@ References <a href="#a87755be84cd1a593d4e2b3a1aa09b949">cell</a>, <a href="#af39
 
 
 
-Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -183,7 +187,8 @@ Definition at line 125 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 </div>
 
 
-Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
+<p>Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 
@@ -207,7 +212,8 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -216,7 +222,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 </div>
 
 
-Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
+<p>Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 
@@ -240,7 +247,8 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 
 
 
-Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -249,7 +257,8 @@ Definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 </div>
 
 
-Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
+<p>Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 
@@ -273,7 +282,8 @@ Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
 
 
 
-Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -282,7 +292,8 @@ Definition at line 126 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 </div>
 
 
-Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.
+<p>Referenced by <a href="#a7bc83ee23ef8ea540331a7fb3951ffe7">ActiveRowSpan</a>.</p>
+
 </div>
 </div>
 

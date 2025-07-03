@@ -110,7 +110,8 @@ struct LatexDocVisitor::TableState { ... }
 </table>
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -136,7 +137,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -167,7 +169,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -198,7 +201,8 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -229,7 +233,8 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -260,7 +265,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -291,7 +297,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/latexdoc
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/latexdocvisitor-h">latexdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

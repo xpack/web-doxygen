@@ -83,7 +83,8 @@ toc_max_heading_level: 4
 </dd>
 </dl>
 
-Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/doxygen-lex-h">doxygen_lex.h</a>.
+<p>Definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/doxygen-lex-h">doxygen_lex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

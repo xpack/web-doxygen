@@ -337,7 +337,8 @@ struct defargsYY_state { ... }
 </table>
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -368,7 +369,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -378,7 +380,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 </div>
 
 
-References <a href="#a263275c72c078f971c77c7b6b53d5857">argList</a>, <a href="#a1feac93eeb9f67e048f7a2795aba6680">inputString</a> and <a href="#a6a82d050ede624f0744676310345cc5e">lang</a>.
+<p>References <a href="#a263275c72c078f971c77c7b6b53d5857">argList</a>, <a href="#a1feac93eeb9f67e048f7a2795aba6680">inputString</a> and <a href="#a6a82d050ede624f0744676310345cc5e">lang</a>.</p>
+
 </div>
 </div>
 
@@ -408,7 +411,8 @@ References <a href="#a263275c72c078f971c77c7b6b53d5857">argList</a>, <a href="#a
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -439,7 +443,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -448,7 +453,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 </div>
 
 
-Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
+<p>Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY_state</a>.</p>
+
 </div>
 </div>
 
@@ -472,7 +478,8 @@ Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
 
 
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -503,7 +510,8 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -534,7 +542,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -565,7 +574,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -596,7 +606,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -627,7 +638,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -658,7 +670,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -689,7 +702,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -720,7 +734,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -751,7 +766,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -782,7 +798,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -813,7 +830,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -844,7 +862,8 @@ Definition at line 102 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -875,7 +894,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -906,7 +926,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -915,7 +936,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 </div>
 
 
-Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
+<p>Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY_state</a>.</p>
+
 </div>
 </div>
 
@@ -939,7 +961,8 @@ Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -948,7 +971,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 </div>
 
 
-Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
+<p>Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY_state</a>.</p>
+
 </div>
 </div>
 
@@ -972,7 +996,8 @@ Referenced by <a href="#a8a3a0c2826334ea648b85e926c005c13">defargsYY\_state</a>.
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1003,7 +1028,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1034,7 +1060,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/defargs-l
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1065,7 +1092,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/defargs-
 
 
 
-Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.
+<p>Definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/defargs-l">defargs.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

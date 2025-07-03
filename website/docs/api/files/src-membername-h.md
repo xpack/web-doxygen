@@ -49,7 +49,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="/web-doxygen/docs/api/classes/membernamelinkedmap/#details">More...</a>
+<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberName</a> objects. <a href="/web-doxygen/docs/api/classes/membernamelinkedmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -63,7 +63,7 @@ Ordered dictionary of <a href="/web-doxygen/docs/api/classes/membername">MemberN
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Data associated with a <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> in an inheritance relation. <a href="/web-doxygen/docs/api/classes/memberinfo/#details">More...</a>
+<p>Data associated with a <a href="/web-doxygen/docs/api/classes/memberdef">MemberDef</a> in an inheritance relation. <a href="/web-doxygen/docs/api/classes/memberinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

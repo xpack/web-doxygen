@@ -253,7 +253,8 @@ struct declinfoYY_state { ... }
 </table>
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -279,7 +280,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,7 +312,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -341,7 +344,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -372,7 +376,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -403,7 +408,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -434,7 +440,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -465,7 +472,8 @@ Definition at line 62 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -496,7 +504,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -527,7 +536,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -558,7 +568,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -589,7 +600,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -620,7 +632,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -651,7 +664,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -682,7 +696,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -713,7 +728,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -744,7 +760,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -775,7 +792,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Compiled resource. <a href="/web-doxygen/docs/api/structs/resource/#details">More...</a>
+<p>Compiled resource. <a href="/web-doxygen/docs/api/structs/resource/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,7 +52,7 @@ Compiled resource. <a href="/web-doxygen/docs/api/structs/resource/#details">Mor
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Singleton for managing resources compiled into an executable. <a href="/web-doxygen/docs/api/classes/resourcemgr/#details">More...</a>
+<p>Singleton for managing resources compiled into an executable. <a href="/web-doxygen/docs/api/classes/resourcemgr/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

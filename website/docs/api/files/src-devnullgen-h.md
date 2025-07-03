@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="/web-doxygen/docs/api/classes/devnullcodegenerator/#details">More...</a>
+<p>Class implementing <a href="/web-doxygen/docs/api/classes/outputcodeintf">OutputCodeIntf</a> by throwing away everything. <a href="/web-doxygen/docs/api/classes/devnullcodegenerator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

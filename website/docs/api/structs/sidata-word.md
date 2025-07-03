@@ -82,7 +82,8 @@ struct SIData_Word { ... }
 </table>
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -113,7 +114,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -123,7 +125,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-References <a href="#ad7139ab71767d51a15af2099230fd5f6">hiPrio</a> and <a href="#a6c077e1b5117c1adceb3fbd25256ae2a">word</a>.
+<p>References <a href="#ad7139ab71767d51a15af2099230fd5f6">hiPrio</a> and <a href="#a6c077e1b5117c1adceb3fbd25256ae2a">word</a>.</p>
+
 </div>
 </div>
 
@@ -153,7 +156,8 @@ References <a href="#ad7139ab71767d51a15af2099230fd5f6">hiPrio</a> and <a href="
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -162,7 +166,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData\_Word</a>.
+<p>Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData_Word</a>.</p>
+
 </div>
 </div>
 
@@ -186,7 +191,8 @@ Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData\_Word</a>.
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -195,7 +201,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData\_Word</a>.
+<p>Referenced by <a href="#a1c35b150169139351dae0a697415fdbd">SIData_Word</a>.</p>
+
 </div>
 </div>
 

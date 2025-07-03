@@ -193,7 +193,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -209,9 +210,11 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>.</p>
+
 </div>
 </div>
 
@@ -240,7 +243,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec0
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -264,9 +268,11 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>.</p>
 
-Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
+
+<p>Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.</p>
+
 </div>
 </div>
 
@@ -295,7 +301,8 @@ Referenced by <a href="#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>.
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -311,9 +318,11 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#accfbeaf0954a9bf961a17b0c7e243763">makeFileName</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="#accfbeaf0954a9bf961a17b0c7e243763">makeFileName</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/crawlmap/#af14459516bd2c63e2637f45b668fd676">Crawlmap::addIndexItem</a> and <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23bf80c880f0cf">Qhp::addIndexItem</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/crawlmap/#af14459516bd2c63e2637f45b668fd676">Crawlmap::addIndexItem</a> and <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23bf80c880f0cf">Qhp::addIndexItem</a>.</p>
+
 </div>
 </div>
 
@@ -343,7 +352,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -358,9 +368,11 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a> and <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dad9460df52aaeff184624ce6b5a5360e2">Debug::Qhp</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a> and <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dad9460df52aaeff184624ce6b5a5360e2">Debug::Qhp</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23bf80c880f0cf">Qhp::addIndexItem</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a89942e1d21257702167ab30834b991cd">Qhp::finalize</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>, <a href="/web-doxygen/docs/api/classes/qhpsectiontree/#a9a072680707ccb788470b5463a984c38">QhpSectionTree::traverse</a> and <a href="/web-doxygen/docs/api/classes/qhpsectiontree/#a6e807fd7b2edf13ef2d02669c2b61569">QhpSectionTree::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23bf80c880f0cf">Qhp::addIndexItem</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a89942e1d21257702167ab30834b991cd">Qhp::finalize</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>, <a href="/web-doxygen/docs/api/classes/qhpsectiontree/#a9a072680707ccb788470b5463a984c38">QhpSectionTree::traverse</a> and <a href="/web-doxygen/docs/api/classes/qhpsectiontree/#a6e807fd7b2edf13ef2d02669c2b61569">QhpSectionTree::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -395,7 +407,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#afdd0e586dc670e184d23b
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">qhp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -404,7 +417,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/qhp-cpp">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>.</p>
+
 </div>
 </div>
 

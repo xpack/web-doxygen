@@ -41,7 +41,7 @@ class Crawlmap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a>
+<p>Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/indexintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -250,7 +250,8 @@ Abstract interface for index generators. <a href="/web-doxygen/docs/api/classes/
 </table>
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -276,7 +277,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -285,9 +287,11 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-Reference <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>.
+<p>Reference <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>.</p>
 
-Referenced by <a href="#a4062ccd2fd1a181e83949965d04d6c6e">\~Crawlmap</a>.
+
+<p>Referenced by <a href="#a4062ccd2fd1a181e83949965d04d6c6e">~Crawlmap</a>.</p>
+
 </div>
 </div>
 
@@ -317,9 +321,11 @@ Referenced by <a href="#a4062ccd2fd1a181e83949965d04d6c6e">\~Crawlmap</a>.
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
 
-Reference <a href="#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a>.
+
+<p>Reference <a href="#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a>.</p>
+
 </div>
 </div>
 
@@ -354,7 +360,8 @@ Reference <a href="#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a>.
 
 
 
-Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 140 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -391,7 +398,8 @@ Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -421,7 +429,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -457,7 +466,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 
 
 
-Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -471,7 +481,8 @@ Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -500,7 +511,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -525,7 +537,8 @@ Declaration at line 69 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qhp-cpp/#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a>, <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/qhp-cpp/#a1ed13b7ecf64ac700cd4249371fb1165">makeRef</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -555,7 +568,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -592,7 +606,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -628,7 +643,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 
 
 
-Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -650,7 +666,8 @@ Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-Reference <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>.
+<p>Reference <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>.</p>
+
 </div>
 </div>
 
@@ -680,7 +697,8 @@ Reference <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>.
 
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -716,7 +734,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>, definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/sitemap-cpp">sitemap.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -746,7 +765,8 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/sitemap-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#af7b40686a6238e53c3979fb36ba18a18">crawlFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#af7b40686a6238e53c3979fb36ba18a18">crawlFileName</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a960233e4b7f3e8c8f11acf1f9a8e767a">p</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.</p>
+
 </div>
 </div>
 
@@ -776,7 +796,8 @@ References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cff
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -785,7 +806,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 </div>
 
 
-Referenced by <a href="#a1dd9ba2dc2586e4dcd08ea7da6d93b69">addContentsItem</a>, <a href="#aafc27f940e1c9768a97427452dd1f86b">addIndexFile</a>, <a href="#af14459516bd2c63e2637f45b668fd676">addIndexItem</a>, <a href="#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a>, <a href="#ad896b4b6814a6fba6e7160c83ad45f54">finalize</a> and <a href="#a07627e75c6fe9c87685b12be8ac61f5a">initialize</a>.
+<p>Referenced by <a href="#a1dd9ba2dc2586e4dcd08ea7da6d93b69">addContentsItem</a>, <a href="#aafc27f940e1c9768a97427452dd1f86b">addIndexFile</a>, <a href="#af14459516bd2c63e2637f45b668fd676">addIndexItem</a>, <a href="#ac78c2eb564885d3bde9d85f7aa1dcb42">Crawlmap</a>, <a href="#ad896b4b6814a6fba6e7160c83ad45f54">finalize</a> and <a href="#a07627e75c6fe9c87685b12be8ac61f5a">initialize</a>.</p>
+
 </div>
 </div>
 
@@ -820,7 +842,8 @@ Referenced by <a href="#a1dd9ba2dc2586e4dcd08ea7da6d93b69">addContentsItem</a>, 
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h">sitemap.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -829,7 +852,8 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/sitemap-h
 </div>
 
 
-Referenced by <a href="#a07627e75c6fe9c87685b12be8ac61f5a">initialize</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#aca433ebd5f69c326bd8740d55c2b4d66">writeIndex</a>.
+<p>Referenced by <a href="#a07627e75c6fe9c87685b12be8ac61f5a">initialize</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#aca433ebd5f69c326bd8740d55c2b4d66">writeIndex</a>.</p>
+
 </div>
 </div>
 

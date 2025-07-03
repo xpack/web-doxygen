@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-std::vector like container optimized for pushing elements to the back. <a href="/web-doxygen/docs/api/classes/growvector/#details">More...</a>
+<p>std::vector like container optimized for pushing elements to the back. <a href="/web-doxygen/docs/api/classes/growvector/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -65,7 +65,7 @@ std::vector like container optimized for pushing elements to the back. <a href="
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-bidirectional iterator <a href="/web-doxygen/docs/api/classes/growvector/iterator/#details">More...</a>
+<p>bidirectional iterator <a href="/web-doxygen/docs/api/classes/growvector/iterator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

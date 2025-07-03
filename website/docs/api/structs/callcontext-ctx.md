@@ -108,7 +108,8 @@ struct CallContext::Ctx { ... }
 </table>
 
 
-Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -139,7 +140,8 @@ Definition at line 142 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 
 
 
-Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -148,7 +150,8 @@ Definition at line 144 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-References <a href="#a8768bac9d029bdc223a04b1e11ab282f">bracketCount</a>, <a href="#a25706b50d9a1377bc3c8d955047ad4fc">name</a> and <a href="#a4f7150e244df309082ff5cc1abb0806f">type</a>.
+<p>References <a href="#a8768bac9d029bdc223a04b1e11ab282f">bracketCount</a>, <a href="#a25706b50d9a1377bc3c8d955047ad4fc">name</a> and <a href="#a4f7150e244df309082ff5cc1abb0806f">type</a>.</p>
+
 </div>
 </div>
 
@@ -178,7 +181,8 @@ References <a href="#a8768bac9d029bdc223a04b1e11ab282f">bracketCount</a>, <a hre
 
 
 
-Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -187,7 +191,8 @@ Definition at line 147 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.
+<p>Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.</p>
+
 </div>
 </div>
 
@@ -211,7 +216,8 @@ Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -220,7 +226,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.
+<p>Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.</p>
+
 </div>
 </div>
 
@@ -244,7 +251,8 @@ Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="
 
 
 
-Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -253,7 +261,8 @@ Definition at line 148 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/callcontext/#a8757d0d18b9145ac439489a6d48e5109">CallContext::setScope</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/callcontext/#a8757d0d18b9145ac439489a6d48e5109">CallContext::setScope</a>.</p>
+
 </div>
 </div>
 
@@ -277,7 +286,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/callcontext/#a8757d0d18b914
 
 
 
-Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -286,7 +296,8 @@ Definition at line 146 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.
+<p>Referenced by <a href="#a69e02bbf39765c24ca75ec96135e1a92">Ctx</a> and <a href="/web-doxygen/docs/api/classes/callcontext/#a8147660c0aef8f928270662b79d5907f">CallContext::popScope</a>.</p>
+
 </div>
 </div>
 

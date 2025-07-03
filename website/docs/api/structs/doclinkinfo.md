@@ -89,7 +89,8 @@ struct DocLinkInfo { ... }
 </table>
 
 
-Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
+<p>Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -115,7 +116,8 @@ Definition at line 42 of file <a href="/web-doxygen/docs/api/files/src/outputgen
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -124,7 +126,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/outputgen
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 
@@ -148,7 +151,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -157,7 +161,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/outputgen
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 
@@ -181,7 +186,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -190,7 +196,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/outputgen
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 
@@ -214,7 +221,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd9
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/outputgen-h">outputgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -223,7 +231,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/outputgen
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#ab450dd921a83f6ef2535324349f6f1c1">HtmlCodeGenerator::writeTooltip</a> and <a href="/web-doxygen/docs/api/classes/tooltipmanager/#a9fabdb64f4fd1b5a5fded9d7dac90c3b">TooltipManager::writeTooltips</a>.</p>
+
 </div>
 </div>
 

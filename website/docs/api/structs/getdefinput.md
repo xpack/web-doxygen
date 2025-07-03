@@ -147,7 +147,8 @@ struct GetDefInput { ... }
 </table>
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -178,7 +179,8 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 
 
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -188,7 +190,8 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-References <a href="#a485cc8b33f7f8e7fd855f6dc8e94a87d">args</a>, <a href="#a4bfecea6939098158f6f238eb40155b8">memberName</a> and <a href="#a11e7c24c8b7efbaf60e694bc1cd350ff">scopeName</a>.
+<p>References <a href="#a485cc8b33f7f8e7fd855f6dc8e94a87d">args</a>, <a href="#a4bfecea6939098158f6f238eb40155b8">memberName</a> and <a href="#a11e7c24c8b7efbaf60e694bc1cd350ff">scopeName</a>.</p>
+
 </div>
 </div>
 
@@ -218,7 +221,8 @@ References <a href="#a485cc8b33f7f8e7fd855f6dc8e94a87d">args</a>, <a href="#a4bf
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -227,7 +231,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>.
+<p>Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>.</p>
+
 </div>
 </div>
 
@@ -251,7 +256,8 @@ Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a h
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -260,7 +266,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b364222f7f357406e62">DocParser::findDocsForMemberOrCompound</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b364222f7f357406e62">DocParser::findDocsForMemberOrCompound</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.</p>
+
 </div>
 </div>
 
@@ -284,7 +291,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docparser/#aa75d3dc0424c6b3
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -293,7 +301,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#aa3a78394ea3d7dee51703f8f0c1e3984">getLinkInScope</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#aa3a78394ea3d7dee51703f8f0c1e3984">getLinkInScope</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.</p>
+
 </div>
 </div>
 
@@ -317,7 +326,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -326,7 +336,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2bb57904806cf057f0d38374a63209ea">resolveRef</a>.</p>
+
 </div>
 </div>
 
@@ -350,7 +361,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -359,7 +371,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#aa3a78394ea3d7dee51703f8f0c1e3984">getLinkInScope</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/pycode-l/#aa3a78394ea3d7dee51703f8f0c1e3984">getLinkInScope</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a>.</p>
+
 </div>
 </div>
 
@@ -383,7 +396,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -392,7 +406,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>.
+<p>Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a>.</p>
+
 </div>
 </div>
 
@@ -416,7 +431,8 @@ Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a h
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -425,7 +441,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a>.
+<p>Referenced by <a href="#a3bd3ea4bc572352d9c09a1544ae8efe9">GetDefInput</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ab5d70bf9e42fcc2766efb0655ff317e0">getDefs</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2fdb07a3ae3b43c58c64eecb52ed866b">getDefsOld</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a7c3e45cceb9eb4446d360eb8620eef8c">getLinkInScope</a>.</p>
+
 </div>
 </div>
 

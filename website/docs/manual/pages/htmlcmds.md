@@ -23,7 +23,8 @@ toc_max_heading_level: 4
 ## HTML tag commands {#htmltagcmds}
 
 
-Here is a list of all HTML commands that may be used inside the documentation. Note that although these HTML tags are translated to the proper commands for output formats other than HTML, all attributes of a HTML tag are passed on to the HTML output only (the <span class="doxyComputerOutput">HREF</span> and <span class="doxyComputerOutput">NAME</span> attributes for the <span class="doxyComputerOutput">A</span> tag are the only exception).
+<p>Here is a list of all HTML commands that may be used inside the documentation. Note that although these HTML tags are translated to the proper commands for output formats other than HTML, all attributes of a HTML tag are passed on to the HTML output only (the <span class="doxyComputerOutput">HREF</span> and <span class="doxyComputerOutput">NAME</span> attributes for the <span class="doxyComputerOutput">A</span> tag are the only exception).</p>
+
 
 <table class="doxyTable">
 <tr>
@@ -240,7 +241,8 @@ Here is a list of all HTML commands that may be used inside the documentation. N
 </tr>
 </table>
 
-Finally we have the HTML style comments.
+<p>Finally we have the HTML style comments.</p>
+
 
 <ul class="doxyList ">
 <li>When using the, Doxygen, special HTML style comments, i.e. <span class="doxyComputerOutput">&lt;!--! ... --&gt;</span>, it is not seen as comment but as if the <span class="doxyComputerOutput">...</span> part is just in the documentation. This is useful to specify Doxygen commands inside a markdown file like:
@@ -269,12 +271,14 @@ which will be ignored by regular Markdown processors, but Doxygen will interpret
 The part <span class="doxyComputerOutput">&lt;!-- ... --&gt;</span> will not be shown in the main documentation.</li>
 </ul>
 
-Note: It is explicitly forbidden to use 3 dashes before the closing greater than sign. Doxygen won't see that as the closing either and give a warning.
+<p>Note: It is explicitly forbidden to use 3 dashes before the closing greater than sign. Doxygen won't see that as the closing either and give a warning.</p>
+
 
 ## HTML4 character entities {#htmlentities}
 
 
-The list of special HTML4 character entities with their descriptions has been taken from: <a href="https://www.w3.org/TR/html4/sgml/entities.html">Character entity references in HTML 4</a>. ( Portions © International Organization for Standardization 1986 Permission to copy in any form is granted for use with conforming SGML systems and applications as defined in ISO 8879, provided this notice is included in all copies.)
+<p>The list of special HTML4 character entities with their descriptions has been taken from: <a href="https://www.w3.org/TR/html4/sgml/entities.html">Character entity references in HTML 4</a>. ( Portions © International Organization for Standardization 1986 Permission to copy in any form is granted for use with conforming SGML systems and applications as defined in ISO 8879, provided this notice is included in all copies.)</p>
+
 
 <table class="doxyTable">
 <tr>

@@ -310,7 +310,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -352,7 +353,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -399,7 +401,8 @@ Definition at line 280 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 
 
 
-Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -449,7 +452,8 @@ Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -480,7 +484,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -562,9 +567,11 @@ Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#a177a7d7b72fc0be3c1655d9667929b27">g\_declinfo\_extra</a>, <a href="#a07a9d0a3847755d092a9a66f17bcb90b">g\_yyscanner</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da4fb818b908e028c1bc463472e3959dba">Debug::Lex\_declinfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#a177a7d7b72fc0be3c1655d9667929b27">g_declinfo_extra</a>, <a href="#a07a9d0a3847755d092a9a66f17bcb90b">g_yyscanner</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da4fb818b908e028c1bc463472e3959dba">Debug::Lex_declinfo</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a0940360aa6d41fd2496603fc565e3996">removeRedundantWhiteSpace</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602ab473a38ae5ae27e66611">findMember</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602ab473a38ae5ae27e66611">findMember</a>.</p>
+
 </div>
 </div>
 
@@ -593,7 +600,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3572f62a602
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 </div>
 </div>
 
@@ -617,7 +625,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -827,7 +836,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 
 
 
-Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -879,7 +889,8 @@ Definition at line 308 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 
 
 
-Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -888,7 +899,8 @@ Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0bda3d616434d8a2250546">parseFuncDecl</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0bda3d616434d8a2250546">parseFuncDecl</a>.</p>
+
 </div>
 </div>
 
@@ -917,7 +929,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0b
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -926,7 +939,8 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/declinfo
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0bda3d616434d8a2250546">parseFuncDecl</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0bda3d616434d8a2250546">parseFuncDecl</a>.</p>
+
 </div>
 </div>
 
@@ -956,7 +970,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/declinfo-h/#a4d239b57da0b
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -987,7 +1002,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1018,7 +1034,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1049,7 +1066,8 @@ Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1080,7 +1098,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1111,7 +1130,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/declinfo-
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/declinfo-l">declinfo.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

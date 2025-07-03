@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `PlantumlManager` Class Reference
 
-Singleton that manages plantuml relation actions. <a href="#details">More...</a>
+<p>Singleton that manages plantuml relation actions. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -73,7 +73,7 @@ class PlantumlManager { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Plant UML output image formats. <a href="#a73ccdfc6400a28af7d9d2f92215b9af5">More...</a>
+<p>Plant UML output image formats. <a href="#a73ccdfc6400a28af7d9d2f92215b9af5">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -112,7 +112,7 @@ Plant UML output image formats. <a href="#a73ccdfc6400a28af7d9d2f92215b9af5">Mor
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Run plant UML tool for all images. <a href="#af38a83e442553a769951c724353cbe6a">More...</a>
+<p>Run plant UML tool for all images. <a href="#af38a83e442553a769951c724353cbe6a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -126,7 +126,7 @@ Run plant UML tool for all images. <a href="#af38a83e442553a769951c724353cbe6a">
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Write a PlantUML compatible file. <a href="#a536c4c6840f0660a5084d7bb1e32ff18">More...</a>
+<p>Write a PlantUML compatible file. <a href="#a536c4c6840f0660a5084d7bb1e32ff18">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -140,7 +140,7 @@ Write a PlantUML compatible file. <a href="#a536c4c6840f0660a5084d7bb1e32ff18">M
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Convert a PlantUML file to an image. <a href="#af6f1c6249e4127996095d0086442fa0f">More...</a>
+<p>Convert a PlantUML file to an image. <a href="#af6f1c6249e4127996095d0086442fa0f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -273,9 +273,10 @@ Convert a PlantUML file to an image. <a href="#af6f1c6249e4127996095d0086442fa0f
 
 ## Description {#details}
 
-Singleton that manages plantuml relation actions.
+<p>Singleton that manages plantuml relation actions.</p>
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -301,7 +302,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -332,7 +334,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -367,7 +370,7 @@ Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 <div class="doxyMemberDoc">
 
-Plant UML output image formats.
+<p>Plant UML output image formats.</p>
 
 <dl class="doxyEnumList">
 <dt class="doxyEnumTableTitle">Enumeration values</dt>
@@ -393,7 +396,8 @@ Plant UML output image formats.
 </dd>
 </dl>
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -430,7 +434,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 
 
 
-Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -441,7 +446,8 @@ Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-Referenced by <a href="#ae264d99d8756b63a55c341b4768ad28b">instance</a>.
+<p>Referenced by <a href="#ae264d99d8756b63a55c341b4768ad28b">instance</a>.</p>
+
 </div>
 </div>
 
@@ -469,7 +475,7 @@ Referenced by <a href="#ae264d99d8756b63a55c341b4768ad28b">instance</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Convert a PlantUML file to an image.
+<p>Convert a PlantUML file to an image.</p>
 
 
 <dl class="doxyParamsList">
@@ -478,21 +484,22 @@ Convert a PlantUML file to an image.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] baseName</td>
-<td class="doxyParamItemDescription">the name of the generated file (as returned by <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource()</a>)</td>
+<td class="doxyParamItemDescription"><p>the name of the generated file (as returned by <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource()</a>)</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] outDir</td>
-<td class="doxyParamItemDescription">the directory to write the resulting image into.</td>
+<td class="doxyParamItemDescription"><p>the directory to write the resulting image into.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] format</td>
-<td class="doxyParamItemDescription">the image format to generate.</td>
+<td class="doxyParamItemDescription"><p>the image format to generate.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 128 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -525,9 +532,11 @@ Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML\_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML\_EPS</a> and <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML\_SVG</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML_EPS</a> and <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML_SVG</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab259d2b0e06461957346bd3de5bb52e0">DocbookDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2ed6deb26c33df9ea8b4bc30734be81b">HtmlDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a92275d99afc832afc51d7e0deec3afe6">LatexDocVisitor::writePlantUMLFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8aaf0de986f15251aaa6221d226ab55a">RTFDocVisitor::writePlantUMLFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab259d2b0e06461957346bd3de5bb52e0">DocbookDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2ed6deb26c33df9ea8b4bc30734be81b">HtmlDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a92275d99afc832afc51d7e0deec3afe6">LatexDocVisitor::writePlantUMLFile</a> and <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8aaf0de986f15251aaa6221d226ab55a">RTFDocVisitor::writePlantUMLFile</a>.</p>
+
 </div>
 </div>
 
@@ -549,9 +558,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291
 </div>
 <div class="doxyMemberDoc">
 
-Run plant UML tool for all images.
+<p>Run plant UML tool for all images.</p>
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -566,9 +576,11 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-References <a href="#a865f02cdc1a05826e893485e9df32022">m\_epsPlantumlContent</a>, <a href="#af736b55d9c30405deb9333eb840339da">m\_epsPlantumlFiles</a>, <a href="#a0df82d91beec8a3021e470aa2574c662">m\_pngPlantumlContent</a>, <a href="#ac86affddc4db57978e98e4ad07951bd0">m\_pngPlantumlFiles</a>, <a href="#ac4dff5e930bca84db261f047c7801e67">m\_svgPlantumlContent</a>, <a href="#aeae4a1ea8542946832f282102993acd7">m\_svgPlantumlFiles</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML\_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML\_EPS</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML\_SVG</a> and <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>.
+<p>References <a href="#a865f02cdc1a05826e893485e9df32022">m_epsPlantumlContent</a>, <a href="#af736b55d9c30405deb9333eb840339da">m_epsPlantumlFiles</a>, <a href="#a0df82d91beec8a3021e470aa2574c662">m_pngPlantumlContent</a>, <a href="#ac86affddc4db57978e98e4ad07951bd0">m_pngPlantumlFiles</a>, <a href="#ac4dff5e930bca84db261f047c7801e67">m_svgPlantumlContent</a>, <a href="#aeae4a1ea8542946832f282102993acd7">m_svgPlantumlFiles</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML_EPS</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML_SVG</a> and <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -590,7 +602,7 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </div>
 <div class="doxyMemberDoc">
 
-Write a PlantUML compatible file.
+<p>Write a PlantUML compatible file.</p>
 
 
 <dl class="doxyParamsList">
@@ -599,35 +611,35 @@ Write a PlantUML compatible file.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] outDirArg</td>
-<td class="doxyParamItemDescription">the output directory to write the file to.</td>
+<td class="doxyParamItemDescription"><p>the output directory to write the file to.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription">the name of the file. If empty a name will be chosen automatically.</td>
+<td class="doxyParamItemDescription"><p>the name of the file. If empty a name will be chosen automatically.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] content</td>
-<td class="doxyParamItemDescription">the contents of the PlantUML file.</td>
+<td class="doxyParamItemDescription"><p>the contents of the PlantUML file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] format</td>
-<td class="doxyParamItemDescription">the image format to generate.</td>
+<td class="doxyParamItemDescription"><p>the image format to generate.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] engine</td>
-<td class="doxyParamItemDescription">the plantuml engine to use.</td>
+<td class="doxyParamItemDescription"><p>the plantuml engine to use.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] srcFile</td>
-<td class="doxyParamItemDescription">the source file resulting in the write command.</td>
+<td class="doxyParamItemDescription"><p>the source file resulting in the write command.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] srcLine</td>
-<td class="doxyParamItemDescription">the line number resulting in the write command.</td>
+<td class="doxyParamItemDescription"><p>the line number resulting in the write command.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] inlineCode</td>
-<td class="doxyParamItemDescription">the code is coming from the <span class="doxyComputerOutput">\statuml ... \enduml</span> (<span class="doxyComputerOutput">true</span>) command or from the <span class="doxyComputerOutput">\planumlfile</span> command (<span class="doxyComputerOutput">false</span>)</td>
+<td class="doxyParamItemDescription"><p>the code is coming from the <span class="doxyComputerOutput">\statuml ... \enduml</span> (<span class="doxyComputerOutput">true</span>) command or from the <span class="doxyComputerOutput">\planumlfile</span> command (<span class="doxyComputerOutput">false</span>)</p></td>
 </tr>
 </table>
 </dd>
@@ -635,11 +647,12 @@ Write a PlantUML compatible file.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>The name of the generated file.</dd>
+<dd><p>The name of the generated file.</p></dd>
 </dl>
 
 
-Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -746,9 +759,11 @@ Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a>, <a href="#ae264d99d8756b63a55c341b4768ad28b">instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal\_at</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML\_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML\_EPS</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML\_SVG</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a973167288278eae74d1d1c25313043fe">QCString::reserve</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a>, <a href="#ae264d99d8756b63a55c341b4768ad28b">instance</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/util-h/#ae320c88a8522836f00095d566529046f">isId</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/stringutil-h/#a8e85550bd817a742a59bf46dce8f3b21">literal_at</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML_EPS</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML_SVG</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a973167288278eae74d1d1c25313043fe">QCString::reserve</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab9411b5e1c0b790a6427ac73dec643f2">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4f3ac1fc0fb8cb8218beb807d0a820d1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab9411b5e1c0b790a6427ac73dec643f2">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4f3ac1fc0fb8cb8218beb807d0a820d1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a> and <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>.</p>
+
 </div>
 </div>
 
@@ -778,7 +793,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0
 
 
 
-Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -814,9 +830,11 @@ Declaration at line 79 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a7411ea2df505d0f75b24fdd14da9ba47">addPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#ac3a7fb5f82f11c61008a85026460eab8">addPlantumlFiles</a>, <a href="#a865f02cdc1a05826e893485e9df32022">m\_epsPlantumlContent</a>, <a href="#af736b55d9c30405deb9333eb840339da">m\_epsPlantumlFiles</a>, <a href="#a0df82d91beec8a3021e470aa2574c662">m\_pngPlantumlContent</a>, <a href="#ac86affddc4db57978e98e4ad07951bd0">m\_pngPlantumlFiles</a>, <a href="#ac4dff5e930bca84db261f047c7801e67">m\_svgPlantumlContent</a>, <a href="#aeae4a1ea8542946832f282102993acd7">m\_svgPlantumlFiles</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#aaa383e6d12f58596fe30c0de9a8d82b1">print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML\_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML\_EPS</a> and <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML\_SVG</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a7411ea2df505d0f75b24fdd14da9ba47">addPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#ac3a7fb5f82f11c61008a85026460eab8">addPlantumlFiles</a>, <a href="#a865f02cdc1a05826e893485e9df32022">m_epsPlantumlContent</a>, <a href="#af736b55d9c30405deb9333eb840339da">m_epsPlantumlFiles</a>, <a href="#a0df82d91beec8a3021e470aa2574c662">m_pngPlantumlContent</a>, <a href="#ac86affddc4db57978e98e4ad07951bd0">m_pngPlantumlFiles</a>, <a href="#ac4dff5e930bca84db261f047c7801e67">m_svgPlantumlContent</a>, <a href="#aeae4a1ea8542946832f282102993acd7">m_svgPlantumlFiles</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa8db983f0b8626bee7c3f012c8b5d566">Debug::Plantuml</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#aaa383e6d12f58596fe30c0de9a8d82b1">print</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a1414704243dc148d478bed8064a73046">PUML_BITMAP</a>, <a href="#a73ccdfc6400a28af7d9d2f92215b9af5aef367a42db272e040b6fec4c65f52b36">PUML_EPS</a> and <a href="#a73ccdfc6400a28af7d9d2f92215b9af5a49f2c9b51c65731b8708f8c193a63ccf">PUML_SVG</a>.</p>
 
-Referenced by <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource</a>.
+
+<p>Referenced by <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource</a>.</p>
+
 </div>
 </div>
 
@@ -846,7 +864,8 @@ Referenced by <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource</
 
 
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -855,7 +874,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -879,7 +899,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -888,7 +909,8 @@ Definition at line 89 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -912,7 +934,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -921,7 +944,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -945,7 +969,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -954,7 +979,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -978,7 +1004,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -987,7 +1014,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -1011,7 +1039,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1020,7 +1049,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/plantuml-
 </div>
 
 
-Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.
+<p>Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a href="#af38a83e442553a769951c724353cbe6a">run</a>.</p>
+
 </div>
 </div>
 
@@ -1055,7 +1085,8 @@ Referenced by <a href="#aa83ff077c80d8e2dc04a28e1629cff12">insert</a> and <a hre
 
 
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/plantuml-h">plantuml.h</a>, definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/plantuml-cpp">plantuml.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1068,9 +1099,11 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/plantuml
 </div>
 
 
-Reference <a href="#ae35b3023efc4c8d1e609fa220c17b59d">PlantumlManager</a>.
+<p>Reference <a href="#ae35b3023efc4c8d1e609fa220c17b59d">PlantumlManager</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab9411b5e1c0b790a6427ac73dec643f2">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4f3ac1fc0fb8cb8218beb807d0a820d1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab259d2b0e06461957346bd3de5bb52e0">DocbookDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2ed6deb26c33df9ea8b4bc30734be81b">HtmlDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a92275d99afc832afc51d7e0deec3afe6">LatexDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8aaf0de986f15251aaa6221d226ab55a">RTFDocVisitor::writePlantUMLFile</a> and <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab9411b5e1c0b790a6427ac73dec643f2">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a4f3ac1fc0fb8cb8218beb807d0a820d1">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#acf7119e47c96291250aee1c5c98ac794">FlowChart::printUmlTree</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#adbd00a8643be133e0b0cbef298202eeb">DocbookDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#aa42bf16168d38b6ac210c3f17bef7510">LatexDocVisitor::startPlantUmlFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#ab259d2b0e06461957346bd3de5bb52e0">DocbookDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2ed6deb26c33df9ea8b4bc30734be81b">HtmlDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a92275d99afc832afc51d7e0deec3afe6">LatexDocVisitor::writePlantUMLFile</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a8aaf0de986f15251aaa6221d226ab55a">RTFDocVisitor::writePlantUMLFile</a> and <a href="#a536c4c6840f0660a5084d7bb1e32ff18">writePlantUMLSource</a>.</p>
+
 </div>
 </div>
 

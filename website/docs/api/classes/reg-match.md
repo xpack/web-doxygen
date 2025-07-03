@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Match` Class Reference
 
-Object representing the matching results. <a href="#details">More...</a>
+<p>Object representing the matching results. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ class reg::Match { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Creates an empty match object. <a href="#a37a5c2911063058b342cc51cb480c85e">More...</a>
+<p>Creates an empty match object. <a href="#a37a5c2911063058b342cc51cb480c85e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -80,7 +80,7 @@ Creates an empty match object. <a href="#a37a5c2911063058b342cc51cb480c85e">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the n-th <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object. <a href="#a8320717bb5a3371ce6aa32dc0e5a8f39">More...</a>
+<p>Returns the n-th <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object. <a href="#a8320717bb5a3371ce6aa32dc0e5a8f39">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -100,7 +100,7 @@ Returns the n-th <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the position of the match or std::string::npos if no position is set. <a href="#a8ef72503a2d2337b2f594839ea10c819">More...</a>
+<p>Returns the position of the match or std::string::npos if no position is set. <a href="#a8ef72503a2d2337b2f594839ea10c819">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -114,7 +114,7 @@ Returns the position of the match or std::string::npos if no position is set. <a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the position of the match or std::string::npos if no length is set. <a href="#ad3ac6e9dcc408056ba2e32861da9294e">More...</a>
+<p>Returns the position of the match or std::string::npos if no length is set. <a href="#ad3ac6e9dcc408056ba2e32861da9294e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -128,7 +128,7 @@ Returns the position of the match or std::string::npos if no length is set. <a h
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return a string representing the matching part. <a href="#a97649b62cb59c9a30ce309559ad0f818">More...</a>
+<p>Return a string representing the matching part. <a href="#a97649b62cb59c9a30ce309559ad0f818">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -142,7 +142,7 @@ Return a string representing the matching part. <a href="#a97649b62cb59c9a30ce30
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return the part of the string before the match. <a href="#a8b332adf8f8813fda1d938314c92dfb8">More...</a>
+<p>Return the part of the string before the match. <a href="#a8b332adf8f8813fda1d938314c92dfb8">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,7 @@ Return the part of the string before the match. <a href="#a8b332adf8f8813fda1d93
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Return the part of the string after the match. <a href="#ab2301e49e73b68b27e4825fc38e04d41">More...</a>
+<p>Return the part of the string after the match. <a href="#ab2301e49e73b68b27e4825fc38e04d41">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -170,7 +170,7 @@ Return the part of the string after the match. <a href="#ab2301e49e73b68b27e4825
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the number of sub matches available in this match. <a href="#a89c66a7065ac811107702a905b37da11">More...</a>
+<p>Returns the number of sub matches available in this match. <a href="#a89c66a7065ac811107702a905b37da11">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -297,14 +297,17 @@ Returns the number of sub matches available in this match. <a href="#a89c66a7065
 
 ## Description {#details}
 
-Object representing the matching results.
+<p>Object representing the matching results.</p>
 
 
-It consists of an array of <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> objects. The first entry of the array represents the whole match, any next elements represent each of the capture ranges.
+<p>It consists of an array of <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> objects. The first entry of the array represents the whole match, any next elements represent each of the capture ranges.</p>
 
-For example string <span class="doxyComputerOutput">@42</span> and expression <span class="doxyComputerOutput">@(\\\\d+)</span> will have two Submatches, match\[0\] will point to the input string as a whole, and match\[1\] will point to the number 42 only.
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>For example string <span class="doxyComputerOutput">@42</span> and expression <span class="doxyComputerOutput">@(\\d+)</span> will have two Submatches, match[0] will point to the input string as a whole, and match[1] will point to the number 42 only.</p>
+
+
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -329,7 +332,8 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 <div class="doxyMemberDoc">
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -338,9 +342,11 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.
+<p>Reference <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.</p>
 
-Referenced by <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.
+
+<p>Referenced by <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.</p>
+
 </div>
 </div>
 
@@ -373,9 +379,10 @@ Referenced by <a href="#a0ce15d3df1c5aa85342f8949e00a8287">Ex</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Creates an empty match object.
+<p>Creates an empty match object.</p>
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -415,12 +422,14 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 <div class="doxyMemberDoc">
 
-Returns the n-th <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object.
+<p>Returns the n-th <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object.</p>
 
 
-Note that there is always 1 <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object representing the whole match.
+<p>Note that there is always 1 <a href="/web-doxygen/docs/api/classes/reg/submatch">SubMatch</a> object representing the whole match.</p>
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -429,7 +438,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
+
 </div>
 </div>
 
@@ -462,9 +472,10 @@ Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Returns the position of the match or std::string::npos if no length is set.
+<p>Returns the position of the match or std::string::npos if no length is set.</p>
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -473,9 +484,11 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.</p>
+
 </div>
 </div>
 
@@ -502,9 +515,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 </div>
 <div class="doxyMemberDoc">
 
-Returns the position of the match or std::string::npos if no position is set.
+<p>Returns the position of the match or std::string::npos if no position is set.</p>
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -513,9 +527,11 @@ Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
 
-Referenced by <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.
+
+<p>Referenced by <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.</p>
+
 </div>
 </div>
 
@@ -542,9 +558,10 @@ Referenced by <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a> and <a hre
 </div>
 <div class="doxyMemberDoc">
 
-Return the part of the string before the match.
+<p>Return the part of the string before the match.</p>
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -553,7 +570,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#a41c4cc9115ef016ff22c311f01491785">m\_str</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a> and <a href="/web-doxygen/docs/api/classes/reg/submatch/#a5a9307c50ec4361b8f81eccc1953d10a">reg::SubMatch::setMatch</a>.
+<p>References <a href="#a41c4cc9115ef016ff22c311f01491785">m_str</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a> and <a href="/web-doxygen/docs/api/classes/reg/submatch/#a5a9307c50ec4361b8f81eccc1953d10a">reg::SubMatch::setMatch</a>.</p>
+
 </div>
 </div>
 
@@ -580,9 +598,10 @@ References <a href="#a41c4cc9115ef016ff22c311f01491785">m\_str</a>, <a href="#a8
 </div>
 <div class="doxyMemberDoc">
 
-Returns the number of sub matches available in this match.
+<p>Returns the number of sub matches available in this match.</p>
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -591,7 +610,8 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
+
 </div>
 </div>
 
@@ -618,9 +638,10 @@ Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
 </div>
 <div class="doxyMemberDoc">
 
-Return a string representing the matching part.
+<p>Return a string representing the matching part.</p>
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -629,9 +650,11 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>Reference <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
 
-Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.
+
+<p>Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a> and <a href="/web-doxygen/docs/api/files/src/pre-l/#a35e7ee6baadfec49f7e85a2cf14d5deb">initPredefined</a>.</p>
+
 </div>
 </div>
 
@@ -658,9 +681,10 @@ Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a> and <a href=
 </div>
 <div class="doxyMemberDoc">
 
-Return the part of the string after the match.
+<p>Return the part of the string after the match.</p>
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -678,7 +702,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a41c4cc9115ef016ff22c311f01491785">m\_str</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a> and <a href="/web-doxygen/docs/api/classes/reg/submatch/#a5a9307c50ec4361b8f81eccc1953d10a">reg::SubMatch::setMatch</a>.
+<p>References <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a41c4cc9115ef016ff22c311f01491785">m_str</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a> and <a href="/web-doxygen/docs/api/classes/reg/submatch/#a5a9307c50ec4361b8f81eccc1953d10a">reg::SubMatch::setMatch</a>.</p>
+
 </div>
 </div>
 
@@ -713,7 +738,8 @@ References <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a4
 
 
 
-Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -730,7 +756,8 @@ Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a>, <a href="#a0be30a011c1bad8e0b50cb5a2998c160">m\_insideCapture</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m_captureIndex</a>, <a href="#a0be30a011c1bad8e0b50cb5a2998c160">m_insideCapture</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
+
 </div>
 </div>
 
@@ -759,7 +786,8 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a>, <a 
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -773,9 +801,11 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#a41c4cc9115ef016ff22c311f01491785">m\_str</a>, <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a> and <a href="#a97649b62cb59c9a30ce309559ad0f818">str</a>.
+<p>References <a href="#a41c4cc9115ef016ff22c311f01491785">m_str</a>, <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a> and <a href="#a97649b62cb59c9a30ce309559ad0f818">str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380fa79ce0a346360feffce11">reg::Ex::Private::matchAt</a>.</p>
+
 </div>
 </div>
 
@@ -804,7 +834,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/reg/ex/private/#acb10ddb380
 
 
 
-Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -816,7 +847,8 @@ Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m_captureIndex</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
+
 </div>
 </div>
 
@@ -845,7 +877,8 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a> and 
 
 
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -864,7 +897,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a>, <a href="#a0be30a011c1bad8e0b50cb5a2998c160">m\_insideCapture</a>, <a href="#a41c4cc9115ef016ff22c311f01491785">m\_str</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m\_subMatches</a>.
+<p>References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m_captureIndex</a>, <a href="#a0be30a011c1bad8e0b50cb5a2998c160">m_insideCapture</a>, <a href="#a41c4cc9115ef016ff22c311f01491785">m_str</a> and <a href="#aa0f4a2cb8f0612a01cc7aefe8e6fb351">m_subMatches</a>.</p>
+
 </div>
 </div>
 
@@ -894,7 +928,8 @@ References <a href="#ac1549543d1aeb2b085f589dd3a17835e">m\_captureIndex</a>, <a 
 
 
 
-Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -903,7 +938,8 @@ Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a href="#aacef95793e84d76e5c05fdf1b2063fc5">setMatch</a> and <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a>.
+<p>Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a href="#aacef95793e84d76e5c05fdf1b2063fc5">setMatch</a> and <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a>.</p>
+
 </div>
 </div>
 
@@ -927,7 +963,8 @@ Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a hr
 
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -936,7 +973,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a> and <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a>.
+<p>Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a> and <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a>.</p>
+
 </div>
 </div>
 
@@ -960,7 +998,8 @@ Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a> and <a
 
 
 
-Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -969,7 +1008,8 @@ Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a>, <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.
+<p>Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#a8b332adf8f8813fda1d938314c92dfb8">prefix</a>, <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a> and <a href="#ab2301e49e73b68b27e4825fc38e04d41">suffix</a>.</p>
+
 </div>
 </div>
 
@@ -993,7 +1033,8 @@ Referenced by <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#a
 
 
 
-Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/regex-h">regex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1002,7 +1043,8 @@ Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/regex-h"
 </div>
 
 
-Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a8320717bb5a3371ce6aa32dc0e5a8f39">operator\[\]</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a>, <a href="#aacef95793e84d76e5c05fdf1b2063fc5">setMatch</a>, <a href="#a89c66a7065ac811107702a905b37da11">size</a>, <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a> and <a href="#a97649b62cb59c9a30ce309559ad0f818">str</a>.
+<p>Referenced by <a href="#a8b061b3e6c2ef44438814dc864ae0c1d">endCapture</a>, <a href="#a9c65c2d340c94527959a847251d67d1e">init</a>, <a href="#ad3ac6e9dcc408056ba2e32861da9294e">length</a>, <a href="#a8320717bb5a3371ce6aa32dc0e5a8f39">operator[]</a>, <a href="#a8ef72503a2d2337b2f594839ea10c819">position</a>, <a href="#aacef95793e84d76e5c05fdf1b2063fc5">setMatch</a>, <a href="#a89c66a7065ac811107702a905b37da11">size</a>, <a href="#a89ab2cb5d0f2b74478440d52453fa414">startCapture</a> and <a href="#a97649b62cb59c9a30ce309559ad0f818">str</a>.</p>
+
 </div>
 </div>
 

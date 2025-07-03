@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `EmojiEntityMapper` Class Reference
 
-Singleton helper class to map emoji entities to other formats. <a href="#details">More...</a>
+<p>Singleton helper class to map emoji entities to other formats. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -79,7 +79,7 @@ class EmojiEntityMapper { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the name of the Emoji entity. <a href="#a33137ef11c5d63f6f7d7a27c01db943e">More...</a>
+<p>Access routine to the name of the Emoji entity. <a href="#a33137ef11c5d63f6f7d7a27c01db943e">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -93,7 +93,7 @@ Access routine to the name of the Emoji entity. <a href="#a33137ef11c5d63f6f7d7a
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Access routine to the unicode sequence for the Emoji entity. <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">More...</a>
+<p>Access routine to the unicode sequence for the Emoji entity. <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -107,7 +107,7 @@ Access routine to the unicode sequence for the Emoji entity. <a href="#a1b6d7e3d
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes the list of supported emojis to the given file. <a href="#aa3a564160bf157ebe6a13531392bb48b">More...</a>
+<p>Writes the list of supported emojis to the given file. <a href="#aa3a564160bf157ebe6a13531392bb48b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -121,7 +121,7 @@ Writes the list of supported emojis to the given file. <a href="#aa3a564160bf157
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns a code for the requested Emoji entity name. <a href="#a8f20a25544d61a753eaf73d2618c9c88">More...</a>
+<p>Returns a code for the requested Emoji entity name. <a href="#a8f20a25544d61a753eaf73d2618c9c88">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -160,7 +160,7 @@ Returns a code for the requested Emoji entity name. <a href="#a8f20a25544d61a753
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the one and only instance of the Emoji entity mapper. <a href="#a6b4ebc91738fb8f8af7459346a86f49b">More...</a>
+<p>Returns the one and only instance of the Emoji entity mapper. <a href="#a6b4ebc91738fb8f8af7459346a86f49b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -190,9 +190,10 @@ Returns the one and only instance of the Emoji entity mapper. <a href="#a6b4ebc9
 
 ## Description {#details}
 
-Singleton helper class to map emoji entities to other formats.
+<p>Singleton helper class to map emoji entities to other formats.</p>
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -218,7 +219,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">
 
 
 
-Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1960 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1960 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -238,9 +240,11 @@ Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a6296d06ea0d5be85d060dac04b76d4f7">g\_numEmojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g\_numEmojiEntities</a>, <a href="#a5238f2051fdd36ef89e3b009f407f7c7">m\_name2symGh</a>, <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a> and <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a>, <a href="#a5238f2051fdd36ef89e3b009f407f7c7">m_name2symGh</a>, <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a> and <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index</a>.</p>
 
-Referenced by <a href="#a6b4ebc91738fb8f8af7459346a86f49b">instance</a>.
+
+<p>Referenced by <a href="#a6b4ebc91738fb8f8af7459346a86f49b">instance</a>.</p>
+
 </div>
 </div>
 
@@ -270,7 +274,8 @@ Referenced by <a href="#a6b4ebc91738fb8f8af7459346a86f49b">instance</a>.
 
 
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1973 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1973 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -307,7 +312,7 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the name of the Emoji entity.
+<p>Access routine to the name of the Emoji entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -316,7 +321,7 @@ Access routine to the name of the Emoji entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">index</td>
-<td class="doxyParamItemDescription">code of the requested Emoji entity returned by <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index()</a></td>
+<td class="doxyParamItemDescription"><p>code of the requested Emoji entity returned by <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index()</a></p></td>
 </tr>
 </table>
 </dd>
@@ -324,11 +329,12 @@ Access routine to the name of the Emoji entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the name of the Emoji entity in GitHub format (i.e. :smile:)</dd>
+<dd><p>the name of the Emoji entity in GitHub format (i.e. :smile:)</p></dd>
 </dl>
 
 
-Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2026 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2026 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -340,9 +346,11 @@ Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g\_numEmojiEntities</a> and <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> and <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a>.</p>
 
-Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>, <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a60686dad3b83395d42770683c5e1e6a9">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#ae151cc7686cf768f2e7e91002bac8dcc">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a69768613d52a739ff1824beee29e9c52">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a8b0c3df81502ad08c0887a26b78061c2">PrintDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac090b55ba575d25794fb3cdce0e02967">XmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>, <a href="#a33137ef11c5d63f6f7d7a27c01db943e">name</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a60686dad3b83395d42770683c5e1e6a9">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#ae151cc7686cf768f2e7e91002bac8dcc">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a69768613d52a739ff1824beee29e9c52">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a8b0c3df81502ad08c0887a26b78061c2">PrintDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac090b55ba575d25794fb3cdce0e02967">XmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -364,7 +372,7 @@ Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>
 </div>
 <div class="doxyMemberDoc">
 
-Returns a code for the requested Emoji entity name.
+<p>Returns a code for the requested Emoji entity name.</p>
 
 
 <dl class="doxyParamsList">
@@ -373,7 +381,7 @@ Returns a code for the requested Emoji entity name.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">symName</td>
-<td class="doxyParamItemDescription">Emoji entity name</td>
+<td class="doxyParamItemDescription"><p>Emoji entity name</p></td>
 </tr>
 </table>
 </dd>
@@ -381,11 +389,12 @@ Returns a code for the requested Emoji entity name.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the code for the requested Emoji entity name, in case the requested Emoji item does not exist <span class="doxyComputerOutput">-1</span> is returned.</dd>
+<dd><p>the code for the requested Emoji entity name, in case the requested Emoji item does not exist <span class="doxyComputerOutput">-1</span> is returned.</p></dd>
 </dl>
 
 
-Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1990 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1990 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -398,9 +407,11 @@ Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-Reference <a href="#a5238f2051fdd36ef89e3b009f407f7c7">m\_name2symGh</a>.
+<p>Reference <a href="#a5238f2051fdd36ef89e3b009f407f7c7">m_name2symGh</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c02b1777e2b8801962">DocEmoji::DocEmoji</a> and <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c02b1777e2b8801962">DocEmoji::DocEmoji</a> and <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>.</p>
+
 </div>
 </div>
 
@@ -422,7 +433,7 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c0
 </div>
 <div class="doxyMemberDoc">
 
-Access routine to the unicode sequence for the Emoji entity.
+<p>Access routine to the unicode sequence for the Emoji entity.</p>
 
 
 <dl class="doxyParamsList">
@@ -431,7 +442,7 @@ Access routine to the unicode sequence for the Emoji entity.
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">index</td>
-<td class="doxyParamItemDescription">code of the requested Emoji entity returned by <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index()</a></td>
+<td class="doxyParamItemDescription"><p>code of the requested Emoji entity returned by <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index()</a></p></td>
 </tr>
 </table>
 </dd>
@@ -439,11 +450,12 @@ Access routine to the unicode sequence for the Emoji entity.
 
 <dl class="doxySectionUser">
 <dt>Returns</dt>
-<dd>the unicode sequence of the Emoji entity,</dd>
+<dd><p>the unicode sequence of the Emoji entity,</p></dd>
 </dl>
 
 
-Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2016 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 2016 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -455,9 +467,11 @@ Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g\_numEmojiEntities</a> and <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">unicode</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a> and <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">unicode</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c43b643d592b22070d062a3b77">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa066a9ae73449ff8017a1e94565fae2e">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adc374c79a2895d83e349ffc76358209e">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a23c1a244d091ae31fcd8ff2d66747054">TextDocVisitor::operator()</a> and <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">unicode</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c43b643d592b22070d062a3b77">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa066a9ae73449ff8017a1e94565fae2e">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adc374c79a2895d83e349ffc76358209e">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a23c1a244d091ae31fcd8ff2d66747054">TextDocVisitor::operator()</a> and <a href="#a1b6d7e3d1f82adf44c46fdd82d11b2f8">unicode</a>.</p>
+
 </div>
 </div>
 
@@ -479,9 +493,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c
 </div>
 <div class="doxyMemberDoc">
 
-Writes the list of supported emojis to the given file.
+<p>Writes the list of supported emojis to the given file.</p>
 
-Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1999 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1999 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -500,9 +515,11 @@ Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a872534923eff1e9e95b0816e9f2a30b7">g\_emojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g\_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a6296d06ea0d5be85d060dac04b76d4f7">g\_numEmojiCompatibilityEntities</a> and <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g\_numEmojiEntities</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a872534923eff1e9e95b0816e9f2a30b7">g_emojiCompatibilityEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a8b86138452dd158fe6335f581a491596">g_emojiEntities</a>, <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#a6296d06ea0d5be85d060dac04b76d4f7">g_numEmojiCompatibilityEntities</a> and <a href="/web-doxygen/docs/api/files/src/emoji-cpp/#ad516913e9bf2ae76d996ab575a437b97">g_numEmojiEntities</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.</p>
+
 </div>
 </div>
 
@@ -532,7 +549,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -541,7 +559,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">
 </div>
 
 
-Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a> and <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index</a>.
+<p>Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a> and <a href="#a8f20a25544d61a753eaf73d2618c9c88">symbol2index</a>.</p>
+
 </div>
 </div>
 
@@ -574,9 +593,10 @@ Referenced by <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>
 </div>
 <div class="doxyMemberDoc">
 
-Returns the one and only instance of the Emoji entity mapper.
+<p>Returns the one and only instance of the Emoji entity mapper.</p>
 
-Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1978 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>, definition at line 1978 of file <a href="/web-doxygen/docs/api/files/src/emoji-cpp">emoji.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -589,9 +609,11 @@ Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/emoji-h"
 </div>
 
 
-Reference <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>.
+<p>Reference <a href="#aa0e24fab34771f5263da10a2fc3c593e">EmojiEntityMapper</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c02b1777e2b8801962">DocEmoji::DocEmoji</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c43b643d592b22070d062a3b77">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa066a9ae73449ff8017a1e94565fae2e">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a60686dad3b83395d42770683c5e1e6a9">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#ae151cc7686cf768f2e7e91002bac8dcc">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a69768613d52a739ff1824beee29e9c52">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a8b0c3df81502ad08c0887a26b78061c2">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adc374c79a2895d83e349ffc76358209e">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a23c1a244d091ae31fcd8ff2d66747054">TextDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac090b55ba575d25794fb3cdce0e02967">XmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c02b1777e2b8801962">DocEmoji::DocEmoji</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a0eca51c43b643d592b22070d062a3b77">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa066a9ae73449ff8017a1e94565fae2e">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a60686dad3b83395d42770683c5e1e6a9">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/mandocvisitor/#ae151cc7686cf768f2e7e91002bac8dcc">ManDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/perlmoddocvisitor/#a69768613d52a739ff1824beee29e9c52">PerlModDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/printdocvisitor/#a8b0c3df81502ad08c0887a26b78061c2">PrintDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#adc374c79a2895d83e349ffc76358209e">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/textdocvisitor/#a23c1a244d091ae31fcd8ff2d66747054">TextDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/xmldocvisitor/#ac090b55ba575d25794fb3cdce0e02967">XmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ab0fa1b0c948e78e0d0d749ff1f5740b5">readConfiguration</a>.</p>
+
 </div>
 </div>
 
@@ -626,7 +648,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docemoji/#a0f8d09770b5024c0
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/emoji-h">emoji.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

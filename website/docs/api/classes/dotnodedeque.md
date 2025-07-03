@@ -45,7 +45,8 @@ class DotNodeDeque { ... }
 </table>
 
 
-Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
+<p>Definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
 
 <hr/>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `NullOutlineParser` Class Reference
 
-/dev/null outline parser <a href="#details">More...</a>
+<p>/dev/null outline parser <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class NullOutlineParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a>
+<p>Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/outlineparserinterface/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -56,7 +56,7 @@ Abstract interface for outline parsers. <a href="/web-doxygen/docs/api/classes/o
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a38df2f3cd06a4c0c291b6d6d73942bcc">More...</a>
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a38df2f3cd06a4c0c291b6d6d73942bcc">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -70,7 +70,7 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a31b8a88ad4b022d530f92048653ccb96">More...</a>
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a31b8a88ad4b022d530f92048653ccb96">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -84,7 +84,7 @@ Returns TRUE if the language identified by <em>extension</em> needs the C prepro
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Callback function called by the comment block scanner. <a href="#abf4d08ed3b21fb0cf21313c501ae8962">More...</a>
+<p>Callback function called by the comment block scanner. <a href="#abf4d08ed3b21fb0cf21313c501ae8962">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -95,9 +95,10 @@ Callback function called by the comment block scanner. <a href="#abf4d08ed3b21fb
 
 ## Description {#details}
 
-/dev/null outline parser
+<p>/dev/null outline parser</p>
 
-Definition at line 11290 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.
+<p>Definition at line 11290 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -127,16 +128,17 @@ Definition at line 11290 of file <a href="/web-doxygen/docs/api/files/src/doxyge
 </div>
 <div class="doxyMemberDoc">
 
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.</p>
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></dd>
+<dd><p><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></p></dd>
 </dl>
 
 
-Definition at line 11294 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.
+<p>Definition at line 11294 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -145,7 +147,8 @@ Definition at line 11294 of file <a href="/web-doxygen/docs/api/files/src/doxyge
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>.</p>
+
 </div>
 </div>
 
@@ -173,7 +176,7 @@ Reference <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995
 </div>
 <div class="doxyMemberDoc">
 
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.</p>
 
 
 <dl class="doxyParamsList">
@@ -182,25 +185,26 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription">The full name of the file.</td>
+<td class="doxyParamItemDescription"><p>The full name of the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileBuf</td>
-<td class="doxyParamItemDescription">The contents of the file (zero terminated).</td>
+<td class="doxyParamItemDescription"><p>The contents of the file (zero terminated).</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] root</td>
-<td class="doxyParamItemDescription">The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</td>
+<td class="doxyParamItemDescription"><p>The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] clangParser</td>
-<td class="doxyParamItemDescription">The clang translation unit parser object or nullptr if disabled.</td>
+<td class="doxyParamItemDescription"><p>The clang translation unit parser object or nullptr if disabled.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 11293 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.
+<p>Definition at line 11293 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -235,12 +239,14 @@ Definition at line 11293 of file <a href="/web-doxygen/docs/api/files/src/doxyge
 </div>
 <div class="doxyMemberDoc">
 
-Callback function called by the comment block scanner.
+<p>Callback function called by the comment block scanner.</p>
 
 
-It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.
+<p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-Definition at line 11295 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.
+
+<p>Definition at line 11295 of file <a href="/web-doxygen/docs/api/files/src/doxygen-cpp">doxygen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

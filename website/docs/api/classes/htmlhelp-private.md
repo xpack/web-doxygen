@@ -213,7 +213,8 @@ class HtmlHelp::Private { ... }
 </table>
 
 
-Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -244,7 +245,8 @@ Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -253,7 +255,8 @@ Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="#a3a897847e6b2df13012c7d9acfab3cdf">index</a> and <a href="#a34d7a8373c830824b64384cce7f943b4">recoder</a>.
+<p>References <a href="#a3a897847e6b2df13012c7d9acfab3cdf">index</a> and <a href="#a34d7a8373c830824b64384cce7f943b4">recoder</a>.</p>
+
 </div>
 </div>
 
@@ -283,7 +286,8 @@ References <a href="#a3a897847e6b2df13012c7d9acfab3cdf">index</a> and <a href="#
 
 
 
-Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -370,7 +374,8 @@ Definition at line 343 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a069c91ed14efc5ee8cb13b29e6db5a3e">ctsItemPresent</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#af2b3923cd07004204fb0c542100b28e8">HtmlHelp::hhcFileName</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#a110521fd634c3c63e47cfe47e210a848">HtmlHelp::hhkFileName</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#a314fc3c639cdd9af2fa9969db847a176">HtmlHelp::hhpFileName</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="#a2d7793d873aadb3235c41680a4b50864">imageFiles</a>, <a href="#a3a897847e6b2df13012c7d9acfab3cdf">index</a>, <a href="#a27447469ba00737c8cb641429dd0c095">indexFiles</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a34d7a8373c830824b64384cce7f943b4">recoder</a>, <a href="#afaf18ca99e4f3d7b5fcd48d56f6726d1">styleFiles</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#a069c91ed14efc5ee8cb13b29e6db5a3e">ctsItemPresent</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#aacd8f4b44e327860edbf38228d5918b0">err</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#af2b3923cd07004204fb0c542100b28e8">HtmlHelp::hhcFileName</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#a110521fd634c3c63e47cfe47e210a848">HtmlHelp::hhkFileName</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#a314fc3c639cdd9af2fa9969db847a176">HtmlHelp::hhpFileName</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#aa98afe79970170f82848bc45b0f076ec">Doxygen::htmlFileExtension</a>, <a href="#a2d7793d873aadb3235c41680a4b50864">imageFiles</a>, <a href="#a3a897847e6b2df13012c7d9acfab3cdf">index</a>, <a href="#a27447469ba00737c8cb641429dd0c095">indexFiles</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#a34d7a8373c830824b64384cce7f943b4">recoder</a>, <a href="#afaf18ca99e4f3d7b5fcd48d56f6726d1">styleFiles</a> and <a href="/web-doxygen/docs/api/files/src/language-cpp/#a07b18e39f7c5156cd370829e7e6f8534">theTranslator</a>.</p>
+
 </div>
 </div>
 
@@ -400,7 +405,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -431,7 +437,8 @@ Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -440,7 +447,8 @@ Definition at line 347 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.</p>
+
 </div>
 </div>
 
@@ -464,7 +472,8 @@ Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>
 
 
 
-Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -495,7 +504,8 @@ Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -504,7 +514,8 @@ Definition at line 350 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.</p>
+
 </div>
 </div>
 
@@ -528,7 +539,8 @@ Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>
 
 
 
-Definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -537,7 +549,8 @@ Definition at line 353 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a> and <a href="#a661b8d91afa89be658342572dbeb1244">Private</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a> and <a href="#a661b8d91afa89be658342572dbeb1244">Private</a>.</p>
+
 </div>
 </div>
 
@@ -561,7 +574,8 @@ Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>
 
 
 
-Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -570,7 +584,8 @@ Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.</p>
+
 </div>
 </div>
 
@@ -594,7 +609,8 @@ Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>
 
 
 
-Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -625,7 +641,8 @@ Definition at line 344 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -656,7 +673,8 @@ Definition at line 346 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -687,7 +705,8 @@ Definition at line 345 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 
 
 
-Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -696,7 +715,8 @@ Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a> and <a href="#a661b8d91afa89be658342572dbeb1244">Private</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a> and <a href="#a661b8d91afa89be658342572dbeb1244">Private</a>.</p>
+
 </div>
 </div>
 
@@ -720,7 +740,8 @@ Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>
 
 
 
-Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -729,7 +750,8 @@ Definition at line 351 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.
+<p>Referenced by <a href="#a38e9087180f5ff4adc6bf59d38fa71a2">createProjectFile</a>.</p>
+
 </div>
 </div>
 

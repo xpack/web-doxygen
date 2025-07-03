@@ -212,7 +212,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -243,7 +244,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -274,7 +276,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -311,7 +314,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/moduledef
 
 
 
-Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1157 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -324,7 +328,8 @@ Declaration at line 92 of file <a href="/web-doxygen/docs/api/files/src/modulede
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a31ba3cfbe898329d92215b8314227b0d">ClassDefImpl::moveTo</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a263db4e9ffc625509018045b0345b31c">MemberDefImpl::moveTo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb835bb914dbb5fefa35">getDefsNew</a>, <a href="/web-doxygen/docs/api/classes/classdefimpl/#a31ba3cfbe898329d92215b8314227b0d">ClassDefImpl::moveTo</a> and <a href="/web-doxygen/docs/api/classes/memberdefimpl/#a263db4e9ffc625509018045b0345b31c">MemberDefImpl::moveTo</a>.</p>
+
 </div>
 </div>
 
@@ -348,7 +353,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a92aa0c495ca4eb
 
 
 
-Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Declaration at line 93 of file <a href="/web-doxygen/docs/api/files/src/moduledef-h">moduledef.h</a>, definition at line 1163 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

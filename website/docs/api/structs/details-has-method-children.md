@@ -46,7 +46,8 @@ struct details::has_method_children&lt;T, typename&gt; { ... }
 </table>
 
 
-Definition at line 1376 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1376 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <hr/>
 

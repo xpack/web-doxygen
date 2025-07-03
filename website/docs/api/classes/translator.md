@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Translator` Class Reference
 
-Abstract base class for all translatable text fragments. <a href="#details">More...</a>
+<p>Abstract base class for all translatable text fragments. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class Translator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a>
+<p>Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/translatoradapterbase/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -295,7 +295,7 @@ Base of the translator adapter tree. <a href="/web-doxygen/docs/api/classes/tran
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-language codes for Html help <a href="#af52da90d0c6a2055ee63d18eb900f171">More...</a>
+<p>language codes for Html help <a href="#af52da90d0c6a2055ee63d18eb900f171">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -309,7 +309,7 @@ language codes for Html help <a href="#af52da90d0c6a2055ee63d18eb900f171">More..
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-add punctuation at the end of a brief description when needed and supported by the language <a href="#ab003646f994f29a35e3348eb5c007da9">More...</a>
+<p>add punctuation at the end of a brief description when needed and supported by the language <a href="#ab003646f994f29a35e3348eb5c007da9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -4317,9 +4317,10 @@ add punctuation at the end of a brief description when needed and supported by t
 
 ## Description {#details}
 
-Abstract base class for all translatable text fragments.
+<p>Abstract base class for all translatable text fragments.</p>
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -4343,7 +4344,7 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 <div class="doxyMemberDoc">
 
-language codes for Html help
+<p>language codes for Html help</p>
 
 
 
@@ -4382,7 +4383,8 @@ language codes for Html help
 </code></pre>
 
 
-New LCIDs:
+<p>New LCIDs:</p>
+
 
 
 <pre><code> 0x421 Indonesian
@@ -4403,14 +4405,16 @@ New LCIDs:
 </code></pre>
 
 
-Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).
+<p>Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).</p>
+
 
 
 <pre><code>0x48f Esperanto
 </code></pre>
 
 
-So do a fallback to the default language
+<p>So do a fallback to the default language</p>
+
 
 
 <pre><code>0x409 English (United States)
@@ -4422,7 +4426,8 @@ So do a fallback to the default language
 </code></pre>
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4446,9 +4451,11 @@ Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#ac4a095ccfc1e12a1d38e719c4ef32ae9">TranslatorAdapter\_1\_10\_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-11-0/#acdedf3866f4148b4161f7956f9d3ddd3">TranslatorAdapter\_1\_11\_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#ae9fb378c1e066585a2176405ee66fc6c">TranslatorAdapter\_1\_4\_6::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#a60a555e2a3148b87c47425d3eaeeab15">TranslatorAdapter\_1\_6\_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#a6dc08332af85f6a6544c0aafa907f144">TranslatorAdapter\_1\_7\_5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#a895b4e6b6e3da314e46f2f104d449d0a">TranslatorAdapter\_1\_8\_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-15/#ad5b9152a47e6df4123ac00048c437991">TranslatorAdapter\_1\_8\_15::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-19/#a0fe735ce5dabb33d67927f6a1de8e290">TranslatorAdapter\_1\_8\_19::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-2/#a6d612653b55e995756801d247e99c408">TranslatorAdapter\_1\_8\_2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-4/#a74183234bd2567b3313fc8de83517779">TranslatorAdapter\_1\_8\_4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-2/#aa9f043c9934470919e56ed0b21b905bd">TranslatorAdapter\_1\_9\_2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-4/#a4347c9f5c8a72bd1333cc83dd414b81c">TranslatorAdapter\_1\_9\_4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-5/#adc4cd28fae5387221ef1680c47540832">TranslatorAdapter\_1\_9\_5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a523d3dc5dc8c5a886cc40fcefcf15903">TranslatorAdapter\_1\_9\_6::updateNeededMessage</a> and <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-8/#a00aaaee570523d31e14c4b6b7a1faaba">TranslatorAdapter\_1\_9\_8::updateNeededMessage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#ac4a095ccfc1e12a1d38e719c4ef32ae9">TranslatorAdapter_1_10_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-11-0/#acdedf3866f4148b4161f7956f9d3ddd3">TranslatorAdapter_1_11_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-4-6/#ae9fb378c1e066585a2176405ee66fc6c">TranslatorAdapter_1_4_6::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-6-0/#a60a555e2a3148b87c47425d3eaeeab15">TranslatorAdapter_1_6_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-7-5/#a6dc08332af85f6a6544c0aafa907f144">TranslatorAdapter_1_7_5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-0/#a895b4e6b6e3da314e46f2f104d449d0a">TranslatorAdapter_1_8_0::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-15/#ad5b9152a47e6df4123ac00048c437991">TranslatorAdapter_1_8_15::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-19/#a0fe735ce5dabb33d67927f6a1de8e290">TranslatorAdapter_1_8_19::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-2/#a6d612653b55e995756801d247e99c408">TranslatorAdapter_1_8_2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-8-4/#a74183234bd2567b3313fc8de83517779">TranslatorAdapter_1_8_4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-2/#aa9f043c9934470919e56ed0b21b905bd">TranslatorAdapter_1_9_2::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-4/#a4347c9f5c8a72bd1333cc83dd414b81c">TranslatorAdapter_1_9_4::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-5/#adc4cd28fae5387221ef1680c47540832">TranslatorAdapter_1_9_5::updateNeededMessage</a>, <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a523d3dc5dc8c5a886cc40fcefcf15903">TranslatorAdapter_1_9_6::updateNeededMessage</a> and <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-8/#a00aaaee570523d31e14c4b6b7a1faaba">TranslatorAdapter_1_9_8::updateNeededMessage</a>.</p>
+
 </div>
 </div>
 
@@ -4479,9 +4486,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-10-0/#a
 
 
 
-Set the name to be used as latex command.
+<p>Set the name to be used as latex command.</p>
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4493,7 +4502,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 
 
-Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p\_latexCommandName</a>.
+<p>Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p_latexCommandName</a>.</p>
+
 </div>
 </div>
 
@@ -4524,9 +4534,11 @@ Reference <a href="#aeb959325f8c633c58336870b4d0504fb">p\_latexCommandName</a>.
 
 
 
-Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\\\end{document}</span> in the LaTeX document.
+<p>Sets the commands to be inserted directly before the <span class="doxyComputerOutput">\\end{document}</span> in the LaTeX document.</p>
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4564,9 +4576,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\\\begin{document}</span> in the LaTeX document.
+<p>Sets the commands to be inserted directly after the <span class="doxyComputerOutput">\\begin{document}</span> in the LaTeX document.</p>
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4603,7 +4617,8 @@ Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4645,9 +4660,11 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.
+<p>Sets the LaTeX font encoding to be used. The default is set to <span class="doxyComputerOutput">T1</span>, in case another font encoding has to be used this can be specified with this routine. In case no font encoding is required the empty string can be returned.</p>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4678,7 +4695,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4706,9 +4724,10 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 <div class="doxyMemberDoc">
 
-add punctuation at the end of a brief description when needed and supported by the language
+<p>add punctuation at the end of a brief description when needed and supported by the language</p>
 
-Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -4739,7 +4758,8 @@ Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4763,7 +4783,8 @@ Definition at line 637 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4787,7 +4808,8 @@ Definition at line 526 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4811,7 +4833,8 @@ Definition at line 633 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4835,7 +4858,8 @@ Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 477 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 477 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4859,7 +4883,8 @@ Definition at line 477 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4883,7 +4908,8 @@ Definition at line 397 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4907,7 +4933,8 @@ Definition at line 398 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4931,7 +4958,8 @@ Definition at line 563 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4955,7 +4983,8 @@ Definition at line 527 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -4979,7 +5008,8 @@ Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 465 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 465 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5003,7 +5033,8 @@ Definition at line 465 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5027,7 +5058,8 @@ Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5051,7 +5083,8 @@ Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5075,7 +5108,8 @@ Definition at line 387 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5099,7 +5133,8 @@ Definition at line 179 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5123,7 +5158,8 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 646 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 646 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5147,7 +5183,8 @@ Definition at line 646 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5171,7 +5208,8 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5195,7 +5233,8 @@ Definition at line 313 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5219,7 +5258,8 @@ Definition at line 201 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5243,7 +5283,8 @@ Definition at line 575 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5267,7 +5308,8 @@ Definition at line 180 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5291,7 +5333,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5315,7 +5358,8 @@ Definition at line 573 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5339,7 +5383,8 @@ Definition at line 571 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5363,9 +5408,11 @@ Definition at line 182 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad4e53f24b257db3d6d59202a8401459e">TranslatorAdapter\_1\_9\_6::trCompoundMembersDescriptionTotal</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad4e53f24b257db3d6d59202a8401459e">TranslatorAdapter_1_9_6::trCompoundMembersDescriptionTotal</a>.</p>
+
 </div>
 </div>
 
@@ -5389,7 +5436,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ad
 
 
 
-Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5413,7 +5461,8 @@ Definition at line 574 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5437,7 +5486,8 @@ Definition at line 745 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5461,7 +5511,8 @@ Definition at line 572 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5485,7 +5536,8 @@ Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5509,7 +5561,8 @@ Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5533,7 +5586,8 @@ Definition at line 701 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5557,7 +5611,8 @@ Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5581,7 +5636,8 @@ Definition at line 742 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5605,7 +5661,8 @@ Definition at line 717 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5629,7 +5686,8 @@ Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5653,7 +5711,8 @@ Definition at line 721 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5677,7 +5736,8 @@ Definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5701,7 +5761,8 @@ Definition at line 719 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5725,7 +5786,8 @@ Definition at line 722 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5749,7 +5811,8 @@ Definition at line 718 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 678 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 678 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5773,7 +5836,8 @@ Definition at line 678 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5797,7 +5861,8 @@ Definition at line 657 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5821,7 +5886,8 @@ Definition at line 656 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5845,7 +5911,8 @@ Definition at line 677 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5869,7 +5936,8 @@ Definition at line 315 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5893,7 +5961,8 @@ Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 762 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 762 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5917,7 +5986,8 @@ Definition at line 762 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5941,7 +6011,8 @@ Definition at line 675 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5965,7 +6036,8 @@ Definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 704 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 704 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -5989,7 +6061,8 @@ Definition at line 704 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6013,7 +6086,8 @@ Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6037,7 +6111,8 @@ Definition at line 223 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6061,7 +6136,8 @@ Definition at line 612 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6085,7 +6161,8 @@ Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6109,7 +6186,8 @@ Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6133,7 +6211,8 @@ Definition at line 748 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6157,7 +6236,8 @@ Definition at line 300 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6181,7 +6261,8 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6205,7 +6286,8 @@ Definition at line 301 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6229,7 +6311,8 @@ Definition at line 213 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6253,7 +6336,8 @@ Definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6277,7 +6361,8 @@ Definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6301,7 +6386,8 @@ Definition at line 747 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6325,7 +6411,8 @@ Definition at line 307 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6349,7 +6436,8 @@ Definition at line 502 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6373,7 +6461,8 @@ Definition at line 711 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6397,7 +6486,8 @@ Definition at line 667 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6421,7 +6511,8 @@ Definition at line 671 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6445,7 +6536,8 @@ Definition at line 668 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6469,7 +6561,8 @@ Definition at line 670 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6493,7 +6586,8 @@ Definition at line 669 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6517,7 +6611,8 @@ Definition at line 672 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6541,7 +6636,8 @@ Definition at line 160 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6565,7 +6661,8 @@ Definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6589,7 +6686,8 @@ Definition at line 161 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6613,7 +6711,8 @@ Definition at line 681 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6637,7 +6736,8 @@ Definition at line 682 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6661,7 +6761,8 @@ Definition at line 551 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6685,7 +6786,8 @@ Definition at line 625 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6709,7 +6811,8 @@ Definition at line 548 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 549 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 549 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6733,7 +6836,8 @@ Definition at line 549 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6757,7 +6861,8 @@ Definition at line 547 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6781,7 +6886,8 @@ Definition at line 550 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6805,7 +6911,8 @@ Definition at line 600 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6829,7 +6936,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6853,7 +6961,8 @@ Definition at line 209 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6877,7 +6986,8 @@ Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6901,7 +7011,8 @@ Definition at line 564 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6925,7 +7036,8 @@ Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6949,7 +7061,8 @@ Definition at line 634 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6973,7 +7086,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -6997,7 +7111,8 @@ Definition at line 635 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7021,7 +7136,8 @@ Definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7045,7 +7161,8 @@ Definition at line 509 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7069,7 +7186,8 @@ Definition at line 508 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7093,7 +7211,8 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7117,7 +7236,8 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7141,7 +7261,8 @@ Definition at line 700 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7165,7 +7286,8 @@ Definition at line 698 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7189,7 +7311,8 @@ Definition at line 699 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7213,7 +7336,8 @@ Definition at line 695 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7237,7 +7361,8 @@ Definition at line 696 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7261,7 +7386,8 @@ Definition at line 697 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7285,7 +7411,8 @@ Definition at line 227 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7309,7 +7436,8 @@ Definition at line 758 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7333,7 +7461,8 @@ Definition at line 645 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7357,7 +7486,8 @@ Definition at line 466 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7381,7 +7511,8 @@ Definition at line 205 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 610 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 610 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7405,7 +7536,8 @@ Definition at line 610 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7429,7 +7561,8 @@ Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7453,7 +7586,8 @@ Definition at line 181 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7477,7 +7611,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7501,9 +7636,11 @@ Definition at line 183 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a866505f3f2d7db3abd9b840314329a5f">TranslatorAdapter\_1\_9\_6::trFileMembersDescriptionTotal</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a866505f3f2d7db3abd9b840314329a5f">TranslatorAdapter_1_9_6::trFileMembersDescriptionTotal</a>.</p>
+
 </div>
 </div>
 
@@ -7527,7 +7664,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a8
 
 
 
-Definition at line 744 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 744 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7551,7 +7689,8 @@ Definition at line 744 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7575,7 +7714,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7599,7 +7739,8 @@ Definition at line 733 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7623,7 +7764,8 @@ Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7647,7 +7789,8 @@ Definition at line 673 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7671,7 +7814,8 @@ Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7695,7 +7839,8 @@ Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7719,7 +7864,8 @@ Definition at line 219 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7743,7 +7889,8 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7767,7 +7914,8 @@ Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7791,7 +7939,8 @@ Definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7815,7 +7964,8 @@ Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7839,7 +7989,8 @@ Definition at line 471 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7863,7 +8014,8 @@ Definition at line 602 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7887,7 +8039,8 @@ Definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7911,7 +8064,8 @@ Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7935,7 +8089,8 @@ Definition at line 316 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7959,7 +8114,8 @@ Definition at line 326 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -7983,7 +8139,8 @@ Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 468 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 468 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8007,7 +8164,8 @@ Definition at line 468 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8031,7 +8189,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 489 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 489 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8055,7 +8214,8 @@ Definition at line 489 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8079,7 +8239,8 @@ Definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8103,7 +8264,8 @@ Definition at line 766 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8127,7 +8289,8 @@ Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8151,7 +8314,8 @@ Definition at line 314 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8175,7 +8339,8 @@ Definition at line 611 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8199,7 +8364,8 @@ Definition at line 170 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8223,7 +8389,8 @@ Definition at line 267 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8247,7 +8414,8 @@ Definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8271,7 +8439,8 @@ Definition at line 266 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8295,7 +8464,8 @@ Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8319,7 +8489,8 @@ Definition at line 647 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8343,7 +8514,8 @@ Definition at line 689 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8367,7 +8539,8 @@ Definition at line 687 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 688 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 688 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8391,7 +8564,8 @@ Definition at line 688 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8415,7 +8589,8 @@ Definition at line 684 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8439,7 +8614,8 @@ Definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8463,7 +8639,8 @@ Definition at line 686 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8487,7 +8664,8 @@ Definition at line 654 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8511,7 +8689,8 @@ Definition at line 320 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8535,7 +8714,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8559,7 +8739,8 @@ Definition at line 367 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8583,7 +8764,8 @@ Definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8607,7 +8789,8 @@ Definition at line 365 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8631,7 +8814,8 @@ Definition at line 167 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 601 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 601 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8655,7 +8839,8 @@ Definition at line 601 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8679,7 +8864,8 @@ Definition at line 293 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 470 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 470 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8703,7 +8889,8 @@ Definition at line 470 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8727,7 +8914,8 @@ Definition at line 165 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8751,7 +8939,8 @@ Definition at line 163 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8775,7 +8964,8 @@ Definition at line 164 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8799,7 +8989,8 @@ Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8823,7 +9014,8 @@ Definition at line 168 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8847,7 +9039,8 @@ Definition at line 162 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8871,7 +9064,8 @@ Definition at line 648 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8895,7 +9089,8 @@ Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8919,7 +9114,8 @@ Definition at line 203 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8943,7 +9139,8 @@ Definition at line 199 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8967,7 +9164,8 @@ Definition at line 757 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -8991,7 +9189,8 @@ Definition at line 585 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9015,7 +9214,8 @@ Definition at line 178 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9039,7 +9239,8 @@ Definition at line 194 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9063,7 +9264,8 @@ Definition at line 588 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9087,7 +9289,8 @@ Definition at line 580 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 581 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 581 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9111,7 +9314,8 @@ Definition at line 581 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9135,7 +9339,8 @@ Definition at line 587 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9159,7 +9364,8 @@ Definition at line 586 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9183,7 +9389,8 @@ Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9207,7 +9414,8 @@ Definition at line 166 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9231,7 +9439,8 @@ Definition at line 467 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9255,7 +9464,8 @@ Definition at line 273 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9279,7 +9489,8 @@ Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9303,7 +9514,8 @@ Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9327,9 +9539,11 @@ Definition at line 235 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 271 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a48bc1fad4348489e2e00061e6f81e35e">TranslatorAdapter\_1\_9\_6::trNamespaceMembersDescriptionTotal</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a48bc1fad4348489e2e00061e6f81e35e">TranslatorAdapter_1_9_6::trNamespaceMembersDescriptionTotal</a>.</p>
+
 </div>
 </div>
 
@@ -9353,7 +9567,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#a4
 
 
 
-Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9377,7 +9592,8 @@ Definition at line 270 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 746 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 746 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9401,7 +9617,8 @@ Definition at line 746 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9425,7 +9642,8 @@ Definition at line 253 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9449,7 +9667,8 @@ Definition at line 279 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9473,7 +9692,8 @@ Definition at line 604 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9497,7 +9717,8 @@ Definition at line 333 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9521,7 +9742,8 @@ Definition at line 703 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 702 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 702 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9545,7 +9767,8 @@ Definition at line 702 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 557 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 557 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9569,7 +9792,8 @@ Definition at line 557 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9593,7 +9817,8 @@ Definition at line 388 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9617,7 +9842,8 @@ Definition at line 519 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9641,7 +9867,8 @@ Definition at line 516 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9665,7 +9892,8 @@ Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9689,7 +9917,8 @@ Definition at line 389 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9713,7 +9942,8 @@ Definition at line 517 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9737,7 +9967,8 @@ Definition at line 390 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9761,7 +9992,8 @@ Definition at line 515 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9785,7 +10017,8 @@ Definition at line 469 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9809,7 +10042,8 @@ Definition at line 294 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9833,7 +10067,8 @@ Definition at line 327 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9857,7 +10092,8 @@ Definition at line 643 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9881,7 +10117,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9905,7 +10142,8 @@ Definition at line 319 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9929,7 +10167,8 @@ Definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9953,7 +10192,8 @@ Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -9977,7 +10217,8 @@ Definition at line 262 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10001,7 +10242,8 @@ Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10025,7 +10267,8 @@ Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10049,7 +10292,8 @@ Definition at line 380 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10073,7 +10317,8 @@ Definition at line 381 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10097,7 +10342,8 @@ Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10121,7 +10367,8 @@ Definition at line 259 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10145,7 +10392,8 @@ Definition at line 260 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10169,7 +10417,8 @@ Definition at line 337 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10193,7 +10442,8 @@ Definition at line 644 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10217,7 +10467,8 @@ Definition at line 335 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10241,7 +10492,8 @@ Definition at line 255 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10265,7 +10517,8 @@ Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10289,7 +10542,8 @@ Definition at line 334 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10313,7 +10567,8 @@ Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10337,7 +10592,8 @@ Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10361,7 +10617,8 @@ Definition at line 483 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10385,7 +10642,8 @@ Definition at line 268 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10409,9 +10667,11 @@ Definition at line 269 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#acc73a3914aeda3687d2bb864437136da">TranslatorAdapter\_1\_9\_6::trRelatedSymbolDocumentation</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#acc73a3914aeda3687d2bb864437136da">TranslatorAdapter_1_9_6::trRelatedSymbolDocumentation</a>.</p>
+
 </div>
 </div>
 
@@ -10435,9 +10695,11 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ac
 
 
 
-Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 158 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa156f04cf8ca82b7dd24ba2819757076">TranslatorAdapter\_1\_9\_6::trRelatedSymbols</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa156f04cf8ca82b7dd24ba2819757076">TranslatorAdapter_1_9_6::trRelatedSymbols</a>.</p>
+
 </div>
 </div>
 
@@ -10461,7 +10723,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#aa
 
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10485,7 +10748,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10509,9 +10773,11 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 159 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae8c457eb4434b0829bb09811bc1f60f5">TranslatorAdapter\_1\_9\_6::trRelatedSymbolsSubscript</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae8c457eb4434b0829bb09811bc1f60f5">TranslatorAdapter_1_9_6::trRelatedSymbolsSubscript</a>.</p>
+
 </div>
 </div>
 
@@ -10535,7 +10801,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatoradapter-1-9-6/#ae
 
 
 
-Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10559,7 +10826,8 @@ Definition at line 740 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 738 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 738 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10583,7 +10851,8 @@ Definition at line 738 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10607,7 +10876,8 @@ Definition at line 739 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10631,7 +10901,8 @@ Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10655,7 +10926,8 @@ Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10680,9 +10952,11 @@ Definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Used as ansicpg for RTF file
+<p>Used as ansicpg for RTF file</p>
 
-The following table shows the correlation of Charset name, Charset Value and
+
+<p>The following table shows the correlation of Charset name, Charset Value and</p>
+
 
 
 <pre><code>Codepage number:
@@ -10706,7 +10980,8 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10731,7 +11006,8 @@ Definition at line 430 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Character sets
+<p>Character sets</p>
+
 
 
 <pre><code>  0 — ANSI
@@ -10761,7 +11037,8 @@ Character sets
 </code></pre>
 
 
-Definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10785,7 +11062,8 @@ Definition at line 460 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 461 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 461 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10809,7 +11087,8 @@ Definition at line 461 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10833,7 +11112,8 @@ Definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10857,7 +11137,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10881,7 +11162,8 @@ Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10905,7 +11187,8 @@ Definition at line 535 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10929,7 +11212,8 @@ Definition at line 534 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10953,7 +11237,8 @@ Definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -10977,7 +11262,8 @@ Definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11001,7 +11287,8 @@ Definition at line 680 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11025,7 +11312,8 @@ Definition at line 679 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11049,7 +11337,8 @@ Definition at line 660 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11073,7 +11362,8 @@ Definition at line 658 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11097,7 +11387,8 @@ Definition at line 655 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11121,7 +11412,8 @@ Definition at line 257 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11145,7 +11437,8 @@ Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11169,7 +11462,8 @@ Definition at line 661 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11193,7 +11487,8 @@ Definition at line 659 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11217,7 +11512,8 @@ Definition at line 683 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11241,7 +11537,8 @@ Definition at line 541 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11265,7 +11562,8 @@ Definition at line 520 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11289,7 +11587,8 @@ Definition at line 518 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11313,7 +11612,8 @@ Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11337,7 +11637,8 @@ Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11361,7 +11662,8 @@ Definition at line 339 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11385,7 +11687,8 @@ Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11409,7 +11712,8 @@ Definition at line 336 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11433,7 +11737,8 @@ Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11457,7 +11762,8 @@ Definition at line 694 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11481,7 +11787,8 @@ Definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11505,7 +11812,8 @@ Definition at line 692 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11529,7 +11837,8 @@ Definition at line 693 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11553,7 +11862,8 @@ Definition at line 690 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11577,7 +11887,8 @@ Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11601,7 +11912,8 @@ Definition at line 578 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11625,7 +11937,8 @@ Definition at line 577 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 632 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 632 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11649,7 +11962,8 @@ Definition at line 632 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11673,7 +11987,8 @@ Definition at line 373 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 374 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 374 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11697,7 +12012,8 @@ Definition at line 374 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11721,7 +12037,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11745,7 +12062,8 @@ Definition at line 348 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11769,7 +12087,8 @@ Definition at line 349 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11793,7 +12112,8 @@ Definition at line 753 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11817,7 +12137,8 @@ Definition at line 755 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 754 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 754 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11841,7 +12162,8 @@ Definition at line 754 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11865,7 +12187,8 @@ Definition at line 756 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11889,7 +12212,8 @@ Definition at line 752 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11913,7 +12237,8 @@ Definition at line 592 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11937,7 +12262,8 @@ Definition at line 594 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11961,7 +12287,8 @@ Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -11985,7 +12312,8 @@ Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12009,7 +12337,8 @@ Definition at line 576 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12033,7 +12362,8 @@ Definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12057,7 +12387,8 @@ Definition at line 211 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12081,7 +12412,8 @@ Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 674 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 674 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12105,7 +12437,8 @@ Definition at line 674 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12129,7 +12462,8 @@ Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 </div>
 </div>
 
@@ -12160,9 +12494,11 @@ Definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/translat
 
 
 
-This method is used to provide warning message that is displayed if the user chooses a language whose translation is not up to date. It is implemented by the adapter classes.
+<p>This method is used to provide warning message that is displayed if the user chooses a language whose translation is not up to date. It is implemented by the adapter classes.</p>
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -12171,9 +12507,11 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 
 
-Reference <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</a>.
+<p>Reference <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</a>.</p>
 
-Referenced by <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</a>.
+
+<p>Referenced by <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</a>.</p>
+
 </div>
 </div>
 
@@ -12210,9 +12548,11 @@ Referenced by <a href="#a8841e027d8a0e661d0cef7e06d75c22a">updateNeededMessage</
 
 
 
-For easy flexible-noun implementation.
+<p>For easy flexible-noun implementation.</p>
 
-Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+
+<p>Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -12239,9 +12579,11 @@ Definition at line 782 of file <a href="/web-doxygen/docs/api/files/src/translat
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a2027564d4381eb6e539320ee8b2e0bcd">convertUTF8ToUpper</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a2027564d4381eb6e539320ee8b2e0bcd">convertUTF8ToUpper</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a74e31c0cb921886a40c60fe40fa9dc86">TranslatorAfrikaans::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#acd73fd2bf0f409a85eb956505e6a9f92">TranslatorBrazilian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#abb01397733bbf23601ed5d483ff7eb21">TranslatorBulgarian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a1fe485bab6588f249c4f71e70ba56f41">TranslatorCatalan::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ac9d5ddd7dd60f24aa859dfbb2bad9518">TranslatorCroatian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a98b23ecc8100a12712437905c7ab77c1">TranslatorCzech::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#ad8d8c807be897cd43ebf242b5044615b">TranslatorDanish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#af13c0d1db2e54b5fc9f4fe21335eddcd">TranslatorDutch::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a257ec641abd5de7b5ea55005422cc0d7">TranslatorEnglish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ad581baccb35d9172f0351cd51f78b303">TranslatorEsperanto::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad99c83228b054de00990ece197ffa92b">TranslatorFinnish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a276e4fd0d60a1b9fed2242df8cc5e078">TranslatorFrench::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ae8f11717e3d985169c64016f39baac61">TranslatorGerman::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#affb4fcfd9190a7e578d2386b37f4f08b">TranslatorGreek::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a7f64d6f0d4b72c8fb2e67a14b5ecf81b">TranslatorHungarian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a694af85aaa1e5c9fa7abca5767aee5ed">TranslatorIndonesian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a733bc00816a30031f195ac024fdcbbc3">TranslatorItalian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#acf6259aa103cdf0df9ee94e098468bb5">TranslatorKorean::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#aa7b9958b83c16fa3507b0b52533ac991">TranslatorLatvian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a7cad0cef5d5910739b4bb6cc25745789">TranslatorLithuanian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a4dc43e8b24f8feb586e08b47ac00781a">TranslatorMacedonian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a849d9fb8802dc05c770fada5354817bb">TranslatorNorwegian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a3b7ccaa207d9a04f294daf2550b90f77">TranslatorPolish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#aac600e6389234699bca8df94e36ac3b1">TranslatorPortuguese::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#aee714fd7f41dd52e3473e854e9cb7916">TranslatorRomanian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a1b3200dfce9d3b33c1d77558df1aac1e">TranslatorRussian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a3d23aff01276103a76814c58af1af63c">TranslatorSerbian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a25e56434b9fb02f2edea1faf5a79ef5c">TranslatorSerbianCyrillic::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a38a1a78ef18d27e226c11e7d3a9d987a">TranslatorSlovak::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a7651fd2d264da0f80de7a5081d819b02">TranslatorSlovene::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#ad11c176bbd29f2a5c378c40afd80f638">TranslatorSpanish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a33da5fd677a6c7bd632f453f5118f552">TranslatorSwedish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#aa22eccf9cef9f4263263b46787f5edc1">TranslatorTurkish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a1a413c04e3eca3e048f3ba19820ca1a4">TranslatorUkrainian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#ab2f098e1a6ff1f1036a74b7ad67741db">TranslatorVietnamese::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a853936a8d813cb2b86d9c38c8d866b01">TranslatorAfrikaans::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#abe4d3354c05b8e5b31cbd1da58ac1566">TranslatorBrazilian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#acee9e9910b51ea2417e6804423ccad5f">TranslatorBulgarian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a17f087cd723a326735f9d3f2f32275fb">TranslatorCatalan::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#af4e5d3e5bb0b59b2bc70e7937839369f">TranslatorCroatian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#aa5ad50628cb5a33286c45c78544ba02d">TranslatorCzech::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a872088a6c2b793dfeadf1be0a2005dc9">TranslatorDanish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a3a938b1f101c20bd37a061042f2893ea">TranslatorDutch::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8d2f36314fdff2b47abff8aba6e4290b">TranslatorEnglish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aaf0c20c89c4bf1037c4e9cf30f1137c2">TranslatorEsperanto::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a38de0c89ed3dd62ad1fffe2d91a7c351">TranslatorFinnish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aac3462febb0667b4be3a4692fef6b94a">TranslatorFrench::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#aaf55c7bcd7fd1b02759aad082a1cb284">TranslatorGerman::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#aacdcab7ea83a22d9dd45169cffb9d816">TranslatorGreek::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a34d95f9e8424b5f79c826d1dde161831">TranslatorHungarian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a18c17408f44ec7510f955ee5d1320dd0">TranslatorIndonesian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a487e94e13f9c3830b546a9909a95ce06">TranslatorItalian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a73b7f627b394b29deac16c714827aaef">TranslatorKorean::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#abfa442e330517a03242ff4571e1c9b88">TranslatorLatvian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a9eb5556407de3d3bb976449798306fde">TranslatorLithuanian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a91db0b81ee64a9fbd25c9ad2d674c7e3">TranslatorMacedonian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a0476a9f47f38deaf15b9eec7762984b1">TranslatorNorwegian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a67c1331e212f590641fa9dffda9e9200">TranslatorPolish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#abd0661be555642ae86203c082d8d1cd5">TranslatorPortuguese::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a070acdece41d35b062aca0e6789a266a">TranslatorRomanian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a5c1f56f3546ecded8b8b159b7bed0cf0">TranslatorRussian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#aaba4ea4ba3ef3a70be3aebd7e64d3bf5">TranslatorSerbian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#af80feb68f5ab34786e12645e78a3aa44">TranslatorSerbianCyrillic::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a55c2d1038c7d5bfe323fbaf5738c4e40">TranslatorSlovak::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#adec643ba186b9c42a947910980db8805">TranslatorSlovene::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aae98f82ba25f31d5e2539943107a0dff">TranslatorSpanish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#afd319abc71069ee180f3b4f495d13410">TranslatorSwedish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#ae9c5d7eb5860ab4133e231a3ac0657de">TranslatorTurkish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ac08f28a4e0fe28aeaedb8ad121d69b57">TranslatorUkrainian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a8b00eb91fc41858c259b3f23cff703f3">TranslatorVietnamese::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a3cb6a8499968f3ed7b5f8800816fa2e5">TranslatorBrazilian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a1d0ecfdd8c5d0cc5fe09c1838e5e4c16">TranslatorBulgarian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ad65f14e70a75db17f427e4786b227544">TranslatorCzech::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a61afe321b50573523f6a51c1f5a0cebd">TranslatorDutch::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#aa1f39fbb6b537731881f8346a3be0b8e">TranslatorEnglish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a3c00bf8bff952ca4ae7a067c0910d70c">TranslatorFrench::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a4dd8dc468b712e41ac5ce7465c17b761">TranslatorGerman::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a4498c559650c826c6d2d3b96b9803c47">TranslatorGreek::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ace9e0b027d726cc4177d583c8d5c0747">TranslatorPolish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ae340f50b0fc53593db3306bc6d9563bc">TranslatorPortuguese::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a0cfd3560a1d64b801e9823482f3b394c">TranslatorRussian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a5f72539243477d770c04a13331e2e3e5">TranslatorSpanish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a0b0270de1190ea25ee91ba2f89ad1f50">TranslatorSwedish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a26f9bbf51eff998d7f1b182f4d8d5f48">TranslatorAfrikaans::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#adff0332c3fc938daef0452fb1829bdb7">TranslatorBrazilian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#aff885f1830e8278e06925bd2685e261c">TranslatorBulgarian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a41054ccb40ce16f646198078a4a76e70">TranslatorCatalan::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ab293460821a9c658fdbbb00b9aa54e28">TranslatorCroatian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a0308f8fd5923035353ea4f21432c2980">TranslatorCzech::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#adc299b46131a955aed4401888620e3d6">TranslatorDanish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aa1f36cbc9b46b3a9cfdbe2a62870a0c1">TranslatorDutch::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a4ed3b2ce06bb93791ea0d3e821c43299">TranslatorEnglish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a2a8ad0f45a80a60203803636c5967a16">TranslatorEsperanto::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a6252e83d68f98c502e2d53592c5766b3">TranslatorFinnish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a6f4d46432524fe18baa839f6e7aebf3c">TranslatorFrench::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#acd78da75bb7672eee6161422d01ef89d">TranslatorGerman::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a8c111a9bb9f33cea2d7de65473850fd2">TranslatorGreek::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#afc163229c49094be629e690b4fbab978">TranslatorHungarian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a41f700304c20e98215410bd1611bbb9f">TranslatorIndonesian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#abb7ce6845a0dc0b9944227abaf28c8fc">TranslatorItalian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a471a1afe018b8a592a1d2ce15ef08bc7">TranslatorKorean::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a79d9ef9a39214ee82ac03d1135246fec">TranslatorLatvian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#afee7a2875424e6c6a3c91437c5eb7c3c">TranslatorLithuanian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ae64b00d02bd76101101b0878af516937">TranslatorMacedonian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a2e222a75bad344818401466b39e95cfd">TranslatorNorwegian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a738cc8fb164c9ce61671f3bae5128f30">TranslatorPolish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ac7c24397a150f9946a224f75d788ef8a">TranslatorPortuguese::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a5929bd3dfc19a7cd7bea5a8720124cc7">TranslatorRomanian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a8d61a6894697387f45e809717d32d1b4">TranslatorRussian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ac2f1125e81c7ebc9d1d0b4a8f0634802">TranslatorSerbian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a8b5a2ab28dd55fb46735c0df4c542adb">TranslatorSerbianCyrillic::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#ac72bf61fb31fc0751da84d21e00313e6">TranslatorSlovak::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a26694c817c2568531ca27d26968f8c69">TranslatorSlovene::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a0fd0258afc145f2017a200df4a890b95">TranslatorSpanish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a63b5a4677619e4d1c2f0b422c6884e96">TranslatorSwedish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a2a562f4702178204ac82c726632144cd">TranslatorTurkish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ab00c85ba548e255933b0491c90328f5c">TranslatorUkrainian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#acbbcfd4adcbc11d76d70903b1554856a">TranslatorVietnamese::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a597a5f256d056b22d7cc38b474b9d9a9">TranslatorAfrikaans::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a9602ba717bf86faa1e0f7fd9fe080d87">TranslatorBrazilian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a80018d71aa70108dacb4313dbd6965fb">TranslatorBulgarian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#af81f8a8014ad89ea7b3684880a0f6a36">TranslatorCatalan::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ac28e15276f08d29b06ee4ef6dd271e0a">TranslatorCroatian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a321b6ceba92fdc4e8a900a0939abeef5">TranslatorCzech::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a93f09eb50ff63e26d3d942363a468b2e">TranslatorDanish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aed55a0bffa0e53457b1271d93dea01ca">TranslatorDutch::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#ab40766ea3d13ea7589b4c56339e71c00">TranslatorEnglish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a4355e830f117c2fd0a047af8e2eef6ef">TranslatorEsperanto::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#abbd9b2d37c7a1e14a182f8cbe0d1c55d">TranslatorFinnish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#ae660ee7e01e98cb7d05652779e448e7a">TranslatorFrench::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ad65eb924aa9242777d02c2fa876f95c2">TranslatorGerman::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#abf16f78bd40f8ee2af0e088dbd702ef4">TranslatorGreek::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#aa1f67f3a9beec6038b8e6de80e6d0e72">TranslatorHungarian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac67bb955c7a8c98a06702e8e16d25e8d">TranslatorIndonesian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a30eff21b57a6dedb701154adae058fb5">TranslatorItalian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#ab763b6771d34b002401a286180cb0ebc">TranslatorKorean::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a85b5ff32ad148f7bfeafcdfece89983e">TranslatorLatvian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#ab027a9a9a6dc9dfc899e7e8dc8171682">TranslatorLithuanian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a1ce9a5267ad4a9f5ec23cffd938fda68">TranslatorMacedonian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#addc1f0604aa9991667959176ea743b1f">TranslatorNorwegian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#aa4b1d20df3fc820b41431589eb6109f5">TranslatorPolish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a6e1285613e8ebcd47f9feb8f4d23535d">TranslatorPortuguese::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a77e9a499e486ea4bc1f6f4f54bfae9cd">TranslatorRomanian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#ae9726b98eea496ed4730bef339f5b06b">TranslatorRussian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a1f4d500003125233cf07d0db7aa73e82">TranslatorSerbian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a41e815225da4710b80c2672f00524540">TranslatorSerbianCyrillic::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a5853d410a7cebe0add5dc1ffb72b548e">TranslatorSlovak::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#ad5d3055454ba184dba6b1f442756b4da">TranslatorSlovene::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a47432ee2211c4caa66979662624325cf">TranslatorSpanish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a120d4a6e795f856dc0c07849d6562803">TranslatorSwedish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#abb0dab58549a377c40b30f96e014dc41">TranslatorTurkish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a998b4240407d80e6d5264ccb88bde0ef">TranslatorUkrainian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a63649cf69ba9f2251a4615afbeb710db">TranslatorVietnamese::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a0a037e7e31a53dc62bb01e3680c12b21">TranslatorAfrikaans::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a4ea02cc3e2b7bb268b64586ba8d74c5a">TranslatorBrazilian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a75282816dcc2a1f1f8ff5f8049fc6960">TranslatorBulgarian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a6080ecf6bcb997bd37c30cc0593a3986">TranslatorCatalan::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a669a73da0e6af81ab9328d5e6328176b">TranslatorCroatian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#abf39894943984064261d10667c973315">TranslatorCzech::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a02baf6028a5460f88376b26170516950">TranslatorDanish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a7b71561b605e08979a86c3e9a8afd4a3">TranslatorDutch::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#aeb5682a844772a334ebe1d8908aafa97">TranslatorEnglish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a553e0e9050e6ea2e447874970ab6f5bd">TranslatorEsperanto::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a9f9c30e7069f6d6de243685c5833d19c">TranslatorFinnish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a9e94cf1910702cf7568604803001d345">TranslatorFrench::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#af05525b63a7f60df56392f604398d6f0">TranslatorGerman::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#af58f3c661b12bde103e06fd2da8248cf">TranslatorGreek::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a339881a1e26637eb04cab53ba503170c">TranslatorHungarian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a28fae676223fcf2846352527d46f5aec">TranslatorIndonesian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a7e2cba54cbc0f4a537cd37658f86ee4d">TranslatorItalian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#aaa801dc7381239e7ec3e41b87f30fb84">TranslatorKorean::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a038e041081ca9b770e1a58650b8f9493">TranslatorLatvian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a1c4b146c215dd5ac3de177a77f2e7741">TranslatorLithuanian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ada7655a072df983fa54d9166c542465f">TranslatorMacedonian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#ae9f405301001550673a44d45aaee2eb1">TranslatorNorwegian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1942e002dcc6facd1c9d0a7c8724d31a">TranslatorPolish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ac952e9c26d7f457d03e5f01f62ed6178">TranslatorPortuguese::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#adb39ae6a7269063f713d37ab106dc38d">TranslatorRomanian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a2fd2db80feb954087278a952857bc6e9">TranslatorRussian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a523278f43a1ce757e5633521b7dbf7cb">TranslatorSerbian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a6a6e15a51dc5072cf1c94f9934fe0c53">TranslatorSerbianCyrillic::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a9fb4461dc5e088457910e22c6ff2c147">TranslatorSlovak::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a8442f0a75bcb9b037dcb85670a82f534">TranslatorSlovene::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a39e287582ccd38b9508fc86e51007dd7">TranslatorSpanish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#af6e136b559adb256819f32ecc1c99b31">TranslatorSwedish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a9ca41a515740ea8f3db0ffa2cbd8a8ca">TranslatorTurkish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a95d0223555d005ab1e7ad574d476ab9b">TranslatorUkrainian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a473462a1d11d868486b02af01d59769b">TranslatorVietnamese::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a6f07c753fe111ae802aa2b53fd0655aa">TranslatorAfrikaans::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a6d16aa9a65a2016f8b99816220adaa34">TranslatorBrazilian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a6fd6539ccc423324cecc186d98ced580">TranslatorBulgarian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a3b2be3dd56eb2fcf0cf18ddf4e172827">TranslatorCatalan::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ab0f92a5df34995eb6085e73e7ae0d38b">TranslatorCroatian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a9d3c39f20c3ce8ec24419ec0054ca485">TranslatorCzech::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a546d8f15c923e4465192edd09d1e992b">TranslatorDanish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#abaab053a5d3ff53e862d02099d0971c4">TranslatorDutch::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a9d91800c68ade6f6ddc56b366dbb8d25">TranslatorEnglish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a2ab0db55e4a49f71cede3c189e7accd8">TranslatorEsperanto::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad44e49960ca7a1246e50c99628427893">TranslatorFinnish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a14b269c0702e8ca391b7ecd031e4b2be">TranslatorFrench::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a71aed4f797817283f042096e65e011e3">TranslatorGerman::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a2bdc0ee276828870fe9b5f392011106c">TranslatorGreek::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a1e9d4e92d1fdbda8e54a208ec718e963">TranslatorHungarian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#af43141613e613f683bb8c99a0738261e">TranslatorIndonesian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a1d430ddcae37497810fa0a5426a81cbf">TranslatorItalian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a495348dd0df8c2c128420fc7f8a506d6">TranslatorKorean::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a889a9748e5ff1a0994f213c52f56a63d">TranslatorLatvian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a818b20f7fd31e64107fec1b39942819f">TranslatorLithuanian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#af84ce7c62470f155e90bb37ceb222da5">TranslatorMacedonian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a75f46057f40d300f00a4082c008ed2a6">TranslatorNorwegian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ae46f9009fa8cc1487648fbdb8573a0be">TranslatorPolish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a4051118125e414d1cdee93f46e51af6f">TranslatorPortuguese::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#ad104dc961bce34e3bbb588aaf4711d1e">TranslatorRomanian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a6c73c4fd399f46c3863b990e45593584">TranslatorRussian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ab934c742f675cf0dc0804345d9e37d23">TranslatorSerbian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a0fa1f944fd129f94664d820f751e2d69">TranslatorSerbianCyrillic::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#ac07df64a8d538be003ffba3c76e0f0fb">TranslatorSlovak::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a51c94e8d2f408c3eadd90e28b791a531">TranslatorSlovene::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a7e2ec356f5821634a2f70d6bbc02fc5a">TranslatorSpanish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a11e7454327e07a3eeec0307ad6f208f2">TranslatorSwedish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#ae48aeb8c8f7d26025132a366655c4d6f">TranslatorTurkish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ac4811baa57d7e78309f713a04cffc2ab">TranslatorUkrainian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a2e5c5001611c6fb9366565c26ae70185">TranslatorVietnamese::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a01d2c2fd1e1d0bead72ee42959c984a0">TranslatorAfrikaans::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#adbd6133e88203016f07c990a90b747e8">TranslatorBrazilian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a7b9a48b84ad1c48b23a58594cbaab064">TranslatorBulgarian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#adde49fafaf87c6f934fb4c802910a462">TranslatorCatalan::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a14123bde322b8e468136df41a603f75f">TranslatorCroatian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a820f46b921f673ad1fa788164d154bd1">TranslatorCzech::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a5c9b77dc871378af95766f93f5c36f95">TranslatorDanish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a69a9b0d64243c5ea769ec9f7c47aab84">TranslatorDutch::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a2e032bcbe8055da5c4d41cc7e71e3494">TranslatorEnglish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ae755d194d2c8c4953402710c95861c43">TranslatorEsperanto::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a33b11b15593c1475eddfb7e92fba4538">TranslatorFinnish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a6de46a2699a674cbce919a88c70d2eaf">TranslatorFrench::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a7c16f0bb1659a6ba2e2b0f8c0284a6ee">TranslatorGerman::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a21f8cbebbed0efdb088ba3068d5643b2">TranslatorGreek::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a2cadd8e37eb35a6afdea118c661f929e">TranslatorHungarian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac0f44291f4626f71cd3a9f8e2de79c62">TranslatorIndonesian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a3463356772d7e0ab504513af66b963d2">TranslatorItalian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a86a8770e27ad3c778b86e04e40bcb71f">TranslatorKorean::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#ab13a55276e0cdf9347f4bd3008b7ae17">TranslatorLatvian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a64eafff80021a77d40af35fdc4014ebf">TranslatorLithuanian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#aff4d1191052794af9cd124b0ebe6e058">TranslatorMacedonian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#ac903fad3d3936cc1d170af2949ba6a43">TranslatorNorwegian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#af5c318769861934f441cc0760c9d4ce2">TranslatorPolish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a5246de19ae641b3ea600dcc8dc72506b">TranslatorPortuguese::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#afb3e1ac29e0f8a66498713a6c2dda5a0">TranslatorRomanian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#adcbf96082f91bb5bc11fd3b88758e434">TranslatorRussian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#abbffd8cc94b90c846e7778b037e2faff">TranslatorSerbian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a1dbb6bd611c5ac80e4ed5db2327eab78">TranslatorSerbianCyrillic::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a3b7e53ff4f4ee7b63c1a26f2e9584aed">TranslatorSlovak::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a1b10565ed9d6172869ae28bd157ef5b6">TranslatorSlovene::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a1b54b6a42d096061cd80ada42733f968">TranslatorSpanish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a673158e71860334de209bf410f1fe0bf">TranslatorSwedish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#afc2d1d829c0ce45e35ebda93579921d4">TranslatorTurkish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a1fac77300c3c0b38768f8c6c65be52ce">TranslatorUkrainian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a617945a4b81242ea9dc5bd52f25ac46e">TranslatorVietnamese::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#afb74d5fd0975cf6460069640d5b964f6">TranslatorAfrikaans::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#ab45548e27644874d806b5aadd1f7dac6">TranslatorBrazilian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a1153dafa18f103a4a07b0cd0d9e2c639">TranslatorBulgarian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a0f4bee277423df04f28bad1f24e5406b">TranslatorCatalan::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a1407b4d229addfccf2d30c0300965bf3">TranslatorCroatian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#af2d5e8244ffc0a46c629723d80f9c2ae">TranslatorCzech::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#aef0599281804826e839d3d5fb873a73c">TranslatorDanish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a14a6e0b7d0cac8e010544940df5ffa71">TranslatorDutch::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8b91200ccbb46bb1431ad8885473758b">TranslatorEnglish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a14cbd7488aa75976c8d9264671e973fc">TranslatorEsperanto::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad7883f677edde9fa6fdf99578c5a9d35">TranslatorFinnish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aa8e212bd25a954c857a3823ea07b0e26">TranslatorFrench::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#af6d6e7372ca45be9cf6602568dbe8605">TranslatorGerman::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a216381c4059a5890427a4f03f0dc472f">TranslatorGreek::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a3e3c664b1514d5c0b700217910e570eb">TranslatorHungarian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a8d185e13d94ece5828656a41175b0eae">TranslatorIndonesian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a29070dbefe2889dd9a14b5bf34d044df">TranslatorItalian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a3d7258cc4123f2c690e9a878d10717bf">TranslatorKorean::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a13357af2c53b40679d2199e3e2430fc7">TranslatorLatvian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ace325481cafb35dd9c671d34d2391e05">TranslatorMacedonian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a8921a675e16e867e9325e0a895f70bc3">TranslatorPolish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a95ce12a40a2c938b46b173426c016d28">TranslatorPortuguese::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a01511579b935da65b1edd6a3afd2c7f7">TranslatorRomanian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a2d8e24e26cc84bbbe76e4a8bbea6fb5b">TranslatorRussian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ac240798b429ddabc5a0bc158b27d223e">TranslatorSerbian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#aa60c07d96b319da2d9e592465c0dcb83">TranslatorSerbianCyrillic::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a4dd71f1f6bcdd74230b8bd937c17153f">TranslatorSlovak::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a9b98d73a837e20ad6badc372e7ebc301">TranslatorSpanish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a8c6946a51acca4f8d97b3ad8d3bfa3da">TranslatorSwedish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a9f795337290033aa1000744795f3d2e1">TranslatorTurkish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a62e07caa5b4025fcca3a31e99e127c4a">TranslatorUkrainian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#afbae667cafc1ccc5d1a8f16155ebef43">TranslatorVietnamese::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#aeb38a8b55aa781c8ae8d5860da507da3">TranslatorAfrikaans::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a86596048203fca641035bd4a89fc1d80">TranslatorBrazilian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#aab1ed7044879483c38a1b96a4b57b92e">TranslatorBulgarian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a9e55df30c581e583799ff725db3e47bd">TranslatorCatalan::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a9f22e3200eb52966f60ea9537981e5e2">TranslatorCroatian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a5d9693eb329843daaeae559259021c62">TranslatorCzech::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a72108a0b84a373dd73ed7cd3a96bebfe">TranslatorDanish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a16b030c74d9c7c31ffb212f67a5a841a">TranslatorDutch::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a87ef351539e7c64e58a656f6ec652590">TranslatorEnglish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ae6239357b29db055843e925ccf62f49f">TranslatorEsperanto::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ab932679357e63126bbc2dc55f371ca82">TranslatorFinnish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a7ed0e61c85e4a7495d0abb7e819051e7">TranslatorFrench::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a33f0f60b02b576b3b390be088e0431bc">TranslatorGerman::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#adc22a1f4cecc33a8fb00103327523c25">TranslatorGreek::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a01a9662df5a07b54cfd77a934071c93d">TranslatorHungarian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac932485b8922efaa39f758dc82290d8b">TranslatorIndonesian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ad1f9fb6e3c8ca0cd7bd9686f2c3e3315">TranslatorItalian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a160638554029638a366cd9e8167be516">TranslatorKorean::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a32723003ad0a73d84198518947b3d597">TranslatorLatvian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#afaa7eb0a646227d5f5b977df0bb509fb">TranslatorLithuanian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a8b4a0ce91f230b4ac97b17597583a29a">TranslatorMacedonian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a0b4f8b2942d3b0522aea3fca44d5838f">TranslatorNorwegian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#acb34b8c47a733e6d23fb0cbab0dbfb59">TranslatorPolish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#afc1bffdfa569212c3f3c652082cebc40">TranslatorPortuguese::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a277fea2f696077aeecaeb9b52949b0bc">TranslatorRomanian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a8be580038092c4c991350d1dd22ae5a1">TranslatorRussian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a9497c8d70a3d774be720ebf8d3b61de9">TranslatorSerbian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a2c8aca5736ca5d9bb7cff351f18d3a6e">TranslatorSerbianCyrillic::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#aa02e7e6fe27665af62e62ac5000f3eed">TranslatorSlovak::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a9aaee06756cdbb2e8f7c8228b103d8bd">TranslatorSlovene::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aacff629faf349fbed598a8ea4468d97e">TranslatorSpanish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a60196006b9c948810780f2e86d9c73ff">TranslatorSwedish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a4cf6c7ccd29a9ba162042fa6cb78ecec">TranslatorTurkish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a2bf042771e102775ebc4990a6ff228b1">TranslatorUkrainian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a20fc2cf121933eb9370184ba941fb796">TranslatorVietnamese::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a6d879953c88552bd47e6d77a4e4e34f2">TranslatorAfrikaans::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a017d342d9c35d41d5b48445b77f764c3">TranslatorBrazilian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a8ce4b6ad02482cecece71f58021b67dc">TranslatorBulgarian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#acc72d566a923831ca70eccbfabdf6f07">TranslatorCatalan::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a34bb613bcc42fbeb62156c9824ba81b4">TranslatorCroatian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ab52898444be1cde2e2698105e4ca49b5">TranslatorCzech::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#acc9999256d4aef4d5ea8021c53be38cc">TranslatorDanish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aa3b8b85169cf8b8f335d08b62b703fcd">TranslatorDutch::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8e3b860f121ba1f1955af71c55ad1cfd">TranslatorEnglish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#af56c3feccac99cb97435a3d9cff318cc">TranslatorEsperanto::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ada0e577c6cc991d46d767bbd171aafd6">TranslatorFinnish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a1f0b804ad8c6497354f32abc90af0380">TranslatorFrench::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a0671e1987da819e81e0e37954f170731">TranslatorGerman::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#ac186b0aba69c67f3f57726313bd1db55">TranslatorGreek::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a99f7d8110be40b0f56d6b6efe4eedfc3">TranslatorHungarian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a1a0595d19446b86413fe348db09ca8f9">TranslatorIndonesian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a6f7c4f5704ae45eeb5f38015fabcf407">TranslatorItalian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#aacba00be932bd9474908c6572eb7f03f">TranslatorKorean::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a4a60c1f5c658b0e02db054c064ad2b82">TranslatorLatvian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a31e30f941ef1d3a4f9db7e17007ce7ff">TranslatorLithuanian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a4df71f2c36c2e67659c6336bc4f24ba5">TranslatorMacedonian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a02a7b9e0cc2b81a4775588221c55e2da">TranslatorNorwegian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1a512194f62f4173e0e896c83d4ade6b">TranslatorPolish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a89109eee1e97590d9c78bb6ff7b3c268">TranslatorPortuguese::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a2c8b0a04feade1f4ce4275a0e4995049">TranslatorRomanian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#ac8745dfda5c1d07552113ccb13d4ce4c">TranslatorRussian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a15bab5925111f435dfe1c7960ed65106">TranslatorSerbian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a7ccdf4f97e7a6d75b0fec5aaadaf73c1">TranslatorSerbianCyrillic::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a5de078ebbbb6020b2130d20b0e621719">TranslatorSlovak::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#aebf3ba5d3870397c905ac27e983282e8">TranslatorSlovene::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a9775b49832f7e60ecf847402fe130e0d">TranslatorSpanish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a56d1234d077cf675a2c8c70a64837aab">TranslatorSwedish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a065db4c22ff468efe1507749ce4515af">TranslatorTurkish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a5357b0869e62ed03063415cba6e1d000">TranslatorUkrainian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a12b537d66ae061ee3f0f8647e7ad12e9">TranslatorVietnamese::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a49dae306f7ce56e862374ae42bd873a1">TranslatorAfrikaans::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a7e76cff2effbaefc024f602f8c069ee9">TranslatorBrazilian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a085b267b92a91d0fa5001bdf86664200">TranslatorBulgarian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#aa9b84aafdeeef0d9149207b3e85d3505">TranslatorCatalan::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a141748edc7c181828218019e2f2ef93c">TranslatorCroatian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ad3b2999b1ea0dd87944b5650d6f7eb0d">TranslatorCzech::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#af80a415306fbe2fe3faecfb1399c756b">TranslatorDanish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a4dec00eac48de1a7744a94886f5133f8">TranslatorDutch::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a145d712418f86acd426951b3e0e3185e">TranslatorEnglish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aa3e8acc65ac6c853b72a1c1931cfa3e7">TranslatorEsperanto::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#afb0dad5729971936515f4a4662920875">TranslatorFinnish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aa4161e03db494e349d4511b480c31104">TranslatorFrench::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ad053cbd92cb2f90a16cab843bfa53856">TranslatorGerman::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#ad6e3d206fbeda10fec42f49f7a380af8">TranslatorGreek::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a70098b481fbf5fc85d6a1fe37883574e">TranslatorHungarian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#afa4e58175885d925ce12624946d98ea0">TranslatorIndonesian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ac6fb75d606f4fc5d54e7122363b0ed47">TranslatorItalian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a0c746f43751674874682a6d5b6f48395">TranslatorKorean::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a5aec913679112a124ec2f843ec61bdb3">TranslatorLatvian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a9af63c4ff2739c66813750d1c4d91a5d">TranslatorMacedonian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1e41ba0865aca3bdcec6da8a71aefd0b">TranslatorPolish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a0f9fc260446e5ec31bfaef5a9e58b653">TranslatorPortuguese::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a27735ae9bf26843618811fff226c70fb">TranslatorRomanian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a987a8287fc9859fe1874aa5a0b9354c9">TranslatorRussian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a81778d57b8253bda0d85536776dcb1a0">TranslatorSerbian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a41ffce3c8fd539af02bb78f980e53174">TranslatorSerbianCyrillic::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a83d68691563acc257cf7530f1ea3f3ad">TranslatorSlovak::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aed30bcf64ee7b210530fd3b3d026b6e5">TranslatorSpanish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a3f661973e94e63e418770e79741cf21d">TranslatorSwedish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a6e60787bd087ced34d0c71b30249eafe">TranslatorTurkish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ab8e7199c3faccc36cba1c6f938a489b6">TranslatorUkrainian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a95bea2b0237a6e3cda1d6f1c2faa87c9">TranslatorVietnamese::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#ad535d657228089235695340bbd0a01b0">TranslatorAfrikaans::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#ae71018dd1cde77275ba0969594224847">TranslatorBrazilian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a46b747112861abaa2aa9de0a56cebeb8">TranslatorBulgarian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a3a863eb8e74cb59c20aba8147a8ee7f8">TranslatorCatalan::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a757e18d9b7026ed4f945ba9abe1642f4">TranslatorCroatian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a1e1a58d79a900a69aea80c896f610e12">TranslatorCzech::trType</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a5c8973ea4a8808bf26f0e26d85e2687f">TranslatorDanish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#ae95712c4c6f185e235ae228f9d3f1976">TranslatorDutch::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a5ec73b0ecfa48344e8acaeea1fc087a9">TranslatorEnglish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aea72512e71ac9a9355b803cf998c1670">TranslatorEsperanto::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a45de25d76b5dd8f7a489001ae5efb0f0">TranslatorFinnish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a3525e75ca0da71858eadce842883cf83">TranslatorFrench::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a5e560d29d5f81fc6961fafc1a6376cab">TranslatorGerman::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#abb2c24db724a4cd5caa4fa50a8b2256c">TranslatorGreek::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a10f4087e99a045fc2b58760f22bf0361">TranslatorHungarian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a10e70fa620d8dffadb28517477e5fba6">TranslatorIndonesian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ad542c32ddd6b1fee4a295480657070a6">TranslatorItalian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a61966823c004c45608fb40e3ea3ae0c3">TranslatorKorean::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a1da81d565cc94ecba7e9fe981bcd3c8e">TranslatorLatvian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ae34e851940b4ebbf0bc1d81d75f67222">TranslatorMacedonian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorpersian/#aedd1b54847ba14ecba91a8ba92efef9b">TranslatorPersian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ab6bca0a9596c0de8b6bcd9461d70fa68">TranslatorPolish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ad9ca6154bcfef0e4768bea65e685f08e">TranslatorPortuguese::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a5bfa9f7f8aa9109301d9e074f4d704a2">TranslatorRomanian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a99c7c068e0d8fd8f175b414166875bb2">TranslatorRussian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a65df63f6e40e2d6532e76ea0edd4c1a4">TranslatorSerbian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a9f048ce4403fdcac146603a5f32311a8">TranslatorSerbianCyrillic::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a463145cc91bb532dc313982dc1384e86">TranslatorSlovak::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#ac94cbd63b10c8d697024cfe1151ea200">TranslatorSpanish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a91580f923730b0645a21922c9e53229b">TranslatorSwedish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#af5db04a1dd49acc373e00b9641d4e5db">TranslatorTurkish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#abfbd8ef72654f393dcc305b23c571c1a">TranslatorUkrainian::trType</a> and <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a4e04c241dd8baf140e6c0681096ea731">TranslatorVietnamese::trType</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a74e31c0cb921886a40c60fe40fa9dc86">TranslatorAfrikaans::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#acd73fd2bf0f409a85eb956505e6a9f92">TranslatorBrazilian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#abb01397733bbf23601ed5d483ff7eb21">TranslatorBulgarian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a1fe485bab6588f249c4f71e70ba56f41">TranslatorCatalan::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ac9d5ddd7dd60f24aa859dfbb2bad9518">TranslatorCroatian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a98b23ecc8100a12712437905c7ab77c1">TranslatorCzech::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#ad8d8c807be897cd43ebf242b5044615b">TranslatorDanish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#af13c0d1db2e54b5fc9f4fe21335eddcd">TranslatorDutch::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a257ec641abd5de7b5ea55005422cc0d7">TranslatorEnglish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ad581baccb35d9172f0351cd51f78b303">TranslatorEsperanto::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad99c83228b054de00990ece197ffa92b">TranslatorFinnish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a276e4fd0d60a1b9fed2242df8cc5e078">TranslatorFrench::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ae8f11717e3d985169c64016f39baac61">TranslatorGerman::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#affb4fcfd9190a7e578d2386b37f4f08b">TranslatorGreek::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a7f64d6f0d4b72c8fb2e67a14b5ecf81b">TranslatorHungarian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a694af85aaa1e5c9fa7abca5767aee5ed">TranslatorIndonesian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a733bc00816a30031f195ac024fdcbbc3">TranslatorItalian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#acf6259aa103cdf0df9ee94e098468bb5">TranslatorKorean::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#aa7b9958b83c16fa3507b0b52533ac991">TranslatorLatvian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a7cad0cef5d5910739b4bb6cc25745789">TranslatorLithuanian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a4dc43e8b24f8feb586e08b47ac00781a">TranslatorMacedonian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a849d9fb8802dc05c770fada5354817bb">TranslatorNorwegian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a3b7ccaa207d9a04f294daf2550b90f77">TranslatorPolish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#aac600e6389234699bca8df94e36ac3b1">TranslatorPortuguese::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#aee714fd7f41dd52e3473e854e9cb7916">TranslatorRomanian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a1b3200dfce9d3b33c1d77558df1aac1e">TranslatorRussian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a3d23aff01276103a76814c58af1af63c">TranslatorSerbian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a25e56434b9fb02f2edea1faf5a79ef5c">TranslatorSerbianCyrillic::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a38a1a78ef18d27e226c11e7d3a9d987a">TranslatorSlovak::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a7651fd2d264da0f80de7a5081d819b02">TranslatorSlovene::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#ad11c176bbd29f2a5c378c40afd80f638">TranslatorSpanish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a33da5fd677a6c7bd632f453f5118f552">TranslatorSwedish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#aa22eccf9cef9f4263263b46787f5edc1">TranslatorTurkish::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a1a413c04e3eca3e048f3ba19820ca1a4">TranslatorUkrainian::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#ab2f098e1a6ff1f1036a74b7ad67741db">TranslatorVietnamese::trAuthor</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a853936a8d813cb2b86d9c38c8d866b01">TranslatorAfrikaans::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#abe4d3354c05b8e5b31cbd1da58ac1566">TranslatorBrazilian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#acee9e9910b51ea2417e6804423ccad5f">TranslatorBulgarian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a17f087cd723a326735f9d3f2f32275fb">TranslatorCatalan::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#af4e5d3e5bb0b59b2bc70e7937839369f">TranslatorCroatian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#aa5ad50628cb5a33286c45c78544ba02d">TranslatorCzech::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a872088a6c2b793dfeadf1be0a2005dc9">TranslatorDanish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a3a938b1f101c20bd37a061042f2893ea">TranslatorDutch::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8d2f36314fdff2b47abff8aba6e4290b">TranslatorEnglish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aaf0c20c89c4bf1037c4e9cf30f1137c2">TranslatorEsperanto::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a38de0c89ed3dd62ad1fffe2d91a7c351">TranslatorFinnish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aac3462febb0667b4be3a4692fef6b94a">TranslatorFrench::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#aaf55c7bcd7fd1b02759aad082a1cb284">TranslatorGerman::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#aacdcab7ea83a22d9dd45169cffb9d816">TranslatorGreek::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a34d95f9e8424b5f79c826d1dde161831">TranslatorHungarian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a18c17408f44ec7510f955ee5d1320dd0">TranslatorIndonesian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a487e94e13f9c3830b546a9909a95ce06">TranslatorItalian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a73b7f627b394b29deac16c714827aaef">TranslatorKorean::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#abfa442e330517a03242ff4571e1c9b88">TranslatorLatvian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a9eb5556407de3d3bb976449798306fde">TranslatorLithuanian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a91db0b81ee64a9fbd25c9ad2d674c7e3">TranslatorMacedonian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a0476a9f47f38deaf15b9eec7762984b1">TranslatorNorwegian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a67c1331e212f590641fa9dffda9e9200">TranslatorPolish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#abd0661be555642ae86203c082d8d1cd5">TranslatorPortuguese::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a070acdece41d35b062aca0e6789a266a">TranslatorRomanian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a5c1f56f3546ecded8b8b159b7bed0cf0">TranslatorRussian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#aaba4ea4ba3ef3a70be3aebd7e64d3bf5">TranslatorSerbian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#af80feb68f5ab34786e12645e78a3aa44">TranslatorSerbianCyrillic::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a55c2d1038c7d5bfe323fbaf5738c4e40">TranslatorSlovak::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#adec643ba186b9c42a947910980db8805">TranslatorSlovene::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aae98f82ba25f31d5e2539943107a0dff">TranslatorSpanish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#afd319abc71069ee180f3b4f495d13410">TranslatorSwedish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#ae9c5d7eb5860ab4133e231a3ac0657de">TranslatorTurkish::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ac08f28a4e0fe28aeaedb8ad121d69b57">TranslatorUkrainian::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a8b00eb91fc41858c259b3f23cff703f3">TranslatorVietnamese::trClass</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a3cb6a8499968f3ed7b5f8800816fa2e5">TranslatorBrazilian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a1d0ecfdd8c5d0cc5fe09c1838e5e4c16">TranslatorBulgarian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ad65f14e70a75db17f427e4786b227544">TranslatorCzech::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a61afe321b50573523f6a51c1f5a0cebd">TranslatorDutch::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#aa1f39fbb6b537731881f8346a3be0b8e">TranslatorEnglish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a3c00bf8bff952ca4ae7a067c0910d70c">TranslatorFrench::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a4dd8dc468b712e41ac5ce7465c17b761">TranslatorGerman::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a4498c559650c826c6d2d3b96b9803c47">TranslatorGreek::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ace9e0b027d726cc4177d583c8d5c0747">TranslatorPolish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ae340f50b0fc53593db3306bc6d9563bc">TranslatorPortuguese::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a0cfd3560a1d64b801e9823482f3b394c">TranslatorRussian::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a5f72539243477d770c04a13331e2e3e5">TranslatorSpanish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a0b0270de1190ea25ee91ba2f89ad1f50">TranslatorSwedish::trConcept</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a26f9bbf51eff998d7f1b182f4d8d5f48">TranslatorAfrikaans::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#adff0332c3fc938daef0452fb1829bdb7">TranslatorBrazilian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#aff885f1830e8278e06925bd2685e261c">TranslatorBulgarian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a41054ccb40ce16f646198078a4a76e70">TranslatorCatalan::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ab293460821a9c658fdbbb00b9aa54e28">TranslatorCroatian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a0308f8fd5923035353ea4f21432c2980">TranslatorCzech::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#adc299b46131a955aed4401888620e3d6">TranslatorDanish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aa1f36cbc9b46b3a9cfdbe2a62870a0c1">TranslatorDutch::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a4ed3b2ce06bb93791ea0d3e821c43299">TranslatorEnglish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a2a8ad0f45a80a60203803636c5967a16">TranslatorEsperanto::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a6252e83d68f98c502e2d53592c5766b3">TranslatorFinnish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a6f4d46432524fe18baa839f6e7aebf3c">TranslatorFrench::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#acd78da75bb7672eee6161422d01ef89d">TranslatorGerman::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a8c111a9bb9f33cea2d7de65473850fd2">TranslatorGreek::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#afc163229c49094be629e690b4fbab978">TranslatorHungarian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a41f700304c20e98215410bd1611bbb9f">TranslatorIndonesian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#abb7ce6845a0dc0b9944227abaf28c8fc">TranslatorItalian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a471a1afe018b8a592a1d2ce15ef08bc7">TranslatorKorean::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a79d9ef9a39214ee82ac03d1135246fec">TranslatorLatvian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#afee7a2875424e6c6a3c91437c5eb7c3c">TranslatorLithuanian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ae64b00d02bd76101101b0878af516937">TranslatorMacedonian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a2e222a75bad344818401466b39e95cfd">TranslatorNorwegian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a738cc8fb164c9ce61671f3bae5128f30">TranslatorPolish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ac7c24397a150f9946a224f75d788ef8a">TranslatorPortuguese::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a5929bd3dfc19a7cd7bea5a8720124cc7">TranslatorRomanian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a8d61a6894697387f45e809717d32d1b4">TranslatorRussian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ac2f1125e81c7ebc9d1d0b4a8f0634802">TranslatorSerbian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a8b5a2ab28dd55fb46735c0df4c542adb">TranslatorSerbianCyrillic::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#ac72bf61fb31fc0751da84d21e00313e6">TranslatorSlovak::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a26694c817c2568531ca27d26968f8c69">TranslatorSlovene::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a0fd0258afc145f2017a200df4a890b95">TranslatorSpanish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a63b5a4677619e4d1c2f0b422c6884e96">TranslatorSwedish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a2a562f4702178204ac82c726632144cd">TranslatorTurkish::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ab00c85ba548e255933b0491c90328f5c">TranslatorUkrainian::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#acbbcfd4adcbc11d76d70903b1554856a">TranslatorVietnamese::trDir</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a597a5f256d056b22d7cc38b474b9d9a9">TranslatorAfrikaans::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a9602ba717bf86faa1e0f7fd9fe080d87">TranslatorBrazilian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a80018d71aa70108dacb4313dbd6965fb">TranslatorBulgarian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#af81f8a8014ad89ea7b3684880a0f6a36">TranslatorCatalan::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ac28e15276f08d29b06ee4ef6dd271e0a">TranslatorCroatian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a321b6ceba92fdc4e8a900a0939abeef5">TranslatorCzech::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a93f09eb50ff63e26d3d942363a468b2e">TranslatorDanish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aed55a0bffa0e53457b1271d93dea01ca">TranslatorDutch::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#ab40766ea3d13ea7589b4c56339e71c00">TranslatorEnglish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a4355e830f117c2fd0a047af8e2eef6ef">TranslatorEsperanto::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#abbd9b2d37c7a1e14a182f8cbe0d1c55d">TranslatorFinnish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#ae660ee7e01e98cb7d05652779e448e7a">TranslatorFrench::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ad65eb924aa9242777d02c2fa876f95c2">TranslatorGerman::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#abf16f78bd40f8ee2af0e088dbd702ef4">TranslatorGreek::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#aa1f67f3a9beec6038b8e6de80e6d0e72">TranslatorHungarian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac67bb955c7a8c98a06702e8e16d25e8d">TranslatorIndonesian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a30eff21b57a6dedb701154adae058fb5">TranslatorItalian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#ab763b6771d34b002401a286180cb0ebc">TranslatorKorean::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a85b5ff32ad148f7bfeafcdfece89983e">TranslatorLatvian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#ab027a9a9a6dc9dfc899e7e8dc8171682">TranslatorLithuanian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a1ce9a5267ad4a9f5ec23cffd938fda68">TranslatorMacedonian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#addc1f0604aa9991667959176ea743b1f">TranslatorNorwegian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#aa4b1d20df3fc820b41431589eb6109f5">TranslatorPolish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a6e1285613e8ebcd47f9feb8f4d23535d">TranslatorPortuguese::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a77e9a499e486ea4bc1f6f4f54bfae9cd">TranslatorRomanian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#ae9726b98eea496ed4730bef339f5b06b">TranslatorRussian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a1f4d500003125233cf07d0db7aa73e82">TranslatorSerbian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a41e815225da4710b80c2672f00524540">TranslatorSerbianCyrillic::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a5853d410a7cebe0add5dc1ffb72b548e">TranslatorSlovak::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#ad5d3055454ba184dba6b1f442756b4da">TranslatorSlovene::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a47432ee2211c4caa66979662624325cf">TranslatorSpanish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a120d4a6e795f856dc0c07849d6562803">TranslatorSwedish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#abb0dab58549a377c40b30f96e014dc41">TranslatorTurkish::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a998b4240407d80e6d5264ccb88bde0ef">TranslatorUkrainian::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a63649cf69ba9f2251a4615afbeb710db">TranslatorVietnamese::trFile</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a0a037e7e31a53dc62bb01e3680c12b21">TranslatorAfrikaans::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a4ea02cc3e2b7bb268b64586ba8d74c5a">TranslatorBrazilian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a75282816dcc2a1f1f8ff5f8049fc6960">TranslatorBulgarian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a6080ecf6bcb997bd37c30cc0593a3986">TranslatorCatalan::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a669a73da0e6af81ab9328d5e6328176b">TranslatorCroatian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#abf39894943984064261d10667c973315">TranslatorCzech::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a02baf6028a5460f88376b26170516950">TranslatorDanish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a7b71561b605e08979a86c3e9a8afd4a3">TranslatorDutch::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#aeb5682a844772a334ebe1d8908aafa97">TranslatorEnglish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a553e0e9050e6ea2e447874970ab6f5bd">TranslatorEsperanto::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a9f9c30e7069f6d6de243685c5833d19c">TranslatorFinnish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a9e94cf1910702cf7568604803001d345">TranslatorFrench::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#af05525b63a7f60df56392f604398d6f0">TranslatorGerman::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#af58f3c661b12bde103e06fd2da8248cf">TranslatorGreek::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a339881a1e26637eb04cab53ba503170c">TranslatorHungarian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a28fae676223fcf2846352527d46f5aec">TranslatorIndonesian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a7e2cba54cbc0f4a537cd37658f86ee4d">TranslatorItalian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#aaa801dc7381239e7ec3e41b87f30fb84">TranslatorKorean::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a038e041081ca9b770e1a58650b8f9493">TranslatorLatvian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a1c4b146c215dd5ac3de177a77f2e7741">TranslatorLithuanian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ada7655a072df983fa54d9166c542465f">TranslatorMacedonian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#ae9f405301001550673a44d45aaee2eb1">TranslatorNorwegian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1942e002dcc6facd1c9d0a7c8724d31a">TranslatorPolish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ac952e9c26d7f457d03e5f01f62ed6178">TranslatorPortuguese::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#adb39ae6a7269063f713d37ab106dc38d">TranslatorRomanian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a2fd2db80feb954087278a952857bc6e9">TranslatorRussian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a523278f43a1ce757e5633521b7dbf7cb">TranslatorSerbian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a6a6e15a51dc5072cf1c94f9934fe0c53">TranslatorSerbianCyrillic::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a9fb4461dc5e088457910e22c6ff2c147">TranslatorSlovak::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a8442f0a75bcb9b037dcb85670a82f534">TranslatorSlovene::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a39e287582ccd38b9508fc86e51007dd7">TranslatorSpanish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#af6e136b559adb256819f32ecc1c99b31">TranslatorSwedish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a9ca41a515740ea8f3db0ffa2cbd8a8ca">TranslatorTurkish::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a95d0223555d005ab1e7ad574d476ab9b">TranslatorUkrainian::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a473462a1d11d868486b02af01d59769b">TranslatorVietnamese::trGlobal</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a6f07c753fe111ae802aa2b53fd0655aa">TranslatorAfrikaans::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a6d16aa9a65a2016f8b99816220adaa34">TranslatorBrazilian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a6fd6539ccc423324cecc186d98ced580">TranslatorBulgarian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a3b2be3dd56eb2fcf0cf18ddf4e172827">TranslatorCatalan::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#ab0f92a5df34995eb6085e73e7ae0d38b">TranslatorCroatian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a9d3c39f20c3ce8ec24419ec0054ca485">TranslatorCzech::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a546d8f15c923e4465192edd09d1e992b">TranslatorDanish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#abaab053a5d3ff53e862d02099d0971c4">TranslatorDutch::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a9d91800c68ade6f6ddc56b366dbb8d25">TranslatorEnglish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a2ab0db55e4a49f71cede3c189e7accd8">TranslatorEsperanto::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad44e49960ca7a1246e50c99628427893">TranslatorFinnish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a14b269c0702e8ca391b7ecd031e4b2be">TranslatorFrench::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a71aed4f797817283f042096e65e011e3">TranslatorGerman::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a2bdc0ee276828870fe9b5f392011106c">TranslatorGreek::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a1e9d4e92d1fdbda8e54a208ec718e963">TranslatorHungarian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#af43141613e613f683bb8c99a0738261e">TranslatorIndonesian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a1d430ddcae37497810fa0a5426a81cbf">TranslatorItalian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a495348dd0df8c2c128420fc7f8a506d6">TranslatorKorean::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a889a9748e5ff1a0994f213c52f56a63d">TranslatorLatvian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a818b20f7fd31e64107fec1b39942819f">TranslatorLithuanian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#af84ce7c62470f155e90bb37ceb222da5">TranslatorMacedonian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a75f46057f40d300f00a4082c008ed2a6">TranslatorNorwegian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ae46f9009fa8cc1487648fbdb8573a0be">TranslatorPolish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a4051118125e414d1cdee93f46e51af6f">TranslatorPortuguese::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#ad104dc961bce34e3bbb588aaf4711d1e">TranslatorRomanian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a6c73c4fd399f46c3863b990e45593584">TranslatorRussian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ab934c742f675cf0dc0804345d9e37d23">TranslatorSerbian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a0fa1f944fd129f94664d820f751e2d69">TranslatorSerbianCyrillic::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#ac07df64a8d538be003ffba3c76e0f0fb">TranslatorSlovak::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a51c94e8d2f408c3eadd90e28b791a531">TranslatorSlovene::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a7e2ec356f5821634a2f70d6bbc02fc5a">TranslatorSpanish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a11e7454327e07a3eeec0307ad6f208f2">TranslatorSwedish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#ae48aeb8c8f7d26025132a366655c4d6f">TranslatorTurkish::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ac4811baa57d7e78309f713a04cffc2ab">TranslatorUkrainian::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a2e5c5001611c6fb9366565c26ae70185">TranslatorVietnamese::trGroup</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a01d2c2fd1e1d0bead72ee42959c984a0">TranslatorAfrikaans::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#adbd6133e88203016f07c990a90b747e8">TranslatorBrazilian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a7b9a48b84ad1c48b23a58594cbaab064">TranslatorBulgarian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#adde49fafaf87c6f934fb4c802910a462">TranslatorCatalan::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a14123bde322b8e468136df41a603f75f">TranslatorCroatian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a820f46b921f673ad1fa788164d154bd1">TranslatorCzech::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a5c9b77dc871378af95766f93f5c36f95">TranslatorDanish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a69a9b0d64243c5ea769ec9f7c47aab84">TranslatorDutch::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a2e032bcbe8055da5c4d41cc7e71e3494">TranslatorEnglish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ae755d194d2c8c4953402710c95861c43">TranslatorEsperanto::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a33b11b15593c1475eddfb7e92fba4538">TranslatorFinnish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a6de46a2699a674cbce919a88c70d2eaf">TranslatorFrench::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a7c16f0bb1659a6ba2e2b0f8c0284a6ee">TranslatorGerman::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a21f8cbebbed0efdb088ba3068d5643b2">TranslatorGreek::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a2cadd8e37eb35a6afdea118c661f929e">TranslatorHungarian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac0f44291f4626f71cd3a9f8e2de79c62">TranslatorIndonesian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a3463356772d7e0ab504513af66b963d2">TranslatorItalian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a86a8770e27ad3c778b86e04e40bcb71f">TranslatorKorean::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#ab13a55276e0cdf9347f4bd3008b7ae17">TranslatorLatvian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a64eafff80021a77d40af35fdc4014ebf">TranslatorLithuanian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#aff4d1191052794af9cd124b0ebe6e058">TranslatorMacedonian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#ac903fad3d3936cc1d170af2949ba6a43">TranslatorNorwegian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#af5c318769861934f441cc0760c9d4ce2">TranslatorPolish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a5246de19ae641b3ea600dcc8dc72506b">TranslatorPortuguese::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#afb3e1ac29e0f8a66498713a6c2dda5a0">TranslatorRomanian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#adcbf96082f91bb5bc11fd3b88758e434">TranslatorRussian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#abbffd8cc94b90c846e7778b037e2faff">TranslatorSerbian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a1dbb6bd611c5ac80e4ed5db2327eab78">TranslatorSerbianCyrillic::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a3b7e53ff4f4ee7b63c1a26f2e9584aed">TranslatorSlovak::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a1b10565ed9d6172869ae28bd157ef5b6">TranslatorSlovene::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a1b54b6a42d096061cd80ada42733f968">TranslatorSpanish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a673158e71860334de209bf410f1fe0bf">TranslatorSwedish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#afc2d1d829c0ce45e35ebda93579921d4">TranslatorTurkish::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a1fac77300c3c0b38768f8c6c65be52ce">TranslatorUkrainian::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a617945a4b81242ea9dc5bd52f25ac46e">TranslatorVietnamese::trMember</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#afb74d5fd0975cf6460069640d5b964f6">TranslatorAfrikaans::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#ab45548e27644874d806b5aadd1f7dac6">TranslatorBrazilian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a1153dafa18f103a4a07b0cd0d9e2c639">TranslatorBulgarian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a0f4bee277423df04f28bad1f24e5406b">TranslatorCatalan::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a1407b4d229addfccf2d30c0300965bf3">TranslatorCroatian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#af2d5e8244ffc0a46c629723d80f9c2ae">TranslatorCzech::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#aef0599281804826e839d3d5fb873a73c">TranslatorDanish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a14a6e0b7d0cac8e010544940df5ffa71">TranslatorDutch::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8b91200ccbb46bb1431ad8885473758b">TranslatorEnglish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#a14cbd7488aa75976c8d9264671e973fc">TranslatorEsperanto::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ad7883f677edde9fa6fdf99578c5a9d35">TranslatorFinnish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aa8e212bd25a954c857a3823ea07b0e26">TranslatorFrench::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#af6d6e7372ca45be9cf6602568dbe8605">TranslatorGerman::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a216381c4059a5890427a4f03f0dc472f">TranslatorGreek::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a3e3c664b1514d5c0b700217910e570eb">TranslatorHungarian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a8d185e13d94ece5828656a41175b0eae">TranslatorIndonesian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a29070dbefe2889dd9a14b5bf34d044df">TranslatorItalian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a3d7258cc4123f2c690e9a878d10717bf">TranslatorKorean::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a13357af2c53b40679d2199e3e2430fc7">TranslatorLatvian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ace325481cafb35dd9c671d34d2391e05">TranslatorMacedonian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a8921a675e16e867e9325e0a895f70bc3">TranslatorPolish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a95ce12a40a2c938b46b173426c016d28">TranslatorPortuguese::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a01511579b935da65b1edd6a3afd2c7f7">TranslatorRomanian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a2d8e24e26cc84bbbe76e4a8bbea6fb5b">TranslatorRussian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#ac240798b429ddabc5a0bc158b27d223e">TranslatorSerbian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#aa60c07d96b319da2d9e592465c0dcb83">TranslatorSerbianCyrillic::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a4dd71f1f6bcdd74230b8bd937c17153f">TranslatorSlovak::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a9b98d73a837e20ad6badc372e7ebc301">TranslatorSpanish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a8c6946a51acca4f8d97b3ad8d3bfa3da">TranslatorSwedish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a9f795337290033aa1000744795f3d2e1">TranslatorTurkish::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a62e07caa5b4025fcca3a31e99e127c4a">TranslatorUkrainian::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#afbae667cafc1ccc5d1a8f16155ebef43">TranslatorVietnamese::trModule</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#aeb38a8b55aa781c8ae8d5860da507da3">TranslatorAfrikaans::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a86596048203fca641035bd4a89fc1d80">TranslatorBrazilian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#aab1ed7044879483c38a1b96a4b57b92e">TranslatorBulgarian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a9e55df30c581e583799ff725db3e47bd">TranslatorCatalan::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a9f22e3200eb52966f60ea9537981e5e2">TranslatorCroatian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a5d9693eb329843daaeae559259021c62">TranslatorCzech::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a72108a0b84a373dd73ed7cd3a96bebfe">TranslatorDanish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a16b030c74d9c7c31ffb212f67a5a841a">TranslatorDutch::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a87ef351539e7c64e58a656f6ec652590">TranslatorEnglish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#ae6239357b29db055843e925ccf62f49f">TranslatorEsperanto::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ab932679357e63126bbc2dc55f371ca82">TranslatorFinnish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a7ed0e61c85e4a7495d0abb7e819051e7">TranslatorFrench::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a33f0f60b02b576b3b390be088e0431bc">TranslatorGerman::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#adc22a1f4cecc33a8fb00103327523c25">TranslatorGreek::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a01a9662df5a07b54cfd77a934071c93d">TranslatorHungarian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#ac932485b8922efaa39f758dc82290d8b">TranslatorIndonesian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ad1f9fb6e3c8ca0cd7bd9686f2c3e3315">TranslatorItalian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a160638554029638a366cd9e8167be516">TranslatorKorean::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a32723003ad0a73d84198518947b3d597">TranslatorLatvian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#afaa7eb0a646227d5f5b977df0bb509fb">TranslatorLithuanian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a8b4a0ce91f230b4ac97b17597583a29a">TranslatorMacedonian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a0b4f8b2942d3b0522aea3fca44d5838f">TranslatorNorwegian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#acb34b8c47a733e6d23fb0cbab0dbfb59">TranslatorPolish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#afc1bffdfa569212c3f3c652082cebc40">TranslatorPortuguese::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a277fea2f696077aeecaeb9b52949b0bc">TranslatorRomanian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a8be580038092c4c991350d1dd22ae5a1">TranslatorRussian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a9497c8d70a3d774be720ebf8d3b61de9">TranslatorSerbian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a2c8aca5736ca5d9bb7cff351f18d3a6e">TranslatorSerbianCyrillic::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#aa02e7e6fe27665af62e62ac5000f3eed">TranslatorSlovak::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#a9aaee06756cdbb2e8f7c8228b103d8bd">TranslatorSlovene::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aacff629faf349fbed598a8ea4468d97e">TranslatorSpanish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a60196006b9c948810780f2e86d9c73ff">TranslatorSwedish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a4cf6c7ccd29a9ba162042fa6cb78ecec">TranslatorTurkish::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a2bf042771e102775ebc4990a6ff228b1">TranslatorUkrainian::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a20fc2cf121933eb9370184ba941fb796">TranslatorVietnamese::trNamespace</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a6d879953c88552bd47e6d77a4e4e34f2">TranslatorAfrikaans::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a017d342d9c35d41d5b48445b77f764c3">TranslatorBrazilian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a8ce4b6ad02482cecece71f58021b67dc">TranslatorBulgarian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#acc72d566a923831ca70eccbfabdf6f07">TranslatorCatalan::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a34bb613bcc42fbeb62156c9824ba81b4">TranslatorCroatian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ab52898444be1cde2e2698105e4ca49b5">TranslatorCzech::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#acc9999256d4aef4d5ea8021c53be38cc">TranslatorDanish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#aa3b8b85169cf8b8f335d08b62b703fcd">TranslatorDutch::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a8e3b860f121ba1f1955af71c55ad1cfd">TranslatorEnglish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#af56c3feccac99cb97435a3d9cff318cc">TranslatorEsperanto::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#ada0e577c6cc991d46d767bbd171aafd6">TranslatorFinnish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a1f0b804ad8c6497354f32abc90af0380">TranslatorFrench::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a0671e1987da819e81e0e37954f170731">TranslatorGerman::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#ac186b0aba69c67f3f57726313bd1db55">TranslatorGreek::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a99f7d8110be40b0f56d6b6efe4eedfc3">TranslatorHungarian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a1a0595d19446b86413fe348db09ca8f9">TranslatorIndonesian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#a6f7c4f5704ae45eeb5f38015fabcf407">TranslatorItalian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#aacba00be932bd9474908c6572eb7f03f">TranslatorKorean::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a4a60c1f5c658b0e02db054c064ad2b82">TranslatorLatvian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorlithuanian/#a31e30f941ef1d3a4f9db7e17007ce7ff">TranslatorLithuanian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a4df71f2c36c2e67659c6336bc4f24ba5">TranslatorMacedonian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatornorwegian/#a02a7b9e0cc2b81a4775588221c55e2da">TranslatorNorwegian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1a512194f62f4173e0e896c83d4ade6b">TranslatorPolish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a89109eee1e97590d9c78bb6ff7b3c268">TranslatorPortuguese::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a2c8b0a04feade1f4ce4275a0e4995049">TranslatorRomanian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#ac8745dfda5c1d07552113ccb13d4ce4c">TranslatorRussian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a15bab5925111f435dfe1c7960ed65106">TranslatorSerbian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a7ccdf4f97e7a6d75b0fec5aaadaf73c1">TranslatorSerbianCyrillic::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a5de078ebbbb6020b2130d20b0e621719">TranslatorSlovak::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorslovene/#aebf3ba5d3870397c905ac27e983282e8">TranslatorSlovene::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#a9775b49832f7e60ecf847402fe130e0d">TranslatorSpanish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a56d1234d077cf675a2c8c70a64837aab">TranslatorSwedish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a065db4c22ff468efe1507749ce4515af">TranslatorTurkish::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#a5357b0869e62ed03063415cba6e1d000">TranslatorUkrainian::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a12b537d66ae061ee3f0f8647e7ad12e9">TranslatorVietnamese::trPage</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a49dae306f7ce56e862374ae42bd873a1">TranslatorAfrikaans::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#a7e76cff2effbaefc024f602f8c069ee9">TranslatorBrazilian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a085b267b92a91d0fa5001bdf86664200">TranslatorBulgarian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#aa9b84aafdeeef0d9149207b3e85d3505">TranslatorCatalan::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a141748edc7c181828218019e2f2ef93c">TranslatorCroatian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#ad3b2999b1ea0dd87944b5650d6f7eb0d">TranslatorCzech::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#af80a415306fbe2fe3faecfb1399c756b">TranslatorDanish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#a4dec00eac48de1a7744a94886f5133f8">TranslatorDutch::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a145d712418f86acd426951b3e0e3185e">TranslatorEnglish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aa3e8acc65ac6c853b72a1c1931cfa3e7">TranslatorEsperanto::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#afb0dad5729971936515f4a4662920875">TranslatorFinnish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#aa4161e03db494e349d4511b480c31104">TranslatorFrench::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#ad053cbd92cb2f90a16cab843bfa53856">TranslatorGerman::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#ad6e3d206fbeda10fec42f49f7a380af8">TranslatorGreek::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a70098b481fbf5fc85d6a1fe37883574e">TranslatorHungarian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#afa4e58175885d925ce12624946d98ea0">TranslatorIndonesian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ac6fb75d606f4fc5d54e7122363b0ed47">TranslatorItalian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a0c746f43751674874682a6d5b6f48395">TranslatorKorean::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a5aec913679112a124ec2f843ec61bdb3">TranslatorLatvian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#a9af63c4ff2739c66813750d1c4d91a5d">TranslatorMacedonian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#a1e41ba0865aca3bdcec6da8a71aefd0b">TranslatorPolish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#a0f9fc260446e5ec31bfaef5a9e58b653">TranslatorPortuguese::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a27735ae9bf26843618811fff226c70fb">TranslatorRomanian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a987a8287fc9859fe1874aa5a0b9354c9">TranslatorRussian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a81778d57b8253bda0d85536776dcb1a0">TranslatorSerbian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a41ffce3c8fd539af02bb78f980e53174">TranslatorSerbianCyrillic::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a83d68691563acc257cf7530f1ea3f3ad">TranslatorSlovak::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#aed30bcf64ee7b210530fd3b3d026b6e5">TranslatorSpanish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a3f661973e94e63e418770e79741cf21d">TranslatorSwedish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#a6e60787bd087ced34d0c71b30249eafe">TranslatorTurkish::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#ab8e7199c3faccc36cba1c6f938a489b6">TranslatorUkrainian::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a95bea2b0237a6e3cda1d6f1c2faa87c9">TranslatorVietnamese::trSubprogram</a>, <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#ad535d657228089235695340bbd0a01b0">TranslatorAfrikaans::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorbrazilian/#ae71018dd1cde77275ba0969594224847">TranslatorBrazilian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorbulgarian/#a46b747112861abaa2aa9de0a56cebeb8">TranslatorBulgarian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorcatalan/#a3a863eb8e74cb59c20aba8147a8ee7f8">TranslatorCatalan::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorcroatian/#a757e18d9b7026ed4f945ba9abe1642f4">TranslatorCroatian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorczech/#a1e1a58d79a900a69aea80c896f610e12">TranslatorCzech::trType</a>, <a href="/web-doxygen/docs/api/classes/translatordanish/#a5c8973ea4a8808bf26f0e26d85e2687f">TranslatorDanish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatordutch/#ae95712c4c6f185e235ae228f9d3f1976">TranslatorDutch::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorenglish/#a5ec73b0ecfa48344e8acaeea1fc087a9">TranslatorEnglish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatoresperanto/#aea72512e71ac9a9355b803cf998c1670">TranslatorEsperanto::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorfinnish/#a45de25d76b5dd8f7a489001ae5efb0f0">TranslatorFinnish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorfrench/#a3525e75ca0da71858eadce842883cf83">TranslatorFrench::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorgerman/#a5e560d29d5f81fc6961fafc1a6376cab">TranslatorGerman::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#abb2c24db724a4cd5caa4fa50a8b2256c">TranslatorGreek::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorhungarian/#a10f4087e99a045fc2b58760f22bf0361">TranslatorHungarian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorindonesian/#a10e70fa620d8dffadb28517477e5fba6">TranslatorIndonesian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatoritalian/#ad542c32ddd6b1fee4a295480657070a6">TranslatorItalian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a61966823c004c45608fb40e3ea3ae0c3">TranslatorKorean::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorlatvian/#a1da81d565cc94ecba7e9fe981bcd3c8e">TranslatorLatvian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatormacedonian/#ae34e851940b4ebbf0bc1d81d75f67222">TranslatorMacedonian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorpersian/#aedd1b54847ba14ecba91a8ba92efef9b">TranslatorPersian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorpolish/#ab6bca0a9596c0de8b6bcd9461d70fa68">TranslatorPolish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorportuguese/#ad9ca6154bcfef0e4768bea65e685f08e">TranslatorPortuguese::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorromanian/#a5bfa9f7f8aa9109301d9e074f4d704a2">TranslatorRomanian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorrussian/#a99c7c068e0d8fd8f175b414166875bb2">TranslatorRussian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorserbian/#a65df63f6e40e2d6532e76ea0edd4c1a4">TranslatorSerbian::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorserbiancyrillic/#a9f048ce4403fdcac146603a5f32311a8">TranslatorSerbianCyrillic::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorslovak/#a463145cc91bb532dc313982dc1384e86">TranslatorSlovak::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorspanish/#ac94cbd63b10c8d697024cfe1151ea200">TranslatorSpanish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorswedish/#a91580f923730b0645a21922c9e53229b">TranslatorSwedish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorturkish/#af5db04a1dd49acc373e00b9641d4e5db">TranslatorTurkish::trType</a>, <a href="/web-doxygen/docs/api/classes/translatorukrainian/#abfbd8ef72654f393dcc305b23c571c1a">TranslatorUkrainian::trType</a> and <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#a4e04c241dd8baf140e6c0681096ea731">TranslatorVietnamese::trType</a>.</p>
+
 </div>
 </div>
 
@@ -12271,7 +12613,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translatorafrikaans/#a74e31
 
 
 
-Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.
+<p>Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/translator-h">translator.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -12289,9 +12632,11 @@ Definition at line 769 of file <a href="/web-doxygen/docs/api/files/src/translat
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>.</p>
 
-Referenced by <a href="#a9e87df46e59ca15713f43205aeb17ea0">latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorarabic/#a43093cb34a9707ad0d5bc86dc8a8591c">TranslatorArabic::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a912efdd1ef6f948e9698abee707505e1">TranslatorGreek::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorhindi/#a80337f5ced9f9e972c272c5f0d85cb23">TranslatorHindi::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a7b564e1e4b12892796d48fa6bc23584d">TranslatorKorean::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorkoreanen/#abff558adf1fbc50e1ff7cfd8d4b447e1">TranslatorKoreanEn::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorpersian/#a4cfa33ad0a284df8f964e930e5dc390b">TranslatorPersian::latexCommandName</a> and <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#ad1cc71f7456595614c616e449ac98768">TranslatorVietnamese::latexCommandName</a>.
+
+<p>Referenced by <a href="#a9e87df46e59ca15713f43205aeb17ea0">latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorarabic/#a43093cb34a9707ad0d5bc86dc8a8591c">TranslatorArabic::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorgreek/#a912efdd1ef6f948e9698abee707505e1">TranslatorGreek::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorhindi/#a80337f5ced9f9e972c272c5f0d85cb23">TranslatorHindi::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorkorean/#a7b564e1e4b12892796d48fa6bc23584d">TranslatorKorean::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorkoreanen/#abff558adf1fbc50e1ff7cfd8d4b447e1">TranslatorKoreanEn::latexCommandName</a>, <a href="/web-doxygen/docs/api/classes/translatorpersian/#a4cfa33ad0a284df8f964e930e5dc390b">TranslatorPersian::latexCommandName</a> and <a href="/web-doxygen/docs/api/classes/translatorvietnamese/#ad1cc71f7456595614c616e449ac98768">TranslatorVietnamese::latexCommandName</a>.</p>
+
 </div>
 </div>
 

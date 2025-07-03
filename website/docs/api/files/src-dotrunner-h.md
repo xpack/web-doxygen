@@ -42,7 +42,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper class to run dot from doxygen from multiple threads. <a href="/web-doxygen/docs/api/classes/dotrunner/#details">More...</a>
+<p>Helper class to run dot from doxygen from multiple threads. <a href="/web-doxygen/docs/api/classes/dotrunner/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

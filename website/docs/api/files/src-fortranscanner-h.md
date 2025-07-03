@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a>
+<p>Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -114,7 +114,8 @@ Fortran language parser using state-based lexical scanning. <a href="/web-doxyge
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-h">fortranscanner.h</a>, definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -379,9 +380,11 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a57a320e051e7596c3106c1a95ae02915">getAmpOrExclAtTheEnd</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a7ac86b7091ebd73f18ce4d662cd75908">insertCharacter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a57a320e051e7596c3106c1a95ae02915">getAmpOrExclAtTheEnd</a>, <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a7ac86b7091ebd73f18ce4d662cd75908">insertCharacter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13b025379789e42ee04dcc54f">checkContLines</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13b025379789e42ee04dcc54f">checkContLines</a> and <a href="/web-doxygen/docs/api/files/src/fortranscanner-l/#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 

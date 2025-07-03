@@ -209,7 +209,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -247,9 +248,11 @@ Definition at line 409 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0f30be3f0aed0b88804816f3e6310ee4">Portable::pathSeparator</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a33ec52ac55c4d58e0748239920ee3e14">Portable::pathListSeparator</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0f30be3f0aed0b88804816f3e6310ee4">Portable::pathSeparator</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07d8121645b0348e91712">Portable::checkForExecutable</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07d8121645b0348e91712">Portable::checkForExecutable</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#a4c4c43977edb27e33f873fbacf11d528">Portable::ghostScriptCommand</a>.</p>
+
 </div>
 </div>
 
@@ -273,7 +276,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#a39228795dec07
 
 
 
-Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -305,9 +309,11 @@ Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a> and <a href="#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>.
+<p>References <a href="#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a> and <a href="#a4f8bf02818b7f772ff25cdc2791a5f3a">proc_env</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a>.</p>
+
 </div>
 </div>
 
@@ -336,7 +342,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 
 
 
-Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -371,9 +378,11 @@ Definition at line 589 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ab6c94b68ae7d5509e621425954c7fc50">begin</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f036f6a3327478acbd75">Portable::strnstr</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f036f6a3327478acbd75">Portable::strnstr</a>.</p>
+
 </div>
 </div>
 
@@ -403,9 +412,11 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ada69eeb681c8f
 
 
 
-Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
 
-Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.
+
+<p>Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ab30a636186b72a67d57e9f7f1e917e99">Portable::system</a>.</p>
+
 </div>
 </div>
 
@@ -434,7 +445,8 @@ Referenced by <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> a
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -443,7 +455,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a>.</p>
+
 </div>
 </div>
 
@@ -472,7 +485,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -481,7 +495,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/portable/#ae1a7516287ca7c75eebc3fa7aa12e970">Portable::getenv</a>, <a href="#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#abd244447df22d110ad410b69c357fdf3">Portable::setenv</a> and <a href="/web-doxygen/docs/api/namespaces/portable/#ac2e29048cffc72c3bed439cff5b02cd4">Portable::unsetenv</a>.</p>
+
 </div>
 </div>
 

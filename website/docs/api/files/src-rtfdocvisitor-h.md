@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Concrete visitor implementation for RTF output. <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#details">More...</a>
+<p>Concrete visitor implementation for RTF output. <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

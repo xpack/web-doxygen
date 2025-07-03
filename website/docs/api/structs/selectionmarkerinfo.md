@@ -128,7 +128,8 @@ struct SelectionMarkerInfo { ... }
 </table>
 
 
-Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -154,7 +155,8 @@ Definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -163,7 +165,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -187,7 +190,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,7 +200,8 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -220,7 +225,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -229,7 +235,8 @@ Definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -253,7 +260,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -262,7 +270,8 @@ Definition at line 191 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -286,7 +295,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -295,7 +305,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -319,7 +330,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -328,7 +340,8 @@ Definition at line 189 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 
@@ -352,7 +365,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb7
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -361,7 +375,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3618467e48bbb77e01562b327fa65f20">checkBlocks</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a558bfa6d487cad0977c6d706cd638a6c">selectBlocks</a>.</p>
+
 </div>
 </div>
 

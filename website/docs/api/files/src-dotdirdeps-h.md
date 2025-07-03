@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Representation of an directory dependency graph. <a href="/web-doxygen/docs/api/classes/dotdirdeps/#details">More...</a>
+<p>Representation of an directory dependency graph. <a href="/web-doxygen/docs/api/classes/dotdirdeps/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -90,7 +90,8 @@ Representation of an directory dependency graph. <a href="/web-doxygen/docs/api/
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-h">dotdirdeps.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

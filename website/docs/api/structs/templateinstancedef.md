@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TemplateInstanceDef` Struct Reference
 
-Class that contains information about a template instance relation. <a href="#details">More...</a>
+<p>Class that contains information about a template instance relation. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -83,9 +83,10 @@ struct TemplateInstanceDef { ... }
 
 ## Description {#details}
 
-Class that contains information about a template instance relation.
+<p>Class that contains information about a template instance relation.</p>
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -116,7 +117,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -125,7 +127,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-References <a href="#ac8c9868371e51ddc02ac1e6074ad7f00">classDef</a> and <a href="#a2ad956c19b3608a6ab8e6b4b15856a9c">templSpec</a>.
+<p>References <a href="#ac8c9868371e51ddc02ac1e6074ad7f00">classDef</a> and <a href="#a2ad956c19b3608a6ab8e6b4b15856a9c">templSpec</a>.</p>
+
 </div>
 </div>
 
@@ -155,7 +158,8 @@ References <a href="#ac8c9868371e51ddc02ac1e6074ad7f00">classDef</a> and <a href
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,7 +168,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#af4d59e4a9d097b853c9fd3ee94b048e0">TemplateInstanceDef</a>.
+<p>Referenced by <a href="#af4d59e4a9d097b853c9fd3ee94b048e0">TemplateInstanceDef</a>.</p>
+
 </div>
 </div>
 
@@ -188,7 +193,8 @@ Referenced by <a href="#af4d59e4a9d097b853c9fd3ee94b048e0">TemplateInstanceDef</
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/classdef-h">classdef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -197,7 +203,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/classdef-
 </div>
 
 
-Referenced by <a href="#af4d59e4a9d097b853c9fd3ee94b048e0">TemplateInstanceDef</a>.
+<p>Referenced by <a href="#af4d59e4a9d097b853c9fd3ee94b048e0">TemplateInstanceDef</a>.</p>
+
 </div>
 </div>
 

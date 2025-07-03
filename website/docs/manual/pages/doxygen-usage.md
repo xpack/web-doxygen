@@ -20,11 +20,14 @@ toc_max_heading_level: 4
 
 
 
-Doxygen is a command line based utility. Calling <span class="doxyComputerOutput">doxygen</span> with the <span class="doxyComputerOutput">--help</span> option at the command line will give you a brief description of the usage of the program.
+<p>Doxygen is a command line based utility. Calling <span class="doxyComputerOutput">doxygen</span> with the <span class="doxyComputerOutput">--help</span> option at the command line will give you a brief description of the usage of the program.</p>
 
-All options consist of a leading character <span class="doxyComputerOutput">-</span>, followed by one character and one or more arguments depending on the option.
 
-To generate a manual for your project you typically need to follow these steps:
+<p>All options consist of a leading character <span class="doxyComputerOutput">-</span>, followed by one character and one or more arguments depending on the option.</p>
+
+
+<p>To generate a manual for your project you typically need to follow these steps:</p>
+
 
 <ol class="doxyList" type="1">
 <li>You document your source code with special documentation blocks (see section <a href="/web-doxygen/docs/pages/docblocks/#specialblock">Special comment blocks</a>).</li>
@@ -41,19 +44,22 @@ To generate a manual for your project you typically need to follow these steps:
 </code></pre></li>
 </ol>
 
-If you have a configuration file generated with an older version of Doxygen, you can upgrade it to the current version by running Doxygen with the -u option.
+<p>If you have a configuration file generated with an older version of Doxygen, you can upgrade it to the current version by running Doxygen with the -u option.</p>
+
 
 
 <pre><code>doxygen -u &lt;config_file&gt;
 </code></pre>
 
 
-All configuration settings in the original configuration file will be copied to the new configuration file. Any new options will have their default value. Note that comments that you may have added in the original configuration file will be lost.
+<p>All configuration settings in the original configuration file will be copied to the new configuration file. Any new options will have their default value. Note that comments that you may have added in the original configuration file will be lost.</p>
+
 
 ## Fine-tuning the output {#doxygen_finetune}
 
 
-If you want to fine-tune the way the output looks, Doxygen allows you generate default style sheet, header, and footer files that you can edit afterwards:
+<p>If you want to fine-tune the way the output looks, Doxygen allows you generate default style sheet, header, and footer files that you can edit afterwards:</p>
+
 
 <ul class="doxyList ">
 <li>For HTML output, you can generate the default header file (see <a href="/web-doxygen/docs/pages/config/#cfg_html_header">HTML_HEADER</a>), the default footer (see <a href="/web-doxygen/docs/pages/config/#cfg_html_footer">HTML_FOOTER</a>), and the default style sheet (see <a href="/web-doxygen/docs/pages/config/#cfg_html_stylesheet">HTML_STYLESHEET</a>), using the following command:
@@ -81,9 +87,11 @@ If you need non-default options (for instance to use extra <code>{\LaTeX}</code>
 </code></pre></li>
 </ul>
 
+
 :::warning
-When using a custom header you are responsible for the proper inclusion of any scripts and style sheets that Doxygen needs, which is dependent on the configuration options and may change when upgrading to a new Doxygen release.
+<p>When using a custom header you are responsible for the proper inclusion of any scripts and style sheets that Doxygen needs, which is dependent on the configuration options and may change when upgrading to a new Doxygen release.</p>
 :::
+
 
 
 :::info

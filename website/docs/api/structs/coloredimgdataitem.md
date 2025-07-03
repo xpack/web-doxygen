@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `ColoredImgDataItem` Struct Reference
 
-Data associated with a HSV colored image. <a href="#details">More...</a>
+<p>Data associated with a HSV colored image. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -103,9 +103,10 @@ struct ColoredImgDataItem { ... }
 
 ## Description {#details}
 
-Data associated with a HSV colored image.
+<p>Data associated with a HSV colored image.</p>
 
-Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -131,7 +132,8 @@ Definition at line 415 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 
 
 
-Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -140,7 +142,8 @@ Definition at line 421 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.</p>
+
 </div>
 </div>
 
@@ -164,7 +167,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 
 
 
-Definition at line 420 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 420 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -173,7 +177,8 @@ Definition at line 420 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.</p>
+
 </div>
 </div>
 
@@ -197,7 +202,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 
 
 
-Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,7 +212,8 @@ Definition at line 419 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.</p>
+
 </div>
 </div>
 
@@ -230,7 +237,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 
 
 
-Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -239,7 +247,8 @@ Definition at line 417 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.</p>
+
 </div>
 </div>
 
@@ -263,7 +272,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a
 
 
 
-Definition at line 418 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.
+<p>Definition at line 418 of file <a href="/web-doxygen/docs/api/files/src/util-h">util.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -272,7 +282,8 @@ Definition at line 418 of file <a href="/web-doxygen/docs/api/files/src/util-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af543a98b46249a2b115f47f0166e9a81">writeColoredImgData</a>.</p>
+
 </div>
 </div>
 

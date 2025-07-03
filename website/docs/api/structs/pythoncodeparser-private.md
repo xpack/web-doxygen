@@ -58,7 +58,8 @@ struct PythonCodeParser::Private { ... }
 </table>
 
 
-Definition at line 1494 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
+<p>Definition at line 1494 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 1494 of file <a href="/web-doxygen/docs/api/files/src/pycode-
 
 
 
-Definition at line 1497 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
+<p>Definition at line 1497 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 1497 of file <a href="/web-doxygen/docs/api/files/src/pycode-
 
 
 
-Definition at line 1496 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.
+<p>Definition at line 1496 of file <a href="/web-doxygen/docs/api/files/src/pycode-l">pycode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -45,7 +45,8 @@ struct DirEntry::Private { ... }
 </table>
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -71,7 +72,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/dir-cpp">dir.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -58,7 +58,8 @@ struct PythonOutlineParser::Private { ... }
 </table>
 
 
-Definition at line 2337 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2337 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 2337 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 
 
 
-Definition at line 2340 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2340 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 2340 of file <a href="/web-doxygen/docs/api/files/src/pyscann
 
 
 
-Definition at line 2339 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.
+<p>Definition at line 2339 of file <a href="/web-doxygen/docs/api/files/src/pyscanner-l">pyscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

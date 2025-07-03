@@ -57,7 +57,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc) <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#details">More...</a>
+<p>Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, etc) <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -258,7 +258,7 @@ Holds yyextra-&gt;modifiers (ie attributes) for one symbol (variable, function, 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Handle parameter description as defined after the declaration of the parameter. <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">More...</a>
+<p>Handle parameter description as defined after the declaration of the parameter. <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -272,7 +272,7 @@ Handle parameter description as defined after the declaration of the parameter. 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Handle result description as defined after the declaration of the parameter. <a href="#a746c69943bdf7ff71cbd6e6aa44b875d">More...</a>
+<p>Handle result description as defined after the declaration of the parameter. <a href="#a746c69943bdf7ff71cbd6e6aa44b875d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -286,7 +286,7 @@ Handle result description as defined after the declaration of the parameter. <a 
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-adds yyextra-&gt;current entry to yyextra-&gt;current_root and creates new yyextra-&gt;current <a href="#a1f86638786429418e4c584f9b98ec3d4">More...</a>
+<p>adds yyextra-&gt;current entry to yyextra-&gt;current_root and creates new yyextra-&gt;current <a href="#a1f86638786429418e4c584f9b98ec3d4">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -404,7 +404,7 @@ adds yyextra-&gt;current entry to yyextra-&gt;current_root and creates new yyext
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-used to copy entry to an interface module procedure <a href="#a6bd7068dc789461b065785069d7251aa">More...</a>
+<p>used to copy entry to an interface module procedure <a href="#a6bd7068dc789461b065785069d7251aa">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -418,7 +418,7 @@ used to copy entry to an interface module procedure <a href="#a6bd7068dc789461b0
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-fill empty interface module procedures with info from corresponding module subprogs <a href="#a117a119a3d5a5d0dc330e3d6eade5c04">More...</a>
+<p>fill empty interface module procedures with info from corresponding module subprogs <a href="#a117a119a3d5a5d0dc330e3d6eade5c04">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -575,7 +575,7 @@ fill empty interface module procedures with info from corresponding module subpr
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-fortran parsing states <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
+<p>fortran parsing states <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -842,7 +842,8 @@ fortran parsing states <a href="#a1d80d8ed8c19744ed31163f6e7525e54">More...</a>
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -907,7 +908,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 </dd>
 </dl>
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -966,7 +968,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 </dd>
 </dl>
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1006,9 +1009,10 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 </div>
 <div class="doxyMemberDoc">
 
-adds yyextra-&gt;current entry to yyextra-&gt;current\_root and creates new yyextra-&gt;current
+<p>adds yyextra-&gt;current entry to yyextra-&gt;current_root and creates new yyextra-&gt;current</p>
 
-Definition at line 2898 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2898 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1025,9 +1029,11 @@ Definition at line 2898 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.
+<p>Reference <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.</p>
 
-Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>, <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a> and <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>.
+
+<p>Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>, <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a> and <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>.</p>
+
 </div>
 </div>
 
@@ -1057,14 +1063,17 @@ Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>, <a 
 
 
 
-Adds interface to the root entry.
+<p>Adds interface to the root entry.</p>
+
+
 
 :::info
-Code was brought to this procedure from the parser, because there was/is idea to use it in several parts of the parser.
+<p>Code was brought to this procedure from the parser, because there was/is idea to use it in several parts of the parser.</p>
 :::
 
 
-Definition at line 2968 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2968 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1114,7 +1123,8 @@ Definition at line 2968 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9daa33f8bd097d7a6cd1210bed71c5cb937">IF\_ABSTRACT</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9da5d1432a4cae2b52cafb669c901908aa5">IF\_GENERIC</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF\_NONE</a> and <a href="#af1ef2c97e255bd7f21d3b7614b283d9da89f0d2424cf9ae9c82a868376ceb29b9">IF\_SPECIFIC</a>.
+<p>References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9daa33f8bd097d7a6cd1210bed71c5cb937">IF_ABSTRACT</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9da5d1432a4cae2b52cafb669c901908aa5">IF_GENERIC</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9da46dbf2e0f925aa7b0f3f9edd25acf5e6">IF_NONE</a> and <a href="#af1ef2c97e255bd7f21d3b7614b283d9da89f0d2424cf9ae9c82a868376ceb29b9">IF_SPECIFIC</a>.</p>
+
 </div>
 </div>
 
@@ -1143,7 +1153,8 @@ References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a 
 
 
 
-Definition at line 2908 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2908 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1183,9 +1194,11 @@ Definition at line 2908 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f0a381fdae1427b1182baf0abde21e7">QCString::append</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f0a381fdae1427b1182baf0abde21e7">QCString::append</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a87d2bfa3fcbf407c32fab784df368b2d">QCString::setNum</a>, <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
 
-Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>.
+
+<p>Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>.</p>
+
 </div>
 </div>
 
@@ -1214,7 +1227,8 @@ Referenced by <a href="#ac57b965357c0cd3448f8bac617563e29">addInterface</a>.
 
 
 
-Definition at line 2942 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2942 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1243,7 +1257,8 @@ Definition at line 2942 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9daa33f8bd097d7a6cd1210bed71c5cb937">IF\_ABSTRACT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcff3b43779aea30">QCString::clear</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#af1ef2c97e255bd7f21d3b7614b283d9daa33f8bd097d7a6cd1210bed71c5cb937">IF_ABSTRACT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -1273,9 +1288,11 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#af4848e7058516bdbbcf
 
 
 
-Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>typeName</em> string.
+<p>Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>typeName</em> string.</p>
 
-Definition at line 2411 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2411 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1398,9 +1415,11 @@ Definition at line 2411 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3a7425ed3b345a52a97a37850cecf54d">SymbolModifiers::allocatable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a951fe24444c6f9225d468ce28f69c044">SymbolModifiers::bindVar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#af53aa7a23a005f7e861977192ea549ad">SymbolModifiers::contiguous</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a2aad749396a02ead46410d78da584e9a">SymbolModifiers::deferred</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3e997f886dd5832f1f8ae64aadca020c">SymbolModifiers::dimension</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a60ca7cc66daff6cdae19b5d4162f77a4">SymbolModifiers::direction</a>, <a href="#a70244a0858d0601f2df6435673f01462">directionStrs</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3187a1ff0724dbcff6cf591cd815bd78">SymbolModifiers::external</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a9df901b470a76a04f234ff6863f1dca1">SymbolModifiers::intrinsic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">SymbolModifiers::NONE\_D</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a1500769a8e0054bb142980765556c923">SymbolModifiers::nonoverridable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#adcd51442f97dbef24a66a86ecd231fda">SymbolModifiers::nopass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aa6211c1be3fd479e53a26b498e5fc94b">SymbolModifiers::optional</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3237efa8834ef0f47b9e14284e1db710">SymbolModifiers::parameter</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#af73c8f692ea33c3d1250adc8e4a1b946">SymbolModifiers::pass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aa087f0ac7c16038e40ba11ad1b66c635">SymbolModifiers::passVar</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#ac783671e5116d72c93935bb9bf7c2cb8">SymbolModifiers::pointer</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708a3af5ff26f32ecc18b95bd75082789867">SymbolModifiers::PRIVATE</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a391410448831f7e0e967635319e16d73">SymbolModifiers::protect</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#add511aaa15123dd20538a4e23415b91e">SymbolModifiers::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708ae0d7c512c0fe421f9d64e801771f9fb3">SymbolModifiers::PUBLIC</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a25d1321a621eb7496f4e2e3ac99b0842">SymbolModifiers::save</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a10971e3ef27a2e20c71a769c6d237807">SymbolModifiers::target</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a18f0ffb7109d897a5ba0eb58ac3ace45">SymbolModifiers::value</a> and <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6034722aa4017fca0054462b41b4aa97">SymbolModifiers::volat</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3a7425ed3b345a52a97a37850cecf54d">SymbolModifiers::allocatable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a951fe24444c6f9225d468ce28f69c044">SymbolModifiers::bindVar</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aeeedb2810a85c682c2f2a86bcd2355a7">QCString::contains</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#af53aa7a23a005f7e861977192ea549ad">SymbolModifiers::contiguous</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a2aad749396a02ead46410d78da584e9a">SymbolModifiers::deferred</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3e997f886dd5832f1f8ae64aadca020c">SymbolModifiers::dimension</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a60ca7cc66daff6cdae19b5d4162f77a4">SymbolModifiers::direction</a>, <a href="#a70244a0858d0601f2df6435673f01462">directionStrs</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3187a1ff0724dbcff6cf591cd815bd78">SymbolModifiers::external</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a9df901b470a76a04f234ff6863f1dca1">SymbolModifiers::intrinsic</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">SymbolModifiers::NONE_D</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a1500769a8e0054bb142980765556c923">SymbolModifiers::nonoverridable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#adcd51442f97dbef24a66a86ecd231fda">SymbolModifiers::nopass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aa6211c1be3fd479e53a26b498e5fc94b">SymbolModifiers::optional</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a3237efa8834ef0f47b9e14284e1db710">SymbolModifiers::parameter</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#af73c8f692ea33c3d1250adc8e4a1b946">SymbolModifiers::pass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aa087f0ac7c16038e40ba11ad1b66c635">SymbolModifiers::passVar</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#ac783671e5116d72c93935bb9bf7c2cb8">SymbolModifiers::pointer</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708a3af5ff26f32ecc18b95bd75082789867">SymbolModifiers::PRIVATE</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a391410448831f7e0e967635319e16d73">SymbolModifiers::protect</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#add511aaa15123dd20538a4e23415b91e">SymbolModifiers::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708ae0d7c512c0fe421f9d64e801771f9fb3">SymbolModifiers::PUBLIC</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a25d1321a621eb7496f4e2e3ac99b0842">SymbolModifiers::save</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a10971e3ef27a2e20c71a769c6d237807">SymbolModifiers::target</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a18f0ffb7109d897a5ba0eb58ac3ace45">SymbolModifiers::value</a> and <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6034722aa4017fca0054462b41b4aa97">SymbolModifiers::volat</a>.</p>
 
-Referenced by <a href="#a53849d7f7a3b6511175fd2c40be515b8">applyModifiers</a>, <a href="#ae88a4d2b7afc5a1c3def9d800cc5863e">applyModifiers</a> and <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
+
+<p>Referenced by <a href="#a53849d7f7a3b6511175fd2c40be515b8">applyModifiers</a>, <a href="#ae88a4d2b7afc5a1c3def9d800cc5863e">applyModifiers</a> and <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.</p>
+
 </div>
 </div>
 
@@ -1430,9 +1449,11 @@ Referenced by <a href="#a53849d7f7a3b6511175fd2c40be515b8">applyModifiers</a>, <
 
 
 
-Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>arg</em> argument.
+<p>Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>arg</em> argument.</p>
 
-Definition at line 2528 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2528 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1444,7 +1465,8 @@ Definition at line 2528 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
+
 </div>
 </div>
 
@@ -1474,9 +1496,11 @@ References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a> and <
 
 
 
-Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>ent</em> entry.
+<p>Apply yyextra-&gt;modifiers stored in <em>mdfs</em> to the <em>ent</em> entry.</p>
 
-Definition at line 2534 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2534 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1500,7 +1524,8 @@ Definition at line 2534 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a2aad749396a02ead46410d78da584e9a">SymbolModifiers::deferred</a>, <a href="/web-doxygen/docs/api/classes/entry/#ae37f5e4eaf9df2a96650cca128222b09">Entry::isStatic</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a1500769a8e0054bb142980765556c923">SymbolModifiers::nonoverridable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#adcd51442f97dbef24a66a86ecd231fda">SymbolModifiers::nopass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708a3af5ff26f32ecc18b95bd75082789867">SymbolModifiers::PRIVATE</a>, <a href="/web-doxygen/docs/api/classes/entry/#acbb1b4e99978a710863cf9cab6c90553">Entry::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#add511aaa15123dd20538a4e23415b91e">SymbolModifiers::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708ae0d7c512c0fe421f9d64e801771f9fb3">SymbolModifiers::PUBLIC</a>, <a href="/web-doxygen/docs/api/classes/entry/#aefd1b83f8d9a4b98c424a92c4bbe2d17">Entry::spec</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/entry/#a79a9b5736630c3769e645f71dc357b9f">Entry::type</a> and <a href="/web-doxygen/docs/api/classes/entry/#aaf045b9c026443fd192064117083911b">Entry::virt</a>.
+<p>References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a2aad749396a02ead46410d78da584e9a">SymbolModifiers::deferred</a>, <a href="/web-doxygen/docs/api/classes/entry/#ae37f5e4eaf9df2a96650cca128222b09">Entry::isStatic</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a1500769a8e0054bb142980765556c923">SymbolModifiers::nonoverridable</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#adcd51442f97dbef24a66a86ecd231fda">SymbolModifiers::nopass</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708a3af5ff26f32ecc18b95bd75082789867">SymbolModifiers::PRIVATE</a>, <a href="/web-doxygen/docs/api/classes/entry/#acbb1b4e99978a710863cf9cab6c90553">Entry::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#add511aaa15123dd20538a4e23415b91e">SymbolModifiers::protection</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#a6c76745fa39de2b90353729fe62c6708ae0d7c512c0fe421f9d64e801771f9fb3">SymbolModifiers::PUBLIC</a>, <a href="/web-doxygen/docs/api/classes/entry/#aefd1b83f8d9a4b98c424a92c4bbe2d17">Entry::spec</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/classes/entry/#a79a9b5736630c3769e645f71dc357b9f">Entry::type</a> and <a href="/web-doxygen/docs/api/classes/entry/#aaf045b9c026443fd192064117083911b">Entry::virt</a>.</p>
+
 </div>
 </div>
 
@@ -1530,7 +1555,8 @@ References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>, <a h
 
 
 
-Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1552,7 +1578,8 @@ Definition at line 1709 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>.</p>
+
 </div>
 </div>
 
@@ -1579,9 +1606,10 @@ Reference <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078
 </div>
 <div class="doxyMemberDoc">
 
-used to copy entry to an interface module procedure
+<p>used to copy entry to an interface module procedure</p>
 
-Definition at line 2148 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2148 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1605,7 +1633,8 @@ Definition at line 2148 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a117a119a3d5a5d0dc330e3d6eade5c04">resolveModuleProcedures</a>.
+<p>Referenced by <a href="#a117a119a3d5a5d0dc330e3d6eade5c04">resolveModuleProcedures</a>.</p>
+
 </div>
 </div>
 
@@ -1635,15 +1664,17 @@ Referenced by <a href="#a117a119a3d5a5d0dc330e3d6eade5c04">resolveModuleProcedur
 
 
 
-Ends scope in fortran program: may update subprogram arguments or module variable attributes.
+<p>Ends scope in fortran program: may update subprogram arguments or module variable attributes.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope()</a></dd>
+<dd><p><a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope()</a></p></dd>
 </dl>
 
 
-Definition at line 2571 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2571 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1780,9 +1811,11 @@ Definition at line 2571 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>, <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID\_ENTRY</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/entry/#a87d6afbe10ea84859ef03b6f046e34d3">Entry::name</a>, <a href="/web-doxygen/docs/api/classes/entry/#a4fddb6829c93f01fc0553623306ebba3">Entry::parent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a>, <a href="/web-doxygen/docs/api/classes/entry/#afce092d3df4c6d51599a826e662de490">Entry::removeSubEntry</a>, <a href="#a8e6aba48ce1a2e82d0401f666a45c1d3">resolveTypeBoundProcedures</a>, <a href="#a7b2ca28396c488d5a08ead21731ed2c2">scanner\_abort</a>, <a href="/web-doxygen/docs/api/classes/entry/#a967db0d8493a46efab87a53d423161eb">Entry::section</a>, <a href="/web-doxygen/docs/api/classes/entry/#aefd1b83f8d9a4b98c424a92c4bbe2d17">Entry::spec</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a> and <a href="/web-doxygen/docs/api/classes/entry/#a79a9b5736630c3769e645f71dc357b9f">Entry::type</a>.
+<p>References <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>, <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a68f2fb9c7c23aa0812e4e66ee782baee">findArgument</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>, <a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID_ENTRY</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>, <a href="/web-doxygen/docs/api/classes/entry/#a87d6afbe10ea84859ef03b6f046e34d3">Entry::name</a>, <a href="/web-doxygen/docs/api/classes/entry/#a4fddb6829c93f01fc0553623306ebba3">Entry::parent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a>, <a href="/web-doxygen/docs/api/classes/entry/#afce092d3df4c6d51599a826e662de490">Entry::removeSubEntry</a>, <a href="#a8e6aba48ce1a2e82d0401f666a45c1d3">resolveTypeBoundProcedures</a>, <a href="#a7b2ca28396c488d5a08ead21731ed2c2">scanner_abort</a>, <a href="/web-doxygen/docs/api/classes/entry/#a967db0d8493a46efab87a53d423161eb">Entry::section</a>, <a href="/web-doxygen/docs/api/classes/entry/#aefd1b83f8d9a4b98c424a92c4bbe2d17">Entry::spec</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>, <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a> and <a href="/web-doxygen/docs/api/classes/entry/#a79a9b5736630c3769e645f71dc357b9f">Entry::type</a>.</p>
 
-Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+
+<p>Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -1812,9 +1845,11 @@ Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
 
 
 
-remove useless spaces from bind statement
+<p>remove useless spaces from bind statement</p>
 
-Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1843,9 +1878,11 @@ Definition at line 2229 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a25c73dbd285ac4ed23985634ad1a9cab">extractFromParens</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="#a25c73dbd285ac4ed23985634ad1a9cab">extractFromParens</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a27136caf9c0bc4daca574cda6f113551">QCString::mid</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aaca9d411d0392efd25510ca3209178d0">SymbolModifiers::operator|=</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aaca9d411d0392efd25510ca3209178d0">SymbolModifiers::operator|=</a>.</p>
+
 </div>
 </div>
 
@@ -1875,9 +1912,11 @@ Referenced by <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aaca9d411d
 
 
 
-Extracts string which resides within parentheses of provided string.
+<p>Extracts string which resides within parentheses of provided string.</p>
 
-Definition at line 2209 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2209 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1903,9 +1942,11 @@ Definition at line 2209 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
 
-Referenced by <a href="#ac494d47958d1f5413e97e355624ca8db">extractBind</a> and <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aaca9d411d0392efd25510ca3209178d0">SymbolModifiers::operator|=</a>.
+
+<p>Referenced by <a href="#ac494d47958d1f5413e97e355624ca8db">extractBind</a> and <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aaca9d411d0392efd25510ca3209178d0">SymbolModifiers::operator|=</a>.</p>
+
 </div>
 </div>
 
@@ -1935,11 +1976,14 @@ Referenced by <a href="#ac494d47958d1f5413e97e355624ca8db">extractBind</a> and <
 
 
 
-For debugging purposes.
+<p>For debugging purposes.</p>
 
-Find argument with given name in <em>subprog</em> entry.
 
-Definition at line 2394 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Find argument with given name in <em>subprog</em> entry.</p>
+
+
+<p>Definition at line 2394 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1961,9 +2005,11 @@ Definition at line 2394 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/entry/#a8326dbe669b74cf546adfa28c8ed8bf4">Entry::argList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/entry/#a8326dbe669b74cf546adfa28c8ed8bf4">Entry::argList</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a> and <a href="/web-doxygen/docs/api/structs/argument/#a1ad588d2b3cc71fe3f74c8272b4ec32e">Argument::type</a>.</p>
 
-Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
+
+<p>Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.</p>
+
 </div>
 </div>
 
@@ -1992,7 +2038,8 @@ Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
 
 
 
-Definition at line 1756 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1756 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2044,7 +2091,8 @@ Definition at line 1756 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1775 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1775 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2115,7 +2163,8 @@ Definition at line 1775 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.</p>
+
 </div>
 </div>
 
@@ -2145,7 +2194,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a3
 
 
 
-Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2182,9 +2232,11 @@ Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Get the argument <em>name</em>.
+<p>Get the argument <em>name</em>.</p>
 
-Definition at line 3016 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 3016 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2208,9 +2260,11 @@ Definition at line 3016 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a> and <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a> and <a href="/web-doxygen/docs/api/structs/argument/#a334668ce5d1f650c804e69f1bc941a3b">Argument::name</a>.</p>
 
-Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.
+
+<p>Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.</p>
+
 </div>
 </div>
 
@@ -2239,7 +2293,8 @@ Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepass
 
 
 
-Definition at line 3051 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3051 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2288,9 +2343,11 @@ Definition at line 3051 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>.
+<p>References <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2c01679fba857523a2ffe9007352e3bf">stripIndentation</a>.</p>
 
-Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBlock</a> and <a href="#a746c69943bdf7ff71cbd6e6aa44b875d">subrHandleCommentBlockResult</a>.
+
+<p>Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBlock</a> and <a href="#a746c69943bdf7ff71cbd6e6aa44b875d">subrHandleCommentBlockResult</a>.</p>
+
 </div>
 </div>
 
@@ -2319,7 +2376,8 @@ Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBloc
 
 
 
-Definition at line 2869 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2869 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2352,7 +2410,8 @@ Definition at line 2869 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#ac41321000a4a4f6ab696d4a6a88a4fef">addEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a3b2171b8a9cdc055bd41d0181094f27a">addFrom</a>, <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a3383c871b9fd5e4b1cf4a549de88a1f3">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a8a8ff9e246514b6146a187f9648c2736">parseMain</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a> and <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a>.
+<p>Referenced by <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#ac41321000a4a4f6ab696d4a6a88a4fef">addEntry</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a3b2171b8a9cdc055bd41d0181094f27a">addFrom</a>, <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a04219d02c56369b619778a94f19fd58f">newEntry</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a3383c871b9fd5e4b1cf4a549de88a1f3">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#af3d71282d72dd7136124a4c7405f6b28">parseCompounds</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a8a8ff9e246514b6146a187f9648c2736">parseMain</a>, <a href="/web-doxygen/docs/api/files/src/scanner-l/#a434a1f775b7fe0a37ad69ba2499cfdfb">parseMain</a> and <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a>.</p>
+
 </div>
 </div>
 
@@ -2381,7 +2440,8 @@ Referenced by <a href="#a1f86638786429418e4c584f9b98ec3d4">addCurrentEntry</a>, 
 
 
 
-Definition at line 2863 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2863 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2394,7 +2454,8 @@ Definition at line 2863 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+<p>Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -2423,7 +2484,8 @@ Referenced by <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
 
 
 
-Definition at line 1855 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1855 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2439,7 +2501,8 @@ Definition at line 1855 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>.</p>
+
 </div>
 </div>
 
@@ -2468,7 +2531,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortranscanner-h/#a3318a3
 
 
 
-Definition at line 1724 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1724 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2492,9 +2556,11 @@ Definition at line 1724 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/structs/commentinprepass/#a84b0d18b00f30aa819ec490f79e24018">CommentInPrepass::column</a>.
+<p>Reference <a href="/web-doxygen/docs/api/structs/commentinprepass/#a84b0d18b00f30aa819ec490f79e24018">CommentInPrepass::column</a>.</p>
 
-Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.
+
+<p>Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepassComment</a>.</p>
+
 </div>
 </div>
 
@@ -2523,7 +2589,8 @@ Referenced by <a href="#a9e2f432a75f34796b2cdda24ee7cb9b0">updateVariablePrepass
 
 
 
-Definition at line 1700 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1700 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2539,7 +2606,8 @@ Definition at line 1700 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#af8340206fb0e8eadbd9914fd833be6e0">vhdl::parser::CharStream::adjustBeginLineColumn</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#af8340206fb0e8eadbd9914fd833be6e0">vhdl::parser::CharStream::adjustBeginLineColumn</a>.</p>
+
 </div>
 </div>
 
@@ -2568,7 +2636,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/vhdl/parser/charstream/#af8
 
 
 
-Definition at line 3230 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3230 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2672,9 +2741,11 @@ Definition at line 3230 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dafae1c4a49dc51808b18e3091bbc85e28">Debug::FortranFixed2Free</a>, <a href="#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID\_ENTRY</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7dafae1c4a49dc51808b18e3091bbc85e28">Debug::FortranFixed2Free</a>, <a href="#a451cff71879d11897907cc8c2102bdcb">initParser</a>, <a href="#a1dfbc2208b3f32fc3d8dca63bd941c08">INVALID_ENTRY</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="#a3318a36567de3b1f36059e387a801863">prepassFixedForm</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c3775d3cb6b3776c441a4451d49bb2c">recognizeFixedForm</a>, <a href="#a49e7bafaa071ffbe937ec1a85c484828">startScope</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/coutlineparser/#a5bf5190ffb4fc52b45fc6b22895a6fbf">COutlineParser::parseInput</a>, <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#af3e1c6efa3eba5f4d30934eac0cd0aa3">FortranOutlineParser::parseInput</a>, <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#ac842abb13f0168eeec20c4a6de1d79b8">LexOutlineParser::parseInput</a> and <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#a5a3b64521d1851e39a58043826b11a95">PythonOutlineParser::parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/coutlineparser/#a5bf5190ffb4fc52b45fc6b22895a6fbf">COutlineParser::parseInput</a>, <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#af3e1c6efa3eba5f4d30934eac0cd0aa3">FortranOutlineParser::parseInput</a>, <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#ac842abb13f0168eeec20c4a6de1d79b8">LexOutlineParser::parseInput</a> and <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#a5a3b64521d1851e39a58043826b11a95">PythonOutlineParser::parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -2704,7 +2775,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/coutlineparser/#a5bf5190ffb
 
 
 
-Definition at line 3415 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3415 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2720,7 +2792,8 @@ Definition at line 3415 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -2749,7 +2822,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb
 
 
 
-Definition at line 2138 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2138 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -2765,9 +2839,11 @@ Definition at line 2138 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1b29c5797729e3aa2dcd693e46755">FortranOutlineParser::parsePrototype</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1b29c5797729e3aa2dcd693e46755">FortranOutlineParser::parsePrototype</a>.</p>
+
 </div>
 </div>
 
@@ -2791,7 +2867,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1
 
 
 
-Definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3056,9 +3133,11 @@ Definition at line 1866 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a57a320e051e7596c3106c1a95ae02915">getAmpOrExclAtTheEnd</a>, <a href="#a7ac86b7091ebd73f18ce4d662cd75908">insertCharacter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#a57a320e051e7596c3106c1a95ae02915">getAmpOrExclAtTheEnd</a>, <a href="#a7ac86b7091ebd73f18ce4d662cd75908">insertCharacter</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13b025379789e42ee04dcc54f">checkContLines</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13b025379789e42ee04dcc54f">checkContLines</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -3087,7 +3166,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a738fe0f13
 
 
 
-Definition at line 2124 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2124 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3108,9 +3188,11 @@ Definition at line 2124 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG\_CTX</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a234e2efe67eececd88b140b46ea37463">DBG_CTX</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1b29c5797729e3aa2dcd693e46755">FortranOutlineParser::parsePrototype</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1b29c5797729e3aa2dcd693e46755">FortranOutlineParser::parsePrototype</a>.</p>
+
 </div>
 </div>
 
@@ -3137,12 +3219,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#abbe1
 </div>
 <div class="doxyMemberDoc">
 
-fill empty interface module procedures with info from corresponding module subprogs
+<p>fill empty interface module procedures with info from corresponding module subprogs</p>
 
 
-TODO: handle procedures in used modules
+<p>TODO: handle procedures in used modules</p>
 
-Definition at line 2170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2170 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3187,7 +3271,8 @@ Definition at line 2170 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a>, <a href="#a6bd7068dc789461b065785069d7251aa">copyEntry</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a>, <a href="#a6bd7068dc789461b065785069d7251aa">copyEntry</a>, <a href="/web-doxygen/docs/api/files/src/dir-cpp/#ad0550a128905c4e07b633d437992b002">end</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ab47a6435c16d61d04fb448f1080b4e26">QCString::findRev</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66f15f4dde9edaf0aac741fa7d57bae8">QCString::remove</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -3217,9 +3302,11 @@ References <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f039
 
 
 
-search for types with type bound procedures (e.g. methods) and try to resolve their arguments
+<p>search for types with type bound procedures (e.g. methods) and try to resolve their arguments</p>
 
-Definition at line 2704 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 2704 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3373,9 +3460,11 @@ Definition at line 2704 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/entry/#a13c49362ea71812935f0399e0f7dcf77">Entry::children</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
+
+<p>Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.</p>
+
 </div>
 </div>
 
@@ -3404,7 +3493,8 @@ Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
 
 
 
-Definition at line 3384 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3384 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3442,9 +3532,11 @@ Definition at line 3384 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a6458e40b3ca285dc65cd5df59d63e5a5">stateToString</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#a9851ebb5ae2f65b4d2b1d08421edbfd2">qPrint</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#a6458e40b3ca285dc65cd5df59d63e5a5">stateToString</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
+
+<p>Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.</p>
+
 </div>
 </div>
 
@@ -3473,7 +3565,8 @@ Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a>.
 
 
 
-Definition at line 3034 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3034 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3495,7 +3588,8 @@ Definition at line 3034 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a22addf63e54e56357d7a2691022828e1">initSpecialBlock</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#aa1fd664818291e7a90ed2ba46a0f44a7">initTriDoubleQuoteBlock</a> and <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a2aa292ec6b6ea81860b3d9b00405d1cb">initTriSingleQuoteBlock</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a22addf63e54e56357d7a2691022828e1">initSpecialBlock</a>, <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#aa1fd664818291e7a90ed2ba46a0f44a7">initTriDoubleQuoteBlock</a> and <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a2aa292ec6b6ea81860b3d9b00405d1cb">initTriSingleQuoteBlock</a>.</p>
+
 </div>
 </div>
 
@@ -3525,15 +3619,17 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/pyscanner-l/#a22addf63e54
 
 
 
-Starts the new scope in fortran program. Consider using this function when starting module, interface, function or other program block.
+<p>Starts the new scope in fortran program. Consider using this function when starting module, interface, function or other program block.</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a5c191151631efdf0d25fc7967f6b0434">endScope()</a></dd>
+<dd><p><a href="#a5c191151631efdf0d25fc7967f6b0434">endScope()</a></p></dd>
 </dl>
 
 
-Definition at line 2555 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2555 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3553,9 +3649,11 @@ Definition at line 2555 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-Reference <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.
+<p>Reference <a href="#affe329b2bcd94b04290e03afad9c97c5">initEntry</a>.</p>
 
-Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+
+<p>Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -3584,7 +3682,8 @@ Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a> and <a 
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 </div>
 </div>
 
@@ -3611,9 +3710,10 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 <div class="doxyMemberDoc">
 
-Handle parameter description as defined after the declaration of the parameter.
+<p>Handle parameter description as defined after the declaration of the parameter.</p>
 
-Definition at line 3095 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3095 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3723,7 +3823,8 @@ Definition at line 3095 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#a0ab2ac9fbdd02519455880a47568829b">directionParam</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a61e9eb5a7ae3678a1c6254b69617f4b7">SymbolModifiers::IN</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a3274f871e28c11b61c8256d20296aa27">SymbolModifiers::INOUT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">SymbolModifiers::NONE\_D</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a0238d370b0f2d73432f8021cd1c1aed1">SymbolModifiers::OUT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.
+<p>References <a href="#a0ab2ac9fbdd02519455880a47568829b">directionParam</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a61e9eb5a7ae3678a1c6254b69617f4b7">SymbolModifiers::IN</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a3274f871e28c11b61c8256d20296aa27">SymbolModifiers::INOUT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4ace26f25fe9aa85a4d1b93a09af862d8b">SymbolModifiers::NONE_D</a>, <a href="/web-doxygen/docs/api/structs/symbolmodifiers/#aceec8152eeb6c06b8dbe03ef14fed6a4a0238d370b0f2d73432f8021cd1c1aed1">SymbolModifiers::OUT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a8f4aa5417f6a834f28c7148a1fe262d5">QCString::right</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a85b390806d83bbaeb7d12383001c0dfb">warn</a>.</p>
+
 </div>
 </div>
 
@@ -3750,9 +3851,10 @@ References <a href="#a0ab2ac9fbdd02519455880a47568829b">directionParam</a>, <a h
 </div>
 <div class="doxyMemberDoc">
 
-Handle result description as defined after the declaration of the parameter.
+<p>Handle result description as defined after the declaration of the parameter.</p>
 
-Definition at line 3199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 3199 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3788,7 +3890,8 @@ Definition at line 3199 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.
+<p>References <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#af363dfe85e56f873aa3a373c70a33b24">QCString::stripPrefix</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a>.</p>
+
 </div>
 </div>
 
@@ -3817,7 +3920,8 @@ References <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>, 
 
 
 
-Definition at line 1842 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1842 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3863,7 +3967,8 @@ Definition at line 1842 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1741 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 1741 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -3885,7 +3990,8 @@ Definition at line 1741 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </div>
 
 
-References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="#a6c050f3e9b9e8855bad36862ab3173ba">getParameter</a>, <a href="#a58823d73b17b4a3c6b782a7e14904c77">locatePrepassComment</a>, <a href="/web-doxygen/docs/api/structs/commentinprepass/#a121d4cd80b9102d3c562acbef48952ca">CommentInPrepass::str</a>, <a href="#a238692c76adb8cefb158cf28754f52d6abc50e5df37302e97005583c6ae1257a3">V\_PARAMETER</a> and <a href="#a238692c76adb8cefb158cf28754f52d6ab238d5b991ac184d0de8dca5478f5e5c">V\_VARIABLE</a>.
+<p>References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703acf14104b19c589">Argument::docs</a>, <a href="#a6c050f3e9b9e8855bad36862ab3173ba">getParameter</a>, <a href="#a58823d73b17b4a3c6b782a7e14904c77">locatePrepassComment</a>, <a href="/web-doxygen/docs/api/structs/commentinprepass/#a121d4cd80b9102d3c562acbef48952ca">CommentInPrepass::str</a>, <a href="#a238692c76adb8cefb158cf28754f52d6abc50e5df37302e97005583c6ae1257a3">V_PARAMETER</a> and <a href="#a238692c76adb8cefb158cf28754f52d6ab238d5b991ac184d0de8dca5478f5e5c">V_VARIABLE</a>.</p>
+
 </div>
 </div>
 
@@ -3907,12 +4013,14 @@ References <a href="/web-doxygen/docs/api/structs/argument/#a5d6cd35aa392b1703ac
 </div>
 <div class="doxyMemberDoc">
 
-fortran parsing states
+<p>fortran parsing states</p>
 
 
-comment parsing states prototype parsing
+<p>comment parsing states prototype parsing</p>
 
-Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+
+<p>Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5276,7 +5384,8 @@ Definition at line 369 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 2851 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 2851 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5339,7 +5448,8 @@ Definition at line 2851 of file <a href="/web-doxygen/docs/api/files/src/fortran
 </dd>
 </dl>
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5351,7 +5461,8 @@ Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBlock</a>.
+<p>Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBlock</a>.</p>
+
 </div>
 </div>
 
@@ -5391,7 +5502,8 @@ Referenced by <a href="#a6c5f6e8cda9aa291a041f511f3a2329a">subrHandleCommentBloc
 </dd>
 </dl>
 
-Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5403,7 +5515,8 @@ Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-Referenced by <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>.
+<p>Referenced by <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>.</p>
+
 </div>
 </div>
 
@@ -5433,7 +5546,8 @@ Referenced by <a href="#a521d11026f20bc253b154ffec71d4748">applyModifiers</a>.
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5442,7 +5556,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 </div>
 
 
-Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a href="#abed27cdfdbc0b2f7e850aff746420010">addSubprogram</a> and <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>.
+<p>Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a href="#abed27cdfdbc0b2f7e850aff746420010">addSubprogram</a> and <a href="#aa6551ba715391111267db3d5e8a3ead4">handleCommentBlock</a>.</p>
+
 </div>
 </div>
 
@@ -5466,7 +5581,8 @@ Referenced by <a href="#a4ad5866bbc8d144423fe0e3f54ecb0cf">addModule</a>, <a hre
 
 
 
-Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5475,7 +5591,8 @@ Definition at line 264 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 </div>
 
 
-Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.
+<p>Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a> and <a href="#a4481d3eae9a04af883d868f23c4cbffc">parseMain</a>.</p>
+
 </div>
 </div>
 
@@ -5499,7 +5616,8 @@ Referenced by <a href="#a5c191151631efdf0d25fc7967f6b0434">endScope</a> and <a h
 
 
 
-Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5530,7 +5648,8 @@ Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/fortrans
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5561,7 +5680,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5592,7 +5712,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 
 
 
-Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -5623,7 +5744,8 @@ Definition at line 48 of file <a href="/web-doxygen/docs/api/files/src/fortransc
 
 
 
-Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.
+<p>Definition at line 263 of file <a href="/web-doxygen/docs/api/files/src/fortranscanner-l">fortranscanner.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

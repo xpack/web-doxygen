@@ -50,7 +50,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a>
+<p>Helper class to deal with recoding the UTF8 encoded text back to the native encoding specified by CHM_INDEX_ENCODING. <a href="/web-doxygen/docs/api/classes/htmlhelprecoder/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ Helper class to deal with recoding the UTF8 encoded text back to the native enco
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a field in the HTML help index. <a href="/web-doxygen/docs/api/structs/indexfield/#details">More...</a>
+<p>Class representing a field in the HTML help index. <a href="/web-doxygen/docs/api/structs/indexfield/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ Class representing a field in the HTML help index. <a href="/web-doxygen/docs/ap
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#details">More...</a>
+<p>A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a> that manages a two level index in alphabetical order. <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -162,7 +162,8 @@ A helper class for <a href="/web-doxygen/docs/api/classes/htmlhelp">HtmlHelp</a>
 
 
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,9 +197,11 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aecf8b66312c4e97333219cc344c11a4f">QCString::left</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773a8f5949d7908575996e71">HtmlHelpIndex::writeFields</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773a8f5949d7908575996e71">HtmlHelpIndex::writeFields</a>.</p>
+
 </div>
 </div>
 
@@ -227,7 +230,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773
 
 
 
-Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.
+<p>Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp-cpp">htmlhelp.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,9 +249,11 @@ Definition at line 174 of file <a href="/web-doxygen/docs/api/files/src/htmlhelp
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/structs/indexfield/#a9de1890d236dd42b05b310638cfeda4b">IndexField::anchor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/indexfield/#a9cc482f75f35d70933dad31551f31b45">IndexField::reversed</a> and <a href="/web-doxygen/docs/api/structs/indexfield/#acc522969a4da3f635cce4bf571fdc9a0">IndexField::url</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/util-cpp/#afeb116177e3265cffe5a3b810461194f">addHtmlExtensionIfMissing</a>, <a href="/web-doxygen/docs/api/structs/indexfield/#a9de1890d236dd42b05b310638cfeda4b">IndexField::anchor</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/structs/indexfield/#a9cc482f75f35d70933dad31551f31b45">IndexField::reversed</a> and <a href="/web-doxygen/docs/api/structs/indexfield/#acc522969a4da3f635cce4bf571fdc9a0">IndexField::url</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773a8f5949d7908575996e71">HtmlHelpIndex::writeFields</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlhelpindex/#a90f49f18773a8f5949d7908575996e71">HtmlHelpIndex::writeFields</a>.</p>
+
 </div>
 </div>
 

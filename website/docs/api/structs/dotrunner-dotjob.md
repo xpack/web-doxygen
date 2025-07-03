@@ -116,7 +116,8 @@ struct DotRunner::DotJob { ... }
 </table>
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -147,7 +148,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -158,7 +160,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-References <a href="#a284bc72ec45301a1c71be91703b14804">args</a>, <a href="#ab3525cce452b97f164124087daa1effa">format</a>, <a href="#ac330a07bfab962e723705d34cdcd5523">output</a>, <a href="#a70867e817fefc8d0256ddfd46755fb18">srcFile</a> and <a href="#accd9d44128000a607e4fdd9887ff0d84">srcLine</a>.
+<p>References <a href="#a284bc72ec45301a1c71be91703b14804">args</a>, <a href="#ab3525cce452b97f164124087daa1effa">format</a>, <a href="#ac330a07bfab962e723705d34cdcd5523">output</a>, <a href="#a70867e817fefc8d0256ddfd46755fb18">srcFile</a> and <a href="#accd9d44128000a607e4fdd9887ff0d84">srcLine</a>.</p>
+
 </div>
 </div>
 
@@ -188,7 +191,8 @@ References <a href="#a284bc72ec45301a1c71be91703b14804">args</a>, <a href="#ab35
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -197,7 +201,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
+<p>Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.</p>
+
 </div>
 </div>
 
@@ -221,7 +226,8 @@ Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -230,7 +236,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
+<p>Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.</p>
+
 </div>
 </div>
 
@@ -254,7 +261,8 @@ Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -263,7 +271,8 @@ Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
+<p>Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.</p>
+
 </div>
 </div>
 
@@ -287,7 +296,8 @@ Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -296,7 +306,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
+<p>Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.</p>
+
 </div>
 </div>
 
@@ -320,7 +331,8 @@ Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotrunner-h">dotrunner.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -329,7 +341,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/dotrunner
 </div>
 
 
-Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.
+<p>Referenced by <a href="#afa711ef27642b2857ce38c2c96d0e289">DotJob</a>.</p>
+
 </div>
 </div>
 

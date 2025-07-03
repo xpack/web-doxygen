@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `utf8.h` File Reference
 
-Various UTF8 related helper functions. <a href="#details">More...</a>
+<p>Various UTF8 related helper functions. <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -36,7 +36,7 @@ Various UTF8 related helper functions. <a href="#details">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Converts the input string into a lower case version, also taking into account non-ASCII characters that has a lower case variant. <a href="#a90000b3876f8ff0fed72d2c31ecdfe11">More...</a>
+<p>Converts the input string into a lower case version, also taking into account non-ASCII characters that has a lower case variant. <a href="#a90000b3876f8ff0fed72d2c31ecdfe11">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ Converts the input string into a lower case version, also taking into account no
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Converts the input string into a upper case version, also taking into account non-ASCII characters that has a upper case variant. <a href="#a2027564d4381eb6e539320ee8b2e0bcd">More...</a>
+<p>Converts the input string into a upper case version, also taking into account non-ASCII characters that has a upper case variant. <a href="#a2027564d4381eb6e539320ee8b2e0bcd">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ Converts the input string into a upper case version, also taking into account no
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the UTF8 character found at byte position pos in the input string. <a href="#ac0c19c2bb475bc6f27dbf06345c865a3">More...</a>
+<p>Returns the UTF8 character found at byte position pos in the input string. <a href="#ac0c19c2bb475bc6f27dbf06345c865a3">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -78,7 +78,7 @@ Returns the UTF8 character found at byte position pos in the input string. <a hr
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the 32bit Unicode value matching character at byte position pos in the UTF8 encoded input. <a href="#a83a5739b379d70400986a723aefd42b0">More...</a>
+<p>Returns the 32bit Unicode value matching character at byte position pos in the UTF8 encoded input. <a href="#a83a5739b379d70400986a723aefd42b0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,7 @@ Returns the 32bit Unicode value matching character at byte position pos in the U
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns the number of bytes making up a single UTF8 character given the first byte in the sequence. <a href="#adbde196779ff64a517b29179f3eaba7d">More...</a>
+<p>Returns the number of bytes making up a single UTF8 character given the first byte in the sequence. <a href="#adbde196779ff64a517b29179f3eaba7d">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -106,7 +106,7 @@ Returns the number of bytes making up a single UTF8 character given the first by
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Writes the UTF8 character pointed to by s to stream t and returns a pointer to the next character. <a href="#ae9de248ba9e19731fb682352dcbc1b3c">More...</a>
+<p>Writes the UTF8 character pointed to by s to stream t and returns a pointer to the next character. <a href="#ae9de248ba9e19731fb682352dcbc1b3c">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -120,7 +120,7 @@ Writes the UTF8 character pointed to by s to stream t and returns a pointer to t
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true iff the last character in input is a multibyte character. <a href="#a854871065a3ba8571af77887ebf7e8af">More...</a>
+<p>Returns true iff the last character in input is a multibyte character. <a href="#a854871065a3ba8571af77887ebf7e8af">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -134,7 +134,7 @@ Returns true iff the last character in input is a multibyte character. <a href="
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns true iff the input string at byte position pos holds an upper case character. <a href="#a3c47f3df6f4ebf0e04e0810d01c9b56f">More...</a>
+<p>Returns true iff the input string at byte position pos holds an upper case character. <a href="#a3c47f3df6f4ebf0e04e0810d01c9b56f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -148,7 +148,7 @@ Returns true iff the input string at byte position pos holds an upper case chara
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Check if the first character pointed at by input is a non-breakable whitespace character. <a href="#a8c217509aa52433aa63d199ef77968d5">More...</a>
+<p>Check if the first character pointed at by input is a non-breakable whitespace character. <a href="#a8c217509aa52433aa63d199ef77968d5">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -162,7 +162,7 @@ Check if the first character pointed at by input is a non-breakable whitespace c
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Check if the given Unicode character represents a punctuation character. <a href="#a562d68eff947d2e12b2b56800825e552">More...</a>
+<p>Check if the given Unicode character represents a punctuation character. <a href="#a562d68eff947d2e12b2b56800825e552">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -173,10 +173,11 @@ Check if the given Unicode character represents a punctuation character. <a href
 
 ## Description {#details}
 
-Various UTF8 related helper functions.
+<p>Various UTF8 related helper functions.</p>
 
 
-See <a href="https://en.wikipedia.org/wiki/UTF-8">https://en.wikipedia.org/wiki/UTF-8</a> for details on UTF8 encoding.
+<p>See <a href="https://en.wikipedia.org/wiki/UTF-8">https://en.wikipedia.org/wiki/UTF-8</a> for details on UTF8 encoding.</p>
+
 
 <div class="doxySectionDef">
 
@@ -200,9 +201,10 @@ See <a href="https://en.wikipedia.org/wiki/UTF-8">https://en.wikipedia.org/wiki/
 </div>
 <div class="doxyMemberDoc">
 
-Converts the input string into a lower case version, also taking into account non-ASCII characters that has a lower case variant.
+<p>Converts the input string into a lower case version, also taking into account non-ASCII characters that has a lower case variant.</p>
 
-Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -214,9 +216,11 @@ Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/debug-cpp/#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a7cbb154918671e6150695e6ea1bbcf6e">caseConvert</a> and <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a639df87d0846c7b6b01b931a51f06df2">convertUnicodeToLower</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/debug-cpp/#af99cca26392cb3f3834262a20381e399">asciiToLower</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a7cbb154918671e6150695e6ea1bbcf6e">caseConvert</a> and <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a639df87d0846c7b6b01b931a51f06df2">convertUnicodeToLower</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3bc658fa7fa77497e95213fd">SearchIndexInfo::add</a>, <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae88578ec6e295f">Index::addClassMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a79a8496dde56d56eadf905399ec62dcf">Index::addFileMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893122a2bcdd479b">Index::addModuleMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a638834a45c0d08559e4b0fc8bdb19b8b">Index::addNamespaceMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/filenamefn/#a2ebf0e60c327814650a598a75ab06e4c">FileNameFn::searchKey</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#aec66f0d2f6bb7fb2905bc14546af792b">SearchTerm::termEncoded</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a8ebfa2100dc76714c34b65372f8ce867">HtmlGenerator::writeLabel</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3bc658fa7fa77497e95213fd">SearchIndexInfo::add</a>, <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae88578ec6e295f">Index::addClassMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a79a8496dde56d56eadf905399ec62dcf">Index::addFileMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893122a2bcdd479b">Index::addModuleMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a638834a45c0d08559e4b0fc8bdb19b8b">Index::addNamespaceMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="/web-doxygen/docs/api/classes/filenamefn/#a2ebf0e60c327814650a598a75ab06e4c">FileNameFn::searchKey</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#aec66f0d2f6bb7fb2905bc14546af792b">SearchTerm::termEncoded</a> and <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a8ebfa2100dc76714c34b65372f8ce867">HtmlGenerator::writeLabel</a>.</p>
+
 </div>
 </div>
 
@@ -238,9 +242,10 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3
 </div>
 <div class="doxyMemberDoc">
 
-Converts the input string into a upper case version, also taking into account non-ASCII characters that has a upper case variant.
+<p>Converts the input string into a upper case version, also taking into account non-ASCII characters that has a upper case variant.</p>
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 192 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -252,9 +257,11 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a6f2cbdfe21c54dae5ec48e71d7009c4d">asciiToUpper</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a7cbb154918671e6150695e6ea1bbcf6e">caseConvert</a> and <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a45451c516f2c29857ee914a24f0d098a">convertUnicodeToUpper</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a6f2cbdfe21c54dae5ec48e71d7009c4d">asciiToUpper</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a7cbb154918671e6150695e6ea1bbcf6e">caseConvert</a> and <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a45451c516f2c29857ee914a24f0d098a">convertUnicodeToUpper</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a79183abb76d0033">Translator::createNoun</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a113ff6fe5b14585eebdcafbf2fe88cc4">QCString::upper</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#af38aa297b15715ebca7acecf3144d839">writeAlphabeticalClassList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a79183abb76d0033">Translator::createNoun</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a113ff6fe5b14585eebdcafbf2fe88cc4">QCString::upper</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#af38aa297b15715ebca7acecf3144d839">writeAlphabeticalClassList</a>.</p>
+
 </div>
 </div>
 
@@ -276,9 +283,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1
 </div>
 <div class="doxyMemberDoc">
 
-Returns the 32bit Unicode value matching character at byte position pos in the UTF8 encoded input.
+<p>Returns the 32bit Unicode value matching character at byte position pos in the UTF8 encoded input.</p>
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -292,9 +300,11 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a62db715498978c35a035b241e6ebdafb">convertUTF8CharToUnicode</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a62db715498978c35a035b241e6ebdafb">convertUTF8CharToUnicode</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>.</p>
+
 </div>
 </div>
 
@@ -316,12 +326,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf
 </div>
 <div class="doxyMemberDoc">
 
-Returns the UTF8 character found at byte position pos in the input string.
+<p>Returns the UTF8 character found at byte position pos in the input string.</p>
 
 
-The resulting string can be a multi byte sequence.
+<p>The resulting string can be a multi byte sequence.</p>
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -336,9 +348,11 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#aaca02fb609a02d6006c4ae5d02a20b9b">getUTF8CharNumBytes</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#aaca02fb609a02d6006c4ae5d02a20b9b">getUTF8CharNumBytes</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3bc658fa7fa77497e95213fd">SearchIndexInfo::add</a>, <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae88578ec6e295f">Index::addClassMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a79a8496dde56d56eadf905399ec62dcf">Index::addFileMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893122a2bcdd479b">Index::addModuleMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a638834a45c0d08559e4b0fc8bdb19b8b">Index::addNamespaceMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a79183abb76d0033">Translator::createNoun</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a83a5739b379d70400986a723aefd42b0">getUnicodeForUTF8CharAt</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#af38aa297b15715ebca7acecf3144d839">writeAlphabeticalClassList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3bc658fa7fa77497e95213fd">SearchIndexInfo::add</a>, <a href="/web-doxygen/docs/api/classes/index/#a1153de637b2551bc2ae88578ec6e295f">Index::addClassMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a79a8496dde56d56eadf905399ec62dcf">Index::addFileMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a90c09c50cfa52cf8893122a2bcdd479b">Index::addModuleMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/index/#a638834a45c0d08559e4b0fc8bdb19b8b">Index::addNamespaceMemberNameToIndex</a>, <a href="/web-doxygen/docs/api/classes/translator/#a087f8254bcdad1c3a79183abb76d0033">Translator::createNoun</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a83a5739b379d70400986a723aefd42b0">getUnicodeForUTF8CharAt</a> and <a href="/web-doxygen/docs/api/files/src/index-cpp/#af38aa297b15715ebca7acecf3144d839">writeAlphabeticalClassList</a>.</p>
+
 </div>
 </div>
 
@@ -360,9 +374,10 @@ Referenced by <a href="/web-doxygen/docs/api/structs/searchindexinfo/#a52b5729b3
 </div>
 <div class="doxyMemberDoc">
 
-Returns the number of bytes making up a single UTF8 character given the first byte in the sequence.
+<p>Returns the number of bytes making up a single UTF8 character given the first byte in the sequence.</p>
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -399,7 +414,8 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaffed37cb5d8467824e24fe6132ec1b6">nextUTF8CharPosition</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>, <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ac0c19c2bb475bc6f27dbf06345c865a3">getUTF8CharAt</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaffed37cb5d8467824e24fe6132ec1b6">nextUTF8CharPosition</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.</p>
+
 </div>
 </div>
 
@@ -421,9 +437,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d909
 </div>
 <div class="doxyMemberDoc">
 
-Returns true iff the input string at byte position pos holds an upper case character.
+<p>Returns true iff the input string at byte position pos holds an upper case character.</p>
 
-Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -440,9 +457,11 @@ Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a639df87d0846c7b6b01b931a51f06df2">convertUnicodeToLower</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a62db715498978c35a035b241e6ebdafb">convertUTF8CharToUnicode</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a639df87d0846c7b6b01b931a51f06df2">convertUnicodeToLower</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#a62db715498978c35a035b241e6ebdafb">convertUTF8CharToUnicode</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10f70c306f913cc9de81a441">DefinitionImpl::\_setBriefDescription</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10f70c306f913cc9de81a441">DefinitionImpl::_setBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -464,12 +483,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 </div>
 <div class="doxyMemberDoc">
 
-Check if the first character pointed at by input is a non-breakable whitespace character.
+<p>Check if the first character pointed at by input is a non-breakable whitespace character.</p>
 
 
-Returns the byte size of the character if there is match or 0 if not.
+<p>Returns the byte size of the character if there is match or 0 if not.</p>
 
-Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+
+<p>Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -482,7 +503,8 @@ Declaration at line 70 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>.</p>
+
 </div>
 </div>
 
@@ -504,9 +526,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d909
 </div>
 <div class="doxyMemberDoc">
 
-Check if the given Unicode character represents a punctuation character.
+<p>Check if the given Unicode character represents a punctuation character.</p>
 
-Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -519,9 +542,11 @@ Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a13534af4c55105afe07d4590d28b3599">isPunctuationCharacter</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/caseconvert-h/#a13534af4c55105afe07d4590d28b3599">isPunctuationCharacter</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf46d474a3baea1642fe756bd">AnchorGenerator::generate</a>.</p>
+
 </div>
 </div>
 
@@ -543,9 +568,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/anchorgenerator/#a557525dbf
 </div>
 <div class="doxyMemberDoc">
 
-Returns true iff the last character in input is a multibyte character.
+<p>Returns true iff the last character in input is a multibyte character.</p>
 
-Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -558,7 +584,8 @@ Declaration at line 62 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10f70c306f913cc9de81a441">DefinitionImpl::\_setBriefDescription</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10f70c306f913cc9de81a441">DefinitionImpl::_setBriefDescription</a>.</p>
+
 </div>
 </div>
 
@@ -580,9 +607,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#a6186d18c10
 </div>
 <div class="doxyMemberDoc">
 
-Writes the UTF8 character pointed to by s to stream t and returns a pointer to the next character.
+<p>Writes the UTF8 character pointed to by s to stream t and returns a pointer to the next character.</p>
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">utf8.h</a>, definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/utf8-cpp">utf8.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -604,9 +632,11 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/utf8-h">
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#aaca02fb609a02d6006c4ae5d02a20b9b">getUTF8CharNumBytes</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aaa78941b7f04d95ca3be7d11073828f0">TextStream::write</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#aaca02fb609a02d6006c4ae5d02a20b9b">getUTF8CharNumBytes</a> and <a href="/web-doxygen/docs/api/classes/textstream/#aaa78941b7f04d95ca3be7d11073828f0">TextStream::write</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a0941dd0ea229339847ef6604ea6b8003">HtmlCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/mancodegenerator/#a370900ffa665f2d187c9d87571de2fdf">ManCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#acaccd6e77d3f7f597669a7c541b623a1">RTFCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a960b5f05edbdfd2ab749e6f1358fdfa0">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af173fc80e34a6372764c46d3cf4c7758">HtmlDocVisitor::writeObfuscatedMailAddress</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ada36c272aa3f598b74e0acb33b19b860">writeXMLCodeString</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/htmlcodegenerator/#a0941dd0ea229339847ef6604ea6b8003">HtmlCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/mancodegenerator/#a370900ffa665f2d187c9d87571de2fdf">ManCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/rtfcodegenerator/#acaccd6e77d3f7f597669a7c541b623a1">RTFCodeGenerator::codify</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a960b5f05edbdfd2ab749e6f1358fdfa0">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#af173fc80e34a6372764c46d3cf4c7758">HtmlDocVisitor::writeObfuscatedMailAddress</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ada36c272aa3f598b74e0acb33b19b860">writeXMLCodeString</a>.</p>
+
 </div>
 </div>
 

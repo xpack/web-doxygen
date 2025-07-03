@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a string buffer optimized for growing. <a href="/web-doxygen/docs/api/classes/growbuf/#details">More...</a>
+<p>Class representing a string buffer optimized for growing. <a href="/web-doxygen/docs/api/classes/growbuf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -91,7 +91,8 @@ Class representing a string buffer optimized for growing. <a href="/web-doxygen/
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -100,7 +101,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#ac2a971c747abdd4cb7cb038a3e27197b">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#adba54aa237c8f30b40a9f7fe28226f58">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a> and <a href="/web-doxygen/docs/api/classes/growbuf/#afb4b38e6520d3bf3a77a38e17ce669da">GrowBuf::addStr</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#ac2a971c747abdd4cb7cb038a3e27197b">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#adba54aa237c8f30b40a9f7fe28226f58">GrowBuf::addStr</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a5e0ff6d9f7a7139725d77a9d669340f3">GrowBuf::addStr</a> and <a href="/web-doxygen/docs/api/classes/growbuf/#afb4b38e6520d3bf3a77a38e17ce669da">GrowBuf::addStr</a>.</p>
+
 </div>
 </div>
 

@@ -271,9 +271,11 @@ class FormulaManager { ... }
 
 
 
-Manager class to handle formulas
+<p>Manager class to handle formulas</p>
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
+
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -299,7 +301,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/formula-h
 
 
 
-Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,9 +313,11 @@ Declaration at line 88 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="#ab5c33a247a1b081414e3350552beb6ee">instance</a>.
+
+<p>Referenced by <a href="#ab5c33a247a1b081414e3350552beb6ee">instance</a>.</p>
+
 </div>
 </div>
 
@@ -342,7 +347,8 @@ Referenced by <a href="#ab5c33a247a1b081414e3350552beb6ee">instance</a>.
 
 
 
-Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 553 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 553 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -432,9 +438,11 @@ Declaration at line 86 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="#a0f96928dbcf6279d70d38ee11b35ea55">createLatexFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f788807da125c5433670c59d393">generateFormula</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="#a0f96928dbcf6279d70d38ee11b35ea55">createLatexFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f788807da125c5433670c59d393">generateFormula</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/threadpool/#a90398abffcd9d81901195160315b1bc9">ThreadPool::queue</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#aef1d730d619e5441ab6206a8fd5b1a45">generateImages</a>.
+
+<p>Referenced by <a href="#aef1d730d619e5441ab6206a8fd5b1a45">generateImages</a>.</p>
+
 </div>
 </div>
 
@@ -458,7 +466,8 @@ Referenced by <a href="#aef1d730d619e5441ab6206a8fd5b1a45">generateImages</a>.
 
 
 
-Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 184 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -522,9 +531,11 @@ Declaration at line 87 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="#a417a154a8ce0abdc51353d4475005419aa18366b217ebf811ad1886e4f4f865b2">Dark</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a907937b613a56aa4124608b3a092b820">TextStream::flush</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="#aa538ca4ffea4dd937920ebdd41222e69a57dea6f5039281b7fee517fc43bf3110">Vector</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ace2411e2a91d0794515d7319a05a96e4">writeExtraLatexPackages</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#afb096be4b2c37adc54becb763cc99470">writeLatexSpecialFormulaChars</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="#a417a154a8ce0abdc51353d4475005419aa18366b217ebf811ad1886e4f4f865b2">Dark</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/textstream/#a907937b613a56aa4124608b3a092b820">TextStream::flush</a>, <a href="/web-doxygen/docs/api/classes/doxygen/#a91aa9805ef52783816d9da5e457b8cfb">Doxygen::indexList</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a230fceefc8f9abd1e8d4be71d7eef281">Portable::openOutputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="#aa538ca4ffea4dd937920ebdd41222e69a57dea6f5039281b7fee517fc43bf3110">Vector</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ace2411e2a91d0794515d7319a05a96e4">writeExtraLatexPackages</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#afb096be4b2c37adc54becb763cc99470">writeLatexSpecialFormulaChars</a>.</p>
 
-Referenced by <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>.
+
+<p>Referenced by <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>.</p>
+
 </div>
 </div>
 
@@ -554,7 +565,8 @@ Referenced by <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -563,7 +575,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/formula-h
 </div>
 
 
-Referenced by <a href="#a263c84263295a94dd1593d39f2c435f5">addFormula</a>, <a href="#a9ff2d153c001e2b9d9b054200d34c6a2">checkRepositories</a>, <a href="#a5a181349991e3e72a331b231c9c25f8b">clear</a>, <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>, <a href="#a0f96928dbcf6279d70d38ee11b35ea55">createLatexFile</a>, <a href="#aa15bea658260218b4b6c3193df2c5856">findFormula</a>, <a href="#a13fd2eedbb1c7f086bd66cbd6e049911">FormulaManager</a>, <a href="#aef1d730d619e5441ab6206a8fd5b1a45">generateImages</a>, <a href="#a4b5c2d7e0c8001ae48514de0b468eb87">hasFormulas</a> and <a href="#a10998c967b5e151acf3dad299deb0bc9">initFromRepository</a>.
+<p>Referenced by <a href="#a263c84263295a94dd1593d39f2c435f5">addFormula</a>, <a href="#a9ff2d153c001e2b9d9b054200d34c6a2">checkRepositories</a>, <a href="#a5a181349991e3e72a331b231c9c25f8b">clear</a>, <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>, <a href="#a0f96928dbcf6279d70d38ee11b35ea55">createLatexFile</a>, <a href="#aa15bea658260218b4b6c3193df2c5856">findFormula</a>, <a href="#a13fd2eedbb1c7f086bd66cbd6e049911">FormulaManager</a>, <a href="#aef1d730d619e5441ab6206a8fd5b1a45">generateImages</a>, <a href="#a4b5c2d7e0c8001ae48514de0b468eb87">hasFormulas</a> and <a href="#a10998c967b5e151acf3dad299deb0bc9">initFromRepository</a>.</p>
+
 </div>
 </div>
 
@@ -598,7 +611,8 @@ Referenced by <a href="#a263c84263295a94dd1593d39f2c435f5">addFormula</a>, <a hr
 
 
 
-Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -611,9 +625,11 @@ Declaration at line 61 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Reference <a href="#a13fd2eedbb1c7f086bd66cbd6e049911">FormulaManager</a>.
+<p>Reference <a href="#a13fd2eedbb1c7f086bd66cbd6e049911">FormulaManager</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f0606e5f8d93daecd7d5babee1d">addFormula</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c93681ddf0a9bc2e961053">DocFormula::DocFormula</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f0606e5f8d93daecd7d5babee1d">addFormula</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>, <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c93681ddf0a9bc2e961053">DocFormula::DocFormula</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -666,7 +682,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f060
 </dd>
 </dl>
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -697,7 +714,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/formula-h
 
 
 
-Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 636 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -753,9 +771,11 @@ Declaration at line 82 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config\_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config\_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a>, <a href="#a417a154a8ce0abdc51353d4475005419aa18366b217ebf811ad1886e4f4f865b2">Dark</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#af69e3949475014dcdbd504d742bdf270">FileInfo::absFilePath</a>, <a href="/web-doxygen/docs/api/classes/dir/#a226b0db1117e46393bbb241e545f8609">Dir::absPath</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a737741e6991bdb5694a50075437a9d89">Config_getString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad35d4038b3882fdd09976d28f4a043bf">copyFile</a>, <a href="#ab24723d7cedd2c780f895fea971fb484">createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a>, <a href="#a417a154a8ce0abdc51353d4475005419aa18366b217ebf811ad1886e4f4f865b2">Dark</a>, <a href="/web-doxygen/docs/api/classes/dir/#ac6bf80b5b3a034e8c144c86ef48ae309">Dir::exists</a>, <a href="/web-doxygen/docs/api/classes/fileinfo/#a8ae2069796787d27306bb49bd70e3e3a">FileInfo::fileName</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daaa4539102b2cba0227fb56f4fd90e997">Debug::Formula</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="#a417a154a8ce0abdc51353d4475005419a9914a0ce04a7b7b6a8e39bec55064b82">Light</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/classes/dir/#a5a64060f8e1731e8f00da7e8f7051e4b">Dir::remove</a>, <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#acdcc4bcb46c31bcfda7ef3e2364b9264">term</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -802,7 +822,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 </dd>
 </dl>
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -856,7 +877,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/formula-h
 </dd>
 </dl>
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -893,7 +915,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/formula-h
 
 
 
-Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 173 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -911,9 +934,11 @@ Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="#a5a181349991e3e72a331b231c9c25f8b">clear</a> and <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>References <a href="#a5a181349991e3e72a331b231c9c25f8b">clear</a> and <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -937,7 +962,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 
 
 
-Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1057,9 +1083,11 @@ Declaration at line 65 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/formula/#ae4b7648ae0124da8456fa2c8e51991ba">Formula::id</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/formula/#ab1e3947577b724a83ee9f51124abc71e">Formula::setCached</a>, <a href="/web-doxygen/docs/api/classes/formula/#a3a025efe9a3c4850b11efd9f5905213e">Formula::setCachedDark</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/formula/#a67b9ebbbe7e4814eb09bbf734af69b0e">Formula::text</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn\_uncond</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/fileinfo/#a47d49db8cb8797153885c4d5b7b0911f">FileInfo::exists</a>, <a href="/web-doxygen/docs/api/classes/formula/#ae4b7648ae0124da8456fa2c8e51991ba">Formula::id</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/namespaces/portable/#a0579eaf8c245a77f1e804a3cf1b0aa73">Portable::openInputStream</a>, <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>, <a href="/web-doxygen/docs/api/files/src/anchor-cpp/#a85ba602a660bdb3bbeb43cc600de3008">prefix</a>, <a href="/web-doxygen/docs/api/namespaces/reg/#a168f937e54607f4cf5597fa8e5aabcb7">reg::search</a>, <a href="/web-doxygen/docs/api/classes/formula/#ab1e3947577b724a83ee9f51124abc71e">Formula::setCached</a>, <a href="/web-doxygen/docs/api/classes/formula/#a3a025efe9a3c4850b11efd9f5905213e">Formula::setCachedDark</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>, <a href="/web-doxygen/docs/api/classes/formula/#a67b9ebbbe7e4814eb09bbf734af69b0e">Formula::text</a> and <a href="/web-doxygen/docs/api/files/src/message-h/#a57260e9c056d53af9794da5e7a11b522">warn_uncond</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -1089,7 +1117,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 
 
 
-Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 691 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1110,9 +1139,11 @@ Declaration at line 72 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/formula/#ae4b7648ae0124da8456fa2c8e51991ba">Formula::id</a> and <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/formula/#ae4b7648ae0124da8456fa2c8e51991ba">Formula::id</a> and <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f0606e5f8d93daecd7d5babee1d">addFormula</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f0606e5f8d93daecd7d5babee1d">addFormula</a>.</p>
+
 </div>
 </div>
 
@@ -1136,7 +1167,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad7328f060
 
 
 
-Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 685 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1149,9 +1181,11 @@ Declaration at line 71 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="#a9ff2d153c001e2b9d9b054200d34c6a2">checkRepositories</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>.
+
+<p>Referenced by <a href="#a9ff2d153c001e2b9d9b054200d34c6a2">checkRepositories</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#ae12e94f5218f3afc8df4086a2121cd4d">cleanUpDoxygen</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a798729dca95209ecdc609807a653a2bf">clearAll</a>.</p>
+
 </div>
 </div>
 
@@ -1175,7 +1209,8 @@ Referenced by <a href="#a9ff2d153c001e2b9d9b054200d34c6a2">checkRepositories</a>
 
 
 
-Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 705 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1188,9 +1223,11 @@ Declaration at line 73 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c93681ddf0a9bc2e961053">DocFormula::DocFormula</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c93681ddf0a9bc2e961053">DocFormula::DocFormula</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#aa9e3a7cf34aceba68750ff3ff94acf34">HtmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -1214,7 +1251,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docformula/#ae40d1dafb6c936
 
 
 
-Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.
+<p>Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/formula-h">formula.h</a>, definition at line 720 of file <a href="/web-doxygen/docs/api/files/src/formula-cpp">formula.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1226,9 +1264,11 @@ Declaration at line 74 of file <a href="/web-doxygen/docs/api/files/src/formula-
 </div>
 
 
-Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.
+<p>Reference <a href="#ad6efed826faf400f0c45b49d7dd79f0d">p</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 

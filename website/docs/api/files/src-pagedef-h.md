@@ -35,7 +35,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-A model of a page symbol. <a href="/web-doxygen/docs/api/classes/pagedef/#details">More...</a>
+<p>A model of a page symbol. <a href="/web-doxygen/docs/api/classes/pagedef/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -140,7 +140,8 @@ A model of a page symbol. <a href="/web-doxygen/docs/api/classes/pagedef/#detail
 
 
 
-Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
+<p>Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -152,7 +153,8 @@ Declaration at line 59 of file <a href="/web-doxygen/docs/api/files/src/pagedef-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a30ee606c499f8b58ed709177dad09e66">PageDef::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad0c3ffb33cd6ae914d3e4013f2f142a">buildExampleList</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39e9eba3a381563cc8aa">addRelatedPage</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a30ee606c499f8b58ed709177dad09e66">PageDef::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#aad0c3ffb33cd6ae914d3e4013f2f142a">buildExampleList</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a9807194e65b4cbe485854d383aabdb21">findMainPage</a>.</p>
+
 </div>
 </div>
 
@@ -176,7 +178,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#abf3cf996188e39
 
 
 
-Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
+<p>Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 490 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,7 +199,8 @@ Declaration at line 63 of file <a href="/web-doxygen/docs/api/files/src/pagedef-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a6816661fb10405e0d96f8">PageDefImpl::addInnerCompound</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a30ee606c499f8b58ed709177dad09e66">PageDef::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad4c47fcf278c5cb6b23e82b584413ee8">DefinitionImpl::navigationPathAsString</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#af8538fc61fb952e7681b9804247edc13">DefinitionImpl::pathFragment</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac8f6bb104126c1406d2d6e5ad368822c">SearchIndex::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a6816661fb10405e0d96f8">PageDefImpl::addInnerCompound</a>, <a href="/web-doxygen/docs/api/classes/pagedef/#a30ee606c499f8b58ed709177dad09e66">PageDef::addSectionsToIndex</a>, <a href="/web-doxygen/docs/api/structs/searchterm/#ac882a4444faaec272c4a80c69bc40035">SearchTerm::makeTitle</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#ad4c47fcf278c5cb6b23e82b584413ee8">DefinitionImpl::navigationPathAsString</a>, <a href="/web-doxygen/docs/api/classes/definitionimpl/#af8538fc61fb952e7681b9804247edc13">DefinitionImpl::pathFragment</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac8f6bb104126c1406d2d6e5ad368822c">SearchIndex::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a> and <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>.</p>
+
 </div>
 </div>
 
@@ -220,7 +224,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/pagedefimpl/#a3d33500f80a68
 
 
 
-Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/pagedef-h">pagedef.h</a>, definition at line 503 of file <a href="/web-doxygen/docs/api/files/src/pagedef-cpp">pagedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

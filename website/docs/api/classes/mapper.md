@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Mapper` Class Template Reference
 
-Class representing a mapping from command names to command IDs. <a href="#details">More...</a>
+<p>Class representing a mapping from command names to command IDs. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -130,9 +130,10 @@ class Mapper&lt;T&gt; { ... }
 
 ## Description {#details}
 
-Class representing a mapping from command names to command IDs.
+<p>Class representing a mapping from command names to command IDs.</p>
 
-Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -164,7 +165,8 @@ Definition at line 249 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 
 
 
-Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +177,8 @@ Definition at line 272 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 </div>
 
 
-References <a href="#a8a747895235cc17c340acb12e4cb5f08">Mapper&lt; T &gt;::m\_cs</a> and <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m\_map</a>.
+<p>References <a href="#a8a747895235cc17c340acb12e4cb5f08">Mapper&lt; T &gt;::m_cs</a> and <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m_map</a>.</p>
+
 </div>
 </div>
 
@@ -211,7 +214,8 @@ References <a href="#a8a747895235cc17c340acb12e4cb5f08">Mapper&lt; T &gt;::m\_cs
 
 
 
-Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -229,7 +233,8 @@ Definition at line 261 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 </div>
 
 
-Reference <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m\_map</a>.
+<p>Reference <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m_map</a>.</p>
+
 </div>
 </div>
 
@@ -259,7 +264,8 @@ Reference <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m\_map
 
 
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -275,7 +281,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a8a747895235cc17c340acb12e4cb5f08">Mapper&lt; T &gt;::m\_cs</a>, <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m\_map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a33688239622e659cfb469fbd62c9cccb">QCString::lower</a>, <a href="#a8a747895235cc17c340acb12e4cb5f08">Mapper&lt; T &gt;::m_cs</a>, <a href="#a2f3859e81a89f14394b11e6058b42781">Mapper&lt; T &gt;::m_map</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -306,7 +313,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef
 
 
 
-Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -315,7 +323,8 @@ Definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 </div>
 
 
-Referenced by <a href="#aa80abfd581280947c7a3c5849b589465">Mapper&lt; T &gt;::map</a> and <a href="#a9e08cfb563a87ebb7d24488385d2e5ce">Mapper&lt; T &gt;::Mapper</a>.
+<p>Referenced by <a href="#aa80abfd581280947c7a3c5849b589465">Mapper&lt; T &gt;::map</a> and <a href="#a9e08cfb563a87ebb7d24488385d2e5ce">Mapper&lt; T &gt;::Mapper</a>.</p>
+
 </div>
 </div>
 
@@ -340,7 +349,8 @@ Referenced by <a href="#aa80abfd581280947c7a3c5849b589465">Mapper&lt; T &gt;::ma
 
 
 
-Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.
+<p>Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/cmdmapper-h">cmdmapper.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -349,7 +359,8 @@ Definition at line 277 of file <a href="/web-doxygen/docs/api/files/src/cmdmappe
 </div>
 
 
-Referenced by <a href="#a0c51e5339f1b28c60c731dcd11eb7184">Mapper&lt; T &gt;::find</a>, <a href="#aa80abfd581280947c7a3c5849b589465">Mapper&lt; T &gt;::map</a> and <a href="#a9e08cfb563a87ebb7d24488385d2e5ce">Mapper&lt; T &gt;::Mapper</a>.
+<p>Referenced by <a href="#a0c51e5339f1b28c60c731dcd11eb7184">Mapper&lt; T &gt;::find</a>, <a href="#aa80abfd581280947c7a3c5849b589465">Mapper&lt; T &gt;::map</a> and <a href="#a9e08cfb563a87ebb7d24488385d2e5ce">Mapper&lt; T &gt;::Mapper</a>.</p>
+
 </div>
 </div>
 

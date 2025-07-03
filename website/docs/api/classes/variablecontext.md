@@ -182,9 +182,11 @@ class VariableContext { ... }
 
 
 
-Represents a stack of variable to class mappings as found in the code. Each scope is enclosed in <a href="#ae1d858d3ad4778e79ac69a021474edab">pushScope()</a> and <a href="#a648ebfb9146a61b70dffe684aec77940">popScope()</a> calls. Variables are added by calling addVariables() and one can search for variable using <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable()</a>.
+<p>Represents a stack of variable to class mappings as found in the code. Each scope is enclosed in <a href="#ae1d858d3ad4778e79ac69a021474edab">pushScope()</a> and <a href="#a648ebfb9146a61b70dffe684aec77940">popScope()</a> calls. Variables are added by calling addVariables() and one can search for variable using <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable()</a>.</p>
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -210,7 +212,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -252,7 +255,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -265,7 +269,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 </div>
 
 
-References <a href="#a1d4e3ee5731c630df8133604b05b0213">m\_globalScope</a>, <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a1d4e3ee5731c630df8133604b05b0213">m_globalScope</a>, <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -294,7 +299,8 @@ References <a href="#a1d4e3ee5731c630df8133604b05b0213">m\_globalScope</a>, <a h
 
 
 
-Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -303,7 +309,8 @@ Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
+<p>Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a>.</p>
+
 </div>
 </div>
 
@@ -332,7 +339,8 @@ Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -345,7 +353,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 </div>
 
 
-References <a href="#a1d4e3ee5731c630df8133604b05b0213">m\_globalScope</a> and <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
+<p>References <a href="#a1d4e3ee5731c630df8133604b05b0213">m_globalScope</a> and <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a>.</p>
+
 </div>
 </div>
 
@@ -374,7 +383,8 @@ References <a href="#a1d4e3ee5731c630df8133604b05b0213">m\_globalScope</a> and <
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -386,7 +396,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 </div>
 
 
-Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
+<p>Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a>.</p>
+
 </div>
 </div>
 
@@ -415,7 +426,8 @@ Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -448,7 +460,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a1d4e3ee5731c630df8133604b05b0213">m\_globalScope</a>, <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a1d4e3ee5731c630df8133604b05b0213">m_globalScope</a>, <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -477,7 +490,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -492,7 +506,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 </div>
 
 
-Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
+<p>Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a>.</p>
+
 </div>
 </div>
 
@@ -521,7 +536,8 @@ Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -533,7 +549,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/scopedtyp
 </div>
 
 
-Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
+<p>Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m_scopes</a>.</p>
+
 </div>
 </div>
 
@@ -563,7 +580,8 @@ Reference <a href="#a63532cca1d69eba2ba0a0187a46ea164">m\_scopes</a>.
 
 
 
-Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -572,7 +590,8 @@ Definition at line 132 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="#a8ecf50e05c0af1f854d21a2d0574dbcf">addVariable</a>, <a href="#a37579e37d7d730884861f71a1b9f0439">clear</a> and <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable</a>.
+<p>Referenced by <a href="#a8ecf50e05c0af1f854d21a2d0574dbcf">addVariable</a>, <a href="#a37579e37d7d730884861f71a1b9f0439">clear</a> and <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable</a>.</p>
+
 </div>
 </div>
 
@@ -596,7 +615,8 @@ Referenced by <a href="#a8ecf50e05c0af1f854d21a2d0574dbcf">addVariable</a>, <a h
 
 
 
-Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -605,7 +625,8 @@ Definition at line 133 of file <a href="/web-doxygen/docs/api/files/src/scopedty
 </div>
 
 
-Referenced by <a href="#a8ecf50e05c0af1f854d21a2d0574dbcf">addVariable</a>, <a href="#a3b01492065b015f3b275ea2b9d02d2be">atGlobalScope</a>, <a href="#a37579e37d7d730884861f71a1b9f0439">clear</a>, <a href="#af762830da74924aa08900310e554e253">clearExceptGlobal</a>, <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable</a>, <a href="#a648ebfb9146a61b70dffe684aec77940">popScope</a> and <a href="#ae1d858d3ad4778e79ac69a021474edab">pushScope</a>.
+<p>Referenced by <a href="#a8ecf50e05c0af1f854d21a2d0574dbcf">addVariable</a>, <a href="#a3b01492065b015f3b275ea2b9d02d2be">atGlobalScope</a>, <a href="#a37579e37d7d730884861f71a1b9f0439">clear</a>, <a href="#af762830da74924aa08900310e554e253">clearExceptGlobal</a>, <a href="#aa4cfe2b318b52c33b4e28b5840275d85">findVariable</a>, <a href="#a648ebfb9146a61b70dffe684aec77940">popScope</a> and <a href="#ae1d858d3ad4778e79ac69a021474edab">pushScope</a>.</p>
+
 </div>
 </div>
 

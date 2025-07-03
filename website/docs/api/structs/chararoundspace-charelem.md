@@ -77,7 +77,8 @@ struct CharAroundSpace::CharElem { ... }
 </table>
 
 
-Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 566 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 
 
 
-Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 568 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 </div>
 
 
-References <a href="#a7d441df386dc9a623e1fceb6ecee09ca">after</a>, <a href="#a2cc8bd46084123643712f05b34127f0c">before</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a7d441df386dc9a623e1fceb6ecee09ca">after</a>, <a href="#a2cc8bd46084123643712f05b34127f0c">before</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a7d441df386dc9a623e1fceb6ecee09ca">after</a>, <a href="#a2c
 
 
 
-Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 </div>
 
 
-Referenced by <a href="#ab01c6ae03f06920e324860d571aab740">CharElem</a>.
+<p>Referenced by <a href="#ab01c6ae03f06920e324860d571aab740">CharElem</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#ab01c6ae03f06920e324860d571aab740">CharElem</a>.
 
 
 
-Definition at line 569 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.
+<p>Definition at line 569 of file <a href="/web-doxygen/docs/api/files/src/util-cpp">util.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 569 of file <a href="/web-doxygen/docs/api/files/src/util-cpp
 </div>
 
 
-Referenced by <a href="#ab01c6ae03f06920e324860d571aab740">CharElem</a>.
+<p>Referenced by <a href="#ab01c6ae03f06920e324860d571aab740">CharElem</a>.</p>
+
 </div>
 </div>
 

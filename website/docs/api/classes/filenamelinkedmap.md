@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `FileNameLinkedMap` Class Reference
 
-Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects. <a href="#details">More...</a>
+<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class FileNameLinkedMap { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a>
+<p>Container class representing a vector of objects with keys. <a href="/web-doxygen/docs/api/classes/linkedmap/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,9 +52,10 @@ Container class representing a vector of objects with keys. <a href="/web-doxyge
 
 ## Description {#details}
 
-Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects.
+<p>Ordered dictionary of <a href="/web-doxygen/docs/api/classes/filename">FileName</a> objects.</p>
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/filename-h">filename.h</a>.</p>
+
 
 <hr/>
 

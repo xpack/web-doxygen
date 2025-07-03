@@ -373,7 +373,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -415,7 +416,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l
 
 
 
-Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -450,7 +452,8 @@ Definition at line 1054 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a3b060f853a2545afc385b18ecc734473">nextCodeLine</a>.</p>
+
 </div>
 </div>
 
@@ -480,9 +483,11 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305e
 
 
 
-counts the number of lines in the input
+<p>counts the number of lines in the input</p>
 
-Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+
+<p>Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -534,7 +539,8 @@ Definition at line 1095 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 1031 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1031 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -549,7 +555,8 @@ Definition at line 1031 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.</p>
+
 </div>
 </div>
 
@@ -578,7 +585,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 
 
-Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -623,7 +631,8 @@ Definition at line 1021 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -659,7 +668,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/lexcode-
 
 
 
-Definition at line 1140 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1140 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -694,7 +704,8 @@ Definition at line 1140 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e252304f8b10f">codifyLines</a>.</p>
+
 </div>
 </div>
 
@@ -723,7 +734,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#a48a235cba4770aa3c63e
 
 
 
-Definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -769,7 +781,8 @@ Definition at line 1128 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -791,7 +804,8 @@ Definition at line 1039 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e3bd435f982d16">endCodeLine</a> and <a href="/web-doxygen/docs/api/files/src/code-l/#a47b0cd13a509f44e1a1032cbf4ad69ed">startCodeLine</a>.</p>
+
 </div>
 </div>
 
@@ -820,7 +834,8 @@ References <a href="/web-doxygen/docs/api/files/src/code-l/#a22b46d1ae6472d2565e
 
 
 
-Definition at line 953 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 953 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -843,7 +858,8 @@ Definition at line 953 of file <a href="/web-doxygen/docs/api/files/src/lexcode-
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902def93f814d07">Doxygen::searchIndex</a>.</p>
+
 </div>
 </div>
 
@@ -873,9 +889,11 @@ Reference <a href="/web-doxygen/docs/api/classes/doxygen/#ae3d8cc749e66634e3902d
 
 
 
-start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.
+<p>start a new line of code, inserting a line number if yyextra-&gt;sourceFileDef is true. If a definition starts at the current line, then the line number is linked to the documentation of that definition.</p>
 
-Definition at line 973 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+
+<p>Definition at line 973 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -930,7 +948,8 @@ Definition at line 973 of file <a href="/web-doxygen/docs/api/files/src/lexcode-
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>, <a href="/web-doxygen/docs/api/classes/definition/#aab5f8631606d43a73f371833eb6425ee">Definition::getReference</a>, <a href="/web-doxygen/docs/api/classes/definition/#afc4fb51052226ea23c2f51b6516a3525">Definition::name</a>, <a href="/web-doxygen/docs/api/files/src/code-l/#adbfcafb48c794e6885763cd94da51375">setCurrentDoc</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>.</p>
+
 </div>
 </div>
 
@@ -959,7 +978,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda20158
 
 
 
-Definition at line 1082 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1082 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -978,7 +998,8 @@ Definition at line 1082 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40323a1d10747f">endFontClass</a>.</p>
+
 </div>
 </div>
 
@@ -1007,7 +1028,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/code-l/#ab499eb5a5a3c5a6d6e40
 
 
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 </div>
 </div>
 
@@ -1031,7 +1053,8 @@ Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l
 
 
 
-Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1823,7 +1846,8 @@ Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/lexcode-
 
 
 
-Definition at line 1113 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 1113 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1873,7 +1897,8 @@ Definition at line 1113 of file <a href="/web-doxygen/docs/api/files/src/lexcode
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1904,7 +1929,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/lexcode-
 
 
 
-Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1935,7 +1961,8 @@ Definition at line 45 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1966,7 +1993,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1997,7 +2025,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/lexcode-l">lexcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

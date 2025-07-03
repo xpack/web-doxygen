@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `GrowBuf` Class Reference
 
-Class representing a string buffer optimized for growing. <a href="#details">More...</a>
+<p>Class representing a string buffer optimized for growing. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -374,9 +374,10 @@ class GrowBuf { ... }
 
 ## Description {#details}
 
-Class representing a string buffer optimized for growing.
+<p>Class representing a string buffer optimized for growing.</p>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -407,7 +408,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -416,9 +418,11 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
 
-Referenced by <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a> and <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a>.
+
+<p>Referenced by <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a> and <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a>.</p>
+
 </div>
 </div>
 
@@ -447,7 +451,8 @@ Referenced by <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href=
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -456,7 +461,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -485,7 +491,8 @@ References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -500,7 +507,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -529,7 +537,8 @@ References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#a
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -543,7 +552,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -578,7 +588,8 @@ References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#a
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -587,7 +598,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -622,7 +634,8 @@ Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -642,7 +655,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -671,7 +685,8 @@ References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#a
 
 
 
-Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -688,7 +703,8 @@ Definition at line 58 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -723,7 +739,8 @@ References <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#a
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -734,9 +751,11 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW\_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.</p>
+
 </div>
 </div>
 
@@ -765,7 +784,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b4
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -778,9 +798,11 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>.
+<p>Reference <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>.</p>
+
 </div>
 </div>
 
@@ -809,7 +831,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -826,9 +849,11 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW\_AMOUNT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
 
-Referenced by <a href="#a3c84320a57fe98375add64ad01e9bf3b">addInt</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.
+
+<p>Referenced by <a href="#a3c84320a57fe98375add64ad01e9bf3b">addInt</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.</p>
+
 </div>
 </div>
 
@@ -857,7 +882,8 @@ Referenced by <a href="#a3c84320a57fe98375add64ad01e9bf3b">addInt</a>, <a href="
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -874,7 +900,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW\_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -903,7 +930,8 @@ References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a4183
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -920,7 +948,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW\_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -949,7 +978,8 @@ References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a4183
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -967,7 +997,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW\_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a41830347ff1e73629fb3">GROW_AMOUNT</a>, <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a>, <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -996,7 +1027,8 @@ References <a href="/web-doxygen/docs/api/files/src/growbuf-h/#a8b0dc2f8685a4183
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1005,9 +1037,11 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>.</p>
+
 </div>
 </div>
 
@@ -1036,7 +1070,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1045,9 +1080,11 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a>.
+<p>Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a> and <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>.</p>
+
 </div>
 </div>
 
@@ -1076,7 +1113,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1085,7 +1123,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a>.
+<p>Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a>.</p>
+
 </div>
 </div>
 
@@ -1114,7 +1153,8 @@ Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a>.
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1123,9 +1163,11 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a775c9113434fedd520">convertCharEntitiesToUTF8</a>, <a href="/web-doxygen/docs/api/files/src/docbookgen-cpp/#a7c12b32b5b825c9fc989731c66ba1933">convertToDocBook</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a2a3368111f86b401c8f223cd7374b5ac">convertToHtml</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#af333eebf6d2862cf38a30e084bc36e0d">convertToId</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a7d7c9238115c2656c20621678519cb87">convertToJSString</a>, <a href="/web-doxygen/docs/api/files/src/diagram-cpp/#ab1778365304892c7a24196f356222b18">convertToPSString</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a93c7f78ab05807663dd8947d0dd5423f">convertToXML</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a9884211727d9091a08b34aa1fb14c9b1">detab</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a588c599deed30414ade1ed583a11827d">escapeCharsInString</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>, <a href="/web-doxygen/docs/api/files/src/docbookvisitor-cpp/#a2696c55cf5da503843057747b989140c">filterId</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a2f5320a8c0aa3d9f5af4129d7edda49c">HtmlDocVisitor::filterQuotedCdataAttr</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#a9f06f858b1cd97d3bc7b850a600b45be">formatDateTime</a>, <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a880152a6988921d6248a7640983bef9e">getConvertLatexMacro</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#af1366ac568f1a1620961826edd2e88e7">CitationManager::getFormulas</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a> and <a href="/web-doxygen/docs/api/files/src/htmlgen-cpp/#a2f3978430bdfefcb92e25f2da8854f45">replaceVariables</a>.</p>
+
 </div>
 </div>
 
@@ -1154,7 +1196,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#afb36c9b4d9962a
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1163,7 +1206,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -1192,7 +1236,8 @@ Reference <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1201,9 +1246,11 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a>.
+<p>Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a> and <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b44c02ff02fda01a1aa4f4fcbbded">SearchIndexExternal::addWord</a>, <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a> and <a href="/web-doxygen/docs/api/classes/docparser/#a4b7d1c2724099f28c4f3a4c56c52d912">DocParser::processCopyDoc</a>.</p>
+
 </div>
 </div>
 
@@ -1232,7 +1279,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a0a0b4
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1241,7 +1289,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h
 </div>
 
 
-References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m\_str</a>.
+<p>References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m_len</a> and <a href="#a94df360b36d76642c8ae017fa6d7e431">m_str</a>.</p>
+
 </div>
 </div>
 
@@ -1270,7 +1319,8 @@ References <a href="#ad5ec59f43c28c517b3f11dea3e2adab6">m\_len</a> and <a href="
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1279,9 +1329,11 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m\_pos</a>.
+<p>Reference <a href="#a2c1af45fdd1c692684b38dd54fcf1a6b">m_pos</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f2c5e750a453046fddfbbf06ad0">filter2008VhdlComment</a>.</p>
+
 </div>
 </div>
 
@@ -1311,7 +1363,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a5f369f
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1320,7 +1373,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a> and <a href="#a9a3aabf69cefb88ffc5bb7b88f86b933">reserve</a>.
+<p>Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a> and <a href="#a9a3aabf69cefb88ffc5bb7b88f86b933">reserve</a>.</p>
+
 </div>
 </div>
 
@@ -1344,7 +1398,8 @@ Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href=
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1353,7 +1408,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7aadcbc3d02fe6e01acf45d892cff0ba">clear</a>, <a href="#aa3d16113cdc8835afa7f836914db2289">empty</a>, <a href="#a1a0ecc7a79837ed02005befe12d49994">getPos</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a> and <a href="#a98f7e0590791e42fcbd31bdfd8c75d2a">setPos</a>.
+<p>Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7aadcbc3d02fe6e01acf45d892cff0ba">clear</a>, <a href="#aa3d16113cdc8835afa7f836914db2289">empty</a>, <a href="#a1a0ecc7a79837ed02005befe12d49994">getPos</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a> and <a href="#a98f7e0590791e42fcbd31bdfd8c75d2a">setPos</a>.</p>
+
 </div>
 </div>
 
@@ -1377,7 +1433,8 @@ Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href=
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/growbuf-h">growbuf.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1386,7 +1443,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/growbuf-
 </div>
 
 
-Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7208e5ca317711c8190cbdcfae8ab702">at</a>, <a href="#a88d6408723b8c1a58187f24da81dfd5e">get</a>, <a href="#a8291335fec63f39c9a021f40dcc15e93">get</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a>, <a href="#a9a3aabf69cefb88ffc5bb7b88f86b933">reserve</a> and <a href="#af7206ac4d12d20889037d545e6bab0d9">\~GrowBuf</a>.
+<p>Referenced by <a href="#a46b4677f555d2abc718f26e71a59efda">addChar</a>, <a href="#ac2a971c747abdd4cb7cb038a3e27197b">addStr</a>, <a href="#adba54aa237c8f30b40a9f7fe28226f58">addStr</a>, <a href="#a5e0ff6d9f7a7139725d77a9d669340f3">addStr</a>, <a href="#afb4b38e6520d3bf3a77a38e17ce669da">addStr</a>, <a href="#a7208e5ca317711c8190cbdcfae8ab702">at</a>, <a href="#a88d6408723b8c1a58187f24da81dfd5e">get</a>, <a href="#a8291335fec63f39c9a021f40dcc15e93">get</a>, <a href="#a7868767b69ab7f10f3a36da73e2f5e5f">GrowBuf</a>, <a href="#ab7adf8adf049747895150afb7c539d71">GrowBuf</a>, <a href="#a471132290014798c89965dd36b51e5bc">GrowBuf</a>, <a href="#af49b662ca5d8163601b91ad7f201e460">GrowBuf</a>, <a href="#a30ef5583d31934cffabff4fa837a9e84">operator=</a>, <a href="#ac7ef149390d72537bf9f2a1be9cc3baf">operator=</a>, <a href="#a9a3aabf69cefb88ffc5bb7b88f86b933">reserve</a> and <a href="#af7206ac4d12d20889037d545e6bab0d9">~GrowBuf</a>.</p>
+
 </div>
 </div>
 

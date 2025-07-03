@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Scope` Class Reference
 
-Contains names of used modules and names of local variables. <a href="#details">More...</a>
+<p>Contains names of used modules and names of local variables. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -36,7 +36,7 @@ class Scope { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-contains names of used modules <a href="#ae1f8159aa48746bb58e6724ff4a36619">More...</a>
+<p>contains names of used modules <a href="#ae1f8159aa48746bb58e6724ff4a36619">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ contains names of used modules <a href="#ae1f8159aa48746bb58e6724ff4a36619">More
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-contains names of local variables <a href="#aa482827cfef7e8fc106ac71e3abb1398">More...</a>
+<p>contains names of local variables <a href="#aa482827cfef7e8fc106ac71e3abb1398">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -64,7 +64,7 @@ contains names of local variables <a href="#aa482827cfef7e8fc106ac71e3abb1398">M
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-contains names of external entities <a href="#a5d33523531c274635347daf1d40ddc9a">More...</a>
+<p>contains names of external entities <a href="#a5d33523531c274635347daf1d40ddc9a">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -75,9 +75,10 @@ contains names of external entities <a href="#a5d33523531c274635347daf1d40ddc9a"
 
 ## Description {#details}
 
-Contains names of used modules and names of local variables.
+<p>Contains names of used modules and names of local variables.</p>
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -101,9 +102,10 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 <div class="doxyMemberDoc">
 
-contains names of external entities
+<p>contains names of external entities</p>
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -112,7 +114,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.</p>
+
 </div>
 </div>
 
@@ -134,9 +137,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285
 </div>
 <div class="doxyMemberDoc">
 
-contains names of local variables
+<p>contains names of local variables</p>
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -145,7 +149,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285d12ea68252876251ea0fc2d">getFortranDefs</a>.</p>
+
 </div>
 </div>
 
@@ -167,9 +172,10 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#aa3d64c285
 </div>
 <div class="doxyMemberDoc">
 
-contains names of used modules
+<p>contains names of used modules</p>
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -178,7 +184,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/fortranc
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a8e24461e4a28d3b200f27ade4dbc7a53">addUse</a> and <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a239ee1e47d4722402cd650ae2d0cd59f">endScope</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a8e24461e4a28d3b200f27ade4dbc7a53">addUse</a> and <a href="/web-doxygen/docs/api/files/src/fortrancode-l/#a239ee1e47d4722402cd650ae2d0cd59f">endScope</a>.</p>
+
 </div>
 </div>
 

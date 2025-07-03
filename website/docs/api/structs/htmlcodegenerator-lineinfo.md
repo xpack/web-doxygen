@@ -129,7 +129,8 @@ struct HtmlCodeGenerator::LineInfo { ... }
 </table>
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,7 +198,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,7 +209,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-References <a href="#a3abea15f35be73c3f6afba1988e419f8">anchor</a>, <a href="#a94459c4a22da6f14866eb4c56a715452">fileName</a>, <a href="#a178386d33a8975f7f20e6607daaf7efb">line</a>, <a href="#a47cef8e03c4320f04bf1217db7604aa0">ref</a> and <a href="#a6ee2aa5dde6f64c0ee358cf40c3ecdd1">writeAnchor</a>.
+<p>References <a href="#a3abea15f35be73c3f6afba1988e419f8">anchor</a>, <a href="#a94459c4a22da6f14866eb4c56a715452">fileName</a>, <a href="#a178386d33a8975f7f20e6607daaf7efb">line</a>, <a href="#a47cef8e03c4320f04bf1217db7604aa0">ref</a> and <a href="#a6ee2aa5dde6f64c0ee358cf40c3ecdd1">writeAnchor</a>.</p>
+
 </div>
 </div>
 
@@ -236,7 +240,8 @@ References <a href="#a3abea15f35be73c3f6afba1988e419f8">anchor</a>, <a href="#a9
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +250,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
+<p>Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.</p>
+
 </div>
 </div>
 
@@ -269,7 +275,8 @@ Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -278,7 +285,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
+<p>Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.</p>
+
 </div>
 </div>
 
@@ -302,7 +310,8 @@ Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -311,7 +320,8 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
+<p>Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.</p>
+
 </div>
 </div>
 
@@ -335,7 +345,8 @@ Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -344,7 +355,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
+<p>Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.</p>
+
 </div>
 </div>
 
@@ -368,7 +380,8 @@ Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -377,7 +390,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h
 </div>
 
 
-Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.
+<p>Referenced by <a href="#a75cdd983b9154172a336385e9a9c149b">LineInfo</a>.</p>
+
 </div>
 </div>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `OutlineParserInterface` Class Reference
 
-Abstract interface for outline parsers. <a href="#details">More...</a>
+<p>Abstract interface for outline parsers. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class OutlineParserInterface { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-C-like language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/coutlineparser/#details">More...</a>
+<p>C-like language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/coutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -55,7 +55,7 @@ C-like language parser using state-based lexical scanning. <a href="/web-doxygen
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a>
+<p>Fortran language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/fortranoutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -69,7 +69,7 @@ Fortran language parser using state-based lexical scanning. <a href="/web-doxyge
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Lex language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#details">More...</a>
+<p>Lex language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/lexoutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -96,7 +96,7 @@ Lex language parser using state-based lexical scanning. <a href="/web-doxygen/do
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-/dev/null outline parser <a href="/web-doxygen/docs/api/classes/nulloutlineparser/#details">More...</a>
+<p>/dev/null outline parser <a href="/web-doxygen/docs/api/classes/nulloutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -110,7 +110,7 @@ Lex language parser using state-based lexical scanning. <a href="/web-doxygen/do
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Python Language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#details">More...</a>
+<p>Python Language parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/pythonoutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -124,7 +124,7 @@ Python Language parser using state-based lexical scanning. <a href="/web-doxygen
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a>
+<p>VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -144,7 +144,7 @@ VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/c
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a40c002cf93d56d617f3ca92ff9b0a210">More...</a>
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree. <a href="#a40c002cf93d56d617f3ca92ff9b0a210">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -158,7 +158,7 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a0df8efc6ad67956cf54b7dec68c932b4">More...</a>
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser. <a href="#a0df8efc6ad67956cf54b7dec68c932b4">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -172,7 +172,7 @@ Returns TRUE if the language identified by <em>extension</em> needs the C prepro
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Callback function called by the comment block scanner. <a href="#a69a5b6af5318cae09594b6a48d6b0d99">More...</a>
+<p>Callback function called by the comment block scanner. <a href="#a69a5b6af5318cae09594b6a48d6b0d99">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -183,12 +183,14 @@ Callback function called by the comment block scanner. <a href="#a69a5b6af5318ca
 
 ## Description {#details}
 
-Abstract interface for outline parsers.
+<p>Abstract interface for outline parsers.</p>
 
 
-By implementing the methods of this interface one can add a new language parser to doxygen. The parser implementation can make use of the comment block parser to parse the contents of special comment blocks.
+<p>By implementing the methods of this interface one can add a new language parser to doxygen. The parser implementation can make use of the comment block parser to parse the contents of special comment blocks.</p>
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -212,20 +214,23 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/parserint
 </div>
 <div class="doxyMemberDoc">
 
-Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.
+<p>Returns TRUE if the language identified by <em>extension</em> needs the C preprocessor to be run before feed the result to the input parser.</p>
 
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></dd>
+<dd><p><a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput()</a></p></dd>
 </dl>
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
-Reference <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a>.
 
-Referenced by <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.
+<p>Reference <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a>.</p>
+
+
+<p>Referenced by <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a>.</p>
+
 </div>
 </div>
 
@@ -247,7 +252,7 @@ Referenced by <a href="#a0df8efc6ad67956cf54b7dec68c932b4">needsPreprocessing</a
 </div>
 <div class="doxyMemberDoc">
 
-Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.
+<p>Parses a single input file with the goal to build an <a href="/web-doxygen/docs/api/classes/entry">Entry</a> tree.</p>
 
 
 <dl class="doxyParamsList">
@@ -256,29 +261,32 @@ Parses a single input file with the goal to build an <a href="/web-doxygen/docs/
 <table class="doxyParamsTable">
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileName</td>
-<td class="doxyParamItemDescription">The full name of the file.</td>
+<td class="doxyParamItemDescription"><p>The full name of the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] fileBuf</td>
-<td class="doxyParamItemDescription">The contents of the file (zero terminated).</td>
+<td class="doxyParamItemDescription"><p>The contents of the file (zero terminated).</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[inout] root</td>
-<td class="doxyParamItemDescription">The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</td>
+<td class="doxyParamItemDescription"><p>The root of the tree of <a href="/web-doxygen/docs/api/classes/entry">Entry</a> *nodes representing the information extracted from the file.</p></td>
 </tr>
 <tr class="doxyParamItem">
 <td class="doxyParamItemName">[in] clangParser</td>
-<td class="doxyParamItemDescription">The clang translation unit parser object or nullptr if disabled.</td>
+<td class="doxyParamItemDescription"><p>The clang translation unit parser object or nullptr if disabled.</p></td>
 </tr>
 </table>
 </dd>
 </dl>
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
-Reference <a href="#a40c002cf93d56d617f3ca92ff9b0a210">parseInput</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a> and <a href="#a40c002cf93d56d617f3ca92ff9b0a210">parseInput</a>.
+<p>Reference <a href="#a40c002cf93d56d617f3ca92ff9b0a210">parseInput</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0d8029d99e005537ded33b">parseFile</a> and <a href="#a40c002cf93d56d617f3ca92ff9b0a210">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -300,16 +308,20 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a0de2d0d31a0
 </div>
 <div class="doxyMemberDoc">
 
-Callback function called by the comment block scanner.
+<p>Callback function called by the comment block scanner.</p>
 
 
-It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.
+<p>It provides a string <em>text</em> containing the prototype of a function or variable. The parser should parse this and store the information in the <a href="/web-doxygen/docs/api/classes/entry">Entry</a> node that corresponds with the node for which the comment block parser was invoked.</p>
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.
 
-Reference <a href="#a69a5b6af5318cae09594b6a48d6b0d99">parsePrototype</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/parserintf-h">parserintf.h</a>.</p>
 
-Referenced by <a href="#a69a5b6af5318cae09594b6a48d6b0d99">parsePrototype</a>.
+
+<p>Reference <a href="#a69a5b6af5318cae09594b6a48d6b0d99">parsePrototype</a>.</p>
+
+
+<p>Referenced by <a href="#a69a5b6af5318cae09594b6a48d6b0d99">parsePrototype</a>.</p>
+
 </div>
 </div>
 

@@ -123,7 +123,8 @@ struct SearchIndexExternal::SearchDocEntry { ... }
 </table>
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -149,7 +150,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/searchin
 
 
 
-Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -158,7 +160,8 @@ Definition at line 119 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -182,7 +185,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcace
 
 
 
-Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -191,7 +195,8 @@ Definition at line 120 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -215,7 +220,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcace
 
 
 
-Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +252,8 @@ Definition at line 122 of file <a href="/web-doxygen/docs/api/files/src/searchin
 
 
 
-Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -255,7 +262,8 @@ Definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -279,7 +287,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcace
 
 
 
-Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -310,7 +319,8 @@ Definition at line 123 of file <a href="/web-doxygen/docs/api/files/src/searchin
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -319,7 +329,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.</p>
+
 </div>
 </div>
 
@@ -343,7 +354,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcace
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -352,7 +364,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/searchin
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/searchindexexternal/#adcacedbd41c269a155cadcb46deda856">SearchIndexExternal::setCurrentDoc</a>.</p>
+
 </div>
 </div>
 

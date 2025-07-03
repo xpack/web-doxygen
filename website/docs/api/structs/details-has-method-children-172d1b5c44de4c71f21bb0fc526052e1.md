@@ -54,7 +54,8 @@ struct details::has_method_children&lt;T, std::void_t&lt; decltype(std::declval&
 </table>
 
 
-Definition at line 1380 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 1380 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <hr/>
 

@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IncludeInfo` Struct Reference
 
-Class representing the data associated with a #include statement. <a href="#details">More...</a>
+<p>Class representing the data associated with a #include statement. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -109,9 +109,10 @@ struct IncludeInfo { ... }
 
 ## Description {#details}
 
-Class representing the data associated with a #include statement.
+<p>Class representing the data associated with a #include statement.</p>
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -142,7 +143,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -178,7 +180,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -188,7 +191,8 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 </div>
 
 
-References <a href="#ac9ea4d136292663b672a8aeec5944548">fileDef</a>, <a href="#a0f8b77f07d748ea1612db5d4c47c5c37">includeName</a> and <a href="#a17debda9cc01be4435a3cafc64061cc6">kind</a>.
+<p>References <a href="#ac9ea4d136292663b672a8aeec5944548">fileDef</a>, <a href="#a0f8b77f07d748ea1612db5d4c47c5c37">includeName</a> and <a href="#a17debda9cc01be4435a3cafc64061cc6">kind</a>.</p>
+
 </div>
 </div>
 
@@ -218,7 +222,8 @@ References <a href="#ac9ea4d136292663b672a8aeec5944548">fileDef</a>, <a href="#a
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -227,7 +232,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -251,7 +257,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -260,7 +267,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a68e99525be1bdf8596ca067a014e9931">DocSets::addIndexItem</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#ac7b3f73c86e8a751ed2fd61e9d0cc2e3">generateSqlite3ForClass</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -284,7 +292,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -293,7 +302,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/filedef-h
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#a7b0a42da35d51f4e7f198975258cf9fd">PerlModGenerator::addIncludeInfo</a>, <a href="#a6ee20e83eddd15705a5904f698327b36">IncludeInfo</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a8961a6e2496115a7cde0222c4ee213d6">writeIncludeInfo</a>.</p>
+
 </div>
 </div>
 

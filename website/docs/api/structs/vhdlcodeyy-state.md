@@ -192,7 +192,7 @@ struct vhdlcodeYY_state { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-the code fragment as text <a href="#ab5899665db936da6deceac3fb0d5ceb0">More...</a>
+<p>the code fragment as text <a href="#ab5899665db936da6deceac3fb0d5ceb0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -206,7 +206,7 @@ the code fragment as text <a href="#ab5899665db936da6deceac3fb0d5ceb0">More...</
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-read offset during parsing <a href="#aa08ea76c8ffa3e165185d4398add5510">More...</a>
+<p>read offset during parsing <a href="#aa08ea76c8ffa3e165185d4398add5510">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -233,7 +233,7 @@ read offset during parsing <a href="#aa08ea76c8ffa3e165185d4398add5510">More...<
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-number of line in the code fragment <a href="#aea28bbabc305cdcc047a50818599e5c0">More...</a>
+<p>number of line in the code fragment <a href="#aea28bbabc305cdcc047a50818599e5c0">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -247,7 +247,7 @@ number of line in the code fragment <a href="#aea28bbabc305cdcc047a50818599e5c0"
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-current line number <a href="#a133a7b315ff5cc2f03523f813e5cbab3">More...</a>
+<p>current line number <a href="#a133a7b315ff5cc2f03523f813e5cbab3">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -491,7 +491,8 @@ current line number <a href="#a133a7b315ff5cc2f03523f813e5cbab3">More...</a>
 </table>
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -517,7 +518,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -548,7 +550,8 @@ Definition at line 115 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -579,7 +582,8 @@ Definition at line 90 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -610,7 +614,8 @@ Definition at line 103 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -641,7 +646,8 @@ Definition at line 83 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -672,7 +678,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -703,7 +710,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -734,7 +742,8 @@ Definition at line 108 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -765,7 +774,8 @@ Definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -796,7 +806,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -827,7 +838,8 @@ Definition at line 105 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -858,7 +870,8 @@ Definition at line 100 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -889,7 +902,8 @@ Definition at line 93 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -920,7 +934,8 @@ Definition at line 117 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -951,7 +966,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -980,9 +996,10 @@ Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 </div>
 <div class="doxyMemberDoc">
 
-number of line in the code fragment
+<p>number of line in the code fragment</p>
 
-Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1011,9 +1028,10 @@ Definition at line 94 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 </div>
 <div class="doxyMemberDoc">
 
-read offset during parsing
+<p>read offset during parsing</p>
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1042,9 +1060,10 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 </div>
 <div class="doxyMemberDoc">
 
-the code fragment as text
+<p>the code fragment as text</p>
 
-Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1075,7 +1094,8 @@ Definition at line 91 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1106,7 +1126,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1137,7 +1158,8 @@ Definition at line 111 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1168,7 +1190,8 @@ Definition at line 79 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1199,7 +1222,8 @@ Definition at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1230,7 +1254,8 @@ Definition at line 80 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1261,7 +1286,8 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1292,7 +1318,8 @@ Definition at line 112 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1323,7 +1350,8 @@ Definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1354,7 +1382,8 @@ Definition at line 86 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1385,7 +1414,8 @@ Definition at line 82 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1416,7 +1446,8 @@ Definition at line 97 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1447,7 +1478,8 @@ Definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1478,7 +1510,8 @@ Definition at line 85 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1509,7 +1542,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode
 
 
 
-Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1540,7 +1574,8 @@ Definition at line 84 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 
 
 
-Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1569,9 +1604,10 @@ Definition at line 87 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-
 </div>
 <div class="doxyMemberDoc">
 
-current line number
+<p>current line number</p>
 
-Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.
+<p>Definition at line 95 of file <a href="/web-doxygen/docs/api/files/src/vhdlcode-l">vhdlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -91,7 +91,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -100,7 +101,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/docgroup-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a>.</p>
+
 </div>
 </div>
 
@@ -129,7 +131,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9
 
 
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-cpp">docgroup.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -138,7 +141,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/docgroup-
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572e1405da479f34e3d">DocGroup::addDocs</a>, <a href="/web-doxygen/docs/api/classes/docgroup/#a7610569d96adb6bd19ed159a5f53a26c">DocGroup::close</a>, <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a> and <a href="/web-doxygen/docs/api/classes/docgroup/#a9cb5ab2169da2f5bf14816e9c10e8290">DocGroup::open</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/docgroup/#a9b79815ce3108572e1405da479f34e3d">DocGroup::addDocs</a>, <a href="/web-doxygen/docs/api/classes/docgroup/#a7610569d96adb6bd19ed159a5f53a26c">DocGroup::close</a>, <a href="/web-doxygen/docs/api/classes/docgroup/#a75ac79ba2e9fa9b9feeaadf6f8567931">DocGroup::findExistingGroup</a> and <a href="/web-doxygen/docs/api/classes/docgroup/#a9cb5ab2169da2f5bf14816e9c10e8290">DocGroup::open</a>.</p>
+
 </div>
 </div>
 

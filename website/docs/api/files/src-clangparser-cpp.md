@@ -110,7 +110,8 @@ toc_max_heading_level: 4
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/clangparser-cpp">clangparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -119,7 +120,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/clangpars
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/clangparser/#add1060dd5febd4664f6038a87d87b8cd">ClangParser::instance</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/clangparser/#add1060dd5febd4664f6038a87d87b8cd">ClangParser::instance</a>.</p>
+
 </div>
 </div>
 

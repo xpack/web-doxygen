@@ -56,7 +56,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string. <a href="#a248b40256877fc3c467046ebf1835a8f">More...</a>
+<p>Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string. <a href="#a248b40256877fc3c467046ebf1835a8f">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,9 +88,10 @@ Helper for implemented the -c option of doxygen, which produces HTML output for 
 </div>
 <div class="doxyMemberDoc">
 
-Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string.
+<p>Helper for implemented the -c option of doxygen, which produces HTML output for a given doxygen formatted string.</p>
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -162,9 +163,11 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/singlecom
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#abd752e50202fc1d4d2929595b003c8c9">CommentScanner::enterFile</a>, <a href="#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#ac7b5eed8e5966a5023d12fd9b31efb7d">CommentScanner::leaveFile</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075e2f44ddd785428b4099f4a">CommentScanner::parseCommentBlock</a> and <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/commentcnv-h/#a4706ae57556b5cab395e8d2c8ec666b9">convertCppComments</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#abd752e50202fc1d4d2929595b003c8c9">CommentScanner::enterFile</a>, <a href="#ae8dd6bba2e9ad92dab454422a3136a26">generateHtmlOutput</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#ac7b5eed8e5966a5023d12fd9b31efb7d">CommentScanner::leaveFile</a>, <a href="/web-doxygen/docs/api/classes/commentscanner/#a2e48aae075e2f44ddd785428b4099f4a">CommentScanner::parseCommentBlock</a> and <a href="/web-doxygen/docs/api/classes/markdown/#ad40652cc4db61282f2b0ef5202927d10">Markdown::process</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -193,7 +196,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/singlecomment-cpp">singlecomment.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -220,9 +224,11 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/singlecom
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/classes/docnodeast/#a77e351cc54c344eac97ef21709f44305">DocNodeAST::root</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/outputcodelist/#a60b7d69b02fe400d0111a3321c9f0265">OutputCodeList::add</a>, <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a7a169cbf0edeed85c90868675799b875">createDocParser</a>, <a href="/web-doxygen/docs/api/classes/docnodeast/#a77e351cc54c344eac97ef21709f44305">DocNodeAST::root</a>, <a href="/web-doxygen/docs/api/classes/textstream/#aca8457da22d874f4eb30b35ffe87ebd0">TextStream::str</a> and <a href="/web-doxygen/docs/api/files/src/docparser-cpp/#a5b6203b6c11e050448bcd6e090720f32">validatingParseDoc</a>.</p>
 
-Referenced by <a href="#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.
+
+<p>Referenced by <a href="#a248b40256877fc3c467046ebf1835a8f">generateHtmlForComment</a>.</p>
+
 </div>
 </div>
 

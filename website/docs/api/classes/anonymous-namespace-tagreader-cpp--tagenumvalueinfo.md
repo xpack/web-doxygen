@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `TagEnumValueInfo` Class Reference
 
-Container for enum values that are scoped within an enum. <a href="#details">More...</a>
+<p>Container for enum values that are scoped within an enum. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -85,9 +85,10 @@ class anonymous_namespace{tagreader.cpp}::TagEnumValueInfo { ... }
 
 ## Description {#details}
 
-Container for enum values that are scoped within an enum.
+<p>Container for enum values that are scoped within an enum.</p>
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -113,7 +114,8 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 
 
 
-Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -144,7 +146,8 @@ Definition at line 66 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -175,7 +178,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -206,7 +210,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/tagreader
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/tagreader-cpp">tagreader.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

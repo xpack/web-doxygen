@@ -257,7 +257,7 @@ namespace Portable { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Correct a possible wrong PATH variable. <a href="#a08216fc437af3c55e1b7ac51430744f9">More...</a>
+<p>Correct a possible wrong PATH variable. <a href="#a08216fc437af3c55e1b7ac51430744f9">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -382,7 +382,8 @@ Correct a possible wrong PATH variable. <a href="#a08216fc437af3c55e1b7ac5143074
 
 
 
-Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 440 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -403,9 +404,11 @@ Declaration at line 42 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f788807da125c5433670c59d393">generateFormula</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f788807da125c5433670c59d393">generateFormula</a>.</p>
+
 </div>
 </div>
 
@@ -429,7 +432,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a62cf6f78880
 
 
 
-Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 478 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 478 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -445,7 +449,8 @@ Declaration at line 32 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acf309728fac71ec225044c1afe6ae9f7">computeVerifiedDotPath</a> and <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acf309728fac71ec225044c1afe6ae9f7">computeVerifiedDotPath</a> and <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -467,12 +472,14 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 </div>
 <div class="doxyMemberDoc">
 
-Correct a possible wrong PATH variable.
+<p>Correct a possible wrong PATH variable.</p>
 
 
-This routine was inspired by the cause for bug 766059 was that in the Windows path there were forward slashes.
+<p>This routine was inspired by the cause for bug 766059 was that in the Windows path there were forward slashes.</p>
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 533 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -507,9 +514,11 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ae1a7516287ca7c75eebc3fa7aa12e970">getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="#ae1a7516287ca7c75eebc3fa7aa12e970">getenv</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>.</p>
+
 </div>
 </div>
 
@@ -533,7 +542,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece
 
 
 
-Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 631 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -549,7 +559,8 @@ Declaration at line 41 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a> and <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a> and <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>.</p>
+
 </div>
 </div>
 
@@ -573,7 +584,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352f
 
 
 
-Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 386 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -585,7 +597,8 @@ Declaration at line 27 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaacf2b4efc09a2c06b9dd8cc2af69046">OutputGenerator::endPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a> and <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaacf2b4efc09a2c06b9dd8cc2af69046">OutputGenerator::endPlainFile</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a> and <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>.</p>
+
 </div>
 </div>
 
@@ -609,7 +622,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/outputgenerator/#aaacf2b4ef
 
 
 
-Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 487 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -625,9 +639,11 @@ Declaration at line 33 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaefdc17b5414c3b2329297ff8c4e90a6">getCaseSenseNames</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8f45edef0c9f7b3b0468e6fdb7cef71">getFilterFromList</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb8713d18d154b84ffdb">findFileDef</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#aaefdc17b5414c3b2329297ff8c4e90a6">getCaseSenseNames</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#ad8f45edef0c9f7b3b0468e6fdb7cef71">getFilterFromList</a>.</p>
+
 </div>
 </div>
 
@@ -651,7 +667,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#af891990268daeb
 
 
 
-Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 366 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -678,9 +695,11 @@ Declaration at line 26 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a724f5508f1314342da28cc51b867431b">recodeUtf8StringToW</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a724f5508f1314342da28cc51b867431b">recodeUtf8StringToW</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ecc3800fb7d2590c6cf0c0f6a">checkPngResult</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6d2b81663565fee4440ef02fe9b3a197">OutputGenerator::startPlainFile</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#aae6d9aa97d4044248e4537678a0a38af">tryPath</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ecc3800fb7d2590c6cf0c0f6a">checkPngResult</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/classes/outputgenerator/#a6d2b81663565fee4440ef02fe9b3a197">OutputGenerator::startPlainFile</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#aae6d9aa97d4044248e4537678a0a38af">tryPath</a>.</p>
+
 </div>
 </div>
 
@@ -704,7 +723,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#a651ad97ec
 
 
 
-Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -739,9 +759,11 @@ Declaration at line 23 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc_env</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#afcf1a493801a3f065ef9ca18e7c4f6c6">substEnvVarsInString</a>.
+
+<p>Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/datetime-cpp/#aad46a931d39d3d99fc5d2ad2ecd5e0bf">getCurrentDateTime</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a> and <a href="/web-doxygen/docs/api/files/src/configimpl-l/#afcf1a493801a3f065ef9ca18e7c4f6c6">substEnvVarsInString</a>.</p>
+
 </div>
 </div>
 
@@ -765,7 +787,8 @@ Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a h
 
 
 
-Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 98 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -777,9 +800,11 @@ Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/systimekeeper/#a4f6d6e92f23a8bc80ef6ec257295f101">SysTimeKeeper::elapsedTime</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/systimekeeper/#a4f6d6e92f23a8bc80ef6ec257295f101">SysTimeKeeper::elapsedTime</a> and <a href="/web-doxygen/docs/api/classes/systimekeeper/#ab2bf7ce3a2c5b37234e10ea15d667779">SysTimeKeeper::instance</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>.</p>
+
 </div>
 </div>
 
@@ -803,7 +828,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4
 
 
 
-Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 454 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 454 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -834,9 +860,11 @@ Declaration at line 31 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a> and <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>.</p>
+
 </div>
 </div>
 
@@ -860,7 +888,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f3
 
 
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 514 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 514 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -881,9 +910,11 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6232960902cd961ee248851d0f5a189d">findFile</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a> and <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6232960902cd961ee248851d0f5a189d">findFile</a>, <a href="/web-doxygen/docs/api/files/src/pre-l/#a44966d15bb9a0624cead77c6e3c89f94">findFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a3efb8cd50f4362e3d58e72febfb872fa">generateOutput</a>, <a href="/web-doxygen/docs/api/structs/markdown/private/#a9b99b7f5084eb08d7ffe43f3fbe79d69">Markdown::Private::processLink</a> and <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>.</p>
+
 </div>
 </div>
 
@@ -907,7 +938,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6232960902
 
 
 
-Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 676 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -926,9 +958,11 @@ Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6acafb836a24013a01bc21ab92381ad7">configFileToString</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a07ca80df8cb26c1c11d0cb22e326b01d">CitationManager::insertCrossReferencesForBibFile</a>, <a href="/web-doxygen/docs/api/structs/htags/#a91a5a1322fbff8f8ad136a3372964512">Htags::loadFilemap</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a772414bc571e725007f1c8bc15ebb355">preProcessFile</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#a7c86623ce94e7e3129386f2c8553fb16">FilterCache::readFragmentFromFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp/#a1ee465ed3ecc9e198028ac98d6536546">readSVGSize</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a272779001504a5c1f52817f54569298f">sameMd5Signature</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a61fa723a2a2eb50d0d52734936d06db4">testRTFOutput</a> and <a href="/web-doxygen/docs/api/files/src/formula-cpp/#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6acafb836a24013a01bc21ab92381ad7">configFileToString</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#aa8d9375638b4b082c242439fa6be97a0">convertMapFile</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a28f0ce1e173d0f12f0a4425af69958a5">DotFilePatcher::convertMapFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a10998c967b5e151acf3dad299deb0bc9">FormulaManager::initFromRepository</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#a07ca80df8cb26c1c11d0cb22e326b01d">CitationManager::insertCrossReferencesForBibFile</a>, <a href="/web-doxygen/docs/api/structs/htags/#a91a5a1322fbff8f8ad136a3372964512">Htags::loadFilemap</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a772414bc571e725007f1c8bc15ebb355">preProcessFile</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#aec96a0d40271cb4f17bf0290e145d74b">DotRunner::readBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#a7c86623ce94e7e3129386f2c8553fb16">FilterCache::readFragmentFromFile</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/dotfilepatcher-cpp/#a1ee465ed3ecc9e198028ac98d6536546">readSVGSize</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/dotgraph-cpp/#a272779001504a5c1f52817f54569298f">sameMd5Signature</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a61fa723a2a2eb50d0d52734936d06db4">testRTFOutput</a> and <a href="/web-doxygen/docs/api/files/src/formula-cpp/#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>.</p>
+
 </div>
 </div>
 
@@ -952,7 +986,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/configimpl-l/#a6acafb836a
 
 
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 665 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -970,9 +1005,11 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbcf6279d70d38ee11b35ea55">FormulaManager::createLatexFile</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac12f2a17915bb4023585afb081f7f39a">PerlModGenerator::createOutputFile</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a567698ca8e22cc5b401cb0e446778dd4">dumpSymbolMap</a>, <a href="/web-doxygen/docs/api/classes/eclipsehelp/#a6a8532316d47986f371459e6b09b9d71">EclipseHelp::finalize</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a39444ed87f324cf10eca40dca31c8bf9">generateDEF</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a541a7f1681d4e6c18ba0fb4902f2b9d3">generateXMLForFile</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a9371126c00d478f6d9b76346e4fa77dd">generateXMLForNamespace</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/crawlmap/#a07627e75c6fe9c87685b12be8ac61f5a">Crawlmap::initialize</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a7cad610aa745779c12a50c3dcf2cdf61">DocSets::initialize</a>, <a href="/web-doxygen/docs/api/classes/eclipsehelp/#aefada9c9b474d36ef9b771e2361c8dc1">EclipseHelp::initialize</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#acf6cb7c477c71f2031b5831f979991d5">HtmlHelp::initialize</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>, <a href="/web-doxygen/docs/api/classes/sitemap/#ab8d181bad46012b87a2ad334e442be73">Sitemap::initialize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c6662051d765cb0a355382ab05c14a1">openOutputFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a5935e8ddff8337f8a43689e2713c8067">ManGenerator::startDoxyAnchor</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac64814075d6e3f962df64b5f13ecff32">SearchIndex::write</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a26213153a818560376115add72925aaa">SearchIndexExternal::write</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a64d65000b297d313a09e4c1cca1f17e0">ResourceMgr::writeCategory</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afdcb651fa099a6b705bd08e02e24333f">writeCombineScript</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a66989e6892ad6bbb539241dedbfc4f9e">FlowChart::writeFlowChart</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#add40a3a8212464c4914efbeba3d529a1">writeMenuData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acbd9db076ae71bddeb6c5e9b27dd23da">writeTagFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c6271108b660">Qhp::addContentsItem</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#ab24723d7cedd2c780f895fea971fb484">FormulaManager::createFormulasTexFile</a>, <a href="/web-doxygen/docs/api/classes/formulamanager/#a0f96928dbcf6279d70d38ee11b35ea55">FormulaManager::createLatexFile</a>, <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac12f2a17915bb4023585afb081f7f39a">PerlModGenerator::createOutputFile</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/private/#a38e9087180f5ff4adc6bf59d38fa71a2">HtmlHelp::Private::createProjectFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a567698ca8e22cc5b401cb0e446778dd4">dumpSymbolMap</a>, <a href="/web-doxygen/docs/api/classes/eclipsehelp/#a6a8532316d47986f371459e6b09b9d71">EclipseHelp::finalize</a>, <a href="/web-doxygen/docs/api/files/src/defgen-cpp/#a39444ed87f324cf10eca40dca31c8bf9">generateDEF</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#aeeac5a3fc4ec080a5831f362ddee33f6">generateJSNavTree</a>, <a href="/web-doxygen/docs/api/files/src/ftvhelp-cpp/#adb4a42f193668dfef2c26197a3b3dd59">generateJSTreeFiles</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0f9b3e222369b7d908441a0825b0da84">generateXML</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a4dc2c1db665be657de3548de437246d2">generateXMLForClass</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#af23bb9f6e1a0a0bddb2da660425f7da4">generateXMLForDir</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a541a7f1681d4e6c18ba0fb4902f2b9d3">generateXMLForFile</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a0da7be0853343b6580993a525ed72a62">generateXMLForGroup</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aab9f9e82c47dc3b0efdb1955d4867a2f">generateXMLForModule</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#a9371126c00d478f6d9b76346e4fa77dd">generateXMLForNamespace</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a0c4c6cd48e43f74bf258851f8b109faf">HtmlGenerator::init</a>, <a href="/web-doxygen/docs/api/classes/crawlmap/#a07627e75c6fe9c87685b12be8ac61f5a">Crawlmap::initialize</a>, <a href="/web-doxygen/docs/api/classes/docsets/#a7cad610aa745779c12a50c3dcf2cdf61">DocSets::initialize</a>, <a href="/web-doxygen/docs/api/classes/eclipsehelp/#aefada9c9b474d36ef9b771e2361c8dc1">EclipseHelp::initialize</a>, <a href="/web-doxygen/docs/api/classes/htmlhelp/#acf6cb7c477c71f2031b5831f979991d5">HtmlHelp::initialize</a>, <a href="/web-doxygen/docs/api/classes/qhp/#a7ee6480507e32d9142ec04d4e499ae7e">Qhp::initialize</a>, <a href="/web-doxygen/docs/api/classes/sitemap/#ab8d181bad46012b87a2ad334e442be73">Sitemap::initialize</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a5c6662051d765cb0a355382ab05c14a1">openOutputFile</a>, <a href="/web-doxygen/docs/api/classes/docbookdocvisitor/#a4931bb0ccd2eb4d8aede2a9afb7058d6">DocbookDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#a595de00e640ff570870b8ed05a492e35">HtmlDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/latexdocvisitor/#a729fe6d8301bb25f3785b4e4466fccd5">LatexDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/rtfdocvisitor/#a101e1d1d08453e6a606f9f8652a6cc73">RTFDocVisitor::operator()</a>, <a href="/web-doxygen/docs/api/classes/dotgraph/#a45d99cae5ecb12b8735454b57c505e42">DotGraph::prepareDotFile</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/files/src/dotrunner-cpp/#af2aa6035c4917cd2d139f59850c5a008">resetPDFSize</a>, <a href="/web-doxygen/docs/api/classes/dotfilepatcher/#a02cd92c7c61a35c61c601ff6b409c5e5">DotFilePatcher::run</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/classes/mangenerator/#a5935e8ddff8337f8a43689e2713c8067">ManGenerator::startDoxyAnchor</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#afa25bb4d45f6063809f1c8cd70038d94">updateEPSBoundingBox</a>, <a href="/web-doxygen/docs/api/classes/searchindex/#ac64814075d6e3f962df64b5f13ecff32">SearchIndex::write</a>, <a href="/web-doxygen/docs/api/classes/searchindexexternal/#a26213153a818560376115add72925aaa">SearchIndexExternal::write</a>, <a href="/web-doxygen/docs/api/classes/resourcemgr/#a64d65000b297d313a09e4c1cca1f17e0">ResourceMgr::writeCategory</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afdcb651fa099a6b705bd08e02e24333f">writeCombineScript</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9588784ebebaad9cb24e153c07aeb662">HtmlGenerator::writeExternalSearchPage</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a66989e6892ad6bbb539241dedbfc4f9e">FlowChart::writeFlowChart</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a94d70b262f2df4e9546a9066951926fb">writeJavascriptSearchData</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#ae8e105816d60cf56b75c2d13f9d85048">writeJavaScriptSearchIndex</a>, <a href="/web-doxygen/docs/api/files/src/searchindex-js-cpp/#a83984e7adf06e5e5006d61c0634d8a54">writeJavasScriptSearchDataPage</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#a5ccdad61a2bd619961d1546602a03322">writeLatexMakefile</a>, <a href="/web-doxygen/docs/api/files/src/latexgen-cpp/#ab02ed8a64b15dea3af44838d67a039a5">writeMakeBat</a>, <a href="/web-doxygen/docs/api/files/src/index-cpp/#add40a3a8212464c4914efbeba3d529a1">writeMenuData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a9114c68d96141e80c08efdd497fc010e">HtmlGenerator::writeSearchData</a>, <a href="/web-doxygen/docs/api/classes/htmlgenerator/#a1fd6971ba73b744d9ceb90478194d61d">HtmlGenerator::writeSearchPage</a> and <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#acbd9db076ae71bddeb6c5e9b27dd23da">writeTagFile</a>.</p>
+
 </div>
 </div>
 
@@ -996,7 +1033,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/qhp/#ad187b30da8187b859054c
 
 
 
-Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 400 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1012,7 +1050,8 @@ Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>.</p>
+
 </div>
 </div>
 
@@ -1036,7 +1075,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6b
 
 
 
-Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 391 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1052,7 +1092,8 @@ Declaration at line 29 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a1a05b42d6baa2f85ed112c8a7c67ac01">ExistsOnPath</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a103513ad1b948e1fc70ba3a98c761e31">findFilePath</a>, <a href="/web-doxygen/docs/api/files/src/codefragment-cpp/#a8c33a344ab42361aefb90541f2be4e6e">readTextFileByName</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -1076,7 +1117,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 
 
 
-Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 505 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1092,7 +1134,8 @@ Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b9d08e7e894fe3673b5b">FileDefImpl::acquireFileVersion</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aac9ad7a212ab079ff3ac8860577a3132">stackTrace</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b9d08e7e894fe3673b5b">FileDefImpl::acquireFileVersion</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aac9ad7a212ab079ff3ac8860577a3132">stackTrace</a>.</p>
+
 </div>
 </div>
 
@@ -1116,7 +1159,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 
 
 
-Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 265 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1134,9 +1178,11 @@ Declaration at line 22 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a>.
+<p>Reference <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a> and <a href="#ab30a636186b72a67d57e9f7f1e917e99">system</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94aba9476d8669db4f3920e">initWarningFormat</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a> and <a href="#ab30a636186b72a67d57e9f7f1e917e99">system</a>.</p>
+
 </div>
 </div>
 
@@ -1160,7 +1206,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#aa0b7262dc94
 
 
 
-Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 496 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1176,9 +1223,11 @@ Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b9d08e7e894fe3673b5b">FileDefImpl::acquireFileVersion</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aac9ad7a212ab079ff3ac8860577a3132">stackTrace</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b9d08e7e894fe3673b5b">FileDefImpl::acquireFileVersion</a>, <a href="/web-doxygen/docs/api/classes/filtercache/#ad313a32a960f39f775ebb6d5bc8c5fe1">FilterCache::getFileContentsPipe</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a4d2f69fa42eae96d0b7ca66f9f0673ae">readInputFile</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#aac9ad7a212ab079ff3ac8860577a3132">stackTrace</a>.</p>
+
 </div>
 </div>
 
@@ -1202,7 +1251,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/filedefimpl/#a3e6c42b51465b
 
 
 
-Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 640 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1226,9 +1276,11 @@ Declaration at line 43 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable\_iconv</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable\_iconv\_close</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable\_iconv\_open</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a5fc5ec1eedfa06b27448863f69ee2e1d">portable_iconv</a>, <a href="/web-doxygen/docs/api/files/src/portable-h/#a3f98144680118aada1a93d2d4ba6173b">portable_iconv_close</a> and <a href="/web-doxygen/docs/api/files/src/portable-h/#a7bc4daae6d2c3e89837c44e2c3d4dac6">portable_iconv_open</a>.</p>
 
-Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href="#ab30a636186b72a67d57e9f7f1e917e99">system</a>.
+
+<p>Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href="#ab30a636186b72a67d57e9f7f1e917e99">system</a>.</p>
+
 </div>
 </div>
 
@@ -1252,7 +1304,8 @@ Referenced by <a href="#a4dbb08c3de409bd1a73be3da6d93ac57">fopen</a> and <a href
 
 
 
-Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 303 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1274,9 +1327,11 @@ Declaration at line 24 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a48493a2ee9d65cbcd60ddea27a029a39">environmentLoaded</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#ac1233c865d099e1135978850510ca4da">loadEnvironment</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc_env</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a>.
+
+<p>Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a122070be7aebc9e3ab560b58fdd922c9">initDoxygen</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a59d66805ece9da6ffd55fa4cc8252ef1">parseInput</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="#abd244447df22d110ad410b69c357fdf3">setenv</a> and <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a>.</p>
+
 </div>
 </div>
 
@@ -1300,7 +1355,8 @@ Referenced by <a href="#a08216fc437af3c55e1b7ac51430744f9">correctPath</a>, <a h
 
 
 
-Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 570 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1325,9 +1381,11 @@ Declaration at line 39 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a> and <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/dir/#a0f62ab07068c5f966bca7ce280f4ed49">Dir::currentDirPath</a> and <a href="/web-doxygen/docs/api/classes/dir/#ab3b09edc88159dc30426999bdc7d6d7b">Dir::setCurrent</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>.</p>
+
 </div>
 </div>
 
@@ -1351,7 +1409,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635
 
 
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1372,9 +1431,11 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable\_memmem</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a9ecb00561bffb0bffa3cce647d399c6f">portable_memmem</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0e894782b9509baa541931151">Markdown::Private::addStrEscapeUtf8Nbsp</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0e894782b9509baa541931151">Markdown::Private::addStrEscapeUtf8Nbsp</a>.</p>
+
 </div>
 </div>
 
@@ -1398,7 +1459,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/markdown/private/#a681582d0
 
 
 
-Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 106 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1564,9 +1626,11 @@ Declaration at line 21 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da8dbe64e9ab683833c1ea7252649058a3">Debug::ExtCmd</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a724f5508f1314342da28cc51b867431b">recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a4c8be5d062cc14919b53ff0a3c8f9a4f">QCString::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#aa006daaf11f1e2e45a6ababaf463212b">environ</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da8dbe64e9ab683833c1ea7252649058a3">Debug::ExtCmd</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a4e8eda17264bc9f97c4d106882c8d874">pid</a>, <a href="/web-doxygen/docs/api/classes/debug/#a970761e07475cafdd9fd5395a0c83544">Debug::print</a>, <a href="#a724f5508f1314342da28cc51b867431b">recodeUtf8StringToW</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a66269a694d9e6961bfd145bb4ca72f42">QCString::stripWhiteSpace</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-cpp/#a99187f0723aa35b7f06be3a5506b1285">substitute</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a7848f4e846cafbec9e8a6ecca50d4fb2">FlowChart::createSVG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#af50f1fc37531bed71dba97fcf1ea5dd9">do\_mscgen\_generate</a>, <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f30dce16a3323a67d6e2c44">createCroppedEPS</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a751decfa83144bf64f1cd1cb492db3fe">createCroppedPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a704ccf2352fafe16ddf093abbaa6f7b4">createDVIFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a92954fc40f0e05879c1726f8d8207b1f">createEPSbboxFile</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0cc00317e5a4482a2e7df401bd480f38">createPNG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a57b6802045cb92594d1f65e5b8821456">createPostscriptFile</a>, <a href="/web-doxygen/docs/api/classes/flowchart/#a7848f4e846cafbec9e8a6ecca50d4fb2">FlowChart::createSVG</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#ad88d54d53a499dad6fda6617d2dc952e">createSVGFromPDF</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a0c843eafd8ef0511d939fa5c6efc863f">createSVGFromPDFviaInkscape</a>, <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a21e0a716a4ba27ef05394fdd16276eec">determineInkscapeVersion</a>, <a href="/web-doxygen/docs/api/files/src/msc-cpp/#af50f1fc37531bed71dba97fcf1ea5dd9">do_mscgen_generate</a>, <a href="/web-doxygen/docs/api/structs/htags/#a459ba4c5a4e6d3308cee25b93448f0cf">Htags::execute</a>, <a href="/web-doxygen/docs/api/classes/docparser/#a3d46e03d176edeb9ec7044f80ffe3a81">DocParser::findAndCopyImage</a>, <a href="/web-doxygen/docs/api/classes/citationmanager/#aeea4b3347215e1eb97b639c96a1dcadd">CitationManager::generatePage</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a91768fc1635556eefd2d96ea1751435d">runHtmlHelpCompiler</a>, <a href="/web-doxygen/docs/api/files/src/plantuml-cpp/#a309f3f6f3c75a77b4ce5b9760f319d62">runPlantumlContent</a>, <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a10e8f1fbd720c602f867aa536e450462">runQHelpGenerator</a>, <a href="/web-doxygen/docs/api/files/src/dia-cpp/#a6791d60c7183801a8dcbdd7e9fc7a896">writeDiaGraphFromFile</a>, <a href="/web-doxygen/docs/api/classes/classdiagram/#acb331a908252968ca8ba371ee560aa51">ClassDiagram::writeFigure</a> and <a href="/web-doxygen/docs/api/files/src/msc-cpp/#a9bc09a2eafdeb16f4333068ebdf962ca">writeMscGraphFromFile</a>.</p>
+
 </div>
 </div>
 
@@ -1590,7 +1654,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/formula-cpp/#a322962831f3
 
 
 
-Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 561 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 561 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1606,9 +1671,11 @@ Declaration at line 28 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a394e935b6fd1899b26f8987f89a4cbfb">unlink</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a> and <a href="#a394e935b6fd1899b26f8987f89a4cbfb">unlink</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a> and <a href="#a394e935b6fd1899b26f8987f89a4cbfb">unlink</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd73eb3fe463e99d2bd4a73">finishWarnExit</a>, <a href="/web-doxygen/docs/api/classes/rtfgenerator/#a33f1f9f82bc9683769a6be6cdfc76270">RTFGenerator::preProcessFileInplace</a>, <a href="/web-doxygen/docs/api/classes/dotrunner/#ac1afaee16ddd8bf0bc6b18aaed6b44fd">DotRunner::run</a> and <a href="#a394e935b6fd1899b26f8987f89a4cbfb">unlink</a>.</p>
+
 </div>
 </div>
 
@@ -1632,7 +1699,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/message-cpp/#ae3d3e3fe0dd
 
 
 
-Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.
+<p>Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/portable-h">portable.h</a>, definition at line 318 of file <a href="/web-doxygen/docs/api/files/src/portable-cpp">portable.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1659,9 +1727,11 @@ Declaration at line 25 of file <a href="/web-doxygen/docs/api/files/src/portable
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc\_env</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0182ece6b76dad6475dafb53e2faaf10">QCString::find</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/files/src/portable-cpp/#a4f8bf02818b7f772ff25cdc2791a5f3a">proc_env</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a3d9eb667db4f11f9bd15cfc0b8fe45b4">setDotFontPath</a>, <a href="/web-doxygen/docs/api/files/src/dot-cpp/#a74cb640833073a036af5b7fa13cd16c6">unsetDotFontPath</a> and <a href="#ac2e29048cffc72c3bed439cff5b02cd4">unsetenv</a>.</p>
+
 </div>
 </div>
 

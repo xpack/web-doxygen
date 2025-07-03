@@ -82,7 +82,8 @@ struct FilesInDir { ... }
 </table>
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -113,7 +114,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/filedef-
 
 
 
-Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -122,7 +124,8 @@ Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/filedef-
 </div>
 
 
-Reference <a href="#a105385a4cdc40557a90e49e98e094373">path</a>.
+<p>Reference <a href="#a105385a4cdc40557a90e49e98e094373">path</a>.</p>
+
 </div>
 </div>
 
@@ -152,7 +155,8 @@ Reference <a href="#a105385a4cdc40557a90e49e98e094373">path</a>.
 
 
 
-Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -183,7 +187,8 @@ Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/filedef-
 
 
 
-Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.
+<p>Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/filedef-h">filedef.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -192,7 +197,8 @@ Definition at line 229 of file <a href="/web-doxygen/docs/api/files/src/filedef-
 </div>
 
 
-Referenced by <a href="#a28ea18f846e5a1531d3951892337684f">FilesInDir</a>.
+<p>Referenced by <a href="#a28ea18f846e5a1531d3951892337684f">FilesInDir</a>.</p>
+
 </div>
 </div>
 

@@ -138,7 +138,7 @@ class TranslatorKoreanEn { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-language codes for Html help <a href="#a8d4503364e5fa8d020c04f2787af379b">More...</a>
+<p>language codes for Html help <a href="#a8d4503364e5fa8d020c04f2787af379b">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -148,7 +148,8 @@ language codes for Html help <a href="#a8d4503364e5fa8d020c04f2787af379b">More..
 </table>
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -178,7 +179,7 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 <div class="doxyMemberDoc">
 
-language codes for Html help
+<p>language codes for Html help</p>
 
 
 
@@ -217,7 +218,8 @@ language codes for Html help
 </code></pre>
 
 
-New LCIDs:
+<p>New LCIDs:</p>
+
 
 
 <pre><code> 0x421 Indonesian
@@ -238,14 +240,16 @@ New LCIDs:
 </code></pre>
 
 
-Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).
+<p>Code for Esperanto should be as shown below but the htmlhelp compiler 1.3 does not support this (and no newer version is available).</p>
+
 
 
 <pre><code>0x48f Esperanto
 </code></pre>
 
 
-So do a fallback to the default language
+<p>So do a fallback to the default language</p>
+
 
 
 <pre><code>0x409 English (United States)
@@ -257,7 +261,8 @@ So do a fallback to the default language
 </code></pre>
 
 
-Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+<p>Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -298,9 +303,11 @@ Definition at line 61 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.
+<p>Used for identification of the language. The identification should not be translated. It should be replaced by the name of the language in English using lower-case characters only (e.g. "czech", "japanese", "russian", etc.). It should be equal to the identification used in <a href="/web-doxygen/docs/api/files/src/language-cpp">language.cpp</a>.</p>
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -339,9 +346,11 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Set the name to be used as latex command.
+<p>Set the name to be used as latex command.</p>
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -353,7 +362,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/translato
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c58336870b4d0504fb">Translator::p\_latexCommandName</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c58336870b4d0504fb">Translator::p_latexCommandName</a>.</p>
+
 </div>
 </div>
 
@@ -384,14 +394,16 @@ Reference <a href="/web-doxygen/docs/api/classes/translator/#aeb959325f8c633c583
 
 
 
-Used to get the LaTeX command(s) for the language support. This method should return string with commands that switch LaTeX to the desired language. For example
+<p>Used to get the LaTeX command(s) for the language support. This method should return string with commands that switch LaTeX to the desired language. For example</p>
+
 
 
 <pre><code>"\\usepackage[german]{babel}\n"
 </code></pre>
 
 
-or
+<p>or</p>
+
 
 
 <pre><code>"\\usepackage{polski}\n"
@@ -400,9 +412,11 @@ or
 </code></pre>
 
 
-The English LaTeX does not use such commands. Because of this the empty string is returned in this implementation.
+<p>The English LaTeX does not use such commands. Because of this the empty string is returned in this implementation.</p>
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -442,7 +456,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -483,9 +498,11 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used as ansicpg for RTF file
+<p>Used as ansicpg for RTF file</p>
 
-The following table shows the correlation of Charset name, Charset Value and
+
+<p>The following table shows the correlation of Charset name, Charset Value and</p>
+
 
 
 <pre><code>Codepage number:
@@ -509,7 +526,8 @@ CHINESEBIG5_CHARSET     136 (x88)             950
 </code></pre>
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -550,15 +568,17 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/translato
 
 
 
-Used as ansicpg for RTF fcharset
+<p>Used as ansicpg for RTF fcharset</p>
+
 
 <dl class="doxySectionUser">
 <dt>See Also</dt>
-<dd><a href="#a580c999360344c419eae32703e8c635b">trRTFansicp()</a> for a table of possible values.</dd>
+<dd><p><a href="#a580c999360344c419eae32703e8c635b">trRTFansicp()</a> for a table of possible values.</p></dd>
 </dl>
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/translator-ke-h">translator_ke.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

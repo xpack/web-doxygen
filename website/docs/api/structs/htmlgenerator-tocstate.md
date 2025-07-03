@@ -129,7 +129,8 @@ struct HtmlGenerator::TocState { ... }
 </table>
 
 
-Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -160,7 +161,8 @@ Definition at line 352 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 
 
 
-Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ Definition at line 360 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.
+<p>References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.</p>
+
 </div>
 </div>
 
@@ -198,7 +201,8 @@ References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="
 
 
 
-Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -207,7 +211,8 @@ Definition at line 359 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.
+<p>References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.</p>
+
 </div>
 </div>
 
@@ -236,7 +241,8 @@ References <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a> and <a href="
 
 
 
-Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,9 +251,11 @@ Definition at line 358 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Reference <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a>.
+<p>Reference <a href="#a1cc9e074c1afcf2c0add6fef7fd29f6f">indent</a>.</p>
 
-Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a> and <a href="#aac55cb6fab4d89747141a689fd61f748">incIndent</a>.
+
+<p>Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a> and <a href="#aac55cb6fab4d89747141a689fd61f748">incIndent</a>.</p>
+
 </div>
 </div>
 
@@ -277,7 +285,8 @@ Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a> and <a 
 
 
 
-Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -286,7 +295,8 @@ Definition at line 355 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 </div>
 
 
-Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a>, <a href="#aac55cb6fab4d89747141a689fd61f748">incIndent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.
+<p>Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a>, <a href="#aac55cb6fab4d89747141a689fd61f748">incIndent</a> and <a href="#a24ecffb6da464b55f6cb283055a2b555">writeIndent</a>.</p>
+
 </div>
 </div>
 
@@ -310,7 +320,8 @@ Referenced by <a href="#a090ee525f877596abeff5d8d1de5d11c">decIndent</a>, <a hre
 
 
 
-Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -341,7 +352,8 @@ Definition at line 357 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 
 
 
-Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -372,7 +384,8 @@ Definition at line 354 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-
 
 
 
-Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.
+<p>Definition at line 356 of file <a href="/web-doxygen/docs/api/files/src/htmlgen-h">htmlgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

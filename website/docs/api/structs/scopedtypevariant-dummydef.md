@@ -31,7 +31,8 @@ struct ScopedTypeVariant::DummyDef { ... }
 </div>
 
 
-Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.
+<p>Definition at line 49 of file <a href="/web-doxygen/docs/api/files/src/scopedtypevariant-h">scopedtypevariant.h</a>.</p>
+
 
 <hr/>
 

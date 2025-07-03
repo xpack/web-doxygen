@@ -129,7 +129,8 @@ struct DocSets::Private { ... }
 </table>
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -155,7 +156,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -169,7 +171,8 @@ Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a> and <a href="#ac22af2e9db1d5ad0fdde32d9ea8c7b2d">indentStack</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d392612ba492f7">QCString::fill</a> and <a href="#ac22af2e9db1d5ad0fdde32d9ea8c7b2d">indentStack</a>.</p>
+
 </div>
 </div>
 
@@ -199,7 +202,8 @@ References <a href="/web-doxygen/docs/api/classes/qcstring/#a08003d3e6c9acc46e4d
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -208,7 +212,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 </div>
 
 
-Referenced by <a href="#a826ea3c2606c786218f2107046b8b018">indent</a>.
+<p>Referenced by <a href="#a826ea3c2606c786218f2107046b8b018">indent</a>.</p>
+
 </div>
 </div>
 
@@ -232,7 +237,8 @@ Referenced by <a href="#a826ea3c2606c786218f2107046b8b018">indent</a>.
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -263,7 +269,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 
 
 
-Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -294,7 +301,8 @@ Definition at line 36 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -325,7 +333,8 @@ Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -356,7 +365,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/docsets-c
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/docsets-cpp">docsets.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

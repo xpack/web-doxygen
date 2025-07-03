@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CiteInfo` Struct Reference
 
-Citation-related data. <a href="#details">More...</a>
+<p>Citation-related data. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -109,9 +109,10 @@ struct CiteInfo { ... }
 
 ## Description {#details}
 
-Citation-related data.
+<p>Citation-related data.</p>
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -137,11 +138,14 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/cite-h">c
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
-Reference <a href="#a73b0f4274d2fcf8f2486f0178203d369">label</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a> and <a href="#a73b0f4274d2fcf8f2486f0178203d369">label</a>.
+<p>Reference <a href="#a73b0f4274d2fcf8f2486f0178203d369">label</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a> and <a href="#a73b0f4274d2fcf8f2486f0178203d369">label</a>.</p>
+
 </div>
 </div>
 
@@ -165,11 +169,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e14
 
 
 
-Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 75 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
-Reference <a href="#a63247d43d110f14a0525d73e9f012d3e">shortAuthor</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a63247d43d110f14a0525d73e9f012d3e">shortAuthor</a>.
+<p>Reference <a href="#a63247d43d110f14a0525d73e9f012d3e">shortAuthor</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a63247d43d110f14a0525d73e9f012d3e">shortAuthor</a>.</p>
+
 </div>
 </div>
 
@@ -193,11 +200,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
-Reference <a href="#a529432d49773c937493ebfedcdb27cbb">text</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a529432d49773c937493ebfedcdb27cbb">text</a>.
+<p>Reference <a href="#a529432d49773c937493ebfedcdb27cbb">text</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e1451d26329e285acf">DocCite::DocCite</a>, <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#a529432d49773c937493ebfedcdb27cbb">text</a>.</p>
+
 </div>
 </div>
 
@@ -221,11 +231,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#ac4ad900c3524f1e14
 
 
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/cite-h">cite.h</a>.</p>
 
-Reference <a href="#ad3b0c7d19be5846fae0feb7cac35c049">year</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#ad3b0c7d19be5846fae0feb7cac35c049">year</a>.
+<p>Reference <a href="#ad3b0c7d19be5846fae0feb7cac35c049">year</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/doccite/#a294548216265b2291dfb8654750d4920">DocCite::getText</a> and <a href="#ad3b0c7d19be5846fae0feb7cac35c049">year</a>.</p>
+
 </div>
 </div>
 

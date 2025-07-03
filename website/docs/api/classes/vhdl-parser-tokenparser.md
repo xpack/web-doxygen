@@ -41,7 +41,7 @@ class vhdl::parser::TokenParser { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-<a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a>
+<p><a href="/web-doxygen/docs/api/classes/vhdl/parser/token">Token</a> Manager. <a href="/web-doxygen/docs/api/classes/vhdl/parser/vhdlparsertokenmanager/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -89,7 +89,8 @@ class vhdl::parser::TokenParser { ... }
 </table>
 
 
-Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
+<p>Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -120,7 +121,8 @@ Definition at line 17 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 
 
 
-Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -132,9 +134,11 @@ Definition at line 20 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-Reference <a href="#a686a5c4c377513d56ee5588f9727314a">parser</a>.
+<p>Reference <a href="#a686a5c4c377513d56ee5588f9727314a">parser</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#a09e1a5b366fadb1761f46049e67df6c5">VHDLOutlineParser::Private::parseVhdlfile</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#a09e1a5b366fadb1761f46049e67df6c5">VHDLOutlineParser::Private::parseVhdlfile</a>.</p>
+
 </div>
 </div>
 
@@ -164,7 +168,8 @@ Referenced by <a href="/web-doxygen/docs/api/structs/vhdloutlineparser/private/#
 
 
 
-Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.
+<p>Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vhdlstring-h">vhdlstring.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -173,7 +178,8 @@ Definition at line 19 of file <a href="/web-doxygen/docs/api/files/vhdlparser/vh
 </div>
 
 
-Referenced by <a href="#ac5cb74c3a7c9a7f4620c34d939da9fbc">setLexParser</a>.
+<p>Referenced by <a href="#ac5cb74c3a7c9a7f4620c34d939da9fbc">setLexParser</a>.</p>
+
 </div>
 </div>
 

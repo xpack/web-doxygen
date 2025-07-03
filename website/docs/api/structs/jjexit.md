@@ -96,7 +96,8 @@ struct JJExit&lt;T&gt; { ... }
 </table>
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -128,7 +129,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -137,7 +139,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 </div>
 
 
-Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
+<p>Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.</p>
+
 </div>
 </div>
 
@@ -173,7 +176,8 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -182,7 +186,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 </div>
 
 
-Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
+<p>Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.</p>
+
 </div>
 </div>
 
@@ -213,7 +218,8 @@ Reference <a href="#a05963eb7eb642d4f1b1c1f5b798cc161">JJExit&lt; T &gt;::f</a>.
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/javacc-h">JavaCC.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -222,7 +228,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/vhdlparser/ja
 </div>
 
 
-Referenced by <a href="#ae0986466f47a26349be4635bb4c68e89">JJExit&lt; T &gt;::JJExit</a> and <a href="#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt; T &gt;::\~JJExit</a>.
+<p>Referenced by <a href="#ae0986466f47a26349be4635bb4c68e89">JJExit&lt; T &gt;::JJExit</a> and <a href="#a43eb7df1aae863a4d9b7e3507e9316ea">JJExit&lt; T &gt;::~JJExit</a>.</p>
+
 </div>
 </div>
 

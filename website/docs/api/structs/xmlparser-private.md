@@ -58,7 +58,8 @@ struct XMLParser::Private { ... }
 </table>
 
 
-Definition at line 430 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 430 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 430 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 433 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l
 
 
 
-Definition at line 432 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.
+<p>Definition at line 432 of file <a href="/web-doxygen/docs/api/files/libxml/xml-l">xml.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

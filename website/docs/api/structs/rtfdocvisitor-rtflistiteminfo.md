@@ -84,7 +84,8 @@ struct RTFDocVisitor::RTFListItemInfo { ... }
 </table>
 
 
-Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
+<p>Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -110,7 +111,8 @@ Definition at line 152 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvi
 
 
 
-Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
+<p>Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -141,7 +143,8 @@ Definition at line 155 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvi
 
 
 
-Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
+<p>Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -172,7 +175,8 @@ Definition at line 154 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvi
 
 
 
-Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
+<p>Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -203,7 +207,8 @@ Definition at line 156 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvi
 
 
 
-Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.
+<p>Definition at line 157 of file <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-h">rtfdocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

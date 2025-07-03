@@ -109,7 +109,8 @@ struct OutputCodeList::OutputCodeElem { ... }
 </table>
 
 
-Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -141,7 +142,8 @@ Definition at line 169 of file <a href="/web-doxygen/docs/api/files/src/outputli
 
 
 
-Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -150,9 +152,11 @@ Definition at line 171 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Reference <a href="#ad032e376e9294df84ec5401adec06440">intf</a>.
+<p>Reference <a href="#ad032e376e9294df84ec5401adec06440">intf</a>.</p>
 
-Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a>.
+
+<p>Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a>.</p>
+
 </div>
 </div>
 
@@ -181,7 +185,8 @@ Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a 
 
 
 
-Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -194,7 +199,8 @@ Definition at line 172 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#ad032e376e9294df84ec5401adec06440">intf</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.
+<p>References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#ad032e376e9294df84ec5401adec06440">intf</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.</p>
+
 </div>
 </div>
 
@@ -229,7 +235,8 @@ References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#a
 
 
 
-Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +253,8 @@ Definition at line 177 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#ad032e376e9294df84ec5401adec06440">intf</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.
+<p>References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#ad032e376e9294df84ec5401adec06440">intf</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.</p>
+
 </div>
 </div>
 
@@ -276,7 +284,8 @@ References <a href="#a9cd9c732bcea08f905d348362bf772ed">enabled</a>, <a href="#a
 
 
 
-Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -285,7 +294,8 @@ Definition at line 187 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a>.
+<p>Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a>.</p>
+
 </div>
 </div>
 
@@ -309,7 +319,8 @@ Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a> and <a 
 
 
 
-Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.
+<p>Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputlist-h">outputlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +329,8 @@ Definition at line 186 of file <a href="/web-doxygen/docs/api/files/src/outputli
 </div>
 
 
-Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a>, <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.
+<p>Referenced by <a href="#a85f8012fd68ae35d80bfdd65bfb1d094">operator=</a>, <a href="#abc2756e4e03804164c920379798c3e2b">OutputCodeElem</a> and <a href="#ae25e5eeaa9320f9082f466e2e0ab0daf">OutputCodeElem</a>.</p>
+
 </div>
 </div>
 

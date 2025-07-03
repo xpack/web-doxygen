@@ -71,7 +71,8 @@ struct RTFGenerator::RTFListItemInfo { ... }
 </table>
 
 
-Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -97,7 +98,8 @@ Definition at line 338 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 
 
 
-Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,8 @@ Definition at line 340 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 
 
 
-Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +162,8 @@ Definition at line 341 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 
 
 
-Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 342 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

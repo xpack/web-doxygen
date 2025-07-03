@@ -38,7 +38,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-checks if the given char c is a delimiter minus is checked apart, can be unary minus <a href="#a51b274f2d0a9dc8d6a7896a7b1960bf7">More...</a>
+<p>checks if the given char c is a delimiter minus is checked apart, can be unary minus <a href="#a51b274f2d0a9dc8d6a7896a7b1960bf7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -52,7 +52,7 @@ checks if the given char c is a delimiter minus is checked apart, can be unary m
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-checks if the given char c is a letter or underscore <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">More...</a>
+<p>checks if the given char c is a letter or underscore <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -102,9 +102,10 @@ checks if the given char c is a letter or underscore <a href="#ae0c69620b1ff6e7c
 </div>
 <div class="doxyMemberDoc">
 
-checks if the given char c is a letter or underscore
+<p>checks if the given char c is a letter or underscore</p>
 
-Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
+<p>Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -116,7 +117,8 @@ Definition at line 76 of file <a href="/web-doxygen/docs/api/files/src/condparse
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a> and <a href="#a729d53d4881f206bfd8de6b4ebf99787">isAlphaNumSpec</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a> and <a href="#a729d53d4881f206bfd8de6b4ebf99787">isAlphaNumSpec</a>.</p>
+
 </div>
 </div>
 
@@ -145,7 +147,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fd
 
 
 
-Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
+<p>Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -157,9 +160,11 @@ Definition at line 81 of file <a href="/web-doxygen/docs/api/files/src/condparse
 </div>
 
 
-Reference <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">isAlpha</a>.
+<p>Reference <a href="#ae0c69620b1ff6e7ceafd3461ccf2d142">isAlpha</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a>.</p>
+
 </div>
 </div>
 
@@ -186,9 +191,10 @@ Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fd
 </div>
 <div class="doxyMemberDoc">
 
-checks if the given char c is a delimiter minus is checked apart, can be unary minus
+<p>checks if the given char c is a delimiter minus is checked apart, can be unary minus</p>
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparser-cpp">condparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -200,7 +206,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/condparse
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/condparser/#a767f34907250fdaaeaae44c37d82c3de">CondParser::getToken</a>.</p>
+
 </div>
 </div>
 

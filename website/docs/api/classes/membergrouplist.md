@@ -45,7 +45,8 @@ class MemberGroupList { ... }
 </table>
 
 
-Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.
+<p>Definition at line 109 of file <a href="/web-doxygen/docs/api/files/src/membergroup-h">membergroup.h</a>.</p>
+
 
 <hr/>
 

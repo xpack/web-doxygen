@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `constexp_p.h` File Reference
 
-Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="#details">More...</a>
+<p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>) <a href="#details">More...</a></p>
 
 ## Included Headers
 
@@ -142,7 +142,7 @@ Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/d
 
 ## Description {#details}
 
-Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>)
+<p>Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/docs/api/files/src/constexp-l">constexp.l</a>)</p>
 
 <div class="doxySectionDef">
 
@@ -168,7 +168,8 @@ Private interface between Parser (constexp.y) and Lexer (<a href="/web-doxygen/d
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,7 +206,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/constexp-
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
 </div>
 </div>
 
@@ -229,9 +231,11 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/constexp-
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
 
-Reference <a href="#a2ceb5b985e149f18e018b142cfdd7264">YYSTYPE</a>.
+
+<p>Reference <a href="#a2ceb5b985e149f18e018b142cfdd7264">YYSTYPE</a>.</p>
+
 </div>
 </div>
 
@@ -255,9 +259,11 @@ Reference <a href="#a2ceb5b985e149f18e018b142cfdd7264">YYSTYPE</a>.
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f5dbdc0aadd6150973487b9c2d7514">ConstExpressionParser::parse</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f5dbdc0aadd6150973487b9c2d7514">ConstExpressionParser::parse</a>.</p>
+
 </div>
 </div>
 
@@ -287,7 +293,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/constexpressionparser/#af6f
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -318,7 +325,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/constexp-
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-p-h">constexp_p.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -327,7 +335,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/constexp-
 </div>
 
 
-Referenced by <a href="#af3caa68c0875eb03699421ff1d4652c3">constexpYYlex</a>.
+<p>Referenced by <a href="#af3caa68c0875eb03699421ff1d4652c3">constexpYYlex</a>.</p>
+
 </div>
 </div>
 

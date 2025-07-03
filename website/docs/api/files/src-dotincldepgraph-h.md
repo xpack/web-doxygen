@@ -39,7 +39,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Representation of an include dependency graph. <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#details">More...</a>
+<p>Representation of an include dependency graph. <a href="/web-doxygen/docs/api/classes/dotincldepgraph/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -92,7 +92,8 @@ Representation of an include dependency graph. <a href="/web-doxygen/docs/api/cl
 
 
 
-Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotincldepgraph-h">dotincldepgraph.h</a>.
+<p>Definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/dotincldepgraph-h">dotincldepgraph.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -97,7 +97,8 @@ struct ModuleManager::Private { ... }
 </table>
 
 
-Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -123,7 +124,8 @@ Definition at line 1206 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -154,7 +156,8 @@ Definition at line 1210 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -185,7 +188,8 @@ Definition at line 1211 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -216,7 +220,8 @@ Definition at line 1208 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -247,7 +252,8 @@ Definition at line 1209 of file <a href="/web-doxygen/docs/api/files/src/moduled
 
 
 
-Definition at line 1212 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.
+<p>Definition at line 1212 of file <a href="/web-doxygen/docs/api/files/src/moduledef-cpp">moduledef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

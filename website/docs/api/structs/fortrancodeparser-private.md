@@ -71,7 +71,8 @@ struct FortranCodeParser::Private { ... }
 </table>
 
 
-Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -97,7 +98,8 @@ Definition at line 1453 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -128,7 +130,8 @@ Definition at line 1457 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +162,8 @@ Definition at line 1456 of file <a href="/web-doxygen/docs/api/files/src/fortran
 
 
 
-Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.
+<p>Definition at line 1455 of file <a href="/web-doxygen/docs/api/files/src/fortrancode-l">fortrancode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

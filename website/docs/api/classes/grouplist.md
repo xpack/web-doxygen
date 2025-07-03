@@ -45,7 +45,8 @@ class GroupList { ... }
 </table>
 
 
-Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.
+<p>Definition at line 129 of file <a href="/web-doxygen/docs/api/files/src/groupdef-h">groupdef.h</a>.</p>
+
 
 <hr/>
 

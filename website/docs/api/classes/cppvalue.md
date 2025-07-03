@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CPPValue` Class Reference
 
-A class representing a C-preprocessor value. <a href="#details">More...</a>
+<p>A class representing a C-preprocessor value. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -308,9 +308,10 @@ class CPPValue { ... }
 
 ## Description {#details}
 
-A class representing a C-preprocessor value.
+<p>A class representing a C-preprocessor value.</p>
 
-Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -354,7 +355,8 @@ Definition at line 23 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </dd>
 </dl>
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -397,7 +399,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -406,9 +409,11 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
 
-Referenced by <a href="#ac888945860e3ba6e15607ea5eca390c6">parseBinary</a>, <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>, <a href="#a8f3301f3680f8d9b8acda382c999325d">parseDecimal</a>, <a href="#ac69f25ca691ebb30dbd9e5edfbbbb6d6">parseFloat</a>, <a href="#abc80b7d839a0f8ad6dde2e8a5f767333">parseHexadecimal</a> and <a href="#a144f21db54fc8bc4685ed3214b6a5e3f">parseOctal</a>.
+
+<p>Referenced by <a href="#ac888945860e3ba6e15607ea5eca390c6">parseBinary</a>, <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>, <a href="#a8f3301f3680f8d9b8acda382c999325d">parseDecimal</a>, <a href="#ac69f25ca691ebb30dbd9e5edfbbbb6d6">parseFloat</a>, <a href="#abc80b7d839a0f8ad6dde2e8a5f767333">parseHexadecimal</a> and <a href="#a144f21db54fc8bc4685ed3214b6a5e3f">parseOctal</a>.</p>
+
 </div>
 </div>
 
@@ -438,7 +443,8 @@ Referenced by <a href="#ac888945860e3ba6e15607ea5eca390c6">parseBinary</a>, <a h
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -447,7 +453,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
+
 </div>
 </div>
 
@@ -477,7 +484,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -486,7 +494,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34ad77c3ba53ac02b46f2909e56b1c8b1eb">Float</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34ad77c3ba53ac02b46f2909e56b1c8b1eb">Float</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
+
 </div>
 </div>
 
@@ -521,7 +530,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34ad77c3ba53ac02b46f2909e56b
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -530,7 +540,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
+
 </div>
 </div>
 
@@ -559,7 +570,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -568,7 +580,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
+
 </div>
 </div>
 
@@ -603,7 +616,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -612,7 +626,8 @@ Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a> and <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a> and <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a>.</p>
+
 </div>
 </div>
 
@@ -641,7 +656,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -656,7 +672,8 @@ Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.
+<p>References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f5733238">Int</a>, <a href="#af069b9f88b1f7a191ca4e5702dbab6c0">type</a> and <a href="#a443715207c373abfa72aa884462f00a8">v</a>.</p>
+
 </div>
 </div>
 
@@ -686,7 +703,8 @@ References <a href="#a0a0e186bfc7d4ec0bb75f2c502a6eb34a501d0429969a9347e432bf79f
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -717,7 +735,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -754,7 +773,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -763,7 +783,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-
 </div>
 
 
-Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#aa0f3cec447b7915d5d664f15bc90a281">CPPValue</a>, <a href="#ae973cc2789cb6245795c2e1887b658ab">CPPValue</a>, <a href="#a7aa33d6475560d173b112a121809062a">isInt</a>, <a href="#af9a9e3f92e4cb30ace5ef213b4e51206">operator double</a>, <a href="#a1e1cc4b52b50721ca6761350238b9149">operator long</a> and <a href="#a5a6a6e41b8b27935b625082184af681c">print</a>.
+<p>Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#aa0f3cec447b7915d5d664f15bc90a281">CPPValue</a>, <a href="#ae973cc2789cb6245795c2e1887b658ab">CPPValue</a>, <a href="#a7aa33d6475560d173b112a121809062a">isInt</a>, <a href="#af9a9e3f92e4cb30ace5ef213b4e51206">operator double</a>, <a href="#a1e1cc4b52b50721ca6761350238b9149">operator long</a> and <a href="#a5a6a6e41b8b27935b625082184af681c">print</a>.</p>
+
 </div>
 </div>
 
@@ -787,9 +808,11 @@ Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>.</p>
 
-Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#aa0f3cec447b7915d5d664f15bc90a281">CPPValue</a>, <a href="#ae973cc2789cb6245795c2e1887b658ab">CPPValue</a>, <a href="#af9a9e3f92e4cb30ace5ef213b4e51206">operator double</a>, <a href="#a1e1cc4b52b50721ca6761350238b9149">operator long</a> and <a href="#a5a6a6e41b8b27935b625082184af681c">print</a>.
+
+<p>Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#aa0f3cec447b7915d5d664f15bc90a281">CPPValue</a>, <a href="#ae973cc2789cb6245795c2e1887b658ab">CPPValue</a>, <a href="#af9a9e3f92e4cb30ace5ef213b4e51206">operator double</a>, <a href="#a1e1cc4b52b50721ca6761350238b9149">operator long</a> and <a href="#a5a6a6e41b8b27935b625082184af681c">print</a>.</p>
+
 </div>
 </div>
 
@@ -824,7 +847,8 @@ Referenced by <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href
 
 
 
-Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -841,7 +865,8 @@ Declaration at line 47 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
+<p>Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.</p>
+
 </div>
 </div>
 
@@ -870,7 +895,8 @@ Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
 
 
 
-Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 64 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -912,7 +938,8 @@ Declaration at line 48 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-References <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#abc80b7d839a0f8ad6dde2e8a5f767333">parseHexadecimal</a> and <a href="#a144f21db54fc8bc4685ed3214b6a5e3f">parseOctal</a>.
+<p>References <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#abc80b7d839a0f8ad6dde2e8a5f767333">parseHexadecimal</a> and <a href="#a144f21db54fc8bc4685ed3214b6a5e3f">parseOctal</a>.</p>
+
 </div>
 </div>
 
@@ -941,7 +968,8 @@ References <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>, <a href="#
 
 
 
-Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -958,7 +986,8 @@ Declaration at line 45 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
+<p>Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.</p>
+
 </div>
 </div>
 
@@ -987,7 +1016,8 @@ Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
 
 
 
-Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 99 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -999,7 +1029,8 @@ Declaration at line 49 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
+<p>Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.</p>
+
 </div>
 </div>
 
@@ -1028,7 +1059,8 @@ Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
 
 
 
-Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1048,9 +1080,11 @@ Declaration at line 46 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
+<p>Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.</p>
 
-Referenced by <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>.
+
+<p>Referenced by <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>.</p>
+
 </div>
 </div>
 
@@ -1079,7 +1113,8 @@ Referenced by <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>.
 
 
 
-Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.
+<p>Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-h">cppvalue.h</a>, definition at line 21 of file <a href="/web-doxygen/docs/api/files/src/cppvalue-cpp">cppvalue.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1096,9 +1131,11 @@ Declaration at line 44 of file <a href="/web-doxygen/docs/api/files/src/cppvalue
 </div>
 
 
-Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.
+<p>Reference <a href="#a9d565488e1075a9b279a3e60bfe66c27">CPPValue</a>.</p>
 
-Referenced by <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>.
+
+<p>Referenced by <a href="#ac350b0e72525b06ccd7b414faef9f067">parseCharacter</a>.</p>
+
 </div>
 </div>
 

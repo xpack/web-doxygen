@@ -37,7 +37,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Singleton class used to generate anchors for <a href="/web-doxygen/docs/api/classes/markdown">Markdown</a> headers. <a href="/web-doxygen/docs/api/classes/anchorgenerator/#details">More...</a>
+<p>Singleton class used to generate anchors for <a href="/web-doxygen/docs/api/classes/markdown">Markdown</a> headers. <a href="/web-doxygen/docs/api/classes/anchorgenerator/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">

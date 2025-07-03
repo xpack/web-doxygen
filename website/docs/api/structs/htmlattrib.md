@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `HtmlAttrib` Struct Reference
 
-Class representing a HTML attribute. <a href="#details">More...</a>
+<p>Class representing a HTML attribute. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -83,9 +83,10 @@ struct HtmlAttrib { ... }
 
 ## Description {#details}
 
-Class representing a HTML attribute.
+<p>Class representing a HTML attribute.</p>
 
-Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -116,7 +117,8 @@ Definition at line 24 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -125,7 +127,8 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 </div>
 
 
-References <a href="#a89bb7f09a717b34af2fc9b5466adad63">name</a> and <a href="#a81dc2fb244be20f88455fe84b4f91995">value</a>.
+<p>References <a href="#a89bb7f09a717b34af2fc9b5466adad63">name</a> and <a href="#a81dc2fb244be20f88455fe84b4f91995">value</a>.</p>
+
 </div>
 </div>
 
@@ -155,7 +158,8 @@ References <a href="#a89bb7f09a717b34af2fc9b5466adad63">name</a> and <a href="#a
 
 
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -164,7 +168,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 </div>
 
 
-Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.
+<p>Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.</p>
+
 </div>
 </div>
 
@@ -188,7 +193,8 @@ Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlattrib-h">htmlattrib.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -197,7 +203,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/htmlattri
 </div>
 
 
-Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.
+<p>Referenced by <a href="#a4681cb3e087e5bd3d5d0ba1106510d7a">HtmlAttrib</a>.</p>
+
 </div>
 </div>
 

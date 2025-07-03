@@ -41,7 +41,7 @@ class ConceptDef { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a>
+<p>The common base class of all entity definitions found in the sources. <a href="/web-doxygen/docs/api/classes/definition/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -219,7 +219,8 @@ The common base class of all entity definitions found in the sources. <a href="/
 </table>
 
 
-Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -245,11 +246,14 @@ Definition at line 26 of file <a href="/web-doxygen/docs/api/files/src/conceptde
 
 
 
-Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 38 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#aeb0ed9ee2cbf2c93f995d74cc66d5399">getFileDef</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a67d97db3c717b89b9a6211ae48e9273b">findModuleDef</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#aeb0ed9ee2cbf2c93f995d74cc66d5399">getFileDef</a>, <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#aa671cbcf01bbf8c35cf41d13ac9d6893">ConceptDefAliasImpl::getFileDef</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ac0b889d39e09da6746de7b90d6de3ad0">writeTemplateList</a>.
+<p>Reference <a href="#aeb0ed9ee2cbf2c93f995d74cc66d5399">getFileDef</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a67d97db3c717b89b9a6211ae48e9273b">findModuleDef</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#aeb0ed9ee2cbf2c93f995d74cc66d5399">getFileDef</a>, <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#aa671cbcf01bbf8c35cf41d13ac9d6893">ConceptDefAliasImpl::getFileDef</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ac0b889d39e09da6746de7b90d6de3ad0">writeTemplateList</a>.</p>
+
 </div>
 </div>
 
@@ -273,11 +277,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/util-cpp/#a67d97db3c717b8
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#aa22d1722d752a5036bbf9e7740ce627f">getModuleDef</a>.
 
-Referenced by <a href="#aa22d1722d752a5036bbf9e7740ce627f">getModuleDef</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a522e825388ef007a54952f47999dc4f1">ConceptDefAliasImpl::getModuleDef</a>.
+<p>Reference <a href="#aa22d1722d752a5036bbf9e7740ce627f">getModuleDef</a>.</p>
+
+
+<p>Referenced by <a href="#aa22d1722d752a5036bbf9e7740ce627f">getModuleDef</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a522e825388ef007a54952f47999dc4f1">ConceptDefAliasImpl::getModuleDef</a>.</p>
+
 </div>
 </div>
 
@@ -301,11 +308,14 @@ Referenced by <a href="#aa22d1722d752a5036bbf9e7740ce627f">getModuleDef</a> and 
 
 
 
-Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 37 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#a9c3f2f2547ecee0747b50d7fc06e04ef">getNamespaceDef</a>.
 
-Referenced by <a href="#a9c3f2f2547ecee0747b50d7fc06e04ef">getNamespaceDef</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a431f10112903420524c8ed80e3977b75">ConceptDefAliasImpl::getNamespaceDef</a>.
+<p>Reference <a href="#a9c3f2f2547ecee0747b50d7fc06e04ef">getNamespaceDef</a>.</p>
+
+
+<p>Referenced by <a href="#a9c3f2f2547ecee0747b50d7fc06e04ef">getNamespaceDef</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a431f10112903420524c8ed80e3977b75">ConceptDefAliasImpl::getNamespaceDef</a>.</p>
+
 </div>
 </div>
 
@@ -329,11 +339,14 @@ Referenced by <a href="#a9c3f2f2547ecee0747b50d7fc06e04ef">getNamespaceDef</a> a
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#a3dc85d76254ee240faaf13633a0639ba">getTemplateParameterList</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a57fa20826d8322a1247f63872fade06f">addTemplateList</a>, <a href="#a3dc85d76254ee240faaf13633a0639ba">getTemplateParameterList</a>, <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a9671c75fea49e1cbf0d24f70cfdb5649">ConceptDefAliasImpl::getTemplateParameterList</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ac0b889d39e09da6746de7b90d6de3ad0">writeTemplateList</a>.
+<p>Reference <a href="#a3dc85d76254ee240faaf13633a0639ba">getTemplateParameterList</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a57fa20826d8322a1247f63872fade06f">addTemplateList</a>, <a href="#a3dc85d76254ee240faaf13633a0639ba">getTemplateParameterList</a>, <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a9671c75fea49e1cbf0d24f70cfdb5649">ConceptDefAliasImpl::getTemplateParameterList</a>, <a href="/web-doxygen/docs/api/files/src/sqlite3gen-cpp/#a48aeba774bb636ba277d83e94b205291">writeTemplateList</a> and <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#ac0b889d39e09da6746de7b90d6de3ad0">writeTemplateList</a>.</p>
+
 </div>
 </div>
 
@@ -357,11 +370,14 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/perlmodgen-cpp/#a57fa2082
 
 
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#ad913c61003e396a42d00f5a95cbbbeaf">groupId</a>.
 
-Referenced by <a href="#ad913c61003e396a42d00f5a95cbbbeaf">groupId</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a62b03a6340cf9cba13660cd2ee4f788c">ConceptDefAliasImpl::groupId</a>.
+<p>Reference <a href="#ad913c61003e396a42d00f5a95cbbbeaf">groupId</a>.</p>
+
+
+<p>Referenced by <a href="#ad913c61003e396a42d00f5a95cbbbeaf">groupId</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a62b03a6340cf9cba13660cd2ee4f788c">ConceptDefAliasImpl::groupId</a>.</p>
+
 </div>
 </div>
 
@@ -385,11 +401,14 @@ Referenced by <a href="#ad913c61003e396a42d00f5a95cbbbeaf">groupId</a> and <a hr
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#accb00801461a766bf65806e07f241faa">hasDetailedDescription</a>.
 
-Referenced by <a href="#accb00801461a766bf65806e07f241faa">hasDetailedDescription</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a779cb6cecef73ed77f3753ab2d5133ca">ConceptDefAliasImpl::hasDetailedDescription</a>.
+<p>Reference <a href="#accb00801461a766bf65806e07f241faa">hasDetailedDescription</a>.</p>
+
+
+<p>Referenced by <a href="#accb00801461a766bf65806e07f241faa">hasDetailedDescription</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a779cb6cecef73ed77f3753ab2d5133ca">ConceptDefAliasImpl::hasDetailedDescription</a>.</p>
+
 </div>
 </div>
 
@@ -413,11 +432,14 @@ Referenced by <a href="#accb00801461a766bf65806e07f241faa">hasDetailedDescriptio
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#a4a1c84ee0b30b5f9ccd3df69135b57b8">includeInfo</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa454368157eb7cdb564ee6a40">PerlModGenerator::generatePerlModForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#a4a1c84ee0b30b5f9ccd3df69135b57b8">includeInfo</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a748463776e82566bf28a107112c91906">ConceptDefAliasImpl::includeInfo</a>.
+<p>Reference <a href="#a4a1c84ee0b30b5f9ccd3df69135b57b8">includeInfo</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa454368157eb7cdb564ee6a40">PerlModGenerator::generatePerlModForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#a4a1c84ee0b30b5f9ccd3df69135b57b8">includeInfo</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a748463776e82566bf28a107112c91906">ConceptDefAliasImpl::includeInfo</a>.</p>
+
 </div>
 </div>
 
@@ -441,11 +463,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa
 
 
 
-Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 34 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#a1d3f52dc1f9634dfa1f1c0702f918e81">initializer</a>.
 
-Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa454368157eb7cdb564ee6a40">PerlModGenerator::generatePerlModForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#a1d3f52dc1f9634dfa1f1c0702f918e81">initializer</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a6e1277dac905c15297702f979b78f424">ConceptDefAliasImpl::initializer</a>.
+<p>Reference <a href="#a1d3f52dc1f9634dfa1f1c0702f918e81">initializer</a>.</p>
+
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa454368157eb7cdb564ee6a40">PerlModGenerator::generatePerlModForConcept</a>, <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#aac5793331bb86627d87dd42dcaa637b4">generateXMLForConcept</a>, <a href="#a1d3f52dc1f9634dfa1f1c0702f918e81">initializer</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#a6e1277dac905c15297702f979b78f424">ConceptDefAliasImpl::initializer</a>.</p>
+
 </div>
 </div>
 
@@ -469,11 +494,14 @@ Referenced by <a href="/web-doxygen/docs/api/classes/perlmodgenerator/#ac1f8e6fa
 
 
 
-Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 40 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#aa525b7f265d7f3d5ccb94b368cd2386f">title</a>.
 
-Referenced by <a href="#aa525b7f265d7f3d5ccb94b368cd2386f">title</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#ac743fbe417cb5acf1f79e6369f357720">ConceptDefAliasImpl::title</a>.
+<p>Reference <a href="#aa525b7f265d7f3d5ccb94b368cd2386f">title</a>.</p>
+
+
+<p>Referenced by <a href="#aa525b7f265d7f3d5ccb94b368cd2386f">title</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#ac743fbe417cb5acf1f79e6369f357720">ConceptDefAliasImpl::title</a>.</p>
+
 </div>
 </div>
 
@@ -497,11 +525,14 @@ Referenced by <a href="#aa525b7f265d7f3d5ccb94b368cd2386f">title</a> and <a href
 
 
 
-Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.
+<p>Definition at line 35 of file <a href="/web-doxygen/docs/api/files/src/conceptdef-h">conceptdef.h</a>.</p>
 
-Reference <a href="#a825b1919254a35b14906922cc2fb2c60">writeDeclarationLink</a>.
 
-Referenced by <a href="#a825b1919254a35b14906922cc2fb2c60">writeDeclarationLink</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#aa2734a1141fc21435d070d167ac98048">ConceptDefAliasImpl::writeDeclarationLink</a>.
+<p>Reference <a href="#a825b1919254a35b14906922cc2fb2c60">writeDeclarationLink</a>.</p>
+
+
+<p>Referenced by <a href="#a825b1919254a35b14906922cc2fb2c60">writeDeclarationLink</a> and <a href="/web-doxygen/docs/api/classes/conceptdefaliasimpl/#aa2734a1141fc21435d070d167ac98048">ConceptDefAliasImpl::writeDeclarationLink</a>.</p>
+
 </div>
 </div>
 

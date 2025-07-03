@@ -77,7 +77,8 @@ struct SearchIndex::URL { ... }
 </table>
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -108,7 +109,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/searchind
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -117,7 +119,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-References <a href="#a3f1eefbfde4e51c95769eaac3c8b2fd5">name</a> and <a href="#a12db6a8862d6ad84cbec7c975f689d32">url</a>.
+<p>References <a href="#a3f1eefbfde4e51c95769eaac3c8b2fd5">name</a> and <a href="#a12db6a8862d6ad84cbec7c975f689d32">url</a>.</p>
+
 </div>
 </div>
 
@@ -147,7 +150,8 @@ References <a href="#a3f1eefbfde4e51c95769eaac3c8b2fd5">name</a> and <a href="#a
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -156,7 +160,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a3eee33734bfd11c0ef245634cfba0e48">URL</a>.
+<p>Referenced by <a href="#a3eee33734bfd11c0ef245634cfba0e48">URL</a>.</p>
+
 </div>
 </div>
 
@@ -180,7 +185,8 @@ Referenced by <a href="#a3eee33734bfd11c0ef245634cfba0e48">URL</a>.
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/searchindex-h">searchindex.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -189,7 +195,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/searchind
 </div>
 
 
-Referenced by <a href="#a3eee33734bfd11c0ef245634cfba0e48">URL</a>.
+<p>Referenced by <a href="#a3eee33734bfd11c0ef245634cfba0e48">URL</a>.</p>
+
 </div>
 </div>
 

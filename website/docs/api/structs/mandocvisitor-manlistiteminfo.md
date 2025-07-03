@@ -58,7 +58,8 @@ struct ManDocVisitor::ManListItemInfo { ... }
 </table>
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/mandocvi
 
 
 
-Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.
+<p>Definition at line 137 of file <a href="/web-doxygen/docs/api/files/src/mandocvisitor-h">mandocvisitor.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

@@ -90,7 +90,8 @@ struct anonymous_namespace{layout.cpp}::ElementCallbacks { ... }
 </table>
 
 
-Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -116,7 +117,8 @@ Definition at line 723 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -147,7 +149,8 @@ Definition at line 726 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -184,7 +187,8 @@ Definition at line 725 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -215,7 +219,8 @@ Definition at line 729 of file <a href="/web-doxygen/docs/api/files/src/layout-c
 
 
 
-Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.
+<p>Definition at line 728 of file <a href="/web-doxygen/docs/api/files/src/layout-cpp">layout.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 

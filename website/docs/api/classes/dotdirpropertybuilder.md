@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DotDirPropertyBuilder` Class Reference
 
-Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="#details">More...</a>
+<p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -136,9 +136,10 @@ class DotDirPropertyBuilder { ... }
 
 ## Description {#details}
 
-Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct.
+<p>Builder helper to create instances of the <a href="/web-doxygen/docs/api/structs/dotdirproperty">DotDirProperty</a> struct.</p>
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -169,7 +170,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 
 
 
-Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -178,7 +180,8 @@ Definition at line 55 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
+
 </div>
 </div>
 
@@ -213,7 +216,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 
 
-Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -222,7 +226,8 @@ Definition at line 50 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
+
 </div>
 </div>
 
@@ -251,7 +256,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 
 
-Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -260,9 +266,11 @@ Definition at line 53 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9105a7992d33b10a15beb70d5">drawTree</a>.</p>
+
 </div>
 </div>
 
@@ -291,7 +299,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp/#aa598dce9
 
 
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -300,7 +309,8 @@ Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
+
 </div>
 </div>
 
@@ -329,7 +339,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 
 
-Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -338,7 +349,8 @@ Definition at line 54 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
+
 </div>
 </div>
 
@@ -367,7 +379,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 
 
-Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -376,7 +389,8 @@ Definition at line 52 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
+<p>Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m_property</a>.</p>
+
 </div>
 </div>
 
@@ -406,7 +420,8 @@ Reference <a href="#a235fcd01f99eb75bd47657676ed78142">m\_property</a>.
 
 
 
-Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.
+<p>Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotdirdeps-cpp">dotdirdeps.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -415,7 +430,8 @@ Definition at line 57 of file <a href="/web-doxygen/docs/api/files/src/dotdirdep
 </div>
 
 
-Referenced by <a href="#a9a95fade9d6e8f2865abac71e84229d3">makeIncomplete</a>, <a href="#a20342858b48a1b0233393928ffc85b57">makeOriginal</a>, <a href="#a48b550ad1699138bdee04434de781f13">makeOrphaned</a>, <a href="#a31de816a91222f075d97d9d99edd8c0e">makePeripheral</a>, <a href="#af8102fc87410b5684c8e4951706e52d9">makeTruncated</a> and <a href="#a87a8dfafffd583bac68ee83f24db2f9c">operator DotDirProperty</a>.
+<p>Referenced by <a href="#a9a95fade9d6e8f2865abac71e84229d3">makeIncomplete</a>, <a href="#a20342858b48a1b0233393928ffc85b57">makeOriginal</a>, <a href="#a48b550ad1699138bdee04434de781f13">makeOrphaned</a>, <a href="#a31de816a91222f075d97d9d99edd8c0e">makePeripheral</a>, <a href="#af8102fc87410b5684c8e4951706e52d9">makeTruncated</a> and <a href="#a87a8dfafffd583bac68ee83f24db2f9c">operator DotDirProperty</a>.</p>
+
 </div>
 </div>
 

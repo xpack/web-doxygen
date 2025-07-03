@@ -58,7 +58,8 @@ struct SQLCodeParser::Private { ... }
 </table>
 
 
-Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
+<p>Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -84,7 +85,8 @@ Definition at line 382 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-
 
 
 
-Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
+<p>Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -115,7 +117,8 @@ Definition at line 385 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-
 
 
 
-Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.
+<p>Definition at line 384 of file <a href="/web-doxygen/docs/api/files/src/sqlcode-l">sqlcode.l</a>.</p>
+
 
 <div class="doxyProgramListing">
 

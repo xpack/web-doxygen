@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `IndexList` Class Reference
 
-A list of index interfaces. <a href="#details">More...</a>
+<p>A list of index interfaces. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -60,7 +60,7 @@ class IndexList { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-disable the indices <a href="#ae7334e24bfdf93caf3db9d61ae62caf6">More...</a>
+<p>disable the indices <a href="#ae7334e24bfdf93caf3db9d61ae62caf6">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -74,7 +74,7 @@ disable the indices <a href="#ae7334e24bfdf93caf3db9d61ae62caf6">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-enable the indices <a href="#aabffffbc2e50eeb9437640c369dfd6b7">More...</a>
+<p>enable the indices <a href="#aabffffbc2e50eeb9437640c369dfd6b7">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -88,7 +88,7 @@ enable the indices <a href="#aabffffbc2e50eeb9437640c369dfd6b7">More...</a>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-returns true iff the indices are enabled <a href="#ab255d94f91cba673bf82de1edc3737ec">More...</a>
+<p>returns true iff the indices are enabled <a href="#ab255d94f91cba673bf82de1edc3737ec">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -105,7 +105,7 @@ returns true iff the indices are enabled <a href="#ab255d94f91cba673bf82de1edc37
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Add an index generator to the list, using a syntax similar to std::make_unique&lt;T&gt;() <a href="#a4dca6a37ca55f967119e1301ed976aee">More...</a>
+<p>Add an index generator to the list, using a syntax similar to std::make_unique&lt;T&gt;() <a href="#a4dca6a37ca55f967119e1301ed976aee">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -316,12 +316,14 @@ Add an index generator to the list, using a syntax similar to std::make_unique&l
 
 ## Description {#details}
 
-A list of index interfaces.
+<p>A list of index interfaces.</p>
 
 
-This class itself implements all methods of <a href="/web-doxygen/docs/api/classes/indexintf">IndexIntf</a> and just forwards the calls to all items in the list (composite design pattern).
+<p>This class itself implements all methods of <a href="/web-doxygen/docs/api/classes/indexintf">IndexIntf</a> and just forwards the calls to all items in the list (composite design pattern).</p>
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -347,7 +349,8 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -389,7 +392,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 
 
 
-Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -401,7 +405,8 @@ Definition at line 116 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#af3a85835b196e67c4e674fbf53bee806">IndexIntf::addContentsItem</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#af3a85835b196e67c4e674fbf53bee806">IndexIntf::addContentsItem</a>, <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -430,7 +435,8 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#af3a85835b196e67c4e
 
 
 
-Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -440,7 +446,8 @@ Definition at line 127 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#a2b3132671a4c688f5f687a69258936b2">IndexIntf::addImageFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#a2b3132671a4c688f5f687a69258936b2">IndexIntf::addImageFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -468,9 +475,10 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#a2b3132671a4c688f5f
 </div>
 <div class="doxyMemberDoc">
 
-Add an index generator to the list, using a syntax similar to std::make\_unique&lt;T&gt;()
+<p>Add an index generator to the list, using a syntax similar to std::make_unique&lt;T&gt;()</p>
 
-Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -480,7 +488,8 @@ Definition at line 101 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Reference <a href="#a455a0ddf0d4ecf1b7b12569169aff51c">m\_indices</a>.
+<p>Reference <a href="#a455a0ddf0d4ecf1b7b12569169aff51c">m_indices</a>.</p>
+
 </div>
 </div>
 
@@ -509,7 +518,8 @@ Reference <a href="#a455a0ddf0d4ecf1b7b12569169aff51c">m\_indices</a>.
 
 
 
-Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -519,7 +529,8 @@ Definition at line 124 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#ad3e0b2c34ae7993147c8ba2230197a52">IndexIntf::addIndexFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#ad3e0b2c34ae7993147c8ba2230197a52">IndexIntf::addIndexFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -548,7 +559,8 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#ad3e0b2c34ae7993147
 
 
 
-Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -558,7 +570,8 @@ Definition at line 121 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#a9d173d7ac4c6f979d95f7b0dc1231415">IndexIntf::addIndexItem</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#a9d173d7ac4c6f979d95f7b0dc1231415">IndexIntf::addIndexItem</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -587,7 +600,8 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#a9d173d7ac4c6f979d9
 
 
 
-Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -597,7 +611,8 @@ Definition at line 130 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#adf6128baf1a24ab479c6541724e0ac2f">IndexIntf::addStyleSheetFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#adf6128baf1a24ab479c6541724e0ac2f">IndexIntf::addStyleSheetFile</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -626,7 +641,8 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#adf6128baf1a24ab479
 
 
 
-Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -636,7 +652,8 @@ Definition at line 113 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/indexintf/#a920918399556e9afd4d927de3d1f4247">IndexIntf::decContentsDepth</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/indexintf/#a920918399556e9afd4d927de3d1f4247">IndexIntf::decContentsDepth</a>, <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -663,9 +680,10 @@ References <a href="/web-doxygen/docs/api/classes/indexintf/#a920918399556e9afd4
 </div>
 <div class="doxyMemberDoc">
 
-disable the indices
+<p>disable the indices</p>
 
-Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -675,7 +693,8 @@ Definition at line 88 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d23995850d61f7d61c55c1">FALSE</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -702,9 +721,10 @@ References <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa93f0eb578d2399
 </div>
 <div class="doxyMemberDoc">
 
-enable the indices
+<p>enable the indices</p>
 
-Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -714,7 +734,8 @@ Definition at line 92 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 </div>
 
 
-References <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -743,7 +764,8 @@ References <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a> and <a hr
 
 
 
-Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -753,7 +775,8 @@ Definition at line 107 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/indexintf/#aa5532a767c4ac41167d014209b2ea8d7">IndexIntf::finalize</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/indexintf/#aa5532a767c4ac41167d014209b2ea8d7">IndexIntf::finalize</a>.</p>
+
 </div>
 </div>
 
@@ -782,7 +805,8 @@ Reference <a href="/web-doxygen/docs/api/classes/indexintf/#aa5532a767c4ac41167d
 
 
 
-Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -792,7 +816,8 @@ Definition at line 110 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-References <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a>, <a href="/web-doxygen/docs/api/classes/indexintf/#ac5ff1647bcf1cc65543258df162a0a7c">IndexIntf::incContentsDepth</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>References <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a>, <a href="/web-doxygen/docs/api/classes/indexintf/#ac5ff1647bcf1cc65543258df162a0a7c">IndexIntf::incContentsDepth</a> and <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -821,7 +846,8 @@ References <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a>, <a 
 
 
 
-Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -831,7 +857,8 @@ Definition at line 104 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/indexintf/#a0e46b4afa0ed269e2d089c8444590515">IndexIntf::initialize</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/indexintf/#a0e46b4afa0ed269e2d089c8444590515">IndexIntf::initialize</a>.</p>
+
 </div>
 </div>
 
@@ -858,9 +885,10 @@ Reference <a href="/web-doxygen/docs/api/classes/indexintf/#a0e46b4afa0ed269e2d0
 </div>
 <div class="doxyMemberDoc">
 
-returns true iff the indices are enabled
+<p>returns true iff the indices are enabled</p>
 
-Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -870,7 +898,8 @@ Definition at line 96 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 </div>
 
 
-Reference <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
+<p>Reference <a href="#a2ae70269ec6d9a598eadf0f49570b039">m_enabled</a>.</p>
+
 </div>
 </div>
 
@@ -906,7 +935,8 @@ Reference <a href="#a2ae70269ec6d9a598eadf0f49570b039">m\_enabled</a>.
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -949,7 +979,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 
 
 
-Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -965,9 +996,11 @@ Definition at line 77 of file <a href="/web-doxygen/docs/api/files/src/indexlist
 </div>
 
 
-References <a href="#a455a0ddf0d4ecf1b7b12569169aff51c">m\_indices</a> and <a href="#aab5c840991583c98dcf06417cf243be9">m\_mutex</a>.
+<p>References <a href="#a455a0ddf0d4ecf1b7b12569169aff51c">m_indices</a> and <a href="#aab5c840991583c98dcf06417cf243be9">m_mutex</a>.</p>
 
-Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, <a href="#aac3c1b70be363f488269cd9054cc7621">addImageFile</a>, <a href="#a85b310bcd8bd41aa67eba20c39210a0f">addIndexFile</a>, <a href="#afdb8f0434f6e648c6836872121f61917">addIndexItem</a>, <a href="#a18b2beeb1826949562e6fd25edd5228f">addStyleSheetFile</a>, <a href="#a4bad65cd2fadab4529bbfe5df78cc019">decContentsDepth</a> and <a href="#ac6af95293030206c0224260e9b1d7aca">incContentsDepth</a>.
+
+<p>Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, <a href="#aac3c1b70be363f488269cd9054cc7621">addImageFile</a>, <a href="#a85b310bcd8bd41aa67eba20c39210a0f">addIndexFile</a>, <a href="#afdb8f0434f6e648c6836872121f61917">addIndexItem</a>, <a href="#a18b2beeb1826949562e6fd25edd5228f">addStyleSheetFile</a>, <a href="#a4bad65cd2fadab4529bbfe5df78cc019">decContentsDepth</a> and <a href="#ac6af95293030206c0224260e9b1d7aca">incContentsDepth</a>.</p>
+
 </div>
 </div>
 
@@ -997,7 +1030,8 @@ Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, 
 
 
 
-Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1006,7 +1040,8 @@ Definition at line 134 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, <a href="#aac3c1b70be363f488269cd9054cc7621">addImageFile</a>, <a href="#a85b310bcd8bd41aa67eba20c39210a0f">addIndexFile</a>, <a href="#afdb8f0434f6e648c6836872121f61917">addIndexItem</a>, <a href="#a18b2beeb1826949562e6fd25edd5228f">addStyleSheetFile</a>, <a href="#a4bad65cd2fadab4529bbfe5df78cc019">decContentsDepth</a>, <a href="#ae7334e24bfdf93caf3db9d61ae62caf6">disable</a>, <a href="#aabffffbc2e50eeb9437640c369dfd6b7">enable</a>, <a href="#ac6af95293030206c0224260e9b1d7aca">incContentsDepth</a> and <a href="#ab255d94f91cba673bf82de1edc3737ec">isEnabled</a>.
+<p>Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, <a href="#aac3c1b70be363f488269cd9054cc7621">addImageFile</a>, <a href="#a85b310bcd8bd41aa67eba20c39210a0f">addIndexFile</a>, <a href="#afdb8f0434f6e648c6836872121f61917">addIndexItem</a>, <a href="#a18b2beeb1826949562e6fd25edd5228f">addStyleSheetFile</a>, <a href="#a4bad65cd2fadab4529bbfe5df78cc019">decContentsDepth</a>, <a href="#ae7334e24bfdf93caf3db9d61ae62caf6">disable</a>, <a href="#aabffffbc2e50eeb9437640c369dfd6b7">enable</a>, <a href="#ac6af95293030206c0224260e9b1d7aca">incContentsDepth</a> and <a href="#ab255d94f91cba673bf82de1edc3737ec">isEnabled</a>.</p>
+
 </div>
 </div>
 
@@ -1030,7 +1065,8 @@ Referenced by <a href="#a67dc4e5b8c648a8bd0636a54841c79f4">addContentsItem</a>, 
 
 
 
-Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1039,7 +1075,8 @@ Definition at line 136 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Referenced by <a href="#a4dca6a37ca55f967119e1301ed976aee">addIndex</a> and <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a>.
+<p>Referenced by <a href="#a4dca6a37ca55f967119e1301ed976aee">addIndex</a> and <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a>.</p>
+
 </div>
 </div>
 
@@ -1063,7 +1100,8 @@ Referenced by <a href="#a4dca6a37ca55f967119e1301ed976aee">addIndex</a> and <a h
 
 
 
-Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.
+<p>Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/indexlist-h">indexlist.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1072,7 +1110,8 @@ Definition at line 135 of file <a href="/web-doxygen/docs/api/files/src/indexlis
 </div>
 
 
-Referenced by <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach\_locked</a>.
+<p>Referenced by <a href="#abdb3ca756e96e27580c7dfd330ad52ce">foreach_locked</a>.</p>
+
 </div>
 </div>
 

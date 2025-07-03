@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `CitePosition` Class Reference
 
-class that provide information about the p\[osition of a citation name <a href="#details">More...</a>
+<p>class that provide information about the p[osition of a citation name <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -78,9 +78,10 @@ class CitePosition { ... }
 
 ## Description {#details}
 
-class that provide information about the p\[osition of a citation name
+<p>class that provide information about the p[osition of a citation name</p>
 
-Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -111,7 +112,8 @@ Definition at line 41 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -120,7 +122,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-References <a href="#a266c17e1bcb6dca43d0187737ba31851">fileName</a> and <a href="#aedf706f50c0da88fa95c4c34e7ee1e97">lineNr</a>.
+<p>References <a href="#a266c17e1bcb6dca43d0187737ba31851">fileName</a> and <a href="#aedf706f50c0da88fa95c4c34e7ee1e97">lineNr</a>.</p>
+
 </div>
 </div>
 
@@ -150,7 +153,8 @@ References <a href="#a266c17e1bcb6dca43d0187737ba31851">fileName</a> and <a href
 
 
 
-Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -159,7 +163,8 @@ Definition at line 46 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.
+<p>Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.</p>
+
 </div>
 </div>
 
@@ -183,7 +188,8 @@ Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.
 
 
 
-Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.
+<p>Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp">cite.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -192,7 +198,8 @@ Definition at line 47 of file <a href="/web-doxygen/docs/api/files/src/cite-cpp"
 </div>
 
 
-Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.
+<p>Referenced by <a href="#ab9ed6eef1e49b34920a2e57792546bd4">CitePosition</a>.</p>
+
 </div>
 </div>
 

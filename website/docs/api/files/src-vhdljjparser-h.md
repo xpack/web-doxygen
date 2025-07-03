@@ -47,7 +47,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a>
+<p>VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/classes/vhdloutlineparser/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -170,7 +170,8 @@ VHDL parser using state-based lexical scanning. <a href="/web-doxygen/docs/api/c
 </dd>
 </dl>
 
-Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.
+<p>Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -207,7 +208,8 @@ Definition at line 20 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpar
 
 
 
-Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 868 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -246,7 +248,8 @@ Declaration at line 78 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpa
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a7208e5ca317711c8190cbdcfae8ab702">GrowBuf::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a1a0ecc7a79837ed02005befe12d49994">GrowBuf::getPos</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/growbuf/#a98f7e0590791e42fcbd31bdfd8c75d2a">GrowBuf::setPos</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f26e71a59efda">GrowBuf::addChar</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a7208e5ca317711c8190cbdcfae8ab702">GrowBuf::at</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a88d6408723b8c1a58187f24da81dfd5e">GrowBuf::get</a>, <a href="/web-doxygen/docs/api/classes/growbuf/#a1a0ecc7a79837ed02005befe12d49994">GrowBuf::getPos</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a> and <a href="/web-doxygen/docs/api/classes/growbuf/#a98f7e0590791e42fcbd31bdfd8c75d2a">GrowBuf::setPos</a>.</p>
+
 </div>
 </div>
 
@@ -270,7 +273,8 @@ References <a href="/web-doxygen/docs/api/classes/growbuf/#a46b4677f555d2abc718f
 
 
 
-Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.
+<p>Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-h">vhdljjparser.h</a>, definition at line 845 of file <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp">vhdljjparser.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -282,9 +286,11 @@ Declaration at line 76 of file <a href="/web-doxygen/docs/api/files/src/vhdljjpa
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a61ffdba0efc8d9b6390969cb7fa5d37b">g\_instFiles</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/vhdljjparser-cpp/#a61ffdba0efc8d9b6390969cb7fa5d37b">g_instFiles</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab8681769cd2f027fbf46a4836d3825e9">VhdlDocGen::computeVhdlComponentRelations</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/vhdldocgen/#ab8681769cd2f027fbf46a4836d3825e9">VhdlDocGen::computeVhdlComponentRelations</a>.</p>
+
 </div>
 </div>
 

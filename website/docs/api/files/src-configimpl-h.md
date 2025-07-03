@@ -44,7 +44,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a>
+<p>Abstract base class for any configuration option. <a href="/web-doxygen/docs/api/classes/configoption/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -58,7 +58,7 @@ Abstract base class for any configuration option. <a href="/web-doxygen/docs/api
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Section marker for grouping the configuration options. <a href="/web-doxygen/docs/api/classes/configinfo/#details">More...</a>
+<p>Section marker for grouping the configuration options. <a href="/web-doxygen/docs/api/classes/configinfo/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -72,7 +72,7 @@ Section marker for grouping the configuration options. <a href="/web-doxygen/doc
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a list type option. <a href="/web-doxygen/docs/api/classes/configlist/#details">More...</a>
+<p>Class representing a list type option. <a href="/web-doxygen/docs/api/classes/configlist/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -86,7 +86,7 @@ Class representing a list type option. <a href="/web-doxygen/docs/api/classes/co
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing an enum type option. <a href="/web-doxygen/docs/api/classes/configenum/#details">More...</a>
+<p>Class representing an enum type option. <a href="/web-doxygen/docs/api/classes/configenum/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -100,7 +100,7 @@ Class representing an enum type option. <a href="/web-doxygen/docs/api/classes/c
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a string type option. <a href="/web-doxygen/docs/api/classes/configstring/#details">More...</a>
+<p>Class representing a string type option. <a href="/web-doxygen/docs/api/classes/configstring/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -114,7 +114,7 @@ Class representing a string type option. <a href="/web-doxygen/docs/api/classes/
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing an integer type option. <a href="/web-doxygen/docs/api/classes/configint/#details">More...</a>
+<p>Class representing an integer type option. <a href="/web-doxygen/docs/api/classes/configint/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -128,7 +128,7 @@ Class representing an integer type option. <a href="/web-doxygen/docs/api/classe
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Class representing a Boolean type option. <a href="/web-doxygen/docs/api/classes/configbool/#details">More...</a>
+<p>Class representing a Boolean type option. <a href="/web-doxygen/docs/api/classes/configbool/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -142,7 +142,7 @@ Class representing a Boolean type option. <a href="/web-doxygen/docs/api/classes
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Section marker for obsolete options. <a href="/web-doxygen/docs/api/classes/configobsolete/#details">More...</a>
+<p>Section marker for obsolete options. <a href="/web-doxygen/docs/api/classes/configobsolete/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -156,7 +156,7 @@ Section marker for obsolete options. <a href="/web-doxygen/docs/api/classes/conf
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Section marker for compile time optional options. <a href="/web-doxygen/docs/api/classes/configdisabled/#details">More...</a>
+<p>Section marker for compile time optional options. <a href="/web-doxygen/docs/api/classes/configdisabled/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -170,7 +170,7 @@ Section marker for compile time optional options. <a href="/web-doxygen/docs/api
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Singleton for configuration variables. <a href="/web-doxygen/docs/api/classes/configimpl/#details">More...</a>
+<p>Singleton for configuration variables. <a href="/web-doxygen/docs/api/classes/configimpl/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -307,7 +307,8 @@ Singleton for configuration variables. <a href="/web-doxygen/docs/api/classes/co
 
 
 
-Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -338,7 +339,8 @@ Definition at line 328 of file <a href="/web-doxygen/docs/api/files/src/configim
 
 
 
-Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -375,7 +377,8 @@ Definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/configim
 
 
 
-Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -384,7 +387,8 @@ Definition at line 325 of file <a href="/web-doxygen/docs/api/files/src/configim
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0f68a30519debac43f">Config::checkAndCorrect</a>.</p>
+
 </div>
 </div>
 
@@ -408,7 +412,8 @@ Referenced by <a href="/web-doxygen/docs/api/namespaces/config/#a43f9512cdb148a0
 
 
 
-Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -439,7 +444,8 @@ Definition at line 324 of file <a href="/web-doxygen/docs/api/files/src/configim
 
 
 
-Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -470,7 +476,8 @@ Definition at line 322 of file <a href="/web-doxygen/docs/api/files/src/configim
 
 
 
-Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -501,7 +508,8 @@ Definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/configim
 
 
 
-Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.
+<p>Definition at line 321 of file <a href="/web-doxygen/docs/api/files/src/configimpl-h">configimpl.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

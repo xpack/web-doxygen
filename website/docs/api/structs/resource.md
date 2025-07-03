@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `Resource` Struct Reference
 
-Compiled resource. <a href="#details">More...</a>
+<p>Compiled resource. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -122,9 +122,10 @@ struct Resource { ... }
 
 ## Description {#details}
 
-Compiled resource.
+<p>Compiled resource.</p>
 
-Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -168,7 +169,8 @@ Definition at line 25 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 </dd>
 </dl>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -205,7 +207,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 
 
 
-Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -236,7 +239,8 @@ Definition at line 28 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 
 
 
-Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -245,7 +249,8 @@ Definition at line 30 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a> and <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cfa31de29221db11aa">ResourceMgr::getAsString</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a> and <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cfa31de29221db11aa">ResourceMgr::getAsString</a>.</p>
+
 </div>
 </div>
 
@@ -269,7 +274,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 
 
 
-Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -300,7 +306,8 @@ Definition at line 29 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -309,7 +316,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a> and <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cfa31de29221db11aa">ResourceMgr::getAsString</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a> and <a href="/web-doxygen/docs/api/classes/resourcemgr/#aa60ef164e79a11cfa31de29221db11aa">ResourceMgr::getAsString</a>.</p>
+
 </div>
 </div>
 
@@ -333,7 +341,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d3
 
 
 
-Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.
+<p>Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/resourcemgr-h">resourcemgr.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -342,7 +351,8 @@ Definition at line 32 of file <a href="/web-doxygen/docs/api/files/src/resourcem
 </div>
 
 
-Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a>.
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/resourcemgr/#ad396917a059d354b1ff240b9af3a006c">ResourceMgr::copyResourceAs</a>.</p>
+
 </div>
 </div>
 

@@ -20,9 +20,11 @@ toc_max_heading_level: 4
 
 
 
-Doxygen supports most of the XML commands that are typically used in C# code comments. The XML tags are defined in Appendix D of the <a href="https://ecma-international.org/publications-and-standards/standards/ecma-334/">ECMA-334</a> standard, which defines the C# language. Unfortunately, the specification is not very precise and a number of the examples given are of poor quality.
+<p>Doxygen supports most of the XML commands that are typically used in C# code comments. The XML tags are defined in Appendix D of the <a href="https://ecma-international.org/publications-and-standards/standards/ecma-334/">ECMA-334</a> standard, which defines the C# language. Unfortunately, the specification is not very precise and a number of the examples given are of poor quality.</p>
 
-Here is the list of tags supported by Doxygen:
+
+<p>Here is the list of tags supported by Doxygen:</p>
+
 
 <table class="doxyTable">
 <tr>
@@ -127,7 +129,8 @@ Here is the list of tags supported by Doxygen:
 </tr>
 </table>
 
-Here is an example of a typical piece of code using some of the above commands:
+<p>Here is an example of a typical piece of code using some of the above commands:</p>
+
 
 <div class="doxyProgramListing">
 

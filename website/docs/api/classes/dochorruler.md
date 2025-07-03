@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `DocHorRuler` Class Reference
 
-Node representing a horizontal ruler. <a href="#details">More...</a>
+<p>Node representing a horizontal ruler. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class DocHorRuler { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a>
+<p>Abstract node interface with type information. <a href="/web-doxygen/docs/api/classes/docnode/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -109,9 +109,10 @@ Abstract node interface with type information. <a href="/web-doxygen/docs/api/cl
 
 ## Description {#details}
 
-Node representing a horizontal ruler.
+<p>Node representing a horizontal ruler.</p>
 
-Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -142,7 +143,8 @@ Definition at line 215 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 
 
 
-Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -152,7 +154,8 @@ Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m\_attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.
+<p>References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a12e0244788c1b56cb307517cb8d9d96f">DocNode::DocNode</a>, <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m_attribs</a>, <a href="/web-doxygen/docs/api/classes/docnode/#a9217c40d6d74f2b78928b3d8131dd7f0">DocNode::parent</a> and <a href="/web-doxygen/docs/api/classes/docnode/#a82847109f245ad8e8fe6102cf875fcd1">DocNode::parser</a>.</p>
+
 </div>
 </div>
 
@@ -187,7 +190,8 @@ References <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a>, <a href="/w
 
 
 
-Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -196,9 +200,11 @@ Definition at line 221 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Reference <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m\_attribs</a>.
+<p>Reference <a href="#acc7b813019a76d0091aa3fcbcf3f6949">m_attribs</a>.</p>
 
-Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab06971ee32204757c136a8239efbe14c">HtmlDocVisitor::operator()</a>.
+
+<p>Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <a href="/web-doxygen/docs/api/classes/htmldocvisitor/#ab06971ee32204757c136a8239efbe14c">HtmlDocVisitor::operator()</a>.</p>
+
 </div>
 </div>
 
@@ -228,7 +234,8 @@ Referenced by <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a> and <
 
 
 
-Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/docnode-h">docnode.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -237,7 +244,8 @@ Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/docnode-
 </div>
 
 
-Referenced by <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a> and <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a>.
+<p>Referenced by <a href="#a9e8202ce32e7909dc82993ee5807aa0c">attribs</a> and <a href="#a2efd7680497405439169253a2ff54f8c">DocHorRuler</a>.</p>
+
 </div>
 </div>
 

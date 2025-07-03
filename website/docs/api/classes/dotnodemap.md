@@ -45,7 +45,8 @@ class DotNodeMap { ... }
 </table>
 
 
-Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.
+<p>Definition at line 149 of file <a href="/web-doxygen/docs/api/files/src/dotnode-h">dotnode.h</a>.</p>
+
 
 <hr/>
 

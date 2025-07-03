@@ -289,7 +289,8 @@ class LocalToc { ... }
 </table>
 
 
-Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -353,7 +354,8 @@ Definition at line 579 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </dd>
 </dl>
 
-Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -402,7 +404,8 @@ Definition at line 582 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 
 
 
-Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -411,7 +414,8 @@ Definition at line 590 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>, <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca1880247bd8812ade02c316bfc1923e1e">None</a>.
+<p>References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a>, <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca1880247bd8812ade02c316bfc1923e1e">None</a>.</p>
+
 </div>
 </div>
 
@@ -446,7 +450,8 @@ References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>, <a href="#
 
 
 
-Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -455,9 +460,11 @@ Definition at line 623 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -486,7 +493,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 608 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 608 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -499,7 +507,8 @@ Definition at line 608 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
+
 </div>
 </div>
 
@@ -528,7 +537,8 @@ References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c
 
 
 
-Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -541,7 +551,8 @@ Definition at line 593 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
+
 </div>
 </div>
 
@@ -570,7 +581,8 @@ References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3
 
 
 
-Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -583,7 +595,8 @@ Definition at line 598 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a>, <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
+
 </div>
 </div>
 
@@ -612,7 +625,8 @@ References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f2
 
 
 
-Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -625,7 +639,8 @@ Definition at line 603 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>, <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.
+<p>References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a>, <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.</p>
+
 </div>
 </div>
 
@@ -654,7 +669,8 @@ References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>, <a href="#
 
 
 
-Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -663,9 +679,11 @@ Definition at line 620 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -694,7 +712,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 618 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 618 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -703,9 +722,11 @@ Definition at line 618 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca48f085768895cc1573f94085c7d1b516">Docbook</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -734,7 +755,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -743,9 +765,11 @@ Definition at line 615 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca3196ecef0580f29590080d5c3e6b7b51">Html</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -774,7 +798,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -783,9 +808,11 @@ Definition at line 616 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a> and <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -814,7 +841,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -823,9 +851,11 @@ Definition at line 617 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.
+<p>References <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>.</p>
+
 </div>
 </div>
 
@@ -854,7 +884,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171
 
 
 
-Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -863,9 +894,11 @@ Definition at line 621 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a>.
+<p>References <a href="#a665c661f92a4de013f9c54ad52a330eca518eefcd10728ef895166a2f20a566b7">Latex</a> and <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065be6bd3a5526d291555c7a6">DefinitionImpl::writeToc</a>.</p>
+
 </div>
 </div>
 
@@ -894,7 +927,8 @@ Referenced by <a href="/web-doxygen/docs/api/classes/definitionimpl/#acff1068065
 
 
 
-Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -903,7 +937,8 @@ Definition at line 624 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Reference <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
+<p>Reference <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a>.</p>
+
 </div>
 </div>
 
@@ -932,7 +967,8 @@ Reference <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a>.
 
 
 
-Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -941,7 +977,8 @@ Definition at line 619 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca1880247bd8812ade02c316bfc1923e1e">None</a>.
+<p>References <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m_mask</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca1880247bd8812ade02c316bfc1923e1e">None</a>.</p>
+
 </div>
 </div>
 
@@ -970,7 +1007,8 @@ References <a href="#a9b765e619f6df5006a3cfb001f29a1d5">m\_mask</a> and <a href=
 
 
 
-Definition at line 622 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 622 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -979,9 +1017,11 @@ Definition at line 622 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m\_level</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.
+<p>References <a href="#a7709e84d4f15cf130be5fd6d4def6a0c">m_level</a> and <a href="#a665c661f92a4de013f9c54ad52a330eca0435bb97f551dc7353ddb940de458128">Xml</a>.</p>
 
-Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>.
+
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171409ff704f91dd087e8de">generateXMLForPage</a>.</p>
+
 </div>
 </div>
 
@@ -1011,7 +1051,8 @@ Referenced by <a href="/web-doxygen/docs/api/files/src/xmlgen-cpp/#afa324f7a9171
 
 
 
-Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1020,7 +1061,8 @@ Definition at line 628 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Referenced by <a href="#a5ecf76de70ae4c4d0c95fa0472282514">docbookLevel</a>, <a href="#a9f4ccaf943151b3748ac55d7c5ec1095">enableDocbook</a>, <a href="#adb0a6e17eee8f7d80a9aadda144adeef">enableHtml</a>, <a href="#a66f3b736634b3db5aa9a62942917e5a5">enableLatex</a>, <a href="#a133dfb0a71ebad467f3dda6007ffbcc2">enableXml</a>, <a href="#a8cdc5e389caf05398964aded60de1ff0">htmlLevel</a>, <a href="#a6de83921649038414bd0d40104245e19">latexLevel</a>, <a href="#a8409796c21a6f880f25b44ad0f22f181">LocalToc</a> and <a href="#abca2abf41b05fabc55bbf1deb7eb33cb">xmlLevel</a>.
+<p>Referenced by <a href="#a5ecf76de70ae4c4d0c95fa0472282514">docbookLevel</a>, <a href="#a9f4ccaf943151b3748ac55d7c5ec1095">enableDocbook</a>, <a href="#adb0a6e17eee8f7d80a9aadda144adeef">enableHtml</a>, <a href="#a66f3b736634b3db5aa9a62942917e5a5">enableLatex</a>, <a href="#a133dfb0a71ebad467f3dda6007ffbcc2">enableXml</a>, <a href="#a8cdc5e389caf05398964aded60de1ff0">htmlLevel</a>, <a href="#a6de83921649038414bd0d40104245e19">latexLevel</a>, <a href="#a8409796c21a6f880f25b44ad0f22f181">LocalToc</a> and <a href="#abca2abf41b05fabc55bbf1deb7eb33cb">xmlLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1044,7 +1086,8 @@ Referenced by <a href="#a5ecf76de70ae4c4d0c95fa0472282514">docbookLevel</a>, <a 
 
 
 
-Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.
+<p>Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/types-h">types.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1053,7 +1096,8 @@ Definition at line 627 of file <a href="/web-doxygen/docs/api/files/src/types-h"
 </div>
 
 
-Referenced by <a href="#a9f4ccaf943151b3748ac55d7c5ec1095">enableDocbook</a>, <a href="#adb0a6e17eee8f7d80a9aadda144adeef">enableHtml</a>, <a href="#a66f3b736634b3db5aa9a62942917e5a5">enableLatex</a>, <a href="#a133dfb0a71ebad467f3dda6007ffbcc2">enableXml</a>, <a href="#aef79ee9848fb8c2d09ed0e8ab101fc5c">isDocbookEnabled</a>, <a href="#a07b1cd7e11164849f2de2a568cd584eb">isHtmlEnabled</a>, <a href="#af62a2335cca0b04ddbda5cc57e59bd19">isLatexEnabled</a>, <a href="#a3c3e72b9a062560ca3e5b9cee2cbe3c4">isXmlEnabled</a>, <a href="#a8409796c21a6f880f25b44ad0f22f181">LocalToc</a>, <a href="#a47011b6d1757ce5a8fdf18211e5cdfe2">mask</a> and <a href="#ae15aacdbfdb4b902b85e8ba116f7f468">nothingEnabled</a>.
+<p>Referenced by <a href="#a9f4ccaf943151b3748ac55d7c5ec1095">enableDocbook</a>, <a href="#adb0a6e17eee8f7d80a9aadda144adeef">enableHtml</a>, <a href="#a66f3b736634b3db5aa9a62942917e5a5">enableLatex</a>, <a href="#a133dfb0a71ebad467f3dda6007ffbcc2">enableXml</a>, <a href="#aef79ee9848fb8c2d09ed0e8ab101fc5c">isDocbookEnabled</a>, <a href="#a07b1cd7e11164849f2de2a568cd584eb">isHtmlEnabled</a>, <a href="#af62a2335cca0b04ddbda5cc57e59bd19">isLatexEnabled</a>, <a href="#a3c3e72b9a062560ca3e5b9cee2cbe3c4">isXmlEnabled</a>, <a href="#a8409796c21a6f880f25b44ad0f22f181">LocalToc</a>, <a href="#a47011b6d1757ce5a8fdf18211e5cdfe2">mask</a> and <a href="#ae15aacdbfdb4b902b85e8ba116f7f468">nothingEnabled</a>.</p>
+
 </div>
 </div>
 

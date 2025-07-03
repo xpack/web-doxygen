@@ -36,7 +36,7 @@ toc_max_heading_level: 4
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This class contains the information about the argument of a function or template. <a href="/web-doxygen/docs/api/structs/argument/#details">More...</a>
+<p>This class contains the information about the argument of a function or template. <a href="/web-doxygen/docs/api/structs/argument/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -50,7 +50,7 @@ This class contains the information about the argument of a function or template
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-This class represents an function or template argument list. <a href="/web-doxygen/docs/api/classes/argumentlist/#details">More...</a>
+<p>This class represents an function or template argument list. <a href="/web-doxygen/docs/api/classes/argumentlist/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -122,7 +122,8 @@ This class represents an function or template argument list. <a href="/web-doxyg
 
 
 
-Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -187,7 +188,8 @@ Definition at line 145 of file <a href="/web-doxygen/docs/api/files/src/argument
 </dd>
 </dl>
 
-Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.
+<p>Definition at line 51 of file <a href="/web-doxygen/docs/api/files/src/arguments-h">arguments.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 

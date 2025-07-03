@@ -17,7 +17,7 @@ toc_max_heading_level: 4
 
 # The `RTFCodeGenerator` Class Reference
 
-Generator for RTF code fragments. <a href="#details">More...</a>
+<p>Generator for RTF code fragments. <a href="#details">More...</a></p>
 
 ## Declaration
 
@@ -41,7 +41,7 @@ class RTFCodeGenerator { ... }
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
 <td class="doxyMemberIndexDescriptionRight">
-Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a>
+<p>Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcodeintf/#details">More...</a></p>
 </td>
 </tr>
 <tr class="doxyMemberIndexSeparator">
@@ -511,9 +511,10 @@ Base class for code generators. <a href="/web-doxygen/docs/api/classes/outputcod
 
 ## Description {#details}
 
-Generator for RTF code fragments.
+<p>Generator for RTF code fragments.</p>
 
-Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -538,7 +539,8 @@ Definition at line 27 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 <div class="doxyMemberDoc">
 
 
-Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -547,9 +549,11 @@ Definition at line 63 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Reference <a href="#aece5c8037a90ce0cde3060b7393f880c">RTFGenerator</a>.
+<p>Reference <a href="#aece5c8037a90ce0cde3060b7393f880c">RTFGenerator</a>.</p>
 
-Referenced by <a href="#aece5c8037a90ce0cde3060b7393f880c">RTFGenerator</a>.
+
+<p>Referenced by <a href="#aece5c8037a90ce0cde3060b7393f880c">RTFGenerator</a>.</p>
+
 </div>
 </div>
 
@@ -579,7 +583,8 @@ Referenced by <a href="#aece5c8037a90ce0cde3060b7393f880c">RTFGenerator</a>.
 
 
 
-Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 114 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -590,7 +595,8 @@ Declaration at line 30 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
+<p>Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -626,7 +632,8 @@ Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
 
 
 
-Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -662,7 +669,8 @@ Definition at line 39 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 
 
 
-Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 153 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -713,9 +721,11 @@ Declaration at line 34 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config\_getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a75891545c949b2c3db89850c160323c9">m\_col</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>, <a href="#a279a32a8e302c15f13073aa13e73aee5">m\_stripIndentAmount</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a06b59c3720174e9078f613095a89b295">Config_getInt</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a75891545c949b2c3db89850c160323c9">m_col</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>, <a href="#a279a32a8e302c15f13073aa13e73aee5">m_stripIndentAmount</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a14cfb67a8134e5c51d17d4ebc962c322">updateColumnCount</a> and <a href="/web-doxygen/docs/api/files/src/utf8-cpp/#ae9de248ba9e19731fb682352dcbc1b3c">writeUTF8Char</a>.</p>
 
-Referenced by <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a>.
+
+<p>Referenced by <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -744,7 +754,8 @@ Referenced by <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a>.
 
 
 
-Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 225 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -760,7 +771,8 @@ Declaration at line 58 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453cd49cd7e753fa4e9d77d3c38">DBG\_RTF</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453cd49cd7e753fa4e9d77d3c38">DBG_RTF</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -789,7 +801,8 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 
 
 
-Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 285 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -803,9 +816,11 @@ Declaration at line 53 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#ab348c86fa73f25281059dbe00a817de8">m\_doxyCodeLineOpen</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
+<p>References <a href="#ab348c86fa73f25281059dbe00a817de8">m_doxyCodeLineOpen</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>.</p>
 
-Referenced by <a href="#a511d5ad66a598b2607224d1d1b1a931e">endCodeFragment</a>.
+
+<p>Referenced by <a href="#a511d5ad66a598b2607224d1d1b1a931e">endCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -835,7 +850,8 @@ Referenced by <a href="#a511d5ad66a598b2607224d1d1b1a931e">endCodeFragment</a>.
 
 
 
-Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -871,7 +887,8 @@ Definition at line 60 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 
 
 
-Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 317 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -884,7 +901,8 @@ Declaration at line 55 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
+<p>References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a> and <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -913,7 +931,8 @@ References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a> and <a href=
 
 
 
-Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 207 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -925,7 +944,8 @@ Declaration at line 37 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-Reference <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>.
+<p>Reference <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>.</p>
+
 </div>
 </div>
 
@@ -954,7 +974,8 @@ Reference <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>.
 
 
 
-Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -966,7 +987,8 @@ Declaration at line 38 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-Reference <a href="#a279a32a8e302c15f13073aa13e73aee5">m\_stripIndentAmount</a>.
+<p>Reference <a href="#a279a32a8e302c15f13073aa13e73aee5">m_stripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -995,7 +1017,8 @@ Reference <a href="#a279a32a8e302c15f13073aa13e73aee5">m\_stripIndentAmount</a>.
 
 
 
-Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1004,7 +1027,8 @@ Definition at line 31 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
+<p>Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>.</p>
+
 </div>
 </div>
 
@@ -1033,7 +1057,8 @@ Reference <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>.
 
 
 
-Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 217 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1048,7 +1073,8 @@ Declaration at line 57 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453cd49cd7e753fa4e9d77d3c38">DBG\_RTF</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>, <a href="#a5b9f9d4a335e0e68bad617fdceb9e318">rtf\_Code\_DepthStyle</a> and <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a3588987fef5687c675e6fb979b9850c1">rtf\_Style\_Reset</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453cd49cd7e753fa4e9d77d3c38">DBG_RTF</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>, <a href="#a5b9f9d4a335e0e68bad617fdceb9e318">rtf_Code_DepthStyle</a> and <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a3588987fef5687c675e6fb979b9850c1">rtf_Style_Reset</a>.</p>
+
 </div>
 </div>
 
@@ -1077,7 +1103,8 @@ References <a href="/web-doxygen/docs/api/files/src/rtfdocvisitor-cpp/#a8e937453
 
 
 
-Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 278 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1091,7 +1118,8 @@ Declaration at line 52 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#a75891545c949b2c3db89850c160323c9">m\_col</a>, <a href="#ab348c86fa73f25281059dbe00a817de8">m\_doxyCodeLineOpen</a> and <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>.
+<p>References <a href="#a75891545c949b2c3db89850c160323c9">m_col</a>, <a href="#ab348c86fa73f25281059dbe00a817de8">m_doxyCodeLineOpen</a> and <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>.</p>
+
 </div>
 </div>
 
@@ -1121,7 +1149,8 @@ References <a href="#a75891545c949b2c3db89850c160323c9">m\_col</a>, <a href="#ab
 
 
 
-Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1157,7 +1186,8 @@ Definition at line 59 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 
 
 
-Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 292 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1189,7 +1219,8 @@ Declaration at line 54 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
+
 </div>
 </div>
 
@@ -1218,7 +1249,8 @@ References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>, <a href="#a
 
 
 
-Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1230,7 +1262,8 @@ Declaration at line 36 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a> and <a href="#a7d113cd488f4ba6e5bfcb1eca1b42d8f">m\_stripCodeComments</a>.
+<p>References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a> and <a href="#a7d113cd488f4ba6e5bfcb1eca1b42d8f">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1259,7 +1292,8 @@ References <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a> and <a href=
 
 
 
-Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 197 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1271,7 +1305,8 @@ Declaration at line 35 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-Reference <a href="#a7d113cd488f4ba6e5bfcb1eca1b42d8f">m\_stripCodeComments</a>.
+<p>Reference <a href="#a7d113cd488f4ba6e5bfcb1eca1b42d8f">m_stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1301,7 +1336,8 @@ Reference <a href="#a7d113cd488f4ba6e5bfcb1eca1b42d8f">m\_stripCodeComments</a>.
 
 
 
-Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1310,7 +1346,8 @@ Definition at line 33 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a7da7adb1d98a6ee0f69281084f9ea9b2">RTF</a>.
+<p>Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a31a2addafc06d4f3a3a7da7adb1d98a6ee0f69281084f9ea9b2">RTF</a>.</p>
+
 </div>
 </div>
 
@@ -1340,7 +1377,8 @@ Reference <a href="/web-doxygen/docs/api/files/src/outputgen-h/#a4e0517338e6c4a3
 
 
 
-Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1376,7 +1414,8 @@ Definition at line 56 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 
 
 
-Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 118 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1418,9 +1457,11 @@ Declaration at line 40 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a75891545c949b2c3db89850c160323c9">m\_col</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.
+<p>References <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a16362990092a086b505e08f102df4dff">QCString::length</a>, <a href="#a75891545c949b2c3db89850c160323c9">m_col</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a> and <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a>.</p>
 
-Referenced by <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+
+<p>Referenced by <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1449,7 +1490,8 @@ Referenced by <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
 
 
 
-Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1500,7 +1542,8 @@ Declaration at line 51 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config\_getBool</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a75891545c949b2c3db89850c160323c9">m\_col</a>, <a href="#ab348c86fa73f25281059dbe00a817de8">m\_doxyCodeLineOpen</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m\_hide</a>, <a href="#a697b91aac1591633a24b3cb8cc0f00c7">m\_sourceFileName</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m\_t</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a> and <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad7a42037733e8c79">Config_getBool</a>, <a href="/web-doxygen/docs/api/files/src/types-h/#a55cbcb91fc25e3a2e785b8a30309843ca7a1920d61156abc05a60135aefe8bc67">Default</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a621c4090d69ad7d05ef8e5234376c3d8">QCString::isEmpty</a>, <a href="#a75891545c949b2c3db89850c160323c9">m_col</a>, <a href="#ab348c86fa73f25281059dbe00a817de8">m_doxyCodeLineOpen</a>, <a href="#a9124cbd0d8cf72cbcf4c130ea27ad9e3">m_hide</a>, <a href="#a697b91aac1591633a24b3cb8cc0f00c7">m_sourceFileName</a>, <a href="#afcd69ebb04780edf96653d5210e3e93a">m_t</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#a0a6a8fe99e596b149ee15138fa8dcf0c">QCString::prepend</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-h/#a0de8a7e9fdf9ae4c06959f6bc834b12c">rtfFormatBmkStr</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#aa2dccf89cb25346c3ee81d75aa5859da">QCString::sprintf</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a73d2ea8014e5ac678dac39cfd56ba148">stripExtensionGeneral</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a3d37ec79f266698bd836af54ba75e63e">stripPath</a> and <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a>.</p>
+
 </div>
 </div>
 
@@ -1530,7 +1573,8 @@ References <a href="/web-doxygen/docs/api/files/src/config-h/#a5373d0332a31f16ad
 
 
 
-Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1573,7 +1617,8 @@ Definition at line 44 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 
 
 
-Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 323 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1586,9 +1631,11 @@ Declaration at line 66 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-References <a href="#a921dd4db8b6b1ac387ab437acba47707">m\_indentLevel</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a94577da729b999a4d3bd80e36a4d8d01">makeIndexName</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a0e6daceda067f191c8ec56f44ec2486f">rtf\_Style</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.
+<p>References <a href="#a921dd4db8b6b1ac387ab437acba47707">m_indentLevel</a>, <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp/#a94577da729b999a4d3bd80e36a4d8d01">makeIndexName</a>, <a href="/web-doxygen/docs/api/files/src/rtfstyle-cpp/#a0e6daceda067f191c8ec56f44ec2486f">rtf_Style</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a875e9ad762554ef12f3ed69b015bb245">QCString::str</a>.</p>
 
-Referenced by <a href="#acd2fed43ebf5f693abe84471a520cbe9">startCodeFragment</a>.
+
+<p>Referenced by <a href="#acd2fed43ebf5f693abe84471a520cbe9">startCodeFragment</a>.</p>
+
 </div>
 </div>
 
@@ -1617,7 +1664,8 @@ Referenced by <a href="#acd2fed43ebf5f693abe84471a520cbe9">startCodeFragment</a>
 
 
 
-Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1626,7 +1674,8 @@ Definition at line 65 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Reference <a href="#a921dd4db8b6b1ac387ab437acba47707">m\_indentLevel</a>.
+<p>Reference <a href="#a921dd4db8b6b1ac387ab437acba47707">m_indentLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1650,7 +1699,8 @@ Reference <a href="#a921dd4db8b6b1ac387ab437acba47707">m\_indentLevel</a>.
 
 
 
-Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.
+<p>Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>, definition at line 329 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-cpp">rtfgen.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1662,7 +1712,8 @@ Declaration at line 64 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h
 </div>
 
 
-Reference <a href="#a697b91aac1591633a24b3cb8cc0f00c7">m\_sourceFileName</a>.
+<p>Reference <a href="#a697b91aac1591633a24b3cb8cc0f00c7">m_sourceFileName</a>.</p>
+
 </div>
 </div>
 
@@ -1692,7 +1743,8 @@ Reference <a href="#a697b91aac1591633a24b3cb8cc0f00c7">m\_sourceFileName</a>.
 
 
 
-Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1701,7 +1753,8 @@ Definition at line 67 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+<p>Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1725,7 +1778,8 @@ Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="
 
 
 
-Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1734,7 +1788,8 @@ Definition at line 69 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+<p>Referenced by <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1758,7 +1813,8 @@ Referenced by <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a h
 
 
 
-Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1767,7 +1823,8 @@ Definition at line 73 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#a31c5cecf17f3b5990f3067cf496dac27">endFontClass</a>, <a href="#a891dfe307b78d603e45af2d040ea0c87">endSpecialComment</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a>, <a href="#a143683b28b248b9cf805d5de8291dafc">startFontClass</a>, <a href="#a0f4b245cc593c7c67fb89c75a84aedeb">startSpecialComment</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+<p>Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#a31c5cecf17f3b5990f3067cf496dac27">endFontClass</a>, <a href="#a891dfe307b78d603e45af2d040ea0c87">endSpecialComment</a>, <a href="#afb7e1908fdb078a776f7a4e716a2af0d">startCodeLine</a>, <a href="#a143683b28b248b9cf805d5de8291dafc">startFontClass</a>, <a href="#a0f4b245cc593c7c67fb89c75a84aedeb">startSpecialComment</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1791,7 +1848,8 @@ Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="
 
 
 
-Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1800,7 +1858,8 @@ Definition at line 71 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#a5b9f9d4a335e0e68bad617fdceb9e318">rtf\_Code\_DepthStyle</a> and <a href="#a8f35cbfdc0b306326588c24eb4d10a35">setIndentLevel</a>.
+<p>Referenced by <a href="#a5b9f9d4a335e0e68bad617fdceb9e318">rtf_Code_DepthStyle</a> and <a href="#a8f35cbfdc0b306326588c24eb4d10a35">setIndentLevel</a>.</p>
+
 </div>
 </div>
 
@@ -1824,7 +1883,8 @@ Referenced by <a href="#a5b9f9d4a335e0e68bad617fdceb9e318">rtf\_Code\_DepthStyle
 
 
 
-Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1833,7 +1893,8 @@ Definition at line 70 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#ac302b174a0b6cd7df8b60723547a5ce0">setSourceFileName</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+<p>Referenced by <a href="#ac302b174a0b6cd7df8b60723547a5ce0">setSourceFileName</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 
@@ -1857,7 +1918,8 @@ Referenced by <a href="#ac302b174a0b6cd7df8b60723547a5ce0">setSourceFileName</a>
 
 
 
-Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1866,7 +1928,8 @@ Definition at line 72 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#a0f4b245cc593c7c67fb89c75a84aedeb">startSpecialComment</a> and <a href="#abd371b8a7acdf7427d7b4f9cc8bc3231">stripCodeComments</a>.
+<p>Referenced by <a href="#a0f4b245cc593c7c67fb89c75a84aedeb">startSpecialComment</a> and <a href="#abd371b8a7acdf7427d7b4f9cc8bc3231">stripCodeComments</a>.</p>
+
 </div>
 </div>
 
@@ -1890,7 +1953,8 @@ Referenced by <a href="#a0f4b245cc593c7c67fb89c75a84aedeb">startSpecialComment</
 
 
 
-Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1899,7 +1963,8 @@ Definition at line 74 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a> and <a href="#aebf0034f47d236730c2764d1b2e89b8d">setStripIndentAmount</a>.
+<p>Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a> and <a href="#aebf0034f47d236730c2764d1b2e89b8d">setStripIndentAmount</a>.</p>
+
 </div>
 </div>
 
@@ -1923,7 +1988,8 @@ Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a> and <a hre
 
 
 
-Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.
+<p>Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h">rtfgen.h</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1932,7 +1998,8 @@ Definition at line 68 of file <a href="/web-doxygen/docs/api/files/src/rtfgen-h"
 </div>
 
 
-Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#a511d5ad66a598b2607224d1d1b1a931e">endCodeFragment</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#a31c5cecf17f3b5990f3067cf496dac27">endFontClass</a>, <a href="#a86dfb5f62e2531755d74de099a120b19">RTFCodeGenerator</a>, <a href="#ab9e521914ea828acf5b5850541d643c8">setTextStream</a>, <a href="#acd2fed43ebf5f693abe84471a520cbe9">startCodeFragment</a>, <a href="#a143683b28b248b9cf805d5de8291dafc">startFontClass</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.
+<p>Referenced by <a href="#acaccd6e77d3f7f597669a7c541b623a1">codify</a>, <a href="#a511d5ad66a598b2607224d1d1b1a931e">endCodeFragment</a>, <a href="#a11cbf22fd1343432cfeaf915b61a6635">endCodeLine</a>, <a href="#a31c5cecf17f3b5990f3067cf496dac27">endFontClass</a>, <a href="#a86dfb5f62e2531755d74de099a120b19">RTFCodeGenerator</a>, <a href="#ab9e521914ea828acf5b5850541d643c8">setTextStream</a>, <a href="#acd2fed43ebf5f693abe84471a520cbe9">startCodeFragment</a>, <a href="#a143683b28b248b9cf805d5de8291dafc">startFontClass</a>, <a href="#a2d50b342c2ca0801234fb76838f7e880">writeCodeLink</a> and <a href="#ad7fd3e3cc19d62798aa65d318a42e47c">writeLineNumber</a>.</p>
+
 </div>
 </div>
 

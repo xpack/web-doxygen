@@ -518,7 +518,8 @@ class NamespaceDefAliasImpl { ... }
 </table>
 
 
-Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxySectionDef">
 
@@ -549,7 +550,8 @@ Definition at line 185 of file <a href="/web-doxygen/docs/api/files/src/namespac
 
 
 
-Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -559,7 +561,8 @@ Definition at line 188 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; NamespaceDef &gt;::DefinitionAliasMixin</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; NamespaceDef &gt;::init</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da7bbbbc6825f6697fab75eb8e8">DefinitionAliasMixin&lt; NamespaceDef &gt;::DefinitionAliasMixin</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#addb92cda4aaedc984532ef5e0f71d600">DefinitionAliasMixin&lt; NamespaceDef &gt;::init</a>.</p>
+
 </div>
 </div>
 
@@ -594,7 +597,8 @@ References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#afd1a5da
 
 
 
-Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -603,7 +607,8 @@ Definition at line 190 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; NamespaceDef &gt;::deinit</a>.
+<p>Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9a116f204cf848b3bceb1608f">DefinitionAliasMixin&lt; NamespaceDef &gt;::deinit</a>.</p>
+
 </div>
 </div>
 
@@ -640,9 +645,11 @@ Reference <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a42da11d9
 
 
 
-Returns the anchor within a page where this item can be found
+<p>Returns the anchor within a page where this item can be found</p>
 
-Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -652,7 +659,8 @@ Definition at line 202 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a22cfb2336871604">Definition::anchor</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -683,9 +691,11 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a56e91f9b76f41208a
 
 
 
-Used for syntax highlighting symbol class
+<p>Used for syntax highlighting symbol class</p>
 
-Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -695,7 +705,8 @@ Definition at line 198 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca75eabad07e8ebed6">Definition::codeSymbolType</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -725,7 +736,8 @@ References <a href="/web-doxygen/docs/api/classes/definition/#ac94212137110d5ca7
 
 
 
-Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -735,7 +747,8 @@ Definition at line 256 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a6189830ef990cb1f6c91c8df8e4885cd">NamespaceDef::compoundTypeString</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a6189830ef990cb1f6c91c8df8e4885cd">NamespaceDef::compoundTypeString</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -765,7 +778,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a6189830ef990cb1
 
 
 
-Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -775,7 +789,8 @@ Definition at line 258 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#aa7a3c112d07ba84402099c66a6bda130">NamespaceDef::countVisibleMembers</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#aa7a3c112d07ba84402099c66a6bda130">NamespaceDef::countVisibleMembers</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -806,9 +821,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#aa7a3c112d07ba84
 
 
 
-Use this for dynamic inspection of the type of the derived class
+<p>Use this for dynamic inspection of the type of the derived class</p>
 
-Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -817,9 +834,11 @@ Definition at line 193 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>.
+<p>References <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a> and <a href="/web-doxygen/docs/api/classes/definition/#aa41b6bc53dcf93ecf745698aaf15ef8ea35a2dfa1d3ce6c023cbddb4af2cd18bc">Definition::TypeNamespace</a>.</p>
 
-Referenced by <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a>.
+
+<p>Referenced by <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a>.</p>
+
 </div>
 </div>
 
@@ -850,9 +869,11 @@ Referenced by <a href="#a4d1f276b6eb71122e2ebb70e7a76c0ab">definitionType</a>.
 
 
 
-Returns the name of the definition as it appears in the output
+<p>Returns the name of the definition as it appears in the output</p>
 
-Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -862,7 +883,8 @@ Definition at line 210 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac849416c926bc0f8cd8bbb1f76c22833">makeDisplayName</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.
+<p>References <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac849416c926bc0f8cd8bbb1f76c22833">makeDisplayName</a> and <a href="/web-doxygen/docs/api/files/src/qcstring-h/#aa8cecfc5c5c054d2875c03e77b7be15d">TRUE</a>.</p>
+
 </div>
 </div>
 
@@ -892,7 +914,8 @@ References <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ac849416c9
 
 
 
-Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -902,7 +925,8 @@ Definition at line 230 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definition/#a99240810ee50ab17c2cb21b56651cf09">Definition::findInnerCompound</a>, <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a00c58ec375d3017160c860d290133c5e">DefinitionAliasMixin&lt; NamespaceDef &gt;::name</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definition/#a99240810ee50ab17c2cb21b56651cf09">Definition::findInnerCompound</a>, <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a00c58ec375d3017160c860d290133c5e">DefinitionAliasMixin&lt; NamespaceDef &gt;::name</a>.</p>
+
 </div>
 </div>
 
@@ -933,9 +957,11 @@ References <a href="/web-doxygen/docs/api/classes/definition/#a99240810ee50ab17c
 
 
 
-Returns the classes contained in this namespace
+<p>Returns the classes contained in this namespace</p>
 
-Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -945,7 +971,8 @@ Definition at line 242 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b45fc87beed091688d5">NamespaceDef::getClasses</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -976,9 +1003,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#ad43237a69f056b4
 
 
 
-Returns the concepts contained in this namespace
+<p>Returns the concepts contained in this namespace</p>
 
-Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -988,7 +1017,8 @@ Definition at line 252 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0f829b7866cce931dc">NamespaceDef::getConcepts</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0f829b7866cce931dc">NamespaceDef::getConcepts</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1019,9 +1049,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a393d5ddac9a98c0
 
 
 
-Returns the Slice exceptions contained in this namespace
+<p>Returns the Slice exceptions contained in this namespace</p>
 
-Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1031,7 +1063,8 @@ Definition at line 248 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a7cf1f663e03f57dd359aaacf71c2e3be">NamespaceDef::getExceptions</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a7cf1f663e03f57dd359aaacf71c2e3be">NamespaceDef::getExceptions</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1062,9 +1095,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a7cf1f663e03f57d
 
 
 
-Returns the Slice interfaces contained in this namespace
+<p>Returns the Slice interfaces contained in this namespace</p>
 
-Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1074,7 +1109,8 @@ Definition at line 244 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#ae5d69194a246277c1ac27efe392a085c">NamespaceDef::getInterfaces</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#ae5d69194a246277c1ac27efe392a085c">NamespaceDef::getInterfaces</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1104,7 +1140,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#ae5d69194a246277
 
 
 
-Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1114,7 +1151,8 @@ Definition at line 238 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefde162e271a1d9e6b24">NamespaceDef::getMemberByName</a>, <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a00c58ec375d3017160c860d290133c5e">DefinitionAliasMixin&lt; NamespaceDef &gt;::name</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefde162e271a1d9e6b24">NamespaceDef::getMemberByName</a>, <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a00c58ec375d3017160c860d290133c5e">DefinitionAliasMixin&lt; NamespaceDef &gt;::name</a>.</p>
+
 </div>
 </div>
 
@@ -1145,9 +1183,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#abfeac05d3bebefd
 
 
 
-Returns the user defined member groups
+<p>Returns the user defined member groups</p>
 
-Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1157,7 +1197,8 @@ Definition at line 240 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f44997b866855615199">NamespaceDef::getMemberGroups</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1187,7 +1228,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#aedf62c808c557f4
 
 
 
-Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1197,7 +1239,8 @@ Definition at line 234 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9275729a7e9b5b4b07">NamespaceDef::getMemberList</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9275729a7e9b5b4b07">NamespaceDef::getMemberList</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1227,7 +1270,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a2a67c423c453ef9
 
 
 
-Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1237,7 +1281,8 @@ Definition at line 236 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f6562cb5f19d69c023">NamespaceDef::getMemberLists</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f6562cb5f19d69c023">NamespaceDef::getMemberLists</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1268,9 +1313,11 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a8d1b06c7331164f
 
 
 
-Returns the namespaces contained in this namespace
+<p>Returns the namespaces contained in this namespace</p>
 
-Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1280,7 +1327,8 @@ Definition at line 250 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82ebcdf2598a63e1d8d">NamespaceDef::getNamespaces</a> and <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a>.</p>
+
 </div>
 </div>
 
@@ -1309,7 +1357,8 @@ References <a href="/web-doxygen/docs/api/classes/namespacedef/#a948889b7a35fb82
 
 
 
-Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1318,9 +1367,11 @@ Definition at line 195 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; NamespaceDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>.
+<p>References <a href="/web-doxygen/docs/api/classes/definitionaliasmixin/#a69970921105b4e7d6aebca0b297a9393">DefinitionAliasMixin&lt; NamespaceDef &gt;::getAlias</a> and <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp/#ae303e4de18684cb3d0c72d936cc0654f">toNamespaceDef</a>.</p>
 
-Referenced by <a href="#a7dfc149d0ae08e80b0698dde86a26056">anchor</a>, <a href="#ae9b064c5cee03ea7819b736a04062bbb">codeSymbolType</a>, <a href="#acdd0830790b3ade8b139295f5e270394">compoundTypeString</a>, <a href="#a9ca40f072f59d9b013f8e770ef5d1751">countVisibleMembers</a>, <a href="#afdd49ceb450b44ed5e961e404ea70a00">findInnerCompound</a>, <a href="#a45886353b1f74fbdcec6478a26041092">getClasses</a>, <a href="#a31117c3b465c0c6a8d06e6332a3cda7b">getConcepts</a>, <a href="#a1fa88b18ae9b86334d933ba175a2fd52">getExceptions</a>, <a href="#a077d79523e5fbede6237ec022af237f4">getInterfaces</a>, <a href="#a21b0ea6a1dcb7167b6a625fd1b26f47e">getMemberByName</a>, <a href="#a86082636b09077cb1280285678e08438">getMemberGroups</a>, <a href="#ac4301785a516040bcf0c15927a4e1c42">getMemberList</a>, <a href="#aecb3ff5ed5682451aa92a143b76934e4">getMemberLists</a>, <a href="#ad1a0e44c6927b35bd8f268e29cb468c9">getNamespaces</a>, <a href="#a2f6b5f5e7d6f57e0f4bb8031e2e70a5b">getOutputFileBase</a>, <a href="#a304b7989f19c9fefd6eac47b731ff6ee">getStructs</a>, <a href="#a88f2c51032a15c826827e87c0be4061d">getUsedDefinitions</a>, <a href="#ad4138e1c20e5c0bde1e3f7ce79f07381">getUsedNamespaces</a>, <a href="#ac1287ef8f39810abb59b45998b43011a">hasDetailedDescription</a>, <a href="#af4e92fc2fdb6572e50fd93bd492e3884">isConstantGroup</a>, <a href="#ace55b80d09d93f88a247ea51577567b4">isInline</a>, <a href="#ac0dd979289f75812099f1982e1a860aa">isLibrary</a>, <a href="#a84e3bc8b6ed7353270fb6e317ad12e3f">isLinkable</a>, <a href="#a574d1f66c8e7fa3cc9e9114eb7480368">isLinkableInProject</a>, <a href="#acd2f8b1c562b8399379593fe3f7c5478">isModule</a>, <a href="#ac2d05724ca7618644365d49b32acfee7">isVisibleInHierarchy</a>, <a href="#aab05b673d773d427f8db2c868f251d2c">localName</a>, <a href="#a8064863d62950847194fb6bf9e0b8e1f">numDocMembers</a>, <a href="#a134d46b504ba3d3c9c3318d302627494">subGrouping</a> and <a href="#a621e8fd95932df699d95999b32c6fcb7">title</a>.
+
+<p>Referenced by <a href="#a7dfc149d0ae08e80b0698dde86a26056">anchor</a>, <a href="#ae9b064c5cee03ea7819b736a04062bbb">codeSymbolType</a>, <a href="#acdd0830790b3ade8b139295f5e270394">compoundTypeString</a>, <a href="#a9ca40f072f59d9b013f8e770ef5d1751">countVisibleMembers</a>, <a href="#afdd49ceb450b44ed5e961e404ea70a00">findInnerCompound</a>, <a href="#a45886353b1f74fbdcec6478a26041092">getClasses</a>, <a href="#a31117c3b465c0c6a8d06e6332a3cda7b">getConcepts</a>, <a href="#a1fa88b18ae9b86334d933ba175a2fd52">getExceptions</a>, <a href="#a077d79523e5fbede6237ec022af237f4">getInterfaces</a>, <a href="#a21b0ea6a1dcb7167b6a625fd1b26f47e">getMemberByName</a>, <a href="#a86082636b09077cb1280285678e08438">getMemberGroups</a>, <a href="#ac4301785a516040bcf0c15927a4e1c42">getMemberList</a>, <a href="#aecb3ff5ed5682451aa92a143b76934e4">getMemberLists</a>, <a href="#ad1a0e44c6927b35bd8f268e29cb468c9">getNamespaces</a>, <a href="#a2f6b5f5e7d6f57e0f4bb8031e2e70a5b">getOutputFileBase</a>, <a href="#a304b7989f19c9fefd6eac47b731ff6ee">getStructs</a>, <a href="#a88f2c51032a15c826827e87c0be4061d">getUsedDefinitions</a>, <a href="#ad4138e1c20e5c0bde1e3f7ce79f07381">getUsedNamespaces</a>, <a href="#ac1287ef8f39810abb59b45998b43011a">hasDetailedDescription</a>, <a href="#af4e92fc2fdb6572e50fd93bd492e3884">isConstantGroup</a>, <a href="#ace55b80d09d93f88a247ea51577567b4">isInline</a>, <a href="#ac0dd979289f75812099f1982e1a860aa">isLibrary</a>, <a href="#a84e3bc8b6ed7353270fb6e317ad12e3f">isLinkable</a>, <a href="#a574d1f66c8e7fa3cc9e9114eb7480368">isLinkableInProject</a>, <a href="#acd2f8b1c562b8399379593fe3f7c5478">isModule</a>, <a href="#ac2d05724ca7618644365d49b32acfee7">isVisibleInHierarchy</a>, <a href="#aab05b673d773d427f8db2c868f251d2c">localName</a>, <a href="#a8064863d62950847194fb6bf9e0b8e1f">numDocMembers</a>, <a href="#a134d46b504ba3d3c9c3318d302627494">subGrouping</a> and <a href="#a621e8fd95932df699d95999b32c6fcb7">title</a>.</p>
+
 </div>
 </div>
 
@@ -1351,9 +1402,11 @@ Referenced by <a href="#a7dfc149d0ae08e80b0698dde86a26056">anchor</a>, <a href="
 
 
 
-Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.
+<p>Returns the base file name (without extension) of this definition. as it is referenced to/written to disk.</p>
 
-Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1363,7 +1416,8 @@ Definition at line 200 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#acabecdc6bfda2015811eed5f3436322d">Definition::getOutputFileBase</a>.</p>
+
 </div>
 </div>
 
@@ -1394,9 +1448,11 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Returns the Slice structs contained in this namespace
+<p>Returns the Slice structs contained in this namespace</p>
 
-Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1406,7 +1462,8 @@ Definition at line 246 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a5c5e7b84cb85d95090306d81ec55a676">NamespaceDef::getStructs</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a5c5e7b84cb85d95090306d81ec55a676">NamespaceDef::getStructs</a>.</p>
+
 </div>
 </div>
 
@@ -1436,7 +1493,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1446,7 +1504,8 @@ Definition at line 208 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ae894d3e60b106c127ed42266ec7d6e83">NamespaceDef::getUsedDefinitions</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ae894d3e60b106c127ed42266ec7d6e83">NamespaceDef::getUsedDefinitions</a>.</p>
+
 </div>
 </div>
 
@@ -1476,7 +1535,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1486,7 +1546,8 @@ Definition at line 206 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a742c3ca27e3383a1495dd972aaf6b43b">NamespaceDef::getUsedNamespaces</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a742c3ca27e3383a1495dd972aaf6b43b">NamespaceDef::getUsedNamespaces</a>.</p>
+
 </div>
 </div>
 
@@ -1516,7 +1577,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1526,7 +1588,8 @@ Definition at line 228 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aaf9627481a1469543ebac09f09af8f31">NamespaceDef::hasDetailedDescription</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aaf9627481a1469543ebac09f09af8f31">NamespaceDef::hasDetailedDescription</a>.</p>
+
 </div>
 </div>
 
@@ -1556,7 +1619,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1566,7 +1630,8 @@ Definition at line 214 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a36bd16cdea38963a5989a39bc8a9a776">NamespaceDef::isConstantGroup</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a36bd16cdea38963a5989a39bc8a9a776">NamespaceDef::isConstantGroup</a>.</p>
+
 </div>
 </div>
 
@@ -1596,7 +1661,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1606,7 +1672,8 @@ Definition at line 220 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ab69a1e5ab023bbf6017a0600c0844977">NamespaceDef::isInline</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ab69a1e5ab023bbf6017a0600c0844977">NamespaceDef::isInline</a>.</p>
+
 </div>
 </div>
 
@@ -1636,7 +1703,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1646,7 +1714,8 @@ Definition at line 218 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a27d90bb7360567e4d376198a164e05f3">NamespaceDef::isLibrary</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a27d90bb7360567e4d376198a164e05f3">NamespaceDef::isLibrary</a>.</p>
+
 </div>
 </div>
 
@@ -1677,9 +1746,11 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.
+<p>Returns TRUE iff it is possible to link to this item. This can be a link to another project imported via a tag file.</p>
 
-Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1689,7 +1760,8 @@ Definition at line 224 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a4002fd79c2d4dcf667c37c83d4214deb">Definition::isLinkable</a>.</p>
+
 </div>
 </div>
 
@@ -1720,9 +1792,11 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Returns TRUE iff it is possible to link to this item within this project.
+<p>Returns TRUE iff it is possible to link to this item within this project.</p>
 
-Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1732,7 +1806,8 @@ Definition at line 222 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a845891c7206d40c3664b562636cdf9fc">Definition::isLinkableInProject</a>.</p>
+
 </div>
 </div>
 
@@ -1762,7 +1837,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1772,7 +1848,8 @@ Definition at line 216 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a987a55277c2c4c9c1c3079eed406b46a">NamespaceDef::isModule</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#a987a55277c2c4c9c1c3079eed406b46a">NamespaceDef::isModule</a>.</p>
+
 </div>
 </div>
 
@@ -1802,7 +1879,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1812,7 +1890,8 @@ Definition at line 226 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ab71f0f1f9f1dc5a1377ebfcd97759d8e">NamespaceDef::isVisibleInHierarchy</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ab71f0f1f9f1dc5a1377ebfcd97759d8e">NamespaceDef::isVisibleInHierarchy</a>.</p>
+
 </div>
 </div>
 
@@ -1843,9 +1922,11 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Returns the local name without any scope qualifiers.
+<p>Returns the local name without any scope qualifiers.</p>
 
-Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+
+<p>Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1855,7 +1936,8 @@ Definition at line 212 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a089d345e288212dc9ceb08ca1d80b4db">Definition::localName</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/definition/#a089d345e288212dc9ceb08ca1d80b4db">Definition::localName</a>.</p>
+
 </div>
 </div>
 
@@ -1885,7 +1967,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1895,7 +1978,8 @@ Definition at line 204 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aaab45b155dd9bed40afe75c89ca43314">NamespaceDef::numDocMembers</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aaab45b155dd9bed40afe75c89ca43314">NamespaceDef::numDocMembers</a>.</p>
+
 </div>
 </div>
 
@@ -1925,7 +2009,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1935,7 +2020,8 @@ Definition at line 232 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aa00feb50dd08718e4bb7d29b86ec3daf">NamespaceDef::subGrouping</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#aa00feb50dd08718e4bb7d29b86ec3daf">NamespaceDef::subGrouping</a>.</p>
+
 </div>
 </div>
 
@@ -1965,7 +2051,8 @@ References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a hr
 
 
 
-Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.
+<p>Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/namespacedef-cpp">namespacedef.cpp</a>.</p>
+
 
 <div class="doxyProgramListing">
 
@@ -1975,7 +2062,8 @@ Definition at line 254 of file <a href="/web-doxygen/docs/api/files/src/namespac
 </div>
 
 
-References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ac592520c3e9e8f2e633b2fae7375ccae">NamespaceDef::title</a>.
+<p>References <a href="#a5be38caca7bbb8eb32defba1f26a15b0">getNSAlias</a> and <a href="/web-doxygen/docs/api/classes/namespacedef/#ac592520c3e9e8f2e633b2fae7375ccae">NamespaceDef::title</a>.</p>
+
 </div>
 </div>
 
