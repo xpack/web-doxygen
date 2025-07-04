@@ -5,11 +5,11 @@
 
 slug: /api/files/src/layout-cpp
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - file
-toc_max_heading_level: 4
 
 ---
 
@@ -77,7 +77,7 @@ toc_max_heading_level: 4
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/anonymous-namespace-layout-cpp-/elementcallbacks">ElementCallbacks</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/anonymous-layout-cpp-/elementcallbacks">ElementCallbacks</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>

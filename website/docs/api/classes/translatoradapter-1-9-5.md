@@ -5,11 +5,11 @@
 
 slug: /api/classes/translatoradapter-1-9-5
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - class
-toc_max_heading_level: 4
 
 ---
 

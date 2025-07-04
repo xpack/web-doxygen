@@ -5,11 +5,11 @@
 
 slug: /api/classes/sectiontype
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - class
-toc_max_heading_level: 4
 
 ---
 
@@ -532,7 +532,7 @@ class SectionType { ... }
 </div>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a04e4220513820012d31302361cf4f24d">anonymous_namespace{tagreader.cpp}::TagFileParser::addDocAnchors</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a8111356e211d82aed6baea53cda91872">addAnchor</a>, <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a04e4220513820012d31302361cf4f24d">anonymous_namespace{tagreader.cpp}::TagFileParser::addDocAnchors</a>, <a href="/web-doxygen/docs/api/files/src/commentscan-l/#ad14a1e786887639d5383cbcd8427bba8">addXRefItem</a>, <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a9a2a4b0accaef9069229937226e60b10">anonymous_namespace{tagreader.cpp}::TagFileParser::buildLists</a>, <a href="/web-doxygen/docs/api/classes/docref/#acb234cd7235b7c61a4c6f9dfd0cd586b">DocRef::DocRef</a>, <a href="/web-doxygen/docs/api/classes/docsecrefitem/#a35c9d6d150e7faaa88ea9ddfbeadb777">DocSecRefItem::parse</a> and <a href="/web-doxygen/docs/api/files/src/commentscan-l/#a6bafa4a87d43212e648582a5355539d0">sectionLevelToType</a>.</p>
 
 </div>
 </div>

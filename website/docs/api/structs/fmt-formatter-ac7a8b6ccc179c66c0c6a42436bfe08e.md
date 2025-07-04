@@ -5,11 +5,11 @@
 
 slug: /api/structs/fmt/formatter-ac7a8b6ccc179c66c0c6a42436bfe08e
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - struct
-toc_max_heading_level: 4
 
 ---
 

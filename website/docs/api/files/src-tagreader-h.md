@@ -5,11 +5,11 @@
 
 slug: /api/files/src/tagreader-h
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - file
-toc_max_heading_level: 4
 
 ---
 
@@ -75,7 +75,7 @@ toc_max_heading_level: 4
 
 <div class="doxyCodeLine"><span class="doxyLineNumber"><a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a3965d52e8078507f0bfd354337">1864</a></span><span class="doxyLineContent"><span class="doxyHighlightKeywordType">void</span><span class="doxyHighlight"> <a href="/web-doxygen/docs/api/files/src/tagreader-cpp/#a1cb67a3965d52e8078507f0bfd354337">parseTagFile</a>(</span><span class="doxyHighlightKeyword">const</span><span class="doxyHighlight"> std::shared_ptr&lt;Entry&gt; &amp;root,</span><span class="doxyHighlightKeyword">const</span><span class="doxyHighlight"> </span><span class="doxyHighlightKeywordType">char</span><span class="doxyHighlight"> *fullName)</span></span></div>
 <div class="doxyCodeLine"><span class="doxyLineNumber">1865</span><span class="doxyLineContent"><span class="doxyHighlight">{</span></span></div>
-<div class="doxyCodeLine"><span class="doxyLineNumber">1866</span><span class="doxyLineContent"><span class="doxyHighlight">  <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a43f4ea41f01f767ade7898b8d69d0f43">TagFileParser</a> tagFileParser(fullName);</span></span></div>
+<div class="doxyCodeLine"><span class="doxyLineNumber">1866</span><span class="doxyLineContent"><span class="doxyHighlight">  <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a43f4ea41f01f767ade7898b8d69d0f43">TagFileParser</a> tagFileParser(fullName);</span></span></div>
 <div class="doxyCodeLine"><span class="doxyLineNumber">1867</span><span class="doxyLineContent"><span class="doxyHighlight">  <a href="/web-doxygen/docs/api/classes/qcstring">QCString</a> inputStr = <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>(fullName);</span></span></div>
 <div class="doxyCodeLine"><span class="doxyLineNumber">1868</span><span class="doxyLineContent"><span class="doxyHighlight">  <a href="/web-doxygen/docs/api/classes/xmlhandlers">XMLHandlers</a> handlers;</span></span></div>
 <div class="doxyCodeLine"><span class="doxyLineNumber">1869</span><span class="doxyLineContent"><span class="doxyHighlight">  </span><span class="doxyHighlightComment">// connect the generic events handlers of the XML parser to the specific handlers of the tagFileParser object</span></span></div>
@@ -101,7 +101,7 @@ toc_max_heading_level: 4
 </div>
 
 
-<p>References <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a895a088f5352bced5cf6a998da7fc06a">XMLHandlers::characters</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a623bc48085a8ced78c3202713a24724e">XMLHandlers::endElement</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#adf5e4d9f4927edb0fb5d1259a4da9960">XMLHandlers::error</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa212cad6fd21d6eb9f0cbc82c1a14e97">Debug::Lex_xml</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/xmlparser/#ad9b0a380760223431fbb84d35a8f12e9">XMLParser::parse</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ae666b94024ae82743cc7b8ae6445e684">XMLHandlers::startDocument</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a75b4fb2c24bd41404fe59c31a6dbd493">XMLHandlers::startElement</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da533ce7b02d8ce4b77e168009734b13d9">Debug::Tag</a> and <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a43f4ea41f01f767ade7898b8d69d0f43">anonymous_namespace{tagreader.cpp}::TagFileParser::TagFileParser</a>.</p>
+<p>References <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a895a088f5352bced5cf6a998da7fc06a">XMLHandlers::characters</a>, <a href="/web-doxygen/docs/api/classes/qcstring/#ac3aa3ac1a1c36d3305eba22a2eb0d098">QCString::data</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a623bc48085a8ced78c3202713a24724e">XMLHandlers::endElement</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#adf5e4d9f4927edb0fb5d1259a4da9960">XMLHandlers::error</a>, <a href="/web-doxygen/docs/api/files/src/util-cpp/#a71d0079fa5936a41b6ff2d1ca5eb5480">fileToString</a>, <a href="/web-doxygen/docs/api/classes/debug/#a96e9401783e852c91f341b3f98198061">Debug::isFlagSet</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7daa212cad6fd21d6eb9f0cbc82c1a14e97">Debug::Lex_xml</a>, <a href="/web-doxygen/docs/api/files/src/message-h/#a8f2cc27e16d343117eb7cdf4e279dbef">msg</a>, <a href="/web-doxygen/docs/api/classes/xmlparser/#ad9b0a380760223431fbb84d35a8f12e9">XMLParser::parse</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#ae666b94024ae82743cc7b8ae6445e684">XMLHandlers::startDocument</a>, <a href="/web-doxygen/docs/api/classes/xmlhandlers/#a75b4fb2c24bd41404fe59c31a6dbd493">XMLHandlers::startElement</a>, <a href="/web-doxygen/docs/api/classes/debug/#a1c3f4696cf44a23f41e034323c426f7da533ce7b02d8ce4b77e168009734b13d9">Debug::Tag</a> and <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a43f4ea41f01f767ade7898b8d69d0f43">anonymous_namespace{tagreader.cpp}::TagFileParser::TagFileParser</a>.</p>
 
 
 <p>Referenced by <a href="/web-doxygen/docs/api/files/src/doxygen-cpp/#a7389d7a8c7a2859d36b88ff0dc477cdb">readTagFile</a>.</p>

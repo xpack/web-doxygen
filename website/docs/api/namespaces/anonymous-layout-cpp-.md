@@ -5,11 +5,11 @@
 
 slug: /api/namespaces/anonymous-layout-cpp-
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - namespace
-toc_max_heading_level: 4
 
 ---
 
@@ -31,7 +31,7 @@ namespace { ... }
 
 <tr class="doxyMemberIndexItem">
 <td class="doxyMemberIndexItemType" align="left" valign="top">struct</td>
-<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/anonymous-namespace-layout-cpp-/elementcallbacks">ElementCallbacks</a></td>
+<td class="doxyMemberIndexItemName" align="left" valign="top"><a href="/web-doxygen/docs/api/structs/anonymous-layout-cpp-/elementcallbacks">ElementCallbacks</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">
 <td class="doxyMemberIndexDescriptionLeft"></td>
@@ -167,7 +167,7 @@ namespace { ... }
 <table class="doxyMembersIndex">
 
 <tr class="doxyMemberIndexItem">
-<td class="doxyMemberIndexItemType" align="left" valign="top">static const std::map&lt; std::string, <a href="/web-doxygen/docs/api/structs/anonymous-namespace-layout-cpp-/elementcallbacks">ElementCallbacks</a> &gt;</td>
+<td class="doxyMemberIndexItemType" align="left" valign="top">static const std::map&lt; std::string, <a href="/web-doxygen/docs/api/structs/anonymous-layout-cpp-/elementcallbacks">ElementCallbacks</a> &gt;</td>
 <td class="doxyMemberIndexItemName" align="left" valign="top"><a href="#a470220b386daeb653bf189ad7b6c419f">g_elementHandlers</a></td>
 </tr>
 <tr class="doxyMemberIndexDescription">

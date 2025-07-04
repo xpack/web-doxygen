@@ -5,11 +5,11 @@
 
 slug: /api/structs/dir/private
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - struct
-toc_max_heading_level: 4
 
 ---
 

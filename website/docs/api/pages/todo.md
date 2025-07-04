@@ -5,11 +5,11 @@
 
 slug: /api/pages/todo
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - page
-toc_max_heading_level: 4
 
 ---
 

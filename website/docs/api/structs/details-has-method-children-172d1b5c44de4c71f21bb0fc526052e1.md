@@ -5,11 +5,11 @@
 
 slug: /api/structs/details/has-method-children-172d1b5c44de4c71f21bb0fc526052e1
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - struct
-toc_max_heading_level: 4
 
 ---
 

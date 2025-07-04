@@ -5,11 +5,11 @@
 
 slug: /api/classes/anchorgenerator
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - class
-toc_max_heading_level: 4
 
 ---
 
@@ -652,7 +652,7 @@ class AnchorGenerator { ... }
 <p>References <a href="/web-doxygen/docs/api/files/src/config-h/#afe899eec751dfb75a60c37ec3840e288">Config_getEnum</a> and <a href="/web-doxygen/docs/api/classes/qcstring/#a1f43c0a4958cf17f086dc0e3a4b13a68">QCString::startsWith</a>.</p>
 
 
-<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-namespace-tagreader-cpp-/tagfileparser/#a5b2c9b8ab174e898f87b90803529766c">anonymous_namespace{tagreader.cpp}::TagFileParser::endDocAnchor</a>.</p>
+<p>Referenced by <a href="/web-doxygen/docs/api/classes/anonymous-tagreader-cpp-/tagfileparser/#a5b2c9b8ab174e898f87b90803529766c">anonymous_namespace{tagreader.cpp}::TagFileParser::endDocAnchor</a>.</p>
 
 </div>
 </div>

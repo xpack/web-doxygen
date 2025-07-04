@@ -5,11 +5,11 @@
 
 slug: /api/folders/libxml
 custom_edit_url: null
+toc_max_heading_level: 4
 keywords:
   - doxygen
   - reference
   - dir
-toc_max_heading_level: 4
 
 ---
 
